@@ -36,9 +36,8 @@ FEEDS = (
     ('Roma', 'RomaToday', 'https://www.romatoday.it/rss'),
     ('Roma', 'Leggo Roma', 'https://www.leggo.it/rss/home.xml'),
     ('Cultura · Teatro · Cinema', 'Teatro e Critica', 'https://www.teatroecritica.net/feed/'),
-    ('Tecnologia · AI', 'HDblog', 'https://www.hdblog.it/feed/'),
-    ('Tecnologia · AI', 'BBC Technology', 'https://feeds.bbci.co.uk/news/technology/rss.xml'),
-    ('Tecnologia · AI', 'The Guardian Technology', 'https://www.theguardian.com/uk/technology/rss'),
+    ('Tecnologia · AI', 'Lega Nerd', 'https://leganerd.com/tecnologie/feed/'),
+    ('Tecnologia · AI', 'MegaNerd', 'https://www.meganerd.it/feed/'),
     ('Sport', 'RaiNews', 'https://www.rainews.it/rss/sport'),
     ('Sport', 'Sky Sport', 'https://sport.sky.it/rss/sport.xml'),
     ('Sport', 'Leggo Sport', 'https://www.leggo.it/rss/sport.xml'),
@@ -218,6 +217,8 @@ def collect(age_hours=72, verify_pages=False, limit=12):
         unique = checked
     selected = []
     for candidate in sorted(unique, key=editorial_rank):
+        if candidate['category'] == 'Tecnologia · AI' and sum(old['category'] == candidate['category'] and old['source'] == candidate['source'] for old in selected) >= max(3, limit // 2):
+            continue
         if sum(old['category'] == candidate['category'] for old in selected) < limit:
             selected.append(candidate)
     unique = selected
@@ -227,6 +228,7 @@ def collect(age_hours=72, verify_pages=False, limit=12):
     return dict(kind='research-candidates-not-an-edition', generatedAt=NOW.isoformat(),
                 ageLimitHours=age_hours, pageAccessChecked=verify_pages,
                 editorialReviewRequired=True, semanticDeduplicationRequired=True,
+                technologySourceRule='3 Lega Nerd + 2 MegaNerd only; direct editorial research if RSS unavailable',
                 counts=counts, insufficientCategories=[c for c, n in counts.items() if n < 5],
                 candidates=unique, photoReferences=photo_refs, errors=errors)
 
@@ -277,6 +279,8 @@ if __name__ == '__main__':
     args.output.write_text(serialize_report(report))
     print(json.dumps(dict(counts=report['counts'], insufficient=report['insufficientCategories'],
                           errors=len(report['errors']), output=str(args.output)), ensure_ascii=False))
-    if report['insufficientCategories']:
+    # Technology has an explicit direct-research route; missing RSS must not discard the other seven pools.
+    # The publication gate still requires all eight fully verified blocks.
+    if any(c != 'Tecnologia · AI' for c in report['insufficientCategories']):
         print(json.dumps({'sourceErrors': report['errors']}, ensure_ascii=False))
         raise SystemExit(2)
