@@ -1,16 +1,16 @@
 {
   "editionDate": "2026-10-27",
-  "checkedAt": "2026-10-27T12:08:12.654Z",
+  "checkedAt": "2026-10-27T12:13:51.423Z",
   "ready": false,
   "completed": [
     "politica",
     "esteri",
     "economia",
-    "cronaca"
+    "cronaca",
+    "roma"
   ],
   "inProgress": [],
   "missing": [
-    "roma",
     "cultura",
     "tecnologia",
     "sport"
@@ -136,6 +136,36 @@
       "category": "Cronaca",
       "title": "Ischia, tre arresti dopo la denuncia di violenze su una persona disabile",
       "eventKey": "ischia-tre-arresti-violenze-persona-disabile-26-ottobre-2026"
+    },
+    {
+      "id": "roma-trasporto-scolastico-riapertura",
+      "category": "Roma",
+      "title": "Roma, riaperte le domande per il trasporto scolastico",
+      "eventKey": "roma-trasporto-scolastico-riapertura-domande-27-ottobre-2026"
+    },
+    {
+      "id": "roma-fascia-verde-proroga",
+      "category": "Roma",
+      "title": "Fascia Verde, prorogate a Roma le limitazioni esistenti",
+      "eventKey": "roma-ztl-fascia-verde-proroga-restrizioni-2026-2027"
+    },
+    {
+      "id": "roma-viadotto-presidenti-ciclabile",
+      "category": "Roma",
+      "title": "Nel III Municipio inaugurati 2,7 km di percorso ciclopedonale",
+      "eventKey": "roma-inaugurazione-viadotto-presidenti-ciclopedonale-26-ottobre-2026"
+    },
+    {
+      "id": "roma-olimpico-piano-viabilita",
+      "category": "Roma",
+      "title": "Roma-Cagliari all'Olimpico, scatta il piano traffico",
+      "eventKey": "roma-cagliari-olimpico-piano-mobilita-27-ottobre-2026"
+    },
+    {
+      "id": "roma-sciopero-atac-30-ottobre",
+      "category": "Roma",
+      "title": "Roma, annunciato lo sciopero del trasporto pubblico del 30 ottobre",
+      "eventKey": "roma-sciopero-usb-trasporti-30-ottobre-2026"
     }
   ],
   "photoCandidates": [
