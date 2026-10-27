@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "id": "2026-10-27-mattina",
+  "id": "2026-10-27-cloud-retry-101929",
   "mode": "live",
   "editionDate": "2026-10-27",
-  "generatedAt": "2026-10-27T09:06:47.006453+00:00",
+  "generatedAt": "2026-10-27T10:19:29.406Z",
   "timezone": "Europe/Rome",
-  "scheduledFor": "2026-10-27T10:10:00+01:00",
+  "scheduledFor": "2026-10-27T07:30:00+01:00",
   "essentialIds": [
     "manovra",
     "israele",
@@ -35,23 +35,23 @@
       "id": "manovra",
       "category": "Politica",
       "status": "verified",
-      "title": "Manovra, il governo punta al via libera di domani",
-      "summary": "La legge di bilancio resta un cantiere: risorse limitate e priorità da conciliare. Le misure discusse non sono ancora definitive.",
+      "title": "Manovra 2027, verso il Consiglio dei ministri del 28 ottobre",
+      "summary": "Dopo il vertice di maggioranza, la legge di bilancio resta aperta su coperture, Irpef, sanità e imprese.",
       "body": [
-        "Il vertice tra la presidente del Consiglio e i leader della maggioranza ha indicato il 28 ottobre come obiettivo per il passaggio in Consiglio dei ministri. La cronaca di RaiNews del 27 ottobre descrive un confronto ancora aperto su spesa e coperture.",
-        "Sanità, famiglie e imprese sono fra i capitoli al centro del negoziato. Le richieste dei partiti vanno distinte dal testo che sarà effettivamente approvato: oggi non sono diritti o agevolazioni già in vigore.",
-        "Da seguire: la versione del provvedimento all’uscita dal Consiglio dei ministri e il successivo esame parlamentare."
+        "RaiNews del 27 ottobre riferisce che la maggioranza punta al via libera del Consiglio dei ministri di domani. Le risorse sono limitate e restano da sciogliere coperture e priorità di spesa.",
+        "Tra le richieste dei partiti figurano sgravi fiscali, incentivi al lavoro, aiuti alle famiglie e interventi sanitari. Non si tratta ancora di misure approvate.",
+        "La Commissione europea ha precisato i limiti per la flessibilità energetica: non potrà essere utilizzata per sussidi a combustibili fossili."
       ],
       "publishedAt": "2026-10-27",
       "eventDate": "2026-10-28",
-      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "verifiedAt": "2026-10-27T10:12:27.382Z",
       "source": {
         "name": "RaiNews",
         "url": "https://www.rainews.it/articoli/2026/10/la-manovra-di-bilancio-domani-in-consiglio-dei-ministri-tra-le-incognite-63370b9f-2e50-496c-830e-86706dc89658.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
-        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora.",
-        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessCheckedAt": "2026-10-27T10:12:27.382Z",
+        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora. Fonte originale consultata sul web; titolo, data editoriale e corpo dell'articolo verificati direttamente; pagina pubblica senza registrazione.",
+        "reviewedBy": "Verifica automatizzata cloud",
         "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
       },
       "image": {
@@ -70,23 +70,23 @@
       "id": "israele",
       "category": "Esteri",
       "status": "verified",
-      "title": "Israele vota: la maggioranza si decide alle urne",
-      "summary": "Seggi aperti per il rinnovo della Knesset. Il voto è in corso: sondaggi e scenari non sono risultati.",
+      "title": "Israele al voto, decisive le alleanze per i 61 seggi",
+      "summary": "Elezioni per la Knesset: nessuno schieramento ha una maggioranza garantita dai sondaggi.",
       "body": [
-        "Gli elettori israeliani sono chiamati a rinnovare il Parlamento. RaiNews riferisce dell’apertura delle urne nella mattina del 27 ottobre e di una competizione dall’esito incerto.",
-        "La maggior parte dei seggi chiude alle 22 locali, le 21 in Italia. Prima della chiusura non ci sono risultati elettorali: exit poll e scrutinio vanno tenuti distinti.",
-        "Perché conta: la distribuzione dei seggi condizionerà la formazione del governo e le scelte regionali. Questa scheda è una fotografia della mattina, non una diretta."
+        "Le elezioni del 27 ottobre rinnovano i 120 seggi della Knesset. Si vota dalle 7 alle 22 locali, secondo la cronaca di RaiNews.",
+        "Il confronto tra il blocco legato a Netanyahu e le opposizioni dovrà tradursi in una coalizione capace di ottenere almeno 61 seggi.",
+        "I sondaggi riportati prima del voto non sono risultati. L'esito ufficiale e gli accordi successivi devono ancora essere verificati."
       ],
       "publishedAt": "2026-10-27",
       "eventDate": "2026-10-27",
-      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "verifiedAt": "2026-10-27T10:12:27.382Z",
       "source": {
         "name": "RaiNews",
-        "url": "https://www.rainews.it/maratona/2026/10/elezioni-israele-27-ottobre-2026-likud-netanyahu-eisenkot-partiti-presidente-medio-oriente-knesset-guerra-coloni-f34b883d-83d4-499c-9bcb-1a8285495044.html",
+        "url": "https://www.rainews.it/articoli/2026/10/israele-voto-rebus-knesset-blocchi-contrapposti-il-duello-netanyahu-eisenkot-e-la-caccia-ai-61-seggi--965cdc67-3383-49ff-b856-0fdcf579fd39.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
-        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora.",
-        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessCheckedAt": "2026-10-27T10:12:27.382Z",
+        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora. Fonte originale consultata sul web; titolo, data editoriale e corpo dell'articolo verificati direttamente; pagina pubblica senza registrazione.",
+        "reviewedBy": "Verifica automatizzata cloud",
         "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
       },
       "image": {
@@ -105,23 +105,23 @@
       "id": "teatri",
       "category": "Cultura · Teatro · Cinema",
       "status": "verified",
-      "title": "Teatri in sciopero: controlla lo spettacolo di stasera",
-      "summary": "La mobilitazione nazionale riguarda dipendenti e scritturati. Le cancellazioni dipendono dalle singole strutture.",
+      "title": "Sciopero dei teatri del 27 ottobre: salari e contratto al centro",
+      "summary": "La mobilitazione nazionale riguarda dipendenti e scritturati. A Milano sono annunciati presìdi e possibili sospensioni degli spettacoli.",
       "body": [
-        "Slc Cgil, Fistel Cisl e Uilfpc Uil hanno proclamato lo sciopero del 27 ottobre dopo l’interruzione del confronto con Federvivo sul rinnovo contrattuale. La vertenza riguarda artisti, tecnici e personale dei teatri.",
-        "Le organizzazioni sindacali e le imprese restano distanti su retribuzioni e recupero del potere d’acquisto. Alcuni territori hanno scelto date alternative nella finestra prevista.",
-        "Per chi ha un biglietto: lo sciopero non equivale alla cancellazione automatica di ogni spettacolo. Consulta il sito del teatro o la biglietteria prima di partire."
+        "RaiNews TGR Lombardia ha documentato il 25 ottobre la mobilitazione nazionale prevista il 27: il settore attende il rinnovo del contratto e diverse strutture hanno annunciato adesioni.",
+        "Nell'articolo si descrivono le condizioni economiche di dipendenti e lavoratori scritturati e l'interruzione delle trattative con Federvivo.",
+        "L'adesione può variare da teatro a teatro. Prima di raggiungere una sala occorre verificare l'effettivo svolgimento dello spettacolo."
       ],
-      "publishedAt": "2026-10-20",
+      "publishedAt": "2026-10-25",
       "eventDate": "2026-10-27",
-      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "verifiedAt": "2026-10-27T10:19:29.406Z",
       "source": {
-        "name": "Teatro.it",
-        "url": "https://www.teatro.it/notizie/teatro/sciopero-dei-teatri-il-27-ottobre-contratti-fermi-da-otto-anni-a-rischio-gli-spettacoli",
+        "name": "RaiNews TGR Lombardia",
+        "url": "https://www.rainews.it/tgr/lombardia/video/2026/10/sciopero-spettacolo-29a6830d-70cd-4509-a819-d29e13b5dd93.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
-        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora.",
-        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessCheckedAt": "2026-10-27T10:19:29.406Z",
+        "dateEvidence": "Data e testo visibili nella pagina originale consultata il 27 ottobre 2026, con verifica del contenuto completo e dell'accesso pubblico.",
+        "reviewedBy": "Verifica automatizzata cloud",
         "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
       },
       "image": {
@@ -140,23 +140,23 @@
       "id": "poverta",
       "category": "Economia",
       "status": "verified",
-      "title": "Povertà assoluta, 5,4 milioni di persone nel 2025",
-      "summary": "Il rapporto Istat del 15 ottobre fotografa le difficoltà delle famiglie. È un dato annuale, non una nuova stima di oggi.",
+      "title": "Il rapporto BES 2026 misura il benessere oltre il Pil",
+      "summary": "Il nuovo rapporto ISTAT del 26 ottobre analizza 148 indicatori in 12 domini. I dati descrivono soprattutto il 2025.",
       "body": [
-        "Secondo Istat, nel 2025 la povertà assoluta coinvolge oltre 2,1 milioni di famiglie e circa 5,4 milioni di individui. L’incidenza tra le persone è pari al 9,3%.",
-        "Il rapporto descrive una sostanziale stabilità rispetto al 2024. Questo non significa che la difficoltà economica sia marginale: la misura identifica chi non riesce a sostenere una spesa essenziale.",
-        "Da leggere nel contesto della manovra: il dato riguarda il 2025 ed è stato pubblicato il 15 ottobre 2026. Non misura gli effetti di provvedimenti ancora in discussione."
+        "ISTAT ha presentato il 26 ottobre la tredicesima edizione del rapporto sul Benessere equo e sostenibile: 148 indicatori, articolati in dodici ambiti.",
+        "Il rapporto include salute, lavoro, istruzione, qualità dei servizi, ambiente, sicurezza e condizioni economiche, accanto ad altre dimensioni del benessere.",
+        "La pubblicazione è nuova, ma molte statistiche riguardano il 2025: non devono essere interpretate come risultati misurati oggi."
       ],
-      "publishedAt": "2026-10-15",
+      "publishedAt": "2026-10-26",
       "eventDate": "2025",
-      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "verifiedAt": "2026-10-27T10:12:27.382Z",
       "source": {
         "name": "Istat",
-        "url": "https://www.istat.it/comunicato-stampa/la-poverta-in-italia-anno-2025/",
+        "url": "https://www.istat.it/comunicato-stampa/nota-stampa-rapporto-bes-edizione-2026/",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
-        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora.",
-        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessCheckedAt": "2026-10-27T10:12:27.382Z",
+        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora. Fonte originale consultata sul web; titolo, data editoriale e corpo dell'articolo verificati direttamente; pagina pubblica senza registrazione.",
+        "reviewedBy": "Verifica automatizzata cloud",
         "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
       },
       "image": {
@@ -184,14 +184,14 @@
       ],
       "publishedAt": "2026-10-20",
       "eventDate": "2026-10-27",
-      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "verifiedAt": "2026-10-27T10:12:27.382Z",
       "source": {
         "name": "Roma Mobilità",
         "url": "https://romamobilita.it/infomobilita/trasporto-scolastico-2026-27-iscrizioni-possibili-dal-27-ottobre/",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
-        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora.",
-        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessCheckedAt": "2026-10-27T10:12:27.382Z",
+        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora. Fonte originale consultata sul web; titolo, data editoriale e corpo dell'articolo verificati direttamente; pagina pubblica senza registrazione.",
+        "reviewedBy": "Verifica automatizzata cloud",
         "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
       },
       "image": {
@@ -218,14 +218,14 @@
       ],
       "publishedAt": "2026-10-26",
       "eventDate": null,
-      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "verifiedAt": "2026-10-27T10:12:27.382Z",
       "source": {
         "name": "Open",
         "url": "https://www.open.online/2026/10/26/guerra-russia-ucraina-26-ott-ultime-notizie-diretta/",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
-        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora.",
-        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessCheckedAt": "2026-10-27T10:12:27.382Z",
+        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora. Fonte originale consultata sul web; titolo, data editoriale e corpo dell'articolo verificati direttamente; pagina pubblica senza registrazione.",
+        "reviewedBy": "Verifica automatizzata cloud",
         "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
       },
       "image": null
@@ -242,14 +242,14 @@
       ],
       "publishedAt": "2026-10-27T02:53:00+01:00",
       "eventDate": null,
-      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "verifiedAt": "2026-10-27T10:12:27.382Z",
       "source": {
         "name": "Rai Televideo",
         "url": "https://www.servizitelevideo.rai.it/televideo/pub/notiziasolotesto.jsp?id=1698533&pagina=523&sottopagina=1",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
-        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora.",
-        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessCheckedAt": "2026-10-27T10:12:27.382Z",
+        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora. Fonte originale consultata sul web; titolo, data editoriale e corpo dell'articolo verificati direttamente; pagina pubblica senza registrazione.",
+        "reviewedBy": "Verifica automatizzata cloud",
         "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
       },
       "image": null
@@ -266,14 +266,14 @@
       ],
       "publishedAt": "2026-10-26",
       "eventDate": null,
-      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "verifiedAt": "2026-10-27T10:12:27.382Z",
       "source": {
         "name": "Istat",
         "url": "https://www.istat.it/produzione-editoriale/rapporto-bes-edizione-2026-il-benessere-equo-e-sostenibile-in-italia/",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
-        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora.",
-        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessCheckedAt": "2026-10-27T10:12:27.382Z",
+        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora. Fonte originale consultata sul web; titolo, data editoriale e corpo dell'articolo verificati direttamente; pagina pubblica senza registrazione.",
+        "reviewedBy": "Verifica automatizzata cloud",
         "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
       },
       "image": null
@@ -290,14 +290,14 @@
       ],
       "publishedAt": "2026-10-26T08:10:00+01:00",
       "eventDate": null,
-      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "verifiedAt": "2026-10-27T10:12:27.382Z",
       "source": {
         "name": "Borsa Italiana · Teleborsa",
         "url": "https://www.borsaitaliana.it/borsa/notizie/teleborsa/finanza/appuntamenti-macroeconomici-settimana-del-26-ottobre-2026-15_2026-10-26_TLB-AUTO.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
-        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora.",
-        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessCheckedAt": "2026-10-27T10:12:27.382Z",
+        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora. Fonte originale consultata sul web; titolo, data editoriale e corpo dell'articolo verificati direttamente; pagina pubblica senza registrazione.",
+        "reviewedBy": "Verifica automatizzata cloud",
         "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
       },
       "image": null
@@ -306,22 +306,23 @@
       "id": "ai-scuola",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "IA a scuola, più uso e più cautela tra i docenti intervistati",
-      "summary": "Nell’indagine INDIRE il 69% dei rispondenti dichiara di usarla. Il campione non rappresenta tutti gli insegnanti italiani.",
+      "title": "Dati aziendali all'asta per addestrare l'intelligenza artificiale",
+      "summary": "Email, chat e codice di aziende chiuse sono diventati materiali ricercati da chi sviluppa sistemi AI, con interrogativi sulla privacy.",
       "body": [
-        "La ricerca pubblicata da INDIRE il 22 ottobre raccoglie le risposte complete di 2.105 docenti. Il 69% dichiara un uso dell’IA nella didattica, contro il 57,4% rilevato nel campione del 2025.",
-        "Il campione non è rappresentativo e il confronto non segue necessariamente gli stessi insegnanti. I risultati segnalano insieme diffusione degli strumenti, domanda di formazione e timori sulle risposte accettate senza verifica."
+        "Open ricostruisce il 25 ottobre il mercato degli archivi digitali delle aziende chiuse, comprese conversazioni di lavoro e codice software.",
+        "L'articolo cita il caso Spirit Airlines, per il quale l'uso dei dati è oggetto di controversie e richieste di anonimizzazione.",
+        "La vicenda pone questioni sulla riservatezza degli ex dipendenti e sulle regole che governano la disponibilità dei dati per l'addestramento."
       ],
-      "publishedAt": "2026-10-22",
+      "publishedAt": "2026-10-25T15:58:00+01:00",
       "eventDate": null,
-      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "verifiedAt": "2026-10-27T10:19:29.406Z",
       "source": {
-        "name": "INDIRE",
-        "url": "https://www.indire.it/2026/10/22/intelligenza-artificiale-a-scuola-luso-tra-i-docenti-sale-dal-574-al-69-secondo-lindagine-indire-e-tecnica-della-scuola/",
+        "name": "Open",
+        "url": "https://www.open.online/2026/10/25/dati-aziendali-fallimenti-addestramento-ai/",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
-        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora.",
-        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessCheckedAt": "2026-10-27T10:19:29.406Z",
+        "dateEvidence": "Data e testo visibili nella pagina originale consultata il 27 ottobre 2026, con verifica del contenuto completo e dell'accesso pubblico.",
+        "reviewedBy": "Verifica automatizzata cloud",
         "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
       },
       "image": null
@@ -338,14 +339,14 @@
       ],
       "publishedAt": "2026-10-27",
       "eventDate": "2026-10-27T11:30:00+01:00",
-      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "verifiedAt": "2026-10-27T10:12:27.382Z",
       "source": {
         "name": "Culture Roma",
         "url": "https://culture.roma.it/appuntamento/passeggiate-romane-del-27-e-28-ottobre-2026/",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
-        "dateEvidence": "Pagina senza data di pubblicazione: publishedAt è qui la data evento, resa esplicita nella UI.",
-        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessCheckedAt": "2026-10-27T10:12:27.382Z",
+        "dateEvidence": "Pagina senza data di pubblicazione: publishedAt è qui la data evento, resa esplicita nella UI. Fonte originale consultata sul web; titolo, data editoriale e corpo dell'articolo verificati direttamente; pagina pubblica senza registrazione.",
+        "reviewedBy": "Verifica automatizzata cloud",
         "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
       },
       "image": null,
@@ -363,14 +364,14 @@
       ],
       "publishedAt": "2026-10-25",
       "eventDate": "2026-10-27",
-      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "verifiedAt": "2026-10-27T10:12:27.382Z",
       "source": {
         "name": "Agenzia statale cinema Ucraina",
         "url": "https://www.usfa.gov.ua/press-center/kino-shho-obyednuye-u-rymi-vidbudutsya-dni-ukrainskogo-ta-polskogo-kino-i15143",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
-        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora.",
-        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessCheckedAt": "2026-10-27T10:12:27.382Z",
+        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora. Fonte originale consultata sul web; titolo, data editoriale e corpo dell'articolo verificati direttamente; pagina pubblica senza registrazione.",
+        "reviewedBy": "Verifica automatizzata cloud",
         "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
       },
       "image": null
@@ -387,14 +388,14 @@
       ],
       "publishedAt": "2026-10-26",
       "eventDate": null,
-      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "verifiedAt": "2026-10-27T10:12:27.382Z",
       "source": {
         "name": "Telenuovo · TgPadova",
         "url": "https://tgpadova.telenuovo.it/cronaca/2026/10/26/video-stra-ritrovato-luomo-di-cui-si-erano-perse-le-tracce",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
-        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora.",
-        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessCheckedAt": "2026-10-27T10:12:27.382Z",
+        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora. Fonte originale consultata sul web; titolo, data editoriale e corpo dell'articolo verificati direttamente; pagina pubblica senza registrazione.",
+        "reviewedBy": "Verifica automatizzata cloud",
         "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
       },
       "image": null
