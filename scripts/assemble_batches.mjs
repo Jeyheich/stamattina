@@ -64,12 +64,13 @@ export function assemble(blocks,today=romeDay(),now=Date.now()){
     state.photosAvailable=photoCandidates.length;
     if(photoCandidates.length<5){state.photosMissing=5-photoCandidates.length;return {state};}
     const leadIds=photoCandidates.slice(0,5).map(a=>a.id),leadSet=new Set(leadIds);
-    const fingerprint=crypto.createHash('sha256').update(JSON.stringify(articles)).digest('hex').slice(0,12);
+    const editionArticles=articles.map(a=>{const copy={...a};if(!leadSet.has(a.id))delete copy.image;return copy;});
+    const fingerprint=crypto.createHash('sha256').update(JSON.stringify(editionArticles)).digest('hex').slice(0,12);
     // Derive the date's UTC offset from Europe/Rome; do not assume winter time.
     const offset=new Intl.DateTimeFormat('en',{timeZone:'Europe/Rome',timeZoneName:'longOffset'}).formatToParts(new Date(today+'T12:00:00Z')).find(x=>x.type==='timeZoneName').value.replace('GMT','');
     const edition={schemaVersion:1,id:today+'-batches-'+fingerprint,mode:'live',editionDate:today,
       generatedAt:new Date(now).toISOString(),timezone:'Europe/Rome',scheduledFor:today+'T07:30:00'+offset,
-      essentialIds:leadIds,leadIds,compactIds:articles.filter(a=>!leadSet.has(a.id)).map(a=>a.id),articles};
+      essentialIds:leadIds,leadIds,compactIds:articles.filter(a=>!leadSet.has(a.id)).map(a=>a.id),articles:editionArticles};
     validate(edition,true,true);state.ready=true;state.editionId=edition.id;return {state,edition};
   }catch(e){state.invalid.push({slug:'edition',reason:e.message});return {state};}
 }

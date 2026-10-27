@@ -24,6 +24,8 @@ assert.equal(assemble(progress,today,now).edition,undefined);assert.deepEqual(as
 const complete=assemble(blocks,today,now);assert.equal(complete.state.ready,true);
 assert.equal(complete.edition.articles.length,40);assert.equal(complete.edition.compactIds.length,35);
 assert.equal(complete.edition.leadIds.length,5);
+const extraPhoto=structuredClone(blocks);extraPhoto.sport.articles[0].image=structuredClone(photos[0]);extraPhoto.sport.articles[0].image.sourceUrl+='?fixture=distinct';
+const pruned=assemble(extraPhoto,today,now);assert.equal(pruned.edition.articles.filter(a=>a.image).length,5,'Le compatte restano compatte e solo le cinque foto pubblicate vengono selezionate');
 assert.equal(assemble(blocks,today,now+10000).edition.id,complete.edition.id,'Una ripresa immutata mantiene id edizione');
 const yesterday=structuredClone(blocks);yesterday.roma.editionDate='2000-01-01';assert.equal(assemble(yesterday,today,now).edition,undefined);
 const expired=structuredClone(blocks);expired.roma.completedAt=new Date(now-14400000).toISOString();assert.equal(assemble(expired,today,now).edition,undefined);
