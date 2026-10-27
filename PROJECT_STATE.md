@@ -49,3 +49,9 @@ Tutto Europe/Rome: tre attività rassegna, sei avvii giornalieri.
 - Test mirati passati: un blocco nuovo + sette vecchi NON pubblica, otto del nuovo ciclo pubblicano, cicli discordanti bloccano; test precedenti ancora passati. Commit gate 5774ce2, test 60bba81, procedura d7da5e1.
 - Esito ancora futuro: quattro avvii, otto blocchi e pubblicazione vanno osservati; non dichiarare liberato uno slot o prova riuscita sulla sola pianificazione. Backup prompt principale in work/afternoon/main-task-before.json. Non ripetere la prova ogni giorno automaticamente.
 - Procedura GitHub confermata presente dopo il salvataggio dei calendari (il primo controllo nativo l’aveva letta prima della creazione). Prompt finali conservati in work/afternoon/. Nessuna ricerca avviata manualmente: si attende il test realmente programmato.
+
+## Tecnologia — fonti tre/due
+- Nuova richiesta: esattamente tre notizie Lega Nerd e due MegaNerd, superate le vecchie fonti, anche al prossimo avvio pomeridiano 17:05. Categoria UI conservata; MegaNerd cultura nerd dichiarata senza inventare AI.
+- Feed Lega Nerd generale/tecnologia e MegaNerd provati: HTTP 403. Home Lega Nerd leggibile con web, home MegaNerd bloccata al tentativo diretto; ricerca editoriale articolo per articolo necessaria. Non dichiarare collaudata la disponibilità di cinque notizie.
+- Raccolta ora usa soltanto i due editori per Tecnologia e conserva spazio per entrambi; se manca solo il pool RSS Tecnologia, consegna comunque il dossier degli altri sette e indica ricerca diretta richiesta. Nessuna deroga al gate finale: servono ancora otto blocchi/40 notizie/fonti realmente verificabili.
+- Rapporto 3/2 richiesto nei due brief letti dalle attività; nessun nuovo avvio o slot. Edizione attuale invariata fino alla produzione verificata successiva.
