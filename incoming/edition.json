@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "2026-10-27-cloud-1012",
+  "id": "2026-10-27-cloud-retry-101929",
   "mode": "live",
   "editionDate": "2026-10-27",
-  "generatedAt": "2026-10-27T10:12:27.382Z",
+  "generatedAt": "2026-10-27T10:19:29.406Z",
   "timezone": "Europe/Rome",
   "scheduledFor": "2026-10-27T07:30:00+01:00",
   "essentialIds": [
@@ -105,22 +105,22 @@
       "id": "teatri",
       "category": "Cultura · Teatro · Cinema",
       "status": "verified",
-      "title": "Sciopero nazionale dei teatri: possibili variazioni agli spettacoli",
-      "summary": "La vertenza riguarda salari e rinnovo contrattuale. Le eventuali cancellazioni dipendono dai singoli teatri.",
+      "title": "Sciopero dei teatri del 27 ottobre: salari e contratto al centro",
+      "summary": "La mobilitazione nazionale riguarda dipendenti e scritturati. A Milano sono annunciati presìdi e possibili sospensioni degli spettacoli.",
       "body": [
-        "Il 27 ottobre è la data nazionale della mobilitazione proclamata da Slc Cgil, Fistel Cisl e Uilfpc Uil, come ricostruito da Teatro.it.",
-        "La protesta coinvolge figure artistiche, tecniche e amministrative dopo la rottura del negoziato con Federvivo.",
-        "Non tutti gli spettacoli sono automaticamente cancellati: prima di partire, gli spettatori devono verificare le comunicazioni delle singole strutture."
+        "RaiNews TGR Lombardia ha documentato il 25 ottobre la mobilitazione nazionale prevista il 27: il settore attende il rinnovo del contratto e diverse strutture hanno annunciato adesioni.",
+        "Nell'articolo si descrivono le condizioni economiche di dipendenti e lavoratori scritturati e l'interruzione delle trattative con Federvivo.",
+        "L'adesione può variare da teatro a teatro. Prima di raggiungere una sala occorre verificare l'effettivo svolgimento dello spettacolo."
       ],
-      "publishedAt": "2026-10-20",
+      "publishedAt": "2026-10-25",
       "eventDate": "2026-10-27",
-      "verifiedAt": "2026-10-27T10:12:27.382Z",
+      "verifiedAt": "2026-10-27T10:19:29.406Z",
       "source": {
-        "name": "Teatro.it",
-        "url": "https://www.teatro.it/notizie/teatro/sciopero-dei-teatri-il-27-ottobre-contratti-fermi-da-otto-anni-a-rischio-gli-spettacoli",
+        "name": "RaiNews TGR Lombardia",
+        "url": "https://www.rainews.it/tgr/lombardia/video/2026/10/sciopero-spettacolo-29a6830d-70cd-4509-a819-d29e13b5dd93.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T10:12:27.382Z",
-        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora. Fonte originale consultata sul web; titolo, data editoriale e corpo dell'articolo verificati direttamente; pagina pubblica senza registrazione.",
+        "accessCheckedAt": "2026-10-27T10:19:29.406Z",
+        "dateEvidence": "Data e testo visibili nella pagina originale consultata il 27 ottobre 2026, con verifica del contenuto completo e dell'accesso pubblico.",
         "reviewedBy": "Verifica automatizzata cloud",
         "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
       },
@@ -306,21 +306,22 @@
       "id": "ai-scuola",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "IA a scuola, più uso e più cautela tra i docenti intervistati",
-      "summary": "Nell’indagine INDIRE il 69% dei rispondenti dichiara di usarla. Il campione non rappresenta tutti gli insegnanti italiani.",
+      "title": "Dati aziendali all'asta per addestrare l'intelligenza artificiale",
+      "summary": "Email, chat e codice di aziende chiuse sono diventati materiali ricercati da chi sviluppa sistemi AI, con interrogativi sulla privacy.",
       "body": [
-        "La ricerca pubblicata da INDIRE il 22 ottobre raccoglie le risposte complete di 2.105 docenti. Il 69% dichiara un uso dell’IA nella didattica, contro il 57,4% rilevato nel campione del 2025.",
-        "Il campione non è rappresentativo e il confronto non segue necessariamente gli stessi insegnanti. I risultati segnalano insieme diffusione degli strumenti, domanda di formazione e timori sulle risposte accettate senza verifica."
+        "Open ricostruisce il 25 ottobre il mercato degli archivi digitali delle aziende chiuse, comprese conversazioni di lavoro e codice software.",
+        "L'articolo cita il caso Spirit Airlines, per il quale l'uso dei dati è oggetto di controversie e richieste di anonimizzazione.",
+        "La vicenda pone questioni sulla riservatezza degli ex dipendenti e sulle regole che governano la disponibilità dei dati per l'addestramento."
       ],
-      "publishedAt": "2026-10-22",
+      "publishedAt": "2026-10-25T15:58:00+01:00",
       "eventDate": null,
-      "verifiedAt": "2026-10-27T10:12:27.382Z",
+      "verifiedAt": "2026-10-27T10:19:29.406Z",
       "source": {
-        "name": "INDIRE",
-        "url": "https://www.indire.it/2026/10/22/intelligenza-artificiale-a-scuola-luso-tra-i-docenti-sale-dal-574-al-69-secondo-lindagine-indire-e-tecnica-della-scuola/",
+        "name": "Open",
+        "url": "https://www.open.online/2026/10/25/dati-aziendali-fallimenti-addestramento-ai/",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T10:12:27.382Z",
-        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora. Fonte originale consultata sul web; titolo, data editoriale e corpo dell'articolo verificati direttamente; pagina pubblica senza registrazione.",
+        "accessCheckedAt": "2026-10-27T10:19:29.406Z",
+        "dateEvidence": "Data e testo visibili nella pagina originale consultata il 27 ottobre 2026, con verifica del contenuto completo e dell'accesso pubblico.",
         "reviewedBy": "Verifica automatizzata cloud",
         "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
       },
