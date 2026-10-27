@@ -24,3 +24,9 @@
 - Raccolta: python3 scripts/collect_candidates.py --verify-pages --output <percorso>; solo libreria standard. Errori su categorie con meno di 5 candidati; date mancanti/future escluse, parametri identificativi URL preservati, tracking eliminato. Deduplica titoli è iniziale; stessa notizia con titoli differenti richiede revisione editoriale.
 - Test mirato superato: cinque candidati recenti bloccati non nascondono cinque alternative accessibili più vecchie. Nessuna fixture nel sito.
 - Non riattivare cron una tantum del 27 ottobre; non ripristinare vecchi limiti o layout. Leggere stato remoto prima di modificare: checkout locale conserva intenzionali modifiche e HEAD locale v6, non è automaticamente la baseline remota.
+
+## Ultimo esito verificato
+- Ulteriore raccolta cloud run 40494977265 SUCCESS con fonti Guardian Business/Sport aggiuntive; dossier nuovo effettivamente scritto. Workflow preparazione active, Pages active, vecchio daily disabled_manually.
+- Due prove editoriali dopo il dossier non hanno prodotto la rassegna da 40. Prima: blocchi web su RaiNews/RomaToday/BBC nonostante HTTP valido. Seconda: alternative Adnkronos/Guardian/fonti ufficiali lette, ma la task ha comunque concluso prima di verificare tutte le categorie e foto. Nessun nuovo incoming o edizione pubblica; restano 13 articoli.
+- La sola task ChatGPT NON è dimostrata affidabile come produttore 40 notizie. Evitare ulteriori ripetizioni dello stesso prompt presentate come soluzione. La raccolta 06:00 è collaudata; la task 06:45 resta attiva ma non va promessa una consegna completa alle 07:30.
+- Chiesto a Fabio se il progetto deve restare totalmente gratuito o se valuta un preventivo per elaborazione AI via API sul server. Nessuna API/credenziale/servizio a pagamento introdotto o chiamato. Attendere questa scelta prima di introdurre nuove integrazioni o spese.
