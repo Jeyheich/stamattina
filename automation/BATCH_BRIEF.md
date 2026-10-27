@@ -43,3 +43,6 @@ Le statistiche osservabili sono blocchi, file, orari e tentativi della task. Non
 
 ## Salvataggio del lavoro parziale
 Se hai verificato realmente solo 1–4 notizie, SALVA comunque quelle notizie nel file del tuo blocco come checkpoint, senza inventare le mancanti: status: in-progress, lastAttemptAt reale, completedAt assente, articles con i soli oggetti effettivamente verificati. GitHub lo conserva come parziale e NON pubblica. Al tentativo successivo leggi quel file e aggiungi solo quanto manca, ricontrollando se le verifiche sono scadute (oltre tre ore). Quando arrivi a cinque, rimuovi status in-progress, imposta completedAt reale e conserva i fatti distinti. Anche una notizia verificata va salvata prima di terminare. Un checkpoint parziale non è un blocco completato e non è una rassegna aggiornata.
+
+## Recupero dopo errore di fonte o foto
+Se lo stato riporta blocked/sourceErrors, leggi la causa concreta e ripara soltanto la categoria indicata in invalid: sostituisci il collegamento non leggibile o la foto/licenza errata, mantenendo gli altri fatti effettivamente validi. Una fonte differente sullo stesso fatto conserva eventKey. Non saltare un blocco perché il JSON contiene cinque elementi se lo stato lo segnala invalido. GitHub registra l’errore prima di fermare la pubblicazione: la PWA rimane alla versione precedente.

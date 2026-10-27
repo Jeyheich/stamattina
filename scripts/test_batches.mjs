@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import {assemble,categories,romeDay} from './assemble_batches.mjs';
+import {recordFailure} from './record_source_failure.mjs';
 const now=Date.now(),today=romeDay(new Date(now)),stamp=new Date(now-60000).toISOString();
 const original=JSON.parse(fs.readFileSync('dist/data/current.json'));
 const photos=original.leadIds.map(id=>original.articles.find(a=>a.id===id).image);
@@ -32,4 +33,5 @@ const expired=structuredClone(blocks);expired.roma.completedAt=new Date(now-1440
 const duplicate=structuredClone(blocks);duplicate.sport.articles[0].eventKey=duplicate.esteri.articles[0].eventKey;assert.equal(assemble(duplicate,today,now).state.ready,false);
 const insufficientPhotos=structuredClone(blocks);delete insufficientPhotos.roma.articles[0].image;assert.equal(assemble(insufficientPhotos,today,now).state.photosMissing,1);
 const sourceDuplicate=structuredClone(blocks);sourceDuplicate.sport.articles[0].source.url=sourceDuplicate.esteri.articles[0].source.url;assert.equal(assemble(sourceDuplicate,today,now).state.ready,false);
+const blocked=recordFailure(complete.state,complete.edition,'check_photo: fixture-economia-0: HTTP Error 403');assert.equal(blocked.ready,false);assert.equal(blocked.invalid[0].slug,'economia');assert(!blocked.completed.includes('economia'));assert(blocked.completed.includes('politica'));
 console.log('PASS: ripresa dopo 7 blocchi, 40 schede/35 compatte, id stabile; date vecchie, verifiche scadute, fatti/fonti duplicati e foto insufficienti bloccati. Fixture solo in memoria.');

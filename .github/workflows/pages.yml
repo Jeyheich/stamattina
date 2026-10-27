@@ -52,10 +52,17 @@ jobs:
             echo 'ui=true' >> "$GITHUB_OUTPUT"
           fi
       - name: Controlla fonti, foto e date prima della pubblicazione
+        id: sources
         if: steps.incoming.outputs.changed == 'true'
-        run: python3 scripts/verify_sources.py incoming/edition.json
+        continue-on-error: true
+        run: |
+          node scripts/validate.mjs incoming/edition.json --production --balanced 2>&1 | tee /tmp/brief-source-check.log
+          python3 scripts/verify_sources.py incoming/edition.json 2>&1 | tee -a /tmp/brief-source-check.log
+      - name: Conserva la causa dei controlli falliti per la ripresa
+        if: steps.sources.outcome == 'failure'
+        run: node scripts/record_source_failure.mjs /tmp/brief-source-check.log
       - name: Promuovi una nuova edizione soltanto se valida e di oggi
-        if: steps.incoming.outputs.changed == 'true'
+        if: steps.incoming.outputs.changed == 'true' && steps.sources.outcome == 'success'
         run: node scripts/promote.mjs
       - name: Verifica rassegna reale
         run: node scripts/validate.mjs dist/data/current.json --production
@@ -65,10 +72,13 @@ jobs:
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
             git add -- dist/data incoming/edition.json automation/editorial/status.json
-            git commit -m 'Publish verified morning edition'
+            git commit -m 'Save editorial progress and verified edition'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
+      - name: Impedisci la pubblicazione dopo un controllo fallito
+        if: steps.sources.outcome == 'failure'
+        run: exit 1
       - uses: actions/configure-pages@v5
         if: steps.incoming.outputs.changed == 'true' || steps.incoming.outputs.ui == 'true'
       - uses: actions/upload-pages-artifact@v3
