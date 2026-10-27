@@ -1,14 +1,14 @@
 {
   "editionDate": "2026-10-27",
-  "checkedAt": "2026-10-27T11:55:12.864Z",
+  "checkedAt": "2026-10-27T11:57:53.451Z",
   "ready": false,
   "completed": [
     "politica",
-    "esteri"
+    "esteri",
+    "economia"
   ],
   "inProgress": [],
   "missing": [
-    "economia",
     "cronaca",
     "roma",
     "cultura",
@@ -76,6 +76,36 @@
       "category": "Esteri",
       "title": "Brasile, Lula conquista un quarto mandato dopo il ballottaggio",
       "eventKey": "brasile-lula-quarto-mandato-ballottaggio-2026"
+    },
+    {
+      "id": "economia-hsbc-utili-trimestre",
+      "category": "Economia",
+      "title": "HSBC, utili trimestrali in aumento del 32%",
+      "eventKey": "hsbc-utili-terzo-trimestre-2026"
+    },
+    {
+      "id": "economia-imprese-uk-difficolta",
+      "category": "Economia",
+      "title": "Regno Unito, oltre 738 mila imprese in difficoltà finanziaria",
+      "eventKey": "btg-imprese-uk-difficolta-q3-2026"
+    },
+    {
+      "id": "economia-prezzi-negozi-uk",
+      "category": "Economia",
+      "title": "Prezzi nei negozi britannici: inflazione al 2,1% in ottobre",
+      "eventKey": "inflazione-prezzi-negozi-uk-ottobre-2026"
+    },
+    {
+      "id": "economia-commercio-uk-ue",
+      "category": "Economia",
+      "title": "Londra e Bruxelles discutono nuove intese commerciali",
+      "eventKey": "negoziati-commercio-uk-ue-vertice-novembre-2026"
+    },
+    {
+      "id": "economia-investimenti-datacenter-uk",
+      "category": "Economia",
+      "title": "Datacenter AI britannici, consultate 137 imprese e nessuna ONG ambientale",
+      "eventKey": "consultazioni-datacenter-ai-uk-imprese-ong-2026"
     }
   ],
   "photoCandidates": [
@@ -83,8 +113,13 @@
       "id": "politica-manovra-cdm-28-ottobre",
       "category": "Politica",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg"
+    },
+    {
+      "id": "economia-hsbc-utili-trimestre",
+      "category": "Economia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:HSBC.Reza_01.jpg"
     }
   ],
-  "photosAvailable": 1,
+  "photosAvailable": 2,
   "needsPublication": false
 }
