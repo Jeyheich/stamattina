@@ -27,6 +27,7 @@ FEEDS = (
     ('Politica', 'RaiNews', 'https://www.rainews.it/rss/politica'),
     ('Esteri', 'RaiNews', 'https://www.rainews.it/rss/esteri'),
     ('Economia', 'AGI', 'https://www.agi.it/economia/rss.xml'),
+    ('Economia', 'BBC Business', 'https://feeds.bbci.co.uk/news/business/rss.xml'),
     ('Cronaca', 'RaiNews', 'https://www.rainews.it/rss/cronaca'),
     ('Roma', 'RomaToday', 'https://www.romatoday.it/rss'),
     ('Cultura · Teatro · Cinema', 'Teatro e Critica', 'https://www.teatroecritica.net/feed/'),
@@ -142,7 +143,7 @@ def collect(age_hours=72, verify_pages=False, limit=12):
         per_source = sum(old['category'] == candidate['category'] and old['source'] == candidate['source'] for old in unique)
         # Retain alternative sources for fragile feeds instead of filling the
         # whole queue from a single publisher before checking its access.
-        cap = max(5, limit // 2) if candidate['category'] in ('Sport', 'Tecnologia · AI') else limit
+        cap = max(5, limit // 2) if candidate['category'] in ('Sport', 'Tecnologia · AI', 'Economia') else limit
         if per_source < cap and sum(old['category'] == candidate['category'] for old in unique) < limit:
             unique.append(candidate)
     if verify_pages:
@@ -176,4 +177,5 @@ if __name__ == '__main__':
     print(json.dumps(dict(counts=report['counts'], insufficient=report['insufficientCategories'],
                           errors=len(report['errors']), output=str(args.output)), ensure_ascii=False))
     if report['insufficientCategories']:
+        print(json.dumps({'sourceErrors': report['errors']}, ensure_ascii=False))
         raise SystemExit(2)
