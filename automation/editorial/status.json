@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-27",
-  "checkedAt": "2026-10-27T12:34:37.683Z",
+  "checkedAt": "2026-10-27T12:35:57.390Z",
   "ready": false,
   "completed": [
     "politica",
@@ -238,8 +238,13 @@
       "id": "economia-hsbc-utili-trimestre",
       "category": "Economia",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:HSBC.Reza_01.jpg"
+    },
+    {
+      "id": "roma-trasporto-scolastico-riapertura",
+      "category": "Roma",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bus_stop_in_Rome_01.jpg"
     }
   ],
-  "photosAvailable": 2,
+  "photosAvailable": 3,
   "needsPublication": false
 }
