@@ -2,8 +2,6 @@
   "schemaVersion": 1,
   "editionDate": "2026-10-27",
   "category": "Cronaca",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-10-27T11:59:49.131Z",
   "articles": [
     {
       "id": "cronaca-verona-treno-33enne",
@@ -46,6 +44,70 @@
         "dateEvidence": "Articolo RaiNews integrale datato 26/10/2026: requisitoria, richiesta ergastolo e isolamento diurno.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "cronaca-torino-parco-dora-fermo",
+      "eventKey": "torino-parco-dora-omicidio-fermo-26-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Omicidio a Parco Dora, fermato un uomo dopo la morte di un giovane",
+      "summary": "La polizia di Torino ha fermato un 46enne nell'inchiesta sull'uccisione di Saloum Fall. Il movente ipotizzato riguarda lo spaccio.",
+      "body": [
+        "La Squadra mobile ha individuato il sospettato attraverso testimonianze, telefonate e immagini delle telecamere. Il fermo è una misura investigativa e la responsabilità penale non è stata accertata."
+      ],
+      "publishedAt": "2026-10-26",
+      "verifiedAt": "2026-10-27T12:06:19.685Z",
+      "source": {
+        "name": "RaiNews TGR Piemonte",
+        "url": "https://www.rainews.it/tgr/piemonte/articoli/2026/10/accoltellato-e-ucciso-al-parco-dora-fermato-il-presunto-assassino--4eb5dcae-218f-4736-98e9-cc239ba19313.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T12:06:19.685Z",
+        "dateEvidence": "Pagina TGR Piemonte del 26/10/2026, testo integrale sulla persona fermata e sui riscontri delle indagini.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-milano-denuncia-metropolitana",
+      "eventKey": "milano-denuncia-violenza-studentessa-cadorna-26-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Milano, studentessa denuncia un'aggressione sessuale in metropolitana",
+      "summary": "Una diciannovenne ha segnalato una presunta violenza nella stazione Cadorna; la polizia sta verificando la ricostruzione.",
+      "body": [
+        "La giovane ha chiesto aiuto all'università IULM dopo aver raccontato l'episodio a un'amica. L'ateneo ha chiarito che il luogo indicato nella denuncia è la stazione della metropolitana e non il campus. La versione della studentessa è oggetto di indagini."
+      ],
+      "publishedAt": "2026-10-26T22:22:00+01:00",
+      "verifiedAt": "2026-10-27T12:06:19.685Z",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/cronaca/milano-studentessa-denuncia-violenza-sessuale_3M87FRZVdO7irwrs5fJQPg",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T12:06:19.685Z",
+        "dateEvidence": "Adnkronos, pubblicazione 26 ottobre 2026 alle 22:22, testo integrale con dichiarazioni IULM e stato delle indagini.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-ischia-tre-arresti",
+      "eventKey": "ischia-tre-arresti-violenze-persona-disabile-26-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Ischia, tre arresti dopo la denuncia di violenze su una persona disabile",
+      "summary": "Tre ventenni sono stati posti in custodia cautelare nell'ambito di un'inchiesta su torture e violenze sessuali.",
+      "body": [
+        "L'indagine della polizia, coordinata dalla Procura di Napoli, è partita dalla denuncia della vittima. Gli investigatori riferiscono di immagini diffuse nelle chat; le accuse devono essere verificate nel procedimento penale."
+      ],
+      "publishedAt": "2026-10-26T13:17:00+01:00",
+      "verifiedAt": "2026-10-27T12:06:19.685Z",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/cronaca/disabile-torturato-violentato-filmato_1PjVkhmQCYs6zk5dUl9ctA",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T12:06:19.685Z",
+        "dateEvidence": "Adnkronos, pubblicato il 26 ottobre 2026 alle 13:17, descrive ordinanza di custodia e ricostruzione degli inquirenti.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
-  ]
+  ],
+  "completedAt": "2026-10-27T12:06:19.685Z"
 }
