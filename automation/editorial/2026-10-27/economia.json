@@ -1,31 +1,33 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-27",
+  "collectionId": "2026-10-27-pomeriggio",
   "category": "Economia",
-  "completedAt": "2026-10-27T11:57:39.511Z",
+  "completedAt": "2026-10-27T15:10:58.084Z",
   "articles": [
     {
       "id": "economia-hsbc-utili-trimestre",
       "eventKey": "hsbc-utili-terzo-trimestre-2026",
       "category": "Economia",
       "status": "verified",
-      "title": "HSBC, utili trimestrali in aumento del 32%",
-      "summary": "Nel trimestre luglio-settembre HSBC ha registrato 9,6 miliardi di dollari di utili, annunciando distribuzioni agli azionisti per 2,7 miliardi.",
+      "title": "HSBC aumenta gli utili del 32% e conferma la sede nel Regno Unito",
+      "summary": "La banca registra 9,6 miliardi di dollari di utili trimestrali; la direttrice finanziaria esclude pressioni per spostare la sede da Londra.",
       "body": [
-        "La banca ha comunicato un incremento degli utili trimestrali del 32%, sostenuto da interessi, minori perdite su crediti e accantonamenti legali inferiori. Il risultato è comunque leggermente sotto le attese del mercato.",
-        "L'annuncio riaccende nel Regno Unito il dibattito sulla tassazione del settore bancario alla vigilia della legge di bilancio, mentre il gruppo prevede riacquisti di azioni e dividendi."
+        "Nel trimestre luglio-settembre HSBC ha aumentato del 32% gli utili ante imposte, annunciando 2,7 miliardi di dollari tra dividendi e riacquisti di azioni. La direttrice finanziaria Pam Kaur ha ribadito che il trasferimento della sede britannica non è sul tavolo, nonostante il dibattito sulle tasse bancarie.",
+        "Il risultato è sostenuto da interessi, minori perdite su prestiti e accantonamenti legali più bassi. Le azioni hanno tuttavia perso quasi il 6% nella mattinata londinese: gli investitori si aspettavano prospettive più favorevoli sui margini da interessi."
       ],
-      "publishedAt": "2026-10-27T03:09:00-04:00",
-      "verifiedAt": "2026-10-27T11:57:39.511Z",
+      "publishedAt": "2026-10-27T10:21:00Z",
+      "updatedAt": "2026-10-27T12:03:00Z",
+      "verifiedAt": "2026-10-27T15:10:58.084Z",
       "source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/business/live/2026/oct/27/hsbc-shareholders-profits-surge-32-percent-bank-tax-budget-stock-markets-cost-cutting-latest-news-updates",
+        "url": "https://www.theguardian.com/business/2026/oct/27/hsbc-says-no-pressure-to-move-hq-out-of-uk-despite-prospect-of-higher-bank-taxes",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:57:39.511Z",
-        "dateEvidence": "Pagina Guardian del 27 ottobre, prima pubblicazione 03:09 EDT; nell'introduzione sono riportati 9,6 miliardi di dollari e aumento del 32%.",
+        "accessCheckedAt": "2026-10-27T15:10:58.084Z",
+        "dateEvidence": "Pagina integrale del Guardian: pubblicazione 27 ottobre 2026 alle 06:21 EDT, ultima modifica alle 08:03 EDT; confermati 9,6 miliardi, +32% e dichiarazioni di Pam Kaur.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 89,
+      "leadPriority": 90,
       "image": {
         "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/HSBC.Reza_01.jpg/960px-HSBC.Reza_01.jpg",
         "alt": "Edificio HSBC a 8 Canada Square, Londra",
@@ -42,19 +44,20 @@
       "eventKey": "btg-imprese-uk-difficolta-q3-2026",
       "category": "Economia",
       "status": "verified",
-      "title": "Regno Unito, oltre 738 mila imprese in difficoltà finanziaria",
-      "summary": "Il rapporto BTG segnala 738.144 aziende in difficoltà significativa nel terzo trimestre: il massimo della serie iniziata nel 2004.",
+      "title": "Nel Regno Unito oltre 738 mila imprese segnalano difficoltà finanziarie",
+      "summary": "Il rapporto BTG colloca a 738.144 il numero di aziende in difficoltà significativa nel terzo trimestre, massimo dal 2004.",
       "body": [
-        "I dati pubblicati da BTG mostrano una crescita dell'1,6% rispetto allo stesso periodo del 2025. Costruzioni, servizi e immobiliare concentrano molte delle imprese in difficoltà, mentre aumentano i problemi nella ristorazione."
+        "L'indicatore cresce dell'1,6% rispetto a un anno prima. Servizi alle imprese, costruzioni e immobiliare risultano fra i comparti con il maggior numero di aziende in difficoltà; bar e ristoranti mostrano un aumento del 5%."
       ],
-      "publishedAt": "2026-10-27T10:01:00+01:00",
-      "verifiedAt": "2026-10-27T11:57:39.511Z",
+      "publishedAt": "2026-10-27T09:01:00Z",
+      "updatedAt": "2026-10-27T09:18:00Z",
+      "verifiedAt": "2026-10-27T15:10:58.084Z",
       "source": {
         "name": "The Guardian",
         "url": "https://www.theguardian.com/business/2026/oct/27/number-of-uk-businesses-in-financial-distress-at-two-decade-high-budget",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:57:39.511Z",
-        "dateEvidence": "Il Guardian riporta data 27 ottobre 2026 10:01 CET, cifra 738.144 e confronto con la serie BTG iniziata nel 2004.",
+        "accessCheckedAt": "2026-10-27T15:10:58.084Z",
+        "dateEvidence": "Articolo integrale del Guardian pubblicato il 27 ottobre 2026 alle 05:01 EDT, aggiornato alle 05:18; riporta dati BTG 738.144 e +1,6%.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -63,19 +66,43 @@
       "eventKey": "inflazione-prezzi-negozi-uk-ottobre-2026",
       "category": "Economia",
       "status": "verified",
-      "title": "Prezzi nei negozi britannici: inflazione al 2,1% in ottobre",
-      "summary": "Secondo il British Retail Consortium, i prezzi al dettaglio accelerano dall'1,4% di settembre al 2,1% su base annua.",
+      "title": "Prezzi nei negozi britannici: l'inflazione accelera al 2,1%",
+      "summary": "Il British Retail Consortium registra un rialzo annuo del 2,1% a ottobre, dall'1,4% di settembre, per i maggiori costi trasferiti ai consumatori.",
       "body": [
-        "L'inflazione alimentare sale al 2,9%, mentre quella dei beni non alimentari passa dallo 0,8% all'1,7%. Il consorzio collega l'aumento alla maggiore difficoltà dei rivenditori nell'assorbire i costi di energia e materie prime."
+        "L'aumento dei generi alimentari raggiunge il 2,9%, mentre quello dei prodotti non alimentari passa dallo 0,8% all'1,7%. Il consorzio avverte che i commercianti riescono sempre meno ad assorbire i rincari di energia e materie prime."
       ],
       "publishedAt": "2026-10-27T00:01:00Z",
-      "verifiedAt": "2026-10-27T11:57:39.511Z",
+      "updatedAt": "2026-10-27T10:54:00Z",
+      "verifiedAt": "2026-10-27T15:10:58.084Z",
       "source": {
         "name": "The Guardian",
         "url": "https://www.theguardian.com/business/2026/oct/27/uk-shop-price-inflation-highest-since-2024-as-retailers-struggle-to-limit-price-rises",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:57:39.511Z",
-        "dateEvidence": "Articolo Guardian pubblicato alle 00:01 GMT del 27 ottobre; dati BRC: totale 2,1%, alimentare 2,9%, beni non alimentari 1,7%.",
+        "accessCheckedAt": "2026-10-27T15:10:58.084Z",
+        "dateEvidence": "Guardian: prima pubblicazione lunedì 26 ottobre 2026 alle 20:01 EDT (27 ottobre 00:01 UTC), ultima modifica martedì 27 alle 06:54 EDT; dati BRC nel testo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-pompe-calore-sussidi",
+      "eventKey": "uk-pompe-calore-timori-taglio-sussidi-budget-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Pompe di calore, gli installatori britannici temono tagli agli incentivi",
+      "summary": "In vista della manovra, le imprese del settore avvertono che ridurre i contributi pubblici potrebbe frenare installazioni e occupazione.",
+      "body": [
+        "Il Boiler Upgrade Scheme offre fino a 9.000 sterline per sostituire gli impianti tradizionali con sistemi a basse emissioni. Diversi installatori intervistati dal Guardian affermano che gran parte dei clienti dipende dagli aiuti.",
+        "I tagli sono una prospettiva riportata alla vigilia del bilancio, non una decisione già adottata. Le imprese temono effetti anche sull'apprendistato e sulla domanda di tecnologie per il riscaldamento domestico."
+      ],
+      "publishedAt": "2026-10-27T11:59:00Z",
+      "updatedAt": "2026-10-27T12:47:00Z",
+      "verifiedAt": "2026-10-27T15:10:58.084Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/environment/2026/oct/27/heat-pump-installers-fear-planned-subsidy-cuts-uk-budget",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T15:10:58.084Z",
+        "dateEvidence": "Guardian pubblicato 27 ottobre 2026 alle 22:59 AEDT (11:59 UTC), modificato alle 23:47 AEDT; intervistati installatori e spiegato lo schema BUS.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -84,41 +111,20 @@
       "eventKey": "negoziati-commercio-uk-ue-vertice-novembre-2026",
       "category": "Economia",
       "status": "verified",
-      "title": "Londra e Bruxelles discutono nuove intese commerciali",
-      "summary": "In vista del vertice di novembre, il governo britannico conferma negoziati sulle restrizioni commerciali e la mobilità giovanile.",
+      "title": "Londra e Bruxelles preparano un'intesa su scambi e mobilità giovanile",
+      "summary": "Il governo britannico conferma negoziati con l'UE in vista del vertice di novembre; si discutono anche opzioni di lungo periodo, senza decisioni già prese.",
       "body": [
-        "Il responsabile britannico delle attività produttive Jonathan Reynolds ha detto che si valutano anche scenari di più lungo termine per le relazioni con l'UE, compresa l'ipotesi della libera circolazione. Non è una decisione già assunta."
+        "Il ministro britannico Jonathan Reynolds indica come priorità la riduzione di alcuni ostacoli commerciali e un'intesa sulla mobilità dei giovani. L'eventuale ritorno alla libera circolazione è descritto come scenario di discussione futura, non come accordo raggiunto."
       ],
-      "publishedAt": "2026-10-27T10:41:00+01:00",
-      "verifiedAt": "2026-10-27T11:57:39.511Z",
+      "publishedAt": "2026-10-27T09:41:00Z",
+      "updatedAt": "2026-10-27T10:45:00Z",
+      "verifiedAt": "2026-10-27T15:10:58.084Z",
       "source": {
         "name": "The Guardian",
         "url": "https://www.theguardian.com/politics/2026/oct/27/uk-eu-relationship-talks-summit-free-movement-jonathan-reynolds",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:57:39.511Z",
-        "dateEvidence": "Articolo Guardian datato 27 ottobre 10:41 CET; nel testo Reynolds parla di accordo commerciale, mobilità giovanile e opzioni future.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "economia-investimenti-datacenter-uk",
-      "eventKey": "consultazioni-datacenter-ai-uk-imprese-ong-2026",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Datacenter AI britannici, consultate 137 imprese e nessuna ONG ambientale",
-      "summary": "Un'indagine sulle zone di crescita dell'intelligenza artificiale contesta lo sbilanciamento delle consultazioni economiche del governo.",
-      "body": [
-        "Spotlight on Corruption ha ricostruito, attraverso richieste di accesso agli atti, incontri con 137 aziende, due gruppi locali e nessuna organizzazione ambientale nello sviluppo della politica sui datacenter.",
-        "La ricerca segnala inoltre passaggi di funzionari pubblici verso imprese dell'AI. I risultati interrogano il governo sull'equilibrio fra attrazione di investimenti, impatto ambientale e trasparenza dei processi decisionali."
-      ],
-      "publishedAt": "2026-10-27T03:00:00-04:00",
-      "verifiedAt": "2026-10-27T11:57:39.511Z",
-      "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation",
-        "access": "free",
-        "accessCheckedAt": "2026-10-27T11:57:39.511Z",
-        "dateEvidence": "Guardian datato 27 ottobre ore 03:00 EDT, descrive le richieste FOI e gli incontri con 137 imprese e zero ONG ambientali.",
+        "accessCheckedAt": "2026-10-27T15:10:58.084Z",
+        "dateEvidence": "Guardian pubblicato il 27 ottobre 2026 alle 10:41 CET, aggiornato alle 11:45 CET; intervista di Reynolds su vertice, commercio e mobilità.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
