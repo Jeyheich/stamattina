@@ -1,0 +1,5 @@
+.DS_Store
+dist/assets/photo-*.jpg
+dist/assets/live-*.jpg
+dist/data/photos.json
+dist/data/live-photos.json

@@ -26,3 +26,6 @@ Per attivare: collegare il produttore, provare un giorno intero e un caso di fal
 `node --check dist/sw.js`
 
 Test browser: viewport 390×844 senza overflow; 5 principali, 8 compatte, 5 fotografie caricate; approfondimenti e filtri. Tema e salvati nel dispositivo. Service worker prepara contenuti e immagini dopo la prima apertura online; attendere la preparazione prima di provare offline. Nessuna analisi statistica o tracciamento aggiunto. Link esterni richiedono connessione.
+
+## Movimento
+Filtri: View Transitions con identità stabile delle schede e transizioni di circa 260 ms; fallback breve per browser meno recenti. Lettura: apertura di 300 ms e uscita di 180 ms, focus restituito alla scheda, scorrimento pagina bloccato durante la lettura. Riduci movimento disabilita questi movimenti.

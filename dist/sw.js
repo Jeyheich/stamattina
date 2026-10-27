@@ -1,4 +1,4 @@
-const CACHE='stamattina-v3';
+const CACHE='stamattina-v4';
 const base=new URL('./',self.location).pathname;
 const shell=['','index.html','style.css','app.js','data/current.json','manifest.webmanifest','assets/icon.svg','assets/icon-192.png','assets/icon-512.png'];
 self.addEventListener('install',e=>e.waitUntil((async()=>{const c=await caches.open(CACHE);await c.addAll(shell.map(x=>base+x));const edition=await (await c.match(base+'data/current.json')).json();await Promise.allSettled(edition.articles.filter(a=>a.image).map(async a=>{const r=await fetch(new URL(a.image.src,self.location.origin+base),{mode:'cors'});if(r.ok)await c.put(new URL(a.image.src,self.location.origin+base),r)}));await self.skipWaiting()})()));
