@@ -92,8 +92,8 @@ def verify(edition):
     ids = {a['id'] for a in articles}
     if len(ids) != len(articles) or set(edition['essentialIds']) != set(edition['leadIds']):
         raise ValueError('Id duplicati o essenziali diversi dalle principali')
-    if len({a['category'] for a in articles}) != 7:
-        raise ValueError('Non sono coperte tutte le sette categorie')
+    if {a['category'] for a in articles} != {'Politica', 'Esteri', 'Economia', 'Cronaca', 'Roma', 'Cultura · Teatro · Cinema', 'Tecnologia · AI', 'Sport'}:
+        raise ValueError('Non sono coperte tutte le otto categorie, Sport incluso')
     jobs = [(check_article, a) for a in articles] + [(check_photo, a) for a in articles if a['id'] in edition['leadIds']]
     errors = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:

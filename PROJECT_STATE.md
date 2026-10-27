@@ -1,7 +1,7 @@
 # Stato operativo — 27 ottobre 2026
 
 ## Approvato
-- PWA pubblica su Jeyheich/stamattina, modello C: 5 essenziali/principali con foto + 7–10 compatte, 7 categorie. Fonti gratuite e date reali; mai notizie/foto inventate.
+- PWA pubblica su Jeyheich/stamattina: 5 essenziali/principali con foto + almeno 35 compatte. Ultima richiesta: almeno 5 fatti distinti per ognuna delle 8 categorie, Sport incluso (minimo 40 notizie). Superati il limite 12–15 e la proposta intermedia 2 per categoria. Fonti gratuite e date reali; mai notizie/foto inventate.
 - UI moderna vicina alle app Apple, font di sistema, temi e bottom bar; scartata grafica serif/cartacea v1. Swipe categorie e animazioni con Riduci movimento.
 - Nuova richiesta: ogni mattina rassegna pronta entro 07:30 Europe/Rome ANCHE A MAC SPENTO. Le 09:33 sono superate. Il produttore deve partire prima (06:45), non alle 07:30.
 - Fabio ha autorizzato le scritture GitHub necessarie alla rassegna cloud. Non introdurre altri servizi a pagamento o chiavi API senza consenso.
@@ -22,3 +22,10 @@
 - node scripts/validate.mjs dist/data/current.json --production; node --check dist/app.js; node --check dist/sw.js.
 - scripts/verify_sources.py controlla data odierna, freschezza verifica, fonti pubbliche raggiungibili, indicatori di paywall e metadati/licenza Commons. Non sostituisce la verifica editoriale del task.
 - Il pulsante Verifica nuova edizione deve distinguere nuova/immutata/offline e non deve dichiarare una ricerca di notizie mai avvenuta.
+
+## Aggiornamento equilibrio e Sport — 27 ottobre
+- Rilevato squilibrio nell'edizione 13 notizie: Politica/Cronaca/AI 1, Esteri/Economia 3, Roma/Cultura 2. Due schede BES trattano lo stesso fatto.
+- Fabio richiede almeno 5 notizie distinte per categoria e aggiunge Sport. Nuove proposte: 8 categorie con minimo 5 ciascuna; 5 principali e almeno 35 compatte. UI conserva layout, swipe e lettura.
+- Nuovo controllo obbligatorio in promote: minimo per categoria, selezione tutta visibile, essenziali uguali principali, URL fonte non duplicati. Deduplicazione semantica obbligatoria nella procedura cloud; non è garantita dal solo URL.
+- Test eseguiti con fixture solo in memoria: 40/8x5 accettate; categoria con 4, URL duplicati e conteggi invisibili respinti; vecchia edizione resta leggibile senza pubblicarla come nuova.
+- Edizione attuale non ancora ampliata: preparazione cloud aggiornata da collaudare. Non dichiarare presenti 40 notizie prima della pubblicazione verificata.

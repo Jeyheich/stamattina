@@ -1,5 +1,5 @@
 # Regole del progetto
-- Modello C: 5 essenziali che rimandano alle 5 principali, poi 7–10 compatte.
+- Modello C: 5 essenziali che rimandano alle 5 principali, poi almeno 35 compatte: minimo 5 fatti distinti per ciascuna delle 8 categorie, Sport incluso. Il vecchio limite 12–15 notizie è superato.
 - Direzione richiesta: moderna e vicina alle app Apple. Scartata la grafica serif/cartacea v1. Usare font di sistema e navigazione mobile essenziale.
 - Notizie JSON separate dalla UI. Mai inventare fatti, date, fotografie o dichiarazioni di accesso gratuito.
 - Foto autentiche con fonte, attribuzione, licenza e didascalia; repertorio sempre dichiarato. Conservare originali e crediti.
