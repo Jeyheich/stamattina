@@ -1,7 +1,7 @@
 {
   "editionDate": "2026-10-27",
-  "checkedAt": "2026-10-27T12:43:35.166Z",
-  "ready": false,
+  "checkedAt": "2026-10-27T12:45:04.751Z",
+  "ready": true,
   "completed": [
     "politica",
     "esteri",
@@ -9,12 +9,11 @@
     "cronaca",
     "roma",
     "cultura",
-    "tecnologia"
-  ],
-  "inProgress": [],
-  "missing": [
+    "tecnologia",
     "sport"
   ],
+  "inProgress": [],
+  "missing": [],
   "invalid": [],
   "stories": [
     {
@@ -226,6 +225,36 @@
       "category": "Tecnologia · AI",
       "title": "Microsoft, indiscrezioni su incentivi all'uscita per 60 mila dipendenti",
       "eventKey": "microsoft-esuberi-incentivati-60000-ottobre-2026"
+    },
+    {
+      "id": "sport-manchester-carrick-howe",
+      "category": "Sport",
+      "title": "Manchester United, Carrick resta in panchina per la sfida al Chelsea",
+      "eventKey": "manchester-united-carrick-permanenza-allenatore-chelsea-27-ottobre-2026"
+    },
+    {
+      "id": "sport-india-nuova-zelanda-cricket",
+      "category": "Sport",
+      "title": "Cricket, India batte la Nuova Zelanda e conquista la serie T20",
+      "eventKey": "india-vittoria-nuova-zelanda-terzo-t20-27-ottobre-2026"
+    },
+    {
+      "id": "sport-ringrose-infortunio",
+      "category": "Sport",
+      "title": "Rugby, Ringrose in dubbio per le partite dell'Irlanda a novembre",
+      "eventKey": "irlanda-ringrose-infortunio-coscia-nations-championship-2026"
+    },
+    {
+      "id": "sport-cowboys-eagles-nfl",
+      "category": "Sport",
+      "title": "NFL, i Cowboys battono gli Eagles 38-21",
+      "eventKey": "nfl-cowboys-eagles-38-21-26-ottobre-2026"
+    },
+    {
+      "id": "sport-sudafrica-australia-test",
+      "category": "Sport",
+      "title": "Cricket Test, il Sudafrica parte forte contro l'Australia",
+      "eventKey": "cricket-sudafrica-australia-terzo-test-prima-giornata-27-ottobre-2026"
     }
   ],
   "photoCandidates": [
@@ -248,8 +277,14 @@
       "id": "cultura-cinema-ucraino-polacco",
       "category": "Cultura · Teatro · Cinema",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Villa_Borghese_-_Casa_del_Cinema_P1020818.JPG"
+    },
+    {
+      "id": "sport-manchester-carrick-howe",
+      "category": "Sport",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg"
     }
   ],
-  "photosAvailable": 4,
-  "needsPublication": false
+  "photosAvailable": 5,
+  "editionId": "2026-10-27-batches-a6dd98072384",
+  "needsPublication": true
 }
