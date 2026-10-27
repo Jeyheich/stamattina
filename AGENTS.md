@@ -7,8 +7,10 @@
 - La vecchia consegna ChatGPT solo testuale è superata. Fabio richiede una rassegna cloud pronta alle 07:30 anche con il Mac spento e ha autorizzato le scritture GitHub necessarie. Nuove integrazioni, servizi a pagamento o credenziali richiedono consenso.
 - Nessuna dipendenza. Test: node scripts/validate.mjs dist/data/current.json --production; node --check dist/app.js; node --check dist/sw.js.
 - Server locale: python3 -m http.server 8765 --directory dist. Prima di pubblicare verificare formato iPhone, filtri, apertura/chiusura e offline.
-- Distribuzione: Pubblica Stamattina gestisce push dei dati/UI e avvio manuale. Il task cloud prepara incoming/edition.json; il workflow verifica, promuove e pubblica. Il vecchio daily.yml resta disattivato. Non riattivare il cron una tantum del 27 ottobre.
+- Distribuzione: Pubblica Stamattina gestisce push dei dati/UI e avvio manuale. Le attività cloud salvano blocchi per categoria; il server assembla incoming/edition.json; il workflow verifica, promuove e pubblica. Il vecchio daily.yml resta disattivato. Non riattivare il cron una tantum del 27 ottobre.
 
-- Raccolta cloud aggiuntiva autorizzata esplicitamente da Fabio: prepare-candidates.yml alle 06:00 Europe/Rome scrive solo automation/candidates/latest.json; il dossier è candidato, mai una verifica editoriale. Task 06:45 legge il dossier prima di fare ricerche.
+- Raccolta cloud aggiuntiva autorizzata esplicitamente da Fabio: prepare-candidates.yml alle 06:00 Europe/Rome scrive solo automation/candidates/latest.json; il dossier è candidato, mai una verifica editoriale. Le tre attività leggono il dossier prima di fare ricerche.
 
 - Ultima approvazione: solo Plus già pagato + GitHub, zero costi aggiuntivi; Fabio autorizza quota condivisa e rivaluterà il carico. Scartata la proposta di API AI esterne. Produzione per blocchi di 5, salvati in automation/editorial/YYYY-MM-DD/slug.json; nessuna sostituzione dei blocchi validi. Procedura BATCH_BRIEF.md.
+
+- Configurazione finale compatibile con il piano: 3 attività ChatGPT già esistenti, 6 avvii totali (06:03/07:03, 06:10/07:10, 06:17/07:17 Europe/Rome), fino a due blocchi da 5 per run con commit separati. Le altre 2 attività personali restano intatte. Il piano ha rifiutato >1 avvio/ora per singola task e >5 task attive: non riproporre nove avvii ravvicinati nella stessa task né otto task.
