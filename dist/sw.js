@@ -1,6 +1,6 @@
-const CACHE='stamattina-v10';
+const CACHE='stamattina-v11';
 const base=new URL('./',self.location).pathname;
-const shell=['','index.html','style.css?v=10','app.js?v=10','data/current.json','manifest.webmanifest','assets/icon.svg','assets/icon-192.png','assets/icon-512.png'];
+const shell=['','index.html','style.css?v=11','app.js?v=11','data/current.json','manifest.webmanifest','assets/icon.svg','assets/icon-192.png','assets/icon-512.png'];
 const allowed=origin=>[self.location.origin,'https://upload.wikimedia.org','https://thumb.wikimedia.org'].includes(origin);
 async function cachePhotos(response,cache){
   const edition=await response.json();

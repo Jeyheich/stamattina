@@ -41,3 +41,12 @@ for(const b of Object.values(refresh))b.collectionId=today+'-pomeriggio';
 assert.equal(assemble(refresh,today,now).edition.articles.length,40,'Otto blocchi del ciclo nuovo pubblicano');
 refresh.sport.collectionId=today+'-altro';assert.equal(assemble(refresh,today,now).state.ready,false,'Cicli discordanti bloccati');
 console.log('PASS: ripresa dopo 7 blocchi, 40 schede/35 compatte, id stabile; date vecchie, verifiche scadute, fatti/fonti duplicati e foto insufficienti bloccati. Fixture solo in memoria.');
+
+const withReserve=structuredClone(blocks);
+for(const [slug,b] of Object.entries(withReserve)){b.reserveArticles=b.articles.map((a,i)=>{const x=structuredClone(a);x.id+='-extra';x.eventKey+='-extra';x.source.url+='-extra';delete x.image;return x;});}
+const expanded=assemble(withReserve,today,now);assert.equal(expanded.state.ready,true);assert.equal(expanded.edition.articles.length,80);assert.equal(expanded.edition.reserveIds.length,40);assert.equal(expanded.edition.compactIds.length,35);assert.equal(expanded.edition.leadIds.length,5);
+const badReserve=structuredClone(withReserve);badReserve.sport.reserveArticles[0].eventKey=badReserve.esteri.articles[0].eventKey;assert.equal(assemble(badReserve,today,now).edition,undefined);
+const shortReserve=structuredClone(withReserve);shortReserve.sport.reserveArticles.pop();assert.equal(assemble(shortReserve,today,now).edition,undefined);
+const oldReserve=structuredClone(withReserve);oldReserve.sport.reserveArticles[0].verifiedAt='2000-01-01T00:00:00Z';assert.equal(assemble(oldReserve,today,now).edition,undefined);
+if(process.env.WRITE_UI_FIXTURE)fs.writeFileSync(process.env.WRITE_UI_FIXTURE,JSON.stringify({...expanded.edition,mode:'demo',articles:expanded.edition.articles.map(a=>({...a,status:'example',title:a.id.includes('-extra')?'ESEMPIO — Notizia aggiuntiva '+a.category:'ESEMPIO — Notizia '+a.category}))}));
+console.log('PASS: riserva 5 per categoria, 80 totali con 40 iniziali; duplicati, parziali e scadenze respinti.');

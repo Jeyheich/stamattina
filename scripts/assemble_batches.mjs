@@ -42,7 +42,7 @@ export function validateBlock(block,slug,today,now=Date.now(),partial=false){
 }
 export function assemble(blocks,today=romeDay(),now=Date.now()){
   const state={editionDate:today,checkedAt:new Date(now).toISOString(),ready:false,completed:[],inProgress:[],missing:[],invalid:[],stories:[]};
-  const articles=[];
+  const articles=[],reserves=[];
   // A same-day refresh must not mix freshly reviewed blocks with the earlier edition.
   const cycles=[...new Set(Object.values(blocks).filter(b=>b.editionDate===today).map(b=>b.collectionId).filter(Boolean))];
   if(cycles.length>1){state.invalid.push({slug:'edition',reason:'Cicli editoriali differenti'});return {state};}
@@ -53,29 +53,31 @@ export function assemble(blocks,today=romeDay(),now=Date.now()){
     try{
       const partial=blocks[slug].status==='in-progress';validateBlock(blocks[slug],slug,today,now,partial);
       if(partial){state.inProgress.push({slug,count:blocks[slug].articles.length});state.stories.push(...blocks[slug].articles.map(({id,category,title,eventKey})=>({id,category,title,eventKey,pending:true})));}
-      else{state.completed.push(slug);articles.push(...blocks[slug].articles);}
+      else{if(blocks[slug].reserveArticles!==undefined){validateBlock({...blocks[slug],articles:blocks[slug].reserveArticles},slug,today,now);reserves.push(...blocks[slug].reserveArticles.map(a=>{const copy={...a};delete copy.image;delete copy.leadPriority;return copy;}));}state.completed.push(slug);articles.push(...blocks[slug].articles);}
     }
     catch(e){state.invalid.push({slug,reason:e.message});}
   }
-  state.stories.push(...articles.map(({id,category,title,eventKey})=>({id,category,title,eventKey})));
+  state.stories.push(...[...articles,...reserves].map(({id,category,title,eventKey})=>({id,category,title,eventKey})));
+  state.reserveCounts=Object.fromEntries(categories.map(([,name])=>[name,reserves.filter(a=>a.category===name).length]));
   state.photoCandidates=articles.filter(a=>a.image).map(a=>({id:a.id,category:a.category,sourceUrl:a.image.sourceUrl}));
   state.photosAvailable=new Set(state.photoCandidates.map(a=>a.sourceUrl)).size;
   if(state.missing.length||state.invalid.length||state.inProgress.length)return {state};
   try{
     assert.equal(new Set(articles.map(a=>a.id)).size,40,'ID duplicati tra categorie');
-    assert.equal(new Set(articles.map(a=>a.eventKey)).size,40,'Fatto duplicato tra categorie');
+    assert.equal(new Set([...articles,...reserves].map(a=>a.id)).size,40+reserves.length,'ID duplicato nella riserva');assert.equal(new Set([...articles,...reserves].map(a=>a.eventKey)).size,40+reserves.length,'Fatto duplicato tra categorie o riserva');
     const photoSources=new Set();
     const photoCandidates=articles.filter(a=>a.image).sort((a,b)=>(b.leadPriority||0)-(a.leadPriority||0)).filter(a=>{const key=a.image.sourceUrl;if(photoSources.has(key))return false;photoSources.add(key);return true;});
     state.photosAvailable=photoCandidates.length;
     if(photoCandidates.length<5){state.photosMissing=5-photoCandidates.length;return {state};}
     const leadIds=photoCandidates.slice(0,5).map(a=>a.id),leadSet=new Set(leadIds);
     const editionArticles=articles.map(a=>{const copy={...a};if(!leadSet.has(a.id))delete copy.image;return copy;});
+    editionArticles.push(...reserves);
     const fingerprint=crypto.createHash('sha256').update(JSON.stringify(editionArticles)).digest('hex').slice(0,12);
     // Derive the date's UTC offset from Europe/Rome; do not assume winter time.
     const offset=new Intl.DateTimeFormat('en',{timeZone:'Europe/Rome',timeZoneName:'longOffset'}).formatToParts(new Date(today+'T12:00:00Z')).find(x=>x.type==='timeZoneName').value.replace('GMT','');
     const edition={schemaVersion:1,id:today+'-batches-'+fingerprint,mode:'live',editionDate:today,
       generatedAt:new Date(now).toISOString(),timezone:'Europe/Rome',scheduledFor:today+'T07:30:00'+offset,
-      essentialIds:leadIds,leadIds,compactIds:articles.filter(a=>!leadSet.has(a.id)).map(a=>a.id),articles:editionArticles};
+      essentialIds:leadIds,leadIds,compactIds:articles.filter(a=>!leadSet.has(a.id)).map(a=>a.id),articles:editionArticles,...(reserves.length?{reserveIds:reserves.map(a=>a.id)}:{})};
     validate(edition,true,true);state.ready=true;state.editionId=edition.id;return {state,edition};
   }catch(e){state.invalid.push({slug:'edition',reason:e.message});return {state};}
 }

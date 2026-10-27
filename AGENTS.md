@@ -21,3 +21,5 @@
 
 ## Alternativa gaming autorizzata
 Everyeye resta la prima scelta per le DUE notizie videogiochi. SOLO se non leggibile o non offre due fatti recenti verificabili, completa i posti gaming mancanti con IGN Italia (https://it.ign.com/, feed https://it.ign.com/feed.xml). Questa eccezione supera il vincolo esclusivo Everyeye, non la quota TRE PromptOps. Mantieni cinque fatti distinti, date vere, articoli gratuiti e fonte originale; indica esplicitamente IGN Italia nelle schede usate. Non mescolare notizie duplicate (ad esempio trailer e annuncio dello stesso gioco). Non sostituire automaticamente Everyeye quando funziona.
+
+- Riserva: cinque base in articles, cinque facoltative verificate in reserveArticles, bozze in reserveDraft non pubblicate. Priorità ai blocchi base, duplicati globali vietati. UI Carica altre 5 solo per riserva reale, niente AI al clic. Nessuna nuova task/orario.
