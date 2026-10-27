@@ -6,19 +6,17 @@
 - Nuova richiesta: ogni mattina rassegna pronta entro 07:30 Europe/Rome ANCHE A MAC SPENTO. Le 09:33 sono superate. Il produttore deve partire prima (06:45), non alle 07:30.
 - Fabio ha autorizzato le scritture GitHub necessarie alla rassegna cloud. Non introdurre altri servizi a pagamento o chiavi API senza consenso.
 
-## Osservato
-- PWA pubblica con edizione reale precedente del 27 ottobre, 13 articoli. Swipe e animazioni pubblicati e testati.
-- Cloud GitHub lettura/scrittura provata; autorizzazione persistente concessa da Fabio. Il task legge DAILY_BRIEF e scrive incoming/edition.json, senza Mac.
-- Pipeline incoming e UI v8 pubblicate: confronto edizione, esito visibile nuovo/immutato/offline/errore; controllo apertura e ritorno dopo 5 minuti.
-- Task ChatGPT ancora in pausa, prompt definitivo salvato; avvio previsto 06:45 Europe/Rome per obiettivo 07:30. Verificare nuovamente frequenza/orario prima della ripresa.
-- Primo tentativo completo non terminato. Secondo commit b110253d6816b9c060a4d71098f699564b20bd1e con 13 notizie, ma run 40486694776 fallito: Teatro.it HTTP403, INDIRE timeout. Foto tutte superate. Il produttore ha ammesso verifiche editoriali incomplete: NON promuovere questo file manualmente.
-- Diagnostica migliorata con id articolo. Procedura chiarisce che fetch_commit_workflow_runs filtra PR e non trova push; usare elenco Actions pubblico. Terzo collaudo cloud avviato con sostituzione fonti e verifica completa richiesta.
+## Osservato e verificato
+- PWA pubblica con edizione cloud 2026-10-27-cloud-retry-101929, 13 notizie, generata 10:19:29 UTC (11:19 Roma). Run 40487572337 SUCCESS; id pubblico letto senza cache e identico al candidato promosso.
+- Cloud GitHub lettura/scrittura provata, autorizzazione persistente concessa. Task legge DAILY_BRIEF e scrive solo incoming/edition.json; pipeline valida, promuove, archivia e pubblica senza Mac.
+- Attività esistente Rassegna stampa quotidiana RIATTIVATA via ChatGPT: ogni giorno 06:45 Europe/Rome, obiettivo pronta entro 07:30; prossimo avvio pianificato 28 ottobre. UI riletta Ricorrente/Pausa, prompt cloud conservato. UI mostra frequenza Personalizzato senza dettaglio dell'ora; conferma della pianificazione esatta ricevuta dal gestore task, non verificata prima esecuzione futura.
+- UI v8 pubblicata, run 40487275349 success. Pulsante testato su sito: Nuova edizione caricata e poi Nessuna nuova edizione; errori/offline distinti nei test locali. Controllo anche all'apertura e al ritorno dopo 5 minuti. Tutte 5 foto caricate; nessun overflow osservato.
+- Primo tentativo incompleto; secondo run 40486694776 fallito per Teatro.it403/INDIRE timeout. Controlli NON indeboliti; terzo tentativo cloud ha sostituito le due fonti con RaiNews/Open e superato la pipeline. La verifica pubblica finale è stata completata da Lola: il web tool della task non ha potuto leggerla, quindi quel sottopasso cloud resta un limite operativo.
 - daily.yml GitHub resta disabled_manually. Nessuna seconda routine GitHub di raccolta: proposta respinta da revisione automatica e abbandonata.
 
-## Prossimi passi necessari
-1. Verificare il terzo collaudo cloud: controlli effettivi, workflow riuscito e id pubblico uguale al candidato.
-2. Solo dopo successo: riprendere task ogni giorno alle 06:45 Europe/Rome; rileggere stato e orario. Nessuna garanzia di puntualità assoluta del cloud.
-3. Non dichiarare attivo il flusso prima del collaudo. In errore resta l'ultima edizione con data originale.
+## Prossimo passo
+- Prima consegna ricorrente da verificare dopo il 28 ottobre alle 07:30; nessuna garanzia di puntualità assoluta. In errore conservare l'edizione precedente con data originale, senza fingere un aggiornamento.
+- Il pulsante verifica pubblicazioni: non genera da solo nuove notizie. Nessuna nuova API a pagamento o dipendenza installata.
 
 ## Controlli
 - node scripts/validate.mjs dist/data/current.json --production; node --check dist/app.js; node --check dist/sw.js.
