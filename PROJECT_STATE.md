@@ -18,3 +18,8 @@
 - Automazione ChatGPT intatta. Mai far credere che il cron generi notizie o che l’ora indicata sia un controllo reale.
 - Foto servite da Wikimedia, memorizzate offline dal service worker dopo preparazione. Originali scaricati conservati localmente e ignorati da Git.
 - Fonti consultate via web; check HTTP 12/13 riuscito, Teatro.it restituisce 403 al controllo diretto ma testo completo consultabile tramite strumento web. Non è un paywall accertato.
+
+## Rilascio verificato
+- Animazioni online con commit 041654d72ddd5a2624b00617badcf9ec02b1dad6, run 40479646446 conclusa con successo.
+- Il sito pubblico serve il codice delle transizioni e dell’apertura notizie. Cron della prova rimosso dopo l’esecuzione esplicita; nessuna nuova routine quotidiana attivata.
+- Cartella locale collegata a Git, branch main. Aggiornamento dei file UI versionato con ?v=5 per evitare codice precedente nella cache del browser. Rilascio finale da verificare.
