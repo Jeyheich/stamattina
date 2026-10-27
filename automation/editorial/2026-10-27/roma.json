@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "editionDate": "2026-10-27",
   "category": "Roma",
-  "completedAt": "2026-10-27T12:13:35.041Z",
+  "completedAt": "2026-10-27T12:35:41.468Z",
   "articles": [
     {
       "id": "roma-trasporto-scolastico-riapertura",
@@ -12,19 +12,32 @@
       "title": "Roma, riaperte le domande per il trasporto scolastico",
       "summary": "Dal 27 ottobre è possibile presentare online nuove richieste per il servizio 2026/27, nei limiti delle linee e dei posti già disponibili.",
       "body": [
-        "Roma Servizi per la Mobilità conferma la riapertura delle iscrizioni per gli alunni residenti e frequentanti gli istituti della Capitale. La procedura è rivolta anche a chi non aveva fatto domanda durante il bando ordinario.",
-        "Le richieste sono ammesse soltanto per le linee già attive e le fermate previste dal piano, senza variazioni degli orari o dei percorsi. La pagina è stata pubblicata il 20 ottobre e aggiornata il 27, giorno di effettiva riapertura."
+        "Dal 27 ottobre sono nuovamente aperte le domande per il trasporto scolastico 2026/27 di Roma. La comunicazione ufficiale riguarda le alunne e gli alunni residenti e frequentanti nella città; la pagina, pubblicata il 20 ottobre, risulta aggiornata il 27 ottobre.",
+        "Le richieste si presentano esclusivamente online e riguardano le linee già attive nei Municipi, nei limiti dei posti disponibili. Si utilizzano le fermate già previste dal Piano Trasporti, senza modificare percorsi e orari."
       ],
       "publishedAt": "2026-10-20",
-      "verifiedAt": "2026-10-27T12:13:35.041Z",
+      "verifiedAt": "2026-10-27T12:35:41.468Z",
       "source": {
         "name": "Roma Servizi per la Mobilità",
         "url": "https://romamobilita.it/primo-piano/trasporto-scolastico-2026-27-iscrizioni-di-nuovo-possibili-dal-27-ottobre/",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:13:35.041Z",
-        "dateEvidence": "Pubblicato 20/10/2026 e aggiornato 27/10/2026; riapertura delle domande esplicitamente dal 27 ottobre, verificata nel testo della pagina.",
+        "accessCheckedAt": "2026-10-27T12:35:41.468Z",
+        "dateEvidence": "Pagina ufficiale letta integralmente: pubblicato 20/10/2026, aggiornato 27/10/2026; testo conferma riapertura dal 27 ottobre, linee esistenti e posti disponibili.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bus_stop_in_Rome_01.jpg",
+        "alt": "Fermata di autobus a Roma",
+        "credit": "Nicholas Gemini",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bus_stop_in_Rome_01.jpg",
+        "rights": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · Trasporto pubblico a Roma, 2018. Non è uno scuolabus.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      },
+      "leadPriority": 80,
+      "updatedAt": "2026-10-27"
     },
     {
       "id": "roma-fascia-verde-proroga",
