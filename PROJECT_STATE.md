@@ -82,3 +82,8 @@ Due categorie per avvio, file e commit separati. I recuperi danno priorità alle
 Solo per il 27 ottobre si conservano gli avvii pomeridiani già autorizzati (17:05 prima attività Tecnologia/Sport, 17:15 seconda Roma/Cultura), anche se una run è in corso. Non riavviare gli orari già passati e non creare una ricorrenza pomeridiana dal 28. Seguire AFTERNOON_TRIAL.md e collectionId della prova. Raggruppamento salvato non equivale a prova editoriale riuscita.
 
 - Gestore cloud: configurazioni aggiornate e rilette, terza sospesa dopo verifica di tutte le otto categorie. Verifica indipendente elenco Attivo: due rassegne. Uno slot liberato; attività personali intatte. Prova odierna conservata, suo esito editoriale non ancora dimostrato.
+
+## Avviso finale senza nuove integrazioni
+- Fabio autorizza un avviso finale tramite l'attività esistente. Preferenze ChatGPT Attività osservate: Notifiche push già abilitate; nessuna preferenza globale modificata.
+- Prompt della seconda attività verificato dal gestore: istruzione iniziale presente, stato attivo, 06:15/07:15/08:15 e prova 27 ottobre17:15 conservati. Ultimo passaggio produce risposta visibile con link solo dopo pubblicazione verificata/id del ciclo; altrimenti esito incompleta/errore/in attesa e causa concreta. Attesa workflow limitata a cinque minuti, niente nuovo slot.
+- BATCH_BRIEF e AFTERNOON_TRIAL aggiornati. Nessun webhook, email, servizio o push PWA aggiunto. Non garantire recapito iPhone: permessi iOS e consegna effettiva non verificati; prova di notifica finale ancora da osservare.
