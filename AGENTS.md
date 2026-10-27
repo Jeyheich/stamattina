@@ -17,4 +17,4 @@
 
 - Fonti approvate 27 ottobre: Politica/Cronaca nazionali italiane, niente TGR; Sky TG24, ANSA, Open e alternative gratuite come da BATCH_BRIEF. Roma include Leggo e fatti oltre mobilità. Sport soprattutto calcio italiano, poi F1/tennis e rilievo nazionale; niente riempitivi NFL/cricket. Google News solo scoperta con fonte originale.
 
-- Tecnologia: esattamente 3 Lega Nerd e 2 MegaNerd, anche prova pomeridiana; rimosse HDblog/BBC/Guardian. Ricerca diretta se RSS non leggibile, nessun controllo editoriale/HTTP saltato. MegaNerd cultura nerd va descritta correttamente, senza forzarla come AI.
+- Tecnologia: esattamente 3 PromptOps e 2 Everyeye videogiochi, anche prova pomeridiana. Superate Lega Nerd/MegaNerd e Wired Italia. Escludere offerte; verificare data e fonte originaria delle sintesi PromptOps. Nessuna deroga alle 72 ore per riempire conteggi.
