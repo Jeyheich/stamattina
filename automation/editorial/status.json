@@ -1,12 +1,13 @@
 {
   "editionDate": "2026-10-27",
-  "checkedAt": "2026-10-27T16:18:21.566Z",
+  "checkedAt": "2026-10-27T16:20:58.848Z",
   "ready": false,
   "completed": [
     "politica",
     "esteri",
     "economia",
     "cronaca",
+    "roma",
     "sport"
   ],
   "inProgress": [
@@ -16,7 +17,6 @@
     }
   ],
   "missing": [
-    "roma",
     "cultura"
   ],
   "invalid": [],
@@ -156,6 +156,36 @@
       "eventKey": "sardegna-15-ristoranti-patto-volontario-senza-schermi-ottobre-2026"
     },
     {
+      "id": "roma-trasporto-scolastico-riapertura",
+      "category": "Roma",
+      "title": "Trasporto scolastico romano, riaperte le richieste online",
+      "eventKey": "roma-trasporto-scolastico-riapertura-domande-27-ottobre-2026"
+    },
+    {
+      "id": "roma-montespaccato-volontari",
+      "category": "Roma",
+      "title": "Montespaccato, oltre quaranta giovani avviano un progetto di cura del quartiere",
+      "eventKey": "roma-montespaccato-tt-polis-giovani-pulizia-26-ottobre-2026"
+    },
+    {
+      "id": "roma-unicamillus-camici",
+      "category": "Roma",
+      "title": "UniCamillus, quattrocento studenti iniziano il tirocinio clinico",
+      "eventKey": "roma-unicamillus-white-coat-400-studenti-26-ottobre-2026"
+    },
+    {
+      "id": "roma-dia-san-basilio-tufello",
+      "category": "Roma",
+      "title": "DIA, sei arresti nell'inchiesta sul narcotraffico tra San Basilio e Tufello",
+      "eventKey": "roma-dia-arresti-traffico-droga-estorsioni-27-ottobre-2026"
+    },
+    {
+      "id": "roma-sciopero-usb-30-ottobre",
+      "category": "Roma",
+      "title": "Sciopero Usb del 30 ottobre, aggiornate le fasce di garanzia a Roma",
+      "eventKey": "roma-sciopero-usb-trasporti-30-ottobre-2026"
+    },
+    {
       "id": "sport-pulisic-rinnovo-milan",
       "category": "Sport",
       "title": "Milan, vicino il rinnovo di Pulisic fino al 2031",
@@ -214,11 +244,16 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:HSBC.Reza_01.jpg"
     },
     {
+      "id": "roma-trasporto-scolastico-riapertura",
+      "category": "Roma",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bus_stop_in_Rome_01.jpg"
+    },
+    {
       "id": "sport-pulisic-rinnovo-milan",
       "category": "Sport",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg"
     }
   ],
-  "photosAvailable": 4,
+  "photosAvailable": 5,
   "needsPublication": false
 }
