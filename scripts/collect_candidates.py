@@ -33,12 +33,14 @@ FEEDS = (
     ('Cultura · Teatro · Cinema', 'Teatro e Critica', 'https://www.teatroecritica.net/feed/'),
     ('Tecnologia · AI', 'HDblog', 'https://www.hdblog.it/feed/'),
     ('Tecnologia · AI', 'BBC Technology', 'https://feeds.bbci.co.uk/news/technology/rss.xml'),
+    ('Tecnologia · AI', 'The Guardian Technology', 'https://www.theguardian.com/uk/technology/rss'),
     ('Sport', 'RaiNews', 'https://www.rainews.it/rss/sport'),
     ('Sport', 'BBC Sport', 'https://feeds.bbci.co.uk/sport/rss.xml?edition=uk'),
 )
 NOW = dt.datetime.now(dt.timezone.utc)
 HOST_LOCKS = {}
 HOST_LOCK = threading.Lock()
+HOST_BLOCKED = set()
 
 def plain(value):
     return re.sub(r'\s+', ' ', html.unescape(re.sub('<[^>]+>', ' ', value or ''))).strip()
@@ -64,11 +66,15 @@ def request(url):
     with HOST_LOCK:
         lock = HOST_LOCKS.setdefault(host, threading.Lock())
     with lock:
+        if host in HOST_BLOCKED:
+            raise RuntimeError('Editore temporaneamente limitato dopo HTTP 429; uso alternative')
         for attempt in range(2):
             try:
                 time.sleep(.2)
                 return fetch(url)
             except urllib.error.HTTPError as exc:
+                if attempt and exc.code == 429:
+                    HOST_BLOCKED.add(host)
                 if attempt or exc.code not in (429, 500, 502, 503, 504):
                     raise
                 time.sleep(5 if exc.code == 429 else 1)
@@ -143,8 +149,7 @@ def collect(age_hours=72, verify_pages=False, limit=12):
         per_source = sum(old['category'] == candidate['category'] and old['source'] == candidate['source'] for old in unique)
         # Retain alternative sources for fragile feeds instead of filling the
         # whole queue from a single publisher before checking its access.
-        cap = max(5, limit // 2) if candidate['category'] in ('Sport', 'Tecnologia · AI', 'Economia') else limit
-        if per_source < cap and sum(old['category'] == candidate['category'] for old in unique) < limit:
+        if per_source < limit and sum(old['category'] == candidate['category'] for old in unique) < limit * 3:
             unique.append(candidate)
     if verify_pages:
         checked = []
@@ -155,6 +160,11 @@ def collect(age_hours=72, verify_pages=False, limit=12):
                 if error:
                     errors.append(error)
         unique = checked
+    selected = []
+    for candidate in unique:
+        if sum(old['category'] == candidate['category'] for old in selected) < limit:
+            selected.append(candidate)
+    unique = selected
     counts = {category: sum(x['category'] == category for x in unique) for category in CATEGORIES}
     return dict(kind='research-candidates-not-an-edition', generatedAt=NOW.isoformat(),
                 ageLimitHours=age_hours, pageAccessChecked=verify_pages,
