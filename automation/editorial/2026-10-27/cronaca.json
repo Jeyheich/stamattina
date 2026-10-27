@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-10-27",
+  "category": "Cronaca",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-10-27T11:59:49.131Z",
+  "articles": [
+    {
+      "id": "cronaca-verona-treno-33enne",
+      "eventKey": "verona-porta-nuova-treno-morte-33enne-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Verona, muore un 33enne dopo essere stato investito dal treno in partenza",
+      "summary": "L'uomo è scivolato dalla banchina mentre cercava di raggiungere il convoglio già in movimento. È morto in ospedale.",
+      "body": [
+        "La notizia del 27 ottobre ricostruisce l'incidente avvenuto domenica alla stazione di Verona Porta Nuova. Trenord ha espresso cordoglio e ha dichiarato di collaborare con la Polizia ferroviaria nelle verifiche sulla dinamica."
+      ],
+      "publishedAt": "2026-10-27",
+      "verifiedAt": "2026-10-27T11:59:49.131Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/amp/articoli/2026/10/cerca-di-fermare-il-treno-ma-scivola-e-viene-travolto-muore-a-33-anni-davanti-alla-compagna-5ba65140-5f4b-43aa-b01b-1e4903a06cff.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T11:59:49.131Z",
+        "dateEvidence": "Pagina integrale RaiNews con data 27/10/2026; verificati decesso, stazione e comunicazione Trenord.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-kaufmann-richiesta-ergastolo",
+      "eventKey": "kaufmann-pm-richiesta-ergastolo-villa-pamphili-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Caso Villa Pamphili, la Procura chiede l'ergastolo per Francis Kaufmann",
+      "summary": "Il pubblico ministero ha chiesto l'ergastolo e tre anni di isolamento diurno per il duplice omicidio di Anastasia Trofimova e della figlia.",
+      "body": [
+        "La requisitoria, riportata da RaiNews il 26 ottobre, ricostruisce la tesi dell'accusa sul duplice omicidio. La richiesta della Procura non è una condanna: la decisione spetta ancora ai giudici."
+      ],
+      "publishedAt": "2026-10-26",
+      "verifiedAt": "2026-10-27T11:59:49.131Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/10/cronaca-la-procura-chiede-ergastolo-per-kaufmann-duplice-omicidio-anastasia-e-della-figlia-di-14-mesi-fbcc2336-4965-4712-9cbc-b18cbe4c3851.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T11:59:49.131Z",
+        "dateEvidence": "Articolo RaiNews integrale datato 26/10/2026: requisitoria, richiesta ergastolo e isolamento diurno.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
+}
