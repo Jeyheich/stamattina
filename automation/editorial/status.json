@@ -1,17 +1,17 @@
 {
   "editionDate": "2026-10-27",
-  "checkedAt": "2026-10-27T12:29:43.173Z",
+  "checkedAt": "2026-10-27T12:33:41.019Z",
   "ready": false,
   "completed": [
     "politica",
     "esteri",
     "economia",
     "cronaca",
-    "roma"
+    "roma",
+    "cultura"
   ],
   "inProgress": [],
   "missing": [
-    "cultura",
     "tecnologia",
     "sport"
   ],
@@ -166,6 +166,36 @@
       "category": "Roma",
       "title": "Roma, annunciato lo sciopero del trasporto pubblico del 30 ottobre",
       "eventKey": "roma-sciopero-usb-trasporti-30-ottobre-2026"
+    },
+    {
+      "id": "cultura-pasolini-porta-portese",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Pasolini, teatro e letture al Porta Portese",
+      "eventKey": "pasolini-art-visual-territorio-27-ottobre-2026"
+    },
+    {
+      "id": "cultura-can-can-ortoleva",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Can Can, Ortoleva porta l'epilessia sulla scena",
+      "eventKey": "romaeuropa-can-can-ortoleva-27-28-ottobre-2026"
+    },
+    {
+      "id": "cultura-opera-trittico",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "All'Opera tre coreografie tra Goecke, Robbins e Bausch",
+      "eventKey": "opera-roma-trittico-goecke-robbins-bausch-27-ottobre-2026"
+    },
+    {
+      "id": "cultura-cinema-ucraino-polacco",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Alla Casa del Cinema il festival ucraino-polacco",
+      "eventKey": "casa-cinema-festival-ucraino-polacco-27-29-ottobre-2026"
+    },
+    {
+      "id": "cultura-psichedelico-tor-bella-monaca",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Psichedelico esplora il disagio giovanile a teatro",
+      "eventKey": "teatro-tor-bella-monaca-psichedelico-27-28-ottobre-2026"
     }
   ],
   "photoCandidates": [
