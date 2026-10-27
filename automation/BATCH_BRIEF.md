@@ -1,9 +1,9 @@
-# Rassegna personale — un blocco di cinque notizie per esecuzione
+# Rassegna personale — blocchi di cinque, salvati separatamente
 
 Fabio autorizza l'uso di una parte della quota Plus già pagata, con GitHub, anche a Mac spento. ZERO costi aggiuntivi, niente API esterne, altri modelli o nuove credenziali. Usa il plugin GitHub già collegato e il web. I limiti del piano restano condivisi con gli altri usi di Fabio. Non acquistare crediti né attivare ricariche. La produzione da 40 in una sola esecuzione è scartata.
 
 ## Compito limitato e riprendibile
-Il prompt della task specifica UNA categoria e il suo slug. Completa esattamente cinque fatti distinti di quella categoria e salva il singolo blocco: non devi preparare le altre sette categorie né l'intera edizione. I blocchi già validi non si riscrivono. Un blocco incompleto va continuato al prossimo tentativo, senza cancellare gli altri.
+Il prompt della task specifica al massimo DUE categorie per esecuzione. Per ciascuna completa esattamente cinque fatti distinti e salva il singolo blocco PRIMA di passare al successivo: non devi preparare l'intera edizione in un solo file o una sola chiamata GitHub. Nei passaggi di recupero lavora al massimo su due blocchi o sulle foto mancanti. I blocchi già validi non si riscrivono. Un blocco incompleto va continuato al prossimo tentativo, senza cancellare gli altri.
 
 Slug e categoria: politica = Politica; esteri = Esteri; economia = Economia; cronaca = Cronaca; roma = Roma; cultura = Cultura · Teatro · Cinema; tecnologia = Tecnologia · AI; sport = Sport.
 
@@ -49,3 +49,6 @@ Se lo stato riporta blocked/sourceErrors, leggi la causa concreta e ripara solta
 
 ## Foto: controllo tecnico indipendente, senza ripetere la ricerca
 Il dossier può contenere photoReferences e photoReferencesLineRange. Il raccoglitore GitHub verifica davvero licenza Commons, autore e raggiungibilità delle immagini, e registra technicalCheckedAt e technicalCheck. Leggi soltanto quella finestra quando serve una foto. Se una reference ha controllo tecnico di oggi e technicalCheck commons-license-author-image-access-ok, puoi COPIARE il suo oggetto image senza inventare o riscrivere metadati. Il tuo compito è verificarne PERTINENZA e didascalia rispetto alla storia; GitHub eseguirà nuovamente il controllo tecnico prima di pubblicare. Non dichiarare di aver fatto personalmente quel controllo se lo ha fatto il server. Un ritratto/luogo diverso o una foto non pertinente non va usato. Non serve rifare in ogni run i medesimi controlli tecnici che il server ha appena compiuto. Se non c’è un riferimento pertinente, cerca un’altra foto Commons o salva il blocco senza foto, senza falsificare una verifica.
+
+## Pianificazione effettiva nel piano disponibile
+Il gestore ha rifiutato sia nove avvii orari nella stessa attività sia otto attività (limite account osservato: cinque attive, due già personali). Il collaudo di DUE blocchi separati nella stessa esecuzione è riuscito. Configurazione attiva: tre attività rassegna esistenti, sei avvii complessivi, tutti Europe/Rome. Principale 06:03 Politica+Esteri, 07:03 Tecnologia+Sport; Economia e Cronaca 06:10 le due categorie, 07:10 recupero massimo due; Roma e Cultura 06:17 le due categorie, 07:17 recupero/foto/verifica. Ogni singola attività rispetta un'ora tra avvii. Nessuna delle altre due attività personali è stata modificata. Se tutto risulta già validamente pubblicato oggi, salta ricerca, riscritture e nuovi controlli editoriali. Questo non misura una quota percentuale: sono al massimo sei esecuzioni, condivise con il piano Plus.
