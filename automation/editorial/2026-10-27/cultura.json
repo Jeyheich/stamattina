@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "editionDate": "2026-10-27",
   "category": "Cultura · Teatro · Cinema",
-  "completedAt": "2026-10-27T12:33:21.968Z",
+  "completedAt": "2026-10-27T12:43:18.638Z",
   "articles": [
     {
       "id": "cultura-pasolini-porta-portese",
@@ -82,20 +82,32 @@
       "title": "Alla Casa del Cinema il festival ucraino-polacco",
       "summary": "La rassegna cinematografica è prevista dal 27 al 29 ottobre con ingresso gratuito fino a esaurimento posti.",
       "body": [
-        "L'iniziativa, con il patrocinio delle ambasciate d'Ucraina e di Polonia presso la Santa Sede, è annunciata dal calendario culturale ufficiale di Roma."
+        "Dal 27 al 29 ottobre la Casa del Cinema di Villa Borghese ospita un festival dedicato al cinema ucraino e polacco. La scheda ufficiale indica la sede di largo Marcello Mastroianni, 1, e la Fondazione Cinema per Roma come ente curatore.",
+        "L'ingresso è gratuito fino all'esaurimento dei posti disponibili. Il sito segnala che il programma può subire variazioni: prima di recarsi alle proiezioni è utile controllare gli aggiornamenti della Casa del Cinema."
       ],
       "publishedAt": "2026-10-27",
       "dateKind": "event",
       "eventDate": "2026-10-27",
-      "verifiedAt": "2026-10-27T12:33:21.968Z",
+      "verifiedAt": "2026-10-27T12:43:18.638Z",
       "source": {
         "name": "Culture Roma – Roma Capitale",
         "url": "https://culture.roma.it/appuntamento/festival-del-cinema-ucraino-polacco/",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:33:21.968Z",
-        "dateEvidence": "Scheda ufficiale del programma: evento in calendario il 27 ottobre 2026; data editoriale di pubblicazione non indicata.",
+        "accessCheckedAt": "2026-10-27T12:43:18.638Z",
+        "dateEvidence": "Pagina ufficiale Culture Roma letta integralmente: evento dal 27 al 29 ottobre 2026 alla Casa del Cinema; data editoriale non disponibile, ingresso gratuito fino a esaurimento posti.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
+      },
+      "image": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Villa_Borghese_-_Casa_del_Cinema_P1020818.JPG/960px-Villa_Borghese_-_Casa_del_Cinema_P1020818.JPG",
+        "alt": "Casa del Cinema a Villa Borghese, Roma",
+        "credit": "Lalupa",
+        "rights": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Villa_Borghese_-_Casa_del_Cinema_P1020818.JPG",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "caption": "Repertorio · La Casa del Cinema a Villa Borghese, Roma. La fotografia non ritrae l'edizione 2026 del festival.",
+        "reuseApproved": true
+      },
+      "leadPriority": 75
     },
     {
       "id": "cultura-psichedelico-tor-bella-monaca",
