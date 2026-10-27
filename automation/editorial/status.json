@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-27",
-  "checkedAt": "2026-10-27T15:43:05.194Z",
+  "checkedAt": "2026-10-27T15:56:03.420Z",
   "ready": false,
   "completed": [
     "politica",
@@ -139,6 +139,16 @@
     }
   ],
   "collectionId": "2026-10-27-pomeriggio",
+  "reserveCounts": {
+    "Politica": 0,
+    "Esteri": 0,
+    "Economia": 0,
+    "Cronaca": 0,
+    "Roma": 0,
+    "Cultura · Teatro · Cinema": 0,
+    "Tecnologia · AI": 0,
+    "Sport": 0
+  },
   "photoCandidates": [
     {
       "id": "politica-manovra-cdm-28-ottobre",
