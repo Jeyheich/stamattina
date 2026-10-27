@@ -25,19 +25,23 @@ CATEGORIES = ('Politica', 'Esteri', 'Economia', 'Cronaca', 'Roma',
               'Cultura · Teatro · Cinema', 'Tecnologia · AI', 'Sport')
 FEEDS = (
     ('Politica', 'RaiNews', 'https://www.rainews.it/rss/politica'),
+    ('Politica', 'Sky TG24', 'https://tg24.sky.it/rss/tg24_politica.xml'),
+    ('Politica', 'Open', 'https://www.open.online/feed/'),
     ('Esteri', 'RaiNews', 'https://www.rainews.it/rss/esteri'),
     ('Economia', 'AGI', 'https://www.agi.it/economia/rss.xml'),
     ('Economia', 'BBC Business', 'https://feeds.bbci.co.uk/news/business/rss.xml'),
     ('Economia', 'The Guardian Business', 'https://www.theguardian.com/uk/business/rss'),
     ('Cronaca', 'RaiNews', 'https://www.rainews.it/rss/cronaca'),
+    ('Cronaca', 'Sky TG24', 'https://tg24.sky.it/rss/tg24_cronaca.xml'),
     ('Roma', 'RomaToday', 'https://www.romatoday.it/rss'),
+    ('Roma', 'Leggo Roma', 'https://www.leggo.it/rss/home.xml'),
     ('Cultura · Teatro · Cinema', 'Teatro e Critica', 'https://www.teatroecritica.net/feed/'),
     ('Tecnologia · AI', 'HDblog', 'https://www.hdblog.it/feed/'),
     ('Tecnologia · AI', 'BBC Technology', 'https://feeds.bbci.co.uk/news/technology/rss.xml'),
     ('Tecnologia · AI', 'The Guardian Technology', 'https://www.theguardian.com/uk/technology/rss'),
     ('Sport', 'RaiNews', 'https://www.rainews.it/rss/sport'),
-    ('Sport', 'BBC Sport', 'https://feeds.bbci.co.uk/sport/rss.xml?edition=uk'),
-    ('Sport', 'The Guardian Sport', 'https://www.theguardian.com/uk/sport/rss'),
+    ('Sport', 'Sky Sport', 'https://sport.sky.it/rss/sport.xml'),
+    ('Sport', 'Leggo Sport', 'https://www.leggo.it/rss/sport.xml'),
 )
 NOW = dt.datetime.now(dt.timezone.utc)
 HOST_LOCKS = {}
@@ -62,6 +66,39 @@ def tokens(title):
 def similar(a, b):
     left, right = tokens(a), tokens(b)
     return bool(left and right) and len(left & right) / len(left | right) >= .55
+
+def feed_date(value):
+    # Sky and Leggo use Italian RFC-like weekdays/months; preserve original evidence.
+    replacements = {'lun':'Mon','mar':'Tue','mer':'Wed','gio':'Thu','ven':'Fri',
+                    'sab':'Sat','dom':'Sun','gen':'Jan','feb':'Feb','mag':'May',
+                    'giu':'Jun','lug':'Jul','ago':'Aug','set':'Sep','ott':'Oct','dic':'Dec'}
+    value = re.sub(r'\b[a-z]{3}\b', lambda m: replacements.get(m.group(), m.group()), value)
+    return email.utils.parsedate_to_datetime(value)
+
+def eligible(category, source, title, url):
+    text = (title + ' ' + url).casefold()
+    if category in ('Politica', 'Cronaca') and ('/tgr/' in url or 'tgr ' in source.casefold()):
+        return False
+    if source == 'Open' and not re.search(r'politic|governo|parlamento|manovra|meloni|salvini|schlein|elezion|ministr', text):
+        return False
+    # Leggo's generic feed is not a reliable dedicated Rome feed: retain only explicit local matches.
+    if source == 'Leggo Roma' and not re.search(r'\broma\b|romano|romani|romana|romane|/roma/|ostia|fiumicino|atac|campidoglio', text):
+        return False
+    if category == 'Sport':
+        if re.search(r'cricket|\bnfl\b|cowboys|eagles|\bnba\b|super-bowl', text):
+            return False
+        return bool(re.search(r'calcio|serie[- ]?[ab]|champions|europa.league|nazionale|azzurr|formula[- ]?1|\bf1\b|tennis|sinner|paolini|berrettini|musetti|pallavolo|volley|nuoto|atletica|ciclismo|basket|rugby', text))
+    return True
+
+def editorial_rank(candidate):
+    if candidate['category'] != 'Sport':
+        return 0
+    text = (candidate['title'] + ' ' + candidate['url']).casefold()
+    if re.search(r'calcio|serie[- ]?[ab]|champions|europa.league', text):
+        return 0
+    if re.search(r'formula[- ]?1|\bf1\b|tennis|sinner|paolini|berrettini|musetti', text):
+        return 1
+    return 2
 
 def request(url):
     host = urllib.parse.urlsplit(url).hostname
@@ -92,18 +129,21 @@ def read_feed(spec, age_hours):
         root = ET.fromstring(raw)
         candidates = []
         for item in root.findall('.//item'):
-            title, link = plain(item.findtext('title')), item.findtext('link', '').strip()
+            title = plain(item.findtext('title'))
+            link = (item.findtext('link') or item.findtext('guid') or '').strip()
             date_text = item.findtext('pubDate', '')
             if not title or not link or re.search(r'#?(?:adv|sponsor)|offerte|promozioni', title, re.I):
                 continue
             try:
-                published = email.utils.parsedate_to_datetime(date_text)
+                published = feed_date(date_text)
                 if published.tzinfo is None:
                     continue
                 age = (NOW - published).total_seconds() / 3600
                 if not 0 <= age <= age_hours:
                     continue
                 link = canonical(link)
+                if not link.startswith('https://') or not eligible(category, source, title, link):
+                    continue
             except (ValueError, TypeError):
                 continue
             assigned = category
@@ -177,7 +217,7 @@ def collect(age_hours=72, verify_pages=False, limit=12):
                     errors.append(error)
         unique = checked
     selected = []
-    for candidate in unique:
+    for candidate in sorted(unique, key=editorial_rank):
         if sum(old['category'] == candidate['category'] for old in selected) < limit:
             selected.append(candidate)
     unique = selected
