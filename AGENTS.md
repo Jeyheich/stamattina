@@ -18,3 +18,6 @@
 - Fonti approvate 27 ottobre: Politica/Cronaca nazionali italiane, niente TGR; Sky TG24, ANSA, Open e alternative gratuite come da BATCH_BRIEF. Roma include Leggo e fatti oltre mobilità. Sport soprattutto calcio italiano, poi F1/tennis e rilievo nazionale; niente riempitivi NFL/cricket. Google News solo scoperta con fonte originale.
 
 - Tecnologia: esattamente 3 PromptOps e 2 Everyeye videogiochi, anche prova pomeridiana. Superate Lega Nerd/MegaNerd e Wired Italia. Escludere offerte; verificare data e fonte originaria delle sintesi PromptOps. Nessuna deroga alle 72 ore per riempire conteggi.
+
+## Alternativa gaming autorizzata
+Everyeye resta la prima scelta per le DUE notizie videogiochi. SOLO se non leggibile o non offre due fatti recenti verificabili, completa i posti gaming mancanti con IGN Italia (https://it.ign.com/, feed https://it.ign.com/feed.xml). Questa eccezione supera il vincolo esclusivo Everyeye, non la quota TRE PromptOps. Mantieni cinque fatti distinti, date vere, articoli gratuiti e fonte originale; indica esplicitamente IGN Italia nelle schede usate. Non mescolare notizie duplicate (ad esempio trailer e annuncio dello stesso gioco). Non sostituire automaticamente Everyeye quando funziona.
