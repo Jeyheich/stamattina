@@ -97,12 +97,12 @@ def verify(edition):
     jobs = [(check_article, a) for a in articles] + [(check_photo, a) for a in articles if a['id'] in edition['leadIds']]
     errors = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:
-        pending = [pool.submit(fn, a) for fn, a in jobs]
+        pending = {pool.submit(fn, a): (fn.__name__, a["id"]) for fn, a in jobs}
         for result in concurrent.futures.as_completed(pending):
             try:
                 print(result.result())
             except Exception as exc:
-                errors.append(str(exc))
+                errors.append(": ".join(pending[result]) + ": " + str(exc))
     if errors:
         raise ValueError('Pubblicazione bloccata: ' + '; '.join(errors))
     print('Controlli fonti/fotografie superati; la verifica editoriale automatizzata resta necessaria.')

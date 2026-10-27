@@ -31,3 +31,6 @@ Non dichiarare il sito aggiornato al solo commit. Controllare l'esecuzione di Pu
 
 ## Risultato
 Confermare concisamente data/ora effettive, numero di notizie e link della PWA solo dopo verifica. Se resta un blocco o si supera l'obiettivo delle 07:30, dirlo apertamente senza cambiare la data della vecchia edizione. Conservare istruzioni e controlli nel repository per la ripresa del giorno successivo.
+
+## Lettura esiti Actions
+Non usare fetch_commit_workflow_runs per trovare il push: quello strumento filtra soltanto pull request. Cercare il run tramite API pubblica https://api.github.com/repos/Jeyheich/stamattina/actions/runs oppure pagina GitHub Actions, confrontando head_sha con il commit. Usare fetch_workflow_run_jobs e fetch_workflow_job_logs per gli errori. Correggere e riprovare i dati se una fonte restituisce 403 o timeout; non conservare verifiche editoriali non svolte. Il collaudo del 27 ottobre ha trovato Teatro.it 403 e INDIRE timeout: sostituire quelle fonti con altre direttamente accessibili e rifare effettivamente la verifica di ogni articolo.
