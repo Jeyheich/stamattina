@@ -3,9 +3,70 @@
   "editionDate": "2026-10-27",
   "collectionId": "2026-10-27-pomeriggio",
   "category": "Tecnologia · AI",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-10-27T16:04:38.502Z",
   "articles": [
+    {
+      "id": "tecnologia-opera-webai-browser",
+      "eventKey": "tecnologia-opera-webai-browser-2026-10-27",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Opera propone WebAI per usare modelli AI locali nel browser",
+      "summary": "La proposta permette a siti ed estensioni di usare modelli ospitati nel browser, riducendo il ricorso al cloud.",
+      "body": [
+        "Opera ha presentato WebAI, una proposta di standard per consentire a siti ed estensioni di utilizzare modelli AI eseguiti dal browser. Punto Informatico riferisce che la prima implementazione è disponibile in Opera One e che le prestazioni dipendono dall’hardware del dispositivo."
+      ],
+      "publishedAt": "2026-10-27T17:21:45+01:00",
+      "verifiedAt": "2026-10-27T16:26:34.817Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/opera-webai-nuovo-standard-modelli-ai-browser/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:26:34.817Z",
+        "dateEvidence": "Pagina integrale e metadati JSON-LD letti: datePublished 2026-10-27T17:21:45+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-macbook-oled-indiscrezioni",
+      "eventKey": "tecnologia-macbook-oled-indiscrezioni-2026-10-27",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "MacBook Pro OLED touch, nuove indiscrezioni sul design",
+      "summary": "Punto Informatico riprende anticipazioni di Mark Gurman su scocca e cerniera: non sono specifiche ufficialmente confermate.",
+      "body": [
+        "Secondo le indiscrezioni di Mark Gurman riportate dalla testata, il possibile MacBook Pro con display OLED touch avrebbe uno chassis più sottile e una cerniera riprogettata per rendere più stabile lo schermo durante l’uso tattile. Si tratta di anticipazioni attribuite al giornalista, non di caratteristiche confermate da Apple nella fonte letta."
+      ],
+      "publishedAt": "2026-10-27T16:57:13+01:00",
+      "verifiedAt": "2026-10-27T16:26:34.817Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/macbook-pro-oled-touch-nuova-cerniera-design/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:26:34.817Z",
+        "dateEvidence": "Pagina integrale e metadati JSON-LD letti: datePublished 2026-10-27T16:57:13+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-zelixos-linux-aurora",
+      "eventKey": "tecnologia-zelixos-linux-aurora-2026-10-27",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "ZelixOS, una nuova distribuzione Linux basata su Arch",
+      "summary": "La versione Aurora 1.0.0 punta su un desktop essenziale con KDE Plasma personalizzato.",
+      "body": [
+        "Punto Informatico segnala l’arrivo di ZelixOS Aurora 1.0.0, progetto giovane basato su Arch Linux. Il desktop predefinito usa una personalizzazione di KDE Plasma, con alternative selezionabili durante la configurazione; la testata invita a valutarne ancora la maturità."
+      ],
+      "publishedAt": "2026-10-27T16:14:21+01:00",
+      "verifiedAt": "2026-10-27T16:26:34.817Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/zelixos-distribuzione-linux/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:26:34.817Z",
+        "dateEvidence": "Pagina integrale e metadati JSON-LD letti: datePublished 2026-10-27T16:14:21+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
     {
       "id": "tecnologia-fortnite-one-piece-trailer",
       "eventKey": "fortnite-one-piece-trailer-treasure-hunter-27-ottobre-2026",
@@ -50,5 +111,6 @@
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
-  ]
+  ],
+  "completedAt": "2026-10-27T16:26:34.817Z"
 }
