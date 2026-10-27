@@ -36,7 +36,7 @@ FEEDS = (
     ('Roma', 'RomaToday', 'https://www.romatoday.it/rss'),
     ('Roma', 'Leggo Roma', 'https://www.leggo.it/rss/home.xml'),
     ('Cultura · Teatro · Cinema', 'Teatro e Critica', 'https://www.teatroecritica.net/feed/'),
-    ('Tecnologia · AI', 'PromptOps', 'https://www.promptops.it/news/rss.xml'),
+    ('Tecnologia · AI', 'Punto Informatico', 'https://www.punto-informatico.it/feed/'),
     ('Tecnologia · AI', 'Everyeye', 'https://www.everyeye.it/feed/feed_news_rss.asp'),
     ('Tecnologia · AI', 'IGN Italia', 'https://it.ign.com/feed.xml'),
     ('Sport', 'RaiNews', 'https://www.rainews.it/rss/sport'),
@@ -229,7 +229,7 @@ def collect(age_hours=72, verify_pages=False, limit=12):
     return dict(kind='research-candidates-not-an-edition', generatedAt=NOW.isoformat(),
                 ageLimitHours=age_hours, pageAccessChecked=verify_pages,
                 editorialReviewRequired=True, semanticDeduplicationRequired=True,
-                technologySourceRule='3 PromptOps + 2 Everyeye videogames; IGN Italia only if Everyeye unavailable',
+                technologySourceRule='3 Punto Informatico + 2 Everyeye videogames; IGN Italia only if Everyeye unavailable',
                 counts=counts, insufficientCategories=[c for c, n in counts.items() if n < 5],
                 candidates=unique, photoReferences=photo_refs, errors=errors)
 
