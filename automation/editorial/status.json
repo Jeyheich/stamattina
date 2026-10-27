@@ -1,7 +1,7 @@
 {
   "editionDate": "2026-10-27",
-  "checkedAt": "2026-10-27T16:26:52.325Z",
-  "ready": false,
+  "checkedAt": "2026-10-27T16:27:41.900Z",
+  "ready": true,
   "completed": [
     "politica",
     "esteri",
@@ -9,31 +9,13 @@
     "cronaca",
     "roma",
     "cultura",
+    "tecnologia",
     "sport"
   ],
-  "inProgress": [
-    {
-      "slug": "tecnologia",
-      "count": 2
-    }
-  ],
+  "inProgress": [],
   "missing": [],
   "invalid": [],
   "stories": [
-    {
-      "id": "tecnologia-fortnite-one-piece-trailer",
-      "category": "Tecnologia · AI",
-      "title": "Fortnite mostra la collaborazione con One Piece nel trailer di Treasure Hunter",
-      "eventKey": "fortnite-one-piece-trailer-treasure-hunter-27-ottobre-2026",
-      "pending": true
-    },
-    {
-      "id": "tecnologia-xbox-vendite-settembre",
-      "category": "Tecnologia · AI",
-      "title": "Xbox Series, vendite USA in calo nonostante l'attenzione per GTA 6",
-      "eventKey": "xbox-series-vendite-settembre-2026-circana-gta6",
-      "pending": true
-    },
     {
       "id": "politica-manovra-cdm-28-ottobre",
       "category": "Politica",
@@ -215,6 +197,36 @@
       "eventKey": "teatro-tor-bella-monaca-psichedelico-27-28-ottobre-2026"
     },
     {
+      "id": "tecnologia-opera-webai-browser",
+      "category": "Tecnologia · AI",
+      "title": "Opera propone WebAI per usare modelli AI locali nel browser",
+      "eventKey": "tecnologia-opera-webai-browser-2026-10-27"
+    },
+    {
+      "id": "tecnologia-macbook-oled-indiscrezioni",
+      "category": "Tecnologia · AI",
+      "title": "MacBook Pro OLED touch, nuove indiscrezioni sul design",
+      "eventKey": "tecnologia-macbook-oled-indiscrezioni-2026-10-27"
+    },
+    {
+      "id": "tecnologia-zelixos-linux-aurora",
+      "category": "Tecnologia · AI",
+      "title": "ZelixOS, una nuova distribuzione Linux basata su Arch",
+      "eventKey": "tecnologia-zelixos-linux-aurora-2026-10-27"
+    },
+    {
+      "id": "tecnologia-fortnite-one-piece-trailer",
+      "category": "Tecnologia · AI",
+      "title": "Fortnite mostra la collaborazione con One Piece nel trailer di Treasure Hunter",
+      "eventKey": "fortnite-one-piece-trailer-treasure-hunter-27-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-xbox-vendite-settembre",
+      "category": "Tecnologia · AI",
+      "title": "Xbox Series, vendite USA in calo nonostante l'attenzione per GTA 6",
+      "eventKey": "xbox-series-vendite-settembre-2026-circana-gta6"
+    },
+    {
       "id": "sport-pulisic-rinnovo-milan",
       "category": "Sport",
       "title": "Milan, vicino il rinnovo di Pulisic fino al 2031",
@@ -289,5 +301,6 @@
     }
   ],
   "photosAvailable": 6,
-  "needsPublication": false
+  "editionId": "2026-10-27-batches-56dc0c58fe91",
+  "needsPublication": true
 }

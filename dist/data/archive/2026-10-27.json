@@ -1,61 +1,61 @@
 {
   "schemaVersion": 1,
-  "id": "2026-10-27-batches-b9bee48dc05a",
+  "id": "2026-10-27-batches-56dc0c58fe91",
   "mode": "live",
   "editionDate": "2026-10-27",
-  "generatedAt": "2026-10-27T13:35:30.544Z",
+  "generatedAt": "2026-10-27T16:27:41.900Z",
   "timezone": "Europe/Rome",
   "scheduledFor": "2026-10-27T07:30:00+01:00",
   "essentialIds": [
+    "esteri-israele-elezioni-affluenza",
     "politica-manovra-cdm-28-ottobre",
-    "sport-serie-a-nona-giornata-2026",
+    "sport-pulisic-rinnovo-milan",
     "economia-hsbc-utili-trimestre",
-    "roma-trasporto-scolastico-riapertura",
-    "cultura-cinema-ucraino-polacco"
+    "roma-trasporto-scolastico-riapertura"
   ],
   "leadIds": [
+    "esteri-israele-elezioni-affluenza",
     "politica-manovra-cdm-28-ottobre",
-    "sport-serie-a-nona-giornata-2026",
+    "sport-pulisic-rinnovo-milan",
     "economia-hsbc-utili-trimestre",
-    "roma-trasporto-scolastico-riapertura",
-    "cultura-cinema-ucraino-polacco"
+    "roma-trasporto-scolastico-riapertura"
   ],
   "compactIds": [
-    "politica-ucraina-meloni-salvini",
-    "politica-italia-territori-convention",
+    "politica-salvini-pensioni-64-anni",
+    "politica-ricorsi-legge-elettorale",
     "politica-mazzi-turismo-costituzione",
     "politica-mattarella-sanita-universale",
-    "esteri-raid-kiev-27-ottobre",
-    "esteri-noaa-el-nino",
-    "esteri-australia-sicurezza-parlamentari",
-    "esteri-serbia-student-list-governo",
-    "esteri-brasile-lula-vittoria",
+    "esteri-gabon-prospector-5",
+    "esteri-kiev-ponte-dnipro",
+    "esteri-serbia-student-list-ue",
+    "esteri-brasile-lula-riconoscimento",
     "economia-imprese-uk-difficolta",
     "economia-prezzi-negozi-uk",
+    "economia-pompe-calore-sussidi",
     "economia-commercio-uk-ue",
-    "economia-investimenti-datacenter-uk",
+    "cronaca-monza-omicidio-fermo",
+    "cronaca-perugia-operaio-ventenne",
+    "cronaca-impagnatiello-premeditazione",
     "cronaca-verona-treno-33enne",
-    "cronaca-kaufmann-richiesta-ergastolo",
-    "cronaca-torino-parco-dora-fermo",
-    "cronaca-milano-denuncia-metropolitana",
-    "cronaca-ischia-tre-arresti",
-    "roma-fascia-verde-proroga",
-    "roma-rapina-don-bosco-contanti",
-    "roma-sequestro-castel-giubileo-tevere",
-    "roma-sciopero-atac-30-ottobre",
+    "cronaca-sardegna-ristoranti-senza-schermi",
+    "roma-montespaccato-volontari",
+    "roma-unicamillus-camici",
+    "roma-dia-san-basilio-tufello",
+    "roma-sciopero-usb-30-ottobre",
     "cultura-pasolini-porta-portese",
     "cultura-can-can-ortoleva",
     "cultura-opera-trittico",
+    "cultura-cinema-ucraino-polacco",
     "cultura-psichedelico-tor-bella-monaca",
-    "tecnologia-detox-gen-z",
-    "tecnologia-anthropic-prospetto",
-    "tecnologia-home-office-ai",
-    "tecnologia-iphone-duo-display",
-    "tecnologia-microsoft-buyout",
-    "sport-milan-pulisic-rinnovo-2031",
-    "sport-pallone-oro-2026-kane",
-    "sport-f1-wolff-antonelli-crescita",
-    "sport-tennis-tokyo-paolini-osaka"
+    "tecnologia-opera-webai-browser",
+    "tecnologia-macbook-oled-indiscrezioni",
+    "tecnologia-zelixos-linux-aurora",
+    "tecnologia-fortnite-one-piece-trailer",
+    "tecnologia-xbox-vendite-settembre",
+    "sport-napoli-allegri-squalifica",
+    "sport-serie-a-nona-giornata",
+    "sport-antonelli-austin-vittoria",
+    "sport-paolini-osaka-tokyo"
   ],
   "articles": [
     {
@@ -63,23 +63,23 @@
       "eventKey": "manovra-2027-cdm-28-ottobre",
       "category": "Politica",
       "status": "verified",
-      "title": "Manovra, il governo punta al Consiglio dei ministri del 28 ottobre",
-      "summary": "Il vertice di maggioranza ha individuato la data del 28 ottobre per il passaggio in Consiglio dei ministri, ma restano aperti diversi capitoli di spesa.",
+      "title": "Manovra, confronto ancora aperto sulle coperture prima del Cdm",
+      "summary": "La maggioranza lavora alla legge di bilancio da 23,5 miliardi: il via libera è atteso per mercoledì 28 ottobre, ma restano da definire alcune misure.",
       "body": [
-        "Il confronto tra Meloni, Giorgetti e i leader della coalizione ha riguardato le priorità di una legge di bilancio caratterizzata da risorse limitate. Le richieste dei partiti comprendono interventi su Irpef, pensioni, lavoro e famiglie.",
-        "Sanità, imprese e coperture fiscali restano al centro del negoziato. La data fissata è un obiettivo politico: le misure discusse non sono ancora norme approvate."
+        "Il governo cerca un'intesa su interventi fiscali, pensioni e contributo del settore finanziario. L'articolo del 26 ottobre spiega che le coperture per energia e difesa dipendono anche dal confronto con Bruxelles.",
+        "La data del Consiglio dei ministri è un obiettivo politico annunciato, non un'approvazione già avvenuta. Nel confronto tra partiti restano divergenze sul prelievo bancario e sulla platea delle agevolazioni."
       ],
-      "publishedAt": "2026-10-27",
-      "verifiedAt": "2026-10-27T11:47:43.326Z",
+      "publishedAt": "2026-10-26T15:43:00+01:00",
+      "verifiedAt": "2026-10-27T15:08:44.706Z",
       "source": {
-        "name": "RaiNews",
-        "url": "https://www.rainews.it/articoli/2026/10/la-manovra-di-bilancio-domani-in-consiglio-dei-ministri-tra-le-incognite-63370b9f-2e50-496c-830e-86706dc89658.html",
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/economia/manovra-al-rush-finale-dal-fisco-alle-pensioni-la-maggioranza-cerca-la-quadra-sulle-misure_1quLsmH6LUSQRYWxHnmaEG",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:47:43.326Z",
-        "dateEvidence": "La pagina RaiNews mostra 27/10/2026 e descrive il vertice di maggioranza e l'obiettivo Cdm del 28 ottobre.",
+        "accessCheckedAt": "2026-10-27T15:08:44.706Z",
+        "dateEvidence": "Pagina Adnkronos: 26 ottobre 2026 ore 15.43, articolo integrale letto il 27 ottobre.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 95,
+      "leadPriority": 92,
       "image": {
         "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PalazzoChigi.jpeg",
         "alt": "Facciata di Palazzo Chigi a Roma",
@@ -92,46 +92,44 @@
       }
     },
     {
-      "id": "politica-ucraina-meloni-salvini",
-      "eventKey": "maggioranza-dissenso-aiuti-ucraina-ottobre-2026",
+      "id": "politica-salvini-pensioni-64-anni",
+      "eventKey": "salvini-proposta-pensioni-64-anni-manovra-27-ottobre-2026",
       "category": "Politica",
       "status": "verified",
-      "title": "Aiuti all'Ucraina, nella maggioranza resta il confronto Meloni–Salvini",
-      "summary": "La Lega chiede di rivedere le forniture militari a Kiev; il governo mantiene una linea di sostegno, mentre si avvicina la scadenza della cornice normativa.",
+      "title": "Salvini rilancia l'uscita dal lavoro a 64 anni",
+      "summary": "Il leader della Lega indica la pensione anticipata tra le priorità del partito per la manovra 2027, mentre Mef e Inps ne valutano il costo.",
       "body": [
-        "Dopo il congresso leghista, il dissenso sugli aiuti militari è diventato uno dei nodi politici tra Matteo Salvini e Giorgia Meloni. RaiNews ricostruisce una telefonata attribuita alla premier, riferita dai quotidiani, senza presentarla come conferma ufficiale.",
-        "La normativa che autorizza le forniture scade il 31 dicembre 2026. Un eventuale nuovo decreto richiederà una decisione politica; il confronto è ancora aperto."
+        "In un'intervista a Radio 24, Matteo Salvini si dice fiducioso sulla possibilità di ampliare l'accesso alla pensione a 64 anni. Si tratta di una proposta, non di una modifica normativa approvata."
       ],
-      "publishedAt": "2026-10-26",
-      "verifiedAt": "2026-10-27T11:47:43.326Z",
+      "publishedAt": "2026-10-27T09:51:00+01:00",
+      "verifiedAt": "2026-10-27T15:08:44.706Z",
       "source": {
-        "name": "RaiNews",
-        "url": "https://www.rainews.it/amp/articoli/2026/10/ucraina-e-autonomia-parte-il-doppio-negoziato-tra-meloni-e-salvini-34898188-c48f-49f0-9c84-18df2511b255.html",
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/10/27/pensione-64-anni-manovra-2027-salvini-intervista",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:47:43.326Z",
-        "dateEvidence": "Nell'articolo integrale RaiNews compare la data editoriale 26/10/2026; testo sui dissensi Ucraina e proroga a fine anno.",
+        "accessCheckedAt": "2026-10-27T15:08:44.706Z",
+        "dateEvidence": "Sky TG24 Politica: 27 ottobre 2026 ore 09:51, dichiarazioni di Salvini a Radio 24.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "politica-italia-territori-convention",
-      "eventKey": "convention-italia-dei-territori-roma-27-29-ottobre",
+      "id": "politica-ricorsi-legge-elettorale",
+      "eventKey": "ricorsi-stabilicum-25-tribunali-26-ottobre-2026",
       "category": "Politica",
       "status": "verified",
-      "title": "A Roma la convention dell'Italia dei Territori promossa da Cateno De Luca",
-      "summary": "Dal 27 al 29 ottobre la convention di Sud chiama Nord e Sindaci d'Italia riunisce amministratori e rappresentanti delle istituzioni; annunciata la presenza di Meloni per il 29.",
+      "title": "Stabilicum, depositati ricorsi in 25 tribunali",
+      "summary": "La Rete per un voto libero e uguale ha promosso impugnazioni della nuova legge elettorale, con una prima udienza prevista a Trento il 16 dicembre.",
       "body": [
-        "L'appuntamento politico nazionale presenta dibattiti sul ruolo degli enti locali, riforme, imprese e lavoro. La manifestazione è prevista dal 27 al 29 ottobre, con interventi di ministri e rappresentanti di più forze politiche.",
-        "Gli organizzatori hanno annunciato per il 29 ottobre la presentazione del simbolo della lista e l'intervento della presidente del Consiglio. Si tratta del programma annunciato, non del resoconto di interventi già svolti."
+        "Secondo i promotori, i ricorsi sono stati presentati con una traccia comune e coinvolgono oltre 300 firmatari. La richiesta di valutazione costituzionale non significa che la legge sia stata dichiarata illegittima."
       ],
-      "publishedAt": "2026-10-26T17:52:00+01:00",
-      "verifiedAt": "2026-10-27T11:47:43.326Z",
+      "publishedAt": "2026-10-26T14:25:00+01:00",
+      "verifiedAt": "2026-10-27T15:08:44.706Z",
       "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com/politica/cdestra-cateno-de-luca-lancia-litalia-dei-territori-a-roma-da-domani-convention-di-3-giorni-conclude-meloni_26y7ULhdhtoYETPqdToKbM",
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/10/26/nuova-legge-elettorale-ricorsi",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:47:43.326Z",
-        "dateEvidence": "La pagina Adnkronos riporta 26 ottobre 2026 ore 17:52 e il programma 27–29 ottobre leggibile integralmente.",
+        "accessCheckedAt": "2026-10-27T15:08:44.706Z",
+        "dateEvidence": "Sky TG24 Politica: 26 ottobre 2026 ore 14:25, testo integrale sui ricorsi e prima udienza.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -140,20 +138,19 @@
       "eventKey": "proposta-mazzi-turismo-articolo-9-costituzione",
       "category": "Politica",
       "status": "verified",
-      "title": "Mazzi propone di inserire il turismo nell'articolo 9 della Costituzione",
-      "summary": "Al Festival delle Regioni, Gianmarco Mazzi ha proposto un esplicito riferimento costituzionale al turismo. È una proposta, non una modifica approvata.",
+      "title": "Turismo nella Costituzione, la proposta di Mazzi",
+      "summary": "Il ministro del Turismo propone di inserire esplicitamente il settore nell'articolo 9 della Carta, durante il Festival delle Regioni.",
       "body": [
-        "Nel corso del Festival delle Regioni a Firenze, Gianmarco Mazzi ha sostenuto l'idea di aggiungere il riferimento al turismo all'articolo 9 della Costituzione, accanto alla promozione della cultura.",
-        "La dichiarazione, documentata da RaiNews il 26 ottobre, apre un tema di indirizzo politico. Non risulta da quella fonte l'avvio o l'approvazione di una revisione costituzionale."
+        "Mazzi ritiene che un riferimento costituzionale riconoscerebbe il peso del turismo nel sistema italiano. La proposta è una dichiarazione politica e non una revisione della Costituzione già avviata."
       ],
       "publishedAt": "2026-10-26",
-      "verifiedAt": "2026-10-27T11:47:43.326Z",
+      "verifiedAt": "2026-10-27T15:08:44.706Z",
       "source": {
         "name": "RaiNews",
         "url": "https://www.rainews.it/video/2026/10/gianmarco-mazzi-ministro-del-turismo-a-firenze-01eed1c5-c867-453e-92f5-1c601e93f27d.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:47:43.326Z",
-        "dateEvidence": "La pagina RaiNews del 26/10/2026 contiene la dichiarazione di Mazzi e la descrizione della proposta sull'articolo 9.",
+        "accessCheckedAt": "2026-10-27T15:08:44.706Z",
+        "dateEvidence": "RaiNews, scheda datata 26/10/2026, testo con dichiarazione del ministro all'Italia delle Regioni.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -162,124 +159,137 @@
       "eventKey": "mattarella-priorita-tutela-servizio-sanitario-nazionale",
       "category": "Politica",
       "status": "verified",
-      "title": "Mattarella: tutelare il servizio sanitario è una priorità",
-      "summary": "Al Festival delle Regioni il Presidente richiama la tutela del diritto alla salute.",
+      "title": "Mattarella alle Regioni: difendere il carattere universale della sanità",
+      "summary": "Il presidente della Repubblica considera prioritario preservare e rafforzare il Servizio sanitario nazionale, nel discorso a Firenze.",
       "body": [
-        "A Firenze Mattarella ha indicato la difesa e lo sviluppo del servizio sanitario nazionale come una priorità. Ha richiamato il contributo del PNRR e la responsabilità delle Regioni nel migliorare i servizi ai cittadini."
+        "Mattarella richiama il diritto costituzionale alla salute e il ruolo delle amministrazioni regionali nel miglioramento dei servizi. Cita anche gli investimenti sanitari previsti dal PNRR, tra cui case e ospedali di comunità."
       ],
-      "publishedAt": "2026-10-26T09:48:17.481+01:00",
-      "verifiedAt": "2026-10-27T13:32:37.126918+00:00",
+      "publishedAt": "2026-10-26T11:20:00+01:00",
+      "verifiedAt": "2026-10-27T15:08:44.706Z",
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it/politica/2026/10/26/mattarella-firenze-oggi-festival-regioni",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T13:32:37.126918+00:00",
-        "dateEvidence": "Pagina integrale letta; data di pubblicazione 2026-10-26T09:48:17.481+01:00; aggiornata 2026-10-26T15:56:14.214+0100.",
+        "accessCheckedAt": "2026-10-27T15:08:44.706Z",
+        "dateEvidence": "Sky TG24 Politica: 26 ottobre 2026 ore 11:20, intervento di Mattarella e risorse PNRR per la sanità.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "esteri-raid-kiev-27-ottobre",
+      "id": "esteri-israele-elezioni-affluenza",
+      "eventKey": "elezioni-israele-27-ottobre-2026-affluenza-record",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Israele alle urne, affluenza del 31,5% a mezzogiorno",
+      "summary": "Oltre due milioni di elettori avevano votato alle 12 locali per rinnovare la Knesset, secondo la Commissione elettorale centrale.",
+      "body": [
+        "La partecipazione del 31,5% a metà giornata è la più alta registrata a quell'ora dal 1977. Sono chiamati al voto circa 7,3 milioni di cittadini, nella prima elezione nazionale successiva agli attacchi del 7 ottobre 2023.",
+        "I seggi chiudono alle 22 locali e i primi exit poll sono attesi soltanto dopo la chiusura. L'affluenza parziale non permette di attribuire la vittoria a nessuno schieramento."
+      ],
+      "publishedAt": "2026-10-27T06:30:00+01:00",
+      "verifiedAt": "2026-10-27T15:09:19.883Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/mondo/2026/10/27/elezioni-israele-2026-news-diretta",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T15:09:19.883Z",
+        "dateEvidence": "Sky TG24 live del 27 ottobre 2026, aperto alle 06:30; aggiornamento sul dato ufficiale delle 12 locali, 31,5%.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 94,
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Knesset_Building_%28From_Front%29.JPG",
+        "alt": "La Knesset, Gerusalemme",
+        "credit": "Effib",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG",
+        "rights": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · La Knesset, Gerusalemme. Fotografia non riferita agli eventi di oggi.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      }
+    },
+    {
+      "id": "esteri-gabon-prospector-5",
+      "eventKey": "gabon-prospector-5-affondamento-morto-dispersi-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Gabon, affonda una piattaforma: un morto e quattro dispersi",
+      "summary": "La Prospector 5 è colata a picco al largo di Mayumba durante le operazioni preliminari alla perforazione.",
+      "body": [
+        "La struttura della Borr Drilling aveva 115 persone a bordo. Secondo le informazioni aggiornate, un lavoratore è morto e quattro risultano dispersi; le autorità hanno avviato ricerche e indagini tecniche."
+      ],
+      "publishedAt": "2026-10-27T08:11:00+01:00",
+      "verifiedAt": "2026-10-27T15:09:19.883Z",
+      "source": {
+        "name": "TG LA7",
+        "url": "https://tg.la7.it/esteri/gabon-piattaforma-petrolifera-affondamento-video-27-10-2026-264917",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T15:09:19.883Z",
+        "dateEvidence": "TG LA7, 27.10.2026 ore 08:11, articolo completo con bilancio e operazioni di soccorso.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-kiev-ponte-dnipro",
       "eventKey": "raid-russo-kiev-infrastrutture-27-ottobre-2026",
       "category": "Esteri",
       "status": "verified",
-      "title": "Raid russi su Kiev: colpite strutture sanitarie e infrastrutture",
-      "summary": "Attacchi sulla capitale ucraina hanno causato vittime e danni a strutture civili, secondo la ricostruzione del Guardian.",
+      "title": "Kiev, missili russi danneggiano il ponte meridionale",
+      "summary": "Il sindaco della capitale ucraina segnala danni al ponte Pivdennyi e alle infrastrutture della metropolitana che lo attraversano.",
       "body": [
-        "La cronaca del 27 ottobre descrive attacchi russi su Kiev con almeno una vittima e feriti; sono segnalati danni a strutture mediche e al ponte meridionale, con conseguenze anche sulla metropolitana."
+        "La circolazione dei treni sul ponte è stata sospesa. L'attacco avviene mentre nell'area di Oleshky, nella regione di Kherson, è in vigore una tregua locale destinata a facilitare un'operazione umanitaria: non si tratta di un cessate il fuoco generale."
       ],
-      "publishedAt": "2026-10-27",
-      "verifiedAt": "2026-10-27T11:52:30.076Z",
+      "publishedAt": "2026-10-27T07:09:00+01:00",
+      "verifiedAt": "2026-10-27T15:09:19.883Z",
       "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/oct/27/ukraine-war-briefing-russian-strikes-kyiv-truce-begins-oleshky",
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-tregua-oleshky-ultime-newsoggi_2g6TZVoqNfFKHnZGJa7hYe",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:52:30.076Z",
-        "dateEvidence": "Il Guardian del 27 ottobre, nel corpo dell'articolo, riporta gli attacchi a Kiev e la chiusura del servizio sul ponte.",
+        "accessCheckedAt": "2026-10-27T15:09:19.883Z",
+        "dateEvidence": "Adnkronos 27 ottobre 2026 ore 07:09; articolo aggiornato con danni al ponte Pivdennyi e tregua locale.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "esteri-noaa-el-nino",
-      "eventKey": "tagli-noaa-previsioni-el-nino-2026",
+      "id": "esteri-serbia-student-list-ue",
+      "eventKey": "serbia-student-list-vittoria-relazioni-ue-ottobre-2026",
       "category": "Esteri",
       "status": "verified",
-      "title": "USA, scienziati in allarme sui tagli alla NOAA prima di El Niño",
-      "summary": "Riduzioni di organico e fondi alla principale agenzia climatica statunitense potrebbero indebolire previsioni e allerta meteo.",
+      "title": "Serbia, dopo la vittoria degli studenti l'UE valuta i prossimi passi",
+      "summary": "La maggioranza parlamentare conquistata dalla Student List apre una possibile fase nuova nei rapporti tra Belgrado e Bruxelles.",
       "body": [
-        "Il Guardian del 27 ottobre ricostruisce la perdita di oltre tremila dipendenti NOAA dall'inizio del 2025, pari a circa il 20% dell'organico. Esperti avvertono che i tagli rischiano di ridurre la capacità di ricerca e risposta a fenomeni estremi."
+        "L'Unione europea accoglie con interesse la sconfitta del partito di Vučić, ma rimane prudente: restano da chiarire la posizione sulle sanzioni alla Russia, il Kosovo e la capacità di portare avanti riforme istituzionali."
       ],
-      "publishedAt": "2026-10-27",
-      "verifiedAt": "2026-10-27T11:52:30.076Z",
+      "publishedAt": "2026-10-26T16:21:00+01:00",
+      "verifiedAt": "2026-10-27T15:09:19.883Z",
       "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/environment/2026/oct/27/trump-cuts-el-nino-noaa",
+        "name": "Euronews",
+        "url": "https://it.euronews.com/2026/10/26/serbia-la-vittoria-degli-studenti-alimenta-le-speranze-di-un-avvicinamento-allue-bruxelles",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:52:30.076Z",
-        "dateEvidence": "La pagina Guardian indica Tue 27 Oct 2026 07.00 EDT e documenta i tagli NOAA e le preoccupazioni per El Niño.",
+        "accessCheckedAt": "2026-10-27T15:09:19.883Z",
+        "dateEvidence": "Euronews Italia, pubblicato 26 ottobre 2026 ore 16:21 CET; analisi post voto letta integralmente.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "esteri-australia-sicurezza-parlamentari",
-      "eventKey": "australia-sicurezza-parlamentari-haines-2026",
-      "category": "Esteri",
-      "status": "verified",
-      "title": "Australia, dopo un'aggressione si discutono nuove tutele per i parlamentari",
-      "summary": "Il governo valuta allarmi negli uffici e maggiore sicurezza ai seggi dopo un presunto attacco alla deputata Helen Haines.",
-      "body": [
-        "Il 27 ottobre il Guardian riporta l'impegno del primo ministro Anthony Albanese a intervenire sulla sicurezza dei parlamentari. Bridget McKenzie ha espresso il timore che nuove precauzioni possano limitare i contatti diretti con gli elettori."
-      ],
-      "publishedAt": "2026-10-27",
-      "verifiedAt": "2026-10-27T11:52:30.076Z",
-      "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-        "access": "free",
-        "accessCheckedAt": "2026-10-27T11:52:30.076Z",
-        "dateEvidence": "Cronaca in diretta Guardian del 27 ottobre, riepilogo finale e intervento di Bridget McKenzie sulla sicurezza.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "esteri-serbia-student-list-governo",
-      "eventKey": "serbia-student-list-trattative-governo-ottobre-2026",
-      "category": "Esteri",
-      "status": "verified",
-      "title": "Serbia, la Lista degli studenti prepara le trattative per il nuovo governo",
-      "summary": "Dopo la vittoria elettorale, il movimento privo di una leadership unica deve definire squadra e priorità di governo.",
-      "body": [
-        "Secondo il Guardian, pubblicato il 26 ottobre, la Student List ha ottenuto una vittoria elettorale netta e si prepara ad avviare i negoziati per formare il governo. Il movimento punta soprattutto a contrastare corruzione e condizionamento delle istituzioni."
-      ],
-      "publishedAt": "2026-10-26T17:46:00+01:00",
-      "verifiedAt": "2026-10-27T11:52:59.031Z",
-      "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/oct/26/serbia-student-list-preparing-for-talks-on-forming-government-despite-no-clear-leader",
-        "access": "free",
-        "accessCheckedAt": "2026-10-27T11:52:59.031Z",
-        "dateEvidence": "La pagina Guardian mostra 'First published on Mon 26 Oct 2026 17.46 CET' e riporta l'avvio delle trattative.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "esteri-brasile-lula-vittoria",
+      "id": "esteri-brasile-lula-riconoscimento",
       "eventKey": "brasile-lula-quarto-mandato-ballottaggio-2026",
       "category": "Esteri",
       "status": "verified",
-      "title": "Brasile, Lula conquista un quarto mandato dopo il ballottaggio",
-      "summary": "La commissione elettorale conferma la vittoria con il 51,79%; Flávio Bolsonaro contesta il risultato.",
+      "title": "Brasile, il partito di Bolsonaro riconosce la vittoria di Lula",
+      "summary": "Dopo il successo di Lula al ballottaggio con il 51,79%, il Partito Liberale riconosce il risultato pur chiedendo chiarimenti.",
       "body": [
-        "Il Guardian del 26 ottobre riferisce che Lula ha rimontato lo svantaggio del primo turno e ha battuto Flávio Bolsonaro con il 51,79% contro il 48,21%. L'avversario ha chiesto di annullare il voto, senza riconoscere la sconfitta."
+        "Lula ottiene un quarto mandato con circa 64,2 milioni di voti contro i 59,8 milioni di Flávio Bolsonaro. Lo sfidante ha contestato l'esito, mentre diversi governi stranieri si sono congratulati con il presidente rieletto."
       ],
-      "publishedAt": "2026-10-26T00:19:00Z",
-      "verifiedAt": "2026-10-27T11:52:59.031Z",
+      "publishedAt": "2026-10-26T15:51:00Z",
+      "verifiedAt": "2026-10-27T15:09:19.883Z",
       "source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
+        "url": "https://www.theguardian.com/world/2026/oct/26/brazil-lula-vow-democracy-always-election-win",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:52:59.031Z",
-        "dateEvidence": "Testo Guardian integrale: 'Mon 26 Oct 2026 00.19 GMT'; dati finali del ballottaggio e reazione di Bolsonaro presenti nell'articolo.",
+        "accessCheckedAt": "2026-10-27T15:09:19.883Z",
+        "dateEvidence": "Guardian, pubblicato 26 ottobre 2026 alle 15:51 GMT e aggiornato 27 ottobre alle 12:10 GMT; articolo completo.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -288,23 +298,24 @@
       "eventKey": "hsbc-utili-terzo-trimestre-2026",
       "category": "Economia",
       "status": "verified",
-      "title": "HSBC, utili trimestrali in aumento del 32%",
-      "summary": "Nel trimestre luglio-settembre HSBC ha registrato 9,6 miliardi di dollari di utili, annunciando distribuzioni agli azionisti per 2,7 miliardi.",
+      "title": "HSBC aumenta gli utili del 32% e conferma la sede nel Regno Unito",
+      "summary": "La banca registra 9,6 miliardi di dollari di utili trimestrali; la direttrice finanziaria esclude pressioni per spostare la sede da Londra.",
       "body": [
-        "La banca ha comunicato un incremento degli utili trimestrali del 32%, sostenuto da interessi, minori perdite su crediti e accantonamenti legali inferiori. Il risultato è comunque leggermente sotto le attese del mercato.",
-        "L'annuncio riaccende nel Regno Unito il dibattito sulla tassazione del settore bancario alla vigilia della legge di bilancio, mentre il gruppo prevede riacquisti di azioni e dividendi."
+        "Nel trimestre luglio-settembre HSBC ha aumentato del 32% gli utili ante imposte, annunciando 2,7 miliardi di dollari tra dividendi e riacquisti di azioni. La direttrice finanziaria Pam Kaur ha ribadito che il trasferimento della sede britannica non è sul tavolo, nonostante il dibattito sulle tasse bancarie.",
+        "Il risultato è sostenuto da interessi, minori perdite su prestiti e accantonamenti legali più bassi. Le azioni hanno tuttavia perso quasi il 6% nella mattinata londinese: gli investitori si aspettavano prospettive più favorevoli sui margini da interessi."
       ],
-      "publishedAt": "2026-10-27T03:09:00-04:00",
-      "verifiedAt": "2026-10-27T11:57:39.511Z",
+      "publishedAt": "2026-10-27T10:21:00Z",
+      "updatedAt": "2026-10-27T12:03:00Z",
+      "verifiedAt": "2026-10-27T15:10:58.084Z",
       "source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/business/live/2026/oct/27/hsbc-shareholders-profits-surge-32-percent-bank-tax-budget-stock-markets-cost-cutting-latest-news-updates",
+        "url": "https://www.theguardian.com/business/2026/oct/27/hsbc-says-no-pressure-to-move-hq-out-of-uk-despite-prospect-of-higher-bank-taxes",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:57:39.511Z",
-        "dateEvidence": "Pagina Guardian del 27 ottobre, prima pubblicazione 03:09 EDT; nell'introduzione sono riportati 9,6 miliardi di dollari e aumento del 32%.",
+        "accessCheckedAt": "2026-10-27T15:10:58.084Z",
+        "dateEvidence": "Pagina integrale del Guardian: pubblicazione 27 ottobre 2026 alle 06:21 EDT, ultima modifica alle 08:03 EDT; confermati 9,6 miliardi, +32% e dichiarazioni di Pam Kaur.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 89,
+      "leadPriority": 90,
       "image": {
         "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/HSBC.Reza_01.jpg/960px-HSBC.Reza_01.jpg",
         "alt": "Edificio HSBC a 8 Canada Square, Londra",
@@ -321,19 +332,20 @@
       "eventKey": "btg-imprese-uk-difficolta-q3-2026",
       "category": "Economia",
       "status": "verified",
-      "title": "Regno Unito, oltre 738 mila imprese in difficoltà finanziaria",
-      "summary": "Il rapporto BTG segnala 738.144 aziende in difficoltà significativa nel terzo trimestre: il massimo della serie iniziata nel 2004.",
+      "title": "Nel Regno Unito oltre 738 mila imprese segnalano difficoltà finanziarie",
+      "summary": "Il rapporto BTG colloca a 738.144 il numero di aziende in difficoltà significativa nel terzo trimestre, massimo dal 2004.",
       "body": [
-        "I dati pubblicati da BTG mostrano una crescita dell'1,6% rispetto allo stesso periodo del 2025. Costruzioni, servizi e immobiliare concentrano molte delle imprese in difficoltà, mentre aumentano i problemi nella ristorazione."
+        "L'indicatore cresce dell'1,6% rispetto a un anno prima. Servizi alle imprese, costruzioni e immobiliare risultano fra i comparti con il maggior numero di aziende in difficoltà; bar e ristoranti mostrano un aumento del 5%."
       ],
-      "publishedAt": "2026-10-27T10:01:00+01:00",
-      "verifiedAt": "2026-10-27T11:57:39.511Z",
+      "publishedAt": "2026-10-27T09:01:00Z",
+      "updatedAt": "2026-10-27T09:18:00Z",
+      "verifiedAt": "2026-10-27T15:10:58.084Z",
       "source": {
         "name": "The Guardian",
         "url": "https://www.theguardian.com/business/2026/oct/27/number-of-uk-businesses-in-financial-distress-at-two-decade-high-budget",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:57:39.511Z",
-        "dateEvidence": "Il Guardian riporta data 27 ottobre 2026 10:01 CET, cifra 738.144 e confronto con la serie BTG iniziata nel 2004.",
+        "accessCheckedAt": "2026-10-27T15:10:58.084Z",
+        "dateEvidence": "Articolo integrale del Guardian pubblicato il 27 ottobre 2026 alle 05:01 EDT, aggiornato alle 05:18; riporta dati BTG 738.144 e +1,6%.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -342,19 +354,43 @@
       "eventKey": "inflazione-prezzi-negozi-uk-ottobre-2026",
       "category": "Economia",
       "status": "verified",
-      "title": "Prezzi nei negozi britannici: inflazione al 2,1% in ottobre",
-      "summary": "Secondo il British Retail Consortium, i prezzi al dettaglio accelerano dall'1,4% di settembre al 2,1% su base annua.",
+      "title": "Prezzi nei negozi britannici: l'inflazione accelera al 2,1%",
+      "summary": "Il British Retail Consortium registra un rialzo annuo del 2,1% a ottobre, dall'1,4% di settembre, per i maggiori costi trasferiti ai consumatori.",
       "body": [
-        "L'inflazione alimentare sale al 2,9%, mentre quella dei beni non alimentari passa dallo 0,8% all'1,7%. Il consorzio collega l'aumento alla maggiore difficoltà dei rivenditori nell'assorbire i costi di energia e materie prime."
+        "L'aumento dei generi alimentari raggiunge il 2,9%, mentre quello dei prodotti non alimentari passa dallo 0,8% all'1,7%. Il consorzio avverte che i commercianti riescono sempre meno ad assorbire i rincari di energia e materie prime."
       ],
       "publishedAt": "2026-10-27T00:01:00Z",
-      "verifiedAt": "2026-10-27T11:57:39.511Z",
+      "updatedAt": "2026-10-27T10:54:00Z",
+      "verifiedAt": "2026-10-27T15:10:58.084Z",
       "source": {
         "name": "The Guardian",
         "url": "https://www.theguardian.com/business/2026/oct/27/uk-shop-price-inflation-highest-since-2024-as-retailers-struggle-to-limit-price-rises",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:57:39.511Z",
-        "dateEvidence": "Articolo Guardian pubblicato alle 00:01 GMT del 27 ottobre; dati BRC: totale 2,1%, alimentare 2,9%, beni non alimentari 1,7%.",
+        "accessCheckedAt": "2026-10-27T15:10:58.084Z",
+        "dateEvidence": "Guardian: prima pubblicazione lunedì 26 ottobre 2026 alle 20:01 EDT (27 ottobre 00:01 UTC), ultima modifica martedì 27 alle 06:54 EDT; dati BRC nel testo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-pompe-calore-sussidi",
+      "eventKey": "uk-pompe-calore-timori-taglio-sussidi-budget-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Pompe di calore, gli installatori britannici temono tagli agli incentivi",
+      "summary": "In vista della manovra, le imprese del settore avvertono che ridurre i contributi pubblici potrebbe frenare installazioni e occupazione.",
+      "body": [
+        "Il Boiler Upgrade Scheme offre fino a 9.000 sterline per sostituire gli impianti tradizionali con sistemi a basse emissioni. Diversi installatori intervistati dal Guardian affermano che gran parte dei clienti dipende dagli aiuti.",
+        "I tagli sono una prospettiva riportata alla vigilia del bilancio, non una decisione già adottata. Le imprese temono effetti anche sull'apprendistato e sulla domanda di tecnologie per il riscaldamento domestico."
+      ],
+      "publishedAt": "2026-10-27T11:59:00Z",
+      "updatedAt": "2026-10-27T12:47:00Z",
+      "verifiedAt": "2026-10-27T15:10:58.084Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/environment/2026/oct/27/heat-pump-installers-fear-planned-subsidy-cuts-uk-budget",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T15:10:58.084Z",
+        "dateEvidence": "Guardian pubblicato 27 ottobre 2026 alle 22:59 AEDT (11:59 UTC), modificato alle 23:47 AEDT; intervistati installatori e spiegato lo schema BUS.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -363,41 +399,86 @@
       "eventKey": "negoziati-commercio-uk-ue-vertice-novembre-2026",
       "category": "Economia",
       "status": "verified",
-      "title": "Londra e Bruxelles discutono nuove intese commerciali",
-      "summary": "In vista del vertice di novembre, il governo britannico conferma negoziati sulle restrizioni commerciali e la mobilità giovanile.",
+      "title": "Londra e Bruxelles preparano un'intesa su scambi e mobilità giovanile",
+      "summary": "Il governo britannico conferma negoziati con l'UE in vista del vertice di novembre; si discutono anche opzioni di lungo periodo, senza decisioni già prese.",
       "body": [
-        "Il responsabile britannico delle attività produttive Jonathan Reynolds ha detto che si valutano anche scenari di più lungo termine per le relazioni con l'UE, compresa l'ipotesi della libera circolazione. Non è una decisione già assunta."
+        "Il ministro britannico Jonathan Reynolds indica come priorità la riduzione di alcuni ostacoli commerciali e un'intesa sulla mobilità dei giovani. L'eventuale ritorno alla libera circolazione è descritto come scenario di discussione futura, non come accordo raggiunto."
       ],
-      "publishedAt": "2026-10-27T10:41:00+01:00",
-      "verifiedAt": "2026-10-27T11:57:39.511Z",
+      "publishedAt": "2026-10-27T09:41:00Z",
+      "updatedAt": "2026-10-27T10:45:00Z",
+      "verifiedAt": "2026-10-27T15:10:58.084Z",
       "source": {
         "name": "The Guardian",
         "url": "https://www.theguardian.com/politics/2026/oct/27/uk-eu-relationship-talks-summit-free-movement-jonathan-reynolds",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:57:39.511Z",
-        "dateEvidence": "Articolo Guardian datato 27 ottobre 10:41 CET; nel testo Reynolds parla di accordo commerciale, mobilità giovanile e opzioni future.",
+        "accessCheckedAt": "2026-10-27T15:10:58.084Z",
+        "dateEvidence": "Guardian pubblicato il 27 ottobre 2026 alle 10:41 CET, aggiornato alle 11:45 CET; intervista di Reynolds su vertice, commercio e mobilità.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "economia-investimenti-datacenter-uk",
-      "eventKey": "consultazioni-datacenter-ai-uk-imprese-ong-2026",
-      "category": "Economia",
+      "id": "cronaca-monza-omicidio-fermo",
+      "eventKey": "monza-via-pisacane-omicidio-34enne-fermo-27-ottobre-2026",
+      "category": "Cronaca",
       "status": "verified",
-      "title": "Datacenter AI britannici, consultate 137 imprese e nessuna ONG ambientale",
-      "summary": "Un'indagine sulle zone di crescita dell'intelligenza artificiale contesta lo sbilanciamento delle consultazioni economiche del governo.",
+      "title": "Monza, un uomo muore accoltellato dopo una lite: fermato un 38enne",
+      "summary": "Un trentaquattrenne è morto in ospedale dopo un'aggressione in via Pisacane. I carabinieri hanno fermato un uomo sospettato dell'omicidio.",
       "body": [
-        "Spotlight on Corruption ha ricostruito, attraverso richieste di accesso agli atti, incontri con 137 aziende, due gruppi locali e nessuna organizzazione ambientale nello sviluppo della politica sui datacenter.",
-        "La ricerca segnala inoltre passaggi di funzionari pubblici verso imprese dell'AI. I risultati interrogano il governo sull'equilibrio fra attrazione di investimenti, impatto ambientale e trasparenza dei processi decisionali."
+        "Secondo la ricostruzione degli investigatori, la discussione sarebbe iniziata in un'abitazione e proseguita sul pianerottolo e in strada. La vittima, sottoposta a sorveglianza speciale, è stata soccorsa e portata all'ospedale San Gerardo, dove è deceduta.",
+        "Il fermato, 38 anni, è indagato per omicidio. L'autopsia e gli accertamenti dei carabinieri dovranno chiarire dinamica e movente: la responsabilità penale non è ancora accertata."
       ],
-      "publishedAt": "2026-10-27T03:00:00-04:00",
-      "verifiedAt": "2026-10-27T11:57:39.511Z",
+      "publishedAt": "2026-10-27T12:25:00+01:00",
+      "verifiedAt": "2026-10-27T15:11:55.171Z",
       "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation",
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/27/sorvegliato-speciale-ucciso-a-coltellate-a-monza-un-fermo_36bb649a-8f30-4175-8bae-9d338e62cf44.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:57:39.511Z",
-        "dateEvidence": "Guardian datato 27 ottobre ore 03:00 EDT, descrive le richieste FOI e gli incontri con 137 imprese e zero ONG ambientali.",
+        "accessCheckedAt": "2026-10-27T15:11:55.171Z",
+        "dateEvidence": "Pagina ANSA letta il 27 ottobre 2026: dateline MONZA 27 ottobre alle 12:25; vittima di 34 anni, fermato 38enne e indagini dei carabinieri.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-perugia-operaio-ventenne",
+      "eventKey": "valtopina-operaio-20enne-morto-rullo-compressore-27-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Valtopina, operaio ventenne muore schiacciato da un rullo compressore",
+      "summary": "L'incidente è avvenuto in un cantiere stradale nel Perugino. Sono in corso accertamenti sulla dinamica della caduta.",
+      "body": [
+        "Il giovane lavorava alla manutenzione di una strada e, secondo una prima ricostruzione, avrebbe perso l'equilibrio mentre si trovava su un rullo per compattare l'asfalto. I soccorritori non hanno potuto salvarlo.",
+        "I carabinieri stanno ricostruendo l'accaduto; le cause esatte e le eventuali responsabilità non risultano ancora accertate."
+      ],
+      "publishedAt": "2026-10-27",
+      "updatedAt": "2026-10-27T12:38:00+01:00",
+      "verifiedAt": "2026-10-27T15:11:55.171Z",
+      "source": {
+        "name": "Il Fatto Quotidiano",
+        "url": "https://www.ilfattoquotidiano.it/2026/10/27/morte-lavoro-perugia-operaio-notizie/8551268/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T15:11:55.171Z",
+        "dateEvidence": "Il Fatto Quotidiano: articolo integrale e gratuito datato 27 ottobre 2026, aggiornamento indicato alle 12:38; Valtopina, 20 anni e rullo compressore.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-impagnatiello-premeditazione",
+      "eventKey": "impagnatiello-appello-bis-premeditazione-giulia-tramontano-26-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Caso Tramontano, nell'appello bis riconosciuta la premeditazione",
+      "summary": "La Corte d'assise d'appello di Milano ha riconosciuto l'aggravante per Alessandro Impagnatiello; all'ergastolo si aggiungono tre mesi di isolamento diurno.",
+      "body": [
+        "La decisione del 26 ottobre segue il rinvio disposto dalla Cassazione per riesaminare la premeditazione nell'omicidio di Giulia Tramontano, uccisa nel maggio 2023 mentre era incinta. Le motivazioni sono attese entro 45 giorni."
+      ],
+      "publishedAt": "2026-10-26T10:27:00+01:00",
+      "verifiedAt": "2026-10-27T15:11:55.171Z",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/cronaca/omicidio-giulia-tramontano-pg-milano-impagnatiello-appello-bis-sentenza_37Hk8Iy0wRHPnug95IaHsu",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T15:11:55.171Z",
+        "dateEvidence": "Adnkronos: articolo integrale del 26 ottobre 2026 ore 10:27, aggiornato con la sentenza di appello bis; aggravante e isolamento diurno riportati nel testo.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -406,103 +487,42 @@
       "eventKey": "verona-porta-nuova-treno-morte-33enne-ottobre-2026",
       "category": "Cronaca",
       "status": "verified",
-      "title": "Verona, muore un 33enne dopo essere stato investito dal treno in partenza",
-      "summary": "L'uomo è scivolato dalla banchina mentre cercava di raggiungere il convoglio già in movimento. È morto in ospedale.",
+      "title": "Verona Porta Nuova, muore un trentatreenne dopo una caduta sui binari",
+      "summary": "Riccardo Stincone è morto dopo essere stato travolto da un treno in partenza. La polizia ferroviaria ricostruisce le circostanze dell'incidente.",
       "body": [
-        "La notizia del 27 ottobre ricostruisce l'incidente avvenuto domenica alla stazione di Verona Porta Nuova. Trenord ha espresso cordoglio e ha dichiarato di collaborare con la Polizia ferroviaria nelle verifiche sulla dinamica."
+        "L'incidente è avvenuto domenica 25 ottobre al binario 3, mentre il giovane cercava di raggiungere un convoglio che si stava già muovendo. Trasportato in ospedale, è deceduto per le ferite riportate.",
+        "La notizia è stata pubblicata il 26 ottobre: la data dell'incidente non coincide con quella della pubblicazione."
       ],
-      "publishedAt": "2026-10-27",
-      "verifiedAt": "2026-10-27T11:59:49.131Z",
+      "publishedAt": "2026-10-26T20:59:00+01:00",
+      "verifiedAt": "2026-10-27T15:11:55.171Z",
       "source": {
-        "name": "RaiNews",
-        "url": "https://www.rainews.it/amp/articoli/2026/10/cerca-di-fermare-il-treno-ma-scivola-e-viene-travolto-muore-a-33-anni-davanti-alla-compagna-5ba65140-5f4b-43aa-b01b-1e4903a06cff.html",
+        "name": "Nordest24",
+        "url": "https://www.nordest24.it/riccardo-stincone-morto-treno-verona-porta-nuova-cervignano",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:59:49.131Z",
-        "dateEvidence": "Pagina integrale RaiNews con data 27/10/2026; verificati decesso, stazione e comunicazione Trenord.",
+        "accessCheckedAt": "2026-10-27T15:11:55.171Z",
+        "dateEvidence": "Nordest24, articolo integrale pubblicato 26 ottobre 2026 alle 20:59; incidente datato 25 ottobre a Verona Porta Nuova.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "cronaca-kaufmann-richiesta-ergastolo",
-      "eventKey": "kaufmann-pm-richiesta-ergastolo-villa-pamphili-ottobre-2026",
+      "id": "cronaca-sardegna-ristoranti-senza-schermi",
+      "eventKey": "sardegna-15-ristoranti-patto-volontario-senza-schermi-ottobre-2026",
       "category": "Cronaca",
       "status": "verified",
-      "title": "Caso Villa Pamphili, la Procura chiede l'ergastolo per Francis Kaufmann",
-      "summary": "Il pubblico ministero ha chiesto l'ergastolo e tre anni di isolamento diurno per il duplice omicidio di Anastasia Trofimova e della figlia.",
+      "title": "In Sardegna quindici ristoranti sperimentano pasti senza smartphone",
+      "summary": "Giochi e materiali informativi sostituiscono i telefoni durante i pasti in una prova volontaria rivolta alle famiglie.",
       "body": [
-        "La requisitoria, riportata da RaiNews il 26 ottobre, ricostruisce la tesi dell'accusa sul duplice omicidio. La richiesta della Procura non è una condanna: la decisione spetta ancora ai giudici."
+        "Il progetto «A tavola senza schermi» è stato presentato il 26 ottobre dalla garante regionale per l'infanzia Anna Cau e da Fipe Confcommercio Sardegna. Per un mese, i locali aderenti offriranno ai bambini attività alternative ai dispositivi elettronici.",
+        "Non si tratta di un divieto generalizzato: la partecipazione dei ristoranti e delle famiglie è volontaria, con l'obiettivo di favorire dialogo e convivialità."
       ],
       "publishedAt": "2026-10-26",
-      "verifiedAt": "2026-10-27T11:59:49.131Z",
-      "source": {
-        "name": "RaiNews",
-        "url": "https://www.rainews.it/articoli/2026/10/cronaca-la-procura-chiede-ergastolo-per-kaufmann-duplice-omicidio-anastasia-e-della-figlia-di-14-mesi-fbcc2336-4965-4712-9cbc-b18cbe4c3851.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-27T11:59:49.131Z",
-        "dateEvidence": "Articolo RaiNews integrale datato 26/10/2026: requisitoria, richiesta ergastolo e isolamento diurno.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-torino-parco-dora-fermo",
-      "eventKey": "torino-parco-dora-omicidio-fermo-26-ottobre-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Torino, fermato un uomo per l’omicidio a Parco Dora",
-      "summary": "La polizia ha individuato un quarantaseienne; resta da chiarire il movente.",
-      "body": [
-        "Un uomo di 46 anni è stato fermato per la morte del giovane accoltellato a Parco Dora il 23 ottobre. Secondo ANSA, gli investigatori valutano un possibile legame con lo spaccio; si tratta di un’ipotesi investigativa e non di una responsabilità accertata con sentenza."
-      ],
-      "publishedAt": "2026-10-26T12:37:00+01:00",
-      "verifiedAt": "2026-10-27T13:32:37.126918+00:00",
+      "verifiedAt": "2026-10-27T15:11:55.171Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/piemonte/notizie/2026/10/26/accoltellato-e-ucciso-in-un-parco-a-torino-fermato-il-presunto-assassino_a27f311f-bc23-4b5c-aec6-33f758f72520.html",
+        "url": "https://www.ansa.it/amp/sardegna/notizie/2026/10/26/famiglie-a-tavola-senza-smartphone-iniziativa-in-15-ristoranti-sardi_640d37a6-55b1-4fa8-9011-fe36d4828ed2.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T13:32:37.126918+00:00",
-        "dateEvidence": "Pagina integrale letta; data di pubblicazione 2026-10-26T12:37:00+01:00.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-milano-denuncia-metropolitana",
-      "eventKey": "milano-denuncia-violenza-studentessa-cadorna-26-ottobre-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Milano, studentessa denuncia un'aggressione sessuale in metropolitana",
-      "summary": "Una diciannovenne ha segnalato una presunta violenza nella stazione Cadorna; la polizia sta verificando la ricostruzione.",
-      "body": [
-        "La giovane ha chiesto aiuto all'università IULM dopo aver raccontato l'episodio a un'amica. L'ateneo ha chiarito che il luogo indicato nella denuncia è la stazione della metropolitana e non il campus. La versione della studentessa è oggetto di indagini."
-      ],
-      "publishedAt": "2026-10-26T22:22:00+01:00",
-      "verifiedAt": "2026-10-27T12:06:19.685Z",
-      "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com/cronaca/milano-studentessa-denuncia-violenza-sessuale_3M87FRZVdO7irwrs5fJQPg",
-        "access": "free",
-        "accessCheckedAt": "2026-10-27T12:06:19.685Z",
-        "dateEvidence": "Adnkronos, pubblicazione 26 ottobre 2026 alle 22:22, testo integrale con dichiarazioni IULM e stato delle indagini.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-ischia-tre-arresti",
-      "eventKey": "ischia-tre-arresti-violenze-persona-disabile-26-ottobre-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Ischia, tre arresti dopo la denuncia di violenze su una persona disabile",
-      "summary": "Tre ventenni sono stati posti in custodia cautelare nell'ambito di un'inchiesta su torture e violenze sessuali.",
-      "body": [
-        "L'indagine della polizia, coordinata dalla Procura di Napoli, è partita dalla denuncia della vittima. Gli investigatori riferiscono di immagini diffuse nelle chat; le accuse devono essere verificate nel procedimento penale."
-      ],
-      "publishedAt": "2026-10-26T13:17:00+01:00",
-      "verifiedAt": "2026-10-27T12:06:19.685Z",
-      "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com/cronaca/disabile-torturato-violentato-filmato_1PjVkhmQCYs6zk5dUl9ctA",
-        "access": "free",
-        "accessCheckedAt": "2026-10-27T12:06:19.685Z",
-        "dateEvidence": "Adnkronos, pubblicato il 26 ottobre 2026 alle 13:17, descrive ordinanza di custodia e ricostruzione degli inquirenti.",
+        "accessCheckedAt": "2026-10-27T15:11:55.171Z",
+        "dateEvidence": "ANSA Sardegna, articolo integrale del 26 ottobre 2026; progetto della garante e Fipe, 15 ristoranti e adesione volontaria.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -511,22 +531,24 @@
       "eventKey": "roma-trasporto-scolastico-riapertura-domande-27-ottobre-2026",
       "category": "Roma",
       "status": "verified",
-      "title": "Roma, riaperte le domande per il trasporto scolastico",
-      "summary": "Dal 27 ottobre è possibile presentare online nuove richieste per il servizio 2026/27, nei limiti delle linee e dei posti già disponibili.",
+      "title": "Trasporto scolastico romano, riaperte le richieste online",
+      "summary": "Dal 27 ottobre è nuovamente possibile chiedere il servizio scolastico 2026/27, soltanto sulle linee esistenti e nei limiti dei posti disponibili.",
       "body": [
-        "Dal 27 ottobre sono nuovamente aperte le domande per il trasporto scolastico 2026/27 di Roma. La comunicazione ufficiale riguarda le alunne e gli alunni residenti e frequentanti nella città; la pagina, pubblicata il 20 ottobre, risulta aggiornata il 27 ottobre.",
-        "Le richieste si presentano esclusivamente online e riguardano le linee già attive nei Municipi, nei limiti dei posti disponibili. Si utilizzano le fermate già previste dal Piano Trasporti, senza modificare percorsi e orari."
+        "Roma Servizi per la Mobilità ha aggiornato il 27 ottobre la pagina dedicata alle iscrizioni al trasporto scolastico. Le famiglie che non hanno presentato domanda nel periodo ordinario possono inoltrare una richiesta online per le linee già attive nel proprio municipio.",
+        "Non sono previste modifiche a percorsi, orari o fermate: l'ammissione dipende dai posti residui. La riapertura riguarda l'anno scolastico 2026/27, non un nuovo servizio aggiuntivo."
       ],
       "publishedAt": "2026-10-20",
-      "verifiedAt": "2026-10-27T12:35:41.468Z",
+      "verifiedAt": "2026-10-27T16:20:44.137Z",
       "source": {
         "name": "Roma Servizi per la Mobilità",
         "url": "https://romamobilita.it/primo-piano/trasporto-scolastico-2026-27-iscrizioni-di-nuovo-possibili-dal-27-ottobre/",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:35:41.468Z",
-        "dateEvidence": "Pagina ufficiale letta integralmente: pubblicato 20/10/2026, aggiornato 27/10/2026; testo conferma riapertura dal 27 ottobre, linee esistenti e posti disponibili.",
+        "accessCheckedAt": "2026-10-27T16:20:44.137Z",
+        "dateEvidence": "Pagina ufficiale pubblicata il 20/10/2026 e aggiornata il 27/10/2026; riapertura confermata dal 27 ottobre.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
+      "updatedAt": "2026-10-27",
+      "leadPriority": 84,
       "image": {
         "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bus_stop_in_Rome_01.jpg",
         "alt": "Fermata di autobus a Roma",
@@ -537,115 +559,121 @@
         "reuseApproved": true,
         "caption": "Repertorio · Trasporto pubblico a Roma, 2018. Non è uno scuolabus.",
         "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      }
+    },
+    {
+      "id": "roma-montespaccato-volontari",
+      "eventKey": "roma-montespaccato-tt-polis-giovani-pulizia-26-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Montespaccato, oltre quaranta giovani avviano un progetto di cura del quartiere",
+      "summary": "Il progetto T&T Polis parte con una giornata di volontariato civico e pulizia degli spazi pubblici.",
+      "body": [
+        "Oltre quaranta ragazze e ragazzi del Gruppo Sportivo Montespaccato hanno partecipato all'iniziativa «Terzo Tempo per Montespaccato», che ha inaugurato il percorso di partecipazione T&T Polis. La giornata si è svolta il 26 ottobre, mentre il resoconto ANSA è del 27.",
+        "Il programma punta a coinvolgere i giovani nella manutenzione e valorizzazione degli spazi comuni, nel quadro del Patto di Quartiere. All'attività ha partecipato anche Valerio Tuveri, noto come Mr. Tuvs."
+      ],
+      "publishedAt": "2026-10-27T11:13:00+01:00",
+      "verifiedAt": "2026-10-27T16:20:44.137Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/27/terzo-tempo-montespaccato-al-via-il-progetto-di-partecipazione-giovanile_4ce12976-f4a4-45a0-8155-b0ac282d404c.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:20:44.137Z",
+        "dateEvidence": "ANSA Lazio, 27 ottobre 2026 ore 11:13; iniziativa di volontariato svolta il 26 ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 80,
-      "updatedAt": "2026-10-27"
+      "eventDate": "2026-10-26"
     },
     {
-      "id": "roma-fascia-verde-proroga",
-      "eventKey": "roma-ztl-fascia-verde-proroga-restrizioni-2026-2027",
+      "id": "roma-unicamillus-camici",
+      "eventKey": "roma-unicamillus-white-coat-400-studenti-26-ottobre-2026",
       "category": "Roma",
       "status": "verified",
-      "title": "Fascia Verde, prorogate a Roma le limitazioni esistenti",
-      "summary": "La Regione Lazio ha approvato la richiesta di Roma Capitale di mantenere le restrizioni in vigore per il 2026/27 senza introdurne di nuove.",
+      "title": "UniCamillus, quattrocento studenti iniziano il tirocinio clinico",
+      "summary": "All'Auditorium della Conciliazione si è svolta la consegna dei camici bianchi agli studenti del quarto anno di Medicina.",
       "body": [
-        "La decisione è motivata dai dati di Arpa Lazio sulla qualità dell'aria. Il Comune riferisce il rispetto dei limiti normativi e una riduzione media del 2% delle concentrazioni di PM10 e biossido di azoto rispetto all'anno precedente."
+        "La White Coat Ceremony dell'università UniCamillus ha coinvolto 400 studenti del quarto anno, segnando il passaggio alla fase di tirocinio clinico. All'evento ha partecipato il ministro degli Esteri Antonio Tajani.",
+        "Il rettore Gianni Profita ha richiamato la responsabilità professionale degli studenti e il ruolo della formazione medica. La notizia è stata pubblicata il 26 ottobre, non il 27."
       ],
-      "publishedAt": "2026-10-24",
-      "verifiedAt": "2026-10-27T12:13:35.041Z",
+      "publishedAt": "2026-10-26T19:24:00+01:00",
+      "verifiedAt": "2026-10-27T16:20:44.137Z",
       "source": {
-        "name": "Roma Servizi per la Mobilità",
-        "url": "https://romamobilita.it/primo-piano/ztl-fascia-verde-prorogate-le-limitazioni-esistenti-per-il-2026-2027/",
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/cronaca/unicamillus-400-futuri-medici-indossano-il-camice-bianco-a-roma_3CpJ1IDV3Ej3eiGpvQemKB",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:13:35.041Z",
-        "dateEvidence": "Pubblicato 24/10/2026 e aggiornato il 27/10/2026; testo ufficiale riporta approvazione della Giunta regionale e proroga per il 2026/2027.",
+        "accessCheckedAt": "2026-10-27T16:20:44.137Z",
+        "dateEvidence": "Adnkronos, 26 ottobre 2026 ore 19:24, articolo integrale sulla White Coat Ceremony.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "roma-rapina-don-bosco-contanti",
-      "eventKey": "roma-rapina-don-bosco-contanti",
+      "id": "roma-dia-san-basilio-tufello",
+      "eventKey": "roma-dia-arresti-traffico-droga-estorsioni-27-ottobre-2026",
       "category": "Roma",
       "status": "verified",
-      "title": "Don Bosco, rapina al furgone dei contanti: indaga la Mobile",
-      "summary": "Sulla Tuscolana un vigilante è stato affrontato da un uomo armato.",
+      "title": "DIA, sei arresti nell'inchiesta sul narcotraffico tra San Basilio e Tufello",
+      "summary": "Sei persone sono state raggiunte da misure cautelari nell'indagine su traffico di droga ed estorsioni aggravate dal metodo mafioso.",
       "body": [
-        "Leggo riferisce di una rapina davanti a una farmacia in via Tuscolana, con un bottino di circa novemila euro. Secondo la prima ricostruzione è stato esploso un colpo a salve; nessuno sarebbe rimasto ferito. La polizia esamina le telecamere per identificare il responsabile."
+        "Secondo gli investigatori della Direzione investigativa antimafia, una rete avrebbe gestito rifornimenti di cocaina destinati all'area est di Roma anche dal carcere e durante una latitanza in Spagna.",
+        "L'inchiesta, coordinata dalla DDA romana, comprende un presunto tentativo di estorsione relativo a venti chili di cocaina e a un importo di 750mila euro. Le accuse sono ipotesi investigative e non condanne definitive."
       ],
-      "publishedAt": "2026-10-26T17:36:13+01:00",
-      "verifiedAt": "2026-10-27T13:32:37.126918+00:00",
+      "publishedAt": "2026-10-27T10:00:00+01:00",
+      "verifiedAt": "2026-10-27T16:20:44.137Z",
       "source": {
-        "name": "Leggo",
-        "url": "https://www.leggo.it/italia/roma/26_ottobre_2026_rapina_don_bosco_furgone_assalto_soldi_spari_farmacia_caccia_bandito_quanto_bottino-9849998.html",
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/27/6-arresti-a-roma-indagati-gestivano-traffico-di-droga-dal-carcere_ce225b8b-c034-4328-ae4d-2d61d0b0040f.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T13:32:37.126918+00:00",
-        "dateEvidence": "Pagina integrale letta; data di pubblicazione 2026-10-26T17:36:13+01:00; aggiornata 2026-10-26T17:37:18+0100.",
+        "accessCheckedAt": "2026-10-27T16:20:44.137Z",
+        "dateEvidence": "ANSA Lazio, 27 ottobre 2026 ore 10:00, testo integrale sui sei arresti della DIA.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "roma-sequestro-castel-giubileo-tevere",
-      "eventKey": "roma-sequestro-castel-giubileo-tevere",
-      "category": "Roma",
-      "status": "verified",
-      "title": "Castel Giubileo, sequestrata un’area abusiva lungo il Tevere",
-      "summary": "La Guardia di finanza segnala attività senza concessioni e carburante conservato senza le necessarie misure di sicurezza.",
-      "body": [
-        "Un’area di circa 27mila metri quadrati è stata sottoposta a sequestro preventivo. Leggo riferisce che i controlli hanno trovato anche una cisterna con circa 5.300 litri di gasolio e due lavoratori irregolari; le verifiche sulle altre posizioni proseguono."
-      ],
-      "publishedAt": "2026-10-26T19:57:47+01:00",
-      "verifiedAt": "2026-10-27T13:32:37.126918+00:00",
-      "source": {
-        "name": "Leggo",
-        "url": "https://www.leggo.it/italia/roma/26_ottobre_2026_castel_giubileo_tevere_guardia_finanza_benzina_pericolo_maxi_sequestro_ambiente_danno-9850180.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-27T13:32:37.126918+00:00",
-        "dateEvidence": "Pagina integrale letta; data di pubblicazione 2026-10-26T19:57:47+01:00; aggiornata 2026-10-26T20:00:11+0100.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "roma-sciopero-atac-30-ottobre",
+      "id": "roma-sciopero-usb-30-ottobre",
       "eventKey": "roma-sciopero-usb-trasporti-30-ottobre-2026",
       "category": "Roma",
       "status": "verified",
-      "title": "Roma, annunciato lo sciopero del trasporto pubblico del 30 ottobre",
-      "summary": "La mobilitazione nazionale Usb rischia di interrompere il servizio Atac e dei gestori privati: garantite le fasce fino alle 8:30 e dalle 17 alle 20.",
+      "title": "Sciopero Usb del 30 ottobre, aggiornate le fasce di garanzia a Roma",
+      "summary": "L'avviso di Roma Mobilità indica possibili interruzioni di bus e metro dalle 8:30 alle 17 e dalle 20 a fine servizio.",
       "body": [
-        "L'avviso di Roma Mobilità indica uno sciopero di 24 ore venerdì 30 ottobre. Le linee della rete urbana potranno fermarsi fra le fasce garantite, mentre potrebbero subire variazioni sportelli, contact center e collegamenti notturni. L'evento è futuro, l'avviso è stato aggiornato il 26 ottobre."
+        "La comunicazione ufficiale, pubblicata il 25 e aggiornata il 27 ottobre, riguarda lo sciopero nazionale Usb del 30 ottobre. Le fasce garantite per la rete cittadina sono l'avvio del servizio fino alle 8:29 e dalle 17 alle 19:59.",
+        "La Commissione di Garanzia ha chiesto una precettazione per il settore trasporti: l'effettivo svolgimento dell'agitazione resta quindi da seguire attraverso gli aggiornamenti ufficiali. La notizia riguarda una mobilitazione futura, non disservizi già verificatisi."
       ],
       "publishedAt": "2026-10-25",
-      "verifiedAt": "2026-10-27T12:13:35.041Z",
+      "verifiedAt": "2026-10-27T16:20:44.137Z",
       "source": {
         "name": "Roma Servizi per la Mobilità",
         "url": "https://romamobilita.it/primo-piano/scioperi-il-30-ottobre-agitazione-nazionale-indetta-da-usb-trasporto-pubblico-a-rischio/",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:13:35.041Z",
-        "dateEvidence": "Avviso pubblicato il 25/10/2026, aggiornato il 26/10, relativo allo sciopero futuro del 30/10/2026.",
+        "accessCheckedAt": "2026-10-27T16:20:44.137Z",
+        "dateEvidence": "Pagina Roma Mobilità pubblicata 25/10/2026, aggiornata 27/10/2026; evento previsto 30/10/2026.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
+      },
+      "updatedAt": "2026-10-27",
+      "dateKind": "event",
+      "eventDate": "2026-10-30"
     },
     {
       "id": "cultura-pasolini-porta-portese",
       "eventKey": "pasolini-art-visual-territorio-27-ottobre-2026",
       "category": "Cultura · Teatro · Cinema",
       "status": "verified",
-      "title": "Pasolini, teatro e letture al Porta Portese",
-      "summary": "Il 27 ottobre prosegue la rassegna con una masterclass e uno spettacolo di Tonino Tosto.",
+      "title": "Pasolini al Porta Portese: letture e teatro nella serata del 27 ottobre",
+      "summary": "Il programma della rassegna comprende una masterclass dedicata al teatro di parola e uno spettacolo serale.",
       "body": [
-        "Al Teatro Porta Portese alle 18 la masterclass sul teatro di parola di Pasolini propone letture con Francesca Bianco e Susy Sergiacomo.",
-        "Alle 20:30 è in programma «Sequenze Dimenticate», spettacolo di Tonino Tosto. La scheda ufficiale è un calendario di evento, senza data editoriale di pubblicazione."
+        "Al Teatro Porta Portese, il 27 ottobre, Susy Sergiacomo propone alle 18 una masterclass con letture dei testi teatrali di Pier Paolo Pasolini insieme a Francesca Bianco. Alle 20:30 è previsto lo spettacolo «Sequenze dimenticate» di Tonino Tosto.",
+        "La giornata rientra nella manifestazione «Pasolini Art Visual Territorio», in programma dal 26 ottobre al 2 novembre. L'ingresso è libero fino a esaurimento posti."
       ],
       "publishedAt": "2026-10-27",
+      "verifiedAt": "2026-10-27T16:21:01.697Z",
       "dateKind": "event",
       "eventDate": "2026-10-27",
-      "verifiedAt": "2026-10-27T12:33:21.968Z",
       "source": {
         "name": "Culture Roma – Roma Capitale",
         "url": "https://culture.roma.it/appuntamento/pasolini-art-visual-territorio-27-ottobre-2/",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:33:21.968Z",
-        "dateEvidence": "Scheda ufficiale del programma: evento in calendario il 27 ottobre 2026; data editoriale di pubblicazione non indicata.",
+        "accessCheckedAt": "2026-10-27T16:21:01.697Z",
+        "dateEvidence": "Scheda ufficiale evento 27/10/2026, ore 18 e 20:30; data di pubblicazione editoriale non indicata.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -654,21 +682,22 @@
       "eventKey": "romaeuropa-can-can-ortoleva-27-28-ottobre-2026",
       "category": "Cultura · Teatro · Cinema",
       "status": "verified",
-      "title": "Can Can, Ortoleva porta l'epilessia sulla scena",
-      "summary": "Al Mattatoio il 27 e 28 ottobre lo spettacolo intreccia le biografie di Irene Mantova e Jane Avril.",
+      "title": "Can Can al Mattatoio, la danza interroga il racconto dell'epilessia",
+      "summary": "Il progetto di Giovanni Ortoleva e Irene Mantova è nel programma Romaeuropa Festival del 27 e 28 ottobre.",
       "body": [
-        "Il lavoro di Giovanni Ortoleva, presentato a Romaeuropa Festival, mette in relazione esperienza personale, danza e rappresentazione della malattia."
+        "«Can Can» intreccia la storia della performer Irene Mantova, che ha ricevuto una diagnosi di epilessia nel 2023, con quella della ballerina Jane Avril, figura legata alla Parigi di Toulouse-Lautrec.",
+        "La performance combina movimento, documenti e testimonianze per interrogare le rappresentazioni storiche e contemporanee della malattia. Lo spettacolo è previsto al Mattatoio di Roma il 27 e 28 ottobre."
       ],
       "publishedAt": "2026-10-27",
+      "verifiedAt": "2026-10-27T16:21:01.697Z",
       "dateKind": "event",
       "eventDate": "2026-10-27",
-      "verifiedAt": "2026-10-27T12:33:21.968Z",
       "source": {
         "name": "Culture Roma – Roma Capitale",
         "url": "https://culture.roma.it/appuntamento/can-can/",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:33:21.968Z",
-        "dateEvidence": "Scheda ufficiale del programma: evento in calendario il 27 ottobre 2026; data editoriale di pubblicazione non indicata.",
+        "accessCheckedAt": "2026-10-27T16:21:01.697Z",
+        "dateEvidence": "Scheda Culture Roma, evento 27–28 ottobre 2026 al Mattatoio; data editoriale non esposta.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -677,21 +706,22 @@
       "eventKey": "opera-roma-trittico-goecke-robbins-bausch-27-ottobre-2026",
       "category": "Cultura · Teatro · Cinema",
       "status": "verified",
-      "title": "All'Opera tre coreografie tra Goecke, Robbins e Bausch",
-      "summary": "Dal 27 ottobre il Teatro dell'Opera propone Petruschka, Afternoon of a Faun e Le Sacre du Printemps.",
+      "title": "Opera di Roma, al via il trittico Goecke–Robbins–Bausch",
+      "summary": "Dal 27 ottobre all'8 novembre il Teatro dell'Opera presenta tre coreografie su musiche di Stravinskij e Debussy.",
       "body": [
-        "Il programma riunisce musiche di Stravinskij e Debussy, orchestra e corpo di ballo dell'Opera di Roma; dirige Andrew Litton."
+        "Il programma comprende «Petruschka» con la coreografia di Marco Goecke, «Afternoon of a Faun» di Jerome Robbins e «Le Sacre du Printemps» di Pina Bausch.",
+        "Andrew Litton dirige il trittico, interpretato dagli artisti del Teatro dell'Opera di Roma. Le repliche sono programmate dal 27 ottobre all'8 novembre 2026."
       ],
       "publishedAt": "2026-10-27",
+      "verifiedAt": "2026-10-27T16:21:01.697Z",
       "dateKind": "event",
       "eventDate": "2026-10-27",
-      "verifiedAt": "2026-10-27T12:33:21.968Z",
       "source": {
         "name": "Culture Roma – Roma Capitale",
         "url": "https://culture.roma.it/appuntamento/goecke-robbins-bausch/",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:33:21.968Z",
-        "dateEvidence": "Scheda ufficiale del programma: evento in calendario il 27 ottobre 2026; data editoriale di pubblicazione non indicata.",
+        "accessCheckedAt": "2026-10-27T16:21:01.697Z",
+        "dateEvidence": "Scheda ufficiale Teatro dell'Opera su Culture Roma: calendario 27/10–08/11/2026, data editoriale non indicata.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -700,185 +730,179 @@
       "eventKey": "casa-cinema-festival-ucraino-polacco-27-29-ottobre-2026",
       "category": "Cultura · Teatro · Cinema",
       "status": "verified",
-      "title": "Alla Casa del Cinema il festival ucraino-polacco",
-      "summary": "La rassegna cinematografica è prevista dal 27 al 29 ottobre con ingresso gratuito fino a esaurimento posti.",
+      "title": "Casa del Cinema, tre giorni dedicati alle opere ucraine e polacche",
+      "summary": "Il festival alla Casa del Cinema di Villa Borghese si svolge dal 27 al 29 ottobre con ingresso gratuito.",
       "body": [
-        "Dal 27 al 29 ottobre la Casa del Cinema di Villa Borghese ospita un festival dedicato al cinema ucraino e polacco. La scheda ufficiale indica la sede di largo Marcello Mastroianni, 1, e la Fondazione Cinema per Roma come ente curatore.",
-        "L'ingresso è gratuito fino all'esaurimento dei posti disponibili. Il sito segnala che il programma può subire variazioni: prima di recarsi alle proiezioni è utile controllare gli aggiornamenti della Casa del Cinema."
+        "Dal 27 al 29 ottobre la Casa del Cinema di Roma ospita un festival dedicato al cinema ucraino e polacco. L'iniziativa ha il patrocinio delle ambasciate di Ucraina e Polonia presso la Santa Sede e il Sovrano Militare Ordine di Malta.",
+        "La Fondazione Cinema per Roma cura la manifestazione. L'ingresso è gratuito fino a esaurimento dei posti disponibili; la fotografia associata mostra soltanto la sede, non una proiezione del festival."
       ],
       "publishedAt": "2026-10-27",
+      "verifiedAt": "2026-10-27T16:21:01.697Z",
       "dateKind": "event",
       "eventDate": "2026-10-27",
-      "verifiedAt": "2026-10-27T12:43:18.638Z",
       "source": {
         "name": "Culture Roma – Roma Capitale",
         "url": "https://culture.roma.it/appuntamento/festival-del-cinema-ucraino-polacco/",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:43:18.638Z",
-        "dateEvidence": "Pagina ufficiale Culture Roma letta integralmente: evento dal 27 al 29 ottobre 2026 alla Casa del Cinema; data editoriale non disponibile, ingresso gratuito fino a esaurimento posti.",
+        "accessCheckedAt": "2026-10-27T16:21:01.697Z",
+        "dateEvidence": "Scheda ufficiale Culture Roma: festival dal 27 al 29 ottobre 2026, Casa del Cinema, ingresso gratuito; data editoriale non esposta.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "image": {
-        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Villa_Borghese_-_Casa_del_Cinema_P1020818.JPG/960px-Villa_Borghese_-_Casa_del_Cinema_P1020818.JPG",
-        "alt": "Casa del Cinema a Villa Borghese, Roma",
-        "credit": "Lalupa",
-        "rights": "CC BY-SA 4.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Villa_Borghese_-_Casa_del_Cinema_P1020818.JPG",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "caption": "Repertorio · La Casa del Cinema a Villa Borghese, Roma. La fotografia non ritrae l'edizione 2026 del festival.",
-        "reuseApproved": true
-      },
-      "leadPriority": 75
+      "leadPriority": 83
     },
     {
       "id": "cultura-psichedelico-tor-bella-monaca",
       "eventKey": "teatro-tor-bella-monaca-psichedelico-27-28-ottobre-2026",
       "category": "Cultura · Teatro · Cinema",
       "status": "verified",
-      "title": "Psichedelico esplora il disagio giovanile a teatro",
-      "summary": "Manuele Morgese dirige un lavoro immersivo in scena il 27 e 28 ottobre alle 21 al Teatro Tor Bella Monaca.",
+      "title": "Psichedelico, storie di disagio giovanile al Teatro Tor Bella Monaca",
+      "summary": "Il progetto teatrale di Manuele Morgese va in scena il 27 e 28 ottobre alle 21.",
       "body": [
-        "Lo spettacolo ambientato in una discoteca combina teatro e musica per affrontare esperienze adolescenziali, relazioni familiari e dipendenze."
+        "Lo spettacolo «Psichedelico» costruisce un racconto tra teatro, musica e ambientazione da discoteca, con storie di adolescenti, consumo di alcol e droghe, selfie estremi e rapporti familiari.",
+        "La regia è di Manuele Morgese, con testi firmati da Stefano Dionisi, Elena Berti e dallo stesso Morgese. Le due repliche al Teatro Tor Bella Monaca sono previste alle 21."
       ],
       "publishedAt": "2026-10-27",
+      "verifiedAt": "2026-10-27T16:21:01.697Z",
       "dateKind": "event",
       "eventDate": "2026-10-27",
-      "verifiedAt": "2026-10-27T12:33:21.968Z",
       "source": {
         "name": "Culture Roma – Roma Capitale",
         "url": "https://culture.roma.it/appuntamento/psichedelico/",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:33:21.968Z",
-        "dateEvidence": "Scheda ufficiale del programma: evento in calendario il 27 ottobre 2026; data editoriale di pubblicazione non indicata.",
+        "accessCheckedAt": "2026-10-27T16:21:01.697Z",
+        "dateEvidence": "Culture Roma: evento 27 e 28 ottobre 2026 ore 21 al Teatro Tor Bella Monaca, data editoriale non indicata.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "tecnologia-detox-gen-z",
-      "eventKey": "gen-z-app-disintossicazione-digitale-2026",
+      "id": "tecnologia-opera-webai-browser",
+      "eventKey": "tecnologia-opera-webai-browser-2026-10-27",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "La generazione Z sperimenta strumenti per ridurre il tempo online",
-      "summary": "Dai telefoni essenziali alle app che bloccano le distrazioni, giovani utenti cercano modalità meno invasive di uso delle piattaforme.",
+      "title": "Opera propone WebAI per usare modelli AI locali nel browser",
+      "summary": "La proposta permette a siti ed estensioni di usare modelli ospitati nel browser, riducendo il ricorso al cloud.",
       "body": [
-        "L'inchiesta descrive soluzioni sperimentate da studenti per limitare l'uso compulsivo dei social, bilanciando studio, amicizie e vita quotidiana."
+        "Opera ha presentato WebAI, una proposta di standard per consentire a siti ed estensioni di utilizzare modelli AI eseguiti dal browser. Punto Informatico riferisce che la prima implementazione è disponibile in Opera One e che le prestazioni dipendono dall’hardware del dispositivo."
       ],
-      "publishedAt": "2026-10-27T11:00:00+01:00",
-      "verifiedAt": "2026-10-27T12:34:21.555Z",
+      "publishedAt": "2026-10-27T17:21:45+01:00",
+      "verifiedAt": "2026-10-27T16:26:34.817Z",
       "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/technology/2026/oct/27/gen-z-digital-detox-apps",
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/opera-webai-nuovo-standard-modelli-ai-browser/",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:34:21.555Z",
-        "dateEvidence": "Il Guardian mostra Tue 27 Oct 2026 11:00 CET; testo integrale su applicazioni di blocco e telefoni semplificati.",
+        "accessCheckedAt": "2026-10-27T16:26:34.817Z",
+        "dateEvidence": "Pagina integrale e metadati JSON-LD letti: datePublished 2026-10-27T17:21:45+01:00.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "tecnologia-anthropic-prospetto",
-      "eventKey": "anthropic-prospetto-ipo-trasparenza-2026",
+      "id": "tecnologia-macbook-oled-indiscrezioni",
+      "eventKey": "tecnologia-macbook-oled-indiscrezioni-2026-10-27",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "Anthropic, il prospetto per la quotazione espone costi e rischi dell'AI",
-      "summary": "La società ha pubblicato informazioni finanziarie in vista della quotazione: la crescita dei ricavi si accompagna a costi elevati.",
+      "title": "MacBook Pro OLED touch, nuove indiscrezioni sul design",
+      "summary": "Punto Informatico riprende anticipazioni di Mark Gurman su scocca e cerniera: non sono specifiche ufficialmente confermate.",
       "body": [
-        "Il documento esamina anche dipendenza dall'infrastruttura di calcolo, attacchi informatici e limiti dei meccanismi di sicurezza. È una vicenda distinta dalle consultazioni britanniche sui datacenter già trattate in Economia."
+        "Secondo le indiscrezioni di Mark Gurman riportate dalla testata, il possibile MacBook Pro con display OLED touch avrebbe uno chassis più sottile e una cerniera riprogettata per rendere più stabile lo schermo durante l’uso tattile. Si tratta di anticipazioni attribuite al giornalista, non di caratteristiche confermate da Apple nella fonte letta."
       ],
-      "publishedAt": "2026-10-27T05:00:00Z",
-      "verifiedAt": "2026-10-27T12:34:21.555Z",
+      "publishedAt": "2026-10-27T16:57:13+01:00",
+      "verifiedAt": "2026-10-27T16:26:34.817Z",
       "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-stock-market-filing-takeaways",
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/macbook-pro-oled-touch-nuova-cerniera-design/",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:34:21.555Z",
-        "dateEvidence": "Guardian pubblicato il 27/10/2026 ore 05:00 GMT, spiegazione dei documenti societari e dei rischi dichiarati.",
+        "accessCheckedAt": "2026-10-27T16:26:34.817Z",
+        "dateEvidence": "Pagina integrale e metadati JSON-LD letti: datePublished 2026-10-27T16:57:13+01:00.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "tecnologia-home-office-ai",
-      "eventKey": "uk-home-office-usi-ai-asilo-frontiere-2026",
+      "id": "tecnologia-zelixos-linux-aurora",
+      "eventKey": "tecnologia-zelixos-linux-aurora-2026-10-27",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "Regno Unito, rapporto denuncia opacità sull'AI al ministero dell'Interno",
-      "summary": "Open Rights Group segnala applicazioni dell'AI nei controlli alle frontiere e nei processi riguardanti richiedenti asilo.",
+      "title": "ZelixOS, una nuova distribuzione Linux basata su Arch",
+      "summary": "La versione Aurora 1.0.0 punta su un desktop essenziale con KDE Plasma personalizzato.",
       "body": [
-        "L'organizzazione sostiene che il ricorso a sistemi automatizzati sia poco trasparente e che richieste di accesso agli atti ricevano risposte insufficienti. Si tratta delle conclusioni di un rapporto, non di un accertamento giudiziario."
+        "Punto Informatico segnala l’arrivo di ZelixOS Aurora 1.0.0, progetto giovane basato su Arch Linux. Il desktop predefinito usa una personalizzazione di KDE Plasma, con alternative selezionabili durante la configurazione; la testata invita a valutarne ancora la maturità."
       ],
-      "publishedAt": "2026-10-27",
-      "verifiedAt": "2026-10-27T12:34:21.555Z",
+      "publishedAt": "2026-10-27T16:14:21+01:00",
+      "verifiedAt": "2026-10-27T16:26:34.817Z",
       "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/zelixos-distribuzione-linux/",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:34:21.555Z",
-        "dateEvidence": "Guardian datato 27/10/2026; fonte integrale riferisce denuncia Open Rights Group su valutazioni età e sorveglianza confini.",
+        "accessCheckedAt": "2026-10-27T16:26:34.817Z",
+        "dateEvidence": "Pagina integrale e metadati JSON-LD letti: datePublished 2026-10-27T16:14:21+01:00.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "tecnologia-iphone-duo-display",
-      "eventKey": "iphone-duo-segnalazioni-crepe-schermo-ottobre-2026",
+      "id": "tecnologia-fortnite-one-piece-trailer",
+      "eventKey": "fortnite-one-piece-trailer-treasure-hunter-27-ottobre-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "iPhone Duo, Apple riconosce un problema a un numero limitato di schermi",
-      "summary": "Alcuni acquirenti del primo iPhone pieghevole segnalano crepe sul display; Apple conferma un difetto su una piccola parte dei dispositivi.",
+      "title": "Fortnite mostra la collaborazione con One Piece nel trailer di Treasure Hunter",
+      "summary": "Epic Games presenta la mini-stagione che chiuderà il Capitolo 7 con personaggi, ambientazioni e oggetti ispirati a One Piece.",
       "body": [
-        "Il caso è emerso dopo fotografie e testimonianze sui social. L'azienda ha riconosciuto il problema, ma il numero preciso di apparecchi coinvolti non è stato divulgato."
+        "Il trailer pubblicato il 27 ottobre mostra tra gli altri Luffy, Nami, Zoro, Sanji, Usopp, Ace e Buggy. Everyeye segnala anche una versione della Going Merry come Bus della Battaglia.",
+        "Il video anticipa luoghi ispirati ad Arlong Park e abilità collegate ai protagonisti della serie. La lista delle skin è ricavata dal filmato e dai manifesti: eventuali aggiunte non sono ancora confermate."
       ],
-      "publishedAt": "2026-10-26T15:15:00-04:00",
-      "verifiedAt": "2026-10-27T12:34:21.555Z",
+      "publishedAt": "2026-10-27T15:31:00+01:00",
+      "verifiedAt": "2026-10-27T16:04:38.502Z",
       "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/technology/2026/oct/26/iphone-duo-owners-cracks-apple-first-foldable-handset",
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/fortnite-accoglie-one-piece-e-ciurma-trailer-mini-stagione-908282.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:34:21.555Z",
-        "dateEvidence": "Pagina Guardian pubblicata 26 Oct 2026 15:15 EDT, aggiornamento 27 ottobre, dichiarazione Apple su pochi dispositivi.",
+        "accessCheckedAt": "2026-10-27T16:04:38.502Z",
+        "dateEvidence": "Everyeye, Giovanni Panzano, 27/10/2026 ore 15:31; pagina completa aperta e letta, sezioni One Piece e Luoghi ed equipaggiamento.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "tecnologia-microsoft-buyout",
-      "eventKey": "microsoft-esuberi-incentivati-60000-ottobre-2026",
+      "id": "tecnologia-xbox-vendite-settembre",
+      "eventKey": "xbox-series-vendite-settembre-2026-circana-gta6",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "Microsoft, indiscrezioni su incentivi all'uscita per 60 mila dipendenti",
-      "summary": "Secondo notizie riportate dal Guardian, Microsoft avrebbe predisposto offerte volontarie di uscita per ridurre i costi.",
+      "title": "Xbox Series, vendite USA in calo nonostante l'attenzione per GTA 6",
+      "summary": "Secondo l'analista Mat Piscatella, negli Stati Uniti le unità Xbox vendute a settembre sono scese del 27% rispetto all'anno precedente.",
       "body": [
-        "Il numero di 60 mila dipendenti è riferito da fonti giornalistiche, non presentato come cifra definitiva confermata dall'azienda. Le ipotesi di riorganizzazione emergono nel contesto di investimenti nell'intelligenza artificiale."
+        "Il confronto di Circana citato da Everyeye riguarda il mercato statunitense. L'analista non osserva un incremento misurabile delle vendite Xbox legato alla presentazione di GTA 6, che arriverà anche sulla piattaforma Microsoft.",
+        "L'articolo distingue questo dato da una precedente stima positiva sul mercato britannico: i due risultati riguardano territori e periodi differenti, quindi non sono direttamente contraddittori."
       ],
-      "publishedAt": "2026-10-26T19:44:00+01:00",
-      "verifiedAt": "2026-10-27T12:34:21.555Z",
+      "publishedAt": "2026-10-26T22:55:00+01:00",
+      "verifiedAt": "2026-10-27T16:04:38.502Z",
       "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts",
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/gta-6-bastato-migliorare-vendite-xbox-series-x-124-s-908180.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:34:21.555Z",
-        "dateEvidence": "Guardian mostra Mon 26 Oct 2026 19:44 CET e attribuisce a reports le offerte di buyout.",
+        "accessCheckedAt": "2026-10-27T16:04:38.502Z",
+        "dateEvidence": "Everyeye, Mario Cariati, 26/10/2026 ore 22:55; articolo letto integralmente, riporta dati Circana/Piscatella e confronto UK.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "sport-serie-a-nona-giornata-2026",
-      "eventKey": "sport-serie-a-nona-giornata-2026",
+      "id": "sport-pulisic-rinnovo-milan",
+      "eventKey": "milan-pulisic-accordo-rinnovo-2031-ottobre-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "Serie A, parte il turno infrasettimanale della nona giornata",
-      "summary": "Il campionato torna in campo tra martedì 27 e giovedì 29 ottobre.",
+      "title": "Milan, vicino il rinnovo di Pulisic fino al 2031",
+      "summary": "La trattativa con l'attaccante statunitense è alle battute finali, ma la firma non è ancora ufficiale.",
       "body": [
-        "La nona giornata di Serie A si distribuisce su tre giorni. Nel programma riportato da Sky Sport figurano Torino-Como martedì alle 20:45, Venezia-Inter mercoledì alle 18:30 e Monza-Napoli mercoledì alle 20:45.",
-        "La fonte contiene calendario e indicazioni per seguire gli incontri. La fotografia è di repertorio e non raffigura una partita di questo turno."
+        "Il Milan e Christian Pulisic stanno definendo gli ultimi dettagli di un prolungamento che porterebbe la scadenza del contratto al 2031. Sky Sport riferisce che l'intesa dovrebbe essere firmata nei prossimi giorni.",
+        "Arrivato dal Chelsea nel 2023, l'attaccante ha raggiunto 141 presenze e 44 reti in rossonero. L'ultima è arrivata nella trasferta di Udine. Il rinnovo viene presentato come imminente, non già depositato."
       ],
-      "publishedAt": "2026-10-27T09:00:00.700+01:00",
-      "verifiedAt": "2026-10-27T13:32:37.126918+00:00",
+      "publishedAt": "2026-10-26T23:45:00+01:00",
+      "verifiedAt": "2026-10-27T16:05:23.185Z",
       "source": {
         "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/2026/10/27/calendario-serie-a-9-giornata",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/26/pulisic-milan-rinnovo",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T13:32:37.126918+00:00",
-        "dateEvidence": "Pagina integrale letta; data di pubblicazione 2026-10-27T09:00:00.700+01:00; aggiornata 2026-10-27T13:39:20.787+0100.",
+        "accessCheckedAt": "2026-10-27T16:05:23.185Z",
+        "dateEvidence": "Sky Sport 26 ottobre 2026 ore 23:45; testo completo su intesa ancora da firmare e numeri Pulisic.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
+      "leadPriority": 91,
       "image": {
         "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg/960px-Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg",
         "alt": "Pallone da calcio su un prato",
@@ -888,90 +912,89 @@
         "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "caption": "Repertorio · Un pallone da calcio su un prato. La fotografia non ritrae la partita o la cerimonia descritta nella notizia.",
         "reuseApproved": true
-      },
-      "leadPriority": 90
+      }
     },
     {
-      "id": "sport-milan-pulisic-rinnovo-2031",
-      "eventKey": "sport-milan-pulisic-rinnovo-2031",
+      "id": "sport-napoli-allegri-squalifica",
+      "eventKey": "napoli-allegri-due-giornate-squalifica-ricorso-ottobre-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "Milan e Pulisic, rinnovo fino al 2031 vicino",
-      "summary": "Secondo Sky Sport mancano gli ultimi dettagli prima della firma.",
+      "title": "Napoli, due turni di squalifica per Allegri: il club presenta ricorso",
+      "summary": "Il giudice sportivo ha fermato Massimiliano Allegri per due giornate dopo Napoli-Roma e disposto un'ammenda da 10 mila euro.",
       "body": [
-        "Il Milan e Christian Pulisic sono vicini a prolungare il contratto fino al 2031. La fonte presenta l’accordo come prossimo alla conclusione: la firma non viene descritta come già ufficiale."
+        "Il provvedimento riguarda le espressioni rivolte agli ufficiali di gara e un episodio segnalato negli spogliatoi. Il tecnico rischia di saltare Monza e Juventus, ma il Napoli ha annunciato ricorso."
       ],
-      "publishedAt": "2026-10-26T23:48:41.216+01:00",
-      "verifiedAt": "2026-10-27T13:32:37.126918+00:00",
+      "publishedAt": "2026-10-26T13:01:00+01:00",
+      "verifiedAt": "2026-10-27T16:05:23.185Z",
       "source": {
         "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/2026/10/26/pulisic-milan-rinnovo",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/26/allegri-napoli-squalifica-news",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T13:32:37.126918+00:00",
-        "dateEvidence": "Pagina integrale letta; data di pubblicazione 2026-10-26T23:48:41.216+01:00.",
+        "accessCheckedAt": "2026-10-27T16:05:23.185Z",
+        "dateEvidence": "Sky Sport 26 ottobre 2026 ore 13:01; motivazioni giudice sportivo, due giornate e ricorso del Napoli.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "sport-pallone-oro-2026-kane",
-      "eventKey": "sport-pallone-oro-2026-kane",
+      "id": "sport-serie-a-nona-giornata",
+      "eventKey": "serie-a-nona-giornata-infrasettimanale-27-29-ottobre-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "Pallone d’Oro a Kane, Lautaro chiude al 22º posto",
-      "summary": "Mbappé e Yamal completano il podio; Lautaro è l’unico giocatore della Serie A in classifica.",
+      "title": "Serie A, turno infrasettimanale dal 27 al 29 ottobre",
+      "summary": "Il nono turno comincia con Sassuolo-Lazio, Roma-Cagliari e Torino-Como; le altre gare si distribuiscono tra mercoledì e giovedì.",
       "body": [
-        "Harry Kane ha vinto il Pallone d’Oro davanti a Kylian Mbappé e Lamine Yamal. La classifica pubblicata da Sky Sport colloca Lautaro Martinez al ventiduesimo posto, unico rappresentante della Serie A."
+        "Il calendario ufficiale riportato da Sky Sport prevede mercoledì Venezia-Inter, Milan-Bologna, Parma-Udinese, Monza-Napoli e Genoa-Juventus. Giovedì chiudono Frosinone-Lecce e Fiorentina-Atalanta. La notizia riguarda il calendario sportivo, non il piano traffico di Roma-Cagliari."
       ],
-      "publishedAt": "2026-10-26T17:48:16.631+01:00",
-      "verifiedAt": "2026-10-27T13:32:37.126918+00:00",
+      "publishedAt": "2026-10-26T13:53:00+01:00",
+      "verifiedAt": "2026-10-27T16:05:23.185Z",
       "source": {
         "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/2026/10/26/classifica-pallone-d-oro-2026",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/26/serie-a-giornata-9-presentazione-partite",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T13:32:37.126918+00:00",
-        "dateEvidence": "Pagina integrale letta; data di pubblicazione 2026-10-26T17:48:16.631+01:00; aggiornata 2026-10-27T08:41:53.734+0100.",
+        "accessCheckedAt": "2026-10-27T16:05:23.185Z",
+        "dateEvidence": "Sky Sport 26 ottobre 2026 ore 13:53; calendario del nono turno dal 27 al 29 ottobre.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "sport-f1-wolff-antonelli-crescita",
-      "eventKey": "sport-f1-wolff-antonelli-crescita",
+      "id": "sport-antonelli-austin-vittoria",
+      "eventKey": "f1-antonelli-nona-vittoria-austin-gp-usa-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "F1, Wolff racconta la crescita di Antonelli in Mercedes",
-      "summary": "Il team principal ripercorre gli investimenti e il lavoro che hanno accompagnato il pilota italiano.",
+      "title": "Formula 1, Antonelli vince ad Austin e si avvicina al titolo",
+      "summary": "La nona vittoria stagionale del pilota Mercedes precede Leclerc e Verstappen; il mondiale resta aperto fino al Messico.",
       "body": [
-        "Nell’intervista ripresa da Sky Sport, Toto Wolff attribuisce la crescita di Kimi Antonelli al programma giovanile, al lavoro con gli ingegneri e al sostegno della famiglia. Ha indicato la vittoria di Austin come una prova particolarmente convincente del pilota."
+        "Il resoconto di Sky Sport conferma l'ordine d'arrivo del GP degli Stati Uniti e il rinvio della festa iridata. Il compagno di squadra George Russell ha chiuso ottavo; Antonelli avrà una nuova opportunità di conquistare il titolo nel prossimo Gran Premio."
       ],
-      "publishedAt": "2026-10-27T12:12:07.791+01:00",
-      "verifiedAt": "2026-10-27T13:32:37.126918+00:00",
+      "publishedAt": "2026-10-26T12:25:00+01:00",
+      "verifiedAt": "2026-10-27T16:05:23.185Z",
       "source": {
         "name": "Sky Sport",
-        "url": "https://sport.sky.it/formula-1/2026/10/27/kimi-antonelli-f1-toto-wolff-mercedes-intervista",
+        "url": "https://sport.sky.it/formula-1/2026/10/26/f1-kimi-antonelli-gp-austin-ascolti-sky",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T13:32:37.126918+00:00",
-        "dateEvidence": "Pagina integrale letta; data di pubblicazione 2026-10-27T12:12:07.791+01:00; aggiornata 2026-10-27T13:58:06.380+0100.",
+        "accessCheckedAt": "2026-10-27T16:05:23.185Z",
+        "dateEvidence": "Sky Sport 26 ottobre 2026 ore 12:25, nona vittoria ad Austin e ascolti; classifica gara riscontrata nel live Sky del GP.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "sport-tennis-tokyo-paolini-osaka",
-      "eventKey": "sport-tennis-tokyo-paolini-osaka",
+      "id": "sport-paolini-osaka-tokyo",
+      "eventKey": "tennis-paolini-osaka-eliminazione-tokyo-27-ottobre-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "Tokyo, Paolini eliminata da Osaka all’esordio",
-      "summary": "La tennista italiana perde in due set e resta impegnata nel doppio con Errani.",
+      "title": "Tennis, Paolini eliminata da Osaka al primo turno a Tokyo",
+      "summary": "Naomi Osaka supera Jasmine Paolini 6-3, 7-6(4) al WTA 500 giapponese.",
       "body": [
-        "Naomi Osaka ha battuto Jasmine Paolini 6-3, 7-6 al primo turno del torneo di Tokyo. Paolini continua il torneo in doppio con Sara Errani, con l’obiettivo di qualificarsi alle WTA Finals."
+        "La tennista italiana ha mancato tre set point consecutivi nel dodicesimo gioco del secondo set. Osaka, vincitrice in un'ora e 37 minuti, raggiunge gli ottavi contro Mia Pohankova."
       ],
-      "publishedAt": "2026-10-27T08:20:48.422+01:00",
-      "verifiedAt": "2026-10-27T13:32:37.126918+00:00",
+      "publishedAt": "2026-10-27T11:19:00+01:00",
+      "verifiedAt": "2026-10-27T16:05:23.185Z",
       "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/tennis/2026/10/27/paolini-osaka-wta-tokyo-risultato",
+        "name": "ANSA",
+        "url": "https://videoembed.ansa.it/sito/notizie/sport/tennis/2026/10/27/paolini-subito-fuori-a-tokyo-agli-ottavi-va-osaka_b18fc1d5-92c4-49d1-9155-a4b407fff2c7.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T13:32:37.126918+00:00",
-        "dateEvidence": "Pagina integrale letta; data di pubblicazione 2026-10-27T08:20:48.422+01:00; aggiornata 2026-10-27T12:48:00.866+0100.",
+        "accessCheckedAt": "2026-10-27T16:05:23.185Z",
+        "dateEvidence": "ANSA 27 ottobre 2026 ore 11:19; resoconto completo con punteggio, tre set point e avversaria agli ottavi.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
