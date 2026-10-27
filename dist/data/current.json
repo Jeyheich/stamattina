@@ -1,0 +1,403 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-27-mattina",
+  "mode": "live",
+  "editionDate": "2026-10-27",
+  "generatedAt": "2026-10-27T09:06:47.006453+00:00",
+  "timezone": "Europe/Rome",
+  "scheduledFor": "2026-10-27T10:10:00+01:00",
+  "essentialIds": [
+    "manovra",
+    "israele",
+    "teatri",
+    "poverta",
+    "roma-scuola"
+  ],
+  "leadIds": [
+    "manovra",
+    "israele",
+    "teatri",
+    "poverta",
+    "roma-scuola"
+  ],
+  "compactIds": [
+    "oleshky",
+    "brasile",
+    "bes",
+    "macro",
+    "ai-scuola",
+    "passeggiate",
+    "cinema",
+    "stra"
+  ],
+  "articles": [
+    {
+      "id": "manovra",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Manovra, il governo punta al via libera di domani",
+      "summary": "La legge di bilancio resta un cantiere: risorse limitate e priorità da conciliare. Le misure discusse non sono ancora definitive.",
+      "body": [
+        "Il vertice tra la presidente del Consiglio e i leader della maggioranza ha indicato il 28 ottobre come obiettivo per il passaggio in Consiglio dei ministri. La cronaca di RaiNews del 27 ottobre descrive un confronto ancora aperto su spesa e coperture.",
+        "Sanità, famiglie e imprese sono fra i capitoli al centro del negoziato. Le richieste dei partiti vanno distinte dal testo che sarà effettivamente approvato: oggi non sono diritti o agevolazioni già in vigore.",
+        "Da seguire: la versione del provvedimento all’uscita dal Consiglio dei ministri e il successivo esame parlamentare."
+      ],
+      "publishedAt": "2026-10-27",
+      "eventDate": "2026-10-28",
+      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/10/la-manovra-di-bilancio-domani-in-consiglio-dei-ministri-tra-le-incognite-63370b9f-2e50-496c-830e-86706dc89658.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
+        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora.",
+        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PalazzoChigi.jpeg",
+        "alt": "Palazzo Chigi, Roma",
+        "credit": "Arepo",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg",
+        "rights": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · Palazzo Chigi, Roma. Fotografia non riferita agli eventi di oggi.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      }
+    },
+    {
+      "id": "israele",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Israele vota: la maggioranza si decide alle urne",
+      "summary": "Seggi aperti per il rinnovo della Knesset. Il voto è in corso: sondaggi e scenari non sono risultati.",
+      "body": [
+        "Gli elettori israeliani sono chiamati a rinnovare il Parlamento. RaiNews riferisce dell’apertura delle urne nella mattina del 27 ottobre e di una competizione dall’esito incerto.",
+        "La maggior parte dei seggi chiude alle 22 locali, le 21 in Italia. Prima della chiusura non ci sono risultati elettorali: exit poll e scrutinio vanno tenuti distinti.",
+        "Perché conta: la distribuzione dei seggi condizionerà la formazione del governo e le scelte regionali. Questa scheda è una fotografia della mattina, non una diretta."
+      ],
+      "publishedAt": "2026-10-27",
+      "eventDate": "2026-10-27",
+      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/maratona/2026/10/elezioni-israele-27-ottobre-2026-likud-netanyahu-eisenkot-partiti-presidente-medio-oriente-knesset-guerra-coloni-f34b883d-83d4-499c-9bcb-1a8285495044.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
+        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora.",
+        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Knesset_Building_%28From_Front%29.JPG",
+        "alt": "La Knesset, Gerusalemme",
+        "credit": "Effib",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG",
+        "rights": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · La Knesset, Gerusalemme. Fotografia non riferita agli eventi di oggi.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      }
+    },
+    {
+      "id": "teatri",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Teatri in sciopero: controlla lo spettacolo di stasera",
+      "summary": "La mobilitazione nazionale riguarda dipendenti e scritturati. Le cancellazioni dipendono dalle singole strutture.",
+      "body": [
+        "Slc Cgil, Fistel Cisl e Uilfpc Uil hanno proclamato lo sciopero del 27 ottobre dopo l’interruzione del confronto con Federvivo sul rinnovo contrattuale. La vertenza riguarda artisti, tecnici e personale dei teatri.",
+        "Le organizzazioni sindacali e le imprese restano distanti su retribuzioni e recupero del potere d’acquisto. Alcuni territori hanno scelto date alternative nella finestra prevista.",
+        "Per chi ha un biglietto: lo sciopero non equivale alla cancellazione automatica di ogni spettacolo. Consulta il sito del teatro o la biglietteria prima di partire."
+      ],
+      "publishedAt": "2026-10-20",
+      "eventDate": "2026-10-27",
+      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "source": {
+        "name": "Teatro.it",
+        "url": "https://www.teatro.it/notizie/teatro/sciopero-dei-teatri-il-27-ottobre-contratti-fermi-da-otto-anni-a-rischio-gli-spettacoli",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
+        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora.",
+        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Teatro_di_Argentina_Roma.jpg",
+        "alt": "Teatro Argentina, Roma",
+        "credit": "Jensens",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Teatro_di_Argentina_Roma.jpg",
+        "rights": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · Teatro Argentina, Roma. Fotografia non riferita agli eventi di oggi.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      }
+    },
+    {
+      "id": "poverta",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Povertà assoluta, 5,4 milioni di persone nel 2025",
+      "summary": "Il rapporto Istat del 15 ottobre fotografa le difficoltà delle famiglie. È un dato annuale, non una nuova stima di oggi.",
+      "body": [
+        "Secondo Istat, nel 2025 la povertà assoluta coinvolge oltre 2,1 milioni di famiglie e circa 5,4 milioni di individui. L’incidenza tra le persone è pari al 9,3%.",
+        "Il rapporto descrive una sostanziale stabilità rispetto al 2024. Questo non significa che la difficoltà economica sia marginale: la misura identifica chi non riesce a sostenere una spesa essenziale.",
+        "Da leggere nel contesto della manovra: il dato riguarda il 2025 ed è stato pubblicato il 15 ottobre 2026. Non misura gli effetti di provvedimenti ancora in discussione."
+      ],
+      "publishedAt": "2026-10-15",
+      "eventDate": "2025",
+      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "source": {
+        "name": "Istat",
+        "url": "https://www.istat.it/comunicato-stampa/la-poverta-in-italia-anno-2025/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
+        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora.",
+        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Grocery_store_in_Rome.jpg",
+        "alt": "Negozio alimentare a Roma",
+        "credit": "phototram",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grocery_store_in_Rome.jpg",
+        "rights": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · Negozio alimentare a Roma. Fotografia non riferita agli eventi di oggi.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      }
+    },
+    {
+      "id": "roma-scuola",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Roma riapre le domande per il trasporto scolastico",
+      "summary": "Da oggi richieste online sulle linee già attive e fino a esaurimento dei posti. Percorsi e orari non cambiano.",
+      "body": [
+        "Roma Servizi per la Mobilità comunica la riapertura delle iscrizioni al trasporto scolastico 2026/27 dal 27 ottobre. L’avviso è stato pubblicato il 20 ottobre e aggiornato oggi.",
+        "Le richieste riguardano soltanto linee e fermate già comprese nel piano dei Municipi, nei limiti dei posti disponibili. Non è un nuovo servizio di autobus né una modifica delle linee ordinarie.",
+        "Le domande si presentano online. La pagina ufficiale contiene il collegamento alle modalità e ai requisiti: consulta quelle istruzioni prima di compilare."
+      ],
+      "publishedAt": "2026-10-20",
+      "eventDate": "2026-10-27",
+      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "source": {
+        "name": "Roma Mobilità",
+        "url": "https://romamobilita.it/infomobilita/trasporto-scolastico-2026-27-iscrizioni-possibili-dal-27-ottobre/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
+        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora.",
+        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bus_stop_in_Rome_01.jpg",
+        "alt": "Fermata di autobus a Roma",
+        "credit": "Nicholas Gemini",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bus_stop_in_Rome_01.jpg",
+        "rights": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · Trasporto pubblico a Roma, 2018. Non è uno scuolabus.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      }
+    },
+    {
+      "id": "oleshky",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Oleshky, tregua umanitaria annunciata: le date restano da chiarire",
+      "summary": "Le fonti riportano indicazioni non coincidenti sull’avvio. Non è un cessate il fuoco generale.",
+      "body": [
+        "La ricostruzione di Open del 26 ottobre riferisce di un accordo per portare aiuti ed evacuare civili da Oleshky, nella regione di Kherson.",
+        "La stessa fonte segnala una discrepanza: Kiev indica il 27 ottobre, la Casa Bianca il 29. Questa rassegna non dà per avviate operazioni non confermate e distingue l’intesa locale dalla guerra nel suo complesso."
+      ],
+      "publishedAt": "2026-10-26",
+      "eventDate": null,
+      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "source": {
+        "name": "Open",
+        "url": "https://www.open.online/2026/10/26/guerra-russia-ucraina-26-ott-ultime-notizie-diretta/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
+        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora.",
+        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
+      },
+      "image": null
+    },
+    {
+      "id": "brasile",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Brasile, il partito di Bolsonaro riconosce la vittoria di Lula",
+      "summary": "Televideo riporta il riconoscimento del risultato da parte del Partido Liberal.",
+      "body": [
+        "La notizia pubblicata da Rai Televideo alle 02:53 del 27 ottobre riferisce di una nota del Partido Liberal che riconosce il risultato presidenziale favorevole a Lula.",
+        "La nota mantiene aperto il confronto politico. Il riconoscimento del voto e le posizioni future dell’opposizione sono piani distinti."
+      ],
+      "publishedAt": "2026-10-27T02:53:00+01:00",
+      "eventDate": null,
+      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "source": {
+        "name": "Rai Televideo",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/notiziasolotesto.jsp?id=1698533&pagina=523&sottopagina=1",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
+        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora.",
+        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
+      },
+      "image": null
+    },
+    {
+      "id": "bes",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Oltre il Pil: è uscito il Rapporto Bes 2026",
+      "summary": "Istat mette a disposizione il rapporto integrale su benessere, società e ambiente.",
+      "body": [
+        "Pubblicato il 26 ottobre, il Rapporto sul benessere equo e sostenibile organizza l’analisi in dodici domini. Il documento integrale è disponibile gratuitamente sul sito Istat.",
+        "Il suo valore è affiancare alla crescita economica misure su salute, lavoro, istruzione, ambiente e qualità dei servizi. La pagina include materiali e tavole statistiche."
+      ],
+      "publishedAt": "2026-10-26",
+      "eventDate": null,
+      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "source": {
+        "name": "Istat",
+        "url": "https://www.istat.it/produzione-editoriale/rapporto-bes-edizione-2026-il-benessere-equo-e-sostenibile-in-italia/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
+        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora.",
+        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
+      },
+      "image": null
+    },
+    {
+      "id": "macro",
+      "category": "Economia",
+      "status": "verified",
+      "title": "L’agenda economica della settimana, senza anticipare i dati",
+      "summary": "Borsa Italiana riepiloga le pubblicazioni previste. Attese e valori precedenti non sono nuovi risultati.",
+      "body": [
+        "Il calendario pubblicato il 26 ottobre elenca gli appuntamenti macroeconomici della settimana: dalle indagini di fiducia ai dati su produzione e inflazione.",
+        "È un’agenda per orientarsi. I valori indicati come attesi sono previsioni, quelli precedenti si riferiscono a rilevazioni passate: non li presentiamo come dati già pubblicati oggi."
+      ],
+      "publishedAt": "2026-10-26T08:10:00+01:00",
+      "eventDate": null,
+      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "source": {
+        "name": "Borsa Italiana · Teleborsa",
+        "url": "https://www.borsaitaliana.it/borsa/notizie/teleborsa/finanza/appuntamenti-macroeconomici-settimana-del-26-ottobre-2026-15_2026-10-26_TLB-AUTO.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
+        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora.",
+        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
+      },
+      "image": null
+    },
+    {
+      "id": "ai-scuola",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "IA a scuola, più uso e più cautela tra i docenti intervistati",
+      "summary": "Nell’indagine INDIRE il 69% dei rispondenti dichiara di usarla. Il campione non rappresenta tutti gli insegnanti italiani.",
+      "body": [
+        "La ricerca pubblicata da INDIRE il 22 ottobre raccoglie le risposte complete di 2.105 docenti. Il 69% dichiara un uso dell’IA nella didattica, contro il 57,4% rilevato nel campione del 2025.",
+        "Il campione non è rappresentativo e il confronto non segue necessariamente gli stessi insegnanti. I risultati segnalano insieme diffusione degli strumenti, domanda di formazione e timori sulle risposte accettate senza verifica."
+      ],
+      "publishedAt": "2026-10-22",
+      "eventDate": null,
+      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "source": {
+        "name": "INDIRE",
+        "url": "https://www.indire.it/2026/10/22/intelligenza-artificiale-a-scuola-luso-tra-i-docenti-sale-dal-574-al-69-secondo-lindagine-indire-e-tecnica-della-scuola/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
+        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora.",
+        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
+      },
+      "image": null
+    },
+    {
+      "id": "passeggiate",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Una passeggiata al Bastione Ardeatino, oggi alle 11:30",
+      "summary": "Il programma comunale propone un’attività gratuita con prenotazione. Verifica la disponibilità.",
+      "body": [
+        "Culture Roma indica per il 27 ottobre alle 11:30 una visita al Bastione Ardeatino e per domani alle 10:00 un appuntamento a Porta Pia.",
+        "La partecipazione è gratuita e la prenotazione è obbligatoria allo 060608. Il programma può variare; la fonte consente di verificare indicazioni e contatti. La pagina riporta le date degli eventi, non una data di pubblicazione."
+      ],
+      "publishedAt": "2026-10-27",
+      "eventDate": "2026-10-27T11:30:00+01:00",
+      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "source": {
+        "name": "Culture Roma",
+        "url": "https://culture.roma.it/appuntamento/passeggiate-romane-del-27-e-28-ottobre-2026/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
+        "dateEvidence": "Pagina senza data di pubblicazione: publishedAt è qui la data evento, resa esplicita nella UI.",
+        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
+      },
+      "image": null,
+      "dateKind": "event"
+    },
+    {
+      "id": "cinema",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Alla Casa del Cinema le giornate ucraine e polacche",
+      "summary": "Dal 27 al 29 ottobre, proiezioni gratuite con registrazione secondo l’organizzatore.",
+      "body": [
+        "L’Agenzia statale ucraina per il cinema annuncia una rassegna alla Casa del Cinema di Villa Borghese dal 27 al 29 ottobre. Il programma comprende opere contemporanee e classici.",
+        "L’annuncio del 25 ottobre indica ingresso libero previa registrazione. Controlla il programma e le condizioni nella fonte ufficiale, disponibile in ucraino, prima di organizzare la visita."
+      ],
+      "publishedAt": "2026-10-25",
+      "eventDate": "2026-10-27",
+      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "source": {
+        "name": "Agenzia statale cinema Ucraina",
+        "url": "https://www.usfa.gov.ua/press-center/kino-shho-obyednuye-u-rymi-vidbudutsya-dni-ukrainskogo-ta-polskogo-kino-i15143",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
+        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora.",
+        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
+      },
+      "image": null
+    },
+    {
+      "id": "stra",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Stra, ritrovato l’uomo scomparso: ricerche concluse",
+      "summary": "Telenuovo riferisce del ritrovamento grazie all’elicottero dei Vigili del Fuoco.",
+      "body": [
+        "La cronaca locale del 26 ottobre dà conto del ritrovamento di un cinquantenne nel territorio di Stra, in provincia di Venezia, dopo le ricerche iniziate il giorno precedente.",
+        "Secondo Telenuovo, l’uomo è stato individuato vicino all’abitazione ed era in buone condizioni. La scheda riporta l’esito delle ricerche senza riproporre un allarme di scomparsa ormai superato."
+      ],
+      "publishedAt": "2026-10-26",
+      "eventDate": null,
+      "verifiedAt": "2026-10-27T09:06:47.006453+00:00",
+      "source": {
+        "name": "Telenuovo · TgPadova",
+        "url": "https://tgpadova.telenuovo.it/cronaca/2026/10/26/video-stra-ritrovato-luomo-di-cui-si-erano-perse-le-tracce",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T09:06:47.006453+00:00",
+        "dateEvidence": "Data esplicita nella pagina della fonte; se indicato solo il giorno non è stata inventata un’ora.",
+        "reviewedBy": "Lola · verifica editoriale assistita",
+        "accessNote": "Testo consultato senza abbonamento; l’accesso può cambiare."
+      },
+      "image": null
+    }
+  ]
+}
