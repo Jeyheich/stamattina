@@ -2,30 +2,29 @@
   "schemaVersion": 1,
   "editionDate": "2026-10-27",
   "category": "Sport",
-  "completedAt": "2026-10-27T12:44:50.088Z",
+  "completedAt": "2026-10-27T13:32:37.126918+00:00",
   "articles": [
     {
-      "id": "sport-manchester-carrick-howe",
-      "eventKey": "manchester-united-carrick-permanenza-allenatore-chelsea-27-ottobre-2026",
+      "id": "sport-serie-a-nona-giornata-2026",
+      "eventKey": "sport-serie-a-nona-giornata-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "Manchester United, Carrick resta in panchina per la sfida al Chelsea",
-      "summary": "Il Manchester United conferma per ora Michael Carrick, mentre valuta Eddie Howe come possibile successore.",
+      "title": "Serie A, parte il turno infrasettimanale della nona giornata",
+      "summary": "Il campionato torna in campo tra martedì 27 e giovedì 29 ottobre.",
       "body": [
-        "Carrick ha continuato a dirigere gli allenamenti dopo la sconfitta contro il Bournemouth. Secondo la ricostruzione del Guardian, il club attende un'intesa con un eventuale nuovo tecnico prima di decidere una sostituzione.",
-        "Eddie Howe resta il nome preferito dal direttore sportivo Jason Wilcox, ma un suo ingaggio comporterebbe un indennizzo al Newcastle di circa tre milioni di sterline. Nessun cambio di allenatore viene presentato come già concluso."
+        "La nona giornata di Serie A si distribuisce su tre giorni. Nel programma riportato da Sky Sport figurano Torino-Como martedì alle 20:45, Venezia-Inter mercoledì alle 18:30 e Monza-Napoli mercoledì alle 20:45.",
+        "La fonte contiene calendario e indicazioni per seguire gli incontri. La fotografia è di repertorio e non raffigura una partita di questo turno."
       ],
-      "publishedAt": "2026-10-27T06:15:00-04:00",
-      "verifiedAt": "2026-10-27T12:44:50.088Z",
+      "publishedAt": "2026-10-27T09:00:00.700+01:00",
+      "verifiedAt": "2026-10-27T13:32:37.126918+00:00",
       "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/oct/27/manchester-united-eddie-howe-newcastle-compensation-michael-carrick",
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/27/calendario-serie-a-9-giornata",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:44:50.088Z",
-        "dateEvidence": "Guardian, 27 ottobre 2026 ore 06:15 EDT, aggiornato alle 06:22; testo integrale su Carrick, Howe e indennizzo.",
+        "accessCheckedAt": "2026-10-27T13:32:37.126918+00:00",
+        "dateEvidence": "Pagina integrale letta; data di pubblicazione 2026-10-27T09:00:00.700+01:00; aggiornata 2026-10-27T13:39:20.787+0100.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 90,
       "image": {
         "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg/960px-Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg",
         "alt": "Pallone da calcio su un prato",
@@ -35,89 +34,90 @@
         "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "caption": "Repertorio · Un pallone da calcio su un prato. La fotografia non ritrae la partita o la cerimonia descritta nella notizia.",
         "reuseApproved": true
-      }
+      },
+      "leadPriority": 90
     },
     {
-      "id": "sport-india-nuova-zelanda-cricket",
-      "eventKey": "india-vittoria-nuova-zelanda-terzo-t20-27-ottobre-2026",
+      "id": "sport-milan-pulisic-rinnovo-2031",
+      "eventKey": "sport-milan-pulisic-rinnovo-2031",
       "category": "Sport",
       "status": "verified",
-      "title": "Cricket, India batte la Nuova Zelanda e conquista la serie T20",
-      "summary": "Abhishek Sharma segna 113 punti in 38 palle; l'India raggiunge 199 in appena 13,2 over e vince la terza partita.",
+      "title": "Milan e Pulisic, rinnovo fino al 2031 vicino",
+      "summary": "Secondo Sky Sport mancano gli ultimi dettagli prima della firma.",
       "body": [
-        "A Wellington il centurione indiano arriva a quota 100 in 35 palle e trascina la squadra a una vittoria per sei wicket. Il successo porta l'India sul 3-0 nella serie di cinque incontri, già matematicamente conquistata."
+        "Il Milan e Christian Pulisic sono vicini a prolungare il contratto fino al 2031. La fonte presenta l’accordo come prossimo alla conclusione: la firma non viene descritta come già ufficiale."
       ],
-      "publishedAt": "2026-10-27T10:41:00Z",
-      "verifiedAt": "2026-10-27T12:44:50.088Z",
+      "publishedAt": "2026-10-26T23:48:41.216+01:00",
+      "verifiedAt": "2026-10-27T13:32:37.126918+00:00",
       "source": {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/sports/cricket/abhishek-ton-flattens-new-zealand-india-seal-t20-series-2026-10-27/",
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/26/pulisic-milan-rinnovo",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:44:50.088Z",
-        "dateEvidence": "Reuters, 27 ottobre 2026 ore 10:41 UTC; articolo completo con 113 su 38 palle, 13,2 over e serie 3-0.",
+        "accessCheckedAt": "2026-10-27T13:32:37.126918+00:00",
+        "dateEvidence": "Pagina integrale letta; data di pubblicazione 2026-10-26T23:48:41.216+01:00.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "sport-ringrose-infortunio",
-      "eventKey": "irlanda-ringrose-infortunio-coscia-nations-championship-2026",
+      "id": "sport-pallone-oro-2026-kane",
+      "eventKey": "sport-pallone-oro-2026-kane",
       "category": "Sport",
       "status": "verified",
-      "title": "Rugby, Ringrose in dubbio per le partite dell'Irlanda a novembre",
-      "summary": "Un infortunio al bicipite femorale potrebbe tenere fuori il centro irlandese Garry Ringrose dal Nations Championship.",
+      "title": "Pallone d’Oro a Kane, Lautaro chiude al 22º posto",
+      "summary": "Mbappé e Yamal completano il podio; Lautaro è l’unico giocatore della Serie A in classifica.",
       "body": [
-        "La federazione irlandese ha comunicato che il giocatore proseguirà la riabilitazione con il Leinster; l'Irlanda esordirà con l'Argentina e affronterà poi Fiji e Sudafrica."
+        "Harry Kane ha vinto il Pallone d’Oro davanti a Kylian Mbappé e Lamine Yamal. La classifica pubblicata da Sky Sport colloca Lautaro Martinez al ventiduesimo posto, unico rappresentante della Serie A."
       ],
-      "publishedAt": "2026-10-27T11:34:00Z",
-      "verifiedAt": "2026-10-27T12:44:50.088Z",
+      "publishedAt": "2026-10-26T17:48:16.631+01:00",
+      "verifiedAt": "2026-10-27T13:32:37.126918+00:00",
       "source": {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/sports/irelands-ringrose-doubtful-nations-championship-2026-10-27/",
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/2026/10/26/classifica-pallone-d-oro-2026",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:44:50.088Z",
-        "dateEvidence": "Reuters, 27 ottobre 2026 ore 11:34 UTC; IRFU, infortunio muscolare e percorso di recupero.",
+        "accessCheckedAt": "2026-10-27T13:32:37.126918+00:00",
+        "dateEvidence": "Pagina integrale letta; data di pubblicazione 2026-10-26T17:48:16.631+01:00; aggiornata 2026-10-27T08:41:53.734+0100.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "sport-cowboys-eagles-nfl",
-      "eventKey": "nfl-cowboys-eagles-38-21-26-ottobre-2026",
+      "id": "sport-f1-wolff-antonelli-crescita",
+      "eventKey": "sport-f1-wolff-antonelli-crescita",
       "category": "Sport",
       "status": "verified",
-      "title": "NFL, i Cowboys battono gli Eagles 38-21",
-      "summary": "Tre touchdown lanciati da Dak Prescott e 155 yard corse da Javonte Williams trascinano Dallas contro Philadelphia.",
+      "title": "F1, Wolff racconta la crescita di Antonelli in Mercedes",
+      "summary": "Il team principal ripercorre gli investimenti e il lavoro che hanno accompagnato il pilota italiano.",
       "body": [
-        "I Cowboys hanno interrotto una serie di due sconfitte, imponendo agli Eagles la quinta sconfitta consecutiva. Il resoconto della squadra conferma il risultato della gara di lunedì 26 ottobre e le statistiche principali."
+        "Nell’intervista ripresa da Sky Sport, Toto Wolff attribuisce la crescita di Kimi Antonelli al programma giovanile, al lavoro con gli ingegneri e al sostegno della famiglia. Ha indicato la vittoria di Austin come una prova particolarmente convincente del pilota."
       ],
-      "publishedAt": "2026-10-27T00:03:00-04:00",
-      "verifiedAt": "2026-10-27T12:44:50.088Z",
+      "publishedAt": "2026-10-27T12:12:07.791+01:00",
+      "verifiedAt": "2026-10-27T13:32:37.126918+00:00",
       "source": {
-        "name": "Dallas Cowboys",
-        "url": "https://www.dallascowboys.com/news/balance-on-offense-plays-big-role-for-dak-prescott-cowboys-in-38-21-win-over-eagles",
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/formula-1/2026/10/27/kimi-antonelli-f1-toto-wolff-mercedes-intervista",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:44:50.088Z",
-        "dateEvidence": "Resoconto ufficiale Dallas Cowboys pubblicato 27 ottobre 2026 alle 00:03, punteggio 38-21 e cifre Prescott/Williams.",
+        "accessCheckedAt": "2026-10-27T13:32:37.126918+00:00",
+        "dateEvidence": "Pagina integrale letta; data di pubblicazione 2026-10-27T12:12:07.791+01:00; aggiornata 2026-10-27T13:58:06.380+0100.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "sport-sudafrica-australia-test",
-      "eventKey": "cricket-sudafrica-australia-terzo-test-prima-giornata-27-ottobre-2026",
+      "id": "sport-tennis-tokyo-paolini-osaka",
+      "eventKey": "sport-tennis-tokyo-paolini-osaka",
       "category": "Sport",
       "status": "verified",
-      "title": "Cricket Test, il Sudafrica parte forte contro l'Australia",
-      "summary": "Al primo giorno del terzo Test a Cape Town il Sudafrica raggiunge 203/1 al 44º over, nonostante la scelta australiana di lanciare per prima.",
+      "title": "Tokyo, Paolini eliminata da Osaka all’esordio",
+      "summary": "La tennista italiana perde in due set e resta impegnata nel doppio con Errani.",
       "body": [
-        "Il resoconto live del Guardian alle 12:29 GMT registra Aiden Markram a quota 77 e David Bedingham a 28. È un risultato parziale della prima giornata, non il punteggio finale dell'incontro."
+        "Naomi Osaka ha battuto Jasmine Paolini 6-3, 7-6 al primo turno del torneo di Tokyo. Paolini continua il torneo in doppio con Sara Errani, con l’obiettivo di qualificarsi alle WTA Finals."
       ],
-      "publishedAt": "2026-10-27T07:30:00Z",
-      "verifiedAt": "2026-10-27T12:44:50.088Z",
+      "publishedAt": "2026-10-27T08:20:48.422+01:00",
+      "verifiedAt": "2026-10-27T13:32:37.126918+00:00",
       "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/sport/live/2026/oct/27/south-africa-v-australia-third-test-day-one-cricket-newlands-cape-town-live-updates",
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/2026/10/27/paolini-osaka-wta-tokyo-risultato",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:44:50.088Z",
-        "dateEvidence": "Guardian live, prima pubblicazione 27 ottobre 2026 07:30 GMT, aggiornamento alle 12:29 GMT con Sudafrica 203/1.",
+        "accessCheckedAt": "2026-10-27T13:32:37.126918+00:00",
+        "dateEvidence": "Pagina integrale letta; data di pubblicazione 2026-10-27T08:20:48.422+01:00; aggiornata 2026-10-27T12:48:00.866+0100.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
