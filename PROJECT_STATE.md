@@ -7,18 +7,18 @@
 - Fabio ha autorizzato le scritture GitHub necessarie alla rassegna cloud. Non introdurre altri servizi a pagamento o chiavi API senza consenso.
 
 ## Osservato
-- Sito https://jeyheich.github.io/stamattina/ con edizione reale statica del 27 ottobre, 13 articoli.
-- Swipe v6 verificato pubblico, commit 27e5adc42e7d085aed5fd2d63836fd231b915ff8, run 40481270291 success. Offline con 5 foto testato.
-- Vecchia Rassegna stampa quotidiana di ChatGPT sospesa; GitHub daily.yml disabled_manually. Pages senza cron.
-- Prova cloud effettuata dalla task ChatGPT: automation/cloud-probe.json scritto davvero su GitHub, result github-write-ok, controllo 09:56:27 UTC. Questa prova dimostra scrittura cloud, non ancora una rassegna quotidiana completa pubblicata.
-- La task è ancora in pausa, con istruzioni temporanee della prova. Backup istruzioni originali nel work locale; istruzioni nuove durevoli in automation/DAILY_BRIEF.md.
-- UI v7 e pipeline incoming con controlli HTTP/Commons pronte localmente, da pubblicare e collaudare.
+- PWA pubblica con edizione reale precedente del 27 ottobre, 13 articoli. Swipe e animazioni pubblicati e testati.
+- Cloud GitHub lettura/scrittura provata; autorizzazione persistente concessa da Fabio. Il task legge DAILY_BRIEF e scrive incoming/edition.json, senza Mac.
+- Pipeline incoming e UI v8 pubblicate: confronto edizione, esito visibile nuovo/immutato/offline/errore; controllo apertura e ritorno dopo 5 minuti.
+- Task ChatGPT ancora in pausa, prompt definitivo salvato; avvio previsto 06:45 Europe/Rome per obiettivo 07:30. Verificare nuovamente frequenza/orario prima della ripresa.
+- Primo tentativo completo non terminato. Secondo commit b110253d6816b9c060a4d71098f699564b20bd1e con 13 notizie, ma run 40486694776 fallito: Teatro.it HTTP403, INDIRE timeout. Foto tutte superate. Il produttore ha ammesso verifiche editoriali incomplete: NON promuovere questo file manualmente.
+- Diagnostica migliorata con id articolo. Procedura chiarisce che fetch_commit_workflow_runs filtra PR e non trova push; usare elenco Actions pubblico. Terzo collaudo cloud avviato con sostituzione fonti e verifica completa richiesta.
+- daily.yml GitHub resta disabled_manually. Nessuna seconda routine GitHub di raccolta: proposta respinta da revisione automatica e abbandonata.
 
 ## Prossimi passi necessari
-1. Pubblicare correzione del pulsante e pipeline: push incoming/edition.json → controlli → archivio/current → Pages, senza dipendenze locali.
-2. Sostituire prompt di prova con la procedura DAILY_BRIEF; eseguire una rassegna vera dal cloud e verificare la nuova edizione pubblica.
-3. Solo dopo successo: riattivare task giornaliera alle 06:45 Europe/Rome con obiettivo consegna entro 07:30; rileggere orario e stato.
-4. Non dichiarare garantito/attivo il flusso finché il collaudo completo non passa. In errore resta la vecchia edizione e va indicata la causa.
+1. Verificare il terzo collaudo cloud: controlli effettivi, workflow riuscito e id pubblico uguale al candidato.
+2. Solo dopo successo: riprendere task ogni giorno alle 06:45 Europe/Rome; rileggere stato e orario. Nessuna garanzia di puntualità assoluta del cloud.
+3. Non dichiarare attivo il flusso prima del collaudo. In errore resta l'ultima edizione con data originale.
 
 ## Controlli
 - node scripts/validate.mjs dist/data/current.json --production; node --check dist/app.js; node --check dist/sw.js.

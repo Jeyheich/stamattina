@@ -14,10 +14,10 @@ Fonti: RaiNews, Istat, Roma Mobilità, Teatro.it, Open, Rai Televideo, Borsa Ita
 L’interfaccia legge solo `dist/data/current.json`. Mantiene data di pubblicazione, data evento se disponibile, momento del controllo, evidenza della data, fonte diretta gratuita e metadati fotografici. Le pagine evento senza data di pubblicazione sono dichiarate come tali. I contenuti di archivio/demo della v1 sono nel checkpoint locale, non nell’edizione pubblicata.
 Il validatore controlla struttura e campi, non prova da solo verità, gratuità o diritti. Nuove edizioni vanno raccolte e revisionate separatamente; nessuna API key è presente nella PWA.
 
-## Flusso quotidiano ancora da collegare
-L’automazione ChatGPT preesistente è intatta: non alimenta la PWA. Nessuna nuova rassegna verrà inventata o ripubblicata con la data cambiata. La UI segnala un’edizione precedente.
-`daily.yml` è manuale, con schedulazione commentata: serve un produttore indipendente che raccolga fonti consentite prima delle 09:33 Europe/Rome e prepari `incoming/edition.json`. Obbligatori: controlli editoriali, date, accesso senza paywall, immagini pertinenti con licenza e attribuzione. `promote.mjs` valida l’edizione di oggi, archivia e sostituisce current solo dopo il successo. In errore resta online la versione precedente.
-Per attivare: collegare il produttore, provare un giorno intero e un caso di fallimento, poi abilitare la schedulazione. GitHub Actions non garantisce puntualità esatta e può ritardare; prevedere recupero e allarme. Nessuna promessa di notifiche push.
+## Flusso quotidiano cloud in collaudo
+La vecchia consegna testuale delle 09:33 è superata. La richiesta è una rassegna disponibile entro le 07:30 Europe/Rome anche con il Mac spento, con avvio cloud anticipato alle 06:45. L'autorizzazione persistente GitHub è concessa e la scrittura è provata; il collaudo editoriale completo non è ancora passato, quindi la task resta in pausa.
+La task legge automation/DAILY_BRIEF.md e scrive incoming/edition.json. Pages parte su push, verifica fonti/foto/date, valida, promuove, archivia e pubblica. Il secondo collaudo è stato bloccato da HTTP403 e timeout, lasciando intatta l'edizione pubblica. Il vecchio daily.yml è disattivato. Nessuna API key nella PWA né nuovo servizio a pagamento.
+Il pulsante Verifica nuova edizione confronta la pubblicazione e carica eventuali nuovi dati; non avvia ricerca web. Anche apertura e ritorno dopo cinque minuti controllano il file. Gli esiti nuova/immutata/offline/errore sono distinti. Nessuna promessa di notifiche push o puntualità assoluta.
 
 ## Avvio e test
 `python3 -m http.server 8765 --directory dist`
