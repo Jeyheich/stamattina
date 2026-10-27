@@ -115,6 +115,24 @@
         "caption": "Repertorio · Un pallone da calcio su un prato. La fotografia non ritrae la partita o la cerimonia descritta nella notizia.",
         "reuseApproved": true
       }
+    },
+    {
+      "key": "casa-del-cinema-roma",
+      "topics": [
+        "Casa del Cinema",
+        "Villa Borghese",
+        "festival alla Casa del Cinema di Roma"
+      ],
+      "image": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Villa_Borghese_-_Casa_del_Cinema_P1020818.JPG/960px-Villa_Borghese_-_Casa_del_Cinema_P1020818.JPG",
+        "alt": "Casa del Cinema a Villa Borghese, Roma",
+        "credit": "Lalupa",
+        "rights": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Villa_Borghese_-_Casa_del_Cinema_P1020818.JPG",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "caption": "Repertorio · La Casa del Cinema a Villa Borghese, Roma. La fotografia non ritrae l'edizione 2026 del festival.",
+        "reuseApproved": true
+      }
     }
   ]
 }
