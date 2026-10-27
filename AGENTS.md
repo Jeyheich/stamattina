@@ -4,7 +4,7 @@
 - Notizie JSON separate dalla UI. Mai inventare fatti, date, fotografie o dichiarazioni di accesso gratuito.
 - Foto autentiche con fonte, attribuzione, licenza e didascalia; repertorio sempre dichiarato. Conservare originali e crediti.
 - Animazioni brevi, interrompibili; fallback senza View Transitions e rispetto di prefers-reduced-motion. Focus e scroll devono restare coerenti.
-- Non modificare l’automazione ChatGPT esistente. La pubblicazione GitHub è autorizzata per questo progetto; nuove integrazioni o spese richiedono consenso.
+- La vecchia consegna ChatGPT solo testuale è superata. Fabio richiede una rassegna cloud pronta alle 07:30 anche con il Mac spento e ha autorizzato le scritture GitHub necessarie. Nuove integrazioni, servizi a pagamento o credenziali richiedono consenso.
 - Nessuna dipendenza. Test: node scripts/validate.mjs dist/data/current.json --production; node --check dist/app.js; node --check dist/sw.js.
 - Server locale: python3 -m http.server 8765 --directory dist. Prima di pubblicare verificare formato iPhone, filtri, apertura/chiusura e offline.
-- Distribuzione: Pages via workflow manuale Pubblica Stamattina. Non riattivare il cron una tantum del 27 ottobre né quello quotidiano senza produttore/revisione funzionanti.
+- Distribuzione: Pubblica Stamattina gestisce push dei dati/UI e avvio manuale. Il task cloud prepara incoming/edition.json; il workflow verifica, promuove e pubblica. Il vecchio daily.yml resta disattivato. Non riattivare il cron una tantum del 27 ottobre.

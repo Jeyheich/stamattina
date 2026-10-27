@@ -1,8 +1,15 @@
 name: Pubblica Stamattina
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'incoming/edition.json'
+      - 'dist/**'
+      - 'scripts/**'
+      - '.github/workflows/pages.yml'
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 concurrency:
@@ -14,13 +21,40 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Rileva una nuova edizione proposta
+        id: incoming
+        if: github.event_name == 'push'
+        env:
+          BEFORE: ${{ github.event.before }}
+        run: |
+          if ! git diff --quiet "$BEFORE" "$GITHUB_SHA" -- incoming/edition.json; then
+            echo 'changed=true' >> "$GITHUB_OUTPUT"
+          fi
+      - name: Controlla fonti, foto e date prima della pubblicazione
+        if: steps.incoming.outputs.changed == 'true'
+        run: python3 scripts/verify_sources.py incoming/edition.json
+      - name: Promuovi una nuova edizione soltanto se valida e di oggi
+        if: steps.incoming.outputs.changed == 'true'
+        run: node scripts/promote.mjs
       - name: Verifica rassegna reale
         run: node scripts/validate.mjs dist/data/current.json --production
+      - name: Conserva edizione e archivio validati
+        run: |
+          if ! git diff --quiet -- dist/data; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add dist/data
+            git commit -m 'Publish verified morning edition'
+            git push origin HEAD:main
+          fi
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

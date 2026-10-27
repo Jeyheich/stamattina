@@ -1,33 +1,26 @@
-# Stato — 27 ottobre 2026
+# Stato operativo — 27 ottobre 2026
 
 ## Approvato
-- GitHub Pages pubblico Jeyheich/stamattina; prova reale oggi alle 10:10 Europe/Rome.
-- Direzione Apple, font di sistema, schede e navigazione inferiore; scartata la grafica serif/cartacea v1.
-- Nuova richiesta: filtri e apertura notizie più fluidi, senza ridurre leggibilità/accessibilità.
+- PWA pubblica su Jeyheich/stamattina, modello C: 5 essenziali/principali con foto + 7–10 compatte, 7 categorie. Fonti gratuite e date reali; mai notizie/foto inventate.
+- UI moderna vicina alle app Apple, font di sistema, temi e bottom bar; scartata grafica serif/cartacea v1. Swipe categorie e animazioni con Riduci movimento.
+- Nuova richiesta: ogni mattina rassegna pronta entro 07:30 Europe/Rome ANCHE A MAC SPENTO. Le 09:33 sono superate. Il produttore deve partire prima (06:45), non alle 07:30.
+- Fabio ha autorizzato le scritture GitHub necessarie alla rassegna cloud. Non introdurre altri servizi a pagamento o chiavi API senza consenso.
 
 ## Osservato
-- URL pubblico https://jeyheich.github.io/stamattina/ verificato: 13 schede reali, 5 principali e 8 compatte; 5 fotografie Commons di repertorio, licenze e crediti visibili.
-- Primo rilascio effettivo avviato alle 10:10:22 con workflow_dispatch: run 40478763078 success. Il cron non era ancora partito; nessuna puntualità del cron dimostrata.
-- Checkpoint remoto prima delle animazioni: deb060b8cbd153179d0bc8d0a0835ab84db3dae4.
-- Animazioni testate localmente: filtri View Transitions con fallback, apertura 300 ms, chiusura 180 ms, focus ripristinato, nessuna animazione con Riduci movimento. Navigazione da Salvati a Oggi corretta.
-- Offline locale dopo preparazione: edizione e 5 immagini caricate senza rete. Viewport 390×844 senza overflow. Safari su iPhone fisico resta da provare con Fabio.
+- Sito https://jeyheich.github.io/stamattina/ con edizione reale statica del 27 ottobre, 13 articoli.
+- Swipe v6 verificato pubblico, commit 27e5adc42e7d085aed5fd2d63836fd231b915ff8, run 40481270291 success. Offline con 5 foto testato.
+- Vecchia Rassegna stampa quotidiana di ChatGPT sospesa; GitHub daily.yml disabled_manually. Pages senza cron.
+- Prova cloud effettuata dalla task ChatGPT: automation/cloud-probe.json scritto davvero su GitHub, result github-write-ok, controllo 09:56:27 UTC. Questa prova dimostra scrittura cloud, non ancora una rassegna quotidiana completa pubblicata.
+- La task è ancora in pausa, con istruzioni temporanee della prova. Backup istruzioni originali nel work locale; istruzioni nuove durevoli in automation/DAILY_BRIEF.md.
+- UI v7 e pipeline incoming con controlli HTTP/Commons pronte localmente, da pubblicare e collaudare.
 
-## Vincoli e prossimo passo
-- Pubblicare e verificare l’ultima rifinitura di animazione su Pages. Conservare il sito sullo stesso indirizzo.
-- Rassegna attuale statica del 27 ottobre. Il produttore quotidiano non è collegato: daily.yml è manuale, schedule commentata.
-- Automazione ChatGPT intatta. Mai far credere che il cron generi notizie o che l’ora indicata sia un controllo reale.
-- Foto servite da Wikimedia, memorizzate offline dal service worker dopo preparazione. Originali scaricati conservati localmente e ignorati da Git.
-- Fonti consultate via web; check HTTP 12/13 riuscito, Teatro.it restituisce 403 al controllo diretto ma testo completo consultabile tramite strumento web. Non è un paywall accertato.
+## Prossimi passi necessari
+1. Pubblicare correzione del pulsante e pipeline: push incoming/edition.json → controlli → archivio/current → Pages, senza dipendenze locali.
+2. Sostituire prompt di prova con la procedura DAILY_BRIEF; eseguire una rassegna vera dal cloud e verificare la nuova edizione pubblica.
+3. Solo dopo successo: riattivare task giornaliera alle 06:45 Europe/Rome con obiettivo consegna entro 07:30; rileggere orario e stato.
+4. Non dichiarare garantito/attivo il flusso finché il collaudo completo non passa. In errore resta la vecchia edizione e va indicata la causa.
 
-## Rilascio verificato
-- Animazioni online con commit 041654d72ddd5a2624b00617badcf9ec02b1dad6, run 40479646446 conclusa con successo.
-- Il sito pubblico serve il codice delle transizioni e dell’apertura notizie. Cron della prova rimosso dopo l’esecuzione esplicita; nessuna nuova routine quotidiana attivata.
-- Cartella locale collegata a Git, branch main. Aggiornamento dei file UI versionato con ?v=6 per evitare codice precedente nella cache del browser. Rilascio finale da verificare.
-
-## Swipe categorie
-- Nuova richiesta: cambiare categoria col dito mentre si legge, senza raggiungere il menu superiore.
-- Swipe sinistra/destra sul feed; esclusi i bordi Safari, scroll verticale e pinch restano nativi. Soglia direzionale e rollback per tocchi brevi. I tap sui titoli funzionano; il click dopo trascinamento è soppresso.
-- Indizio contestuale della categoria in arrivo e selezione del menu mantenuta visibile. Al cambio si torna all’inizio dei risultati. Nessun ciclo dall’ultima alla prima categoria.
-- Test CDP touch: Tutte→Politica→Tutte, scroll verticale, trascinamento breve e bordi, tap notizie. Riduci movimento: cambio categoria senza animazioni del feed.
-- Rimosso limite temporale rigido dello swipe: anche un gesto lento è valido, senza interferire con la selezione del testo.
-- Rilascio swipe v6 da confermare sul sito pubblico.
+## Controlli
+- node scripts/validate.mjs dist/data/current.json --production; node --check dist/app.js; node --check dist/sw.js.
+- scripts/verify_sources.py controlla data odierna, freschezza verifica, fonti pubbliche raggiungibili, indicatori di paywall e metadati/licenza Commons. Non sostituisce la verifica editoriale del task.
+- Il pulsante Verifica nuova edizione deve distinguere nuova/immutata/offline e non deve dichiarare una ricerca di notizie mai avvenuta.

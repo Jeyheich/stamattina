@@ -32,3 +32,7 @@ Filtri: View Transitions con identità stabile delle schede e transizioni di cir
 
 ## Swipe sul telefono
 Scorri orizzontalmente sulle notizie: a sinistra vai alla categoria successiva, a destra torni alla precedente. Funziona anche sui titoli e mentre sei più in basso nella pagina. I bordi dello schermo restano a Safari; lo scorrimento verticale e il pinch zoom sono nativi. I movimenti troppo brevi ritornano alla posizione iniziale. Il menu resta disponibile come alternativa. A cambio sezione si torna all’inizio dei risultati e il filtro attivo viene portato in vista.
+
+## Nuovo flusso richiesto (07:30 anche a Mac spento)
+La vecchia consegna testuale è stata sospesa. Si collauda una task ChatGPT cloud con il GitHub già collegato: avvio anticipato 06:45 Europe/Rome, obiettivo di pubblicazione entro le 07:30. La prova di scrittura cloud è riuscita; la schedulazione finale va attivata solo dopo il collaudo dell’intera rassegna. Nessun nuovo servizio API a pagamento.
+La task legge automation/DAILY_BRIEF.md e scrive incoming/edition.json. Il workflow Pages parte automaticamente, controlla fonti e foto, valida il formato, promuove e archivia, pubblica. Una verifica fallita interrompe la pubblicazione. Il bottone Verifica nuova edizione confronta quanto è pubblicato; all’apertura e al ritorno nell’app dopo cinque minuti viene effettuato un controllo. Non è un comando di raccolta delle notizie.
