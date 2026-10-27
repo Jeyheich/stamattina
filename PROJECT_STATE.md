@@ -60,3 +60,5 @@ Tutto Europe/Rome: tre attività rassegna, sei avvii giornalieri.
 - Fabio approva tre PromptOps e due Everyeye videogiochi; superata la precedente coppia Lega Nerd/MegaNerd. Wired Italia scartata: editoriale di chiusura 30 giugno 2026 e feed fermo a luglio.
 - Everyeye pagina, feed ufficiale feed_news_rss.asp e due articoli provati rispondono 200; contiene anche pubblicità/offerte da escludere. PromptOps feed news/rss.xml leggibile, ultimi elementi osservati 24 ottobre: non garantite tre notizie entro 72 ore, obbligatoria verifica della freschezza e fonte originale.
 - Configurazione aggiornata nei due brief letti dalle task e nel raccoglitore. Nessun nuovo slot/orario; UI ed edizione pubblica invariate fino a produzione valida. Non dichiarare completo il nuovo blocco prima del suo salvataggio e dei controlli.
+
+- Fabio autorizza IGN Italia come fallback delle due notizie gaming se Everyeye non funziona. Feed https://it.ign.com/feed.xml e home verificati HTTP 200; Everyeye resta fonte primaria (già verificata 200). Aggiunto pool IGN di riserva, precedenza nei brief esplicita; nessuna sostituzione delle tre PromptOps e nessuna nuova attività.
