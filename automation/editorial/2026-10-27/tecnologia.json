@@ -1,111 +1,52 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-27",
+  "collectionId": "2026-10-27-pomeriggio",
   "category": "Tecnologia · AI",
-  "completedAt": "2026-10-27T12:34:21.555Z",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-10-27T16:04:38.502Z",
   "articles": [
     {
-      "id": "tecnologia-detox-gen-z",
-      "eventKey": "gen-z-app-disintossicazione-digitale-2026",
+      "id": "tecnologia-fortnite-one-piece-trailer",
+      "eventKey": "fortnite-one-piece-trailer-treasure-hunter-27-ottobre-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "La generazione Z sperimenta strumenti per ridurre il tempo online",
-      "summary": "Dai telefoni essenziali alle app che bloccano le distrazioni, giovani utenti cercano modalità meno invasive di uso delle piattaforme.",
+      "title": "Fortnite mostra la collaborazione con One Piece nel trailer di Treasure Hunter",
+      "summary": "Epic Games presenta la mini-stagione che chiuderà il Capitolo 7 con personaggi, ambientazioni e oggetti ispirati a One Piece.",
       "body": [
-        "L'inchiesta descrive soluzioni sperimentate da studenti per limitare l'uso compulsivo dei social, bilanciando studio, amicizie e vita quotidiana."
+        "Il trailer pubblicato il 27 ottobre mostra tra gli altri Luffy, Nami, Zoro, Sanji, Usopp, Ace e Buggy. Everyeye segnala anche una versione della Going Merry come Bus della Battaglia.",
+        "Il video anticipa luoghi ispirati ad Arlong Park e abilità collegate ai protagonisti della serie. La lista delle skin è ricavata dal filmato e dai manifesti: eventuali aggiunte non sono ancora confermate."
       ],
-      "publishedAt": "2026-10-27T11:00:00+01:00",
-      "verifiedAt": "2026-10-27T12:34:21.555Z",
+      "publishedAt": "2026-10-27T15:31:00+01:00",
+      "verifiedAt": "2026-10-27T16:04:38.502Z",
       "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/technology/2026/oct/27/gen-z-digital-detox-apps",
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/fortnite-accoglie-one-piece-e-ciurma-trailer-mini-stagione-908282.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:34:21.555Z",
-        "dateEvidence": "Il Guardian mostra Tue 27 Oct 2026 11:00 CET; testo integrale su applicazioni di blocco e telefoni semplificati.",
+        "accessCheckedAt": "2026-10-27T16:04:38.502Z",
+        "dateEvidence": "Everyeye, Giovanni Panzano, 27/10/2026 ore 15:31; pagina completa aperta e letta, sezioni One Piece e Luoghi ed equipaggiamento.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "tecnologia-anthropic-prospetto",
-      "eventKey": "anthropic-prospetto-ipo-trasparenza-2026",
+      "id": "tecnologia-xbox-vendite-settembre",
+      "eventKey": "xbox-series-vendite-settembre-2026-circana-gta6",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "Anthropic, il prospetto per la quotazione espone costi e rischi dell'AI",
-      "summary": "La società ha pubblicato informazioni finanziarie in vista della quotazione: la crescita dei ricavi si accompagna a costi elevati.",
+      "title": "Xbox Series, vendite USA in calo nonostante l'attenzione per GTA 6",
+      "summary": "Secondo l'analista Mat Piscatella, negli Stati Uniti le unità Xbox vendute a settembre sono scese del 27% rispetto all'anno precedente.",
       "body": [
-        "Il documento esamina anche dipendenza dall'infrastruttura di calcolo, attacchi informatici e limiti dei meccanismi di sicurezza. È una vicenda distinta dalle consultazioni britanniche sui datacenter già trattate in Economia."
+        "Il confronto di Circana citato da Everyeye riguarda il mercato statunitense. L'analista non osserva un incremento misurabile delle vendite Xbox legato alla presentazione di GTA 6, che arriverà anche sulla piattaforma Microsoft.",
+        "L'articolo distingue questo dato da una precedente stima positiva sul mercato britannico: i due risultati riguardano territori e periodi differenti, quindi non sono direttamente contraddittori."
       ],
-      "publishedAt": "2026-10-27T05:00:00Z",
-      "verifiedAt": "2026-10-27T12:34:21.555Z",
+      "publishedAt": "2026-10-26T22:55:00+01:00",
+      "verifiedAt": "2026-10-27T16:04:38.502Z",
       "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-stock-market-filing-takeaways",
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/gta-6-bastato-migliorare-vendite-xbox-series-x-124-s-908180.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:34:21.555Z",
-        "dateEvidence": "Guardian pubblicato il 27/10/2026 ore 05:00 GMT, spiegazione dei documenti societari e dei rischi dichiarati.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "tecnologia-home-office-ai",
-      "eventKey": "uk-home-office-usi-ai-asilo-frontiere-2026",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "Regno Unito, rapporto denuncia opacità sull'AI al ministero dell'Interno",
-      "summary": "Open Rights Group segnala applicazioni dell'AI nei controlli alle frontiere e nei processi riguardanti richiedenti asilo.",
-      "body": [
-        "L'organizzazione sostiene che il ricorso a sistemi automatizzati sia poco trasparente e che richieste di accesso agli atti ricevano risposte insufficienti. Si tratta delle conclusioni di un rapporto, non di un accertamento giudiziario."
-      ],
-      "publishedAt": "2026-10-27",
-      "verifiedAt": "2026-10-27T12:34:21.555Z",
-      "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
-        "access": "free",
-        "accessCheckedAt": "2026-10-27T12:34:21.555Z",
-        "dateEvidence": "Guardian datato 27/10/2026; fonte integrale riferisce denuncia Open Rights Group su valutazioni età e sorveglianza confini.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "tecnologia-iphone-duo-display",
-      "eventKey": "iphone-duo-segnalazioni-crepe-schermo-ottobre-2026",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "iPhone Duo, Apple riconosce un problema a un numero limitato di schermi",
-      "summary": "Alcuni acquirenti del primo iPhone pieghevole segnalano crepe sul display; Apple conferma un difetto su una piccola parte dei dispositivi.",
-      "body": [
-        "Il caso è emerso dopo fotografie e testimonianze sui social. L'azienda ha riconosciuto il problema, ma il numero preciso di apparecchi coinvolti non è stato divulgato."
-      ],
-      "publishedAt": "2026-10-26T15:15:00-04:00",
-      "verifiedAt": "2026-10-27T12:34:21.555Z",
-      "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/technology/2026/oct/26/iphone-duo-owners-cracks-apple-first-foldable-handset",
-        "access": "free",
-        "accessCheckedAt": "2026-10-27T12:34:21.555Z",
-        "dateEvidence": "Pagina Guardian pubblicata 26 Oct 2026 15:15 EDT, aggiornamento 27 ottobre, dichiarazione Apple su pochi dispositivi.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "tecnologia-microsoft-buyout",
-      "eventKey": "microsoft-esuberi-incentivati-60000-ottobre-2026",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "Microsoft, indiscrezioni su incentivi all'uscita per 60 mila dipendenti",
-      "summary": "Secondo notizie riportate dal Guardian, Microsoft avrebbe predisposto offerte volontarie di uscita per ridurre i costi.",
-      "body": [
-        "Il numero di 60 mila dipendenti è riferito da fonti giornalistiche, non presentato come cifra definitiva confermata dall'azienda. Le ipotesi di riorganizzazione emergono nel contesto di investimenti nell'intelligenza artificiale."
-      ],
-      "publishedAt": "2026-10-26T19:44:00+01:00",
-      "verifiedAt": "2026-10-27T12:34:21.555Z",
-      "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts",
-        "access": "free",
-        "accessCheckedAt": "2026-10-27T12:34:21.555Z",
-        "dateEvidence": "Guardian mostra Mon 26 Oct 2026 19:44 CET e attribuisce a reports le offerte di buyout.",
+        "accessCheckedAt": "2026-10-27T16:04:38.502Z",
+        "dateEvidence": "Everyeye, Mario Cariati, 26/10/2026 ore 22:55; articolo letto integralmente, riporta dati Circana/Piscatella e confronto UK.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
