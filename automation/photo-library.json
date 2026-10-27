@@ -1,0 +1,102 @@
+{
+  "kind": "photo-reference-library",
+  "sourceEdition": "2026-10-27-cloud-retry-101929",
+  "rule": "Riferimenti fotografici dell'edizione già pubblicata: NON foto dell'evento odierno. Usare soltanto se soggetto/luogo sono pertinenti alla notizia, dichiarare repertorio e mantenere crediti/licenza. La pipeline riverifica metadati Commons e accesso prima di ogni pubblicazione; non scegliere notizie poco rilevanti solo per adattarle a queste foto.",
+  "photos": [
+    {
+      "key": "manovra",
+      "topics": [
+        "Palazzo Chigi",
+        "governo italiano",
+        "legge di bilancio"
+      ],
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PalazzoChigi.jpeg",
+        "alt": "Palazzo Chigi, Roma",
+        "credit": "Arepo",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg",
+        "rights": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · Palazzo Chigi, Roma. Fotografia non riferita agli eventi di oggi.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      }
+    },
+    {
+      "key": "israele",
+      "topics": [
+        "Knesset",
+        "elezioni israeliane",
+        "parlamento israeliano"
+      ],
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Knesset_Building_%28From_Front%29.JPG",
+        "alt": "La Knesset, Gerusalemme",
+        "credit": "Effib",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG",
+        "rights": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · La Knesset, Gerusalemme. Fotografia non riferita agli eventi di oggi.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      }
+    },
+    {
+      "key": "teatri",
+      "topics": [
+        "Teatro Argentina",
+        "teatro a Roma",
+        "sciopero dei teatri"
+      ],
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Teatro_di_Argentina_Roma.jpg",
+        "alt": "Teatro Argentina, Roma",
+        "credit": "Jensens",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Teatro_di_Argentina_Roma.jpg",
+        "rights": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · Teatro Argentina, Roma. Fotografia non riferita agli eventi di oggi.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      }
+    },
+    {
+      "key": "poverta",
+      "topics": [
+        "negozio alimentare a Roma",
+        "spesa alimentare italiana",
+        "povertà e consumi"
+      ],
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Grocery_store_in_Rome.jpg",
+        "alt": "Negozio alimentare a Roma",
+        "credit": "phototram",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grocery_store_in_Rome.jpg",
+        "rights": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · Negozio alimentare a Roma. Fotografia non riferita agli eventi di oggi.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      }
+    },
+    {
+      "key": "roma-scuola",
+      "topics": [
+        "fermata autobus a Roma",
+        "trasporto pubblico romano",
+        "trasporto scolastico a Roma"
+      ],
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bus_stop_in_Rome_01.jpg",
+        "alt": "Fermata di autobus a Roma",
+        "credit": "Nicholas Gemini",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bus_stop_in_Rome_01.jpg",
+        "rights": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · Trasporto pubblico a Roma, 2018. Non è uno scuolabus.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      }
+    }
+  ]
+}
