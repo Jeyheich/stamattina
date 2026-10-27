@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-10-27",
+  "category": "Esteri",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-10-27T11:52:30.076Z",
+  "articles": [
+    {
+      "id": "esteri-raid-kiev-27-ottobre",
+      "eventKey": "raid-russo-kiev-infrastrutture-27-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Raid russi su Kiev: colpite strutture sanitarie e infrastrutture",
+      "summary": "Attacchi sulla capitale ucraina hanno causato vittime e danni a strutture civili, secondo la ricostruzione del Guardian.",
+      "body": [
+        "La cronaca del 27 ottobre descrive attacchi russi su Kiev con almeno una vittima e feriti; sono segnalati danni a strutture mediche e al ponte meridionale, con conseguenze anche sulla metropolitana."
+      ],
+      "publishedAt": "2026-10-27",
+      "verifiedAt": "2026-10-27T11:52:30.076Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/27/ukraine-war-briefing-russian-strikes-kyiv-truce-begins-oleshky",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T11:52:30.076Z",
+        "dateEvidence": "Il Guardian del 27 ottobre, nel corpo dell'articolo, riporta gli attacchi a Kiev e la chiusura del servizio sul ponte.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-noaa-el-nino",
+      "eventKey": "tagli-noaa-previsioni-el-nino-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "USA, scienziati in allarme sui tagli alla NOAA prima di El Niño",
+      "summary": "Riduzioni di organico e fondi alla principale agenzia climatica statunitense potrebbero indebolire previsioni e allerta meteo.",
+      "body": [
+        "Il Guardian del 27 ottobre ricostruisce la perdita di oltre tremila dipendenti NOAA dall'inizio del 2025, pari a circa il 20% dell'organico. Esperti avvertono che i tagli rischiano di ridurre la capacità di ricerca e risposta a fenomeni estremi."
+      ],
+      "publishedAt": "2026-10-27",
+      "verifiedAt": "2026-10-27T11:52:30.076Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/environment/2026/oct/27/trump-cuts-el-nino-noaa",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T11:52:30.076Z",
+        "dateEvidence": "La pagina Guardian indica Tue 27 Oct 2026 07.00 EDT e documenta i tagli NOAA e le preoccupazioni per El Niño.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-australia-sicurezza-parlamentari",
+      "eventKey": "australia-sicurezza-parlamentari-haines-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Australia, dopo un'aggressione si discutono nuove tutele per i parlamentari",
+      "summary": "Il governo valuta allarmi negli uffici e maggiore sicurezza ai seggi dopo un presunto attacco alla deputata Helen Haines.",
+      "body": [
+        "Il 27 ottobre il Guardian riporta l'impegno del primo ministro Anthony Albanese a intervenire sulla sicurezza dei parlamentari. Bridget McKenzie ha espresso il timore che nuove precauzioni possano limitare i contatti diretti con gli elettori."
+      ],
+      "publishedAt": "2026-10-27",
+      "verifiedAt": "2026-10-27T11:52:30.076Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T11:52:30.076Z",
+        "dateEvidence": "Cronaca in diretta Guardian del 27 ottobre, riepilogo finale e intervento di Bridget McKenzie sulla sicurezza.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
+}
