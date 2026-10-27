@@ -1,36 +1,26 @@
-# Stato operativo — 27 ottobre 2026
+# Stamattina — checkpoint 27 ottobre 2026
 
-## Approvato
-- PWA pubblica su Jeyheich/stamattina: 5 essenziali/principali con foto + almeno 35 compatte. Ultima richiesta: almeno 5 fatti distinti per ognuna delle 8 categorie, Sport incluso (minimo 40 notizie). Superati il limite 12–15 e la proposta intermedia 2 per categoria. Fonti gratuite e date reali; mai notizie/foto inventate.
-- UI moderna vicina alle app Apple, font di sistema, temi e bottom bar; scartata grafica serif/cartacea v1. Swipe categorie e animazioni con Riduci movimento.
-- Nuova richiesta: ogni mattina rassegna pronta entro 07:30 Europe/Rome ANCHE A MAC SPENTO. Le 09:33 sono superate. Il produttore deve partire prima (06:45), non alle 07:30.
-- Fabio ha autorizzato le scritture GitHub necessarie alla rassegna cloud. Non introdurre altri servizi a pagamento o chiavi API senza consenso.
+## Ultime decisioni approvate
+- Pubblicazione su Jeyheich/stamattina e https://jeyheich.github.io/stamattina/ autorizzata; PWA iPhone, UI Apple con temi, salvati, swipe e movimento ridotto. Scartata grafica serif/cartacea v1.
+- Almeno 5 fatti DISTINTI per ciascuna delle 8 categorie: Politica, Esteri, Economia, Cronaca, Roma, Cultura · Teatro · Cinema, Tecnologia · AI, Sport. Minimo 40 articoli: 5 essenziali che rimandano alle stesse 5 principali con foto, almeno 35 compatte apribili. Superato il tetto 12–15. Non duplicare BES o altri fatti per riempire conteggi.
+- Disponibilità obiettivo entro 07:30 Europe/Rome anche con Mac spento. Fabio ha autorizzato scritture GitHub per la rassegna e, con successivo consenso specifico, nuova raccolta GitHub alle 06:00 che scrive soltanto automation/candidates/latest.json. Il precedente rifiuto automatico è superato da questa autorizzazione esplicita, non aggirato.
+- Nessuna dipendenza installata, API key o nuovo servizio a pagamento.
 
-## Osservato e verificato
-- PWA pubblica con edizione cloud 2026-10-27-cloud-retry-101929, 13 notizie, generata 10:19:29 UTC (11:19 Roma). Run 40487572337 SUCCESS; id pubblico letto senza cache e identico al candidato promosso.
-- Cloud GitHub lettura/scrittura provata, autorizzazione persistente concessa. Task legge DAILY_BRIEF e scrive solo incoming/edition.json; pipeline valida, promuove, archivia e pubblica senza Mac.
-- Attività esistente Rassegna stampa quotidiana RIATTIVATA via ChatGPT: ogni giorno 06:45 Europe/Rome, obiettivo pronta entro 07:30; prossimo avvio pianificato 28 ottobre. UI riletta Ricorrente/Pausa, prompt cloud conservato. UI mostra frequenza Personalizzato senza dettaglio dell'ora; conferma della pianificazione esatta ricevuta dal gestore task, non verificata prima esecuzione futura.
-- UI v8 pubblicata, run 40487275349 success. Pulsante testato su sito: Nuova edizione caricata e poi Nessuna nuova edizione; errori/offline distinti nei test locali. Controllo anche all'apertura e al ritorno dopo 5 minuti. Tutte 5 foto caricate; nessun overflow osservato.
-- Primo tentativo incompleto; secondo run 40486694776 fallito per Teatro.it403/INDIRE timeout. Controlli NON indeboliti; terzo tentativo cloud ha sostituito le due fonti con RaiNews/Open e superato la pipeline. La verifica pubblica finale è stata completata da Lola: il web tool della task non ha potuto leggerla, quindi quel sottopasso cloud resta un limite operativo.
-- daily.yml GitHub resta disabled_manually. Nessuna seconda routine GitHub di raccolta: proposta respinta da revisione automatica e abbandonata.
+## Stato osservato
+- UI v9 pubblicata e testata: Sport nel menu/swipe; cinque foto caricate, nessun overflow; bottone Verifica nuova edizione distingue nuova/immutata/offline/errore. Verifica anche all'apertura e ritorno dopo 5 minuti, non genera notizie.
+- Ultima edizione pubblica verificata: 2026-10-27-cloud-retry-101929, 13 articoli. Pubblicazione run 40487572337 success. Sport ancora vuoto; non dichiarare presenti 40 notizie.
+- Task ChatGPT esistente Rassegna stampa quotidiana attiva ogni giorno alle 06:45 Europe/Rome, id 6ae05f1b65048191ab49a6b1efa795ee. Prompt aggiornato e salvato: legge prima il dossier cloud e DAILY_BRIEF. Scrittura diretta limitata a incoming/edition.json.
+- Nuovo workflow prepare-candidates.yml attivo: doppio slot UTC con controllo 06:00 Rome per ora solare/legale; scrive solo dossier. Run cloud 40493232491 SUCCESS, dossier effettivamente scritto nel repository.
+- Prime due prove cloud raccolta fallite per pagine AGI insufficienti e rate limit HDblog; corretto usando fonti alternative Economia/Tecnologia, controllo accesso prima del taglio finale e arresto richieste all'editore dopo 429 ripetuti. Soglie non indebolite. Fonti: RaiNews, AGI, RomaToday, Teatro e Critica, HDblog, BBC Business/Technology/Sport, Guardian Technology. Tutti candidati, NON articoli già verificati editorialmente.
+- daily.yml vecchio resta disabled_manually. Pages valida nuove proposte con minimo 5 per categoria, selezione visibile, essenziali=principali, URL non duplicati, fonti/foto/date. In errore conserva l'ultima edizione.
 
-## Prossimo passo
-- Prima consegna ricorrente da verificare dopo il 28 ottobre alle 07:30; nessuna garanzia di puntualità assoluta. In errore conservare l'edizione precedente con data originale, senza fingere un aggiornamento.
-- Il pulsante verifica pubblicazioni: non genera da solo nuove notizie. Nessuna nuova API a pagamento o dipendenza installata.
+## Da completare prima di dichiarare il flusso 40 notizie collaudato
+1. Eseguire task editoriale usando dossier cloud: aprire fonti, verificare fatti/date/accesso gratuito, deduplicare semanticamente, sintetizzare in italiano, verificare cinque foto e licenze Commons.
+2. Scrivere proposta completa incoming/edition.json; ottenere run Pages success e verificare id identico sulla URL pubblica senza cache.
+3. Prima esecuzione ricorrente futura e puntualità non ancora osservate: obiettivo 07:30, nessuna garanzia assoluta. Un dossier di candidati NON è una rassegna pubblicata.
 
-## Controlli
-- node scripts/validate.mjs dist/data/current.json --production; node --check dist/app.js; node --check dist/sw.js.
-- scripts/verify_sources.py controlla data odierna, freschezza verifica, fonti pubbliche raggiungibili, indicatori di paywall e metadati/licenza Commons. Non sostituisce la verifica editoriale del task.
-- Il pulsante Verifica nuova edizione deve distinguere nuova/immutata/offline e non deve dichiarare una ricerca di notizie mai avvenuta.
-
-## Aggiornamento equilibrio e Sport — 27 ottobre
-- Rilevato squilibrio nell'edizione 13 notizie: Politica/Cronaca/AI 1, Esteri/Economia 3, Roma/Cultura 2. Due schede BES trattano lo stesso fatto.
-- Fabio richiede almeno 5 notizie distinte per categoria e aggiunge Sport. Nuove proposte: 8 categorie con minimo 5 ciascuna; 5 principali e almeno 35 compatte. UI conserva layout, swipe e lettura.
-- Nuovo controllo obbligatorio in promote: minimo per categoria, selezione tutta visibile, essenziali uguali principali, URL fonte non duplicati. Deduplicazione semantica obbligatoria nella procedura cloud; non è garantita dal solo URL.
-- Test eseguiti con fixture solo in memoria: 40/8x5 accettate; categoria con 4, URL duplicati e conteggi invisibili respinti; vecchia edizione resta leggibile senza pubblicarla come nuova.
-- Edizione attuale non ancora ampliata: preparazione cloud aggiornata da collaudare. Non dichiarare presenti 40 notizie prima della pubblicazione verificata.
-
-### Esito collaudo ampliamento
-- UI v9 pubblicata: run 40489620190 SUCCESS, menu Sport e assenza overflow verificati. L'edizione pubblica resta 2026-10-27-cloud-retry-101929, 13 articoli; Sport è vuoto.
-- Prompt della task ricorrente aggiornato e salvato con requisito prioritario 8×5. Due prove di preparazione non hanno completato 40 verifiche editoriali e non hanno scritto una nuova proposta. La seconda ha individuato 5 candidati Politica, ma non completato le altre categorie. Non sono problemi di permesso GitHub; il produttore cloud ha interrotto il lavoro editoriale.
-- Task ancora attiva alle 06:45, ma flusso 40 notizie NON collaudato. Resta da ottenere una proposta completa, validarla e verificare id pubblico; non dichiarare Sport popolato o rassegna riequilibrata prima di quel successo.
+## Test e vincoli di ripresa
+- node scripts/validate.mjs dist/data/current.json --production; nuove proposte aggiungono --balanced; node --check dist/app.js e dist/sw.js.
+- Raccolta: python3 scripts/collect_candidates.py --verify-pages --output <percorso>; solo libreria standard. Errori su categorie con meno di 5 candidati; date mancanti/future escluse, parametri identificativi URL preservati, tracking eliminato. Deduplica titoli è iniziale; stessa notizia con titoli differenti richiede revisione editoriale.
+- Test mirato superato: cinque candidati recenti bloccati non nascondono cinque alternative accessibili più vecchie. Nessuna fixture nel sito.
+- Non riattivare cron una tantum del 27 ottobre; non ripristinare vecchi limiti o layout. Leggere stato remoto prima di modificare: checkout locale conserva intenzionali modifiche e HEAD locale v6, non è automaticamente la baseline remota.

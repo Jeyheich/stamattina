@@ -8,3 +8,5 @@
 - Nessuna dipendenza. Test: node scripts/validate.mjs dist/data/current.json --production; node --check dist/app.js; node --check dist/sw.js.
 - Server locale: python3 -m http.server 8765 --directory dist. Prima di pubblicare verificare formato iPhone, filtri, apertura/chiusura e offline.
 - Distribuzione: Pubblica Stamattina gestisce push dei dati/UI e avvio manuale. Il task cloud prepara incoming/edition.json; il workflow verifica, promuove e pubblica. Il vecchio daily.yml resta disattivato. Non riattivare il cron una tantum del 27 ottobre.
+
+- Raccolta cloud aggiuntiva autorizzata esplicitamente da Fabio: prepare-candidates.yml alle 06:00 Europe/Rome scrive solo automation/candidates/latest.json; il dossier è candidato, mai una verifica editoriale. Task 06:45 legge il dossier prima di fare ricerche.
