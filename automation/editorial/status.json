@@ -1,9 +1,12 @@
 {
   "editionDate": "2026-10-27",
-  "checkedAt": "2026-10-27T14:06:19.934Z",
-  "ready": true,
+  "checkedAt": "2026-10-27T15:09:00.821Z",
+  "ready": false,
   "completed": [
-    "politica",
+    "politica"
+  ],
+  "inProgress": [],
+  "missing": [
     "esteri",
     "economia",
     "cronaca",
@@ -12,282 +15,47 @@
     "tecnologia",
     "sport"
   ],
-  "inProgress": [],
-  "missing": [],
   "invalid": [],
   "stories": [
     {
       "id": "politica-manovra-cdm-28-ottobre",
       "category": "Politica",
-      "title": "Manovra, il governo punta al Consiglio dei ministri del 28 ottobre",
+      "title": "Manovra, confronto ancora aperto sulle coperture prima del Cdm",
       "eventKey": "manovra-2027-cdm-28-ottobre"
     },
     {
-      "id": "politica-ucraina-meloni-salvini",
+      "id": "politica-salvini-pensioni-64-anni",
       "category": "Politica",
-      "title": "Aiuti all'Ucraina, nella maggioranza resta il confronto Meloni–Salvini",
-      "eventKey": "maggioranza-dissenso-aiuti-ucraina-ottobre-2026"
+      "title": "Salvini rilancia l'uscita dal lavoro a 64 anni",
+      "eventKey": "salvini-proposta-pensioni-64-anni-manovra-27-ottobre-2026"
     },
     {
-      "id": "politica-italia-territori-convention",
+      "id": "politica-ricorsi-legge-elettorale",
       "category": "Politica",
-      "title": "A Roma la convention dell'Italia dei Territori promossa da Cateno De Luca",
-      "eventKey": "convention-italia-dei-territori-roma-27-29-ottobre"
+      "title": "Stabilicum, depositati ricorsi in 25 tribunali",
+      "eventKey": "ricorsi-stabilicum-25-tribunali-26-ottobre-2026"
     },
     {
       "id": "politica-mazzi-turismo-costituzione",
       "category": "Politica",
-      "title": "Mazzi propone di inserire il turismo nell'articolo 9 della Costituzione",
+      "title": "Turismo nella Costituzione, la proposta di Mazzi",
       "eventKey": "proposta-mazzi-turismo-articolo-9-costituzione"
     },
     {
       "id": "politica-mattarella-sanita-universale",
       "category": "Politica",
-      "title": "Mattarella: tutelare il servizio sanitario è una priorità",
+      "title": "Mattarella alle Regioni: difendere il carattere universale della sanità",
       "eventKey": "mattarella-priorita-tutela-servizio-sanitario-nazionale"
-    },
-    {
-      "id": "esteri-raid-kiev-27-ottobre",
-      "category": "Esteri",
-      "title": "Raid russi su Kiev: colpite strutture sanitarie e infrastrutture",
-      "eventKey": "raid-russo-kiev-infrastrutture-27-ottobre-2026"
-    },
-    {
-      "id": "esteri-noaa-el-nino",
-      "category": "Esteri",
-      "title": "USA, scienziati in allarme sui tagli alla NOAA prima di El Niño",
-      "eventKey": "tagli-noaa-previsioni-el-nino-2026"
-    },
-    {
-      "id": "esteri-australia-sicurezza-parlamentari",
-      "category": "Esteri",
-      "title": "Australia, dopo un'aggressione si discutono nuove tutele per i parlamentari",
-      "eventKey": "australia-sicurezza-parlamentari-haines-2026"
-    },
-    {
-      "id": "esteri-serbia-student-list-governo",
-      "category": "Esteri",
-      "title": "Serbia, la Lista degli studenti prepara le trattative per il nuovo governo",
-      "eventKey": "serbia-student-list-trattative-governo-ottobre-2026"
-    },
-    {
-      "id": "esteri-brasile-lula-vittoria",
-      "category": "Esteri",
-      "title": "Brasile, Lula conquista un quarto mandato dopo il ballottaggio",
-      "eventKey": "brasile-lula-quarto-mandato-ballottaggio-2026"
-    },
-    {
-      "id": "economia-hsbc-utili-trimestre",
-      "category": "Economia",
-      "title": "HSBC, utili trimestrali in aumento del 32%",
-      "eventKey": "hsbc-utili-terzo-trimestre-2026"
-    },
-    {
-      "id": "economia-imprese-uk-difficolta",
-      "category": "Economia",
-      "title": "Regno Unito, oltre 738 mila imprese in difficoltà finanziaria",
-      "eventKey": "btg-imprese-uk-difficolta-q3-2026"
-    },
-    {
-      "id": "economia-prezzi-negozi-uk",
-      "category": "Economia",
-      "title": "Prezzi nei negozi britannici: inflazione al 2,1% in ottobre",
-      "eventKey": "inflazione-prezzi-negozi-uk-ottobre-2026"
-    },
-    {
-      "id": "economia-commercio-uk-ue",
-      "category": "Economia",
-      "title": "Londra e Bruxelles discutono nuove intese commerciali",
-      "eventKey": "negoziati-commercio-uk-ue-vertice-novembre-2026"
-    },
-    {
-      "id": "economia-investimenti-datacenter-uk",
-      "category": "Economia",
-      "title": "Datacenter AI britannici, consultate 137 imprese e nessuna ONG ambientale",
-      "eventKey": "consultazioni-datacenter-ai-uk-imprese-ong-2026"
-    },
-    {
-      "id": "cronaca-verona-treno-33enne",
-      "category": "Cronaca",
-      "title": "Verona, muore un 33enne dopo essere stato investito dal treno in partenza",
-      "eventKey": "verona-porta-nuova-treno-morte-33enne-ottobre-2026"
-    },
-    {
-      "id": "cronaca-kaufmann-richiesta-ergastolo",
-      "category": "Cronaca",
-      "title": "Caso Villa Pamphili, la Procura chiede l'ergastolo per Francis Kaufmann",
-      "eventKey": "kaufmann-pm-richiesta-ergastolo-villa-pamphili-ottobre-2026"
-    },
-    {
-      "id": "cronaca-torino-parco-dora-fermo",
-      "category": "Cronaca",
-      "title": "Torino, fermato un uomo per l’omicidio a Parco Dora",
-      "eventKey": "torino-parco-dora-omicidio-fermo-26-ottobre-2026"
-    },
-    {
-      "id": "cronaca-milano-denuncia-metropolitana",
-      "category": "Cronaca",
-      "title": "Milano, studentessa denuncia un'aggressione sessuale in metropolitana",
-      "eventKey": "milano-denuncia-violenza-studentessa-cadorna-26-ottobre-2026"
-    },
-    {
-      "id": "cronaca-ischia-tre-arresti",
-      "category": "Cronaca",
-      "title": "Ischia, tre arresti dopo la denuncia di violenze su una persona disabile",
-      "eventKey": "ischia-tre-arresti-violenze-persona-disabile-26-ottobre-2026"
-    },
-    {
-      "id": "roma-trasporto-scolastico-riapertura",
-      "category": "Roma",
-      "title": "Roma, riaperte le domande per il trasporto scolastico",
-      "eventKey": "roma-trasporto-scolastico-riapertura-domande-27-ottobre-2026"
-    },
-    {
-      "id": "roma-fascia-verde-proroga",
-      "category": "Roma",
-      "title": "Fascia Verde, prorogate a Roma le limitazioni esistenti",
-      "eventKey": "roma-ztl-fascia-verde-proroga-restrizioni-2026-2027"
-    },
-    {
-      "id": "roma-rapina-don-bosco-contanti",
-      "category": "Roma",
-      "title": "Don Bosco, rapina al furgone dei contanti: indaga la Mobile",
-      "eventKey": "roma-rapina-don-bosco-contanti"
-    },
-    {
-      "id": "roma-sequestro-castel-giubileo-tevere",
-      "category": "Roma",
-      "title": "Castel Giubileo, sequestrata un’area abusiva lungo il Tevere",
-      "eventKey": "roma-sequestro-castel-giubileo-tevere"
-    },
-    {
-      "id": "roma-sciopero-atac-30-ottobre",
-      "category": "Roma",
-      "title": "Roma, annunciato lo sciopero del trasporto pubblico del 30 ottobre",
-      "eventKey": "roma-sciopero-usb-trasporti-30-ottobre-2026"
-    },
-    {
-      "id": "cultura-pasolini-porta-portese",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Pasolini, teatro e letture al Porta Portese",
-      "eventKey": "pasolini-art-visual-territorio-27-ottobre-2026"
-    },
-    {
-      "id": "cultura-can-can-ortoleva",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Can Can, Ortoleva porta l'epilessia sulla scena",
-      "eventKey": "romaeuropa-can-can-ortoleva-27-28-ottobre-2026"
-    },
-    {
-      "id": "cultura-opera-trittico",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "All'Opera tre coreografie tra Goecke, Robbins e Bausch",
-      "eventKey": "opera-roma-trittico-goecke-robbins-bausch-27-ottobre-2026"
-    },
-    {
-      "id": "cultura-cinema-ucraino-polacco",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Alla Casa del Cinema il festival ucraino-polacco",
-      "eventKey": "casa-cinema-festival-ucraino-polacco-27-29-ottobre-2026"
-    },
-    {
-      "id": "cultura-psichedelico-tor-bella-monaca",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Psichedelico esplora il disagio giovanile a teatro",
-      "eventKey": "teatro-tor-bella-monaca-psichedelico-27-28-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-detox-gen-z",
-      "category": "Tecnologia · AI",
-      "title": "La generazione Z sperimenta strumenti per ridurre il tempo online",
-      "eventKey": "gen-z-app-disintossicazione-digitale-2026"
-    },
-    {
-      "id": "tecnologia-anthropic-prospetto",
-      "category": "Tecnologia · AI",
-      "title": "Anthropic, il prospetto per la quotazione espone costi e rischi dell'AI",
-      "eventKey": "anthropic-prospetto-ipo-trasparenza-2026"
-    },
-    {
-      "id": "tecnologia-home-office-ai",
-      "category": "Tecnologia · AI",
-      "title": "Regno Unito, rapporto denuncia opacità sull'AI al ministero dell'Interno",
-      "eventKey": "uk-home-office-usi-ai-asilo-frontiere-2026"
-    },
-    {
-      "id": "tecnologia-iphone-duo-display",
-      "category": "Tecnologia · AI",
-      "title": "iPhone Duo, Apple riconosce un problema a un numero limitato di schermi",
-      "eventKey": "iphone-duo-segnalazioni-crepe-schermo-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-microsoft-buyout",
-      "category": "Tecnologia · AI",
-      "title": "Microsoft, indiscrezioni su incentivi all'uscita per 60 mila dipendenti",
-      "eventKey": "microsoft-esuberi-incentivati-60000-ottobre-2026"
-    },
-    {
-      "id": "sport-serie-a-nona-giornata-2026",
-      "category": "Sport",
-      "title": "Serie A, parte il turno infrasettimanale della nona giornata",
-      "eventKey": "sport-serie-a-nona-giornata-2026"
-    },
-    {
-      "id": "sport-milan-pulisic-rinnovo-2031",
-      "category": "Sport",
-      "title": "Milan e Pulisic, rinnovo fino al 2031 vicino",
-      "eventKey": "sport-milan-pulisic-rinnovo-2031"
-    },
-    {
-      "id": "sport-pallone-oro-2026-kane",
-      "category": "Sport",
-      "title": "Pallone d’Oro a Kane, Lautaro chiude al 22º posto",
-      "eventKey": "sport-pallone-oro-2026-kane"
-    },
-    {
-      "id": "sport-f1-wolff-antonelli-crescita",
-      "category": "Sport",
-      "title": "F1, Wolff racconta la crescita di Antonelli in Mercedes",
-      "eventKey": "sport-f1-wolff-antonelli-crescita"
-    },
-    {
-      "id": "sport-tennis-tokyo-paolini-osaka",
-      "category": "Sport",
-      "title": "Tokyo, Paolini eliminata da Osaka all’esordio",
-      "eventKey": "sport-tennis-tokyo-paolini-osaka"
     }
   ],
+  "collectionId": "2026-10-27-pomeriggio",
   "photoCandidates": [
     {
       "id": "politica-manovra-cdm-28-ottobre",
       "category": "Politica",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg"
-    },
-    {
-      "id": "economia-hsbc-utili-trimestre",
-      "category": "Economia",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:HSBC.Reza_01.jpg"
-    },
-    {
-      "id": "roma-trasporto-scolastico-riapertura",
-      "category": "Roma",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bus_stop_in_Rome_01.jpg"
-    },
-    {
-      "id": "cultura-cinema-ucraino-polacco",
-      "category": "Cultura · Teatro · Cinema",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Villa_Borghese_-_Casa_del_Cinema_P1020818.JPG"
-    },
-    {
-      "id": "sport-serie-a-nona-giornata-2026",
-      "category": "Sport",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg"
     }
   ],
-  "photosAvailable": 5,
-  "editionId": "2026-10-27-batches-b9bee48dc05a",
-  "needsPublication": false,
-  "publicEditionId": "2026-10-27-batches-b9bee48dc05a",
-  "publicVerifiedAt": "2026-10-27T14:07:03.762790+00:00",
-  "publication": "verified"
+  "photosAvailable": 1,
+  "needsPublication": false
 }
