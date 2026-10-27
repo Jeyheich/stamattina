@@ -7,7 +7,7 @@
 - Obiettivo entro 09:00 Europe/Rome anche a Mac spento; nessuna garanzia assoluta di puntualità.
 
 ## Stato osservato
-- Pubblica: 2026-10-27-batches-a6dd98072384, preparata 13:45 Rome; 40 articoli, cinque per categoria, cinque foto. Run 40506210061 SUCCESS; status publication=verified, publicEditionId identico. Il server confronta l'intero JSON pubblico con quello promosso.
+- Pubblica attuale: 2026-10-27-batches-56dc0c58fe91, pomeridiana preparata 17:27 Rome; 40 notizie, cinque per categoria e cinque foto. Run40541067222 SUCCESS, publication=verified e publicEditionId identico; fonte e foto controllate prima di pubblicare.
 - Prima edizione completata tramite blocchi cloud Plus con interventi di collaudo su due foto/testi: non presentarla come ciclo mattutino interamente autonomo già osservato.
 - PWA v10 pubblicata (40507960046 SUCCESS). Browser a 390px: Sport cinque articoli, apertura/chiusura funziona, nessun overflow. Reload offline: 40 articoli e cinque foto disponibili, messaggio aggiornamento corretto; connessione ripristinata. Verifica visuale mobile eseguita.
 - Test assemblatore superati: blocchi mancanti/parziali non pubblicano, otto validi generano 40/35/5; duplicati, date scadute e foto insufficienti bloccano. Cronaca ripresa da due a cinque; due blocchi completati nella stessa esecuzione.
@@ -90,3 +90,8 @@ Solo per il 27 ottobre si conservano gli avvii pomeridiani già autorizzati (17:
 
 ## Pulsante verifica edizione in alto
 Richiesta Fabio: spostato nella toolbar sticky delle categorie, rimosso il duplicato dal fondo. Su mobile icona di aggiornamento con target 44px, nome accessibile e stato occupato; su desktop testo completo. Logica di verifica notizie invariata, nessuna nuova ricerca al clic. UI/SW v12. Test mobile 390px superato: un solo pulsante, area44px, nella barra sticky a10px dall’alto anche dopo scorrimento; nessun overflow, verifica edizione e feedback funzionanti. Verifica visiva eseguita; pubblicazione confermata (8fade9654249a8c1abc83f5fa97cb7ef3ec54e6b, run40539557894 SUCCESS). Verificato sul pubblico: app.js?v=12, unico pulsante nella toolbar, nessun overflow a390px.
+
+## Tecnologia sbloccata e nuova edizione pubblicata
+- Punto Informatico sostituisce PromptOps: feed ufficiale https://www.punto-informatico.it/feed/ e tre articoli del 27 ottobre realmente letti e verificati 200. DDay feed provato 500, Hardware Upgrade403. Rapporto ora tre Punto Informatico/due Everyeye, IGN Italia solo alternativa gaming; rimossi requisiti PromptOps dai brief e dai due prompt cloud, entrambi riletti dal gestore. Orari, due slot, pausa terza, riserve e avviso finale invariati.
+- Completato il checkpoint Tecnologia (due Everyeye precedenti conservate, tre nuove PI): WebAI Opera, indiscrezioni MacBook OLED esplicitamente attribuite, ZelixOS. Commit7b80e91d1ad8c65c8ee387dd6071baadf5420e4d; ciclo2026-10-27-pomeriggio ora completo e pubblicato, id2026-10-27-batches-56dc0c58fe91, 17:27 Rome. Run40541067222 SUCCESS e confronto pubblico verificato, UI categoria mostra le cinque nuove notizie.
+- La prova cloud ha prodotto sette blocchi completi e due articoli Tecnologia; quest'ultimo è stato completato da Lola dopo cambio fonte autorizzato. NON presentare questo come prova dell'intero ciclo completamente autonomo. Nessuna riserva reale online (40 articoli), pulsante altre cinque resta nascosto dove assente.
