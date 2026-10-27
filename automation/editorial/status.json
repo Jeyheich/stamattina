@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-27",
-  "checkedAt": "2026-10-27T11:53:14.001Z",
+  "checkedAt": "2026-10-27T11:55:12.864Z",
   "ready": false,
   "completed": [
     "politica",
@@ -78,5 +78,13 @@
       "eventKey": "brasile-lula-quarto-mandato-ballottaggio-2026"
     }
   ],
+  "photoCandidates": [
+    {
+      "id": "politica-manovra-cdm-28-ottobre",
+      "category": "Politica",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg"
+    }
+  ],
+  "photosAvailable": 1,
   "needsPublication": false
 }
