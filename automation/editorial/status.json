@@ -1,15 +1,19 @@
 {
   "editionDate": "2026-10-27",
-  "checkedAt": "2026-10-27T11:59:14.490Z",
+  "checkedAt": "2026-10-27T12:00:17.929Z",
   "ready": false,
   "completed": [
     "politica",
     "esteri",
     "economia"
   ],
-  "inProgress": [],
+  "inProgress": [
+    {
+      "slug": "cronaca",
+      "count": 2
+    }
+  ],
   "missing": [
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -17,6 +21,20 @@
   ],
   "invalid": [],
   "stories": [
+    {
+      "id": "cronaca-verona-treno-33enne",
+      "category": "Cronaca",
+      "title": "Verona, muore un 33enne dopo essere stato investito dal treno in partenza",
+      "eventKey": "verona-porta-nuova-treno-morte-33enne-ottobre-2026",
+      "pending": true
+    },
+    {
+      "id": "cronaca-kaufmann-richiesta-ergastolo",
+      "category": "Cronaca",
+      "title": "Caso Villa Pamphili, la Procura chiede l'ergastolo per Francis Kaufmann",
+      "eventKey": "kaufmann-pm-richiesta-ergastolo-villa-pamphili-ottobre-2026",
+      "pending": true
+    },
     {
       "id": "politica-manovra-cdm-28-ottobre",
       "category": "Politica",
