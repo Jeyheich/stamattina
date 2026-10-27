@@ -1,13 +1,17 @@
 {
   "editionDate": "2026-10-27",
-  "checkedAt": "2026-10-27T11:51:05.909Z",
+  "checkedAt": "2026-10-27T11:52:43.145Z",
   "ready": false,
   "completed": [
     "politica"
   ],
-  "inProgress": [],
+  "inProgress": [
+    {
+      "slug": "esteri",
+      "count": 3
+    }
+  ],
   "missing": [
-    "esteri",
     "economia",
     "cronaca",
     "roma",
@@ -17,6 +21,27 @@
   ],
   "invalid": [],
   "stories": [
+    {
+      "id": "esteri-raid-kiev-27-ottobre",
+      "category": "Esteri",
+      "title": "Raid russi su Kiev: colpite strutture sanitarie e infrastrutture",
+      "eventKey": "raid-russo-kiev-infrastrutture-27-ottobre-2026",
+      "pending": true
+    },
+    {
+      "id": "esteri-noaa-el-nino",
+      "category": "Esteri",
+      "title": "USA, scienziati in allarme sui tagli alla NOAA prima di El Niño",
+      "eventKey": "tagli-noaa-previsioni-el-nino-2026",
+      "pending": true
+    },
+    {
+      "id": "esteri-australia-sicurezza-parlamentari",
+      "category": "Esteri",
+      "title": "Australia, dopo un'aggressione si discutono nuove tutele per i parlamentari",
+      "eventKey": "australia-sicurezza-parlamentari-haines-2026",
+      "pending": true
+    },
     {
       "id": "politica-manovra-cdm-28-ottobre",
       "category": "Politica",
