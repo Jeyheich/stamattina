@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-27",
-  "checkedAt": "2026-10-27T12:33:41.019Z",
+  "checkedAt": "2026-10-27T12:34:37.683Z",
   "ready": false,
   "completed": [
     "politica",
@@ -8,11 +8,11 @@
     "economia",
     "cronaca",
     "roma",
-    "cultura"
+    "cultura",
+    "tecnologia"
   ],
   "inProgress": [],
   "missing": [
-    "tecnologia",
     "sport"
   ],
   "invalid": [],
@@ -196,6 +196,36 @@
       "category": "Cultura · Teatro · Cinema",
       "title": "Psichedelico esplora il disagio giovanile a teatro",
       "eventKey": "teatro-tor-bella-monaca-psichedelico-27-28-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-detox-gen-z",
+      "category": "Tecnologia · AI",
+      "title": "La generazione Z sperimenta strumenti per ridurre il tempo online",
+      "eventKey": "gen-z-app-disintossicazione-digitale-2026"
+    },
+    {
+      "id": "tecnologia-anthropic-prospetto",
+      "category": "Tecnologia · AI",
+      "title": "Anthropic, il prospetto per la quotazione espone costi e rischi dell'AI",
+      "eventKey": "anthropic-prospetto-ipo-trasparenza-2026"
+    },
+    {
+      "id": "tecnologia-home-office-ai",
+      "category": "Tecnologia · AI",
+      "title": "Regno Unito, rapporto denuncia opacità sull'AI al ministero dell'Interno",
+      "eventKey": "uk-home-office-usi-ai-asilo-frontiere-2026"
+    },
+    {
+      "id": "tecnologia-iphone-duo-display",
+      "category": "Tecnologia · AI",
+      "title": "iPhone Duo, Apple riconosce un problema a un numero limitato di schermi",
+      "eventKey": "iphone-duo-segnalazioni-crepe-schermo-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-microsoft-buyout",
+      "category": "Tecnologia · AI",
+      "title": "Microsoft, indiscrezioni su incentivi all'uscita per 60 mila dipendenti",
+      "eventKey": "microsoft-esuberi-incentivati-60000-ottobre-2026"
     }
   ],
   "photoCandidates": [
