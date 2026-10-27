@@ -53,6 +53,8 @@ export function assemble(blocks,today=romeDay(),now=Date.now()){
     catch(e){state.invalid.push({slug,reason:e.message});}
   }
   state.stories.push(...articles.map(({id,category,title,eventKey})=>({id,category,title,eventKey})));
+  state.photoCandidates=articles.filter(a=>a.image).map(a=>({id:a.id,category:a.category,sourceUrl:a.image.sourceUrl}));
+  state.photosAvailable=new Set(state.photoCandidates.map(a=>a.sourceUrl)).size;
   if(state.missing.length||state.invalid.length||state.inProgress.length)return {state};
   try{
     assert.equal(new Set(articles.map(a=>a.id)).size,40,'ID duplicati tra categorie');
