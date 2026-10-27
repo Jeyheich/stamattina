@@ -29,3 +29,8 @@
 - Nuovo controllo obbligatorio in promote: minimo per categoria, selezione tutta visibile, essenziali uguali principali, URL fonte non duplicati. Deduplicazione semantica obbligatoria nella procedura cloud; non è garantita dal solo URL.
 - Test eseguiti con fixture solo in memoria: 40/8x5 accettate; categoria con 4, URL duplicati e conteggi invisibili respinti; vecchia edizione resta leggibile senza pubblicarla come nuova.
 - Edizione attuale non ancora ampliata: preparazione cloud aggiornata da collaudare. Non dichiarare presenti 40 notizie prima della pubblicazione verificata.
+
+### Esito collaudo ampliamento
+- UI v9 pubblicata: run 40489620190 SUCCESS, menu Sport e assenza overflow verificati. L'edizione pubblica resta 2026-10-27-cloud-retry-101929, 13 articoli; Sport è vuoto.
+- Prompt della task ricorrente aggiornato e salvato con requisito prioritario 8×5. Due prove di preparazione non hanno completato 40 verifiche editoriali e non hanno scritto una nuova proposta. La seconda ha individuato 5 candidati Politica, ma non completato le altre categorie. Non sono problemi di permesso GitHub; il produttore cloud ha interrotto il lavoro editoriale.
+- Task ancora attiva alle 06:45, ma flusso 40 notizie NON collaudato. Resta da ottenere una proposta completa, validarla e verificare id pubblico; non dichiarare Sport popolato o rassegna riequilibrata prima di quel successo.
