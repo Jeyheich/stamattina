@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-10-27",
+  "category": "Economia",
+  "completedAt": "2026-10-27T11:57:39.511Z",
+  "articles": [
+    {
+      "id": "economia-hsbc-utili-trimestre",
+      "eventKey": "hsbc-utili-terzo-trimestre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "HSBC, utili trimestrali in aumento del 32%",
+      "summary": "Nel trimestre luglio-settembre HSBC ha registrato 9,6 miliardi di dollari di utili, annunciando distribuzioni agli azionisti per 2,7 miliardi.",
+      "body": [
+        "La banca ha comunicato un incremento degli utili trimestrali del 32%, sostenuto da interessi, minori perdite su crediti e accantonamenti legali inferiori. Il risultato è comunque leggermente sotto le attese del mercato.",
+        "L'annuncio riaccende nel Regno Unito il dibattito sulla tassazione del settore bancario alla vigilia della legge di bilancio, mentre il gruppo prevede riacquisti di azioni e dividendi."
+      ],
+      "publishedAt": "2026-10-27T03:09:00-04:00",
+      "verifiedAt": "2026-10-27T11:57:39.511Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/live/2026/oct/27/hsbc-shareholders-profits-surge-32-percent-bank-tax-budget-stock-markets-cost-cutting-latest-news-updates",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T11:57:39.511Z",
+        "dateEvidence": "Pagina Guardian del 27 ottobre, prima pubblicazione 03:09 EDT; nell'introduzione sono riportati 9,6 miliardi di dollari e aumento del 32%.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 89,
+      "image": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/HSBC.Reza_01.jpg/960px-HSBC.Reza_01.jpg",
+        "alt": "Edificio HSBC a 8 Canada Square, Londra",
+        "credit": "M R Karim Reza",
+        "rights": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:HSBC.Reza_01.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "caption": "Repertorio · Sede HSBC a Canary Wharf, foto del 27 ottobre 2024; non ritrae la presentazione dei risultati del 2026.",
+        "reuseApproved": true
+      }
+    },
+    {
+      "id": "economia-imprese-uk-difficolta",
+      "eventKey": "btg-imprese-uk-difficolta-q3-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Regno Unito, oltre 738 mila imprese in difficoltà finanziaria",
+      "summary": "Il rapporto BTG segnala 738.144 aziende in difficoltà significativa nel terzo trimestre: il massimo della serie iniziata nel 2004.",
+      "body": [
+        "I dati pubblicati da BTG mostrano una crescita dell'1,6% rispetto allo stesso periodo del 2025. Costruzioni, servizi e immobiliare concentrano molte delle imprese in difficoltà, mentre aumentano i problemi nella ristorazione."
+      ],
+      "publishedAt": "2026-10-27T10:01:00+01:00",
+      "verifiedAt": "2026-10-27T11:57:39.511Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/oct/27/number-of-uk-businesses-in-financial-distress-at-two-decade-high-budget",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T11:57:39.511Z",
+        "dateEvidence": "Il Guardian riporta data 27 ottobre 2026 10:01 CET, cifra 738.144 e confronto con la serie BTG iniziata nel 2004.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-prezzi-negozi-uk",
+      "eventKey": "inflazione-prezzi-negozi-uk-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Prezzi nei negozi britannici: inflazione al 2,1% in ottobre",
+      "summary": "Secondo il British Retail Consortium, i prezzi al dettaglio accelerano dall'1,4% di settembre al 2,1% su base annua.",
+      "body": [
+        "L'inflazione alimentare sale al 2,9%, mentre quella dei beni non alimentari passa dallo 0,8% all'1,7%. Il consorzio collega l'aumento alla maggiore difficoltà dei rivenditori nell'assorbire i costi di energia e materie prime."
+      ],
+      "publishedAt": "2026-10-27T00:01:00Z",
+      "verifiedAt": "2026-10-27T11:57:39.511Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/oct/27/uk-shop-price-inflation-highest-since-2024-as-retailers-struggle-to-limit-price-rises",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T11:57:39.511Z",
+        "dateEvidence": "Articolo Guardian pubblicato alle 00:01 GMT del 27 ottobre; dati BRC: totale 2,1%, alimentare 2,9%, beni non alimentari 1,7%.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-commercio-uk-ue",
+      "eventKey": "negoziati-commercio-uk-ue-vertice-novembre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Londra e Bruxelles discutono nuove intese commerciali",
+      "summary": "In vista del vertice di novembre, il governo britannico conferma negoziati sulle restrizioni commerciali e la mobilità giovanile.",
+      "body": [
+        "Il responsabile britannico delle attività produttive Jonathan Reynolds ha detto che si valutano anche scenari di più lungo termine per le relazioni con l'UE, compresa l'ipotesi della libera circolazione. Non è una decisione già assunta."
+      ],
+      "publishedAt": "2026-10-27T10:41:00+01:00",
+      "verifiedAt": "2026-10-27T11:57:39.511Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/politics/2026/oct/27/uk-eu-relationship-talks-summit-free-movement-jonathan-reynolds",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T11:57:39.511Z",
+        "dateEvidence": "Articolo Guardian datato 27 ottobre 10:41 CET; nel testo Reynolds parla di accordo commerciale, mobilità giovanile e opzioni future.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-investimenti-datacenter-uk",
+      "eventKey": "consultazioni-datacenter-ai-uk-imprese-ong-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Datacenter AI britannici, consultate 137 imprese e nessuna ONG ambientale",
+      "summary": "Un'indagine sulle zone di crescita dell'intelligenza artificiale contesta lo sbilanciamento delle consultazioni economiche del governo.",
+      "body": [
+        "Spotlight on Corruption ha ricostruito, attraverso richieste di accesso agli atti, incontri con 137 aziende, due gruppi locali e nessuna organizzazione ambientale nello sviluppo della politica sui datacenter.",
+        "La ricerca segnala inoltre passaggi di funzionari pubblici verso imprese dell'AI. I risultati interrogano il governo sull'equilibrio fra attrazione di investimenti, impatto ambientale e trasparenza dei processi decisionali."
+      ],
+      "publishedAt": "2026-10-27T03:00:00-04:00",
+      "verifiedAt": "2026-10-27T11:57:39.511Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T11:57:39.511Z",
+        "dateEvidence": "Guardian datato 27 ottobre ore 03:00 EDT, descrive le richieste FOI e gli incontri con 137 imprese e zero ONG ambientali.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
+}
