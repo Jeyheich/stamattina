@@ -19,7 +19,7 @@ import urllib.parse
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
-from verify_sources import fetch
+from verify_sources import fetch, check_photo
 
 CATEGORIES = ('Politica', 'Esteri', 'Economia', 'Cronaca', 'Roma',
               'Cultura · Teatro · Cinema', 'Tecnologia · AI', 'Sport')
@@ -137,6 +137,20 @@ def check_access(candidate):
     except Exception as exc:
         return None, dict(url=candidate['url'], error=str(exc))
 
+def collect_photo_refs():
+    source = Path('automation/photo-library.json')
+    if not source.exists():
+        return [], []
+    refs, errors = [], []
+    for reference in json.loads(source.read_text()).get('photos', []):
+        try:
+            check_photo({'id': 'reference-' + reference['key'], 'image': reference['image']})
+            refs.append(dict(reference, technicalCheckedAt=dt.datetime.now(dt.timezone.utc).isoformat(),
+                             technicalCheck='commons-license-author-image-access-ok'))
+        except Exception as exc:
+            errors.append(dict(photo=reference['key'], error=str(exc)))
+    return refs, errors
+
 def collect(age_hours=72, verify_pages=False, limit=12):
     candidates, errors = [], []
     with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
@@ -167,18 +181,22 @@ def collect(age_hours=72, verify_pages=False, limit=12):
         if sum(old['category'] == candidate['category'] for old in selected) < limit:
             selected.append(candidate)
     unique = selected
+    photo_refs, photo_errors = collect_photo_refs() if verify_pages else ([], [])
+    errors.extend(photo_errors)
     counts = {category: sum(x['category'] == category for x in unique) for category in CATEGORIES}
     return dict(kind='research-candidates-not-an-edition', generatedAt=NOW.isoformat(),
                 ageLimitHours=age_hours, pageAccessChecked=verify_pages,
                 editorialReviewRequired=True, semanticDeduplicationRequired=True,
                 counts=counts, insufficientCategories=[c for c, n in counts.items() if n < 5],
-                candidates=unique, errors=errors)
+                candidates=unique, photoReferences=photo_refs, errors=errors)
 
 def serialize_report(report):
     """Keep categories together and publish line ranges for bounded AI reads."""
-    header = {k: v for k, v in report.items() if k not in ('candidates', 'errors')}
+    header = {k: v for k, v in report.items() if k not in ('candidates', 'errors', 'photoReferences')}
     header['categoryLineRanges'] = {c: {'start': 0, 'end': 0} for c in CATEGORIES}
+    header['photoReferencesLineRange'] = {'start': 0, 'end': 0}
     header['candidates'] = sorted(report['candidates'], key=lambda a: CATEGORIES.index(a['category']))
+    header['photoReferences'] = report.get('photoReferences', [])
     header['errors'] = report['errors']
     lines = json.dumps(header, ensure_ascii=False, indent=2).splitlines()
     objects = []
@@ -198,6 +216,10 @@ def serialize_report(report):
         if not bounds['start']:
             bounds['start'] = start
         bounds['end'] = end
+    header['photoReferencesLineRange'] = {
+        'start': next(i + 1 for i, line in enumerate(lines) if line.startswith('  "photoReferences":')),
+        'end': next(i for i, line in enumerate(lines) if line.startswith('  "errors":')),
+    }
     # Replacing numeric placeholders does not alter line positions.
     return json.dumps(header, ensure_ascii=False, indent=2) + '\n'
 

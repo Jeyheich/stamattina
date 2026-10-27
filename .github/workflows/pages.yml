@@ -88,3 +88,18 @@ jobs:
       - id: deployment
         uses: actions/deploy-pages@v4
         if: steps.incoming.outputs.changed == 'true' || steps.incoming.outputs.ui == 'true'
+      - name: Verifica l'edizione realmente servita al telefono
+        id: public
+        if: steps.batches.outputs.complete == 'true' && steps.sources.outcome != 'failure'
+        run: python3 scripts/verify_publication.py
+      - name: Conserva la prova della pubblicazione effettiva
+        if: steps.public.outcome == 'success'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- automation/editorial/status.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record verified public edition'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

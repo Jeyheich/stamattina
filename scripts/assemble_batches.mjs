@@ -77,11 +77,16 @@ export function assemble(blocks,today=romeDay(),now=Date.now()){
 if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url)){
   const today=romeDay(),root=process.argv[2]||'automation/editorial';const blocks={};
   for(const [slug] of categories){const file=path.join(root,today,slug+'.json');if(fs.existsSync(file)){try{blocks[slug]=JSON.parse(fs.readFileSync(file));}catch(e){blocks[slug]={schemaVersion:0,error:e.message};}}}
+  const savedStateFile=path.join(root,'status.json');
+  const previous=fs.existsSync(savedStateFile)?JSON.parse(fs.readFileSync(savedStateFile)):null;
   const result=assemble(blocks,today);fs.mkdirSync(root,{recursive:true});
   const current=fs.existsSync('dist/data/current.json')?JSON.parse(fs.readFileSync('dist/data/current.json')):null;
   result.state.needsPublication=!!result.edition&&current?.id!==result.edition.id;
+  if(current?.id===result.state.editionId&&previous?.publicEditionId===current.id&&previous.publication==='verified'){
+    Object.assign(result.state,{publicEditionId:previous.publicEditionId,publicVerifiedAt:previous.publicVerifiedAt,publication:'verified'});
+  }
   fs.writeFileSync(path.join(root,'status.json'),JSON.stringify(result.state,null,2)+'\n');
   if(result.state.needsPublication){fs.mkdirSync('incoming',{recursive:true});fs.writeFileSync('incoming/edition.json',JSON.stringify(result.edition,null,2)+'\n');}
-  if(process.env.GITHUB_OUTPUT)fs.appendFileSync(process.env.GITHUB_OUTPUT,'ready='+String(result.state.needsPublication)+'\n');
+  if(process.env.GITHUB_OUTPUT)fs.appendFileSync(process.env.GITHUB_OUTPUT,'ready='+String(result.state.needsPublication)+'\ncomplete='+String(result.state.ready)+'\n');
   console.log(JSON.stringify(result.state));
 }
