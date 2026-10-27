@@ -28,6 +28,7 @@ FEEDS = (
     ('Esteri', 'RaiNews', 'https://www.rainews.it/rss/esteri'),
     ('Economia', 'AGI', 'https://www.agi.it/economia/rss.xml'),
     ('Economia', 'BBC Business', 'https://feeds.bbci.co.uk/news/business/rss.xml'),
+    ('Economia', 'The Guardian Business', 'https://www.theguardian.com/uk/business/rss'),
     ('Cronaca', 'RaiNews', 'https://www.rainews.it/rss/cronaca'),
     ('Roma', 'RomaToday', 'https://www.romatoday.it/rss'),
     ('Cultura · Teatro · Cinema', 'Teatro e Critica', 'https://www.teatroecritica.net/feed/'),
@@ -36,6 +37,7 @@ FEEDS = (
     ('Tecnologia · AI', 'The Guardian Technology', 'https://www.theguardian.com/uk/technology/rss'),
     ('Sport', 'RaiNews', 'https://www.rainews.it/rss/sport'),
     ('Sport', 'BBC Sport', 'https://feeds.bbci.co.uk/sport/rss.xml?edition=uk'),
+    ('Sport', 'The Guardian Sport', 'https://www.theguardian.com/uk/sport/rss'),
 )
 NOW = dt.datetime.now(dt.timezone.utc)
 HOST_LOCKS = {}
