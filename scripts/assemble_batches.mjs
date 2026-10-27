@@ -43,8 +43,13 @@ export function validateBlock(block,slug,today,now=Date.now(),partial=false){
 export function assemble(blocks,today=romeDay(),now=Date.now()){
   const state={editionDate:today,checkedAt:new Date(now).toISOString(),ready:false,completed:[],inProgress:[],missing:[],invalid:[],stories:[]};
   const articles=[];
+  // A same-day refresh must not mix freshly reviewed blocks with the earlier edition.
+  const cycles=[...new Set(Object.values(blocks).filter(b=>b.editionDate===today).map(b=>b.collectionId).filter(Boolean))];
+  if(cycles.length>1){state.invalid.push({slug:'edition',reason:'Cicli editoriali differenti'});return {state};}
+  const cycle=cycles[0];if(cycle)state.collectionId=cycle;
   for(const [slug,name] of categories){
     if(!blocks[slug]){state.missing.push(slug);continue;}
+    if(cycle&&blocks[slug].collectionId!==cycle){state.missing.push(slug);continue;}
     try{
       const partial=blocks[slug].status==='in-progress';validateBlock(blocks[slug],slug,today,now,partial);
       if(partial){state.inProgress.push({slug,count:blocks[slug].articles.length});state.stories.push(...blocks[slug].articles.map(({id,category,title,eventKey})=>({id,category,title,eventKey,pending:true})));}
