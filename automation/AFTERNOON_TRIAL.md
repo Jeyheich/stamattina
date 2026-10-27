@@ -1,0 +1,21 @@
+# Prova pomeridiana — solo 27 ottobre 2026, Europe/Rome
+
+Fabio autorizza una nuova edizione di prova con DUE attività cloud già esistenti e DUE avvii ciascuna, almeno un'ora fra avvii della stessa attività. Non creare altre attività, non cambiare modelli, acquisti, credenziali o orari mattutini durante il test. Questo documento ha precedenza sulle regole «blocchi di oggi già pronti: salta» soltanto per la prova odierna. Dal 28 ottobre non applicarlo.
+
+## Quattro avvii, due blocchi da cinque per avvio
+- Rassegna stampa quotidiana: 16:05 Politica e poi Esteri; 17:05 Tecnologia e poi Sport.
+- Rassegna · Economia e Cronaca: 16:15 Economia e poi Cronaca; 17:15 Roma e poi Cultura.
+- Rassegna · Roma e Cultura NON partecipa alla prova pomeridiana.
+Se l'avvio è ritardato di qualche minuto, usa la coppia della rispettiva ora prevista (16 oppure 17), non la coppia mattutina. Non spostare né cancellare calendari. Non aggiungere esecuzioni ricorrenti pomeridiane.
+
+## Procedura concreta
+1. Leggi automation/BATCH_BRIEF.md per formato, verifica delle fonti, foto, interessi e checkpoint. Politica/Cronaca nazionali, niente TGR; Roma anche Leggo e fatti cittadini; Sport calcio italiano, F1, tennis. Nessuna notizia o foto inventata.
+2. Per il giorno di oggi usa SEMPRE collectionId: "2026-10-27-pomeriggio" al livello principale del blocco, sia completo sia in-progress. Percorso resta automation/editorial/2026-10-27/SLUG.json. Il vecchio blocco senza questo collectionId NON prova che il tuo lavoro pomeridiano sia completato. Conserva eventuale parziale dello stesso collectionId e prosegui.
+3. Leggi soltanto le due categorie assegnate e lo stato per evitare doppioni. Il dossier del mattino è solo una pista: verifica ora le fonti e cerca gli sviluppi del pomeriggio. Puoi mantenere una notizia già pubblicata se ancora rilevante e dopo rilettura reale della fonte; controlla aggiornamenti, non cambiare data di pubblicazione. Non basta riscrivere verifiedAt. Salva titoli e sintesi originali in italiano con le vere date. Per differenze tra publishedAt e aggiornamento indica updatedAt e spiega il contesto.
+4. Scrivi e rileggi il primo blocco PRIMA di lavorare al secondo; due commit separati. Checkpoint con 1–4 notizie consentito come da BATCH_BRIEF, sempre con collectionId. Blocchi già completi dello STESSO collectionId e con controlli recenti non si riscrivono inutilmente. Non toccare altre categorie.
+5. Verifica una foto pertinente per una storia di ciascuna categoria quando possibile. Usa i riferimenti fotografici tecnicamente controllati oggi o le foto dell'edizione precedente SOLO se semanticamente pertinenti alla storia mantenuta e controllate di nuovo dal server. Non assegnare una foto bancaria al calcio né foto di una città a un'altra. Metadati originali e repertorio dichiarato, due paragrafi per una principale. Sono necessarie cinque foto distinte complessive; se manca una foto non inventarla. Per Economia è riutilizzabile la foto HSBC solo se la storia riguarda davvero HSBC; le altre principali precedenti riguardavano Chigi, trasporto scolastico Roma, Casa del Cinema e calcio.
+6. GitHub riconosce il nuovo ciclo dal collectionId e NON pubblica blocchi nuovi mescolati con quelli del mattino: aspetta tutte le otto categorie del pomeriggio. Non modificare script, UI, workflow, stato generato, incoming o altre task. L'edizione pubblica attuale resta disponibile durante la preparazione e in caso d'errore.
+7. Ultimo avvio delle 17:15: dopo Roma/Cultura leggi stato e risultato del workflow. Conferma pubblicazione solo con publication=verified e publicEditionId dell'edizione pomeridiana. Se incompleta o fallita, indica precisamente blocco/foto/errore; non dichiarare riuscita la prova. Non recuperare altre categorie fuori dalle due assegnate in questa esecuzione.
+
+## Esito da misurare
+Quattro avvii cloud effettivi, ciascuno con due blocchi completati e verificati, otto blocchi del medesimo collectionId, quaranta notizie, cinque foto e nuova edizione pubblica confermata. La configurazione di calendario da sola NON dimostra l'esito. Non attivare nuove automazioni di controllo quota, non stimare token percentuali del progetto. Obiettivo indicativo: pubblicazione dopo l'ultimo avvio delle 17:15, non orario garantito.
