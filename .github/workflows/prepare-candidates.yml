@@ -1,0 +1,46 @@
+name: Prepara candidati rassegna
+on:
+  workflow_dispatch:
+  schedule:
+    # 06:00 Europe/Rome: il controllo sotto sceglie il solo slot corretto
+    # tra ora solare e ora legale. GitHub può avviare in ritardo.
+    - cron: '0 4,5 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: briefing-candidates
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Controlla lo slot di Roma
+        id: slot
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          python3 - <<'PY'
+          import datetime, os
+          from zoneinfo import ZoneInfo
+          now = datetime.datetime.now(ZoneInfo('Europe/Rome'))
+          run = os.environ['EVENT_NAME'] == 'workflow_dispatch' or now.hour == 6
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as out:
+              out.write('run=' + str(run).lower() + '\n')
+          PY
+      - name: Raccogli e controlla accesso ai candidati
+        if: steps.slot.outputs.run == 'true'
+        env:
+          PYTHONDONTWRITEBYTECODE: '1'
+        run: python3 scripts/collect_candidates.py --verify-pages --output automation/candidates/latest.json
+      - name: Conserva soltanto il dossier dei candidati
+        if: steps.slot.outputs.run == 'true'
+        run: |
+          if [ -n "$(git status --porcelain -- automation/candidates/latest.json)" ]; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add -- automation/candidates/latest.json
+            git commit -m 'Prepare dated briefing research candidates'
+            git push origin HEAD:main
+          fi
