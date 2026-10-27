@@ -1,113 +1,127 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-27",
+  "collectionId": "2026-10-27-pomeriggio",
   "category": "Esteri",
+  "completedAt": "2026-10-27T15:09:19.883Z",
   "articles": [
     {
-      "id": "esteri-raid-kiev-27-ottobre",
+      "id": "esteri-israele-elezioni-affluenza",
+      "eventKey": "elezioni-israele-27-ottobre-2026-affluenza-record",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Israele alle urne, affluenza del 31,5% a mezzogiorno",
+      "summary": "Oltre due milioni di elettori avevano votato alle 12 locali per rinnovare la Knesset, secondo la Commissione elettorale centrale.",
+      "body": [
+        "La partecipazione del 31,5% a metà giornata è la più alta registrata a quell'ora dal 1977. Sono chiamati al voto circa 7,3 milioni di cittadini, nella prima elezione nazionale successiva agli attacchi del 7 ottobre 2023.",
+        "I seggi chiudono alle 22 locali e i primi exit poll sono attesi soltanto dopo la chiusura. L'affluenza parziale non permette di attribuire la vittoria a nessuno schieramento."
+      ],
+      "publishedAt": "2026-10-27T06:30:00+01:00",
+      "verifiedAt": "2026-10-27T15:09:19.883Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/mondo/2026/10/27/elezioni-israele-2026-news-diretta",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T15:09:19.883Z",
+        "dateEvidence": "Sky TG24 live del 27 ottobre 2026, aperto alle 06:30; aggiornamento sul dato ufficiale delle 12 locali, 31,5%.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 94,
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Knesset_Building_%28From_Front%29.JPG",
+        "alt": "La Knesset, Gerusalemme",
+        "credit": "Effib",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG",
+        "rights": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · La Knesset, Gerusalemme. Fotografia non riferita agli eventi di oggi.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      }
+    },
+    {
+      "id": "esteri-gabon-prospector-5",
+      "eventKey": "gabon-prospector-5-affondamento-morto-dispersi-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Gabon, affonda una piattaforma: un morto e quattro dispersi",
+      "summary": "La Prospector 5 è colata a picco al largo di Mayumba durante le operazioni preliminari alla perforazione.",
+      "body": [
+        "La struttura della Borr Drilling aveva 115 persone a bordo. Secondo le informazioni aggiornate, un lavoratore è morto e quattro risultano dispersi; le autorità hanno avviato ricerche e indagini tecniche."
+      ],
+      "publishedAt": "2026-10-27T08:11:00+01:00",
+      "verifiedAt": "2026-10-27T15:09:19.883Z",
+      "source": {
+        "name": "TG LA7",
+        "url": "https://tg.la7.it/esteri/gabon-piattaforma-petrolifera-affondamento-video-27-10-2026-264917",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T15:09:19.883Z",
+        "dateEvidence": "TG LA7, 27.10.2026 ore 08:11, articolo completo con bilancio e operazioni di soccorso.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-kiev-ponte-dnipro",
       "eventKey": "raid-russo-kiev-infrastrutture-27-ottobre-2026",
       "category": "Esteri",
       "status": "verified",
-      "title": "Raid russi su Kiev: colpite strutture sanitarie e infrastrutture",
-      "summary": "Attacchi sulla capitale ucraina hanno causato vittime e danni a strutture civili, secondo la ricostruzione del Guardian.",
+      "title": "Kiev, missili russi danneggiano il ponte meridionale",
+      "summary": "Il sindaco della capitale ucraina segnala danni al ponte Pivdennyi e alle infrastrutture della metropolitana che lo attraversano.",
       "body": [
-        "La cronaca del 27 ottobre descrive attacchi russi su Kiev con almeno una vittima e feriti; sono segnalati danni a strutture mediche e al ponte meridionale, con conseguenze anche sulla metropolitana."
+        "La circolazione dei treni sul ponte è stata sospesa. L'attacco avviene mentre nell'area di Oleshky, nella regione di Kherson, è in vigore una tregua locale destinata a facilitare un'operazione umanitaria: non si tratta di un cessate il fuoco generale."
       ],
-      "publishedAt": "2026-10-27",
-      "verifiedAt": "2026-10-27T11:52:30.076Z",
+      "publishedAt": "2026-10-27T07:09:00+01:00",
+      "verifiedAt": "2026-10-27T15:09:19.883Z",
       "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/oct/27/ukraine-war-briefing-russian-strikes-kyiv-truce-begins-oleshky",
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-tregua-oleshky-ultime-newsoggi_2g6TZVoqNfFKHnZGJa7hYe",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:52:30.076Z",
-        "dateEvidence": "Il Guardian del 27 ottobre, nel corpo dell'articolo, riporta gli attacchi a Kiev e la chiusura del servizio sul ponte.",
+        "accessCheckedAt": "2026-10-27T15:09:19.883Z",
+        "dateEvidence": "Adnkronos 27 ottobre 2026 ore 07:09; articolo aggiornato con danni al ponte Pivdennyi e tregua locale.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "esteri-noaa-el-nino",
-      "eventKey": "tagli-noaa-previsioni-el-nino-2026",
+      "id": "esteri-serbia-student-list-ue",
+      "eventKey": "serbia-student-list-vittoria-relazioni-ue-ottobre-2026",
       "category": "Esteri",
       "status": "verified",
-      "title": "USA, scienziati in allarme sui tagli alla NOAA prima di El Niño",
-      "summary": "Riduzioni di organico e fondi alla principale agenzia climatica statunitense potrebbero indebolire previsioni e allerta meteo.",
+      "title": "Serbia, dopo la vittoria degli studenti l'UE valuta i prossimi passi",
+      "summary": "La maggioranza parlamentare conquistata dalla Student List apre una possibile fase nuova nei rapporti tra Belgrado e Bruxelles.",
       "body": [
-        "Il Guardian del 27 ottobre ricostruisce la perdita di oltre tremila dipendenti NOAA dall'inizio del 2025, pari a circa il 20% dell'organico. Esperti avvertono che i tagli rischiano di ridurre la capacità di ricerca e risposta a fenomeni estremi."
+        "L'Unione europea accoglie con interesse la sconfitta del partito di Vučić, ma rimane prudente: restano da chiarire la posizione sulle sanzioni alla Russia, il Kosovo e la capacità di portare avanti riforme istituzionali."
       ],
-      "publishedAt": "2026-10-27",
-      "verifiedAt": "2026-10-27T11:52:30.076Z",
+      "publishedAt": "2026-10-26T16:21:00+01:00",
+      "verifiedAt": "2026-10-27T15:09:19.883Z",
       "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/environment/2026/oct/27/trump-cuts-el-nino-noaa",
+        "name": "Euronews",
+        "url": "https://it.euronews.com/2026/10/26/serbia-la-vittoria-degli-studenti-alimenta-le-speranze-di-un-avvicinamento-allue-bruxelles",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:52:30.076Z",
-        "dateEvidence": "La pagina Guardian indica Tue 27 Oct 2026 07.00 EDT e documenta i tagli NOAA e le preoccupazioni per El Niño.",
+        "accessCheckedAt": "2026-10-27T15:09:19.883Z",
+        "dateEvidence": "Euronews Italia, pubblicato 26 ottobre 2026 ore 16:21 CET; analisi post voto letta integralmente.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "esteri-australia-sicurezza-parlamentari",
-      "eventKey": "australia-sicurezza-parlamentari-haines-2026",
-      "category": "Esteri",
-      "status": "verified",
-      "title": "Australia, dopo un'aggressione si discutono nuove tutele per i parlamentari",
-      "summary": "Il governo valuta allarmi negli uffici e maggiore sicurezza ai seggi dopo un presunto attacco alla deputata Helen Haines.",
-      "body": [
-        "Il 27 ottobre il Guardian riporta l'impegno del primo ministro Anthony Albanese a intervenire sulla sicurezza dei parlamentari. Bridget McKenzie ha espresso il timore che nuove precauzioni possano limitare i contatti diretti con gli elettori."
-      ],
-      "publishedAt": "2026-10-27",
-      "verifiedAt": "2026-10-27T11:52:30.076Z",
-      "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-        "access": "free",
-        "accessCheckedAt": "2026-10-27T11:52:30.076Z",
-        "dateEvidence": "Cronaca in diretta Guardian del 27 ottobre, riepilogo finale e intervento di Bridget McKenzie sulla sicurezza.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "esteri-serbia-student-list-governo",
-      "eventKey": "serbia-student-list-trattative-governo-ottobre-2026",
-      "category": "Esteri",
-      "status": "verified",
-      "title": "Serbia, la Lista degli studenti prepara le trattative per il nuovo governo",
-      "summary": "Dopo la vittoria elettorale, il movimento privo di una leadership unica deve definire squadra e priorità di governo.",
-      "body": [
-        "Secondo il Guardian, pubblicato il 26 ottobre, la Student List ha ottenuto una vittoria elettorale netta e si prepara ad avviare i negoziati per formare il governo. Il movimento punta soprattutto a contrastare corruzione e condizionamento delle istituzioni."
-      ],
-      "publishedAt": "2026-10-26T17:46:00+01:00",
-      "verifiedAt": "2026-10-27T11:52:59.031Z",
-      "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/oct/26/serbia-student-list-preparing-for-talks-on-forming-government-despite-no-clear-leader",
-        "access": "free",
-        "accessCheckedAt": "2026-10-27T11:52:59.031Z",
-        "dateEvidence": "La pagina Guardian mostra 'First published on Mon 26 Oct 2026 17.46 CET' e riporta l'avvio delle trattative.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "esteri-brasile-lula-vittoria",
+      "id": "esteri-brasile-lula-riconoscimento",
       "eventKey": "brasile-lula-quarto-mandato-ballottaggio-2026",
       "category": "Esteri",
       "status": "verified",
-      "title": "Brasile, Lula conquista un quarto mandato dopo il ballottaggio",
-      "summary": "La commissione elettorale conferma la vittoria con il 51,79%; Flávio Bolsonaro contesta il risultato.",
+      "title": "Brasile, il partito di Bolsonaro riconosce la vittoria di Lula",
+      "summary": "Dopo il successo di Lula al ballottaggio con il 51,79%, il Partito Liberale riconosce il risultato pur chiedendo chiarimenti.",
       "body": [
-        "Il Guardian del 26 ottobre riferisce che Lula ha rimontato lo svantaggio del primo turno e ha battuto Flávio Bolsonaro con il 51,79% contro il 48,21%. L'avversario ha chiesto di annullare il voto, senza riconoscere la sconfitta."
+        "Lula ottiene un quarto mandato con circa 64,2 milioni di voti contro i 59,8 milioni di Flávio Bolsonaro. Lo sfidante ha contestato l'esito, mentre diversi governi stranieri si sono congratulati con il presidente rieletto."
       ],
-      "publishedAt": "2026-10-26T00:19:00Z",
-      "verifiedAt": "2026-10-27T11:52:59.031Z",
+      "publishedAt": "2026-10-26T15:51:00Z",
+      "verifiedAt": "2026-10-27T15:09:19.883Z",
       "source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
+        "url": "https://www.theguardian.com/world/2026/oct/26/brazil-lula-vow-democracy-always-election-win",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:52:59.031Z",
-        "dateEvidence": "Testo Guardian integrale: 'Mon 26 Oct 2026 00.19 GMT'; dati finali del ballottaggio e reazione di Bolsonaro presenti nell'articolo.",
+        "accessCheckedAt": "2026-10-27T15:09:19.883Z",
+        "dateEvidence": "Guardian, pubblicato 26 ottobre 2026 alle 15:51 GMT e aggiornato 27 ottobre alle 12:10 GMT; articolo completo.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
-  ],
-  "completedAt": "2026-10-27T11:52:59.031Z"
+  ]
 }
