@@ -22,4 +22,12 @@
 ## Rilascio verificato
 - Animazioni online con commit 041654d72ddd5a2624b00617badcf9ec02b1dad6, run 40479646446 conclusa con successo.
 - Il sito pubblico serve il codice delle transizioni e dell’apertura notizie. Cron della prova rimosso dopo l’esecuzione esplicita; nessuna nuova routine quotidiana attivata.
-- Cartella locale collegata a Git, branch main. Aggiornamento dei file UI versionato con ?v=5 per evitare codice precedente nella cache del browser. Rilascio finale da verificare.
+- Cartella locale collegata a Git, branch main. Aggiornamento dei file UI versionato con ?v=6 per evitare codice precedente nella cache del browser. Rilascio finale da verificare.
+
+## Swipe categorie
+- Nuova richiesta: cambiare categoria col dito mentre si legge, senza raggiungere il menu superiore.
+- Swipe sinistra/destra sul feed; esclusi i bordi Safari, scroll verticale e pinch restano nativi. Soglia direzionale e rollback per tocchi brevi. I tap sui titoli funzionano; il click dopo trascinamento è soppresso.
+- Indizio contestuale della categoria in arrivo e selezione del menu mantenuta visibile. Al cambio si torna all’inizio dei risultati. Nessun ciclo dall’ultima alla prima categoria.
+- Test CDP touch: Tutte→Politica→Tutte, scroll verticale, trascinamento breve e bordi, tap notizie. Riduci movimento: cambio categoria senza animazioni del feed.
+- Rimosso limite temporale rigido dello swipe: anche un gesto lento è valido, senza interferire con la selezione del testo.
+- Rilascio swipe v6 da confermare sul sito pubblico.

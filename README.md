@@ -29,3 +29,6 @@ Test browser: viewport 390×844 senza overflow; 5 principali, 8 compatte, 5 foto
 
 ## Movimento
 Filtri: View Transitions con identità stabile delle schede e transizioni di circa 260 ms; fallback breve per browser meno recenti. Lettura: apertura di 300 ms e uscita di 180 ms, focus restituito alla scheda, scorrimento pagina bloccato durante la lettura. Riduci movimento disabilita questi movimenti.
+
+## Swipe sul telefono
+Scorri orizzontalmente sulle notizie: a sinistra vai alla categoria successiva, a destra torni alla precedente. Funziona anche sui titoli e mentre sei più in basso nella pagina. I bordi dello schermo restano a Safari; lo scorrimento verticale e il pinch zoom sono nativi. I movimenti troppo brevi ritornano alla posizione iniziale. Il menu resta disponibile come alternativa. A cambio sezione si torna all’inizio dei risultati e il filtro attivo viene portato in vista.
