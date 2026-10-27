@@ -1,18 +1,14 @@
 {
   "editionDate": "2026-10-27",
-  "checkedAt": "2026-10-27T12:00:17.929Z",
+  "checkedAt": "2026-10-27T12:06:41.524Z",
   "ready": false,
   "completed": [
     "politica",
     "esteri",
-    "economia"
+    "economia",
+    "cronaca"
   ],
-  "inProgress": [
-    {
-      "slug": "cronaca",
-      "count": 2
-    }
-  ],
+  "inProgress": [],
   "missing": [
     "roma",
     "cultura",
@@ -21,20 +17,6 @@
   ],
   "invalid": [],
   "stories": [
-    {
-      "id": "cronaca-verona-treno-33enne",
-      "category": "Cronaca",
-      "title": "Verona, muore un 33enne dopo essere stato investito dal treno in partenza",
-      "eventKey": "verona-porta-nuova-treno-morte-33enne-ottobre-2026",
-      "pending": true
-    },
-    {
-      "id": "cronaca-kaufmann-richiesta-ergastolo",
-      "category": "Cronaca",
-      "title": "Caso Villa Pamphili, la Procura chiede l'ergastolo per Francis Kaufmann",
-      "eventKey": "kaufmann-pm-richiesta-ergastolo-villa-pamphili-ottobre-2026",
-      "pending": true
-    },
     {
       "id": "politica-manovra-cdm-28-ottobre",
       "category": "Politica",
@@ -124,6 +106,36 @@
       "category": "Economia",
       "title": "Datacenter AI britannici, consultate 137 imprese e nessuna ONG ambientale",
       "eventKey": "consultazioni-datacenter-ai-uk-imprese-ong-2026"
+    },
+    {
+      "id": "cronaca-verona-treno-33enne",
+      "category": "Cronaca",
+      "title": "Verona, muore un 33enne dopo essere stato investito dal treno in partenza",
+      "eventKey": "verona-porta-nuova-treno-morte-33enne-ottobre-2026"
+    },
+    {
+      "id": "cronaca-kaufmann-richiesta-ergastolo",
+      "category": "Cronaca",
+      "title": "Caso Villa Pamphili, la Procura chiede l'ergastolo per Francis Kaufmann",
+      "eventKey": "kaufmann-pm-richiesta-ergastolo-villa-pamphili-ottobre-2026"
+    },
+    {
+      "id": "cronaca-torino-parco-dora-fermo",
+      "category": "Cronaca",
+      "title": "Omicidio a Parco Dora, fermato un uomo dopo la morte di un giovane",
+      "eventKey": "torino-parco-dora-omicidio-fermo-26-ottobre-2026"
+    },
+    {
+      "id": "cronaca-milano-denuncia-metropolitana",
+      "category": "Cronaca",
+      "title": "Milano, studentessa denuncia un'aggressione sessuale in metropolitana",
+      "eventKey": "milano-denuncia-violenza-studentessa-cadorna-26-ottobre-2026"
+    },
+    {
+      "id": "cronaca-ischia-tre-arresti",
+      "category": "Cronaca",
+      "title": "Ischia, tre arresti dopo la denuncia di violenze su una persona disabile",
+      "eventKey": "ischia-tre-arresti-violenze-persona-disabile-26-ottobre-2026"
     }
   ],
   "photoCandidates": [
