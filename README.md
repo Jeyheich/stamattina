@@ -1,32 +1,28 @@
-# Il mondo, stamattina
-Demo locale PWA, senza dipendenze, licenza Apple o account a pagamento. Nessuna pubblicazione o automazione è stata eseguita.
+# stamattina.
+PWA personale mobile-first, font di sistema, navigazione inferiore, temi chiaro/scuro, cinque essenziali, cinque principali e otto compatte. Nessuna dipendenza o licenza Apple.
 
-## Avvio
-Dalla cartella del progetto: `python3 -m http.server 8765 --directory dist`. Aprire http://localhost:8765. Su iPhone localhost indica l’iPhone: per l’installazione usare la futura URL HTTPS GitHub Pages.
+## Sito e prova iPhone
+https://jeyheich.github.io/stamattina/
+Safari → Condividi → Aggiungi alla schermata Home. L’installazione su Safari fisico deve ancora essere provata da Fabio.
+Repository pubblico: https://github.com/Jeyheich/stamattina
 
-## Contenuti
-`dist/data/current.json` è l’unica edizione letta dalla UI. Cinque essenziali rimandano agli stessi cinque approfondimenti; seguono otto schede compatte. Demo: documenti fotografici NASA di archivio e schede esplicitamente esemplificative. Non sono attualità del 27 ottobre. Date e provenienza arrivano dal catalogo pubblico NASA, controllato durante la costruzione; le descrizioni sono intenzionalmente limitate. `photos.json` conserva i metadati acquisiti. Nessuna foto generata.
+## Stato del rilascio
+Rassegna reale del 27 ottobre 2026. Workflow inizialmente programmato per le 10:10 Europe/Rome. Avvio esplicito alle 10:10:22 per evitare il ritardo del cron. Esecuzione 40478763078 completata con successo. La schedulazione una tantum viene rimossa dopo la prova per evitare ripetizioni annuali.
+Fonti: RaiNews, Istat, Roma Mobilità, Teatro.it, Open, Rai Televideo, Borsa Italiana/Teleborsa, INDIRE, Culture Roma, Agenzia statale cinema Ucraina, Telenuovo. I testi sono sintesi originali brevi. Foto autentiche di repertorio da Commons, mai presentate come scatti di oggi: autore, licenza e provenienza visibili; nessun asset generativo. Le immagini sono servite da Wikimedia, non dal repository.
 
-## Pubblicazione GitHub Pages
-1. Scegliere/creare repository e autorizzare caricamento. Per evitare costi usare un repository pubblico, consapevoli che codice e contenuti saranno pubblici.
-2. Caricare il contenuto di questa cartella nella radice del repository.
-3. In Settings → Pages selezionare GitHub Actions; avviare manualmente `Demo Pages`.
-4. Verificare la URL HTTPS risultante su Safari iPhone, offline e Aggiungi alla schermata Home. I percorsi sono relativi e compatibili con /nome-repository/.
-Le Actions sono predisposte, non provate su un repository remoto. Verificare condizioni correnti e disponibilità del piano GitHub prima di attivarle.
+## Dati e aggiornamento
+L’interfaccia legge solo `dist/data/current.json`. Mantiene data di pubblicazione, data evento se disponibile, momento del controllo, evidenza della data, fonte diretta gratuita e metadati fotografici. Le pagine evento senza data di pubblicazione sono dichiarate come tali. I contenuti di archivio/demo della v1 sono nel checkpoint locale, non nell’edizione pubblicata.
+Il validatore controlla struttura e campi, non prova da solo verità, gratuità o diritti. Nuove edizioni vanno raccolte e revisionate separatamente; nessuna API key è presente nella PWA.
 
-## Flusso quotidiano delle 09:33 Europe/Rome
-La PWA non esegue cron sul telefono, né legge l’automazione ChatGPT. Occorre un produttore indipendente, avviato PRIMA delle 09:33, che raccolga fonti gratuite consentite e prepari `incoming/edition.json` con fotografie locali già in `dist/assets/`.
+## Flusso quotidiano ancora da collegare
+L’automazione ChatGPT preesistente è intatta: non alimenta la PWA. Nessuna nuova rassegna verrà inventata o ripubblicata con la data cambiata. La UI segnala un’edizione precedente.
+`daily.yml` è manuale, con schedulazione commentata: serve un produttore indipendente che raccolga fonti consentite prima delle 09:33 Europe/Rome e prepari `incoming/edition.json`. Obbligatori: controlli editoriali, date, accesso senza paywall, immagini pertinenti con licenza e attribuzione. `promote.mjs` valida l’edizione di oggi, archivia e sostituisce current solo dopo il successo. In errore resta online la versione precedente.
+Per attivare: collegare il produttore, provare un giorno intero e un caso di fallimento, poi abilitare la schedulazione. GitHub Actions non garantisce puntualità esatta e può ritardare; prevedere recupero e allarme. Nessuna promessa di notifiche push.
 
-Fasi obbligatorie: selezione 12–15 fatti reali, deduplicazione, verifica del testo completo senza login/paywall, data originale ed evento separati nella prosa, verifica contenuto e pertinenza foto, diritti/attribuzione, revisione editoriale e validazione. Per `mode: live`, ogni articolo deve avere `status: verified`, `publishedAt`, `verifiedAt`, fonte HTTPS con `access: free`, `accessCheckedAt`, `dateEvidence`, `reviewedBy`. Ogni foto richiede `reuseApproved: true` oltre a fonte, crediti e diritti. I campi sono evidenze da compilare dopo controlli reali; il validatore non prova da solo la verità o la gratuità.
+## Avvio e test
+`python3 -m http.server 8765 --directory dist`
+`node scripts/validate.mjs dist/data/current.json --production`
+`node --check dist/app.js`
+`node --check dist/sw.js`
 
-`scripts/promote.mjs` rifiuta demo, edizioni con data diversa da oggi a Roma o immagini mancanti; scrive archivio e sostituisce current solo dopo validazione. Se il lavoro fallisce, la pubblicazione precedente resta online. Il workflow giornaliero fallisce se manca l’edizione revisionata: nessuna notizia sostitutiva inventata.
-
-Il workflow daily è predisposto ma la schedulazione è COMMENTATA. Due orari UTC 07:33 e 08:33 con gate dell’ora locale gestiscono CET/CEST. GitHub può ritardare o saltare esecuzioni: NON è una garanzia esatta alle 09:33. Per puntualità servono un servizio di scheduling con Europe/Rome e monitoraggio di successo, retry e allarme. Il gate scarta esecuzioni fuori dalle 09, quindi un ritardo ampio richiede recupero manuale. La preparazione del JSON non è ancora collegata. Nessuna chiave nella UI: eventuali API solo nei repository secrets e in un processo server.
-
-Prima di attivare: scegliere fonti e diritti immagini; decidere revisione umana o controlli editoriali assistiti; collegare il produttore al repository; testare dry-run e fallimenti, doppia esecuzione, cambio ora, rollback. Non sostituire l’automazione ChatGPT senza ispezionarla e decisione esplicita.
-
-## Test e limiti
-`node scripts/validate.mjs dist/data/current.json`; `node --check dist/app.js`; `node --check dist/sw.js`.
-Tema e salvati persistono sul dispositivo. Cache same-origin dopo prima visita, nessun push; offline conserva ciò che è stato caricato. Nessun analytics. Font di sistema. Fotografie di archivio NASA: prima di pubblicarle confermare termini e crediti specifici, comprese immagini composite con contributi terzi. La demo non verifica una nuova rassegna ogni giorno.
-
-Documentazione GitHub consultata: https://docs.github.com/en/pages/getting-started-with-github-pages e https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax. Il doppio orario UTC è una scelta esplicita di compatibilità; la documentazione attuale descrive anche `timezone` IANA. Nessuna dipendenza dalla disponibilità di tale estensione.
+Test browser: viewport 390×844 senza overflow; 5 principali, 8 compatte, 5 fotografie caricate; approfondimenti e filtri. Tema e salvati nel dispositivo. Service worker prepara contenuti e immagini dopo la prima apertura online; attendere la preparazione prima di provare offline. Nessuna analisi statistica o tracciamento aggiunto. Link esterni richiedono connessione.
