@@ -34,4 +34,10 @@ const duplicate=structuredClone(blocks);duplicate.sport.articles[0].eventKey=dup
 const insufficientPhotos=structuredClone(blocks);delete insufficientPhotos.roma.articles[0].image;assert.equal(assemble(insufficientPhotos,today,now).state.photosMissing,1);
 const sourceDuplicate=structuredClone(blocks);sourceDuplicate.sport.articles[0].source.url=sourceDuplicate.esteri.articles[0].source.url;assert.equal(assemble(sourceDuplicate,today,now).state.ready,false);
 const blocked=recordFailure(complete.state,complete.edition,'check_photo: fixture-economia-0: HTTP Error 403');assert.equal(blocked.ready,false);assert.equal(blocked.invalid[0].slug,'economia');assert(!blocked.completed.includes('economia'));assert(blocked.completed.includes('politica'));
+const refresh=structuredClone(blocks);refresh.politica.collectionId=today+'-pomeriggio';
+assert.equal(assemble(refresh,today,now).edition,undefined,'Il nuovo ciclo non pubblica insieme ai vecchi blocchi');
+assert.equal(assemble(refresh,today,now).state.missing.length,7);
+for(const b of Object.values(refresh))b.collectionId=today+'-pomeriggio';
+assert.equal(assemble(refresh,today,now).edition.articles.length,40,'Otto blocchi del ciclo nuovo pubblicano');
+refresh.sport.collectionId=today+'-altro';assert.equal(assemble(refresh,today,now).state.ready,false,'Cicli discordanti bloccati');
 console.log('PASS: ripresa dopo 7 blocchi, 40 schede/35 compatte, id stabile; date vecchie, verifiche scadute, fatti/fonti duplicati e foto insufficienti bloccati. Fixture solo in memoria.');
