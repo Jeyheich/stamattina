@@ -8,6 +8,10 @@ Repository pubblico `Jeyheich/stamattina`, branch `main`. Il lavoro richiesto da
 ## Prima verifica
 Leggere questo file, AGENTS.md, PROJECT_STATE.md, `dist/data/current.json`, `scripts/validate.mjs` e `scripts/promote.mjs` dal repository corrente. Verificare la data effettiva in Europe/Rome. Non trattare le notizie precedenti come fatti ancora attuali. Non installare nulla e non attivare pagamenti o servizi API aggiuntivi.
 
+## Ricerca e completamento
+Leggere anche automation/source-feeds.json e aprire i feed pubblici indicati per trovare rapidamente URL e date aggiornati. I feed sono punti di partenza, non un’edizione verificata. Se un feed non è leggibile, cercare gli articoli direttamente sul sito o con ricerca web. Per economia e tecnologia classificare i candidati dal feed generale e integrare con fonti istituzionali.
+Una verifica ancora da completare è un passo di lavoro, non un blocco: continuare ricerca e controlli. Se una fonte non è accessibile, sostituirla. Se una foto non ha licenza certa, cercarne un’altra. Provare almeno tre selezioni concrete prima di concludere che non si può completare. Non presentare “ricerca avviata” o “non ho completato” come esito sufficiente. Le esecuzioni manuali sono collaudi da svolgere subito, anche dopo le 07:30: l’orario già trascorso non è un motivo per fermarsi. Una vera mancanza di strumenti o permessi, invece, deve essere dichiarata.
+
 ## Edizione
 - 5 essenziali, che rimandano agli stessi 5 approfondimenti principali con foto autentiche; 7–10 schede compatte distinte. Totale 12–15 notizie deduplicate.
 - Tutte le categorie ammesse: Politica, Esteri, Economia, Cronaca, Roma, Cultura · Teatro · Cinema, Tecnologia · AI. Distribuzione equilibrata secondo le notizie reali, senza riempitivi inventati.

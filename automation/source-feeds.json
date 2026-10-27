@@ -1,0 +1,33 @@
+{
+  "purpose": "Punti di partenza RSS pubblici. Sono metadati non verificati editorialmente: la task deve aprire le fonti originali. Nessuna routine aggiuntiva o scrittura programmata.",
+  "feeds": [
+    {
+      "category": "Politica",
+      "url": "https://www.rainews.it/rss/politica"
+    },
+    {
+      "category": "Esteri",
+      "url": "https://www.rainews.it/rss/esteri"
+    },
+    {
+      "category": "Cronaca",
+      "url": "https://www.rainews.it/rss/cronaca"
+    },
+    {
+      "category": "Generale, economia, cultura e tecnologia",
+      "url": "https://www.rainews.it/rss/tutti"
+    },
+    {
+      "category": "Roma",
+      "url": "https://www.romatoday.it/rss"
+    },
+    {
+      "category": "Tecnologia · AI",
+      "url": "https://www.indire.it/feed/"
+    },
+    {
+      "category": "Cultura · Teatro · Cinema",
+      "url": "https://www.teatroecritica.net/feed/"
+    }
+  ]
+}
