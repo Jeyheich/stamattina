@@ -1,113 +1,119 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-27",
+  "collectionId": "2026-10-27-pomeriggio",
   "category": "Cronaca",
+  "completedAt": "2026-10-27T15:11:55.171Z",
   "articles": [
+    {
+      "id": "cronaca-monza-omicidio-fermo",
+      "eventKey": "monza-via-pisacane-omicidio-34enne-fermo-27-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Monza, un uomo muore accoltellato dopo una lite: fermato un 38enne",
+      "summary": "Un trentaquattrenne è morto in ospedale dopo un'aggressione in via Pisacane. I carabinieri hanno fermato un uomo sospettato dell'omicidio.",
+      "body": [
+        "Secondo la ricostruzione degli investigatori, la discussione sarebbe iniziata in un'abitazione e proseguita sul pianerottolo e in strada. La vittima, sottoposta a sorveglianza speciale, è stata soccorsa e portata all'ospedale San Gerardo, dove è deceduta.",
+        "Il fermato, 38 anni, è indagato per omicidio. L'autopsia e gli accertamenti dei carabinieri dovranno chiarire dinamica e movente: la responsabilità penale non è ancora accertata."
+      ],
+      "publishedAt": "2026-10-27T12:25:00+01:00",
+      "verifiedAt": "2026-10-27T15:11:55.171Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/27/sorvegliato-speciale-ucciso-a-coltellate-a-monza-un-fermo_36bb649a-8f30-4175-8bae-9d338e62cf44.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T15:11:55.171Z",
+        "dateEvidence": "Pagina ANSA letta il 27 ottobre 2026: dateline MONZA 27 ottobre alle 12:25; vittima di 34 anni, fermato 38enne e indagini dei carabinieri.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-perugia-operaio-ventenne",
+      "eventKey": "valtopina-operaio-20enne-morto-rullo-compressore-27-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Valtopina, operaio ventenne muore schiacciato da un rullo compressore",
+      "summary": "L'incidente è avvenuto in un cantiere stradale nel Perugino. Sono in corso accertamenti sulla dinamica della caduta.",
+      "body": [
+        "Il giovane lavorava alla manutenzione di una strada e, secondo una prima ricostruzione, avrebbe perso l'equilibrio mentre si trovava su un rullo per compattare l'asfalto. I soccorritori non hanno potuto salvarlo.",
+        "I carabinieri stanno ricostruendo l'accaduto; le cause esatte e le eventuali responsabilità non risultano ancora accertate."
+      ],
+      "publishedAt": "2026-10-27",
+      "updatedAt": "2026-10-27T12:38:00+01:00",
+      "verifiedAt": "2026-10-27T15:11:55.171Z",
+      "source": {
+        "name": "Il Fatto Quotidiano",
+        "url": "https://www.ilfattoquotidiano.it/2026/10/27/morte-lavoro-perugia-operaio-notizie/8551268/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T15:11:55.171Z",
+        "dateEvidence": "Il Fatto Quotidiano: articolo integrale e gratuito datato 27 ottobre 2026, aggiornamento indicato alle 12:38; Valtopina, 20 anni e rullo compressore.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-impagnatiello-premeditazione",
+      "eventKey": "impagnatiello-appello-bis-premeditazione-giulia-tramontano-26-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Caso Tramontano, nell'appello bis riconosciuta la premeditazione",
+      "summary": "La Corte d'assise d'appello di Milano ha riconosciuto l'aggravante per Alessandro Impagnatiello; all'ergastolo si aggiungono tre mesi di isolamento diurno.",
+      "body": [
+        "La decisione del 26 ottobre segue il rinvio disposto dalla Cassazione per riesaminare la premeditazione nell'omicidio di Giulia Tramontano, uccisa nel maggio 2023 mentre era incinta. Le motivazioni sono attese entro 45 giorni."
+      ],
+      "publishedAt": "2026-10-26T10:27:00+01:00",
+      "verifiedAt": "2026-10-27T15:11:55.171Z",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/cronaca/omicidio-giulia-tramontano-pg-milano-impagnatiello-appello-bis-sentenza_37Hk8Iy0wRHPnug95IaHsu",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T15:11:55.171Z",
+        "dateEvidence": "Adnkronos: articolo integrale del 26 ottobre 2026 ore 10:27, aggiornato con la sentenza di appello bis; aggravante e isolamento diurno riportati nel testo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
     {
       "id": "cronaca-verona-treno-33enne",
       "eventKey": "verona-porta-nuova-treno-morte-33enne-ottobre-2026",
       "category": "Cronaca",
       "status": "verified",
-      "title": "Verona, muore un 33enne dopo essere stato investito dal treno in partenza",
-      "summary": "L'uomo è scivolato dalla banchina mentre cercava di raggiungere il convoglio già in movimento. È morto in ospedale.",
+      "title": "Verona Porta Nuova, muore un trentatreenne dopo una caduta sui binari",
+      "summary": "Riccardo Stincone è morto dopo essere stato travolto da un treno in partenza. La polizia ferroviaria ricostruisce le circostanze dell'incidente.",
       "body": [
-        "La notizia del 27 ottobre ricostruisce l'incidente avvenuto domenica alla stazione di Verona Porta Nuova. Trenord ha espresso cordoglio e ha dichiarato di collaborare con la Polizia ferroviaria nelle verifiche sulla dinamica."
+        "L'incidente è avvenuto domenica 25 ottobre al binario 3, mentre il giovane cercava di raggiungere un convoglio che si stava già muovendo. Trasportato in ospedale, è deceduto per le ferite riportate.",
+        "La notizia è stata pubblicata il 26 ottobre: la data dell'incidente non coincide con quella della pubblicazione."
       ],
-      "publishedAt": "2026-10-27",
-      "verifiedAt": "2026-10-27T11:59:49.131Z",
+      "publishedAt": "2026-10-26T20:59:00+01:00",
+      "verifiedAt": "2026-10-27T15:11:55.171Z",
       "source": {
-        "name": "RaiNews",
-        "url": "https://www.rainews.it/amp/articoli/2026/10/cerca-di-fermare-il-treno-ma-scivola-e-viene-travolto-muore-a-33-anni-davanti-alla-compagna-5ba65140-5f4b-43aa-b01b-1e4903a06cff.html",
+        "name": "Nordest24",
+        "url": "https://www.nordest24.it/riccardo-stincone-morto-treno-verona-porta-nuova-cervignano",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:59:49.131Z",
-        "dateEvidence": "Pagina integrale RaiNews con data 27/10/2026; verificati decesso, stazione e comunicazione Trenord.",
+        "accessCheckedAt": "2026-10-27T15:11:55.171Z",
+        "dateEvidence": "Nordest24, articolo integrale pubblicato 26 ottobre 2026 alle 20:59; incidente datato 25 ottobre a Verona Porta Nuova.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "cronaca-kaufmann-richiesta-ergastolo",
-      "eventKey": "kaufmann-pm-richiesta-ergastolo-villa-pamphili-ottobre-2026",
+      "id": "cronaca-sardegna-ristoranti-senza-schermi",
+      "eventKey": "sardegna-15-ristoranti-patto-volontario-senza-schermi-ottobre-2026",
       "category": "Cronaca",
       "status": "verified",
-      "title": "Caso Villa Pamphili, la Procura chiede l'ergastolo per Francis Kaufmann",
-      "summary": "Il pubblico ministero ha chiesto l'ergastolo e tre anni di isolamento diurno per il duplice omicidio di Anastasia Trofimova e della figlia.",
+      "title": "In Sardegna quindici ristoranti sperimentano pasti senza smartphone",
+      "summary": "Giochi e materiali informativi sostituiscono i telefoni durante i pasti in una prova volontaria rivolta alle famiglie.",
       "body": [
-        "La requisitoria, riportata da RaiNews il 26 ottobre, ricostruisce la tesi dell'accusa sul duplice omicidio. La richiesta della Procura non è una condanna: la decisione spetta ancora ai giudici."
+        "Il progetto «A tavola senza schermi» è stato presentato il 26 ottobre dalla garante regionale per l'infanzia Anna Cau e da Fipe Confcommercio Sardegna. Per un mese, i locali aderenti offriranno ai bambini attività alternative ai dispositivi elettronici.",
+        "Non si tratta di un divieto generalizzato: la partecipazione dei ristoranti e delle famiglie è volontaria, con l'obiettivo di favorire dialogo e convivialità."
       ],
       "publishedAt": "2026-10-26",
-      "verifiedAt": "2026-10-27T11:59:49.131Z",
-      "source": {
-        "name": "RaiNews",
-        "url": "https://www.rainews.it/articoli/2026/10/cronaca-la-procura-chiede-ergastolo-per-kaufmann-duplice-omicidio-anastasia-e-della-figlia-di-14-mesi-fbcc2336-4965-4712-9cbc-b18cbe4c3851.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-27T11:59:49.131Z",
-        "dateEvidence": "Articolo RaiNews integrale datato 26/10/2026: requisitoria, richiesta ergastolo e isolamento diurno.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-torino-parco-dora-fermo",
-      "eventKey": "torino-parco-dora-omicidio-fermo-26-ottobre-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Torino, fermato un uomo per l’omicidio a Parco Dora",
-      "summary": "La polizia ha individuato un quarantaseienne; resta da chiarire il movente.",
-      "body": [
-        "Un uomo di 46 anni è stato fermato per la morte del giovane accoltellato a Parco Dora il 23 ottobre. Secondo ANSA, gli investigatori valutano un possibile legame con lo spaccio; si tratta di un’ipotesi investigativa e non di una responsabilità accertata con sentenza."
-      ],
-      "publishedAt": "2026-10-26T12:37:00+01:00",
-      "verifiedAt": "2026-10-27T13:32:37.126918+00:00",
+      "verifiedAt": "2026-10-27T15:11:55.171Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/piemonte/notizie/2026/10/26/accoltellato-e-ucciso-in-un-parco-a-torino-fermato-il-presunto-assassino_a27f311f-bc23-4b5c-aec6-33f758f72520.html",
+        "url": "https://www.ansa.it/amp/sardegna/notizie/2026/10/26/famiglie-a-tavola-senza-smartphone-iniziativa-in-15-ristoranti-sardi_640d37a6-55b1-4fa8-9011-fe36d4828ed2.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T13:32:37.126918+00:00",
-        "dateEvidence": "Pagina integrale letta; data di pubblicazione 2026-10-26T12:37:00+01:00.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-milano-denuncia-metropolitana",
-      "eventKey": "milano-denuncia-violenza-studentessa-cadorna-26-ottobre-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Milano, studentessa denuncia un'aggressione sessuale in metropolitana",
-      "summary": "Una diciannovenne ha segnalato una presunta violenza nella stazione Cadorna; la polizia sta verificando la ricostruzione.",
-      "body": [
-        "La giovane ha chiesto aiuto all'università IULM dopo aver raccontato l'episodio a un'amica. L'ateneo ha chiarito che il luogo indicato nella denuncia è la stazione della metropolitana e non il campus. La versione della studentessa è oggetto di indagini."
-      ],
-      "publishedAt": "2026-10-26T22:22:00+01:00",
-      "verifiedAt": "2026-10-27T12:06:19.685Z",
-      "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com/cronaca/milano-studentessa-denuncia-violenza-sessuale_3M87FRZVdO7irwrs5fJQPg",
-        "access": "free",
-        "accessCheckedAt": "2026-10-27T12:06:19.685Z",
-        "dateEvidence": "Adnkronos, pubblicazione 26 ottobre 2026 alle 22:22, testo integrale con dichiarazioni IULM e stato delle indagini.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-ischia-tre-arresti",
-      "eventKey": "ischia-tre-arresti-violenze-persona-disabile-26-ottobre-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Ischia, tre arresti dopo la denuncia di violenze su una persona disabile",
-      "summary": "Tre ventenni sono stati posti in custodia cautelare nell'ambito di un'inchiesta su torture e violenze sessuali.",
-      "body": [
-        "L'indagine della polizia, coordinata dalla Procura di Napoli, è partita dalla denuncia della vittima. Gli investigatori riferiscono di immagini diffuse nelle chat; le accuse devono essere verificate nel procedimento penale."
-      ],
-      "publishedAt": "2026-10-26T13:17:00+01:00",
-      "verifiedAt": "2026-10-27T12:06:19.685Z",
-      "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com/cronaca/disabile-torturato-violentato-filmato_1PjVkhmQCYs6zk5dUl9ctA",
-        "access": "free",
-        "accessCheckedAt": "2026-10-27T12:06:19.685Z",
-        "dateEvidence": "Adnkronos, pubblicato il 26 ottobre 2026 alle 13:17, descrive ordinanza di custodia e ricostruzione degli inquirenti.",
+        "accessCheckedAt": "2026-10-27T15:11:55.171Z",
+        "dateEvidence": "ANSA Sardegna, articolo integrale del 26 ottobre 2026; progetto della garante e Fipe, 15 ristoranti e adesione volontaria.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
-  ],
-  "completedAt": "2026-10-27T13:32:37.126918+00:00"
+  ]
 }
