@@ -4,7 +4,7 @@
 - PWA personale su https://jeyheich.github.io/stamattina/, solo Plus già pagato e GitHub: zero costi aggiuntivi, niente API AI esterne. Fabio autorizza quota condivisa e scritture automatiche e rivaluterà il consumo.
 - Cinque fatti distinti per ciascuna delle otto categorie, Sport incluso: 40 articoli, cinque principali con foto autentiche, cinque essenziali sugli stessi articoli e 35 compatte. Date/fonti gratuite/attribuzioni verificabili, repertorio dichiarato.
 - UI moderna, font di sistema, temi, salvati, swipe e movimento ridotto. Scartati grafica serif/cartacea, limite 12–15, produzione monolitica da 40 e API a pagamento.
-- Obiettivo 07:30 Europe/Rome anche a Mac spento; nessuna garanzia assoluta di puntualità.
+- Obiettivo entro 09:00 Europe/Rome anche a Mac spento; nessuna garanzia assoluta di puntualità.
 
 ## Stato osservato
 - Pubblica: 2026-10-27-batches-a6dd98072384, preparata 13:45 Rome; 40 articoli, cinque per categoria, cinque foto. Run 40506210061 SUCCESS; status publication=verified, publicEditionId identico. Il server confronta l'intero JSON pubblico con quello promosso.
@@ -71,3 +71,14 @@ Tutto Europe/Rome: tre attività rassegna, sei avvii giornalieri.
 - Modifiche sviluppate in work/load-more/project da snapshot remoto verificato; checkout storico outputs/rassegna preservato. Test mobile 390px passati su tutte otto categorie: 5→10, pulsante esaurito nascosto, focus sulla prima aggiuntiva, salvati riserva, reload iniziale a 5, nessun overflow; verifica visuale eseguita. Pubblicazione confermata: commit 9a04549971ae94f3c7ed15e4539d3ad6c1f66643, run 40535813706 SUCCESS; pagina pubblica app.js?v=11 e controllo presente, nascosto con zero riserve. Apertura cinque aggiuntive già scaricate provata offline, connessione ripristinata.
 
 - Stato dati alla pubblicazione della funzione: nessuna riserva reale ancora salvata. Il collaudo completo 5→10 usa fixture locali esplicitamente marcate; non dichiarare 80 notizie reali online. Procedura produttiva attiva nei brief, senza nuovi slot né esecuzioni aggiuntive.
+
+## Raggruppamento definitivo autorizzato e verificato
+## Pianificazione effettiva — due slot, dal 28 ottobre 2026
+Tutti gli orari Europe/Rome, obiettivo disponibilità entro le 09:00 (non garanzia). Nessuna nuova attività.
+- Rassegna stampa quotidiana, id 6ae05f1b65048191ab49a6b1efa795ee: 06:05 Politica poi Esteri; 07:05 Tecnologia poi Sport; 08:05 recupero massimo due blocchi incompleti/invalidi, foto, riserve facoltative e verifica pubblicazione.
+- Rassegna · Economia, Cronaca, Roma e Cultura, id 6ae0984223088191b89da89ca650b81c: 06:15 Economia poi Cronaca; 07:15 Roma poi Cultura; 08:15 recupero massimo due blocchi, foto, riserve e verifica finale.
+- Rassegna · Roma e Cultura, id 6ae098447b7481919b203e1a5610dfee: IN PAUSA, non eliminata, non va riattivata automaticamente. Le sue categorie sono assegnate al secondo slot.
+Due categorie per avvio, file e commit separati. I recuperi danno priorità alle quaranta principali; il lavoro validamente completato non si rifà. Raccolta GitHub alle 06:00 invariata. Almeno un'ora fra avvii della stessa attività, sei avvii complessivi su due slot. Le altre attività personali restano intatte.
+Solo per il 27 ottobre si conservano gli avvii pomeridiani già autorizzati (17:05 prima attività Tecnologia/Sport, 17:15 seconda Roma/Cultura), anche se una run è in corso. Non riavviare gli orari già passati e non creare una ricorrenza pomeridiana dal 28. Seguire AFTERNOON_TRIAL.md e collectionId della prova. Raggruppamento salvato non equivale a prova editoriale riuscita.
+
+- Gestore cloud: configurazioni aggiornate e rilette, terza sospesa dopo verifica di tutte le otto categorie. Verifica indipendente elenco Attivo: due rassegne. Uno slot liberato; attività personali intatte. Prova odierna conservata, suo esito editoriale non ancora dimostrato.
