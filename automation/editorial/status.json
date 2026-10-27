@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-27",
-  "checkedAt": "2026-10-27T15:56:03.420Z",
+  "checkedAt": "2026-10-27T16:04:53.814Z",
   "ready": false,
   "completed": [
     "politica",
@@ -8,15 +8,33 @@
     "economia",
     "cronaca"
   ],
-  "inProgress": [],
+  "inProgress": [
+    {
+      "slug": "tecnologia",
+      "count": 2
+    }
+  ],
   "missing": [
     "roma",
     "cultura",
-    "tecnologia",
     "sport"
   ],
   "invalid": [],
   "stories": [
+    {
+      "id": "tecnologia-fortnite-one-piece-trailer",
+      "category": "Tecnologia · AI",
+      "title": "Fortnite mostra la collaborazione con One Piece nel trailer di Treasure Hunter",
+      "eventKey": "fortnite-one-piece-trailer-treasure-hunter-27-ottobre-2026",
+      "pending": true
+    },
+    {
+      "id": "tecnologia-xbox-vendite-settembre",
+      "category": "Tecnologia · AI",
+      "title": "Xbox Series, vendite USA in calo nonostante l'attenzione per GTA 6",
+      "eventKey": "xbox-series-vendite-settembre-2026-circana-gta6",
+      "pending": true
+    },
     {
       "id": "politica-manovra-cdm-28-ottobre",
       "category": "Politica",
