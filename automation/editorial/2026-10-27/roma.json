@@ -1,30 +1,33 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-27",
+  "collectionId": "2026-10-27-pomeriggio",
   "category": "Roma",
-  "completedAt": "2026-10-27T13:32:37.126918+00:00",
+  "completedAt": "2026-10-27T16:20:44.137Z",
   "articles": [
     {
       "id": "roma-trasporto-scolastico-riapertura",
       "eventKey": "roma-trasporto-scolastico-riapertura-domande-27-ottobre-2026",
       "category": "Roma",
       "status": "verified",
-      "title": "Roma, riaperte le domande per il trasporto scolastico",
-      "summary": "Dal 27 ottobre è possibile presentare online nuove richieste per il servizio 2026/27, nei limiti delle linee e dei posti già disponibili.",
+      "title": "Trasporto scolastico romano, riaperte le richieste online",
+      "summary": "Dal 27 ottobre è nuovamente possibile chiedere il servizio scolastico 2026/27, soltanto sulle linee esistenti e nei limiti dei posti disponibili.",
       "body": [
-        "Dal 27 ottobre sono nuovamente aperte le domande per il trasporto scolastico 2026/27 di Roma. La comunicazione ufficiale riguarda le alunne e gli alunni residenti e frequentanti nella città; la pagina, pubblicata il 20 ottobre, risulta aggiornata il 27 ottobre.",
-        "Le richieste si presentano esclusivamente online e riguardano le linee già attive nei Municipi, nei limiti dei posti disponibili. Si utilizzano le fermate già previste dal Piano Trasporti, senza modificare percorsi e orari."
+        "Roma Servizi per la Mobilità ha aggiornato il 27 ottobre la pagina dedicata alle iscrizioni al trasporto scolastico. Le famiglie che non hanno presentato domanda nel periodo ordinario possono inoltrare una richiesta online per le linee già attive nel proprio municipio.",
+        "Non sono previste modifiche a percorsi, orari o fermate: l'ammissione dipende dai posti residui. La riapertura riguarda l'anno scolastico 2026/27, non un nuovo servizio aggiuntivo."
       ],
       "publishedAt": "2026-10-20",
-      "verifiedAt": "2026-10-27T12:35:41.468Z",
+      "verifiedAt": "2026-10-27T16:20:44.137Z",
       "source": {
         "name": "Roma Servizi per la Mobilità",
         "url": "https://romamobilita.it/primo-piano/trasporto-scolastico-2026-27-iscrizioni-di-nuovo-possibili-dal-27-ottobre/",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:35:41.468Z",
-        "dateEvidence": "Pagina ufficiale letta integralmente: pubblicato 20/10/2026, aggiornato 27/10/2026; testo conferma riapertura dal 27 ottobre, linee esistenti e posti disponibili.",
+        "accessCheckedAt": "2026-10-27T16:20:44.137Z",
+        "dateEvidence": "Pagina ufficiale pubblicata il 20/10/2026 e aggiornata il 27/10/2026; riapertura confermata dal 27 ottobre.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
+      "updatedAt": "2026-10-27",
+      "leadPriority": 84,
       "image": {
         "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bus_stop_in_Rome_01.jpg",
         "alt": "Fermata di autobus a Roma",
@@ -35,93 +38,99 @@
         "reuseApproved": true,
         "caption": "Repertorio · Trasporto pubblico a Roma, 2018. Non è uno scuolabus.",
         "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      }
+    },
+    {
+      "id": "roma-montespaccato-volontari",
+      "eventKey": "roma-montespaccato-tt-polis-giovani-pulizia-26-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Montespaccato, oltre quaranta giovani avviano un progetto di cura del quartiere",
+      "summary": "Il progetto T&T Polis parte con una giornata di volontariato civico e pulizia degli spazi pubblici.",
+      "body": [
+        "Oltre quaranta ragazze e ragazzi del Gruppo Sportivo Montespaccato hanno partecipato all'iniziativa «Terzo Tempo per Montespaccato», che ha inaugurato il percorso di partecipazione T&T Polis. La giornata si è svolta il 26 ottobre, mentre il resoconto ANSA è del 27.",
+        "Il programma punta a coinvolgere i giovani nella manutenzione e valorizzazione degli spazi comuni, nel quadro del Patto di Quartiere. All'attività ha partecipato anche Valerio Tuveri, noto come Mr. Tuvs."
+      ],
+      "publishedAt": "2026-10-27T11:13:00+01:00",
+      "verifiedAt": "2026-10-27T16:20:44.137Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/27/terzo-tempo-montespaccato-al-via-il-progetto-di-partecipazione-giovanile_4ce12976-f4a4-45a0-8155-b0ac282d404c.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:20:44.137Z",
+        "dateEvidence": "ANSA Lazio, 27 ottobre 2026 ore 11:13; iniziativa di volontariato svolta il 26 ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 80,
-      "updatedAt": "2026-10-27"
+      "eventDate": "2026-10-26"
     },
     {
-      "id": "roma-fascia-verde-proroga",
-      "eventKey": "roma-ztl-fascia-verde-proroga-restrizioni-2026-2027",
+      "id": "roma-unicamillus-camici",
+      "eventKey": "roma-unicamillus-white-coat-400-studenti-26-ottobre-2026",
       "category": "Roma",
       "status": "verified",
-      "title": "Fascia Verde, prorogate a Roma le limitazioni esistenti",
-      "summary": "La Regione Lazio ha approvato la richiesta di Roma Capitale di mantenere le restrizioni in vigore per il 2026/27 senza introdurne di nuove.",
+      "title": "UniCamillus, quattrocento studenti iniziano il tirocinio clinico",
+      "summary": "All'Auditorium della Conciliazione si è svolta la consegna dei camici bianchi agli studenti del quarto anno di Medicina.",
       "body": [
-        "La decisione è motivata dai dati di Arpa Lazio sulla qualità dell'aria. Il Comune riferisce il rispetto dei limiti normativi e una riduzione media del 2% delle concentrazioni di PM10 e biossido di azoto rispetto all'anno precedente."
+        "La White Coat Ceremony dell'università UniCamillus ha coinvolto 400 studenti del quarto anno, segnando il passaggio alla fase di tirocinio clinico. All'evento ha partecipato il ministro degli Esteri Antonio Tajani.",
+        "Il rettore Gianni Profita ha richiamato la responsabilità professionale degli studenti e il ruolo della formazione medica. La notizia è stata pubblicata il 26 ottobre, non il 27."
       ],
-      "publishedAt": "2026-10-24",
-      "verifiedAt": "2026-10-27T12:13:35.041Z",
+      "publishedAt": "2026-10-26T19:24:00+01:00",
+      "verifiedAt": "2026-10-27T16:20:44.137Z",
       "source": {
-        "name": "Roma Servizi per la Mobilità",
-        "url": "https://romamobilita.it/primo-piano/ztl-fascia-verde-prorogate-le-limitazioni-esistenti-per-il-2026-2027/",
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/cronaca/unicamillus-400-futuri-medici-indossano-il-camice-bianco-a-roma_3CpJ1IDV3Ej3eiGpvQemKB",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:13:35.041Z",
-        "dateEvidence": "Pubblicato 24/10/2026 e aggiornato il 27/10/2026; testo ufficiale riporta approvazione della Giunta regionale e proroga per il 2026/2027.",
+        "accessCheckedAt": "2026-10-27T16:20:44.137Z",
+        "dateEvidence": "Adnkronos, 26 ottobre 2026 ore 19:24, articolo integrale sulla White Coat Ceremony.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "roma-rapina-don-bosco-contanti",
-      "eventKey": "roma-rapina-don-bosco-contanti",
+      "id": "roma-dia-san-basilio-tufello",
+      "eventKey": "roma-dia-arresti-traffico-droga-estorsioni-27-ottobre-2026",
       "category": "Roma",
       "status": "verified",
-      "title": "Don Bosco, rapina al furgone dei contanti: indaga la Mobile",
-      "summary": "Sulla Tuscolana un vigilante è stato affrontato da un uomo armato.",
+      "title": "DIA, sei arresti nell'inchiesta sul narcotraffico tra San Basilio e Tufello",
+      "summary": "Sei persone sono state raggiunte da misure cautelari nell'indagine su traffico di droga ed estorsioni aggravate dal metodo mafioso.",
       "body": [
-        "Leggo riferisce di una rapina davanti a una farmacia in via Tuscolana, con un bottino di circa novemila euro. Secondo la prima ricostruzione è stato esploso un colpo a salve; nessuno sarebbe rimasto ferito. La polizia esamina le telecamere per identificare il responsabile."
+        "Secondo gli investigatori della Direzione investigativa antimafia, una rete avrebbe gestito rifornimenti di cocaina destinati all'area est di Roma anche dal carcere e durante una latitanza in Spagna.",
+        "L'inchiesta, coordinata dalla DDA romana, comprende un presunto tentativo di estorsione relativo a venti chili di cocaina e a un importo di 750mila euro. Le accuse sono ipotesi investigative e non condanne definitive."
       ],
-      "publishedAt": "2026-10-26T17:36:13+01:00",
-      "verifiedAt": "2026-10-27T13:32:37.126918+00:00",
+      "publishedAt": "2026-10-27T10:00:00+01:00",
+      "verifiedAt": "2026-10-27T16:20:44.137Z",
       "source": {
-        "name": "Leggo",
-        "url": "https://www.leggo.it/italia/roma/26_ottobre_2026_rapina_don_bosco_furgone_assalto_soldi_spari_farmacia_caccia_bandito_quanto_bottino-9849998.html",
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/27/6-arresti-a-roma-indagati-gestivano-traffico-di-droga-dal-carcere_ce225b8b-c034-4328-ae4d-2d61d0b0040f.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T13:32:37.126918+00:00",
-        "dateEvidence": "Pagina integrale letta; data di pubblicazione 2026-10-26T17:36:13+01:00; aggiornata 2026-10-26T17:37:18+0100.",
+        "accessCheckedAt": "2026-10-27T16:20:44.137Z",
+        "dateEvidence": "ANSA Lazio, 27 ottobre 2026 ore 10:00, testo integrale sui sei arresti della DIA.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "roma-sequestro-castel-giubileo-tevere",
-      "eventKey": "roma-sequestro-castel-giubileo-tevere",
-      "category": "Roma",
-      "status": "verified",
-      "title": "Castel Giubileo, sequestrata un’area abusiva lungo il Tevere",
-      "summary": "La Guardia di finanza segnala attività senza concessioni e carburante conservato senza le necessarie misure di sicurezza.",
-      "body": [
-        "Un’area di circa 27mila metri quadrati è stata sottoposta a sequestro preventivo. Leggo riferisce che i controlli hanno trovato anche una cisterna con circa 5.300 litri di gasolio e due lavoratori irregolari; le verifiche sulle altre posizioni proseguono."
-      ],
-      "publishedAt": "2026-10-26T19:57:47+01:00",
-      "verifiedAt": "2026-10-27T13:32:37.126918+00:00",
-      "source": {
-        "name": "Leggo",
-        "url": "https://www.leggo.it/italia/roma/26_ottobre_2026_castel_giubileo_tevere_guardia_finanza_benzina_pericolo_maxi_sequestro_ambiente_danno-9850180.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-27T13:32:37.126918+00:00",
-        "dateEvidence": "Pagina integrale letta; data di pubblicazione 2026-10-26T19:57:47+01:00; aggiornata 2026-10-26T20:00:11+0100.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "roma-sciopero-atac-30-ottobre",
+      "id": "roma-sciopero-usb-30-ottobre",
       "eventKey": "roma-sciopero-usb-trasporti-30-ottobre-2026",
       "category": "Roma",
       "status": "verified",
-      "title": "Roma, annunciato lo sciopero del trasporto pubblico del 30 ottobre",
-      "summary": "La mobilitazione nazionale Usb rischia di interrompere il servizio Atac e dei gestori privati: garantite le fasce fino alle 8:30 e dalle 17 alle 20.",
+      "title": "Sciopero Usb del 30 ottobre, aggiornate le fasce di garanzia a Roma",
+      "summary": "L'avviso di Roma Mobilità indica possibili interruzioni di bus e metro dalle 8:30 alle 17 e dalle 20 a fine servizio.",
       "body": [
-        "L'avviso di Roma Mobilità indica uno sciopero di 24 ore venerdì 30 ottobre. Le linee della rete urbana potranno fermarsi fra le fasce garantite, mentre potrebbero subire variazioni sportelli, contact center e collegamenti notturni. L'evento è futuro, l'avviso è stato aggiornato il 26 ottobre."
+        "La comunicazione ufficiale, pubblicata il 25 e aggiornata il 27 ottobre, riguarda lo sciopero nazionale Usb del 30 ottobre. Le fasce garantite per la rete cittadina sono l'avvio del servizio fino alle 8:29 e dalle 17 alle 19:59.",
+        "La Commissione di Garanzia ha chiesto una precettazione per il settore trasporti: l'effettivo svolgimento dell'agitazione resta quindi da seguire attraverso gli aggiornamenti ufficiali. La notizia riguarda una mobilitazione futura, non disservizi già verificatisi."
       ],
       "publishedAt": "2026-10-25",
-      "verifiedAt": "2026-10-27T12:13:35.041Z",
+      "verifiedAt": "2026-10-27T16:20:44.137Z",
       "source": {
         "name": "Roma Servizi per la Mobilità",
         "url": "https://romamobilita.it/primo-piano/scioperi-il-30-ottobre-agitazione-nazionale-indetta-da-usb-trasporto-pubblico-a-rischio/",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T12:13:35.041Z",
-        "dateEvidence": "Avviso pubblicato il 25/10/2026, aggiornato il 26/10, relativo allo sciopero futuro del 30/10/2026.",
+        "accessCheckedAt": "2026-10-27T16:20:44.137Z",
+        "dateEvidence": "Pagina Roma Mobilità pubblicata 25/10/2026, aggiornata 27/10/2026; evento previsto 30/10/2026.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
+      },
+      "updatedAt": "2026-10-27",
+      "dateKind": "event",
+      "eventDate": "2026-10-30"
     }
   ]
 }
