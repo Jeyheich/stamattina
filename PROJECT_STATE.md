@@ -28,3 +28,10 @@ Tutto Europe/Rome: tre attività rassegna, sei avvii giornalieri.
 - Verifica nuova edizione scarica una pubblicazione disponibile, non avvia ricerche. Controlla anche all'apertura/ritorno dopo cinque minuti.
 - Git locale main/HEAD v6 27e5adc conserva modifiche intenzionali e differisce dal remoto: verificare remoto prima di modificare; niente reset/push del vecchio checkout.
 - Test: node scripts/test_batches.mjs; node scripts/validate.mjs dist/data/current.json --production --balanced; node --check dist/app.js e dist/sw.js. Verifiche HTTP nel workflow prima della promozione.
+
+## Aggiornamento fonti approvato 27 ottobre
+- Politica/Cronaca: esclusi TGR regionali, priorità testate nazionali italiane (Sky TG24, ANSA, Open, Adnkronos/RaiNews nazionale e alternative gratuite).
+- Roma: Leggo oltre RomaToday/fonti ufficiali; preferire anche fatti diversi dai trasporti. Leggo feed Roma provato non affidabile come feed dedicato: raccolta home filtrata per riferimenti romani espliciti, revisione editoriale indispensabile.
+- Sport: calcio soprattutto italiano, F1, tennis e altri sport nazionali; rimossi feed BBC/Guardian Sport, esclusi riempitivi NFL/cricket. Aggiunti Sky Sport e Leggo Sport. Google News solo scoperta, link finale all'editore.
+- Sky TG24 feed usa guid al posto di link e date italiane, ora riconosciuti senza alterare evidenza originale. Il Post feed ha risposto 403: nessun aggiramento, disponibile solo se leggibile tramite ricerca diretta.
+- Preferenze applicate alla produzione futura; l'edizione pubblicata non viene riscritta attribuendo vecchi fatti a nuove fonti. Nessuna modifica UI o orari.
