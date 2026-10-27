@@ -1,15 +1,15 @@
 {
   "editionDate": "2026-10-27",
-  "checkedAt": "2026-10-27T15:11:11.845Z",
+  "checkedAt": "2026-10-27T15:12:10.657Z",
   "ready": false,
   "completed": [
     "politica",
     "esteri",
-    "economia"
+    "economia",
+    "cronaca"
   ],
   "inProgress": [],
   "missing": [
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -106,6 +106,36 @@
       "category": "Economia",
       "title": "Londra e Bruxelles preparano un'intesa su scambi e mobilità giovanile",
       "eventKey": "negoziati-commercio-uk-ue-vertice-novembre-2026"
+    },
+    {
+      "id": "cronaca-monza-omicidio-fermo",
+      "category": "Cronaca",
+      "title": "Monza, un uomo muore accoltellato dopo una lite: fermato un 38enne",
+      "eventKey": "monza-via-pisacane-omicidio-34enne-fermo-27-ottobre-2026"
+    },
+    {
+      "id": "cronaca-perugia-operaio-ventenne",
+      "category": "Cronaca",
+      "title": "Valtopina, operaio ventenne muore schiacciato da un rullo compressore",
+      "eventKey": "valtopina-operaio-20enne-morto-rullo-compressore-27-ottobre-2026"
+    },
+    {
+      "id": "cronaca-impagnatiello-premeditazione",
+      "category": "Cronaca",
+      "title": "Caso Tramontano, nell'appello bis riconosciuta la premeditazione",
+      "eventKey": "impagnatiello-appello-bis-premeditazione-giulia-tramontano-26-ottobre-2026"
+    },
+    {
+      "id": "cronaca-verona-treno-33enne",
+      "category": "Cronaca",
+      "title": "Verona Porta Nuova, muore un trentatreenne dopo una caduta sui binari",
+      "eventKey": "verona-porta-nuova-treno-morte-33enne-ottobre-2026"
+    },
+    {
+      "id": "cronaca-sardegna-ristoranti-senza-schermi",
+      "category": "Cronaca",
+      "title": "In Sardegna quindici ristoranti sperimentano pasti senza smartphone",
+      "eventKey": "sardegna-15-ristoranti-patto-volontario-senza-schermi-ottobre-2026"
     }
   ],
   "collectionId": "2026-10-27-pomeriggio",
