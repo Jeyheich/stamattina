@@ -1,12 +1,13 @@
 {
   "editionDate": "2026-10-27",
-  "checkedAt": "2026-10-27T16:04:53.814Z",
+  "checkedAt": "2026-10-27T16:05:40.571Z",
   "ready": false,
   "completed": [
     "politica",
     "esteri",
     "economia",
-    "cronaca"
+    "cronaca",
+    "sport"
   ],
   "inProgress": [
     {
@@ -16,8 +17,7 @@
   ],
   "missing": [
     "roma",
-    "cultura",
-    "sport"
+    "cultura"
   ],
   "invalid": [],
   "stories": [
@@ -154,6 +154,36 @@
       "category": "Cronaca",
       "title": "In Sardegna quindici ristoranti sperimentano pasti senza smartphone",
       "eventKey": "sardegna-15-ristoranti-patto-volontario-senza-schermi-ottobre-2026"
+    },
+    {
+      "id": "sport-pulisic-rinnovo-milan",
+      "category": "Sport",
+      "title": "Milan, vicino il rinnovo di Pulisic fino al 2031",
+      "eventKey": "milan-pulisic-accordo-rinnovo-2031-ottobre-2026"
+    },
+    {
+      "id": "sport-napoli-allegri-squalifica",
+      "category": "Sport",
+      "title": "Napoli, due turni di squalifica per Allegri: il club presenta ricorso",
+      "eventKey": "napoli-allegri-due-giornate-squalifica-ricorso-ottobre-2026"
+    },
+    {
+      "id": "sport-serie-a-nona-giornata",
+      "category": "Sport",
+      "title": "Serie A, turno infrasettimanale dal 27 al 29 ottobre",
+      "eventKey": "serie-a-nona-giornata-infrasettimanale-27-29-ottobre-2026"
+    },
+    {
+      "id": "sport-antonelli-austin-vittoria",
+      "category": "Sport",
+      "title": "Formula 1, Antonelli vince ad Austin e si avvicina al titolo",
+      "eventKey": "f1-antonelli-nona-vittoria-austin-gp-usa-2026"
+    },
+    {
+      "id": "sport-paolini-osaka-tokyo",
+      "category": "Sport",
+      "title": "Tennis, Paolini eliminata da Osaka al primo turno a Tokyo",
+      "eventKey": "tennis-paolini-osaka-eliminazione-tokyo-27-ottobre-2026"
     }
   ],
   "collectionId": "2026-10-27-pomeriggio",
@@ -182,8 +212,13 @@
       "id": "economia-hsbc-utili-trimestre",
       "category": "Economia",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:HSBC.Reza_01.jpg"
+    },
+    {
+      "id": "sport-pulisic-rinnovo-milan",
+      "category": "Sport",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg"
     }
   ],
-  "photosAvailable": 3,
+  "photosAvailable": 4,
   "needsPublication": false
 }
