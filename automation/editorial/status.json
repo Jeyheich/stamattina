@@ -1,13 +1,13 @@
 {
   "editionDate": "2026-10-27",
-  "checkedAt": "2026-10-27T15:09:00.821Z",
+  "checkedAt": "2026-10-27T15:09:37.857Z",
   "ready": false,
   "completed": [
-    "politica"
+    "politica",
+    "esteri"
   ],
   "inProgress": [],
   "missing": [
-    "esteri",
     "economia",
     "cronaca",
     "roma",
@@ -46,6 +46,36 @@
       "category": "Politica",
       "title": "Mattarella alle Regioni: difendere il carattere universale della sanità",
       "eventKey": "mattarella-priorita-tutela-servizio-sanitario-nazionale"
+    },
+    {
+      "id": "esteri-israele-elezioni-affluenza",
+      "category": "Esteri",
+      "title": "Israele alle urne, affluenza del 31,5% a mezzogiorno",
+      "eventKey": "elezioni-israele-27-ottobre-2026-affluenza-record"
+    },
+    {
+      "id": "esteri-gabon-prospector-5",
+      "category": "Esteri",
+      "title": "Gabon, affonda una piattaforma: un morto e quattro dispersi",
+      "eventKey": "gabon-prospector-5-affondamento-morto-dispersi-ottobre-2026"
+    },
+    {
+      "id": "esteri-kiev-ponte-dnipro",
+      "category": "Esteri",
+      "title": "Kiev, missili russi danneggiano il ponte meridionale",
+      "eventKey": "raid-russo-kiev-infrastrutture-27-ottobre-2026"
+    },
+    {
+      "id": "esteri-serbia-student-list-ue",
+      "category": "Esteri",
+      "title": "Serbia, dopo la vittoria degli studenti l'UE valuta i prossimi passi",
+      "eventKey": "serbia-student-list-vittoria-relazioni-ue-ottobre-2026"
+    },
+    {
+      "id": "esteri-brasile-lula-riconoscimento",
+      "category": "Esteri",
+      "title": "Brasile, il partito di Bolsonaro riconosce la vittoria di Lula",
+      "eventKey": "brasile-lula-quarto-mandato-ballottaggio-2026"
     }
   ],
   "collectionId": "2026-10-27-pomeriggio",
@@ -54,8 +84,13 @@
       "id": "politica-manovra-cdm-28-ottobre",
       "category": "Politica",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg"
+    },
+    {
+      "id": "esteri-israele-elezioni-affluenza",
+      "category": "Esteri",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG"
     }
   ],
-  "photosAvailable": 1,
+  "photosAvailable": 2,
   "needsPublication": false
 }
