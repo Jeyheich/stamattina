@@ -55,3 +55,8 @@ Tutto Europe/Rome: tre attività rassegna, sei avvii giornalieri.
 - Feed Lega Nerd generale/tecnologia e MegaNerd provati: HTTP 403. Home Lega Nerd leggibile con web, home MegaNerd bloccata al tentativo diretto; ricerca editoriale articolo per articolo necessaria. Non dichiarare collaudata la disponibilità di cinque notizie.
 - Raccolta ora usa soltanto i due editori per Tecnologia e conserva spazio per entrambi; se manca solo il pool RSS Tecnologia, consegna comunque il dossier degli altri sette e indica ricerca diretta richiesta. Nessuna deroga al gate finale: servono ancora otto blocchi/40 notizie/fonti realmente verificabili.
 - Rapporto 3/2 richiesto nei due brief letti dalle attività; nessun nuovo avvio o slot. Edizione attuale invariata fino alla produzione verificata successiva.
+
+## Tecnologia — decisione sostitutiva PromptOps/Everyeye
+- Fabio approva tre PromptOps e due Everyeye videogiochi; superata la precedente coppia Lega Nerd/MegaNerd. Wired Italia scartata: editoriale di chiusura 30 giugno 2026 e feed fermo a luglio.
+- Everyeye pagina, feed ufficiale feed_news_rss.asp e due articoli provati rispondono 200; contiene anche pubblicità/offerte da escludere. PromptOps feed news/rss.xml leggibile, ultimi elementi osservati 24 ottobre: non garantite tre notizie entro 72 ore, obbligatoria verifica della freschezza e fonte originale.
+- Configurazione aggiornata nei due brief letti dalle task e nel raccoglitore. Nessun nuovo slot/orario; UI ed edizione pubblica invariate fino a produzione valida. Non dichiarare completo il nuovo blocco prima del suo salvataggio e dei controlli.
