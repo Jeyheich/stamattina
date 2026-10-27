@@ -1,14 +1,14 @@
 {
   "editionDate": "2026-10-27",
-  "checkedAt": "2026-10-27T15:09:37.857Z",
+  "checkedAt": "2026-10-27T15:11:11.845Z",
   "ready": false,
   "completed": [
     "politica",
-    "esteri"
+    "esteri",
+    "economia"
   ],
   "inProgress": [],
   "missing": [
-    "economia",
     "cronaca",
     "roma",
     "cultura",
@@ -76,6 +76,36 @@
       "category": "Esteri",
       "title": "Brasile, il partito di Bolsonaro riconosce la vittoria di Lula",
       "eventKey": "brasile-lula-quarto-mandato-ballottaggio-2026"
+    },
+    {
+      "id": "economia-hsbc-utili-trimestre",
+      "category": "Economia",
+      "title": "HSBC aumenta gli utili del 32% e conferma la sede nel Regno Unito",
+      "eventKey": "hsbc-utili-terzo-trimestre-2026"
+    },
+    {
+      "id": "economia-imprese-uk-difficolta",
+      "category": "Economia",
+      "title": "Nel Regno Unito oltre 738 mila imprese segnalano difficoltà finanziarie",
+      "eventKey": "btg-imprese-uk-difficolta-q3-2026"
+    },
+    {
+      "id": "economia-prezzi-negozi-uk",
+      "category": "Economia",
+      "title": "Prezzi nei negozi britannici: l'inflazione accelera al 2,1%",
+      "eventKey": "inflazione-prezzi-negozi-uk-ottobre-2026"
+    },
+    {
+      "id": "economia-pompe-calore-sussidi",
+      "category": "Economia",
+      "title": "Pompe di calore, gli installatori britannici temono tagli agli incentivi",
+      "eventKey": "uk-pompe-calore-timori-taglio-sussidi-budget-ottobre-2026"
+    },
+    {
+      "id": "economia-commercio-uk-ue",
+      "category": "Economia",
+      "title": "Londra e Bruxelles preparano un'intesa su scambi e mobilità giovanile",
+      "eventKey": "negoziati-commercio-uk-ue-vertice-novembre-2026"
     }
   ],
   "collectionId": "2026-10-27-pomeriggio",
@@ -89,8 +119,13 @@
       "id": "esteri-israele-elezioni-affluenza",
       "category": "Esteri",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG"
+    },
+    {
+      "id": "economia-hsbc-utili-trimestre",
+      "category": "Economia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:HSBC.Reza_01.jpg"
     }
   ],
-  "photosAvailable": 2,
+  "photosAvailable": 3,
   "needsPublication": false
 }
