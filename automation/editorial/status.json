@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-27",
-  "checkedAt": "2026-10-27T16:27:41.900Z",
+  "checkedAt": "2026-10-27T16:49:17.011Z",
   "ready": true,
   "completed": [
     "politica",
@@ -255,18 +255,258 @@
       "category": "Sport",
       "title": "Tennis, Paolini eliminata da Osaka al primo turno a Tokyo",
       "eventKey": "tennis-paolini-osaka-eliminazione-tokyo-27-ottobre-2026"
+    },
+    {
+      "id": "extra-matone-forza-italia",
+      "category": "Politica",
+      "title": "Matone lascia la Lega e passa a Forza Italia",
+      "eventKey": "extra-matone-forza-italia-2026-10"
+    },
+    {
+      "id": "extra-mattarella-assisi-pace",
+      "category": "Politica",
+      "title": "Mattarella ad Assisi: la pace richiede l’impegno di tutti",
+      "eventKey": "extra-mattarella-assisi-pace-2026-10"
+    },
+    {
+      "id": "extra-salvini-congresso-lega",
+      "category": "Politica",
+      "title": "Il congresso conferma Salvini alla guida della Lega",
+      "eventKey": "extra-salvini-congresso-lega-2026-10"
+    },
+    {
+      "id": "extra-schlein-alleati-montepulciano",
+      "category": "Politica",
+      "title": "Schlein sollecita gli alleati a completare il programma comune",
+      "eventKey": "extra-schlein-alleati-montepulciano-2026-10"
+    },
+    {
+      "id": "extra-csm-rinnovo-voto",
+      "category": "Politica",
+      "title": "Rinnovo del Csm, dopo il voto dei togati tocca al Parlamento",
+      "eventKey": "extra-csm-rinnovo-voto-2026-10"
+    },
+    {
+      "id": "extra-putin-stubb-store-colloquio",
+      "category": "Esteri",
+      "title": "Stubb e Støre parlano con Putin, confronto sui negoziati",
+      "eventKey": "extra-putin-stubb-store-colloquio-2026-10"
+    },
+    {
+      "id": "extra-usa-midterm-sondaggi",
+      "category": "Esteri",
+      "title": "Midterm USA, sondaggi favorevoli ai democratici soprattutto alla Camera",
+      "eventKey": "extra-usa-midterm-sondaggi-2026-10"
+    },
+    {
+      "id": "extra-orban-onu-ipotesi-wsj",
+      "category": "Esteri",
+      "title": "Segreteria ONU, il Wall Street Journal prospetta un’ipotesi Orbán",
+      "eventKey": "extra-orban-onu-ipotesi-wsj-2026-10"
+    },
+    {
+      "id": "extra-hindu-kush-sisma",
+      "category": "Esteri",
+      "title": "Afghanistan, scossa nell’Hindu Kush avvertita anche a Kabul",
+      "eventKey": "extra-hindu-kush-sisma-2026-10"
+    },
+    {
+      "id": "extra-noaa-tagli-el-nino",
+      "category": "Esteri",
+      "title": "Tagli alla NOAA, gli esperti temono minori capacità di previsione",
+      "eventKey": "extra-noaa-tagli-el-nino-2026-10"
+    },
+    {
+      "id": "extra-webuild-ferrovia-zambia",
+      "category": "Economia",
+      "title": "Webuild selezionata come offerente preferito per la ferrovia in Zambia",
+      "eventKey": "extra-webuild-ferrovia-zambia-2026-10"
+    },
+    {
+      "id": "extra-taranto-nuove-iniziative-industriali",
+      "category": "Economia",
+      "title": "Ex Ilva, il governo valuta nuove iniziative industriali a Taranto",
+      "eventKey": "extra-taranto-nuove-iniziative-industriali-2026-10"
+    },
+    {
+      "id": "extra-konecta-solidarieta-lavoratori",
+      "category": "Economia",
+      "title": "Konecta annuncia un accordo di solidarietà per circa mille lavoratori",
+      "eventKey": "extra-konecta-solidarieta-lavoratori-2026-10"
+    },
+    {
+      "id": "extra-oxfam-dividendo-climatico",
+      "category": "Economia",
+      "title": "Oxfam: i grandi patrimoni guadagnano anche dalla ricostruzione climatica",
+      "eventKey": "extra-oxfam-dividendo-climatico-2026-10"
+    },
+    {
+      "id": "extra-uk-datacenter-consultazioni",
+      "category": "Economia",
+      "title": "Datacenter britannici, un’inchiesta contesta lo squilibrio delle consultazioni",
+      "eventKey": "extra-uk-datacenter-consultazioni-2026-10"
+    },
+    {
+      "id": "extra-kaufmann-richiesta-ergastolo",
+      "category": "Cronaca",
+      "title": "Villa Pamphili, la Procura chiede l’ergastolo per Kaufmann",
+      "eventKey": "extra-kaufmann-richiesta-ergastolo-2026-10"
+    },
+    {
+      "id": "extra-parco-dora-fermo",
+      "category": "Cronaca",
+      "title": "Omicidio al Parco Dora, fermato un sospettato",
+      "eventKey": "extra-parco-dora-fermo-2026-10"
+    },
+    {
+      "id": "extra-milano-denuncia-cadorna",
+      "category": "Cronaca",
+      "title": "Milano, una studentessa denuncia violenza sessuale a Cadorna",
+      "eventKey": "extra-milano-denuncia-cadorna-2026-10"
+    },
+    {
+      "id": "extra-ischia-arresti-violenze",
+      "category": "Cronaca",
+      "title": "Ischia, tre giovani in custodia cautelare per violenze su una persona disabile",
+      "eventKey": "extra-ischia-arresti-violenze-2026-10"
+    },
+    {
+      "id": "extra-siher-udienza-convalida",
+      "category": "Cronaca",
+      "title": "Milano, Siher non risponde al gip: decisione attesa il 28 ottobre",
+      "eventKey": "extra-siher-udienza-convalida-2026-10"
+    },
+    {
+      "id": "extra-roma-fascia-verde-proroga",
+      "category": "Roma",
+      "title": "Fascia Verde, prorogate le limitazioni già in vigore",
+      "eventKey": "extra-roma-fascia-verde-proroga-2026-10"
+    },
+    {
+      "id": "extra-don-bosco-rapina-furgone",
+      "category": "Roma",
+      "title": "Don Bosco, rapina a un furgone portavalori e fuga in scooter",
+      "eventKey": "extra-don-bosco-rapina-furgone-2026-10"
+    },
+    {
+      "id": "extra-castel-giubileo-sequestro",
+      "category": "Roma",
+      "title": "Castel Giubileo, sequestrata un’area di 27mila metri quadrati",
+      "eventKey": "extra-castel-giubileo-sequestro-2026-10"
+    },
+    {
+      "id": "extra-viadotto-presidenti-ciclopedonale",
+      "category": "Roma",
+      "title": "III Municipio, inaugurato il percorso del Viadotto dei Presidenti",
+      "eventKey": "extra-viadotto-presidenti-ciclopedonale-2026-10"
+    },
+    {
+      "id": "extra-ilaria-sula-genitori-udienza",
+      "category": "Roma",
+      "title": "Ilaria Sula, i genitori presenti all’udienza a Rebibbia",
+      "eventKey": "extra-ilaria-sula-genitori-udienza-2026-10"
+    },
+    {
+      "id": "extra-thin-line-mostra",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "The Thin Line: fotografie dalle crisi umanitarie",
+      "eventKey": "extra-thin-line-mostra-2026-10"
+    },
+    {
+      "id": "extra-memoria-fotografica-cappelletti",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Spazio Rossellini, vent’anni di fotografie di scena",
+      "eventKey": "extra-memoria-fotografica-cappelletti-2026-10"
+    },
+    {
+      "id": "extra-zalib-formazione-cinema",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Zalib, laboratorio di cinema per giovani dai 20 ai 35 anni",
+      "eventKey": "extra-zalib-formazione-cinema-2026-10"
+    },
+    {
+      "id": "extra-amici-braschi-fori-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "aMICi, visite a Palazzo Braschi e ai Fori Imperiali",
+      "eventKey": "extra-amici-braschi-fori-ottobre-2026-10"
+    },
+    {
+      "id": "extra-avincola-piji-concerti",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Avincola e Piji Siciliani in concerto a Palazzo Esposizioni",
+      "eventKey": "extra-avincola-piji-concerti-2026-10"
+    },
+    {
+      "id": "extra-mythos-aisi-valutazione",
+      "category": "Tecnologia · AI",
+      "title": "Sicurezza AI, nuovi dettagli sul test di Claude Mythos 5",
+      "eventKey": "extra-mythos-aisi-valutazione-2026-10"
+    },
+    {
+      "id": "extra-meloni-email-tentativo-attacco",
+      "category": "Tecnologia · AI",
+      "title": "Attacco all’email parlamentare di Meloni, accertamenti in corso",
+      "eventKey": "extra-meloni-email-tentativo-attacco-2026-10"
+    },
+    {
+      "id": "extra-imac-m6-annuncio",
+      "category": "Tecnologia · AI",
+      "title": "Apple presenta l’iMac M6: ordini dal 28 ottobre",
+      "eventKey": "extra-imac-m6-annuncio-2026-10"
+    },
+    {
+      "id": "extra-cyberpunk-titanfall-mod",
+      "category": "Tecnologia · AI",
+      "title": "Una mod porta il Titan di Titanfall in Cyberpunk 2077",
+      "eventKey": "extra-cyberpunk-titanfall-mod-2026-10"
+    },
+    {
+      "id": "extra-phantom-blade-preload-spazio",
+      "category": "Tecnologia · AI",
+      "title": "Phantom Blade Zero: 300 GB liberi per il preload su PC",
+      "eventKey": "extra-phantom-blade-preload-spazio-2026-10"
+    },
+    {
+      "id": "extra-spalletti-genoa-conferenza",
+      "category": "Sport",
+      "title": "Spalletti prepara Genoa–Juventus e avverte sulle insidie della trasferta",
+      "eventKey": "extra-spalletti-genoa-conferenza-2026-10"
+    },
+    {
+      "id": "extra-martin-sepang-recupero",
+      "category": "Sport",
+      "title": "MotoGP, Martin tenta il recupero per Sepang",
+      "eventKey": "extra-martin-sepang-recupero-2026-10"
+    },
+    {
+      "id": "extra-sinner-recupero-intervista",
+      "category": "Sport",
+      "title": "Sinner sul recupero: rispettare il corpo e avere pazienza",
+      "eventKey": "extra-sinner-recupero-intervista-2026-10"
+    },
+    {
+      "id": "extra-kane-pallone-oro",
+      "category": "Sport",
+      "title": "Pallone d’Oro a Kane, Lautaro chiude ventiduesimo",
+      "eventKey": "extra-kane-pallone-oro-2026-10"
+    },
+    {
+      "id": "extra-loftus-cheek-infortunio",
+      "category": "Sport",
+      "title": "Milan, lesione muscolare per Loftus-Cheek",
+      "eventKey": "extra-loftus-cheek-infortunio-2026-10"
     }
   ],
   "collectionId": "2026-10-27-pomeriggio",
   "reserveCounts": {
-    "Politica": 0,
-    "Esteri": 0,
-    "Economia": 0,
-    "Cronaca": 0,
-    "Roma": 0,
-    "Cultura · Teatro · Cinema": 0,
-    "Tecnologia · AI": 0,
-    "Sport": 0
+    "Politica": 5,
+    "Esteri": 5,
+    "Economia": 5,
+    "Cronaca": 5,
+    "Roma": 5,
+    "Cultura · Teatro · Cinema": 5,
+    "Tecnologia · AI": 5,
+    "Sport": 5
   },
   "photoCandidates": [
     {
@@ -301,9 +541,6 @@
     }
   ],
   "photosAvailable": 6,
-  "editionId": "2026-10-27-batches-56dc0c58fe91",
-  "needsPublication": false,
-  "publicVerifiedAt": "2026-10-27T16:28:25.300164+00:00",
-  "publicEditionId": "2026-10-27-batches-56dc0c58fe91",
-  "publication": "verified"
+  "editionId": "2026-10-27-batches-25240eef4798",
+  "needsPublication": true
 }
