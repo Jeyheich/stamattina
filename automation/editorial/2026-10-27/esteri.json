@@ -2,8 +2,6 @@
   "schemaVersion": 1,
   "editionDate": "2026-10-27",
   "category": "Esteri",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-10-27T11:52:30.076Z",
   "articles": [
     {
       "id": "esteri-raid-kiev-27-ottobre",
@@ -67,6 +65,49 @@
         "dateEvidence": "Cronaca in diretta Guardian del 27 ottobre, riepilogo finale e intervento di Bridget McKenzie sulla sicurezza.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "esteri-serbia-student-list-governo",
+      "eventKey": "serbia-student-list-trattative-governo-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Serbia, la Lista degli studenti prepara le trattative per il nuovo governo",
+      "summary": "Dopo la vittoria elettorale, il movimento privo di una leadership unica deve definire squadra e priorità di governo.",
+      "body": [
+        "Secondo il Guardian, pubblicato il 26 ottobre, la Student List ha ottenuto una vittoria elettorale netta e si prepara ad avviare i negoziati per formare il governo. Il movimento punta soprattutto a contrastare corruzione e condizionamento delle istituzioni."
+      ],
+      "publishedAt": "2026-10-26T17:46:00+01:00",
+      "verifiedAt": "2026-10-27T11:52:59.031Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/26/serbia-student-list-preparing-for-talks-on-forming-government-despite-no-clear-leader",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T11:52:59.031Z",
+        "dateEvidence": "La pagina Guardian mostra 'First published on Mon 26 Oct 2026 17.46 CET' e riporta l'avvio delle trattative.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-brasile-lula-vittoria",
+      "eventKey": "brasile-lula-quarto-mandato-ballottaggio-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Brasile, Lula conquista un quarto mandato dopo il ballottaggio",
+      "summary": "La commissione elettorale conferma la vittoria con il 51,79%; Flávio Bolsonaro contesta il risultato.",
+      "body": [
+        "Il Guardian del 26 ottobre riferisce che Lula ha rimontato lo svantaggio del primo turno e ha battuto Flávio Bolsonaro con il 51,79% contro il 48,21%. L'avversario ha chiesto di annullare il voto, senza riconoscere la sconfitta."
+      ],
+      "publishedAt": "2026-10-26T00:19:00Z",
+      "verifiedAt": "2026-10-27T11:52:59.031Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T11:52:59.031Z",
+        "dateEvidence": "Testo Guardian integrale: 'Mon 26 Oct 2026 00.19 GMT'; dati finali del ballottaggio e reazione di Bolsonaro presenti nell'articolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
-  ]
+  ],
+  "completedAt": "2026-10-27T11:52:59.031Z"
 }
