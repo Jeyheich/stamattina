@@ -174,6 +174,33 @@ def collect(age_hours=72, verify_pages=False, limit=12):
                 counts=counts, insufficientCategories=[c for c, n in counts.items() if n < 5],
                 candidates=unique, errors=errors)
 
+def serialize_report(report):
+    """Keep categories together and publish line ranges for bounded AI reads."""
+    header = {k: v for k, v in report.items() if k not in ('candidates', 'errors')}
+    header['categoryLineRanges'] = {c: {'start': 0, 'end': 0} for c in CATEGORIES}
+    header['candidates'] = sorted(report['candidates'], key=lambda a: CATEGORIES.index(a['category']))
+    header['errors'] = report['errors']
+    lines = json.dumps(header, ensure_ascii=False, indent=2).splitlines()
+    objects = []
+    for i, line in enumerate(lines):
+        if line.startswith('      "category": '):
+            category = json.loads(line.strip().removesuffix(',').split(': ', 1)[1])
+            start = i
+            while lines[start] != '    {':
+                start -= 1
+            objects.append((category, start + 1))
+    for j, (category, start) in enumerate(objects):
+        if j + 1 < len(objects):
+            end = objects[j + 1][1] - 1
+        else:
+            end = next(i for i in range(start, len(lines)) if lines[i] == '  ],')
+        bounds = header['categoryLineRanges'][category]
+        if not bounds['start']:
+            bounds['start'] = start
+        bounds['end'] = end
+    # Replacing numeric placeholders does not alter line positions.
+    return json.dumps(header, ensure_ascii=False, indent=2) + '\n'
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--output', type=Path, required=True)
@@ -185,7 +212,7 @@ if __name__ == '__main__':
         parser.error('Intervallo massimo 168 ore; almeno 5 candidati per categoria')
     report = collect(args.age_hours, args.verify_pages, args.limit)
     args.output.parent.mkdir(parents=True, exist_ok=True)
-    args.output.write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n')
+    args.output.write_text(serialize_report(report))
     print(json.dumps(dict(counts=report['counts'], insufficient=report['insufficientCategories'],
                           errors=len(report['errors']), output=str(args.output)), ensure_ascii=False))
     if report['insufficientCategories']:

@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'incoming/edition.json'
+      - 'automation/editorial/**'
       - 'dist/**'
       - 'scripts/**'
       - '.github/workflows/pages.yml'
@@ -26,17 +27,29 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: main
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Ricomponi i blocchi editoriali senza perdere progressi
+        id: batches
+        run: node scripts/assemble_batches.mjs
       - name: Rileva una nuova edizione proposta
         id: incoming
-        if: github.event_name == 'push'
         env:
           BEFORE: ${{ github.event.before }}
+          EVENT_NAME: ${{ github.event_name }}
+          BATCH_READY: ${{ steps.batches.outputs.ready }}
         run: |
-          if ! git diff --quiet "$BEFORE" "$GITHUB_SHA" -- incoming/edition.json; then
+          if [ "$BATCH_READY" = 'true' ]; then
             echo 'changed=true' >> "$GITHUB_OUTPUT"
+          elif [ "$EVENT_NAME" = 'push' ] && ! git diff --quiet "$BEFORE" "$GITHUB_SHA" -- incoming/edition.json; then
+            echo 'changed=true' >> "$GITHUB_OUTPUT"
+          fi
+          if [ "$EVENT_NAME" = 'workflow_dispatch' ]; then
+            echo 'ui=true' >> "$GITHUB_OUTPUT"
+          elif ! git diff --quiet "$BEFORE" "$GITHUB_SHA" -- dist scripts .github/workflows/pages.yml; then
+            echo 'ui=true' >> "$GITHUB_OUTPUT"
           fi
       - name: Controlla fonti, foto e date prima della pubblicazione
         if: steps.incoming.outputs.changed == 'true'
@@ -48,16 +61,20 @@ jobs:
         run: node scripts/validate.mjs dist/data/current.json --production
       - name: Conserva edizione e archivio validati
         run: |
-          if ! git diff --quiet -- dist/data; then
+          if [ -n "$(git status --porcelain -- dist/data incoming/edition.json automation/editorial/status.json)" ]; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git add dist/data
+            git add -- dist/data incoming/edition.json automation/editorial/status.json
             git commit -m 'Publish verified morning edition'
+            git pull --rebase origin main
             git push origin HEAD:main
           fi
       - uses: actions/configure-pages@v5
+        if: steps.incoming.outputs.changed == 'true' || steps.incoming.outputs.ui == 'true'
       - uses: actions/upload-pages-artifact@v3
+        if: steps.incoming.outputs.changed == 'true' || steps.incoming.outputs.ui == 'true'
         with:
           path: dist
       - id: deployment
         uses: actions/deploy-pages@v4
+        if: steps.incoming.outputs.changed == 'true' || steps.incoming.outputs.ui == 'true'

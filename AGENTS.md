@@ -10,3 +10,5 @@
 - Distribuzione: Pubblica Stamattina gestisce push dei dati/UI e avvio manuale. Il task cloud prepara incoming/edition.json; il workflow verifica, promuove e pubblica. Il vecchio daily.yml resta disattivato. Non riattivare il cron una tantum del 27 ottobre.
 
 - Raccolta cloud aggiuntiva autorizzata esplicitamente da Fabio: prepare-candidates.yml alle 06:00 Europe/Rome scrive solo automation/candidates/latest.json; il dossier è candidato, mai una verifica editoriale. Task 06:45 legge il dossier prima di fare ricerche.
+
+- Ultima approvazione: solo Plus già pagato + GitHub, zero costi aggiuntivi; Fabio autorizza quota condivisa e rivaluterà il carico. Scartata la proposta di API AI esterne. Produzione per blocchi di 5, salvati in automation/editorial/YYYY-MM-DD/slug.json; nessuna sostituzione dei blocchi validi. Procedura BATCH_BRIEF.md.

@@ -30,3 +30,9 @@
 - Due prove editoriali dopo il dossier non hanno prodotto la rassegna da 40. Prima: blocchi web su RaiNews/RomaToday/BBC nonostante HTTP valido. Seconda: alternative Adnkronos/Guardian/fonti ufficiali lette, ma la task ha comunque concluso prima di verificare tutte le categorie e foto. Nessun nuovo incoming o edizione pubblica; restano 13 articoli.
 - La sola task ChatGPT NON è dimostrata affidabile come produttore 40 notizie. Evitare ulteriori ripetizioni dello stesso prompt presentate come soluzione. La raccolta 06:00 è collaudata; la task 06:45 resta attiva ma non va promessa una consegna completa alle 07:30.
 - Chiesto a Fabio se il progetto deve restare totalmente gratuito o se valuta un preventivo per elaborazione AI via API sul server. Nessuna API/credenziale/servizio a pagamento introdotto o chiamato. Attendere questa scelta prima di introdurre nuove integrazioni o spese.
+
+## Nuova decisione approvata — blocchi e quota Plus
+- Fabio conferma: uso personale, zero costi aggiuntivi; autorizza una parte della quota Plus già pagata e rivaluterà se il carico è eccessivo. Scartati altri modelli/API a pagamento.
+- Autorizzato procedere: blocchi indipendenti da 5 notizie, checkpoint per categoria, riuso dei blocchi completati; assemblaggio GitHub solo dopo tutte 8 categorie e 5 foto. BATCH_BRIEF.md è la procedura attuale.
+- Pronti localmente assemblatore, workflow Pages con attesa dei blocchi e finestre di lettura del dossier per categoria. Test puri superati: 7 blocchi non pubblicano, 8 validi formano 40 notizie/35 compatte/5 principali; duplicati, date/foto mancanti bloccano. Fixture solo in memoria.
+- Da fare: pubblicare codice, provare un blocco reale da Plus, poi completare e verificare 40; configurare la scansione delle categorie senza mantenere il vecchio compito monolitico. Non dichiarare collaudato il nuovo flusso prima dell’esito pubblico.

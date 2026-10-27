@@ -1,3 +1,6 @@
+# MODALITÀ CORRENTE: BLOCCHI DA CINQUE
+La richiesta più recente sostituisce la produzione monolitica descritta sotto. Leggere automation/BATCH_BRIEF.md: ogni task scrive soltanto il proprio blocco editoriale. scripts/assemble_batches.mjs produce incoming/edition.json dopo otto blocchi validi e almeno cinque foto. Restano le regole editoriali, di accessibilità delle fonti, date e licenze. Solo quota Plus autorizzata + GitHub; nessuna API esterna o costo aggiuntivo.
+
 # Rassegna quotidiana cloud — obiettivo 07:30 Europe/Rome
 
 La richiesta di Fabio è una rassegna nuova ogni mattina, disponibile nella PWA anche con il Mac spento. L'orario precedente 09:33 è superato. La raccolta deve iniziare alle 06:45 Europe/Rome per lasciare tempo ai controlli e alla pubblicazione; le 07:30 sono l'obiettivo di disponibilità, non la sola ora di avvio. Non usare dipendenze da file o processi del Mac.

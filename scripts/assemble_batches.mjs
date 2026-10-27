@@ -1,0 +1,79 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import crypto from 'node:crypto';
+import assert from 'node:assert/strict';
+import {fileURLToPath} from 'node:url';
+import {validate} from './validate.mjs';
+
+export const categories = [
+  ['politica','Politica'],['esteri','Esteri'],['economia','Economia'],
+  ['cronaca','Cronaca'],['roma','Roma'],['cultura','Cultura · Teatro · Cinema'],
+  ['tecnologia','Tecnologia · AI'],['sport','Sport'],
+];
+export const romeDay = (date=new Date()) => new Intl.DateTimeFormat('sv-SE',{timeZone:'Europe/Rome'}).format(date);
+function recent(value,now){const t=Date.parse(value);assert(Number.isFinite(t),'Data di verifica mancante');assert(t<=now+300000&&now-t<=10800000,'Verifica scaduta o futura');}
+export function validateBlock(block,slug,today,now=Date.now()){
+  const name=categories.find(([s])=>s===slug)?.[1];
+  assert(name,'Categoria sconosciuta');assert.equal(block.schemaVersion,1);
+  assert.equal(block.editionDate,today,'Blocco di un altro giorno');
+  assert.equal(block.category,name,'Categoria del file errata');recent(block.completedAt,now);
+  assert(Array.isArray(block.articles)&&block.articles.length===5,'Il blocco deve contenere 5 notizie distinte');
+  for(const a of block.articles){
+    assert.equal(a.category,name);assert.equal(a.status,'verified');
+    assert(typeof a.id==='string'&&/^[a-z0-9][a-z0-9-]{2,100}$/.test(a.id),'ID non valido');
+    assert(typeof a.eventKey==='string'&&/^[a-z0-9][a-z0-9-]{5,160}$/.test(a.eventKey),'Manca eventKey del fatto');
+    assert(a.title?.trim()&&a.summary?.trim(),'Titolo o sintesi mancanti');
+    assert(Array.isArray(a.body)&&a.body.length&&a.body.every(p=>typeof p==='string'&&p.trim()),'Approfondimento mancante');
+    assert(Number.isFinite(Date.parse(a.publishedAt)),'Data fonte mancante');
+    if(a.dateKind!=='event')assert(Date.parse(a.publishedAt)<=now+300000,'Pubblicazione futura');
+    recent(a.verifiedAt,now);recent(a.source?.accessCheckedAt,now);
+    assert.equal(a.source?.access,'free');assert.equal(new URL(a.source.url).protocol,'https:');
+    assert(a.source.name?.trim()&&a.source.dateEvidence?.length>=20&&a.source.reviewedBy?.trim(),'Evidenze fonte incomplete');
+    if(a.image){
+      for(const k of ['src','sourceUrl','credit','rights','licenseUrl','caption','alt'])assert(a.image[k]?.trim(),'Metadato foto mancante: '+k);
+      assert.equal(a.image.reuseApproved,true);assert.equal(new URL(a.image.src).protocol,'https:');
+      assert(a.body.length>=2,'Una candidata principale con foto richiede almeno due paragrafi');
+    }
+  }
+  assert.equal(new Set(block.articles.map(a=>a.id)).size,5,'ID ripetuti');
+  assert.equal(new Set(block.articles.map(a=>a.eventKey)).size,5,'Stesso fatto ripetuto');
+  return block;
+}
+export function assemble(blocks,today=romeDay(),now=Date.now()){
+  const state={editionDate:today,checkedAt:new Date(now).toISOString(),ready:false,completed:[],missing:[],invalid:[],stories:[]};
+  const articles=[];
+  for(const [slug,name] of categories){
+    if(!blocks[slug]){state.missing.push(slug);continue;}
+    try{validateBlock(blocks[slug],slug,today,now);state.completed.push(slug);articles.push(...blocks[slug].articles);}
+    catch(e){state.invalid.push({slug,reason:e.message});}
+  }
+  state.stories=articles.map(({id,category,title,eventKey})=>({id,category,title,eventKey}));
+  if(state.missing.length||state.invalid.length)return {state};
+  try{
+    assert.equal(new Set(articles.map(a=>a.id)).size,40,'ID duplicati tra categorie');
+    assert.equal(new Set(articles.map(a=>a.eventKey)).size,40,'Fatto duplicato tra categorie');
+    const photoSources=new Set();
+    const photoCandidates=articles.filter(a=>a.image).sort((a,b)=>(b.leadPriority||0)-(a.leadPriority||0)).filter(a=>{const key=a.image.sourceUrl;if(photoSources.has(key))return false;photoSources.add(key);return true;});
+    state.photosAvailable=photoCandidates.length;
+    if(photoCandidates.length<5){state.photosMissing=5-photoCandidates.length;return {state};}
+    const leadIds=photoCandidates.slice(0,5).map(a=>a.id),leadSet=new Set(leadIds);
+    const fingerprint=crypto.createHash('sha256').update(JSON.stringify(articles)).digest('hex').slice(0,12);
+    // Derive the date's UTC offset from Europe/Rome; do not assume winter time.
+    const offset=new Intl.DateTimeFormat('en',{timeZone:'Europe/Rome',timeZoneName:'longOffset'}).formatToParts(new Date(today+'T12:00:00Z')).find(x=>x.type==='timeZoneName').value.replace('GMT','');
+    const edition={schemaVersion:1,id:today+'-batches-'+fingerprint,mode:'live',editionDate:today,
+      generatedAt:new Date(now).toISOString(),timezone:'Europe/Rome',scheduledFor:today+'T07:30:00'+offset,
+      essentialIds:leadIds,leadIds,compactIds:articles.filter(a=>!leadSet.has(a.id)).map(a=>a.id),articles};
+    validate(edition,true,true);state.ready=true;state.editionId=edition.id;return {state,edition};
+  }catch(e){state.invalid.push({slug:'edition',reason:e.message});return {state};}
+}
+if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url)){
+  const today=romeDay(),root=process.argv[2]||'automation/editorial';const blocks={};
+  for(const [slug] of categories){const file=path.join(root,today,slug+'.json');if(fs.existsSync(file)){try{blocks[slug]=JSON.parse(fs.readFileSync(file));}catch(e){blocks[slug]={schemaVersion:0,error:e.message};}}}
+  const result=assemble(blocks,today);fs.mkdirSync(root,{recursive:true});
+  const current=fs.existsSync('dist/data/current.json')?JSON.parse(fs.readFileSync('dist/data/current.json')):null;
+  result.state.needsPublication=!!result.edition&&current?.id!==result.edition.id;
+  fs.writeFileSync(path.join(root,'status.json'),JSON.stringify(result.state,null,2)+'\n');
+  if(result.state.needsPublication){fs.mkdirSync('incoming',{recursive:true});fs.writeFileSync('incoming/edition.json',JSON.stringify(result.edition,null,2)+'\n');}
+  if(process.env.GITHUB_OUTPUT)fs.appendFileSync(process.env.GITHUB_OUTPUT,'ready='+String(result.state.needsPublication)+'\n');
+  console.log(JSON.stringify(result.state));
+}
