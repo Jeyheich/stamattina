@@ -3,7 +3,7 @@
   "editionDate": "2026-10-27",
   "collectionId": "2026-10-27-pomeriggio",
   "category": "Cronaca",
-  "completedAt": "2026-10-27T15:11:55.171Z",
+  "completedAt": "2026-10-27T16:47:42.029174+00:00",
   "articles": [
     {
       "id": "cronaca-monza-omicidio-fermo",
@@ -38,16 +38,15 @@
         "Il giovane lavorava alla manutenzione di una strada e, secondo una prima ricostruzione, avrebbe perso l'equilibrio mentre si trovava su un rullo per compattare l'asfalto. I soccorritori non hanno potuto salvarlo.",
         "I carabinieri stanno ricostruendo l'accaduto; le cause esatte e le eventuali responsabilità non risultano ancora accertate."
       ],
-      "publishedAt": "2026-10-27",
-      "updatedAt": "2026-10-27T12:38:00+01:00",
-      "verifiedAt": "2026-10-27T15:11:55.171Z",
+      "publishedAt": "2026-10-27T11:19:01.000Z",
+      "verifiedAt": "2026-10-27T16:47:41.963199+00:00",
       "source": {
-        "name": "Il Fatto Quotidiano",
-        "url": "https://www.ilfattoquotidiano.it/2026/10/27/morte-lavoro-perugia-operaio-notizie/8551268/",
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/cronaca/perugia-morto-operaio-20-anni-rullo-compressore_3bZs1UUDbERLKdxvBCaf74",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T15:11:55.171Z",
-        "dateEvidence": "Il Fatto Quotidiano: articolo integrale e gratuito datato 27 ottobre 2026, aggiornamento indicato alle 12:38; Valtopina, 20 anni e rullo compressore.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
+        "accessCheckedAt": "2026-10-27T16:47:41.963199+00:00",
+        "dateEvidence": "Articolo integrale letto: 27 ottobre 2026 ore 12:19; metadati datePublished 2026-10-27T11:19:01.000Z. Descrive Valtopina e il rullo compressore.",
+        "reviewedBy": "Lola — verifica fonte gratuita sostitutiva"
       }
     },
     {
@@ -113,6 +112,113 @@
         "accessCheckedAt": "2026-10-27T15:11:55.171Z",
         "dateEvidence": "ANSA Sardegna, articolo integrale del 26 ottobre 2026; progetto della garante e Fipe, 15 ristoranti e adesione volontaria.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "extra-kaufmann-richiesta-ergastolo",
+      "eventKey": "extra-kaufmann-richiesta-ergastolo-2026-10",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Villa Pamphili, la Procura chiede l’ergastolo per Kaufmann",
+      "summary": "La richiesta riguarda il duplice omicidio di Anastasia e della figlia. È la posizione dell’accusa, non una sentenza.",
+      "body": [
+        "RaiNews riferisce della richiesta di ergastolo con isolamento diurno avanzata dalla Procura di Roma per Francis Kaufmann. L’uomo è imputato per la morte della compagna e della bambina, trovate nel parco nel giugno 2025. Le responsabilità contestate devono essere valutate dal tribunale."
+      ],
+      "publishedAt": "2026-10-26T13:37:39+00:00",
+      "verifiedAt": "2026-10-27T16:40:06.927806+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/10/cronaca-la-procura-chiede-ergastolo-per-kaufmann-duplice-omicidio-anastasia-e-della-figlia-di-14-mesi-fbcc2336-4965-4712-9cbc-b18cbe4c3851.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:06.927806+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-26T13:37:39+00:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-parco-dora-fermo",
+      "eventKey": "extra-parco-dora-fermo-2026-10",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Omicidio al Parco Dora, fermato un sospettato",
+      "summary": "ANSA riferisce dell’individuazione di un uomo di 46 anni nell’indagine per la morte di un giovane a Torino.",
+      "body": [
+        "Il giovane era stato accoltellato il 23 ottobre e trasportato in ospedale, dove è morto. La notizia del fermo è del 26 ottobre. Secondo gli elementi investigativi riportati da ANSA, il movente potrebbe riguardare lo spaccio; si tratta di una ricostruzione d’indagine, non di un accertamento definitivo."
+      ],
+      "publishedAt": "2026-10-26T12:29:00+01:00",
+      "verifiedAt": "2026-10-27T16:43:21.036239+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/piemonte/notizie/2026/10/26/accoltellato-e-ucciso-in-un-parco-a-torino-fermato-il-presunto-assassino_a27f311f-bc23-4b5c-aec6-33f758f72520.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:43:21.036239+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-26T12:29:00+01:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-milano-denuncia-cadorna",
+      "eventKey": "extra-milano-denuncia-cadorna-2026-10",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Milano, una studentessa denuncia violenza sessuale a Cadorna",
+      "summary": "La Iulm precisa che il campus è stato il luogo della richiesta di aiuto, non quello dell’aggressione denunciata.",
+      "body": [
+        "Adnkronos riferisce della denuncia presentata da una diciannovenne il 26 ottobre. Secondo il racconto della giovane, l’episodio sarebbe avvenuto nel mezzanino della metropolitana di Cadorna. L’università ha attivato i soccorsi; gli investigatori stanno verificando dinamica e riscontri."
+      ],
+      "publishedAt": "2026-10-26T21:22:54.000Z",
+      "verifiedAt": "2026-10-27T16:40:07.572283+00:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/cronaca/milano-studentessa-denuncia-violenza-sessuale_3M87FRZVdO7irwrs5fJQPg",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:07.572283+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-26T21:22:54.000Z.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-ischia-arresti-violenze",
+      "eventKey": "extra-ischia-arresti-violenze-2026-10",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Ischia, tre giovani in custodia cautelare per violenze su una persona disabile",
+      "summary": "L’ordinanza del gip segue la denuncia della vittima e gli accertamenti della polizia sui dispositivi degli indagati.",
+      "body": [
+        "Adnkronos riferisce che tre ventenni sono stati raggiunti da una misura cautelare in carcere. Le accuse comprendono tortura, violenza sessuale e diffusione illecita di video. L’indagine, coordinata dalla Procura di Napoli, è nella fase cautelare: le accuse non equivalgono a condanne definitive."
+      ],
+      "publishedAt": "2026-10-26T12:17:00.000Z",
+      "verifiedAt": "2026-10-27T16:40:08.791400+00:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/cronaca/disabile-torturato-violentato-filmato_1PjVkhmQCYs6zk5dUl9ctA",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:08.791400+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-26T12:17:00.000Z.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-siher-udienza-convalida",
+      "eventKey": "extra-siher-udienza-convalida-2026-10",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Milano, Siher non risponde al gip: decisione attesa il 28 ottobre",
+      "summary": "La Procura chiede la convalida del fermo e il carcere; i difensori contestano le accuse e chiedono la liberazione.",
+      "body": [
+        "Sky TG24 riferisce che Youssef Siher si è avvalso della facoltà di non rispondere durante l’udienza. I pm contestano istigazione a delinquere con aggravanti; la difesa nega condotte penalmente rilevanti. Nell’aggiornamento del 27 ottobre la decisione della giudice risulta ancora attesa entro il giorno seguente."
+      ],
+      "publishedAt": "2026-10-27T08:34:18.569+01:00",
+      "verifiedAt": "2026-10-27T16:40:07.296974+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/27/youssef-siher-interrogatorio-oggi",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:07.296974+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-27T08:34:18.569+01:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
       }
     }
   ]

@@ -3,7 +3,7 @@
   "editionDate": "2026-10-27",
   "collectionId": "2026-10-27-pomeriggio",
   "category": "Cultura · Teatro · Cinema",
-  "completedAt": "2026-10-27T16:21:01.697Z",
+  "completedAt": "2026-10-27T16:47:42.030857+00:00",
   "articles": [
     {
       "id": "cultura-pasolini-porta-portese",
@@ -135,6 +135,123 @@
         "dateEvidence": "Culture Roma: evento 27 e 28 ottobre 2026 ore 21 al Teatro Tor Bella Monaca, data editoriale non indicata.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "extra-thin-line-mostra",
+      "eventKey": "extra-thin-line-mostra-2026-10",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "The Thin Line: fotografie dalle crisi umanitarie",
+      "summary": "Dal 28 ottobre al 21 febbraio, la mostra riunisce reportage di Alessio Romenzi e Christian Tasso realizzati con INTERSOS.",
+      "body": [
+        "Il calendario ufficiale Culture Roma annuncia un percorso fotografico attraverso emergenze documentate in Libano, Iraq, Ucraina, Afghanistan, Nigeria e Ciad. Apertura indicata dal martedì alla domenica, 10–20, ultimo ingresso alle 19. Sono date dell’evento; prima della visita vanno controllati avvisi e condizioni d’ingresso nella fonte."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-27T16:40:08.552310+00:00",
+      "source": {
+        "name": "Culture Roma – Roma Capitale",
+        "url": "https://culture.roma.it/appuntamento/the-thin-line/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:08.552310+00:00",
+        "dateEvidence": "Scheda ufficiale letta: data evento 2026-10-28; distinta dalla pubblicazione editoriale 2026-10-19T08:06:09+00:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      },
+      "dateKind": "event",
+      "eventDate": "2026-10-28"
+    },
+    {
+      "id": "extra-memoria-fotografica-cappelletti",
+      "eventKey": "extra-memoria-fotografica-cappelletti-2026-10",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Spazio Rossellini, vent’anni di fotografie di scena",
+      "summary": "Dal 30 ottobre al 1° novembre, Una memoria fotografica 2004–2025 ripercorre il Premio Dante Cappelletti.",
+      "body": [
+        "La mostra curata da Michele Tomaiuoli raccoglie immagini delle precedenti diciannove edizioni del premio. Culture Roma la colloca allo Spazio Rossellini, in via della Vasca Navale 58, con programma dalle 15. Il calendario dell’evento è distinto dalla data di pubblicazione della scheda; modalità e variazioni vanno verificate presso gli organizzatori."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-10-27T16:40:09.295998+00:00",
+      "source": {
+        "name": "Culture Roma – Roma Capitale",
+        "url": "https://culture.roma.it/appuntamento/una-memoria-fotografica-2004-2025/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:09.295998+00:00",
+        "dateEvidence": "Scheda ufficiale letta: data evento 2026-10-30; distinta dalla pubblicazione editoriale 2026-10-16T07:56:23+00:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      },
+      "dateKind": "event",
+      "eventDate": "2026-10-30"
+    },
+    {
+      "id": "extra-zalib-formazione-cinema",
+      "eventKey": "extra-zalib-formazione-cinema-2026-10",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Zalib, laboratorio di cinema per giovani dai 20 ai 35 anni",
+      "summary": "Il percorso con Borotalco TV prevede dieci incontri; il calendario indica il primo appuntamento il 28 ottobre dalle 18 alle 20.",
+      "body": [
+        "La scheda di Culture Roma presenta un percorso per venti partecipanti, tra teoria e attività pratiche sui mestieri del cinema. Il primo incontro è dedicato alla costruzione della troupe. La presenza nel calendario non certifica posti ancora disponibili: contatti e condizioni di partecipazione sono nella fonte ufficiale."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-27T16:40:10.030022+00:00",
+      "source": {
+        "name": "Culture Roma – Roma Capitale",
+        "url": "https://culture.roma.it/appuntamento/formazione-cinema-2/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:10.030022+00:00",
+        "dateEvidence": "Scheda ufficiale letta: data evento 2026-10-28; distinta dalla pubblicazione editoriale 2026-09-04T11:22:54+00:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      },
+      "dateKind": "event",
+      "eventDate": "2026-10-28"
+    },
+    {
+      "id": "extra-amici-braschi-fori-ottobre",
+      "eventKey": "extra-amici-braschi-fori-ottobre-2026-10",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "aMICi, visite a Palazzo Braschi e ai Fori Imperiali",
+      "summary": "Il 29 ottobre alle 17 a Palazzo Braschi e il 30 alle 10 ai Fori: attività per titolari MiC card con prenotazione.",
+      "body": [
+        "Culture Roma segnala due prossimi appuntamenti del ciclo aMICi: I colori maturano la notte al Museo di Roma e una visita ai Fori Imperiali. La partecipazione è gratuita per i possessori della MiC card, con prenotazione obbligatoria allo 060608. La disponibilità effettiva va confermata al momento della prenotazione."
+      ],
+      "publishedAt": "2026-10-29",
+      "verifiedAt": "2026-10-27T16:40:10.671961+00:00",
+      "source": {
+        "name": "Culture Roma – Roma Capitale",
+        "url": "https://culture.roma.it/appuntamento/amici-appuntamenti-del-27-29-e-30-ottobre-2026/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:10.671961+00:00",
+        "dateEvidence": "Scheda ufficiale letta: data evento 2026-10-29; distinta dalla pubblicazione editoriale 2026-10-12T09:30:56+00:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      },
+      "dateKind": "event",
+      "eventDate": "2026-10-29"
+    },
+    {
+      "id": "extra-avincola-piji-concerti",
+      "eventKey": "extra-avincola-piji-concerti-2026-10",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Avincola e Piji Siciliani in concerto a Palazzo Esposizioni",
+      "summary": "Il programma ufficiale indica il 28 ottobre alle 17:30 due esibizioni chitarra e voce dedicate ai loro progetti discografici.",
+      "body": [
+        "Palazzo Esposizioni presenta due concerti di circa mezz’ora ciascuno, preceduti dalla consegna delle Targhe Romasuona. Gli artisti portano percorsi differenti della canzone d’autore. Il riferimento temporale è la data dell’evento; per accesso e disponibilità occorre consultare la scheda dell’organizzatore."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-27T16:40:09.942455+00:00",
+      "source": {
+        "name": "Palazzo Esposizioni Roma",
+        "url": "https://www.palazzoesposizioniroma.it/evento/simone-avincola-e-piji-siciliani",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:09.942455+00:00",
+        "dateEvidence": "Scheda ufficiale letta: data evento 2026-10-28; distinta dalla pubblicazione editoriale non indicata.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      },
+      "dateKind": "event",
+      "eventDate": "2026-10-28"
     }
   ]
 }

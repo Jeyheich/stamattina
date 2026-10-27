@@ -3,7 +3,7 @@
   "editionDate": "2026-10-27",
   "collectionId": "2026-10-27-pomeriggio",
   "category": "Roma",
-  "completedAt": "2026-10-27T16:20:44.137Z",
+  "completedAt": "2026-10-27T16:47:42.030008+00:00",
   "articles": [
     {
       "id": "roma-trasporto-scolastico-riapertura",
@@ -131,6 +131,115 @@
       "updatedAt": "2026-10-27",
       "dateKind": "event",
       "eventDate": "2026-10-30"
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "extra-roma-fascia-verde-proroga",
+      "eventKey": "extra-roma-fascia-verde-proroga-2026-10",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Fascia Verde, prorogate le limitazioni già in vigore",
+      "summary": "Roma Mobilità conferma per il 2026–2027 le misure esistenti, senza nuove restrizioni nel provvedimento descritto.",
+      "body": [
+        "La pagina ufficiale, pubblicata il 24 ottobre e aggiornata il 27, riferisce della proroga approvata dalla Regione Lazio su richiesta del Campidoglio. Restano validi i divieti già previsti: per verificare il proprio veicolo occorre consultare il dettaglio ufficiale delle limitazioni, collegato nella fonte."
+      ],
+      "publishedAt": "2026-10-24",
+      "verifiedAt": "2026-10-27T16:40:07.461468+00:00",
+      "source": {
+        "name": "Roma Mobilità",
+        "url": "https://romamobilita.it/primo-piano/ztl-fascia-verde-prorogate-le-limitazioni-esistenti-per-il-2026-2027/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:07.461468+00:00",
+        "dateEvidence": "Pagina ufficiale: pubblicato il 2026-10-24; aggiornato il 27/10/2026. Data originaria conservata.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      },
+      "updatedAt": "2026-10-27"
+    },
+    {
+      "id": "extra-don-bosco-rapina-furgone",
+      "eventKey": "extra-don-bosco-rapina-furgone-2026-10",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Don Bosco, rapina a un furgone portavalori e fuga in scooter",
+      "summary": "Leggo riferisce di novemila euro sottratti e di un colpo a salve usato per intimidire il vigilante.",
+      "body": [
+        "L’articolo del 26 ottobre descrive la rapina e la successiva fuga del responsabile su uno scooter. Nessuno risulterebbe ferito. Gli investigatori stanno esaminando le immagini delle telecamere per ricostruire il percorso del fuggitivo e verificare l’eventuale presenza di complici."
+      ],
+      "publishedAt": "2026-10-26T17:36:13+01:00",
+      "verifiedAt": "2026-10-27T16:40:07.751682+00:00",
+      "source": {
+        "name": "Leggo",
+        "url": "https://www.leggo.it/italia/roma/26_ottobre_2026_rapina_don_bosco_furgone_assalto_soldi_spari_farmacia_caccia_bandito_quanto_bottino-9849998.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:07.751682+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-26T17:36:13+01:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-castel-giubileo-sequestro",
+      "eventKey": "extra-castel-giubileo-sequestro-2026-10",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Castel Giubileo, sequestrata un’area di 27mila metri quadrati",
+      "summary": "La Guardia di finanza interviene su strutture lungo il Tevere che, secondo gli accertamenti, erano prive di concessioni.",
+      "body": [
+        "Leggo riferisce del sequestro preventivo di un complesso nelle aree golenali del Tevere, soggette a vincoli ambientali. Nelle strutture si svolgevano attività economiche e sportive. Gli accertamenti citati ipotizzano oltre un milione di euro di canoni non versati alla Regione."
+      ],
+      "publishedAt": "2026-10-26T19:57:47+01:00",
+      "verifiedAt": "2026-10-27T16:40:08.222408+00:00",
+      "source": {
+        "name": "Leggo",
+        "url": "https://www.leggo.it/italia/roma/26_ottobre_2026_castel_giubileo_tevere_guardia_finanza_benzina_pericolo_maxi_sequestro_ambiente_danno-9850180.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:08.222408+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-26T19:57:47+01:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-viadotto-presidenti-ciclopedonale",
+      "eventKey": "extra-viadotto-presidenti-ciclopedonale-2026-10",
+      "category": "Roma",
+      "status": "verified",
+      "title": "III Municipio, inaugurato il percorso del Viadotto dei Presidenti",
+      "summary": "Il nuovo itinerario ciclopedonale misura 2,7 chilometri e interessa l’asse Saragat–Gronchi fino a Fucini–Bufalotta.",
+      "body": [
+        "La pagina ufficiale di Roma Mobilità, aggiornata il 27 ottobre, descrive il nuovo collegamento nel III Municipio. L’opera è finanziata con risorse europee NextGenerationEU del PNRR e rientra negli interventi cittadini per mobilità sostenibile e riqualificazione urbana."
+      ],
+      "publishedAt": "2026-10-26",
+      "verifiedAt": "2026-10-27T16:40:08.157924+00:00",
+      "source": {
+        "name": "Roma Mobilità",
+        "url": "https://romamobilita.it/primo-piano/inaugurato-il-nuovo-itinerario-ciclopedonale-viadotto-dei-presidenti/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:08.157924+00:00",
+        "dateEvidence": "Pagina ufficiale: pubblicato il 2026-10-26; aggiornato il 27/10/2026. Data originaria conservata.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      },
+      "updatedAt": "2026-10-27"
+    },
+    {
+      "id": "extra-ilaria-sula-genitori-udienza",
+      "eventKey": "extra-ilaria-sula-genitori-udienza-2026-10",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Ilaria Sula, i genitori presenti all’udienza a Rebibbia",
+      "summary": "Leggo racconta l’arrivo dei familiari per la sentenza di primo grado. L’articolo letto è aggiornato alle 12:43.",
+      "body": [
+        "Flamur e Gezime Sula sono arrivati nell’aula bunker con una maglietta dedicata alla figlia, secondo il resoconto Leggo/LaPresse del 27 ottobre. La fonte descrive l’attesa per il verdetto nei confronti di Mark Samson: questo aggiornamento non riporta ancora l’esito della sentenza."
+      ],
+      "publishedAt": "2026-10-27T12:39:06+01:00",
+      "verifiedAt": "2026-10-27T16:40:08.991909+00:00",
+      "source": {
+        "name": "Leggo",
+        "url": "https://www.leggo.it/italia/roma/27_ottobre_2026_ilaria_sula_sentenza_mark_samson_genitori-9851877.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:08.991909+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-27T12:39:06+01:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
     }
   ]
 }

@@ -3,7 +3,7 @@
   "editionDate": "2026-10-27",
   "collectionId": "2026-10-27-pomeriggio",
   "category": "Esteri",
-  "completedAt": "2026-10-27T15:09:19.883Z",
+  "completedAt": "2026-10-27T16:47:42.026327+00:00",
   "articles": [
     {
       "id": "esteri-israele-elezioni-affluenza",
@@ -121,6 +121,113 @@
         "accessCheckedAt": "2026-10-27T15:09:19.883Z",
         "dateEvidence": "Guardian, pubblicato 26 ottobre 2026 alle 15:51 GMT e aggiornato 27 ottobre alle 12:10 GMT; articolo completo.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "extra-putin-stubb-store-colloquio",
+      "eventKey": "extra-putin-stubb-store-colloquio-2026-10",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Stubb e Støre parlano con Putin, confronto sui negoziati",
+      "summary": "Finlandia e Norvegia confermano il colloquio; Helsinki precisa che i leader non parlavano a nome dell’intera Europa.",
+      "body": [
+        "RaiNews riferisce della telefonata tra i leader finlandese e norvegese e il presidente russo, dedicata all’Ucraina e alla sicurezza nel Nord Europa. Mosca ribadisce le proprie condizioni per la pace; Helsinki presenta il contatto come un messaggio diretto in vista dei futuri negoziati."
+      ],
+      "publishedAt": "2026-10-27T15:07:27+00:00",
+      "verifiedAt": "2026-10-27T16:40:03.748444+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/10/telefonata-russia-finlandia-norvegia-putin-pace-impossibile-senza-gli-interessi-russi-78d7218b-11d9-4dc7-86a3-6ed2584342ef.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:03.748444+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-27T15:07:27+00:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-usa-midterm-sondaggi",
+      "eventKey": "extra-usa-midterm-sondaggi-2026-10",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Midterm USA, sondaggi favorevoli ai democratici soprattutto alla Camera",
+      "summary": "Il voto del 3 novembre rinnova la Camera, parte del Senato e numerosi governatori. Le stime restano incerte.",
+      "body": [
+        "Il quadro preelettorale di RaiNews descrive un vantaggio democratico più marcato alla Camera rispetto al Senato. Il 3 novembre si vota per tutti i 435 deputati, 35 senatori e 36 governatori. Affluenza e margini d’errore impediscono di trattare i sondaggi come risultati."
+      ],
+      "publishedAt": "2026-10-27T13:48:00+00:00",
+      "verifiedAt": "2026-10-27T16:40:04.392114+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/maratona/2026/10/midterm-usa-2026-democratici-repubblicani-risultati-voto-donald-trump-c28c044e-836e-49ee-987a-240d4ed4be95.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:04.392114+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-27T13:48:00+00:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-orban-onu-ipotesi-wsj",
+      "eventKey": "extra-orban-onu-ipotesi-wsj-2026-10",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Segreteria ONU, il Wall Street Journal prospetta un’ipotesi Orbán",
+      "summary": "RaiNews riprende indiscrezioni su contatti tra Washington, Mosca e Pechino: non è un incarico assegnato.",
+      "body": [
+        "Secondo il Wall Street Journal, citato da RaiNews il 26 ottobre, funzionari americani avrebbero sondato la disponibilità di Viktor Orbán per la guida delle Nazioni Unite. L’articolo presenta colloqui e valutazioni ancora ipotetici: non documenta una candidatura formalizzata né una nomina."
+      ],
+      "publishedAt": "2026-10-26T09:35:49+00:00",
+      "verifiedAt": "2026-10-27T16:40:05.406899+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/10/wsj-trump-con-cina-e-russia-pensano-a-orban-come-prossimo-segretario-onu-7cf15944-639c-4cc1-a8ed-f85a0f1bbbe7.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:05.406899+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-26T09:35:49+00:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-hindu-kush-sisma",
+      "eventKey": "extra-hindu-kush-sisma-2026-10",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Afghanistan, scossa nell’Hindu Kush avvertita anche a Kabul",
+      "summary": "La fonte riferisce un sisma profondo il 25 ottobre e, nel suo ultimo aggiornamento, nessuna vittima segnalata.",
+      "body": [
+        "RaiNews colloca l’epicentro nella provincia del Badakhshan e riporta una magnitudo stimata tra 5,2 e 5,8. L’aggiornamento del 26 ottobre non segnala vittime o crolli importanti; è il quadro disponibile nella fonte, non un bilancio definitivo."
+      ],
+      "publishedAt": "2026-10-25T20:39:09+00:00",
+      "verifiedAt": "2026-10-27T16:40:06.174997+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/10/terremoto-in-afghanista-scossa-di-52-nella-regione-dellhindu-kush-56efc390-7fc3-4234-99ee-a0eaa624d813.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:06.174997+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-25T20:39:09+00:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-noaa-tagli-el-nino",
+      "eventKey": "extra-noaa-tagli-el-nino-2026-10",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Tagli alla NOAA, gli esperti temono minori capacità di previsione",
+      "summary": "Il Guardian raccoglie l’allarme di scienziati ed ex funzionari in vista dei rischi meteorologici legati a El Niño.",
+      "body": [
+        "Secondo gli esperti interpellati dal Guardian, riduzioni del personale, contratti interrotti e laboratori chiusi indeboliscono ricerca e risposta agli eventi estremi negli Stati Uniti. La testata riporta la perdita di circa un quinto del personale NOAA dall’inizio del 2025. Le conseguenze prospettate sono valutazioni degli intervistati."
+      ],
+      "publishedAt": "2026-10-27T11:00:38.000Z",
+      "verifiedAt": "2026-10-27T16:40:04.948115+00:00",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/environment/2026/oct/27/trump-cuts-el-nino-noaa",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:04.948115+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-27T11:00:38.000Z.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
       }
     }
   ]

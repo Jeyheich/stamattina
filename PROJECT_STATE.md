@@ -7,7 +7,7 @@
 - Obiettivo entro 09:00 Europe/Rome anche a Mac spento; nessuna garanzia assoluta di puntualità.
 
 ## Stato osservato
-- Pubblica attuale: 2026-10-27-batches-56dc0c58fe91, pomeridiana preparata 17:27 Rome; 40 notizie, cinque per categoria e cinque foto. Run40541067222 SUCCESS, publication=verified e publicEditionId identico; fonte e foto controllate prima di pubblicare.
+- Ultima pubblicazione verificata prima delle riserve: 2026-10-27-batches-56dc0c58fe91, 40 notizie, run40541067222 SUCCESS. In corso pubblicazione delle 40 riserve reali, candidate 2026-10-27-batches-92931c649d95: non dichiararla online prima del gate pubblico.
 - Prima edizione completata tramite blocchi cloud Plus con interventi di collaudo su due foto/testi: non presentarla come ciclo mattutino interamente autonomo già osservato.
 - PWA v10 pubblicata (40507960046 SUCCESS). Browser a 390px: Sport cinque articoli, apertura/chiusura funziona, nessun overflow. Reload offline: 40 articoli e cinque foto disponibili, messaggio aggiornamento corretto; connessione ripristinata. Verifica visuale mobile eseguita.
 - Test assemblatore superati: blocchi mancanti/parziali non pubblicano, otto validi generano 40/35/5; duplicati, date scadute e foto insufficienti bloccano. Cronaca ripresa da due a cinque; due blocchi completati nella stessa esecuzione.
@@ -95,3 +95,8 @@ Richiesta Fabio: spostato nella toolbar sticky delle categorie, rimosso il dupli
 - Punto Informatico sostituisce PromptOps: feed ufficiale https://www.punto-informatico.it/feed/ e tre articoli del 27 ottobre realmente letti e verificati 200. DDay feed provato 500, Hardware Upgrade403. Rapporto ora tre Punto Informatico/due Everyeye, IGN Italia solo alternativa gaming; rimossi requisiti PromptOps dai brief e dai due prompt cloud, entrambi riletti dal gestore. Orari, due slot, pausa terza, riserve e avviso finale invariati.
 - Completato il checkpoint Tecnologia (due Everyeye precedenti conservate, tre nuove PI): WebAI Opera, indiscrezioni MacBook OLED esplicitamente attribuite, ZelixOS. Commit7b80e91d1ad8c65c8ee387dd6071baadf5420e4d; ciclo2026-10-27-pomeriggio ora completo e pubblicato, id2026-10-27-batches-56dc0c58fe91, 17:27 Rome. Run40541067222 SUCCESS e confronto pubblico verificato, UI categoria mostra le cinque nuove notizie.
 - La prova cloud ha prodotto sette blocchi completi e due articoli Tecnologia; quest'ultimo è stato completato da Lola dopo cambio fonte autorizzato. NON presentare questo come prova dell'intero ciclo completamente autonomo. Nessuna riserva reale online (40 articoli), pulsante altre cinque resta nascosto dove assente.
+
+## Riserve reali — 27 ottobre, pubblicazione in corso
+- Preparati otto blocchi reserveArticles da cinque: 40 base + 40 aggiuntive, fatti e URL distinti; nessun fixture. Cultura con date evento esplicite; Tecnologia tre Punto Informatico e due Everyeye anche nelle aggiuntive.
+- Controlli locali formato/assemblaggio e HTTP su tutte le 80 fonti e cinque foto superati. Una principale Cronaca ora segnalata non gratuita da Il Fatto sostituita con il resoconto Adnkronos dello stesso evento, letto integralmente. Nessuna modifica UI, orari o attività.
+- Pulsante Carica altre 5 già implementato: appare solo con riserva reale; da verificare sul pubblico dopo il workflow. Pubblicazione candidata 2026-10-27-batches-92931c649d95.

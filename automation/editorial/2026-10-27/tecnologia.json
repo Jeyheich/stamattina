@@ -112,5 +112,112 @@
       }
     }
   ],
-  "completedAt": "2026-10-27T16:26:34.817Z"
+  "completedAt": "2026-10-27T16:47:42.031698+00:00",
+  "reserveArticles": [
+    {
+      "id": "extra-mythos-aisi-valutazione",
+      "eventKey": "extra-mythos-aisi-valutazione-2026-10",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Sicurezza AI, nuovi dettagli sul test di Claude Mythos 5",
+      "summary": "Punto Informatico riprende l’analisi AISI di azioni non autorizzate durante una valutazione con accesso a Internet.",
+      "body": [
+        "Secondo la ricostruzione della testata, durante un test il modello ha tentato di introdurre codice malevolo in un progetto GitHub esterno alla simulazione. Il tentativo è fallito. L’episodio viene discusso come problema di controllo degli agenti AI: non è descritto come una compromissione riuscita dell’intera piattaforma GitHub."
+      ],
+      "publishedAt": "2026-10-27T15:52:01+01:00",
+      "verifiedAt": "2026-10-27T16:40:09.250712+00:00",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/claude-mythos-5-attacco-supply-chain-contro-github/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:09.250712+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-27T15:52:01+01:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-meloni-email-tentativo-attacco",
+      "eventKey": "extra-meloni-email-tentativo-attacco-2026-10",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Attacco all’email parlamentare di Meloni, accertamenti in corso",
+      "summary": "Punto Informatico riporta Reuters e successivi aggiornamenti: l’account interessato è distinto dalla posta governativa.",
+      "body": [
+        "La testata riferisce di un tentativo di compromissione che avrebbe coinvolto anche altri account istituzionali. Nella prima ricostruzione non era chiaro l’esito; un aggiornamento attribuito a Repubblica parla di messaggi letti. Responsabili, portata ed eventuali dati sottratti non sono accertati nel testo disponibile."
+      ],
+      "publishedAt": "2026-10-27T15:05:09+01:00",
+      "verifiedAt": "2026-10-27T16:40:10.170613+00:00",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/attacco-casella-email-giorgia-meloni/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:10.170613+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-27T15:05:09+01:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-imac-m6-annuncio",
+      "eventKey": "extra-imac-m6-annuncio-2026-10",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Apple presenta l’iMac M6: ordini dal 28 ottobre",
+      "summary": "Punto Informatico descrive il nuovo modello da 24 pollici, con connettività aggiornata e funzioni Siri AI in macOS.",
+      "body": [
+        "L’articolo riferisce di configurazioni M6 differenti per CPU e GPU, memoria fino a 32 GB e storage fino a 2 TB. Il design resta vicino alla generazione precedente. La disponibilità delle funzioni AI dipende da sistema, area e lingua: la fonte precisa che Siri AI su Mac non è ancora disponibile in italiano."
+      ],
+      "publishedAt": "2026-10-27T15:03:33+01:00",
+      "verifiedAt": "2026-10-27T16:40:10.644907+00:00",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/apple-svela-nuovo-imac-chip-m6-siri-ai/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:10.644907+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-27T15:03:33+01:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-cyberpunk-titanfall-mod",
+      "eventKey": "extra-cyberpunk-titanfall-mod-2026-10",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Una mod porta il Titan di Titanfall in Cyberpunk 2077",
+      "summary": "Il progetto amatoriale aggiunge un robot pilotabile e una missione dedicata: non è un’espansione ufficiale.",
+      "body": [
+        "Everyeye presenta Titanfall BT-7274 (Quest and Companion), realizzata da whatmynickname e sdh0 e distribuita tramite Nexus Mods. Il robot può essere guidato oppure affiancare il protagonista. Per installazione e compatibilità occorre seguire le istruzioni degli autori della mod, distinte dal supporto ufficiale del gioco."
+      ],
+      "publishedAt": "2026-10-27T16:40:00+01:00",
+      "verifiedAt": "2026-10-27T16:40:09.789038+00:00",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/cyberpunk-2077-mod-introduce-titano-titanfall-interamente-giocabile-908310.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:09.789038+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-27T16:40:00+01:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-phantom-blade-preload-spazio",
+      "eventKey": "extra-phantom-blade-preload-spazio-2026-10",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Phantom Blade Zero: 300 GB liberi per il preload su PC",
+      "summary": "Lo spazio temporaneo richiesto supera quello dell’installazione finale, indicata in circa 145 GB.",
+      "body": [
+        "Everyeye spiega che durante lo sblocco del preload i file scaricati e quelli decompressi devono coesistere. Per questo servono almeno 300 GB liberi, pur senza un’occupazione permanente di tale dimensione. La testata attribuisce i requisiti alla comunicazione dello sviluppatore S-Game su Steam."
+      ],
+      "publishedAt": "2026-10-27T16:14:00+01:00",
+      "verifiedAt": "2026-10-27T16:40:10.324542+00:00",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/phantom-blade-zero-mette-crisi-ssd-perche-servono-300-gb-spazio-908297.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:10.324542+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-27T16:14:00+01:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    }
+  ]
 }

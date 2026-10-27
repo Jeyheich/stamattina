@@ -3,7 +3,7 @@
   "editionDate": "2026-10-27",
   "collectionId": "2026-10-27-pomeriggio",
   "category": "Sport",
-  "completedAt": "2026-10-27T16:05:23.185Z",
+  "completedAt": "2026-10-27T16:47:42.032624+00:00",
   "articles": [
     {
       "id": "sport-pulisic-rinnovo-milan",
@@ -120,6 +120,113 @@
         "accessCheckedAt": "2026-10-27T16:05:23.185Z",
         "dateEvidence": "ANSA 27 ottobre 2026 ore 11:19; resoconto completo con punteggio, tre set point e avversaria agli ottavi.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "extra-spalletti-genoa-conferenza",
+      "eventKey": "extra-spalletti-genoa-conferenza-2026-10",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Spalletti prepara Genoa–Juventus e avverte sulle insidie della trasferta",
+      "summary": "Alla vigilia della gara del 28 ottobre, il tecnico chiede lucidità e continuità dopo il successo di Lecce.",
+      "body": [
+        "Nella conferenza riportata da Sky Sport, Luciano Spalletti sottolinea la difficoltà della partita e la necessità di gestire impegni ravvicinati. Descrive una squadra attenta e considera possibili piccoli cambi. Le scelte di formazione discusse alla vigilia non sono l’undici ufficiale della gara."
+      ],
+      "publishedAt": "2026-10-27T15:32:39+01:00",
+      "verifiedAt": "2026-10-27T16:40:10.536196+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/27/genoa-juventus-spalletti-conferenza-video",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:10.536196+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-27T15:32:39+01:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-martin-sepang-recupero",
+      "eventKey": "extra-martin-sepang-recupero-2026-10",
+      "category": "Sport",
+      "status": "verified",
+      "title": "MotoGP, Martin tenta il recupero per Sepang",
+      "summary": "Il pilota Aprilia ha una frattura composta al radio destro; la partecipazione al GP resta da valutare.",
+      "body": [
+        "Sky Sport riferisce che gli esami successivi alla caduta nella Sprint australiana hanno escluso la seconda lesione inizialmente sospettata. Jorge Martin prosegue i trattamenti e valuta le condizioni giorno per giorno. Il tentativo di tornare in pista non costituisce ancora un via libera a correre in Malesia."
+      ],
+      "publishedAt": "2026-10-27T11:06:00.394+01:00",
+      "verifiedAt": "2026-10-27T16:40:11.121625+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/motogp/2026/10/27/motogp-martin-infortunio-sepang-aprilia",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:11.121625+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-27T11:06:00.394+01:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-sinner-recupero-intervista",
+      "eventKey": "extra-sinner-recupero-intervista-2026-10",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Sinner sul recupero: rispettare il corpo e avere pazienza",
+      "summary": "Sky Sport riprende un’intervista a Repubblica nella quale il tennista racconta il periodo lontano dalle competizioni.",
+      "body": [
+        "Jannik Sinner spiega di seguire le indicazioni degli specialisti per il problema al ginocchio e di privilegiare una prospettiva di lungo periodo. Il ritorno al Six Kings Slam è presentato nella fonte come ipotesi, non come partecipazione definitivamente confermata."
+      ],
+      "publishedAt": "2026-10-27T09:29:53.652+01:00",
+      "verifiedAt": "2026-10-27T16:40:11.796176+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/2026/10/27/jannik-sinner-intervista",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:11.796176+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-27T09:29:53.652+01:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-kane-pallone-oro",
+      "eventKey": "extra-kane-pallone-oro-2026-10",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Pallone d’Oro a Kane, Lautaro chiude ventiduesimo",
+      "summary": "La classifica riportata da Sky Sport premia l’inglese davanti a Mbappé e Yamal; Lautaro è l’unico giocatore della Serie A in lista.",
+      "body": [
+        "Harry Kane vince la settantesima edizione del premio nella cerimonia di Londra. Sky Sport riporta Mbappé secondo, Yamal terzo e Messi quinto. Lautaro Martínez termina al ventiduesimo posto. La cerimonia è del 26 ottobre, con classifica aggiornata dalla testata il 27."
+      ],
+      "publishedAt": "2026-10-26T17:48:16.631+01:00",
+      "verifiedAt": "2026-10-27T16:40:12.422228+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/2026/10/26/classifica-pallone-d-oro-2026",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:12.422228+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-26T17:48:16.631+01:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-loftus-cheek-infortunio",
+      "eventKey": "extra-loftus-cheek-infortunio-2026-10",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Milan, lesione muscolare per Loftus-Cheek",
+      "summary": "Il quadro degli indisponibili di Sky Sport indica uno stop di almeno un mese per il centrocampista.",
+      "body": [
+        "Nell’aggiornamento sugli infortuni della nona giornata, Sky Sport riferisce di una lesione a un flessore mediale della coscia sinistra per Loftus-Cheek. L’assenza si aggiunge alle difficoltà della rosa rossonera. La durata indicata è una previsione di recupero, soggetta all’evoluzione clinica."
+      ],
+      "publishedAt": "2026-10-26T11:43:02.463+01:00",
+      "verifiedAt": "2026-10-27T16:40:13.073347+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/26/serie-a-indisponibili-infortunati-squalificati-giornata-9",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:13.073347+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-26T11:43:02.463+01:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
       }
     }
   ]

@@ -3,7 +3,7 @@
   "editionDate": "2026-10-27",
   "collectionId": "2026-10-27-pomeriggio",
   "category": "Politica",
-  "completedAt": "2026-10-27T15:08:44.706Z",
+  "completedAt": "2026-10-27T16:47:42.024894+00:00",
   "articles": [
     {
       "id": "politica-manovra-cdm-28-ottobre",
@@ -120,6 +120,113 @@
         "accessCheckedAt": "2026-10-27T15:08:44.706Z",
         "dateEvidence": "Sky TG24 Politica: 26 ottobre 2026 ore 11:20, intervento di Mattarella e risorse PNRR per la sanità.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "extra-matone-forza-italia",
+      "eventKey": "extra-matone-forza-italia-2026-10",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Matone lascia la Lega e passa a Forza Italia",
+      "summary": "La deputata annuncia il cambio di gruppo, richiamando le proprie posizioni moderate e garantiste.",
+      "body": [
+        "Simonetta Matone ha comunicato il 26 ottobre l’adesione a Forza Italia, confermando la propria collocazione nel centrodestra. Nella nota riportata da Sky TG24 spiega il dissenso verso posizioni sovraniste e rivendica una linea garantista; i dirigenti azzurri hanno accolto il suo ingresso."
+      ],
+      "publishedAt": "2026-10-26T13:28:48.283+01:00",
+      "verifiedAt": "2026-10-27T16:40:03.617730+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/10/26/simonetta-matone-lega-forza-italia",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:03.617730+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-26T13:28:48.283+01:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-mattarella-assisi-pace",
+      "eventKey": "extra-mattarella-assisi-pace-2026-10",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Mattarella ad Assisi: la pace richiede l’impegno di tutti",
+      "summary": "Nel messaggio a Sant’Egidio, il presidente richiama governi, istituzioni e cittadini alla responsabilità per la pace.",
+      "body": [
+        "Nel messaggio del 25 ottobre per l’incontro internazionale di Assisi, Sergio Mattarella ha richiamato le sofferenze provocate dalle guerre e il valore della dignità umana. Il suo appello coinvolge anche le comunità religiose, indicate come interlocutori del dialogo e della riconciliazione."
+      ],
+      "publishedAt": "2026-10-25T23:36:03.212+01:00",
+      "verifiedAt": "2026-10-27T16:40:04.232188+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/10/25/mattarella-sant-egidio-assisi",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:04.232188+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-25T23:36:03.212+01:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-salvini-congresso-lega",
+      "eventKey": "extra-salvini-congresso-lega-2026-10",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Il congresso conferma Salvini alla guida della Lega",
+      "summary": "Il voto del 25 ottobre assegna al segretario un nuovo mandato fino al 2030; presentato anche il nuovo simbolo.",
+      "body": [
+        "Al congresso straordinario Matteo Salvini ha ottenuto 465 voti contro i 146 di Massimo Garavaglia, secondo Sky TG24. Il mandato dura quattro anni. La nuova identità del partito, presentata durante l’incontro, porta il nome Lega Italia federale."
+      ],
+      "publishedAt": "2026-10-25T10:28:03.265+01:00",
+      "verifiedAt": "2026-10-27T16:40:04.923864+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/10/25/salvini-congresso-lega",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:04.923864+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-25T10:28:03.265+01:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-schlein-alleati-montepulciano",
+      "eventKey": "extra-schlein-alleati-montepulciano-2026-10",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Schlein sollecita gli alleati a completare il programma comune",
+      "summary": "A Montepulciano la segretaria del Pd chiede di accelerare il lavoro della coalizione.",
+      "body": [
+        "Nell’intervento del 25 ottobre, Elly Schlein ha sostenuto che molte proposte nascono già dal lavoro comune in Parlamento e nei territori. Ha invitato gli alleati a definire i passaggi rimanenti, presentando unità e ascolto delle difficoltà sociali come priorità politiche."
+      ],
+      "publishedAt": "2026-10-25T14:44:42.335+01:00",
+      "verifiedAt": "2026-10-27T16:40:05.727810+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/10/25/elly-schlein-montepulciano-alleati-campo-largo",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:05.727810+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-25T14:44:42.335+01:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-csm-rinnovo-voto",
+      "eventKey": "extra-csm-rinnovo-voto-2026-10",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Rinnovo del Csm, dopo il voto dei togati tocca al Parlamento",
+      "summary": "La scheda di Sky TG24 ricostruisce il voto del 25–26 ottobre e il passaggio previsto il 28 per i membri laici.",
+      "body": [
+        "Il rinnovo riguarda venti componenti togati, eletti dai magistrati, e dieci componenti laici scelti dal Parlamento. La fonte del 25 ottobre indica il 28 ottobre per il voto parlamentare. È una ricostruzione del calendario del rinnovo, non la proclamazione dei risultati."
+      ],
+      "publishedAt": "2026-10-25T11:45:01.465+01:00",
+      "verifiedAt": "2026-10-27T16:40:06.510708+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/10/25/elezioni-consiglio-superiore-magistratura",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:06.510708+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-25T11:45:01.465+01:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
       }
     }
   ]

@@ -3,7 +3,7 @@
   "editionDate": "2026-10-27",
   "collectionId": "2026-10-27-pomeriggio",
   "category": "Economia",
-  "completedAt": "2026-10-27T15:10:58.084Z",
+  "completedAt": "2026-10-27T16:47:42.028040+00:00",
   "articles": [
     {
       "id": "economia-hsbc-utili-trimestre",
@@ -126,6 +126,113 @@
         "accessCheckedAt": "2026-10-27T15:10:58.084Z",
         "dateEvidence": "Guardian pubblicato il 27 ottobre 2026 alle 10:41 CET, aggiornato alle 11:45 CET; intervista di Reynolds su vertice, commercio e mobilità.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "extra-webuild-ferrovia-zambia",
+      "eventKey": "extra-webuild-ferrovia-zambia-2026-10",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Webuild selezionata come offerente preferito per la ferrovia in Zambia",
+      "summary": "Il lotto del corridoio di Lobito comprende circa 517 chilometri. La selezione non equivale al completamento dell’opera.",
+      "body": [
+        "ANSA riferisce che Webuild è stata individuata come preferred bidder per il Lotto 1B del Lobito Corridor Railway Project. Il progetto punta a migliorare i collegamenti logistici dell’Africa australe. Tempi di trasporto e benefici economici indicati nella fonte sono stime riferite all’infrastruttura completata."
+      ],
+      "publishedAt": "2026-10-27T17:23:00+01:00",
+      "verifiedAt": "2026-10-27T16:40:05.620997+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/27/webuild-offerente-prescelto-per-una-ferrovia-in-zambia_6f35884d-a907-4ea0-8972-48db7e1aa464.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:05.620997+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-27T17:23:00+01:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-taranto-nuove-iniziative-industriali",
+      "eventKey": "extra-taranto-nuove-iniziative-industriali-2026-10",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Ex Ilva, il governo valuta nuove iniziative industriali a Taranto",
+      "summary": "Fonti di Palazzo Chigi indicano l’obiettivo di creare occupazione e investimenti; non risultano progetti già conclusi.",
+      "body": [
+        "Secondo ANSA, Alfredo Mantovano ha incontrato i vertici di Leonardo, Ferrovie dello Stato, Fincantieri e Rheinmetall Italia per approfondire possibili interventi in Puglia. Il confronto riguarda prospettive industriali e ricadute occupazionali: l’articolo descrive una fase di valutazione."
+      ],
+      "publishedAt": "2026-10-27T16:39:00+01:00",
+      "verifiedAt": "2026-10-27T16:40:06.136416+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/27/governo-al-lavoro-per-individuare-nuove-iniziative-industriali-per-lex-ilva_4f6c9ac9-49f3-47c7-a59f-c47d19dac64d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:06.136416+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-27T16:39:00+01:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-konecta-solidarieta-lavoratori",
+      "eventKey": "extra-konecta-solidarieta-lavoratori-2026-10",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Konecta annuncia un accordo di solidarietà per circa mille lavoratori",
+      "summary": "L’azienda comunica l’intesa ministeriale con i sindacati per evitare misure collettive sugli esuberi.",
+      "body": [
+        "La nota aziendale ripresa da ANSA prevede una riduzione complessiva del 30% per sito e misure dal 2 novembre 2026 al 31 dicembre 2027. Per Torino, Asti e Ivrea l’avvio è differito al 2 gennaio. Il superamento degli esuberi è presentato come esito dell’accordo annunciato da Konecta."
+      ],
+      "publishedAt": "2026-10-27T15:24:00+01:00",
+      "verifiedAt": "2026-10-27T16:40:06.783409+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/27/konecta-esuberi-scongiurati-contratto-di-solidarieta-per-1000-lavoratori_d99aec35-2a38-4b58-af47-ceff1065488e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:06.783409+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-27T15:24:00+01:00.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-oxfam-dividendo-climatico",
+      "eventKey": "extra-oxfam-dividendo-climatico-2026-10",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Oxfam: i grandi patrimoni guadagnano anche dalla ricostruzione climatica",
+      "summary": "Il rapporto denuncia investimenti sia nelle attività inquinanti sia nei mercati della risposta ai disastri.",
+      "body": [
+        "Il Guardian riassume uno studio Oxfam secondo cui i più ricchi traggono benefici economici anche da preparazione, recupero e ricostruzione dopo gli eventi estremi. L’organizzazione teme che questo intreccio aumenti le disuguaglianze e gli incentivi a ritardare le politiche climatiche: sono conclusioni attribuite al rapporto."
+      ],
+      "publishedAt": "2026-10-27T05:00:02.000Z",
+      "verifiedAt": "2026-10-27T16:40:06.179385+00:00",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/environment/2026/oct/27/super-rich-double-dividend-climate-crisis-oxfam",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:06.179385+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-27T05:00:02.000Z.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
+      }
+    },
+    {
+      "id": "extra-uk-datacenter-consultazioni",
+      "eventKey": "extra-uk-datacenter-consultazioni-2026-10",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Datacenter britannici, un’inchiesta contesta lo squilibrio delle consultazioni",
+      "summary": "Il Guardian riferisce di incontri con 137 imprese e nessun gruppo ambientalista nello sviluppo dei piani.",
+      "body": [
+        "L’indagine di Spotlight on Corruption ripresa dal Guardian ricostruisce il confronto sulle zone di crescita dell’AI e i passaggi di funzionari verso aziende del settore. La critica riguarda la rappresentanza degli interessi coinvolti nelle decisioni economiche e ambientali sui datacenter."
+      ],
+      "publishedAt": "2026-10-27T07:00:04.000Z",
+      "verifiedAt": "2026-10-27T16:40:06.729442+00:00",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation",
+        "access": "free",
+        "accessCheckedAt": "2026-10-27T16:40:06.729442+00:00",
+        "dateEvidence": "Pagina integrale e metadati della fonte letti; datePublished 2026-10-27T07:00:04.000Z.",
+        "reviewedBy": "Lola — lettura fonte e controllo editoriale"
       }
     }
   ]
