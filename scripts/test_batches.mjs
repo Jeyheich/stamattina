@@ -19,6 +19,8 @@ for(const [n,[slug,category]] of categories.entries()){
 const partial=structuredClone(blocks);delete partial.sport;
 assert.equal(assemble(partial,today,now).edition,undefined,'Mai pubblicare sette categorie');
 assert.deepEqual(assemble(partial,today,now).state.missing,['sport']);
+const progress=structuredClone(blocks);progress.sport.status='in-progress';progress.sport.lastAttemptAt=stamp;delete progress.sport.completedAt;progress.sport.articles=progress.sport.articles.slice(0,3);
+assert.equal(assemble(progress,today,now).edition,undefined);assert.deepEqual(assemble(progress,today,now).state.inProgress,[{slug:'sport',count:3}]);
 const complete=assemble(blocks,today,now);assert.equal(complete.state.ready,true);
 assert.equal(complete.edition.articles.length,40);assert.equal(complete.edition.compactIds.length,35);
 assert.equal(complete.edition.leadIds.length,5);

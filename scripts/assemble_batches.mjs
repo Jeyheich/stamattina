@@ -12,12 +12,12 @@ export const categories = [
 ];
 export const romeDay = (date=new Date()) => new Intl.DateTimeFormat('sv-SE',{timeZone:'Europe/Rome'}).format(date);
 function recent(value,now){const t=Date.parse(value);assert(Number.isFinite(t),'Data di verifica mancante');assert(t<=now+300000&&now-t<=10800000,'Verifica scaduta o futura');}
-export function validateBlock(block,slug,today,now=Date.now()){
+export function validateBlock(block,slug,today,now=Date.now(),partial=false){
   const name=categories.find(([s])=>s===slug)?.[1];
   assert(name,'Categoria sconosciuta');assert.equal(block.schemaVersion,1);
   assert.equal(block.editionDate,today,'Blocco di un altro giorno');
-  assert.equal(block.category,name,'Categoria del file errata');recent(block.completedAt,now);
-  assert(Array.isArray(block.articles)&&block.articles.length===5,'Il blocco deve contenere 5 notizie distinte');
+  assert.equal(block.category,name,'Categoria del file errata');recent(partial?block.lastAttemptAt:block.completedAt,now);
+  assert(Array.isArray(block.articles)&&(partial?block.articles.length>=1&&block.articles.length<5:block.articles.length===5),'Il blocco completo deve contenere 5 notizie distinte');
   for(const a of block.articles){
     assert.equal(a.category,name);assert.equal(a.status,'verified');
     assert(typeof a.id==='string'&&/^[a-z0-9][a-z0-9-]{2,100}$/.test(a.id),'ID non valido');
@@ -34,21 +34,26 @@ export function validateBlock(block,slug,today,now=Date.now()){
       assert.equal(a.image.reuseApproved,true);assert.equal(new URL(a.image.src).protocol,'https:');
       assert(a.body.length>=2,'Una candidata principale con foto richiede almeno due paragrafi');
     }
+    if(a.leadPriority!==undefined)assert(Number.isFinite(a.leadPriority)&&a.leadPriority>=0&&a.leadPriority<=100,'Priorità non valida');
   }
-  assert.equal(new Set(block.articles.map(a=>a.id)).size,5,'ID ripetuti');
-  assert.equal(new Set(block.articles.map(a=>a.eventKey)).size,5,'Stesso fatto ripetuto');
+  assert.equal(new Set(block.articles.map(a=>a.id)).size,block.articles.length,'ID ripetuti');
+  assert.equal(new Set(block.articles.map(a=>a.eventKey)).size,block.articles.length,'Stesso fatto ripetuto');
   return block;
 }
 export function assemble(blocks,today=romeDay(),now=Date.now()){
-  const state={editionDate:today,checkedAt:new Date(now).toISOString(),ready:false,completed:[],missing:[],invalid:[],stories:[]};
+  const state={editionDate:today,checkedAt:new Date(now).toISOString(),ready:false,completed:[],inProgress:[],missing:[],invalid:[],stories:[]};
   const articles=[];
   for(const [slug,name] of categories){
     if(!blocks[slug]){state.missing.push(slug);continue;}
-    try{validateBlock(blocks[slug],slug,today,now);state.completed.push(slug);articles.push(...blocks[slug].articles);}
+    try{
+      const partial=blocks[slug].status==='in-progress';validateBlock(blocks[slug],slug,today,now,partial);
+      if(partial){state.inProgress.push({slug,count:blocks[slug].articles.length});state.stories.push(...blocks[slug].articles.map(({id,category,title,eventKey})=>({id,category,title,eventKey,pending:true})));}
+      else{state.completed.push(slug);articles.push(...blocks[slug].articles);}
+    }
     catch(e){state.invalid.push({slug,reason:e.message});}
   }
-  state.stories=articles.map(({id,category,title,eventKey})=>({id,category,title,eventKey}));
-  if(state.missing.length||state.invalid.length)return {state};
+  state.stories.push(...articles.map(({id,category,title,eventKey})=>({id,category,title,eventKey})));
+  if(state.missing.length||state.invalid.length||state.inProgress.length)return {state};
   try{
     assert.equal(new Set(articles.map(a=>a.id)).size,40,'ID duplicati tra categorie');
     assert.equal(new Set(articles.map(a=>a.eventKey)).size,40,'Fatto duplicato tra categorie');
