@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-27",
-  "checkedAt": "2026-10-27T13:26:55.372Z",
+  "checkedAt": "2026-10-27T13:35:30.544Z",
   "ready": true,
   "completed": [
     "politica",
@@ -43,7 +43,7 @@
     {
       "id": "politica-mattarella-sanita-universale",
       "category": "Politica",
-      "title": "Mattarella richiama le istituzioni alla tutela della sanità pubblica",
+      "title": "Mattarella: tutelare il servizio sanitario è una priorità",
       "eventKey": "mattarella-priorita-tutela-servizio-sanitario-nazionale"
     },
     {
@@ -121,7 +121,7 @@
     {
       "id": "cronaca-torino-parco-dora-fermo",
       "category": "Cronaca",
-      "title": "Omicidio a Parco Dora, fermato un uomo dopo la morte di un giovane",
+      "title": "Torino, fermato un uomo per l’omicidio a Parco Dora",
       "eventKey": "torino-parco-dora-omicidio-fermo-26-ottobre-2026"
     },
     {
@@ -149,16 +149,16 @@
       "eventKey": "roma-ztl-fascia-verde-proroga-restrizioni-2026-2027"
     },
     {
-      "id": "roma-viadotto-presidenti-ciclabile",
+      "id": "roma-rapina-don-bosco-contanti",
       "category": "Roma",
-      "title": "Nel III Municipio inaugurati 2,7 km di percorso ciclopedonale",
-      "eventKey": "roma-inaugurazione-viadotto-presidenti-ciclopedonale-26-ottobre-2026"
+      "title": "Don Bosco, rapina al furgone dei contanti: indaga la Mobile",
+      "eventKey": "roma-rapina-don-bosco-contanti"
     },
     {
-      "id": "roma-olimpico-piano-viabilita",
+      "id": "roma-sequestro-castel-giubileo-tevere",
       "category": "Roma",
-      "title": "Roma-Cagliari all'Olimpico, scatta il piano traffico",
-      "eventKey": "roma-cagliari-olimpico-piano-mobilita-27-ottobre-2026"
+      "title": "Castel Giubileo, sequestrata un’area abusiva lungo il Tevere",
+      "eventKey": "roma-sequestro-castel-giubileo-tevere"
     },
     {
       "id": "roma-sciopero-atac-30-ottobre",
@@ -227,34 +227,34 @@
       "eventKey": "microsoft-esuberi-incentivati-60000-ottobre-2026"
     },
     {
-      "id": "sport-manchester-carrick-howe",
+      "id": "sport-serie-a-nona-giornata-2026",
       "category": "Sport",
-      "title": "Manchester United, Carrick resta in panchina per la sfida al Chelsea",
-      "eventKey": "manchester-united-carrick-permanenza-allenatore-chelsea-27-ottobre-2026"
+      "title": "Serie A, parte il turno infrasettimanale della nona giornata",
+      "eventKey": "sport-serie-a-nona-giornata-2026"
     },
     {
-      "id": "sport-india-nuova-zelanda-cricket",
+      "id": "sport-milan-pulisic-rinnovo-2031",
       "category": "Sport",
-      "title": "Cricket, India batte la Nuova Zelanda e conquista la serie T20",
-      "eventKey": "india-vittoria-nuova-zelanda-terzo-t20-27-ottobre-2026"
+      "title": "Milan e Pulisic, rinnovo fino al 2031 vicino",
+      "eventKey": "sport-milan-pulisic-rinnovo-2031"
     },
     {
-      "id": "sport-ringrose-infortunio",
+      "id": "sport-pallone-oro-2026-kane",
       "category": "Sport",
-      "title": "Rugby, Ringrose in dubbio per le partite dell'Irlanda a novembre",
-      "eventKey": "irlanda-ringrose-infortunio-coscia-nations-championship-2026"
+      "title": "Pallone d’Oro a Kane, Lautaro chiude al 22º posto",
+      "eventKey": "sport-pallone-oro-2026-kane"
     },
     {
-      "id": "sport-cowboys-eagles-nfl",
+      "id": "sport-f1-wolff-antonelli-crescita",
       "category": "Sport",
-      "title": "NFL, i Cowboys battono gli Eagles 38-21",
-      "eventKey": "nfl-cowboys-eagles-38-21-26-ottobre-2026"
+      "title": "F1, Wolff racconta la crescita di Antonelli in Mercedes",
+      "eventKey": "sport-f1-wolff-antonelli-crescita"
     },
     {
-      "id": "sport-sudafrica-australia-test",
+      "id": "sport-tennis-tokyo-paolini-osaka",
       "category": "Sport",
-      "title": "Cricket Test, il Sudafrica parte forte contro l'Australia",
-      "eventKey": "cricket-sudafrica-australia-terzo-test-prima-giornata-27-ottobre-2026"
+      "title": "Tokyo, Paolini eliminata da Osaka all’esordio",
+      "eventKey": "sport-tennis-tokyo-paolini-osaka"
     }
   ],
   "photoCandidates": [
@@ -279,15 +279,12 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Villa_Borghese_-_Casa_del_Cinema_P1020818.JPG"
     },
     {
-      "id": "sport-manchester-carrick-howe",
+      "id": "sport-serie-a-nona-giornata-2026",
       "category": "Sport",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg"
     }
   ],
   "photosAvailable": 5,
-  "editionId": "2026-10-27-batches-a6dd98072384",
-  "needsPublication": false,
-  "publicEditionId": "2026-10-27-batches-a6dd98072384",
-  "publicVerifiedAt": "2026-10-27T13:27:10.684041+00:00",
-  "publication": "verified"
+  "editionId": "2026-10-27-batches-b9bee48dc05a",
+  "needsPublication": true
 }
