@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-27",
-  "checkedAt": "2026-10-27T12:35:57.390Z",
+  "checkedAt": "2026-10-27T12:43:35.166Z",
   "ready": false,
   "completed": [
     "politica",
@@ -243,8 +243,13 @@
       "id": "roma-trasporto-scolastico-riapertura",
       "category": "Roma",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bus_stop_in_Rome_01.jpg"
+    },
+    {
+      "id": "cultura-cinema-ucraino-polacco",
+      "category": "Cultura · Teatro · Cinema",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Villa_Borghese_-_Casa_del_Cinema_P1020818.JPG"
     }
   ],
-  "photosAvailable": 3,
+  "photosAvailable": 4,
   "needsPublication": false
 }
