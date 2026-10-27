@@ -1,31 +1,32 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-27",
+  "collectionId": "2026-10-27-pomeriggio",
   "category": "Politica",
-  "completedAt": "2026-10-27T13:32:37.126918+00:00",
+  "completedAt": "2026-10-27T15:08:44.706Z",
   "articles": [
     {
       "id": "politica-manovra-cdm-28-ottobre",
       "eventKey": "manovra-2027-cdm-28-ottobre",
       "category": "Politica",
       "status": "verified",
-      "title": "Manovra, il governo punta al Consiglio dei ministri del 28 ottobre",
-      "summary": "Il vertice di maggioranza ha individuato la data del 28 ottobre per il passaggio in Consiglio dei ministri, ma restano aperti diversi capitoli di spesa.",
+      "title": "Manovra, confronto ancora aperto sulle coperture prima del Cdm",
+      "summary": "La maggioranza lavora alla legge di bilancio da 23,5 miliardi: il via libera è atteso per mercoledì 28 ottobre, ma restano da definire alcune misure.",
       "body": [
-        "Il confronto tra Meloni, Giorgetti e i leader della coalizione ha riguardato le priorità di una legge di bilancio caratterizzata da risorse limitate. Le richieste dei partiti comprendono interventi su Irpef, pensioni, lavoro e famiglie.",
-        "Sanità, imprese e coperture fiscali restano al centro del negoziato. La data fissata è un obiettivo politico: le misure discusse non sono ancora norme approvate."
+        "Il governo cerca un'intesa su interventi fiscali, pensioni e contributo del settore finanziario. L'articolo del 26 ottobre spiega che le coperture per energia e difesa dipendono anche dal confronto con Bruxelles.",
+        "La data del Consiglio dei ministri è un obiettivo politico annunciato, non un'approvazione già avvenuta. Nel confronto tra partiti restano divergenze sul prelievo bancario e sulla platea delle agevolazioni."
       ],
-      "publishedAt": "2026-10-27",
-      "verifiedAt": "2026-10-27T11:47:43.326Z",
+      "publishedAt": "2026-10-26T15:43:00+01:00",
+      "verifiedAt": "2026-10-27T15:08:44.706Z",
       "source": {
-        "name": "RaiNews",
-        "url": "https://www.rainews.it/articoli/2026/10/la-manovra-di-bilancio-domani-in-consiglio-dei-ministri-tra-le-incognite-63370b9f-2e50-496c-830e-86706dc89658.html",
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/economia/manovra-al-rush-finale-dal-fisco-alle-pensioni-la-maggioranza-cerca-la-quadra-sulle-misure_1quLsmH6LUSQRYWxHnmaEG",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:47:43.326Z",
-        "dateEvidence": "La pagina RaiNews mostra 27/10/2026 e descrive il vertice di maggioranza e l'obiettivo Cdm del 28 ottobre.",
+        "accessCheckedAt": "2026-10-27T15:08:44.706Z",
+        "dateEvidence": "Pagina Adnkronos: 26 ottobre 2026 ore 15.43, articolo integrale letto il 27 ottobre.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 95,
+      "leadPriority": 92,
       "image": {
         "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PalazzoChigi.jpeg",
         "alt": "Facciata di Palazzo Chigi a Roma",
@@ -38,46 +39,44 @@
       }
     },
     {
-      "id": "politica-ucraina-meloni-salvini",
-      "eventKey": "maggioranza-dissenso-aiuti-ucraina-ottobre-2026",
+      "id": "politica-salvini-pensioni-64-anni",
+      "eventKey": "salvini-proposta-pensioni-64-anni-manovra-27-ottobre-2026",
       "category": "Politica",
       "status": "verified",
-      "title": "Aiuti all'Ucraina, nella maggioranza resta il confronto Meloni–Salvini",
-      "summary": "La Lega chiede di rivedere le forniture militari a Kiev; il governo mantiene una linea di sostegno, mentre si avvicina la scadenza della cornice normativa.",
+      "title": "Salvini rilancia l'uscita dal lavoro a 64 anni",
+      "summary": "Il leader della Lega indica la pensione anticipata tra le priorità del partito per la manovra 2027, mentre Mef e Inps ne valutano il costo.",
       "body": [
-        "Dopo il congresso leghista, il dissenso sugli aiuti militari è diventato uno dei nodi politici tra Matteo Salvini e Giorgia Meloni. RaiNews ricostruisce una telefonata attribuita alla premier, riferita dai quotidiani, senza presentarla come conferma ufficiale.",
-        "La normativa che autorizza le forniture scade il 31 dicembre 2026. Un eventuale nuovo decreto richiederà una decisione politica; il confronto è ancora aperto."
+        "In un'intervista a Radio 24, Matteo Salvini si dice fiducioso sulla possibilità di ampliare l'accesso alla pensione a 64 anni. Si tratta di una proposta, non di una modifica normativa approvata."
       ],
-      "publishedAt": "2026-10-26",
-      "verifiedAt": "2026-10-27T11:47:43.326Z",
+      "publishedAt": "2026-10-27T09:51:00+01:00",
+      "verifiedAt": "2026-10-27T15:08:44.706Z",
       "source": {
-        "name": "RaiNews",
-        "url": "https://www.rainews.it/amp/articoli/2026/10/ucraina-e-autonomia-parte-il-doppio-negoziato-tra-meloni-e-salvini-34898188-c48f-49f0-9c84-18df2511b255.html",
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/10/27/pensione-64-anni-manovra-2027-salvini-intervista",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:47:43.326Z",
-        "dateEvidence": "Nell'articolo integrale RaiNews compare la data editoriale 26/10/2026; testo sui dissensi Ucraina e proroga a fine anno.",
+        "accessCheckedAt": "2026-10-27T15:08:44.706Z",
+        "dateEvidence": "Sky TG24 Politica: 27 ottobre 2026 ore 09:51, dichiarazioni di Salvini a Radio 24.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "politica-italia-territori-convention",
-      "eventKey": "convention-italia-dei-territori-roma-27-29-ottobre",
+      "id": "politica-ricorsi-legge-elettorale",
+      "eventKey": "ricorsi-stabilicum-25-tribunali-26-ottobre-2026",
       "category": "Politica",
       "status": "verified",
-      "title": "A Roma la convention dell'Italia dei Territori promossa da Cateno De Luca",
-      "summary": "Dal 27 al 29 ottobre la convention di Sud chiama Nord e Sindaci d'Italia riunisce amministratori e rappresentanti delle istituzioni; annunciata la presenza di Meloni per il 29.",
+      "title": "Stabilicum, depositati ricorsi in 25 tribunali",
+      "summary": "La Rete per un voto libero e uguale ha promosso impugnazioni della nuova legge elettorale, con una prima udienza prevista a Trento il 16 dicembre.",
       "body": [
-        "L'appuntamento politico nazionale presenta dibattiti sul ruolo degli enti locali, riforme, imprese e lavoro. La manifestazione è prevista dal 27 al 29 ottobre, con interventi di ministri e rappresentanti di più forze politiche.",
-        "Gli organizzatori hanno annunciato per il 29 ottobre la presentazione del simbolo della lista e l'intervento della presidente del Consiglio. Si tratta del programma annunciato, non del resoconto di interventi già svolti."
+        "Secondo i promotori, i ricorsi sono stati presentati con una traccia comune e coinvolgono oltre 300 firmatari. La richiesta di valutazione costituzionale non significa che la legge sia stata dichiarata illegittima."
       ],
-      "publishedAt": "2026-10-26T17:52:00+01:00",
-      "verifiedAt": "2026-10-27T11:47:43.326Z",
+      "publishedAt": "2026-10-26T14:25:00+01:00",
+      "verifiedAt": "2026-10-27T15:08:44.706Z",
       "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com/politica/cdestra-cateno-de-luca-lancia-litalia-dei-territori-a-roma-da-domani-convention-di-3-giorni-conclude-meloni_26y7ULhdhtoYETPqdToKbM",
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/10/26/nuova-legge-elettorale-ricorsi",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:47:43.326Z",
-        "dateEvidence": "La pagina Adnkronos riporta 26 ottobre 2026 ore 17:52 e il programma 27–29 ottobre leggibile integralmente.",
+        "accessCheckedAt": "2026-10-27T15:08:44.706Z",
+        "dateEvidence": "Sky TG24 Politica: 26 ottobre 2026 ore 14:25, testo integrale sui ricorsi e prima udienza.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -86,20 +85,19 @@
       "eventKey": "proposta-mazzi-turismo-articolo-9-costituzione",
       "category": "Politica",
       "status": "verified",
-      "title": "Mazzi propone di inserire il turismo nell'articolo 9 della Costituzione",
-      "summary": "Al Festival delle Regioni, Gianmarco Mazzi ha proposto un esplicito riferimento costituzionale al turismo. È una proposta, non una modifica approvata.",
+      "title": "Turismo nella Costituzione, la proposta di Mazzi",
+      "summary": "Il ministro del Turismo propone di inserire esplicitamente il settore nell'articolo 9 della Carta, durante il Festival delle Regioni.",
       "body": [
-        "Nel corso del Festival delle Regioni a Firenze, Gianmarco Mazzi ha sostenuto l'idea di aggiungere il riferimento al turismo all'articolo 9 della Costituzione, accanto alla promozione della cultura.",
-        "La dichiarazione, documentata da RaiNews il 26 ottobre, apre un tema di indirizzo politico. Non risulta da quella fonte l'avvio o l'approvazione di una revisione costituzionale."
+        "Mazzi ritiene che un riferimento costituzionale riconoscerebbe il peso del turismo nel sistema italiano. La proposta è una dichiarazione politica e non una revisione della Costituzione già avviata."
       ],
       "publishedAt": "2026-10-26",
-      "verifiedAt": "2026-10-27T11:47:43.326Z",
+      "verifiedAt": "2026-10-27T15:08:44.706Z",
       "source": {
         "name": "RaiNews",
         "url": "https://www.rainews.it/video/2026/10/gianmarco-mazzi-ministro-del-turismo-a-firenze-01eed1c5-c867-453e-92f5-1c601e93f27d.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T11:47:43.326Z",
-        "dateEvidence": "La pagina RaiNews del 26/10/2026 contiene la dichiarazione di Mazzi e la descrizione della proposta sull'articolo 9.",
+        "accessCheckedAt": "2026-10-27T15:08:44.706Z",
+        "dateEvidence": "RaiNews, scheda datata 26/10/2026, testo con dichiarazione del ministro all'Italia delle Regioni.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -108,19 +106,19 @@
       "eventKey": "mattarella-priorita-tutela-servizio-sanitario-nazionale",
       "category": "Politica",
       "status": "verified",
-      "title": "Mattarella: tutelare il servizio sanitario è una priorità",
-      "summary": "Al Festival delle Regioni il Presidente richiama la tutela del diritto alla salute.",
+      "title": "Mattarella alle Regioni: difendere il carattere universale della sanità",
+      "summary": "Il presidente della Repubblica considera prioritario preservare e rafforzare il Servizio sanitario nazionale, nel discorso a Firenze.",
       "body": [
-        "A Firenze Mattarella ha indicato la difesa e lo sviluppo del servizio sanitario nazionale come una priorità. Ha richiamato il contributo del PNRR e la responsabilità delle Regioni nel migliorare i servizi ai cittadini."
+        "Mattarella richiama il diritto costituzionale alla salute e il ruolo delle amministrazioni regionali nel miglioramento dei servizi. Cita anche gli investimenti sanitari previsti dal PNRR, tra cui case e ospedali di comunità."
       ],
-      "publishedAt": "2026-10-26T09:48:17.481+01:00",
-      "verifiedAt": "2026-10-27T13:32:37.126918+00:00",
+      "publishedAt": "2026-10-26T11:20:00+01:00",
+      "verifiedAt": "2026-10-27T15:08:44.706Z",
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it/politica/2026/10/26/mattarella-firenze-oggi-festival-regioni",
         "access": "free",
-        "accessCheckedAt": "2026-10-27T13:32:37.126918+00:00",
-        "dateEvidence": "Pagina integrale letta; data di pubblicazione 2026-10-26T09:48:17.481+01:00; aggiornata 2026-10-26T15:56:14.214+0100.",
+        "accessCheckedAt": "2026-10-27T15:08:44.706Z",
+        "dateEvidence": "Sky TG24 Politica: 26 ottobre 2026 ore 11:20, intervento di Mattarella e risorse PNRR per la sanità.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
