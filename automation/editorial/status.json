@@ -1,13 +1,13 @@
 {
   "editionDate": "2026-10-28",
-  "checkedAt": "2026-10-28T05:05:27.667Z",
+  "checkedAt": "2026-10-28T05:06:04.583Z",
   "ready": false,
   "completed": [
-    "politica"
+    "politica",
+    "esteri"
   ],
   "inProgress": [],
   "missing": [
-    "esteri",
     "economia",
     "cronaca",
     "roma",
@@ -46,6 +46,36 @@
       "category": "Politica",
       "title": "Pensioni a 64 anni, Salvini rilancia la proposta della Lega",
       "eventKey": "salvini-proposta-pensione-64-anni-27-ottobre-2026"
+    },
+    {
+      "id": "esteri-israele-exit-poll-knesset",
+      "category": "Esteri",
+      "title": "Israele, exit poll senza maggioranza: trattative decisive dopo il voto",
+      "eventKey": "israele-elezioni-27-ottobre-2026-exit-poll-knesset-stallo"
+    },
+    {
+      "id": "esteri-kiev-raid-scuola-metro",
+      "category": "Esteri",
+      "title": "Kiev, raid missilistico colpisce scuola e infrastrutture civili",
+      "eventKey": "raid-russo-kiev-scuola-metropolitana-27-ottobre-2026"
+    },
+    {
+      "id": "esteri-serbia-lista-studenti-riforme",
+      "category": "Esteri",
+      "title": "Serbia, dopo la vittoria degli studenti comincia la sfida del governo",
+      "eventKey": "serbia-vittoria-lista-studenti-sfida-riforme-27-ottobre-2026"
+    },
+    {
+      "id": "esteri-gabon-piattaforma-prospector-5",
+      "category": "Esteri",
+      "title": "Gabon, affonda la piattaforma Prospector 5: ricerche in corso",
+      "eventKey": "gabon-affondamento-prospector-5-dispersi-ottobre-2026"
+    },
+    {
+      "id": "esteri-brasile-partito-bolsonaro-riconosce-lula",
+      "category": "Esteri",
+      "title": "Brasile, il partito di Bolsonaro riconosce la vittoria di Lula",
+      "eventKey": "brasile-partido-liberal-riconosce-vittoria-lula-27-ottobre-2026"
     }
   ],
   "reserveCounts": {
@@ -63,8 +93,13 @@
       "id": "politica-manovra-meloni-forum-moneta",
       "category": "Politica",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg"
+    },
+    {
+      "id": "esteri-israele-exit-poll-knesset",
+      "category": "Esteri",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG"
     }
   ],
-  "photosAvailable": 1,
+  "photosAvailable": 2,
   "needsPublication": false
 }
