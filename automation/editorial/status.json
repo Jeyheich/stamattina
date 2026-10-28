@@ -1,18 +1,18 @@
 {
   "editionDate": "2026-10-28",
-  "checkedAt": "2026-10-28T05:17:00.523Z",
+  "checkedAt": "2026-10-28T06:04:40.941Z",
   "ready": false,
   "completed": [
     "politica",
     "esteri",
     "economia",
-    "cronaca"
+    "cronaca",
+    "tecnologia"
   ],
   "inProgress": [],
   "missing": [
     "roma",
     "cultura",
-    "tecnologia",
     "sport"
   ],
   "invalid": [],
@@ -136,6 +136,36 @@
       "category": "Cronaca",
       "title": "Sicilia, limite di 60 km/h su un tratto della A20 per lavori urgenti",
       "eventKey": "sicilia-a20-limite-60-villafranca-patti-28-ottobre-31-dicembre-2026"
+    },
+    {
+      "id": "tecnologia-gpt-61-terra",
+      "category": "Tecnologia · AI",
+      "title": "GPT-6.1 Terra arriva per ChatGPT Work e Codex",
+      "eventKey": "openai-rilascio-gpt-61-terra-27-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-pagopa-pec-phishing",
+      "category": "Tecnologia · AI",
+      "title": "False multe PagoPA: phishing attraverso caselle PEC compromesse",
+      "eventKey": "cert-agid-campagna-phishing-pagopa-pec-compromesse-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-imac-m6",
+      "category": "Tecnologia · AI",
+      "title": "Apple aggiorna l'iMac da 24 pollici con processore M6",
+      "eventKey": "apple-presentazione-imac-24-m6-27-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-phantom-blade-preload",
+      "category": "Tecnologia · AI",
+      "title": "Phantom Blade Zero, il precaricamento PC richiede 300 GB temporanei",
+      "eventKey": "phantom-blade-zero-requisito-precaricamento-300gb-pc-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-fortnite-one-piece",
+      "category": "Tecnologia · AI",
+      "title": "Fortnite presenta il trailer della mini-stagione con One Piece",
+      "eventKey": "fortnite-treasure-hunter-one-piece-trailer-mini-stagione-27-ottobre-2026"
     }
   ],
   "reserveCounts": {
