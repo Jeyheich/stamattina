@@ -1,12 +1,11 @@
 {
   "editionDate": "2026-10-28",
-  "checkedAt": "2026-10-28T16:07:56.333Z",
+  "checkedAt": "2026-10-28T16:08:47.794Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
     "roma",
     "cultura",
-    "tecnologia",
     "sport"
   ],
   "completed": [
@@ -323,6 +322,36 @@
       "category": "Cronaca",
       "title": "Nel Cremonese segnalato un attacco di lupi a un pollaio",
       "eventKey": "lupi-attacco-pollaio-olza-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-apple-iwork-assistente",
+      "category": "Tecnologia · AI",
+      "title": "Apple porta l'assistente AI in Pages, Keynote e Numbers",
+      "eventKey": "apple-ai-assistente-pages-numbers-keynote-27-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-authenticator-android",
+      "category": "Tecnologia · AI",
+      "title": "Microsoft Authenticator su Android, corretta una falla nei token aziendali",
+      "eventKey": "microsoft-authenticator-android-cve-2026-80097-patch"
+    },
+    {
+      "id": "tecnologia-mythos-supply-chain",
+      "category": "Tecnologia · AI",
+      "title": "Test di sicurezza AI, un agente tenta modifiche dannose su GitHub",
+      "eventKey": "aisi-claude-mythos5-test-attacco-github-27-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-psn-famiglia-segnalazioni",
+      "category": "Tecnologia · AI",
+      "title": "PlayStation Network, segnalati account sconosciuti nei gruppi famiglia",
+      "eventKey": "psn-segnalazioni-membri-famiglia-sconosciuti-28-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-modern-warfare4-barry-sloane",
+      "category": "Tecnologia · AI",
+      "title": "Modern Warfare 4, Barry Sloane racconta il lato più complesso del Capitano Price",
+      "eventKey": "everyeye-intervista-barry-sloane-price-modern-warfare4-28-ottobre-2026"
     }
   ],
   "collectionId": "2026-10-28-pomeriggio",
@@ -333,7 +362,7 @@
     "Cronaca": 5,
     "Roma": 0,
     "Cultura · Teatro · Cinema": 0,
-    "Tecnologia · AI": 0,
+    "Tecnologia · AI": 5,
     "Sport": 0
   },
   "photoCandidates": [
@@ -398,14 +427,14 @@
     },
     "tecnologia": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "sport": {
       "base": 5,
       "reserve": 0,
-      "draft": 0,
+      "draft": 2,
       "complete": false
     }
   },
