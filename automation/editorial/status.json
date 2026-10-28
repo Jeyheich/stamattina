@@ -1,15 +1,15 @@
 {
   "editionDate": "2026-10-28",
-  "checkedAt": "2026-10-28T05:16:30.387Z",
+  "checkedAt": "2026-10-28T05:17:00.523Z",
   "ready": false,
   "completed": [
     "politica",
     "esteri",
-    "economia"
+    "economia",
+    "cronaca"
   ],
   "inProgress": [],
   "missing": [
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -106,6 +106,36 @@
       "category": "Economia",
       "title": "Eni e Q8 prolungano i tetti commerciali ai carburanti",
       "eventKey": "eni-q8-proroga-tetti-prezzi-carburanti-dicembre-2026"
+    },
+    {
+      "id": "cronaca-sula-samson-ergastolo",
+      "category": "Cronaca",
+      "title": "Femminicidio di Ilaria Sula, ergastolo per Mark Samson",
+      "eventKey": "sentenza-ergastolo-mark-samson-femminicidio-ilaria-sula-27-ottobre-2026"
+    },
+    {
+      "id": "cronaca-valtopina-morte-lavoro",
+      "category": "Cronaca",
+      "title": "Valtopina, muore un operaio ventenne durante lavori stradali",
+      "eventKey": "incidente-lavoro-valtopina-operaio-20-anni-27-ottobre-2026"
+    },
+    {
+      "id": "cronaca-calabria-agguato-sibarelli",
+      "category": "Cronaca",
+      "title": "Agguato nel Cosentino, fissata l'autopsia sulla donna uccisa",
+      "eventKey": "agguato-cassano-ionio-silvana-sibarelli-autopsia-29-ottobre-2026"
+    },
+    {
+      "id": "cronaca-lecce-corpo-pozzo",
+      "category": "Cronaca",
+      "title": "Lecce, un uomo trovato morto in un pozzo: indagine per omicidio",
+      "eventKey": "lecce-torre-rinalda-corpo-antimo-mazzotta-pozzo-indagine-omicidio-2026"
+    },
+    {
+      "id": "cronaca-a20-palermo-messina-limite",
+      "category": "Cronaca",
+      "title": "Sicilia, limite di 60 km/h su un tratto della A20 per lavori urgenti",
+      "eventKey": "sicilia-a20-limite-60-villafranca-patti-28-ottobre-31-dicembre-2026"
     }
   ],
   "reserveCounts": {
