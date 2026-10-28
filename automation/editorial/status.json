@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-28",
-  "checkedAt": "2026-10-28T16:07:25.577Z",
+  "checkedAt": "2026-10-28T16:07:56.333Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,13 +14,13 @@
     "esteri",
     "economia",
     "cronaca",
-    "tecnologia"
+    "tecnologia",
+    "sport"
   ],
   "inProgress": [],
   "missing": [
     "roma",
-    "cultura",
-    "sport"
+    "cultura"
   ],
   "invalid": [],
   "stories": [
@@ -173,6 +173,36 @@
       "category": "Tecnologia · AI",
       "title": "Sony presenta controller e cover trasparenti per PlayStation 5",
       "eventKey": "sony-prism-collection-dualsense-cover-ps5-28-ottobre-2026"
+    },
+    {
+      "id": "sport-atalanta-rientri",
+      "category": "Sport",
+      "title": "Atalanta, tornano Sulemana e Scalvini per la trasferta di Firenze",
+      "eventKey": "atalanta-sulemana-scalvini-rientrano-fiorentina-28-ottobre-2026"
+    },
+    {
+      "id": "sport-lecce-frosinone",
+      "category": "Sport",
+      "title": "Lecce verso Frosinone con numerose assenze: Di Francesco valuta i cambi",
+      "eventKey": "lecce-emergenza-assenze-di-francesco-frosinone-28-ottobre-2026"
+    },
+    {
+      "id": "sport-coppa-re-toledo",
+      "category": "Sport",
+      "title": "Coppa del Re, rinviate 24 gare dopo l'incidente ferroviario di Toledo",
+      "eventKey": "federazione-spagnola-rinvia-24-partite-coppa-re-toledo-28-ottobre-2026"
+    },
+    {
+      "id": "sport-f1-tre-italiani",
+      "category": "Sport",
+      "title": "Formula 1, tre italiani nelle prime libere del GP del Messico",
+      "eventKey": "f1-messico-fp1-tre-italiani-antonelli-fornaroli-mini-28-ottobre-2026"
+    },
+    {
+      "id": "sport-paolini-tokyo",
+      "category": "Sport",
+      "title": "Tennis, Paolini eliminata da Osaka all'esordio a Tokyo",
+      "eventKey": "wta-tokyo-paolini-eliminata-osaka-27-ottobre-2026"
     },
     {
       "id": "politica-sondaggio-swg-coalizioni",
@@ -373,7 +403,7 @@
       "complete": false
     },
     "sport": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
