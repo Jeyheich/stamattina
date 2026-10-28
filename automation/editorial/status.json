@@ -1,11 +1,9 @@
 {
   "editionDate": "2026-10-28",
-  "checkedAt": "2026-10-28T17:17:13.583Z",
+  "checkedAt": "2026-10-28T17:17:56.078Z",
   "ready": true,
-  "editorialComplete": false,
-  "reserveMissing": [
-    "cultura"
-  ],
+  "editorialComplete": true,
+  "reserveMissing": [],
   "completed": [
     "politica",
     "esteri",
@@ -411,6 +409,36 @@
       "eventKey": "roma-centocelle-scritte-intimidatorie-sede-prc-28-ottobre-2026"
     },
     {
+      "id": "cultura-churchill-escaped-alone-teatro-india",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "«Escaped Alone» al Teatro India: il quotidiano diventa apocalisse",
+      "eventKey": "caryl-churchill-escaped-alone-teatro-india-28-ottobre-2026"
+    },
+    {
+      "id": "cultura-roma-jazz-festival-cinquantanni",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Roma Jazz Festival compie cinquant'anni e celebra Miles Davis",
+      "eventKey": "roma-jazz-festival-cinquantesima-edizione-1-24-novembre-2026"
+    },
+    {
+      "id": "cultura-palladium-centenario-1926",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Il Teatro Palladium celebra un secolo dalla prima pietra",
+      "eventKey": "roma-teatro-palladium-centenario-prima-pietra-1926-programma-2026"
+    },
+    {
+      "id": "cultura-medfilm-festival-trentaduesima-edizione",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "MedFilm Festival, 67 film da 33 Paesi nella 32ª edizione",
+      "eventKey": "roma-medfilm-festival-67-film-33-paesi-5-15-novembre-2026"
+    },
+    {
+      "id": "cultura-fumetti-mercato-aie-lucca-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Fumetti, un libro acquistato su dieci è una graphic story",
+      "eventKey": "aie-fumetti-101-percento-libri-acquistati-primi-nove-mesi-2026"
+    },
+    {
       "id": "tecnologia-apple-iwork-assistente",
       "category": "Tecnologia · AI",
       "title": "Apple porta l'assistente AI in Pages, Keynote e Numbers",
@@ -478,7 +506,7 @@
     "Economia": 5,
     "Cronaca": 5,
     "Roma": 5,
-    "Cultura · Teatro · Cinema": 0,
+    "Cultura · Teatro · Cinema": 5,
     "Tecnologia · AI": 5,
     "Sport": 5
   },
@@ -543,9 +571,9 @@
     },
     "cultura": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "tecnologia": {
       "base": 5,
@@ -560,9 +588,6 @@
       "complete": true
     }
   },
-  "editionId": "2026-10-28-batches-23197c67bebb",
-  "needsPublication": false,
-  "publicVerifiedAt": "2026-10-28T17:17:41.789615+00:00",
-  "publicEditionId": "2026-10-28-batches-23197c67bebb",
-  "publication": "verified"
+  "editionId": "2026-10-28-batches-cc9a1e6cc172",
+  "needsPublication": true
 }
