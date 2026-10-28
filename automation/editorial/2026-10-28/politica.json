@@ -123,5 +123,112 @@
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
+  ],
+  "reserveArticles": [
+    {
+      "id": "politica-sondaggio-swg-coalizioni",
+      "eventKey": "sondaggio-swg-26-ottobre-2026-coalizioni",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Sondaggi, FdI al 29,3% ma coalizioni quasi appaiate",
+      "summary": "L'ultima rilevazione Swg diffusa il 26 ottobre assegna al centrosinistra il 44,9% e al centrodestra il 44,1%; il margine statistico non consente di presentare il divario come un risultato elettorale.",
+      "body": [
+        "L'ultima rilevazione Swg diffusa il 26 ottobre assegna al centrosinistra il 44,9% e al centrodestra il 44,1%; il margine statistico non consente di presentare il divario come un risultato elettorale."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-28T15:10:59.437Z",
+      "source": {
+        "name": "QuiFinanza",
+        "url": "https://quifinanza.it/politica/sondaggi-politici-28-ottobre-2026/1021589/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T15:10:59.437Z",
+        "dateEvidence": "QuiFinanza, articolo del 28 ottobre 2026; sondaggio Swg per La7 diffuso il 26 ottobre, con metodologia e campione pubblicati.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-sud-chiama-nord-convention",
+      "eventKey": "sud-chiama-nord-convention-roma-28-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Sud chiama Nord, a Roma la convention per allargare il progetto nazionale",
+      "summary": "La tre giorni di Cateno De Luca, in programma dal 27 al 29 ottobre, cerca nuove alleanze nel centrodestra, pur mantenendo una linea distinta in Sicilia.",
+      "body": [
+        "La tre giorni di Cateno De Luca, in programma dal 27 al 29 ottobre, cerca nuove alleanze nel centrodestra, pur mantenendo una linea distinta in Sicilia."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-28T15:10:59.437Z",
+      "source": {
+        "name": "L'Eco del Sud",
+        "url": "https://www.lecodelsud.it/IT/articolo/dal-vaffa-all-asse-di-governo-a-roma-la-3-giorni-di-scn-tra-grandi-ambizioni-e-la-bufera-sui-social-de-luca-dovra-essere-piu-che-bravo-199849",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T15:10:59.437Z",
+        "dateEvidence": "L'Eco del Sud, articolo di Patrizia Vita datato 28 ottobre 2026; descrizione della convention e delle posizioni politiche.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-meloni-siher-gip",
+      "eventKey": "meloni-commenta-liberazione-siher-28-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Caso Siher, Meloni critica la decisione della giudice di Milano",
+      "summary": "La presidente del Consiglio definisce molto negativamente la scarcerazione del ricercatore fermato dopo le proteste di Milano; è una presa di posizione politica sulla decisione giudiziaria.",
+      "body": [
+        "La presidente del Consiglio definisce molto negativamente la scarcerazione del ricercatore fermato dopo le proteste di Milano; è una presa di posizione politica sulla decisione giudiziaria."
+      ],
+      "publishedAt": "2026-10-28T15:34:00+01:00",
+      "verifiedAt": "2026-10-28T15:10:59.437Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/video/2026/10/28/scarcerazione-siher-meloni-una-decisione-vergognosa-1135319",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T15:10:59.437Z",
+        "dateEvidence": "Sky TG24 Politica, video del 28 ottobre 2026 ore 15:34, dichiarazione della premier e decisione della gip.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-matone-forza-italia",
+      "eventKey": "simonetta-matone-passaggio-lega-forza-italia-26-ottobre",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Simonetta Matone passa dalla Lega a Forza Italia",
+      "summary": "La deputata ha motivato il trasferimento con il dissenso rispetto alle posizioni sovraniste, precisando di voler restare nel centrodestra.",
+      "body": [
+        "La deputata ha motivato il trasferimento con il dissenso rispetto alle posizioni sovraniste, precisando di voler restare nel centrodestra."
+      ],
+      "publishedAt": "2026-10-26T13:16:00+01:00",
+      "verifiedAt": "2026-10-28T15:10:59.437Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/10/26/simonetta-matone-lega-forza-italia",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T15:10:59.437Z",
+        "dateEvidence": "Sky TG24 Politica, 26 ottobre 2026 ore 13:16; articolo e nota della deputata riletti il 28 ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-ricorsi-stabilicum",
+      "eventKey": "ricorsi-stabilicum-25-tribunali-26-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Legge elettorale, depositati ricorsi in 25 tribunali",
+      "summary": "La Rete per un voto libero e uguale ha coordinato le contestazioni contro lo Stabilicum, con più di 300 ricorrenti annunciati; il deposito non annulla la legge.",
+      "body": [
+        "La Rete per un voto libero e uguale ha coordinato le contestazioni contro lo Stabilicum, con più di 300 ricorrenti annunciati; il deposito non annulla la legge."
+      ],
+      "publishedAt": "2026-10-26T14:25:00+01:00",
+      "verifiedAt": "2026-10-28T15:10:59.437Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/10/26/nuova-legge-elettorale-ricorsi",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T15:10:59.437Z",
+        "dateEvidence": "Sky TG24 Politica, 26 ottobre 2026 ore 14:25; testo riletto il 28 ottobre, prima udienza prevista il 16 dicembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
   ]
 }
