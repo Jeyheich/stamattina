@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-10-28",
+  "category": "Tecnologia · AI",
+  "completedAt": "2026-10-28T06:04:27.562Z",
+  "articles": [
+    {
+      "id": "tecnologia-gpt-61-terra",
+      "eventKey": "openai-rilascio-gpt-61-terra-27-ottobre-2026",
+      "title": "GPT-6.1 Terra arriva per ChatGPT Work e Codex",
+      "summary": "Punto Informatico riferisce il debutto del nuovo modello di OpenAI, presentato con miglioramenti nelle attività visuali e nell'uso del computer.",
+      "body": [
+        "Secondo la ricostruzione pubblicata da Punto Informatico il 27 ottobre, GPT-6.1 Terra punta su operazioni professionali che richiedono la comprensione di immagini, il controllo di applicazioni desktop e la programmazione. Il modello viene indicato come disponibile in ChatGPT Work e Codex per gli abbonati idonei.",
+        "L'articolo riporta confronti di prestazioni e prezzi con la generazione precedente, attribuendoli a OpenAI. I risultati dei benchmark sono dichiarazioni riferite dal produttore, non prove indipendenti della redazione."
+      ],
+      "publishedAt": "2026-10-27T12:00:00+01:00",
+      "leadPriority": 88,
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "verifiedAt": "2026-10-28T06:04:27.562Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/openai-gpt-6-1-terra-nuovo-modello-chatgpt-codex/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T06:04:27.562Z",
+        "dateEvidence": "Pagina completa di Punto Informatico firmata Luca Colantuoni: «Pubblicato il 27 ott 2026»; ora non indicata dalla fonte.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-pagopa-pec-phishing",
+      "eventKey": "cert-agid-campagna-phishing-pagopa-pec-compromesse-ottobre-2026",
+      "title": "False multe PagoPA: phishing attraverso caselle PEC compromesse",
+      "summary": "CERT-AgID segnala email su presunte contravvenzioni che conducono a siti imitazione di PagoPA per sottrarre dati e carte.",
+      "body": [
+        "Il CERT-AgID ha documentato messaggi inviati da caselle PEC compromesse, con richieste di pagamento per presunte multe stradali e collegamenti a pagine che imitano il portale PagoPA. In uno dei casi descritti viene chiesto di pagare 198 euro entro il 27 ottobre, minacciando un aumento a 268 euro.",
+        "La provenienza da un indirizzo PEC non garantisce che il contenuto sia autentico. La campagna punta a raccogliere dati anagrafici e informazioni sulle carte di pagamento."
+      ],
+      "publishedAt": "2026-10-27T12:00:00+01:00",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "verifiedAt": "2026-10-28T06:04:27.562Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/phishing-pagopa-richieste-pagamento-pec-compromesse/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T06:04:27.562Z",
+        "dateEvidence": "Articolo completo Punto Informatico di Luca Colantuoni, data visibile «Pubblicato il 27 ott 2026»; orario non pubblicato.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-imac-m6",
+      "eventKey": "apple-presentazione-imac-24-m6-27-ottobre-2026",
+      "title": "Apple aggiorna l'iMac da 24 pollici con processore M6",
+      "summary": "Il desktop all-in-one passa al chip M6 e introduce il supporto a Siri AI; ordini dal 28 ottobre e disponibilità prevista a novembre.",
+      "body": [
+        "Punto Informatico descrive il nuovo iMac da 24 pollici con due configurazioni M6, memoria unificata fino a 32 GB e connettività Wi-Fi 7. L'articolo indica un prezzo base italiano di 1.829 euro e l'avvio degli ordini il 28 ottobre, con consegne dal 6 novembre."
+      ],
+      "publishedAt": "2026-10-27T12:00:00+01:00",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "verifiedAt": "2026-10-28T06:04:27.562Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/apple-svela-nuovo-imac-chip-m6-siri-ai/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T06:04:27.562Z",
+        "dateEvidence": "Articolo integrale Punto Informatico firmato Luca Colantuoni con dicitura «Pubblicato il 27 ott 2026»; nessuna ora esposta.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-phantom-blade-preload",
+      "eventKey": "phantom-blade-zero-requisito-precaricamento-300gb-pc-ottobre-2026",
+      "title": "Phantom Blade Zero, il precaricamento PC richiede 300 GB temporanei",
+      "summary": "S-Game chiarisce che i 300 GB servono durante il preload: dopo l'installazione il gioco occupa circa 145 GB.",
+      "body": [
+        "L'articolo di Everyeye distingue lo spazio necessario per la decompressione dei file durante il precaricamento da quello effettivamente occupato dal gioco. La versione PC richiede un SSD e il lancio è previsto per il 29 ottobre 2026."
+      ],
+      "publishedAt": "2026-10-27T16:14:00+01:00",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "verifiedAt": "2026-10-28T06:04:27.562Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/phantom-blade-zero-mette-crisi-ssd-perche-servono-300-gb-spazio-908297.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T06:04:27.562Z",
+        "dateEvidence": "Everyeye, articolo di Francesco Mustacchio, intestazione datata 27/10/2026 ore 16:14; letto il testo integrale e i requisiti citati.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-fortnite-one-piece",
+      "eventKey": "fortnite-treasure-hunter-one-piece-trailer-mini-stagione-27-ottobre-2026",
+      "title": "Fortnite presenta il trailer della mini-stagione con One Piece",
+      "summary": "Epic Games mostra personaggi della ciurma di Cappello di Paglia e ambientazioni ispirate all'anime nella mini-stagione Treasure Hunter.",
+      "body": [
+        "Nel trailer descritto da Everyeye compaiono Luffy, Nami, Zoro e altri personaggi di One Piece, insieme a luoghi e oggetti ispirati alla serie. La Going Merry è presentata come nuovo Bus della Battaglia."
+      ],
+      "publishedAt": "2026-10-27T15:31:00+01:00",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "verifiedAt": "2026-10-28T06:04:27.562Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/fortnite-accoglie-one-piece-e-ciurma-trailer-mini-stagione-908282.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T06:04:27.562Z",
+        "dateEvidence": "Everyeye, articolo di Giovanni Panzano con data e ora 27/10/2026, ore 15:31; testo e dettagli del trailer letti.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
+}
