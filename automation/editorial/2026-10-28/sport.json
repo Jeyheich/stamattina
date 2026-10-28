@@ -111,7 +111,8 @@
       }
     }
   ],
-  "reserveDraft": [
+  "lastAttemptAt": "2026-10-28T17:04:59.858Z",
+  "reserveArticles": [
     {
       "id": "sport-antonelli-titolo-messico",
       "eventKey": "f1-antonelli-secondo-matchpoint-messico-25-ottobre-2026",
@@ -123,13 +124,13 @@
         "Sky Sport ricostruisce le combinazioni dopo Austin: con cinque Gran Premi ancora in calendario, Antonelli è a quota 365 punti contro i 242 di Russell. Il nono posto in Messico sarebbe sufficiente per assicurarsi il titolo indipendentemente dagli avversari."
       ],
       "publishedAt": "2026-10-25",
-      "verifiedAt": "2026-10-28T16:08:20.378Z",
+      "verifiedAt": "2026-10-28T17:04:59.858Z",
       "source": {
         "name": "Sky Sport",
         "url": "https://sport.sky.it/formula-1/antonelli-campione-f1-2026-se-combinazioni",
         "access": "free",
-        "accessCheckedAt": "2026-10-28T16:08:20.378Z",
-        "dateEvidence": "Sky Sport, pubblicato 25 ottobre 2026 ore 22:58; classifica e combinazioni consultate.",
+        "accessCheckedAt": "2026-10-28T17:04:59.858Z",
+        "dateEvidence": "Sky Sport, pubblicato 25 ottobre 2026 ore 22:58; classifica e combinazioni consultate. Fonte originale riletta il 28 ottobre 2026 in questo recupero.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -144,16 +145,78 @@
         "RaiNews racconta la finale chiusa 6-3, 6-4: il tennista toscano interrompe una serie di finali perse e conquista un trofeo che gli mancava dal 2022. L'articolo mantiene la data originaria del 26 ottobre."
       ],
       "publishedAt": "2026-10-26",
-      "verifiedAt": "2026-10-28T16:08:20.378Z",
+      "verifiedAt": "2026-10-28T17:04:59.858Z",
       "source": {
         "name": "RaiNews",
         "url": "https://www.rainews.it/maratona/2026/10/atp-tennis-lione-lorenzo-musetti-flavio-cobolli-grand-prix-auvergne-rhone-alpes-2026-diretta-d7f46a4e-a2ba-4fc4-9303-95a51791b3de.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-28T16:08:20.378Z",
-        "dateEvidence": "RaiNews, 26 ottobre 2026, cronaca completa della finale e risultati 6-3 6-4 letti.",
+        "accessCheckedAt": "2026-10-28T17:04:59.858Z",
+        "dateEvidence": "RaiNews, 26 ottobre 2026, cronaca completa della finale e risultati 6-3 6-4 letti. Fonte originale riletta il 28 ottobre 2026 in questo recupero.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-lazio-dodici-marcatori",
+      "eventKey": "lazio-dodici-marcatori-diversi-prime-nove-giornate-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Lazio, dodici marcatori diversi nelle prime nove giornate di Serie A",
+      "summary": "Con il primo gol in A di Floriani Mussolini, la Lazio raggiunge dodici giocatori differenti a segno: un primato statistico dopo nove giornate.",
+      "body": [
+        "Sky Sport ricostruisce la graduatoria delle squadre per numero di marcatori: i biancocelesti guidano con dodici, mentre l'Inter insegue. Il dato riguarda la varietà dei giocatori andati in gol, non il totale delle reti."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-28T17:04:59.858Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/serie-a-squadre-gol-piu-marcatori-classifica-2026-2027",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T17:04:59.858Z",
+        "dateEvidence": "Sky Sport, articolo del 28 ottobre 2026 ore 11:00; classifica completa dei marcatori diversi consultata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-errani-paolini-doppio-tokyo",
+      "eventKey": "errani-paolini-vittoria-doppio-danilina-jiang-tokyo-28-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Errani e Paolini ai quarti nel doppio di Tokyo, Finals più vicine",
+      "summary": "Le azzurre superano Danilina e Jiang 7-6, 6-2 al primo turno del WTA 500 e continuano la corsa all'ultimo posto per le Finals.",
+      "body": [
+        "Dopo un primo set combattuto, risolto al tie-break, Errani e Paolini hanno preso il largo nel secondo. Ai quarti incontreranno Muhammad e Zhang; la qualificazione alle Finals dipende anche dal percorso di Mihalikova e Nicholls."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-28T17:04:59.858Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/2026/10/28/errani-paolini-wta-tokyo-risultato-oggi-doppio",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T17:04:59.858Z",
+        "dateEvidence": "Sky Sport, 28 ottobre 2026 ore 13:25; punteggio, avversarie e situazione nella Race letti nella pagina.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-serie-a-nona-giornata-mercoledi",
+      "eventKey": "serie-a-turno-infrasettimanale-cinque-partite-28-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Serie A, cinque partite nel mercoledì della nona giornata",
+      "summary": "Il turno infrasettimanale prevede Milan-Bologna, Parma-Udinese e Venezia-Inter alle 18:30; Monza-Napoli e Genoa-Juventus alle 20:45.",
+      "body": [
+        "Sky Sport presenta il programma della giornata del 28 ottobre, con tre gare nel primo orario e due in serata. Le partite sono annunciate, non ancora riportate come risultati conclusi: orari e incontri sono quelli del calendario pubblicato."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-28T17:04:59.858Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/28/partite-serie-a-oggi-mercoledi",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T17:04:59.858Z",
+        "dateEvidence": "Sky Sport, guida del 28 ottobre 2026 ore 09:00; elenco completo delle cinque gare e orari consultato.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
-  ],
-  "lastAttemptAt": "2026-10-28T16:08:20.378Z"
+  ]
 }
