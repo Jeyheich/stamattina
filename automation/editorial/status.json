@@ -1,19 +1,19 @@
 {
   "editionDate": "2026-10-28",
-  "checkedAt": "2026-10-28T06:05:06.610Z",
+  "checkedAt": "2026-10-28T06:05:55.215Z",
   "ready": false,
   "completed": [
     "politica",
     "esteri",
     "economia",
     "cronaca",
-    "tecnologia"
+    "tecnologia",
+    "sport"
   ],
   "inProgress": [],
   "missing": [
     "roma",
-    "cultura",
-    "sport"
+    "cultura"
   ],
   "invalid": [],
   "stories": [
@@ -166,6 +166,36 @@
       "category": "Tecnologia · AI",
       "title": "Fortnite presenta il trailer della mini-stagione con One Piece",
       "eventKey": "fortnite-treasure-hunter-one-piece-trailer-mini-stagione-27-ottobre-2026"
+    },
+    {
+      "id": "sport-lazio-sassuolo-sei-due",
+      "category": "Sport",
+      "title": "La Lazio ne segna sei al Sassuolo e sale in vetta",
+      "eventKey": "serie-a-lazio-sassuolo-6-2-27-ottobre-2026"
+    },
+    {
+      "id": "sport-roma-cagliari-quattro-due",
+      "category": "Sport",
+      "title": "Roma-Cagliari finisce 4-2, decisivi i cambi di Gasperini",
+      "eventKey": "serie-a-roma-cagliari-4-2-27-ottobre-2026"
+    },
+    {
+      "id": "sport-como-torino-rimonta",
+      "category": "Sport",
+      "title": "Il Como rimonta il Torino e vince 3-1 in trasferta",
+      "eventKey": "serie-a-torino-como-1-3-rimonta-27-ottobre-2026"
+    },
+    {
+      "id": "sport-f1-antonelli-numero-dodici",
+      "category": "Sport",
+      "title": "F1, Antonelli verso il Messico: manterrebbe il numero 12 anche da campione",
+      "eventKey": "formula-1-antonelli-messico-numero-12-senna-27-ottobre-2026"
+    },
+    {
+      "id": "sport-cobolli-vienna-dimitrov",
+      "category": "Sport",
+      "title": "Tennis, Cobolli elimina Dimitrov a Vienna: derby con Berrettini",
+      "eventKey": "atp-vienna-cobolli-batte-dimitrov-27-ottobre-2026"
     }
   ],
   "reserveCounts": {
@@ -193,8 +223,13 @@
       "id": "economia-bce-intesa-mps-autorizzazione",
       "category": "Economia",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:ECB_headquarters,_Frankfurt_140827_1.jpg"
+    },
+    {
+      "id": "sport-lazio-sassuolo-sei-due",
+      "category": "Sport",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg"
     }
   ],
-  "photosAvailable": 3,
+  "photosAvailable": 4,
   "needsPublication": false
 }
