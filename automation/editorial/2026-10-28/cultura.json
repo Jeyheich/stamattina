@@ -119,5 +119,112 @@
       "dateKind": "event",
       "eventDate": "2026-10-28"
     }
+  ],
+  "reserveArticles": [
+    {
+      "id": "cultura-churchill-escaped-alone-teatro-india",
+      "eventKey": "caryl-churchill-escaped-alone-teatro-india-28-ottobre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "«Escaped Alone» al Teatro India: il quotidiano diventa apocalisse",
+      "summary": "L'opera di Caryl Churchill, diretta da Lisa Ferlazzo Natoli e Alessandro Ferroni, mette in scena conversazioni apparentemente ordinarie attraversate da visioni inquietanti.",
+      "body": [
+        "Le quattro protagoniste passano da dialoghi su negozi e serie televisive a immagini di una società devastata. La regia usa anche le trasformazioni della scena, da prato verde a spazio annerito, per rendere visibile la frattura tra normalità e catastrofe. Le repliche proseguono fino al 1° novembre."
+      ],
+      "publishedAt": "2026-10-28T17:35:00+01:00",
+      "verifiedAt": "2026-10-28T17:17:16.366Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/caryl-churchill-porta-in-scena-visioni-postapocalittiche-durante-lora-del-the_052fa19c-ebcf-4a4d-b16c-050c0b544c81.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T17:17:16.366Z",
+        "dateEvidence": "Recensione ANSA Lazio pubblicata 28 ottobre 2026 ore 17:35; repliche fino al 1 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-roma-jazz-festival-cinquantanni",
+      "eventKey": "roma-jazz-festival-cinquantesima-edizione-1-24-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Roma Jazz Festival compie cinquant'anni e celebra Miles Davis",
+      "summary": "Dal 1° al 24 novembre sono previsti venti concerti, diciotto nella Capitale e due nel Lazio, con un programma dedicato al centenario della nascita di Miles Davis.",
+      "body": [
+        "La manifestazione riunirà tra gli altri Paolo Fresu, Kurt Elling, Steve Coleman e Jason Miles. Le sedi romane comprendono Auditorium Parco della Musica, Casa del Jazz e Alcazar; l'apertura del 1° novembre è affidata a Fresu."
+      ],
+      "publishedAt": "2026-10-28T10:40:00+01:00",
+      "verifiedAt": "2026-10-28T17:17:16.366Z",
+      "source": {
+        "name": "La Capitale",
+        "url": "https://www.lacapitale.it/articolo/roma-jazz-festival-2026-50-anni-nel-segno-di-miles-davis-da-paolo-fresu-a-steve-coleman-20-concerti-tra-roma-e-lazio",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T17:17:16.366Z",
+        "dateEvidence": "Articolo di Edoardo Iacolucci pubblicato 28 ottobre 2026 alle 10:40; date del festival 1–24 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-palladium-centenario-1926",
+      "eventKey": "roma-teatro-palladium-centenario-prima-pietra-1926-programma-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Il Teatro Palladium celebra un secolo dalla prima pietra",
+      "summary": "Roma Tre dedica tre appuntamenti alla storia della sala della Garbatella, nata come teatro popolare e poi restituita alla città nel 2003.",
+      "body": [
+        "Il programma «Palladium 100 – Un teatro per il popolo» si apre il 29 ottobre con «Risate di gioia» di Elena Bucci e Marco Sgrosso. Seguiranno la Banda Osiris il 28 novembre e Niccolò Fettarappa con Lorenzo Minozzi l'11 dicembre."
+      ],
+      "publishedAt": "2026-10-28T10:45:00+01:00",
+      "verifiedAt": "2026-10-28T17:17:16.366Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/cento-anni-fa-a-roma-la-prima-pietra-del-palladium-un-teatro-per-il-popolo_889157a7-cfba-4c59-a89e-0ace66083e81.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T17:17:16.366Z",
+        "dateEvidence": "Articolo ANSA Lazio del 28 ottobre 2026 ore 10:45, con calendario degli appuntamenti del centenario.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-medfilm-festival-trentaduesima-edizione",
+      "eventKey": "roma-medfilm-festival-67-film-33-paesi-5-15-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "MedFilm Festival, 67 film da 33 Paesi nella 32ª edizione",
+      "summary": "Il festival cinematografico romano si terrà dal 5 al 15 novembre, con anteprime, incontri e un premio alla carriera al regista palestinese Rashid Masharawi.",
+      "body": [
+        "Il cartellone comprende quattro anteprime mondiali e trentotto italiane, con circa cinquanta ospiti. La manifestazione amplia lo spazio dedicato alle cinematografie dell'Africa subsahariana e prevede una serata di premiazione per Masharawi il 9 novembre."
+      ],
+      "publishedAt": "2026-10-28T16:39:00+01:00",
+      "verifiedAt": "2026-10-28T17:17:16.366Z",
+      "source": {
+        "name": "La Capitale",
+        "url": "https://www.lacapitale.it/articolo/medfilm-festival-2026-a-roma-67-film-da-33-paesi-premio-alla-carriera-al-regista-palestinese-rashid-masharawi",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T17:17:16.366Z",
+        "dateEvidence": "Articolo di Edoardo Iacolucci del 28 ottobre 2026 alle 16:39; festival dal 5 al 15 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-fumetti-mercato-aie-lucca-2026",
+      "eventKey": "aie-fumetti-101-percento-libri-acquistati-primi-nove-mesi-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Fumetti, un libro acquistato su dieci è una graphic story",
+      "summary": "I dati dell'Associazione Italiana Editori presentati a Lucca Comics indicano che i fumetti rappresentano il 10,1% dei libri acquistati nei primi nove mesi del 2026.",
+      "body": [
+        "Sono state vendute 7,1 milioni di copie per 68,3 milioni di euro. Il valore delle vendite dei graphic novel cresce del 34,8%, mentre l'intero mercato trade segna un aumento del 3,2% nello stesso periodo."
+      ],
+      "publishedAt": "2026-10-28T16:35:00+01:00",
+      "verifiedAt": "2026-10-28T17:17:16.366Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/libri/2026/10/28/e-un-fumetto-un-libro-ogni-dieci-comprato-nel-2026-in-libreria-online-e-supermercati_07028d6b-1c4e-45e3-b7d8-18d813aba91b.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T17:17:16.366Z",
+        "dateEvidence": "Articolo ANSA Cultura del 28 ottobre 2026 ore 16:35, dati AIE presentati a Lucca Comics & Games.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
   ]
 }
