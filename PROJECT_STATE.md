@@ -21,8 +21,8 @@
 - collectionId obbligatorio YYYY-MM-DD-mattina oppure YYYY-MM-DD-pomeriggio. Un blocco dell'altro ciclo non può essere saltato come già completato. Fonti realmente rilette, sviluppi recenti, date originali, cinque principali + cinque aggiuntive richieste in entrambi i cicli.
 - Il server pubblica collectionId e deriva ID distinti per ciclo, respinge dati mescolati o parziali e conserva l'ultima edizione. AFTERNOON_TRIAL.md storico superato, non usare come istruzioni correnti.
 - Test locali passati: due cicli 5+5, identificativi pubblici distinti, blocco di mix mattina/pomeriggio e nuovi parziali; restano passati test riserve/date/fonti/foto.
-- Prompt delle due attività aggiornati. Gestore nativo conferma salvataggio e rilettura dei calendari quotidiani con i sei orari per attività; prossimi avvii pomeridiani oggi 28 ottobre. Verifica dei prompt finali ancora da completare.
-- Codice due cicli/dossier pubblicato in cd9ef36ce07dd73293597192a30d159d829b6c87; run40677059043 SUCCESS. Archivio esteso per ID: prima della promozione conserva sia la precedente sia la nuova edizione, mantenendo anche il file giornaliero compatibile. Test promozione mattina→pomeriggio passato.
+- Prompt delle due attività aggiornati. Gestore nativo conferma salvataggio e rilettura dei calendari quotidiani con i sei orari per attività; prossimi avvii pomeridiani oggi 28 ottobre. Entrambi i prompt finali riletti e corrispondenti dopo l'aggiornamento dei calendari; UI Programmate mostra per entrambe il prossimo avvio fra quattro ore.
+- Codice due cicli/dossier pubblicato in cd9ef36ce07dd73293597192a30d159d829b6c87; run40677059043 SUCCESS. Archivio esteso per ID: prima della promozione conserva sia la precedente sia la nuova edizione, mantenendo anche il file giornaliero compatibile. Test promozione mattina→pomeriggio passato. Ultimo commit 05738bef9843f4ad7afcd944cc38cae5316147ff; run40677372665 SUCCESS.
 
 ## Ripresa e problemi aperti
 - Prima esecuzione del flusso corretto ancora da osservare: non garantire 80 domattina dal solo test. Oggi le 35 aggiuntive mancanti non sono state generate da questa correzione.
