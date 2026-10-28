@@ -1,124 +1,125 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-28",
+  "collectionId": "2026-10-28-pomeriggio",
   "category": "Politica",
-  "completedAt": "2026-10-28T05:05:14.472Z",
+  "completedAt": "2026-10-28T15:09:08.060Z",
   "articles": [
     {
-      "id": "politica-manovra-meloni-forum-moneta",
-      "eventKey": "manovra-2027-meloni-forum-moneta-27-ottobre",
+      "id": "politica-manovra-cdm-2027",
+      "eventKey": "manovra-2027-cdm-esame-28-ottobre",
       "category": "Politica",
       "status": "verified",
-      "title": "Manovra, Meloni indica salari, sanità ed energia tra le priorità",
-      "summary": "La presidente del Consiglio punta a portare la legge di bilancio in Consiglio dei ministri il 28 ottobre, ribadendo l'obiettivo di tenere insieme coperture e impegni.",
+      "title": "Manovra 2027, il Consiglio dei ministri avvia l'esame del testo",
+      "summary": "Il governo ha aperto nel pomeriggio il Consiglio dei ministri dedicato alla legge di bilancio da 23,5 miliardi; resta da chiarire il quadro definitivo delle misure.",
       "body": [
-        "Intervenendo al Forum economico Moneta il 27 ottobre, Giorgia Meloni ha dichiarato che il governo è vicino alla conclusione del lavoro sulla manovra e intende presentarla al Consiglio dei ministri il giorno seguente. Non ha annunciato l'approvazione definitiva del testo.",
-        "Tra le aree richiamate dalla premier figurano salari e potere d'acquisto, ceto medio, imprese che assumono e investono, costo dell'energia, sanità, famiglia e giovani. Le misure puntuali restano subordinate al testo finale."
+        "Il Consiglio dei ministri si è riunito il 28 ottobre per esaminare la prossima manovra. I negoziati su Irpef, pensioni ed energia proseguono e non equivalgono a misure già definitivamente approvate.",
+        "Il confronto nella maggioranza sulle coperture e sui capitoli di spesa è ancora aperto: l'articolo distingue le ipotesi dal testo che uscirà dal Consiglio."
       ],
-      "publishedAt": "2026-10-27T22:18:00+01:00",
-      "verifiedAt": "2026-10-28T05:05:14.472Z",
+      "publishedAt": "2026-10-28T15:45:00+01:00",
+      "verifiedAt": "2026-10-28T15:09:08.060Z",
       "source": {
         "name": "Sky TG24",
-        "url": "https://tg24.sky.it/politica/video/2026/10/27/manovra-meloni-manteniamo-impegni-facendo-quadrare-conti-1135219",
+        "url": "https://tg24.sky.it/economia/2026/10/28/manovra-finanziaria-2027",
         "access": "free",
-        "accessCheckedAt": "2026-10-28T05:05:14.472Z",
-        "dateEvidence": "Pagina Sky TG24, 27 ott 2026 - 22:18; trascrizione dichiarazione Meloni al Forum Moneta.",
+        "accessCheckedAt": "2026-10-28T15:09:08.060Z",
+        "dateEvidence": "Sky TG24, aggiornamento 28 ottobre 2026 ore 15:45; articolo letto, Cdm iniziato nel pomeriggio.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 91,
+      "leadPriority": 93,
       "image": {
         "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PalazzoChigi.jpeg",
         "alt": "Facciata di Palazzo Chigi a Roma",
         "credit": "Arepo",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg",
         "rights": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg",
         "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
-        "caption": "Repertorio · Palazzo Chigi, Roma, fotografia del 2009. Non ritrae il Forum economico Moneta né la riunione di governo del 28 ottobre.",
+        "caption": "Repertorio · Palazzo Chigi fotografato nel 2009, non la riunione del 28 ottobre 2026.",
         "reuseApproved": true,
-        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+        "changes": "Nessuna modifica all'originale; adattamento di visualizzazione."
       }
     },
     {
-      "id": "politica-piantedosi-sciopero-30-ottobre",
-      "eventKey": "piantedosi-allerta-manifestazioni-sciopero-30-ottobre-2026",
+      "id": "politica-riforma-artigianato",
+      "eventKey": "meloni-annuncia-riforma-legge-artigianato-28-ottobre",
       "category": "Politica",
       "status": "verified",
-      "title": "Piantedosi invita a mantenere alta l'attenzione sulle manifestazioni",
-      "summary": "Il ministro dell'Interno, parlando alla convention di Sud chiama Nord, ha richiamato i rischi di nuovi disordini in vista dei prossimi appuntamenti di protesta.",
+      "title": "Artigianato, Meloni annuncia un decreto per aggiornare la legge del 1985",
+      "summary": "All'assemblea di Confartigianato la premier ha anticipato un intervento sulle regole del settore, inclusa la possibilità di crescere mantenendo la qualifica artigiana.",
       "body": [
-        "Piantedosi ha fatto riferimento allo sciopero generale del 30 ottobre e ha distinto le rivendicazioni sindacali dalle frange protagoniste di precedenti tensioni. Il ministro non ha annunciato che siano già avvenuti nuovi scontri."
+        "L'annuncio è arrivato durante l'assemblea romana di Confartigianato: il governo intende aggiornare la legge quadro sull'artigianato, risalente al 1985. Si tratta di un annuncio del provvedimento previsto in Cdm, non della sua entrata in vigore."
       ],
-      "publishedAt": "2026-10-27T17:23:00+01:00",
-      "verifiedAt": "2026-10-28T05:05:14.472Z",
+      "publishedAt": "2026-10-28T08:47:00+01:00",
+      "verifiedAt": "2026-10-28T15:09:08.060Z",
       "source": {
         "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/10/27/sciopero-generale-30-ottobre-piantedosi-scontri-manifestazioni",
+        "url": "https://tg24.sky.it/politica/2026/10/28/giorgia-meloni-assemblea-confartigianato-2026",
         "access": "free",
-        "accessCheckedAt": "2026-10-28T05:05:14.472Z",
-        "dateEvidence": "Pagina Sky TG24, Cronaca, 27 ott 2026 - 17:23; dichiarazioni del ministro sulla mobilitazione.",
+        "accessCheckedAt": "2026-10-28T15:09:08.060Z",
+        "dateEvidence": "Sky TG24 Politica, 28 ottobre 2026 ore 08:47; articolo letto su assemblea Confartigianato.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "politica-matone-passa-forza-italia",
-      "eventKey": "simonetta-matone-lascia-lega-aderisce-forza-italia-26-ottobre-2026",
+      "id": "politica-ddl-professioni-sanitarie",
+      "eventKey": "camera-voto-professioni-sanitarie-medici-radiati-28-ottobre",
       "category": "Politica",
       "status": "verified",
-      "title": "Simonetta Matone lascia la Lega e aderisce a Forza Italia",
-      "summary": "La deputata annuncia il cambio di gruppo parlamentare e motiva la scelta con il dissenso verso le posizioni sovraniste.",
+      "title": "Professioni sanitarie, la Camera approva il testo e si divide sui medici radiati",
+      "summary": "La disposizione per facilitare la reiscrizione di alcuni medici radiati è passata con 126 voti favorevoli e 113 contrari; Forza Italia annuncia modifiche al Senato.",
       "body": [
-        "Matone ha dichiarato di voler rimanere nel centrodestra, ma di preferire l'impostazione moderata e garantista di Forza Italia. Il passaggio arriva dopo la conferma di Salvini alla guida della Lega."
+        "Il voto sull'articolo 8 ha mostrato tensioni nella maggioranza: determinanti otto voti di Futuro Nazionale. Il provvedimento prosegue ora il suo iter parlamentare e non costituisce ancora legge definitiva."
       ],
-      "publishedAt": "2026-10-26T13:16:00+01:00",
-      "verifiedAt": "2026-10-28T05:05:14.472Z",
+      "publishedAt": "2026-10-28T12:21:00+01:00",
+      "verifiedAt": "2026-10-28T15:09:08.060Z",
       "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/politica/2026/10/26/simonetta-matone-lega-forza-italia",
+        "name": "Tgcom24",
+        "url": "https://www.tgcom24.mediaset.it/politica/medici-no-vax-reintegrati-camera_118234395-202602k.shtml",
         "access": "free",
-        "accessCheckedAt": "2026-10-28T05:05:14.472Z",
-        "dateEvidence": "Pagina Sky TG24, Politica, 26 ott 2026 - 13:16; nota della deputata e reazioni FI.",
+        "accessCheckedAt": "2026-10-28T15:09:08.060Z",
+        "dateEvidence": "Tgcom24 Politica, pubblicato 28 ottobre 2026 alle 12:21; voti articolo 8 e passaggio al Senato.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "politica-ricorsi-stabilicum-25-tribunali",
-      "eventKey": "ricorsi-stabilicum-25-tribunali-26-ottobre-2026",
+      "id": "politica-mattarella-sanita-territori",
+      "eventKey": "mattarella-giorni-ricerca-disuguaglianze-ssn-28-ottobre",
       "category": "Politica",
       "status": "verified",
-      "title": "Legge elettorale, depositati ricorsi in 25 tribunali",
-      "summary": "La Rete per un voto libero e uguale contesta diversi aspetti dello Stabilicum con ricorsi coordinati presso le sedi giudiziarie.",
+      "title": "Mattarella richiama le istituzioni sulle differenze nella sanità pubblica",
+      "summary": "Ai Giorni della Ricerca al Quirinale il capo dello Stato ha chiesto di ridurre le distanze territoriali ancora presenti nel Servizio sanitario nazionale.",
       "body": [
-        "I promotori segnalano ricorsi presentati simultaneamente in 25 tribunali e più di 300 ricorrenti, tra cui Romano Prodi. Le questioni sollevate riguardano tra l'altro il premio di maggioranza, la rappresentanza e la scelta degli eletti. Nessuna pronuncia della Consulta risulta da questa notizia."
+        "L'intervento di Sergio Mattarella ha posto l'attenzione sull'accesso equo alla sanità. L'appello riguarda l'impegno delle istituzioni e non annuncia una specifica misura già finanziata."
       ],
-      "publishedAt": "2026-10-26T14:25:00+01:00",
-      "verifiedAt": "2026-10-28T05:05:14.472Z",
+      "publishedAt": "2026-10-28T13:37:00+01:00",
+      "verifiedAt": "2026-10-28T15:09:08.060Z",
       "source": {
         "name": "Sky TG24",
-        "url": "https://tg24.sky.it/politica/2026/10/26/nuova-legge-elettorale-ricorsi",
+        "url": "https://tg24.sky.it/politica/video/2026/10/28/mattarella-istituzioni-annullino-distanze-esistenti-in-ssn-1135294",
         "access": "free",
-        "accessCheckedAt": "2026-10-28T05:05:14.472Z",
-        "dateEvidence": "Pagina Sky TG24, Politica, 26 ott 2026 - 14:25; deposito simultaneo in 25 tribunali.",
+        "accessCheckedAt": "2026-10-28T15:09:08.060Z",
+        "dateEvidence": "Sky TG24 Politica video del 28 ottobre 2026 ore 13:37; dichiarazione ai Giorni della Ricerca.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "politica-salvini-pensioni-64-anni",
-      "eventKey": "salvini-proposta-pensione-64-anni-27-ottobre-2026",
+      "id": "politica-csm-elezioni-togati",
+      "eventKey": "elezioni-csm-legittimita-nardecchia-pilla-28-ottobre",
       "category": "Politica",
       "status": "verified",
-      "title": "Pensioni a 64 anni, Salvini rilancia la proposta della Lega",
-      "summary": "Il leader leghista propone di anticipare l'uscita dal lavoro rispetto ai 67 anni e afferma che Mef e Inps stanno valutando i costi.",
+      "title": "Elezioni Csm, Nardecchia e Pilla conquistano i seggi di legittimità",
+      "summary": "Lo spoglio dei magistrati di Cassazione premia due candidature dell'area progressista; restano da definire altri collegi e la componente laica.",
       "body": [
-        "Nell'intervista del 27 ottobre Salvini si è detto fiducioso sulla possibilità di inserire la misura nella manovra, ma la proposta non equivale a una norma approvata. Ha citato anche l'ipotesi di aumentare a 100mila euro la soglia del regime forfettario."
+        "Giovanni Nardecchia ha ottenuto 1.759 preferenze ed Egle Pilla 1.710; Salvatore Casciaro si è fermato a 1.704. Lo scrutinio degli altri collegi prosegue e il risultato non determina ancora la composizione definitiva del Consiglio."
       ],
-      "publishedAt": "2026-10-27T09:51:00+01:00",
-      "verifiedAt": "2026-10-28T05:05:14.472Z",
+      "publishedAt": "2026-10-28T14:45:00+01:00",
+      "verifiedAt": "2026-10-28T15:09:08.060Z",
       "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/politica/2026/10/27/pensione-64-anni-manovra-2027-salvini-intervista",
+        "name": "Domani",
+        "url": "https://www.editorialedomani.it/giustizia/elezioni-al-csm-voto-togati-laici-2026-isqpdfu2",
         "access": "free",
-        "accessCheckedAt": "2026-10-28T05:05:14.472Z",
-        "dateEvidence": "Pagina Sky TG24, Politica, 27 ott 2026 - 09:51; intervista di Salvini e stime Mef/Inps.",
+        "accessCheckedAt": "2026-10-28T15:09:08.060Z",
+        "dateEvidence": "Domani Giustizia, 28 ottobre 2026 ore 14:45; articolo completo letto con risultati parziali.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
