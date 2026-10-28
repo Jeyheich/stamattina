@@ -1,7 +1,7 @@
 {
   "editionDate": "2026-10-28",
-  "checkedAt": "2026-10-28T16:17:18.767Z",
-  "ready": false,
+  "checkedAt": "2026-10-28T16:17:45.135Z",
+  "ready": true,
   "editorialComplete": false,
   "reserveMissing": [
     "roma",
@@ -14,13 +14,12 @@
     "economia",
     "cronaca",
     "roma",
+    "cultura",
     "tecnologia",
     "sport"
   ],
   "inProgress": [],
-  "missing": [
-    "cultura"
-  ],
+  "missing": [],
   "invalid": [],
   "stories": [
     {
@@ -172,6 +171,36 @@
       "category": "Roma",
       "title": "Liceo Righi, studenti denunciano scritte offensive nei bagni",
       "eventKey": "roma-liceo-righi-lista-stupri-svastica-25-ottobre-2026"
+    },
+    {
+      "id": "cultura-festival-nuova-consonanza-tempo",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Nuova Consonanza presenta «Tempo»: oltre quaranta eventi musicali a Roma",
+      "eventKey": "festival-nuova-consonanza-tempo-63-edizione-28-ottobre-2026"
+    },
+    {
+      "id": "cultura-falstaff-opera-roma-diretta-rai3",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "«Falstaff» dell'Opera di Roma arriva in diretta su Rai 3 il 1° novembre",
+      "eventKey": "opera-roma-falstaff-diretta-rai3-primo-novembre-2026"
+    },
+    {
+      "id": "cultura-antonello-enigma-sorriso-ritratti",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Antonello da Messina, due ritratti in dialogo tra Cefalù e Torino",
+      "eventKey": "antonello-da-messina-enigma-sorriso-cefalu-torino-28-ottobre-2026"
+    },
+    {
+      "id": "cultura-ref-can-can-ortoleva-mattatoio",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Romaeuropa, «Can Can» indaga il corpo femminile al Mattatoio",
+      "eventKey": "romaeuropa-can-can-ortoleva-mantova-mattatoio-27-28-ottobre-2026"
+    },
+    {
+      "id": "cultura-gone-kepler452-teatro-india",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Al Teatro India debutta «Gone», il progetto di Kepler-452 con attori georgiani",
+      "eventKey": "gone-kepler452-teatro-india-debutto-28-ottobre-2026"
     },
     {
       "id": "tecnologia-certificati-emudhra",
@@ -455,7 +484,7 @@
       "complete": false
     },
     "cultura": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
@@ -473,5 +502,6 @@
       "complete": false
     }
   },
-  "needsPublication": false
+  "editionId": "2026-10-28-batches-c19606361a1b",
+  "needsPublication": true
 }
