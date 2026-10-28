@@ -1,12 +1,11 @@
 {
   "editionDate": "2026-10-28",
-  "checkedAt": "2026-10-28T16:17:45.135Z",
+  "checkedAt": "2026-10-28T17:05:14.673Z",
   "ready": true,
   "editorialComplete": false,
   "reserveMissing": [
     "roma",
-    "cultura",
-    "sport"
+    "cultura"
   ],
   "completed": [
     "politica",
@@ -411,6 +410,36 @@
       "category": "Tecnologia · AI",
       "title": "Modern Warfare 4, Barry Sloane racconta il lato più complesso del Capitano Price",
       "eventKey": "everyeye-intervista-barry-sloane-price-modern-warfare4-28-ottobre-2026"
+    },
+    {
+      "id": "sport-antonelli-titolo-messico",
+      "category": "Sport",
+      "title": "F1, Antonelli può chiudere il Mondiale in Messico",
+      "eventKey": "f1-antonelli-secondo-matchpoint-messico-25-ottobre-2026"
+    },
+    {
+      "id": "sport-musetti-vince-lione",
+      "category": "Sport",
+      "title": "Tennis, Musetti torna a vincere un titolo battendo Fritz a Lione",
+      "eventKey": "tennis-musetti-batte-fritz-finale-lione-26-ottobre-2026"
+    },
+    {
+      "id": "sport-lazio-dodici-marcatori",
+      "category": "Sport",
+      "title": "Lazio, dodici marcatori diversi nelle prime nove giornate di Serie A",
+      "eventKey": "lazio-dodici-marcatori-diversi-prime-nove-giornate-2026"
+    },
+    {
+      "id": "sport-errani-paolini-doppio-tokyo",
+      "category": "Sport",
+      "title": "Errani e Paolini ai quarti nel doppio di Tokyo, Finals più vicine",
+      "eventKey": "errani-paolini-vittoria-doppio-danilina-jiang-tokyo-28-ottobre-2026"
+    },
+    {
+      "id": "sport-serie-a-nona-giornata-mercoledi",
+      "category": "Sport",
+      "title": "Serie A, cinque partite nel mercoledì della nona giornata",
+      "eventKey": "serie-a-turno-infrasettimanale-cinque-partite-28-ottobre-2026"
     }
   ],
   "collectionId": "2026-10-28-pomeriggio",
@@ -422,7 +451,7 @@
     "Roma": 0,
     "Cultura · Teatro · Cinema": 0,
     "Tecnologia · AI": 5,
-    "Sport": 0
+    "Sport": 5
   },
   "photoCandidates": [
     {
@@ -497,14 +526,11 @@
     },
     "sport": {
       "base": 5,
-      "reserve": 0,
-      "draft": 2,
-      "complete": false
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
     }
   },
-  "editionId": "2026-10-28-batches-c19606361a1b",
-  "needsPublication": false,
-  "publicVerifiedAt": "2026-10-28T16:18:09.673240+00:00",
-  "publicEditionId": "2026-10-28-batches-c19606361a1b",
-  "publication": "verified"
+  "editionId": "2026-10-28-batches-821af529b1e5",
+  "needsPublication": true
 }
