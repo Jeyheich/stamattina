@@ -122,5 +122,112 @@
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
+  ],
+  "reserveArticles": [
+    {
+      "id": "cronaca-hydra-collaboratore-giustizia",
+      "eventKey": "processo-hydra-giancarlo-vestiti-collaboratore-28-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Processo Hydra, un nuovo collaboratore di giustizia",
+      "summary": "Giancarlo Vestiti, indicato dagli investigatori come referente del clan Senese in Lombardia, ha intrapreso un percorso di collaborazione.",
+      "body": [
+        "La scelta è emersa durante l'udienza milanese del processo Hydra. Vestiti è il sesto collaboratore di giustizia citato nel procedimento sulla rete criminale descritta dall'accusa come mafia a tre teste."
+      ],
+      "publishedAt": "2026-10-28T12:55:00+01:00",
+      "verifiedAt": "2026-10-28T15:21:45.698Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/28/caso-hydra-si-pente-il-referente-del-clan-senese-in-lombardia_d9bbcc25-d155-47c6-a11d-1558e4c50de5.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T15:21:45.698Z",
+        "dateEvidence": "ANSA, Milano 28 ottobre 2026 ore 12:55; udienza processo Hydra.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-brandizzo-udienza-preliminare",
+      "eventKey": "brandizzo-udienza-preliminare-parti-civili-28-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Brandizzo, nuova udienza preliminare sulla morte di cinque operai",
+      "summary": "A Ivrea si discute dell'ammissione delle parti civili nel procedimento per l'incidente ferroviario del 2023.",
+      "body": [
+        "L'udienza preliminare riguarda i cinque operai travolti da un treno a Brandizzo nella notte fra il 30 e il 31 agosto 2023. Il giudice potrebbe rinviare la decisione sulle costituzioni di parte civile alla prossima udienza del 25 novembre."
+      ],
+      "publishedAt": "2026-10-28T13:14:00+01:00",
+      "verifiedAt": "2026-10-28T15:21:45.698Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/28/strage-di-brandizzo-in-corso-la-seconda-sessione-delludienza-preliminare_66d65000-b9e6-4c84-936b-e3302e9648e0.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T15:21:45.698Z",
+        "dateEvidence": "ANSA, Torino 28 ottobre 2026 ore 13:14; udienza preliminare al tribunale di Ivrea.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-rimpatri-ventotto-stranieri",
+      "eventKey": "rimpatri-28-persone-operazione-28-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Rimpatriate 28 persone, fra loro un giovane coinvolto negli scontri di Milano",
+      "summary": "L'operazione di rimpatrio comprende un uomo trattenuto in un centro per il rimpatrio dopo i disordini del 18 ottobre.",
+      "body": [
+        "Secondo la notizia diffusa il 28 ottobre, le autorità hanno effettuato 28 rimpatri. Fra le persone coinvolte figura un giovane che era stato trattenuto in un Cpr dopo gli scontri milanesi; il caso presenta precedenti provvedimenti amministrativi e giudiziari."
+      ],
+      "publishedAt": "2026-10-28T09:48:00+01:00",
+      "verifiedAt": "2026-10-28T15:21:45.698Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/28/rimpatriati-28-stranieri-anche-uno-dei-coinvolti-negli-scontri-di-milano_5880dfef-1955-4345-a813-0b65b868e334.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T15:21:45.698Z",
+        "dateEvidence": "ANSA, Roma 28 ottobre 2026 ore 09:48; cronaca di 28 rimpatri.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-sciame-sismico-tirreno",
+      "eventKey": "tirreno-meridionale-sette-scosse-28-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Tirreno meridionale, prosegue lo sciame sismico",
+      "summary": "L'INGV segnala sette scosse dalle prime ore del 28 ottobre, la più intensa di magnitudo 3,4.",
+      "body": [
+        "Le scosse si sono verificate in mare, in un'area già interessata da eventi sismici nei giorni precedenti. Sky TG24 riporta i dati dell'INGV e ricorda le scosse avvertite fra Palermo, Messina e le Eolie."
+      ],
+      "publishedAt": "2026-10-28T09:58:00+01:00",
+      "verifiedAt": "2026-10-28T15:21:45.698Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/28/terremoto-oggi-sciame-sismico-mar-tirreno",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T15:21:45.698Z",
+        "dateEvidence": "Sky TG24, Cronaca 28 ottobre 2026 ore 09:58; dati sismici INGV.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-lupi-animali-cremonese",
+      "eventKey": "lupi-attacco-pollaio-olza-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Nel Cremonese segnalato un attacco di lupi a un pollaio",
+      "summary": "Nella zona rurale di Olza un branco avrebbe ucciso dieci volatili, suscitando preoccupazione fra i residenti.",
+      "body": [
+        "Secondo il resoconto di Sky TG24, tre o quattro lupi avrebbero oltrepassato una recinzione durante la notte in una località della Bassa Piacentina al confine con Cremona. Il sopralluogo delle autorità locali avrebbe confermato l'attacco; la notizia riguarda il fine settimana precedente."
+      ],
+      "publishedAt": "2026-10-28T11:46:00+01:00",
+      "verifiedAt": "2026-10-28T15:21:45.698Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/28/lupi-cremona",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T15:21:45.698Z",
+        "dateEvidence": "Sky TG24, Cronaca 28 ottobre 2026 ore 11:46; evento riferito al fine settimana precedente.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
   ]
 }
