@@ -112,5 +112,117 @@
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
+  ],
+  "reserveArticles": [
+    {
+      "id": "tecnologia-riserva-meloni-email-tentato-attacco",
+      "eventKey": "tentativo-attacco-email-parlamentare-meloni-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Tentato attacco alla posta parlamentare di Meloni: accertamenti ancora aperti",
+      "summary": "Un tentativo di compromissione ha preso di mira la casella parlamentare della presidente del Consiglio e altri account istituzionali.",
+      "body": [
+        "Punto Informatico ricostruisce la notizia riportata da Reuters: la posta parlamentare di Giorgia Meloni sarebbe stata presa di mira insieme a quella di altri deputati. L'ufficio della premier precisa che l'indirizzo interessato non è quello utilizzato per le comunicazioni governative.",
+        "La prima ricostruzione non confermava l'effettiva violazione; un aggiornamento delle 16:31 del 27 ottobre, attribuito a Repubblica, riferisce che alcuni messaggi sarebbero stati letti. La dinamica e i responsabili restano da chiarire."
+      ],
+      "publishedAt": "2026-10-27",
+      "verifiedAt": "2026-10-28T07:05:17.599Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/attacco-casella-email-giorgia-meloni/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T07:05:17.599Z",
+        "dateEvidence": "Pagina completa Punto Informatico: «Pubblicato il 27 ott 2026»; aggiornamento esplicito 27 ottobre 2026 ore 16:31. Non specificata ora iniziale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-riserva-macbook-pro-14-m6",
+      "eventKey": "apple-annuncio-macbook-pro-14-m6-27-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Apple presenta il MacBook Pro da 14 pollici con chip M6",
+      "summary": "Il portatile base da 14 pollici passa a M6: preordini dal 28 ottobre, disponibilità indicata dal 6 novembre.",
+      "body": [
+        "Secondo Punto Informatico, Apple aggiorna il MacBook Pro da 14 pollici con CPU e GPU a 12 core, configurazioni da 16 a 32 GB di memoria unificata e schermo Liquid Retina XDR. Il modello si distingue dall'iMac M6 già trattato nella rassegna principale.",
+        "Il listino riportato parte da 2.349 euro. Il pezzo indica preordini dal giorno successivo alla pubblicazione e disponibilità prevista dal 6 novembre, mentre le versioni M5 Pro e M5 Max restano per il momento a catalogo."
+      ],
+      "publishedAt": "2026-10-27",
+      "verifiedAt": "2026-10-28T07:05:17.599Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/macbook-pro-14-pollici-m6/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T07:05:17.599Z",
+        "dateEvidence": "Pagina completa Punto Informatico: «Pubblicato il 27 ott 2026»; preordini annunciati per il giorno seguente, 28 ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-riserva-danimarca-collabora-office",
+      "eventKey": "danimarca-interruzione-test-collabora-office-ministero-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Danimarca, interrotto il test per sostituire Microsoft Office con Collabora",
+      "summary": "Un esperimento del ministero danese su una suite alternativa è stato accantonato dopo problemi di formattazione e revisione dei documenti.",
+      "body": [
+        "Punto Informatico riferisce che il progetto, avviato nel 2025 per 38 dipendenti, prevedeva il passaggio da Microsoft Office a Collabora. Secondo la ricostruzione, il test è stato interrotto dopo meno di sei mesi, già a febbraio 2026.",
+        "Le difficoltà segnalate riguardavano stili, pagine vuote e tracciamento delle modifiche. Si tratta di una notizia pubblicata il 26 ottobre che ricostruisce un episodio precedente, non di una decisione presa il 28 ottobre."
+      ],
+      "publishedAt": "2026-10-26",
+      "verifiedAt": "2026-10-28T07:05:17.599Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/danimarca-fallisce-test-collabora-torna-microsoft-office/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T07:05:17.599Z",
+        "dateEvidence": "Pagina completa Punto Informatico: «Pubblicato il 26 ott 2026»; il testo distingue la pubblicazione dal test terminato a febbraio.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-riserva-ac-black-flag-resynced-new-game-plus",
+      "eventKey": "assassins-creed-black-flag-resynced-patch-108-new-game-plus-27-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Assassin's Creed Black Flag Resynced aggiunge New Game+ con la patch 1.0.8",
+      "summary": "Ubisoft distribuisce un aggiornamento con nuova partita avanzata, difficoltà Incubo e altre correzioni.",
+      "body": [
+        "Everyeye riporta l'arrivo della patch 1.0.8 su PS5, Xbox Series X|S e PC. La modalità New Game+ permette di ricominciare mantenendo equipaggiamenti, potenziamenti e risorse, ma richiede di riconquistare i forti e reclutare nuovamente gli ufficiali.",
+        "La patch introduce anche una modalità Incubo, nuove ricompense cosmetiche e miglioramenti di stabilità. È distinta dalle notizie già pubblicate su Phantom Blade Zero e Fortnite."
+      ],
+      "publishedAt": "2026-10-27T23:04:00+01:00",
+      "verifiedAt": "2026-10-28T07:05:17.599Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/assassin-s-creed-black-flag-resynced-new-game-arrivato-non-unica-novita-908376.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T07:05:17.599Z",
+        "dateEvidence": "Articolo Everyeye di Francesco Mustacchio, data e ora esplicite 27/10/2026 ore 23:04; testo integrale della patch 1.0.8.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-riserva-modern-warfare-4-shipment",
+      "eventKey": "call-of-duty-modern-warfare-4-primo-aggiornamento-shipment-27-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Modern Warfare 4 riporta la mappa Shipment nel primo aggiornamento",
+      "summary": "Il primo update post-lancio dello sparatutto introduce la piccola arena Shipment e una playlist dedicata.",
+      "body": [
+        "Everyeye segnala che la mappa Shipment è disponibile nel primo aggiornamento di Call of Duty Modern Warfare 4, con la modalità Shipment 24/7. Il formato concentrato dell'arena favorisce incontri rapidi e sfide per le mimetiche.",
+        "La notizia riguarda un aggiornamento effettivamente pubblicato, non un'indiscrezione sul prossimo capitolo; l'articolo include anche un richiamo al messaggio social ufficiale della serie."
+      ],
+      "publishedAt": "2026-10-27T22:42:00+01:00",
+      "verifiedAt": "2026-10-28T07:05:17.599Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/call-of-duty-modern-warfare-4-mappa-leggendaria-disponibile-update-908373.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T07:05:17.599Z",
+        "dateEvidence": "Articolo Everyeye di Giovanni Panzano, data e ora esplicite 27/10/2026 ore 22:42; descrizione della mappa Shipment e playlist 24/7.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
   ]
 }
