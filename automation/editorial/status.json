@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-28",
-  "checkedAt": "2026-10-28T16:08:47.794Z",
+  "checkedAt": "2026-10-28T16:17:18.767Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,12 +13,12 @@
     "esteri",
     "economia",
     "cronaca",
+    "roma",
     "tecnologia",
     "sport"
   ],
   "inProgress": [],
   "missing": [
-    "roma",
     "cultura"
   ],
   "invalid": [],
@@ -142,6 +142,36 @@
       "category": "Cronaca",
       "title": "Torino, ammessi gli appelli in un caso di violenza domestica",
       "eventKey": "torino-corte-appello-riapertura-caso-lesioni-moglie-suocera-28-ottobre"
+    },
+    {
+      "id": "roma-scippo-tor-bella-monaca",
+      "category": "Roma",
+      "title": "Tor Bella Monaca, arrestato un quattordicenne dopo lo scippo a una donna",
+      "eventKey": "roma-tor-bella-monaca-scippo-collana-14enne-28-ottobre-2026"
+    },
+    {
+      "id": "roma-operazione-dia-san-basilio-tufello",
+      "category": "Roma",
+      "title": "Droga nell'area est di Roma, sei arresti dopo l'indagine della DIA",
+      "eventKey": "roma-dia-sei-arresti-traffico-cocaina-san-basilio-tufello-27-ottobre-2026"
+    },
+    {
+      "id": "roma-liceo-talete-danno-idrico",
+      "category": "Roma",
+      "title": "Liceo Talete, proteste per i danni idrici e la sicurezza dell'edificio",
+      "eventKey": "roma-liceo-talete-prati-danno-idrico-proteste-studenti-27-ottobre-2026"
+    },
+    {
+      "id": "roma-sapienza-ballottaggio-rettore",
+      "category": "Roma",
+      "title": "Sapienza, ballottaggio aperto per scegliere il rettore 2026–2032",
+      "eventKey": "roma-sapienza-ballottaggio-rettore-carcaterra-lucidi-27-30-ottobre-2026"
+    },
+    {
+      "id": "roma-righi-scritte-lista-stupri",
+      "category": "Roma",
+      "title": "Liceo Righi, studenti denunciano scritte offensive nei bagni",
+      "eventKey": "roma-liceo-righi-lista-stupri-svastica-25-ottobre-2026"
     },
     {
       "id": "tecnologia-certificati-emudhra",
@@ -385,9 +415,14 @@
       "id": "cronaca-blitz-cosenza-ndrangheta",
       "category": "Cronaca",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_159_Carabinieri.jpg"
+    },
+    {
+      "id": "roma-sapienza-ballottaggio-rettore",
+      "category": "Roma",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sapienzia_Roma.jpg"
     }
   ],
-  "photosAvailable": 4,
+  "photosAvailable": 5,
   "categoryProgress": {
     "politica": {
       "base": 5,
@@ -414,7 +449,7 @@
       "complete": true
     },
     "roma": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
