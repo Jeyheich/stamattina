@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-28",
-  "checkedAt": "2026-10-28T06:20:46.357Z",
+  "checkedAt": "2026-10-28T07:05:36.295Z",
   "ready": true,
   "completed": [
     "politica",
@@ -255,6 +255,36 @@
       "category": "Sport",
       "title": "Tennis, Cobolli elimina Dimitrov a Vienna: derby con Berrettini",
       "eventKey": "atp-vienna-cobolli-batte-dimitrov-27-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-riserva-meloni-email-tentato-attacco",
+      "category": "Tecnologia · AI",
+      "title": "Tentato attacco alla posta parlamentare di Meloni: accertamenti ancora aperti",
+      "eventKey": "tentativo-attacco-email-parlamentare-meloni-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-riserva-macbook-pro-14-m6",
+      "category": "Tecnologia · AI",
+      "title": "Apple presenta il MacBook Pro da 14 pollici con chip M6",
+      "eventKey": "apple-annuncio-macbook-pro-14-m6-27-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-riserva-danimarca-collabora-office",
+      "category": "Tecnologia · AI",
+      "title": "Danimarca, interrotto il test per sostituire Microsoft Office con Collabora",
+      "eventKey": "danimarca-interruzione-test-collabora-office-ministero-2026"
+    },
+    {
+      "id": "tecnologia-riserva-ac-black-flag-resynced-new-game-plus",
+      "category": "Tecnologia · AI",
+      "title": "Assassin's Creed Black Flag Resynced aggiunge New Game+ con la patch 1.0.8",
+      "eventKey": "assassins-creed-black-flag-resynced-patch-108-new-game-plus-27-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-riserva-modern-warfare-4-shipment",
+      "category": "Tecnologia · AI",
+      "title": "Modern Warfare 4 riporta la mappa Shipment nel primo aggiornamento",
+      "eventKey": "call-of-duty-modern-warfare-4-primo-aggiornamento-shipment-27-ottobre-2026"
     }
   ],
   "reserveCounts": {
@@ -264,7 +294,7 @@
     "Cronaca": 0,
     "Roma": 0,
     "Cultura · Teatro · Cinema": 0,
-    "Tecnologia · AI": 0,
+    "Tecnologia · AI": 5,
     "Sport": 0
   },
   "photoCandidates": [
@@ -295,9 +325,6 @@
     }
   ],
   "photosAvailable": 5,
-  "editionId": "2026-10-28-batches-ede003923fa6",
-  "needsPublication": false,
-  "publicVerifiedAt": "2026-10-28T06:21:37.285385+00:00",
-  "publicEditionId": "2026-10-28-batches-ede003923fa6",
-  "publication": "verified"
+  "editionId": "2026-10-28-batches-c29dd129955d",
+  "needsPublication": true
 }
