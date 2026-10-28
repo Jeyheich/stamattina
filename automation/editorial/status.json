@@ -1,11 +1,9 @@
 {
   "editionDate": "2026-10-28",
-  "checkedAt": "2026-10-28T15:10:37.706Z",
+  "checkedAt": "2026-10-28T15:11:16.295Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
-    "politica",
-    "esteri",
     "economia",
     "cronaca",
     "roma",
@@ -87,12 +85,72 @@
       "category": "Esteri",
       "title": "Lisbona, tende e manifestanti davanti al Parlamento per il diritto alla casa",
       "eventKey": "lisbona-protesta-diritto-casa-parlamento-27-ottobre"
+    },
+    {
+      "id": "politica-sondaggio-swg-coalizioni",
+      "category": "Politica",
+      "title": "Sondaggi, FdI al 29,3% ma coalizioni quasi appaiate",
+      "eventKey": "sondaggio-swg-26-ottobre-2026-coalizioni"
+    },
+    {
+      "id": "politica-sud-chiama-nord-convention",
+      "category": "Politica",
+      "title": "Sud chiama Nord, a Roma la convention per allargare il progetto nazionale",
+      "eventKey": "sud-chiama-nord-convention-roma-28-ottobre-2026"
+    },
+    {
+      "id": "politica-meloni-siher-gip",
+      "category": "Politica",
+      "title": "Caso Siher, Meloni critica la decisione della giudice di Milano",
+      "eventKey": "meloni-commenta-liberazione-siher-28-ottobre-2026"
+    },
+    {
+      "id": "politica-matone-forza-italia",
+      "category": "Politica",
+      "title": "Simonetta Matone passa dalla Lega a Forza Italia",
+      "eventKey": "simonetta-matone-passaggio-lega-forza-italia-26-ottobre"
+    },
+    {
+      "id": "politica-ricorsi-stabilicum",
+      "category": "Politica",
+      "title": "Legge elettorale, depositati ricorsi in 25 tribunali",
+      "eventKey": "ricorsi-stabilicum-25-tribunali-26-ottobre-2026"
+    },
+    {
+      "id": "esteri-sudan-nyala-mercato",
+      "category": "Esteri",
+      "title": "Sudan, drone su un mercato a Nyala: almeno 21 vittime secondo i resoconti",
+      "eventKey": "sudan-attacco-drone-mercato-nyala-26-ottobre-2026"
+    },
+    {
+      "id": "esteri-frontex-rimpatri-ue",
+      "category": "Esteri",
+      "title": "Unione europea, proposta di rafforzare Frontex e i rimpatri",
+      "eventKey": "ue-proposta-riforma-frontex-27-ottobre-2026"
+    },
+    {
+      "id": "esteri-gabon-prospector-5",
+      "category": "Esteri",
+      "title": "Gabon, ricerche dopo l'affondamento della piattaforma Prospector 5",
+      "eventKey": "gabon-piattaforma-prospector-5-affondamento-25-ottobre-2026"
+    },
+    {
+      "id": "esteri-jorgensen-raffinazione",
+      "category": "Esteri",
+      "title": "Ue, Jørgensen propone una strategia per la raffinazione europea",
+      "eventKey": "ue-jorgensen-raffinazione-diesel-28-ottobre-2026"
+    },
+    {
+      "id": "esteri-trump-zelensky-putin",
+      "category": "Esteri",
+      "title": "Trump torna a ipotizzare un incontro fra Zelensky e Putin",
+      "eventKey": "trump-ipotesi-incontro-zelensky-putin-28-ottobre-2026"
     }
   ],
   "collectionId": "2026-10-28-pomeriggio",
   "reserveCounts": {
-    "Politica": 0,
-    "Esteri": 0,
+    "Politica": 5,
+    "Esteri": 5,
     "Economia": 0,
     "Cronaca": 0,
     "Roma": 0,
@@ -116,15 +174,15 @@
   "categoryProgress": {
     "politica": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "esteri": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "economia": {
       "base": 0,
