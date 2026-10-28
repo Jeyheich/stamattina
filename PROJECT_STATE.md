@@ -6,24 +6,20 @@
 - UI moderna, font di sistema, temi, salvati, swipe e movimento ridotto. Scartati grafica serif/cartacea, limite 12–15, produzione monolitica da 40 e API a pagamento.
 - Obiettivo entro 09:00 Europe/Rome anche a Mac spento; nessuna garanzia assoluta di puntualità.
 
-## Stato osservato
-- Pubblica attuale: 2026-10-27-batches-25240eef4798, preparata alle 17:49 Europe/Rome. 40 base e 40 riserve reali (cinque aggiuntive per ognuna delle otto categorie), cinque foto; run40544624077 SUCCESS, publication=verified e publicEditionId identico.
-- Prima edizione completata tramite blocchi cloud Plus con interventi di collaudo su due foto/testi: non presentarla come ciclo mattutino interamente autonomo già osservato.
-- PWA v10 pubblicata (40507960046 SUCCESS). Browser a 390px: Sport cinque articoli, apertura/chiusura funziona, nessun overflow. Reload offline: 40 articoli e cinque foto disponibili, messaggio aggiornamento corretto; connessione ripristinata. Verifica visuale mobile eseguita.
-- Test assemblatore superati: blocchi mancanti/parziali non pubblicano, otto validi generano 40/35/5; duplicati, date scadute e foto insufficienti bloccano. Cronaca ripresa da due a cinque; due blocchi completati nella stessa esecuzione.
-- Fonti/foto fallite salvano stato per recupero e impediscono pubblicazione. Foto Commons controllate per autore/licenza/accesso dal server; pertinenza responsabilità editoriale. Libreria sette foto reali, nessuna generata.
+## Stato osservato — 28 ottobre 2026
+- Pubblica 2026-10-28-batches-c29dd129955d, preparata alle 08:05 Europe/Rome: 40 principali + cinque aggiuntive solo Tecnologia. Le altre sette categorie senza reserveArticles né reserveDraft. Il successo del workflow provava la pubblicazione dei 45 articoli, non il risultato 80 richiesto.
+- Il collaudo manuale di ieri con 80 articoli resta valido per UI/dati; non dimostra produzione giornaliera autonoma delle 40 aggiuntive.
+- Correzione approvata oggi: 5+5 richiesti in ogni categoria, tolti facoltatività e stop dopo le cinque principali. Recuperi sulle categorie con riserve mancanti della propria attività, massimo due per avvio; bozze salvate e cause esplicite se non completate.
+- Nuovo stato server editorialComplete, reserveMissing e categoryProgress: completezza editoriale solo con otto categorie 5+5 valide. ready/publication=verified rimangono esito tecnico dei contenuti disponibili; la base verificata resta pubblicabile. Avviso finale distingue pubblicazione parziale e rassegna completa.
+- Test locali: base40 e Tecnologia-sola45 incomplete con categorie mancanti; 80 validi completi; duplicati, scadenze e riserve parziali respinti. Test inseriti nel workflow.
 
-## Programmazione salvata e riletta
-Tutto Europe/Rome: tre attività rassegna, sei avvii giornalieri.
-- Rassegna stampa quotidiana (6ae05f1b65048191ab49a6b1efa795ee): 06:03 Politica/Esteri; 07:03 Tecnologia/Sport.
-- Rassegna · Economia e Cronaca (6ae0984223088191b89da89ca650b81c): 06:10 Economia/Cronaca; 07:10 recupero massimo due blocchi.
-- Rassegna · Roma e Cultura (6ae098447b7481919b203e1a5610dfee): 06:17 Roma/Cultura; 07:17 recupero massimo due blocchi/foto e verifica pubblicazione.
-- Raccolta GitHub 06:00: prepare-candidates.yml scrive solo dossier candidati; ultima prova 40504175773 SUCCESS. Vecchio daily.yml resta disabled_manually.
-- Limiti nativi osservati: minimo un'ora tra avvii della stessa attività, massimo cinque attività attive nell'account. Nove avvii ravvicinati/otto attività rifiutati e scartati. Altre due attività personali intatte.
-- Blocchi validi saltati, checkpoint parziali conservati. Procedura corrente: automation/BATCH_BRIEF.md.
+## Programmazione consolidata
+- Due attività attive, sei avvii Europe/Rome: principale 06:05 Politica/Esteri, 07:05 Tecnologia/Sport, 08:05 recupero; seconda 06:15 Economia/Cronaca, 07:15 Roma/Cultura, 08:15 recupero e avviso finale.
+- Terza Roma/Cultura in pausa; nessuna nuova attività o modifica agli orari. Pomeriggio 27 ottobre trascorso e non ricorrente. Altre attività personali intatte.
+- Raccolta GitHub 06:00 invariata; vecchio daily.yml disattivato. Solo Plus e GitHub già autorizzati, niente nuovi costi.
 
 ## Ripresa e problemi aperti
-- Primo ciclo ricorrente completo il 28 ottobre, ancora da osservare. Non promettere esito futuro dal solo test manuale. Se incompleto resta l'ultima edizione con stato recuperabile.
+- Prima esecuzione del flusso corretto ancora da osservare: non garantire 80 domattina dal solo test. Oggi le 35 aggiuntive mancanti non sono state generate da questa correzione.
 - Quota condivisa non attribuibile precisamente al progetto: niente conteggi inventati, monitoraggio quote o acquisti crediti. Massimo sei avvii, lavoro completato saltato.
 - Verifica nuova edizione scarica una pubblicazione disponibile, non avvia ricerche. Controlla anche all'apertura/ritorno dopo cinque minuti.
 - Git locale main/HEAD v6 27e5adc conserva modifiche intenzionali e differisce dal remoto: verificare remoto prima di modificare; niente reset/push del vecchio checkout.
@@ -100,3 +96,7 @@ Richiesta Fabio: spostato nella toolbar sticky delle categorie, rimosso il dupli
 - Preparati otto blocchi reserveArticles da cinque: 40 base + 40 aggiuntive, fatti e URL distinti; nessun fixture. Cultura con date evento esplicite; Tecnologia tre Punto Informatico e due Everyeye anche nelle aggiuntive.
 - Controlli locali formato/assemblaggio e HTTP su tutte le 80 fonti e cinque foto superati. Una principale Cronaca ora segnalata non gratuita da Il Fatto sostituita con il resoconto Adnkronos dello stesso evento, letto integralmente. Nessuna modifica UI, orari o attività.
 - Pubblicazione 2026-10-27-batches-25240eef4798 verificata sul JSON pubblico: 80 articoli, 40 reserveIds, cinque riserve per categoria. Browser: tutte le otto categorie passano 5→10 al clic; controllo visuale 390px superato. Edizione preparata alle 17:49, run40544624077 SUCCESS. Pulsante ↻ carica questa edizione, poi Carica altre 5 rivela le riserve senza ricerca al clic.
+
+## Checkpoint correzione riserve 28 ottobre
+- Istruzioni del repository e due prompt nativi da allineare e rileggere; verificare esito remoto prima di dichiarare applicata la correzione.
+- Nessuna modifica ai contenuti pubblicati, alla UI o alle fonti approvate. Modificare il flusso non crea retroattivamente le notizie mancanti.

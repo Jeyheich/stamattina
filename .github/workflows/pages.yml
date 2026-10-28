@@ -31,6 +31,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Verifica ripresa e completezza delle aggiuntive
+        run: node scripts/test_batches.mjs
       - name: Ricomponi i blocchi editoriali senza perdere progressi
         id: batches
         run: node scripts/assemble_batches.mjs

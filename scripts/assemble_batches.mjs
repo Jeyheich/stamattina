@@ -41,7 +41,7 @@ export function validateBlock(block,slug,today,now=Date.now(),partial=false){
   return block;
 }
 export function assemble(blocks,today=romeDay(),now=Date.now()){
-  const state={editionDate:today,checkedAt:new Date(now).toISOString(),ready:false,completed:[],inProgress:[],missing:[],invalid:[],stories:[]};
+  const state={editionDate:today,checkedAt:new Date(now).toISOString(),ready:false,editorialComplete:false,reserveMissing:categories.map(([slug])=>slug),completed:[],inProgress:[],missing:[],invalid:[],stories:[]};
   const articles=[],reserves=[];
   // A same-day refresh must not mix freshly reviewed blocks with the earlier edition.
   const cycles=[...new Set(Object.values(blocks).filter(b=>b.editionDate===today).map(b=>b.collectionId).filter(Boolean))];
@@ -61,6 +61,8 @@ export function assemble(blocks,today=romeDay(),now=Date.now()){
   state.reserveCounts=Object.fromEntries(categories.map(([,name])=>[name,reserves.filter(a=>a.category===name).length]));
   state.photoCandidates=articles.filter(a=>a.image).map(a=>({id:a.id,category:a.category,sourceUrl:a.image.sourceUrl}));
   state.photosAvailable=new Set(state.photoCandidates.map(a=>a.sourceUrl)).size;
+  state.reserveMissing=categories.filter(([,name])=>state.reserveCounts[name]!==5).map(([slug])=>slug);
+  state.categoryProgress=Object.fromEntries(categories.map(([slug,name])=>[slug,{base:articles.filter(a=>a.category===name).length,reserve:state.reserveCounts[name],draft:Array.isArray(blocks[slug]?.reserveDraft)?blocks[slug].reserveDraft.length:0,complete:state.completed.includes(slug)&&state.reserveCounts[name]===5}]));
   if(state.missing.length||state.invalid.length||state.inProgress.length)return {state};
   try{
     assert.equal(new Set(articles.map(a=>a.id)).size,40,'ID duplicati tra categorie');
@@ -78,7 +80,7 @@ export function assemble(blocks,today=romeDay(),now=Date.now()){
     const edition={schemaVersion:1,id:today+'-batches-'+fingerprint,mode:'live',editionDate:today,
       generatedAt:new Date(now).toISOString(),timezone:'Europe/Rome',scheduledFor:today+'T07:30:00'+offset,
       essentialIds:leadIds,leadIds,compactIds:articles.filter(a=>!leadSet.has(a.id)).map(a=>a.id),articles:editionArticles,...(reserves.length?{reserveIds:reserves.map(a=>a.id)}:{})};
-    validate(edition,true,true);state.ready=true;state.editionId=edition.id;return {state,edition};
+    validate(edition,true,true);state.ready=true;state.editorialComplete=state.reserveMissing.length===0;state.editionId=edition.id;return {state,edition};
   }catch(e){state.invalid.push({slug:'edition',reason:e.message});return {state};}
 }
 if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url)){

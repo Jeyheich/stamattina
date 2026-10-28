@@ -50,3 +50,18 @@ const shortReserve=structuredClone(withReserve);shortReserve.sport.reserveArticl
 const oldReserve=structuredClone(withReserve);oldReserve.sport.reserveArticles[0].verifiedAt='2000-01-01T00:00:00Z';assert.equal(assemble(oldReserve,today,now).edition,undefined);
 if(process.env.WRITE_UI_FIXTURE)fs.writeFileSync(process.env.WRITE_UI_FIXTURE,JSON.stringify({...expanded.edition,mode:'demo',articles:expanded.edition.articles.map(a=>({...a,status:'example',title:a.id.includes('-extra')?'ESEMPIO — Notizia aggiuntiva '+a.category:'ESEMPIO — Notizia '+a.category}))}));
 console.log('PASS: riserva 5 per categoria, 80 totali con 40 iniziali; duplicati, parziali e scadenze respinti.');
+
+// Completeness is editorial, not merely a technically publishable base edition.
+assert.equal(complete.state.editorialComplete,false);
+assert.deepEqual(complete.state.reserveMissing,categories.map(([slug])=>slug));
+const techOnly=structuredClone(blocks);techOnly.tecnologia.reserveArticles=structuredClone(withReserve.tecnologia.reserveArticles);
+const limited=assemble(techOnly,today,now);
+assert.equal(limited.state.ready,true,'La base verificata rimane pubblicabile');
+assert.equal(limited.state.editorialComplete,false,'45 articoli non completano la rassegna richiesta');
+assert.equal(limited.state.reserveMissing.length,7);
+assert.equal(limited.state.categoryProgress.tecnologia.complete,true);
+assert.equal(limited.state.categoryProgress.sport.complete,false);
+assert.equal(expanded.state.editorialComplete,true);
+assert.deepEqual(expanded.state.reserveMissing,[]);
+assert.equal(assemble(badReserve,today,now).state.editorialComplete,false);
+console.log('PASS: 40 o 45 articoli dichiarano riserve mancanti; soltanto 80 validi completano il lavoro editoriale.');
