@@ -80,3 +80,18 @@ assert.equal(assemble(mixed,today,now).edition,undefined,'Mai mescolare mattina 
 const pmProgress=structuredClone(pm);pmProgress.sport.status='in-progress';pmProgress.sport.lastAttemptAt=stamp;delete pmProgress.sport.completedAt;pmProgress.sport.articles=pmProgress.sport.articles.slice(0,2);
 assert.equal(assemble(pmProgress,today,now).edition,undefined,'Un nuovo ciclo parziale conserva il pubblico precedente');
 console.log('PASS: due cicli 5+5 distinti, collectionId pubblico, id separati e blocco dei cicli mescolati/parziali.');
+
+assert(amEdition.edition.scheduledFor.includes('T09:00:00'));
+assert(pmEdition.edition.scheduledFor.includes('T19:00:00'));
+const {default:os}=await import('node:os');const {default:path}=await import('node:path');const {execFileSync}=await import('node:child_process');const {fileURLToPath}=await import('node:url');
+const temp=fs.mkdtempSync(path.join(os.tmpdir(),'stamattina-cycle-test-'));
+try{
+ fs.mkdirSync(path.join(temp,'incoming'),{recursive:true});fs.mkdirSync(path.join(temp,'dist/data'),{recursive:true});
+ fs.writeFileSync(path.join(temp,'dist/data/current.json'),JSON.stringify(amEdition.edition));
+ fs.writeFileSync(path.join(temp,'incoming/edition.json'),JSON.stringify(pmEdition.edition));
+ execFileSync(process.execPath,[fileURLToPath(new URL('./promote.mjs',import.meta.url))],{cwd:temp});
+ assert.deepEqual(JSON.parse(fs.readFileSync(path.join(temp,'dist/data/archive',amEdition.edition.id+'.json'))),amEdition.edition);
+ assert.deepEqual(JSON.parse(fs.readFileSync(path.join(temp,'dist/data/archive',pmEdition.edition.id+'.json'))),pmEdition.edition);
+ assert.equal(JSON.parse(fs.readFileSync(path.join(temp,'dist/data/current.json'))).collectionId,today+'-pomeriggio');
+}finally{fs.rmSync(temp,{recursive:true,force:true});}
+console.log('PASS: la promozione pomeridiana archivia sia il mattino sia il nuovo ciclo; obiettivi 09/19 coerenti.');

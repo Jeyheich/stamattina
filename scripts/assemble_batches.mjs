@@ -78,7 +78,7 @@ export function assemble(blocks,today=romeDay(),now=Date.now()){
     // Derive the date's UTC offset from Europe/Rome; do not assume winter time.
     const offset=new Intl.DateTimeFormat('en',{timeZone:'Europe/Rome',timeZoneName:'longOffset'}).formatToParts(new Date(today+'T12:00:00Z')).find(x=>x.type==='timeZoneName').value.replace('GMT','');
     const edition={schemaVersion:1,...(cycle?{collectionId:cycle}:{}),id:today+'-batches-'+fingerprint,mode:'live',editionDate:today,
-      generatedAt:new Date(now).toISOString(),timezone:'Europe/Rome',scheduledFor:today+'T07:30:00'+offset,
+      generatedAt:new Date(now).toISOString(),timezone:'Europe/Rome',scheduledFor:today+(cycle?.endsWith('-pomeriggio')?'T19:00:00':'T09:00:00')+offset,
       essentialIds:leadIds,leadIds,compactIds:articles.filter(a=>!leadSet.has(a.id)).map(a=>a.id),articles:editionArticles,...(reserves.length?{reserveIds:reserves.map(a=>a.id)}:{})};
     validate(edition,true,true);state.ready=true;state.editorialComplete=state.reserveMissing.length===0;state.editionId=edition.id;return {state,edition};
   }catch(e){state.invalid.push({slug:'edition',reason:e.message});return {state};}
