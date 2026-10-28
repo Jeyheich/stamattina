@@ -126,5 +126,112 @@
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
+  ],
+  "reserveArticles": [
+    {
+      "id": "roma-bilancio-lazio-consolidato-2025",
+      "eventKey": "lazio-consiglio-regionale-bilancio-consolidato-2025-approvato-28-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Regione Lazio, approvato il bilancio consolidato 2025",
+      "summary": "Il Consiglio regionale ha approvato il documento contabile che registra un risultato economico positivo di circa 870,5 milioni di euro.",
+      "body": [
+        "La relazione dell'assessore Giancarlo Righini descrive il bilancio consolidato come il quadro economico-patrimoniale complessivo della Regione, comprensivo degli enti e delle società controllate o partecipate. L'Assemblea ha approvato la proposta adottata dalla Giunta."
+      ],
+      "publishedAt": "2026-10-28T15:41:00+01:00",
+      "verifiedAt": "2026-10-28T17:16:58.503Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/il-consiglio-regionale-approva-il-bilancio-consolidato-utile-di-870-milioni_3498c56f-a053-4ff2-8ea5-670fb2b6037f.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T17:16:58.503Z",
+        "dateEvidence": "Articolo ANSA Lazio datato 28 ottobre 2026 ore 15:41, testo integrale consultato.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-iacopini-trasferimento-neurochirurgia",
+      "eventKey": "roma-davide-iacopini-trasferito-neurochirurgia-28-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Davide Iacopini lascia la terapia intensiva, trasferito in reparto",
+      "summary": "L'attore, ferito all'inizio di ottobre in un episodio che coinvolgeva una minicar mentre era in monopattino, è vigile e non necessita più di supporti intensivi.",
+      "body": [
+        "Secondo il bollettino del San Camillo diffuso il 28 ottobre, dopo 23 giorni in terapia intensiva la prognosi è stata sciolta. Il trasferimento in Neurochirurgia consente la prosecuzione delle cure e della riabilitazione."
+      ],
+      "publishedAt": "2026-10-28T17:08:00+01:00",
+      "verifiedAt": "2026-10-28T17:16:58.503Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/spinto-dalla-minicar-iacopini-trasferito-in-reparto-e-vigile_dcd97a14-b941-40dd-a771-15ece679f0c4.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T17:16:58.503Z",
+        "dateEvidence": "Articolo ANSA Lazio del 28 ottobre 2026 ore 17:08, con bollettino medico dell'ospedale San Camillo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-papa-cinque-parrocchie-avvento",
+      "eventKey": "roma-leone-xiv-visite-cinque-parrocchie-avvento-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Il Papa visiterà cinque parrocchie romane durante l'Avvento",
+      "summary": "Annunciate cinque visite di Leone XIV nei settori pastorali della diocesi di Roma, tra il 27 novembre e il 20 dicembre.",
+      "body": [
+        "Il programma prevede Sant'Andrea delle Fratte il 27 novembre, San Carlo da Sezze il 29, Sant'Eligio il 6 dicembre, Santa Lucia il 13 e San Roberto Bellarmino il 20. Le visite includeranno incontri con le comunità e la celebrazione della messa."
+      ],
+      "publishedAt": "2026-10-28T13:34:00+01:00",
+      "verifiedAt": "2026-10-28T17:16:58.503Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/il-papa-visitera-nel-tempo-davvento-cinque-parrocchie-di-roma_cf7049d3-60ea-431e-8b11-04b7d052ad9a.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T17:16:58.503Z",
+        "dateEvidence": "Articolo ANSA Lazio pubblicato 28 ottobre 2026 ore 13:34; annuncio delle date future di visita.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-roma-breast-days-2026",
+      "eventKey": "roma-breast-days-santo-spirito-regata-29-31-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Roma Breast Days, prevenzione e regata sul Tevere dal 29 ottobre",
+      "summary": "La sesta edizione della manifestazione unisce un congresso medico sulla salute del seno e una regata di equipaggi femminili.",
+      "body": [
+        "L'iniziativa si svolgerà dal 29 al 31 ottobre tra il complesso del Santo Spirito in Saxia e il Tevere. La regata del 31 ottobre coinvolgerà venti equipaggi di donne, mentre il congresso affronterà ricerca, trattamenti e riabilitazione."
+      ],
+      "publishedAt": "2026-10-28T17:36:00+01:00",
+      "verifiedAt": "2026-10-28T17:16:58.503Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/28/roma-breast-days-rema-roma-per-la-vita-2026-al-via-con_60997e45-c057-48ae-807d-334b92bb6d42.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T17:16:58.503Z",
+        "dateEvidence": "Articolo ANSA del 28 ottobre 2026 ore 17:36; date dell'evento 29–31 ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-centocelle-intimidazione-sede-prc",
+      "eventKey": "roma-centocelle-scritte-intimidatorie-sede-prc-28-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Centocelle, denunciate nuove scritte intimidatorie alla sede di Rifondazione",
+      "summary": "Il segretario romano del partito denuncia un secondo episodio in pochi giorni, avvenuto mentre nella sede si teneva una lezione di italiano per migranti.",
+      "body": [
+        "Secondo Giovanni Barbera, sul cancello del circolo di via delle Acacie sono comparsi una croce celtica e la parola «remigrazione». Il partito chiede di individuare i responsabili e rafforzare la vigilanza; le attribuzioni restano dichiarazioni dei denuncianti, non esiti investigativi."
+      ],
+      "publishedAt": "2026-10-28T12:57:00+01:00",
+      "verifiedAt": "2026-10-28T17:16:58.503Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/amp/lazio/notizie/2026/10/28/croce-celtica-e-scritta-remigrazione-su-una-sede-del-prc-a-roma_22b2f88e-cfa5-493c-a009-b72242465214.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T17:16:58.503Z",
+        "dateEvidence": "Notizia ANSA Lazio del 28 ottobre 2026, ora 12:57 riportata nell'indice; versione AMP consultata tramite risultato testuale integrale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
   ]
 }
