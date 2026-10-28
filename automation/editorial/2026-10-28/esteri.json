@@ -123,5 +123,112 @@
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
+  ],
+  "reserveArticles": [
+    {
+      "id": "esteri-sudan-nyala-mercato",
+      "eventKey": "sudan-attacco-drone-mercato-nyala-26-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Sudan, drone su un mercato a Nyala: almeno 21 vittime secondo i resoconti",
+      "summary": "Un attacco contro un mercato della città controllata dai paramilitari ha provocato morti; responsabilità e bilancio richiedono ulteriori verifiche indipendenti.",
+      "body": [
+        "Un attacco contro un mercato della città controllata dai paramilitari ha provocato morti; responsabilità e bilancio richiedono ulteriori verifiche indipendenti."
+      ],
+      "publishedAt": "2026-10-27T11:59:00+01:00",
+      "verifiedAt": "2026-10-28T15:10:59.437Z",
+      "source": {
+        "name": "Notizie Geopolitiche",
+        "url": "https://www.notiziegeopolitiche.net/sudan-un-drone-colpisce-un-mercato-di-nyala-capitale-dei-paramilitari-21-morti/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T15:10:59.437Z",
+        "dateEvidence": "Notizie Geopolitiche, pubblicato 27 ottobre 2026 ore 11:59; attacco descritto come avvenuto lunedì sera.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-frontex-rimpatri-ue",
+      "eventKey": "ue-proposta-riforma-frontex-27-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Unione europea, proposta di rafforzare Frontex e i rimpatri",
+      "summary": "La Commissione ha presentato un progetto che prevede più personale e competenze operative anche nei Paesi terzi; si tratta di una proposta, non di norme già in vigore.",
+      "body": [
+        "La Commissione ha presentato un progetto che prevede più personale e competenze operative anche nei Paesi terzi; si tratta di una proposta, non di norme già in vigore."
+      ],
+      "publishedAt": "2026-10-27T17:34:00+01:00",
+      "verifiedAt": "2026-10-28T15:10:59.437Z",
+      "source": {
+        "name": "Notizie Geopolitiche",
+        "url": "https://www.notiziegeopolitiche.net/ue-stretta-sui-rimpatri-frontex-verso-30mila-agenti-e-maggiori-poteri-nei-paesi-terzi/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T15:10:59.437Z",
+        "dateEvidence": "Notizie Geopolitiche, pubblicato 27 ottobre 2026 ore 17:34; proposta della Commissione a Bruxelles.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-gabon-prospector-5",
+      "eventKey": "gabon-piattaforma-prospector-5-affondamento-25-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Gabon, ricerche dopo l'affondamento della piattaforma Prospector 5",
+      "summary": "La piattaforma offshore è affondata il 25 ottobre vicino a Mayumba: un morto e persone ancora disperse secondo i resoconti; le autorità indagano sulle cause.",
+      "body": [
+        "La piattaforma offshore è affondata il 25 ottobre vicino a Mayumba: un morto e persone ancora disperse secondo i resoconti; le autorità indagano sulle cause."
+      ],
+      "publishedAt": "2026-10-27T08:11:00+01:00",
+      "verifiedAt": "2026-10-28T15:10:59.437Z",
+      "source": {
+        "name": "TG LA7",
+        "url": "https://tg.la7.it/esteri/gabon-piattaforma-petrolifera-affondamento-video-27-10-2026-264917",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T15:10:59.437Z",
+        "dateEvidence": "TG LA7 Esteri, 27 ottobre 2026 ore 08:11; incidente datato 25 ottobre e bilancio ancora discordante.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-jorgensen-raffinazione",
+      "eventKey": "ue-jorgensen-raffinazione-diesel-28-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Ue, Jørgensen propone una strategia per la raffinazione europea",
+      "summary": "Il commissario all'Energia vuole rafforzare la produzione interna di carburanti e biocarburanti, collegando sicurezza degli approvvigionamenti e decarbonizzazione.",
+      "body": [
+        "Il commissario all'Energia vuole rafforzare la produzione interna di carburanti e biocarburanti, collegando sicurezza degli approvvigionamenti e decarbonizzazione."
+      ],
+      "publishedAt": "2026-10-28T14:11:00+01:00",
+      "verifiedAt": "2026-10-28T15:10:59.437Z",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/internazionale/esteri/jorgensen-ue-diesel-essenziale-per-economia-e-difesa-europea_2DzB07yqKl0JtuW8w4bWkF",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T15:10:59.437Z",
+        "dateEvidence": "Adnkronos Esteri, 28 ottobre 2026 ore 14:11; dichiarazioni del commissario europeo in conferenza stampa.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-trump-zelensky-putin",
+      "eventKey": "trump-ipotesi-incontro-zelensky-putin-28-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Trump torna a ipotizzare un incontro fra Zelensky e Putin",
+      "summary": "Il presidente statunitense sostiene che un faccia a faccia potrebbe avvenire presto, ma non indica una data o un'intesa effettivamente raggiunta.",
+      "body": [
+        "Il presidente statunitense sostiene che un faccia a faccia potrebbe avvenire presto, ma non indica una data o un'intesa effettivamente raggiunta."
+      ],
+      "publishedAt": "2026-10-28T10:13:00+01:00",
+      "verifiedAt": "2026-10-28T15:10:59.437Z",
+      "source": {
+        "name": "News Prima",
+        "url": "https://newsprima.it/esteri/trump-parla-ancora-di-un-incontro-zelensky-putin-molto-presto/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T15:10:59.437Z",
+        "dateEvidence": "News Prima Esteri, 28 ottobre 2026 ore 10:13; dichiarazione Trump e tregua locale a Oleshky.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
   ]
 }
