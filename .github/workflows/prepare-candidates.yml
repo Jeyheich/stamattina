@@ -2,9 +2,9 @@ name: Prepara candidati rassegna
 on:
   workflow_dispatch:
   schedule:
-    # 06:00 Europe/Rome: il controllo sotto sceglie il solo slot corretto
+    # 06:00 e 16:00 Europe/Rome: il controllo sotto sceglie gli slot corretti
     # tra ora solare e ora legale. GitHub può avviare in ritardo.
-    - cron: '0 4,5 * * *'
+    - cron: '0 4,5,14,15 * * *'
 permissions:
   contents: write
 concurrency:
@@ -25,7 +25,7 @@ jobs:
           import datetime, os
           from zoneinfo import ZoneInfo
           now = datetime.datetime.now(ZoneInfo('Europe/Rome'))
-          run = os.environ['EVENT_NAME'] == 'workflow_dispatch' or now.hour == 6
+          run = os.environ['EVENT_NAME'] == 'workflow_dispatch' or now.hour in (6, 16)
           with open(os.environ['GITHUB_OUTPUT'], 'a') as out:
               out.write('run=' + str(run).lower() + '\n')
           PY

@@ -74,10 +74,10 @@ export function assemble(blocks,today=romeDay(),now=Date.now()){
     const leadIds=photoCandidates.slice(0,5).map(a=>a.id),leadSet=new Set(leadIds);
     const editionArticles=articles.map(a=>{const copy={...a};if(!leadSet.has(a.id))delete copy.image;return copy;});
     editionArticles.push(...reserves);
-    const fingerprint=crypto.createHash('sha256').update(JSON.stringify(editionArticles)).digest('hex').slice(0,12);
+    const fingerprint=crypto.createHash('sha256').update(JSON.stringify(cycle?{collectionId:cycle,articles:editionArticles}:editionArticles)).digest('hex').slice(0,12);
     // Derive the date's UTC offset from Europe/Rome; do not assume winter time.
     const offset=new Intl.DateTimeFormat('en',{timeZone:'Europe/Rome',timeZoneName:'longOffset'}).formatToParts(new Date(today+'T12:00:00Z')).find(x=>x.type==='timeZoneName').value.replace('GMT','');
-    const edition={schemaVersion:1,id:today+'-batches-'+fingerprint,mode:'live',editionDate:today,
+    const edition={schemaVersion:1,...(cycle?{collectionId:cycle}:{}),id:today+'-batches-'+fingerprint,mode:'live',editionDate:today,
       generatedAt:new Date(now).toISOString(),timezone:'Europe/Rome',scheduledFor:today+'T07:30:00'+offset,
       essentialIds:leadIds,leadIds,compactIds:articles.filter(a=>!leadSet.has(a.id)).map(a=>a.id),articles:editionArticles,...(reserves.length?{reserveIds:reserves.map(a=>a.id)}:{})};
     validate(edition,true,true);state.ready=true;state.editorialComplete=state.reserveMissing.length===0;state.editionId=edition.id;return {state,edition};

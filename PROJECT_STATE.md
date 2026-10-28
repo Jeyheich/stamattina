@@ -13,10 +13,15 @@
 - Nuovo stato server editorialComplete, reserveMissing e categoryProgress: completezza editoriale solo con otto categorie 5+5 valide. ready/publication=verified rimangono esito tecnico dei contenuti disponibili; la base verificata resta pubblicabile. Avviso finale distingue pubblicazione parziale e rassegna completa.
 - Test locali: base40 e Tecnologia-sola45 incomplete con categorie mancanti; 80 validi completi; duplicati, scadenze e riserve parziali respinti. Test inseriti nel workflow.
 
-## Programmazione consolidata
-- Due attività attive, sei avvii Europe/Rome: principale 06:05 Politica/Esteri, 07:05 Tecnologia/Sport, 08:05 recupero; seconda 06:15 Economia/Cronaca, 07:15 Roma/Cultura, 08:15 recupero e avviso finale.
-- Terza Roma/Cultura in pausa; nessuna nuova attività o modifica agli orari. Pomeriggio 27 ottobre trascorso e non ricorrente. Altre attività personali intatte.
-- Raccolta GitHub 06:00 invariata; vecchio daily.yml disattivato. Solo Plus e GitHub già autorizzati, niente nuovi costi.
+## Programmazione approvata — due edizioni quotidiane dal 28 ottobre
+- Fabio autorizza il pomeriggio ricorrente riprendendo la prova del 27. Due attività, dodici avvii totali, sei per edizione; nessuna nuova task. Obiettivi indicativi 09:00 e 19:00 Europe/Rome, senza garanzia.
+- Principale: 06:05/16:05 Politica–Esteri, 07:05/17:05 Tecnologia–Sport, 08:05/18:05 recupero massimo due categorie proprie.
+- Seconda: 06:15/16:15 Economia–Cronaca, 07:15/17:15 Roma–Cultura, 08:15/18:15 recupero e avviso finale corretto. Terza Roma/Cultura in pausa, altre attività personali intatte.
+- Dossier GitHub 06:00 e 16:00; cambio ora legale gestito dal controllo Europe/Rome. Nessun servizio a pagamento; raddoppia il numero degli avvii sulla quota Plus condivisa.
+- collectionId obbligatorio YYYY-MM-DD-mattina oppure YYYY-MM-DD-pomeriggio. Un blocco dell'altro ciclo non può essere saltato come già completato. Fonti realmente rilette, sviluppi recenti, date originali, cinque principali + cinque aggiuntive richieste in entrambi i cicli.
+- Il server pubblica collectionId e deriva ID distinti per ciclo, respinge dati mescolati o parziali e conserva l'ultima edizione. AFTERNOON_TRIAL.md storico superato, non usare come istruzioni correnti.
+- Test locali passati: due cicli 5+5, identificativi pubblici distinti, blocco di mix mattina/pomeriggio e nuovi parziali; restano passati test riserve/date/fonti/foto.
+- Prompt delle due attività aggiornati; salvataggio dei calendari nativi ancora da confermare prima di dichiarare pianificazione attiva.
 
 ## Ripresa e problemi aperti
 - Prima esecuzione del flusso corretto ancora da osservare: non garantire 80 domattina dal solo test. Oggi le 35 aggiuntive mancanti non sono state generate da questa correzione.

@@ -9,11 +9,11 @@
 - Server locale: python3 -m http.server 8765 --directory dist. Prima di pubblicare verificare formato iPhone, filtri, apertura/chiusura e offline.
 - Distribuzione: Pubblica Stamattina gestisce push dei dati/UI e avvio manuale. Le attività cloud salvano blocchi per categoria; il server assembla incoming/edition.json; il workflow verifica, promuove e pubblica. Il vecchio daily.yml resta disattivato. Non riattivare il cron una tantum del 27 ottobre.
 
-- Raccolta cloud aggiuntiva autorizzata esplicitamente da Fabio: prepare-candidates.yml alle 06:00 Europe/Rome scrive solo automation/candidates/latest.json; il dossier è candidato, mai una verifica editoriale. Le tre attività leggono il dossier prima di fare ricerche.
+- Raccolta cloud aggiuntiva autorizzata esplicitamente da Fabio: prepare-candidates.yml alle 06:00 e 16:00 Europe/Rome scrive solo automation/candidates/latest.json; il dossier è candidato, mai una verifica editoriale. Le tre attività leggono il dossier prima di fare ricerche.
 
 - Ultima approvazione: solo Plus già pagato + GitHub, zero costi aggiuntivi; Fabio autorizza quota condivisa e rivaluterà il carico. Scartata la proposta di API AI esterne. Produzione per blocchi di 5, salvati in automation/editorial/YYYY-MM-DD/slug.json; nessuna sostituzione dei blocchi validi. Procedura BATCH_BRIEF.md.
 
-- Configurazione consolidata: due attività rassegna attive, sei avvii totali 06:05/07:05/08:05 e 06:15/07:15/08:15 Europe/Rome, obiettivo entro 09:00. Terza Rassegna · Roma e Cultura in pausa: non riattivare. Almeno un’ora per singola attività; nessuna modifica alle attività personali.
+- Configurazione consolidata: due attività rassegna attive, due edizioni quotidiane con dodici avvii: 06:05/07:05/08:05 e 16:05/17:05/18:05 nella prima attività, 06:15/07:15/08:15 e 16:15/17:15/18:15 nella seconda, Europe/Rome; obiettivi 09:00 e 19:00. Terza Rassegna · Roma e Cultura in pausa: non riattivare. Almeno un’ora per singola attività; nessuna modifica alle attività personali.
 
 - Fonti approvate 27 ottobre: Politica/Cronaca nazionali italiane, niente TGR; Sky TG24, ANSA, Open e alternative gratuite come da BATCH_BRIEF. Roma include Leggo e fatti oltre mobilità. Sport soprattutto calcio italiano, poi F1/tennis e rilievo nazionale; niente riempitivi NFL/cricket. Google News solo scoperta con fonte originale.
 
@@ -26,3 +26,5 @@ Everyeye resta la prima scelta per le DUE notizie videogiochi. SOLO se non leggi
 
 ## Fonte Tecnologia sostitutiva definitiva
 Punto Informatico (https://www.punto-informatico.it/, feed https://www.punto-informatico.it/feed/) SOSTITUISCE PromptOps per le TRE notizie tecnologiche/AI, sia nelle principali sia nelle riserve. Restano DUE videogiochi Everyeye, IGN Italia solo fallback autorizzato. Il rapporto 3/2 e le regole più recenti superano eventuali nomi vecchi nei prompt. Fonte e tre articoli del 27 ottobre verificati accessibili; scartare offerte, pubblicità e contenuti promozionali. Distinguere indiscrezioni da annunci ufficiali e verificare sempre le date. Nessun cambio di calendario o slot.
+
+- Ogni blocco deve avere collectionId YYYY-MM-DD-mattina o YYYY-MM-DD-pomeriggio; non saltare il nuovo ciclo perché esiste quello precedente. Non riutilizzare AFTERNOON_TRIAL.md come istruzioni correnti. Date originali e rilettura effettiva delle fonti per il pomeriggio.

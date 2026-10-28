@@ -67,3 +67,16 @@ assert.equal(assemble(badReserve,today,now).state.editorialComplete,false);
 console.log('PASS: 40 o 45 articoli dichiarano riserve mancanti; soltanto 80 validi completano il lavoro editoriale.');
 
 assert.equal(recordFailure(expanded.state,expanded.edition,'check_photo: fixture-economia-0: HTTP Error 403').editorialComplete,false,'Un errore fonte/foto annulla anche la completezza editoriale');
+
+const am=structuredClone(withReserve),pm=structuredClone(withReserve);
+for(const b of Object.values(am))b.collectionId=today+'-mattina';
+for(const b of Object.values(pm))b.collectionId=today+'-pomeriggio';
+const amEdition=assemble(am,today,now),pmEdition=assemble(pm,today,now);
+assert.equal(pmEdition.edition.collectionId,today+'-pomeriggio');
+assert.equal(pmEdition.state.editorialComplete,true);
+assert.notEqual(amEdition.edition.id,pmEdition.edition.id,'Due cicli non condividono id anche con fatti identici');
+const mixed=structuredClone(am);mixed.politica=pm.politica;
+assert.equal(assemble(mixed,today,now).edition,undefined,'Mai mescolare mattina e pomeriggio');
+const pmProgress=structuredClone(pm);pmProgress.sport.status='in-progress';pmProgress.sport.lastAttemptAt=stamp;delete pmProgress.sport.completedAt;pmProgress.sport.articles=pmProgress.sport.articles.slice(0,2);
+assert.equal(assemble(pmProgress,today,now).edition,undefined,'Un nuovo ciclo parziale conserva il pubblico precedente');
+console.log('PASS: due cicli 5+5 distinti, collectionId pubblico, id separati e blocco dei cicli mescolati/parziali.');
