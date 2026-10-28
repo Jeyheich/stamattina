@@ -122,5 +122,112 @@
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
+  ],
+  "reserveArticles": [
+    {
+      "id": "economia-confartigianato-costo-shock",
+      "eventKey": "confartigianato-shock-economia-296-miliardi-2022-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Confartigianato quantifica in 296 miliardi il costo degli shock economici",
+      "summary": "L'associazione stima in 296,3 miliardi il costo cumulato degli shock subiti dal sistema italiano fra il 2022 e il 2026.",
+      "body": [
+        "Durante l'assemblea annuale, il presidente Marco Granelli ha indicato in 296,3 miliardi di euro la stima delle risorse sottratte alla crescita economica nel quinquennio 2022-2026. Confartigianato chiede misure orientate a produttività, investimenti e lavoro."
+      ],
+      "publishedAt": "2026-10-28T10:32:00+01:00",
+      "verifiedAt": "2026-10-28T15:21:29.421Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/28/confartigianato-in-5-anni-leconomia-italiana-ha-perso-296-miliardi_558f1b71-631e-4572-beff-5bb970c86da1.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T15:21:29.421Z",
+        "dateEvidence": "ANSA, Roma 28 ottobre 2026 ore 10:32; stima illustrata all'assemblea Confartigianato.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-bnp-paribas-conti",
+      "eventKey": "bnp-paribas-utile-terzo-trimestre-2026-34-miliardi",
+      "category": "Economia",
+      "status": "verified",
+      "title": "BNP Paribas, utile trimestrale in crescita del 13%",
+      "summary": "La banca francese comunica un utile di 3,4 miliardi di euro e ricavi per 13,75 miliardi nel terzo trimestre.",
+      "body": [
+        "Il risultato netto trimestrale di BNP Paribas supera le attese indicate nell'articolo, mentre i ricavi crescono del 9,5%. Il gruppo conferma gli obiettivi fino al 2028 e annuncia un riacquisto di azioni per 1,3 miliardi autorizzato dalla BCE."
+      ],
+      "publishedAt": "2026-10-28T09:10:00+01:00",
+      "verifiedAt": "2026-10-28T15:21:29.421Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/28/bnp-paribas-utile-terzo-trimestre-sale-a-34-miliardi-13_a68fcc14-ca7b-4583-9b57-c446b0f4fbf0.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T15:21:29.421Z",
+        "dateEvidence": "ANSA, Roma 28 ottobre 2026 ore 09:10; dati trimestrali BNP Paribas.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-sanac-cessione-stabilimenti",
+      "eventKey": "mimit-autorizza-cessione-tre-stabilimenti-sanac-28-ottobre",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Sanac, autorizzata la vendita di tre stabilimenti",
+      "summary": "Il ministero dà il via libera alla cessione dei siti di Massa, Gattinara e Vado Ligure; rinviata la scelta su Assemini.",
+      "body": [
+        "La cessione a Erre Trading prevede la continuità produttiva dei tre stabilimenti e la tutela di 180 posti di lavoro, oltre a 15 nuove assunzioni nel 2027 secondo il Mimit. Per Assemini resta in valutazione una manifestazione d'interesse alternativa."
+      ],
+      "publishedAt": "2026-10-28T09:22:00+01:00",
+      "verifiedAt": "2026-10-28T15:21:29.421Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/28/mimit-via-libera-alla-cessione-dei-siti-sanac-di-massa-gattinara_dbd0f7ea-7039-4205-9135-265c301e1284.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T15:21:29.421Z",
+        "dateEvidence": "ANSA, Roma 28 ottobre 2026 ore 09:22; nota del Mimit sui siti Sanac.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-decreto-accise-gasolio",
+      "eventKey": "decreto-taglio-accise-gasolio-28-ottobre-7-novembre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Gasolio, decreto riduce temporaneamente le accise",
+      "summary": "Dal 28 ottobre al 7 novembre è prevista una riduzione equivalente a circa 4,9 centesimi al litro considerando anche l'Iva.",
+      "body": [
+        "Il decreto pubblicato in Gazzetta Ufficiale fissa temporaneamente l'aliquota a 632,90 euro per mille litri di gasolio. La copertura indicata è di 38,7 milioni di euro di maggior gettito Iva registrato a settembre."
+      ],
+      "publishedAt": "2026-10-28T09:44:00+01:00",
+      "verifiedAt": "2026-10-28T15:21:29.421Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/28/nuovo-taglio-accise-fino-al-7-novembre-circa-49-centesimi-sul-gasolio_f8364139-1c3f-4898-bff9-281ee4eca36d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T15:21:29.421Z",
+        "dateEvidence": "ANSA, Roma 28 ottobre 2026 ore 09:44; decreto in Gazzetta Ufficiale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-padoan-unicredit-presidenza",
+      "eventKey": "padoan-lascia-presidenza-unicredit-fine-mandato-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "UniCredit, Padoan lascerà la presidenza a fine mandato",
+      "summary": "La banca avvia il percorso per individuare il successore del presidente Pier Carlo Padoan.",
+      "body": [
+        "Padoan resterà coinvolto nel passaggio di consegne e collaborerà con Jeffrey Edberg, responsabile del Comitato Nomine, per selezionare una figura che assicuri continuità nella governance."
+      ],
+      "publishedAt": "2026-10-28T08:33:00+01:00",
+      "verifiedAt": "2026-10-28T15:21:29.421Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/28/padoan-lascia-presidenza-unicredit",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T15:21:29.421Z",
+        "dateEvidence": "Sky TG24, Economia 28 ottobre 2026 ore 08:33; annuncio sul termine del mandato.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
   ]
 }
