@@ -1,8 +1,9 @@
 {
   "editionDate": "2026-10-28",
-  "checkedAt": "2026-10-28T07:05:36.295Z",
-  "ready": true,
-  "completed": [
+  "checkedAt": "2026-10-28T10:48:33.159Z",
+  "ready": false,
+  "editorialComplete": false,
+  "reserveMissing": [
     "politica",
     "esteri",
     "economia",
@@ -12,281 +13,44 @@
     "tecnologia",
     "sport"
   ],
+  "completed": [],
   "inProgress": [],
   "missing": [],
-  "invalid": [],
-  "stories": [
+  "invalid": [
     {
-      "id": "politica-manovra-meloni-forum-moneta",
-      "category": "Politica",
-      "title": "Manovra, Meloni indica salari, sanità ed energia tra le priorità",
-      "eventKey": "manovra-2027-meloni-forum-moneta-27-ottobre"
+      "slug": "politica",
+      "reason": "Verifica scaduta o futura"
     },
     {
-      "id": "politica-piantedosi-sciopero-30-ottobre",
-      "category": "Politica",
-      "title": "Piantedosi invita a mantenere alta l'attenzione sulle manifestazioni",
-      "eventKey": "piantedosi-allerta-manifestazioni-sciopero-30-ottobre-2026"
+      "slug": "esteri",
+      "reason": "Verifica scaduta o futura"
     },
     {
-      "id": "politica-matone-passa-forza-italia",
-      "category": "Politica",
-      "title": "Simonetta Matone lascia la Lega e aderisce a Forza Italia",
-      "eventKey": "simonetta-matone-lascia-lega-aderisce-forza-italia-26-ottobre-2026"
+      "slug": "economia",
+      "reason": "Verifica scaduta o futura"
     },
     {
-      "id": "politica-ricorsi-stabilicum-25-tribunali",
-      "category": "Politica",
-      "title": "Legge elettorale, depositati ricorsi in 25 tribunali",
-      "eventKey": "ricorsi-stabilicum-25-tribunali-26-ottobre-2026"
+      "slug": "cronaca",
+      "reason": "Verifica scaduta o futura"
     },
     {
-      "id": "politica-salvini-pensioni-64-anni",
-      "category": "Politica",
-      "title": "Pensioni a 64 anni, Salvini rilancia la proposta della Lega",
-      "eventKey": "salvini-proposta-pensione-64-anni-27-ottobre-2026"
+      "slug": "roma",
+      "reason": "Verifica scaduta o futura"
     },
     {
-      "id": "esteri-israele-exit-poll-knesset",
-      "category": "Esteri",
-      "title": "Israele, exit poll senza maggioranza: trattative decisive dopo il voto",
-      "eventKey": "israele-elezioni-27-ottobre-2026-exit-poll-knesset-stallo"
+      "slug": "cultura",
+      "reason": "Verifica scaduta o futura"
     },
     {
-      "id": "esteri-kiev-raid-scuola-metro",
-      "category": "Esteri",
-      "title": "Kiev, raid missilistico colpisce scuola e infrastrutture civili",
-      "eventKey": "raid-russo-kiev-scuola-metropolitana-27-ottobre-2026"
+      "slug": "tecnologia",
+      "reason": "Verifica scaduta o futura"
     },
     {
-      "id": "esteri-serbia-lista-studenti-riforme",
-      "category": "Esteri",
-      "title": "Serbia, dopo la vittoria degli studenti comincia la sfida del governo",
-      "eventKey": "serbia-vittoria-lista-studenti-sfida-riforme-27-ottobre-2026"
-    },
-    {
-      "id": "esteri-gabon-piattaforma-prospector-5",
-      "category": "Esteri",
-      "title": "Gabon, affonda la piattaforma Prospector 5: ricerche in corso",
-      "eventKey": "gabon-affondamento-prospector-5-dispersi-ottobre-2026"
-    },
-    {
-      "id": "esteri-brasile-partito-bolsonaro-riconosce-lula",
-      "category": "Esteri",
-      "title": "Brasile, il partito di Bolsonaro riconosce la vittoria di Lula",
-      "eventKey": "brasile-partido-liberal-riconosce-vittoria-lula-27-ottobre-2026"
-    },
-    {
-      "id": "economia-bce-intesa-mps-autorizzazione",
-      "category": "Economia",
-      "title": "La BCE autorizza Intesa Sanpaolo a prendere il controllo di MPS",
-      "eventKey": "bce-autorizza-intesa-acquisizione-controllo-mps-27-ottobre-2026"
-    },
-    {
-      "id": "economia-iren-piano-investimenti",
-      "category": "Economia",
-      "title": "Iren programma 10,4 miliardi di investimenti fino al 2035",
-      "eventKey": "iren-piano-industriale-2035-investimenti-104-miliardi-2026"
-    },
-    {
-      "id": "economia-borsa-milano-chiusura-27",
-      "category": "Economia",
-      "title": "Piazza Affari chiude in crescita dello 0,90%",
-      "eventKey": "borsa-milano-chiusura-27-ottobre-2026-ftse-mib-positivo"
-    },
-    {
-      "id": "economia-bankitalia-pagamenti-digitali",
-      "category": "Economia",
-      "title": "Pagamenti digitali, Bankitalia registra il doppio delle operazioni rispetto al 2022",
-      "eventKey": "bankitalia-raddoppio-pagamenti-digitali-giugno-2026-vs-2022"
-    },
-    {
-      "id": "economia-eni-q8-price-cap",
-      "category": "Economia",
-      "title": "Eni e Q8 prolungano i tetti commerciali ai carburanti",
-      "eventKey": "eni-q8-proroga-tetti-prezzi-carburanti-dicembre-2026"
-    },
-    {
-      "id": "cronaca-sula-samson-ergastolo",
-      "category": "Cronaca",
-      "title": "Femminicidio di Ilaria Sula, ergastolo per Mark Samson",
-      "eventKey": "sentenza-ergastolo-mark-samson-femminicidio-ilaria-sula-27-ottobre-2026"
-    },
-    {
-      "id": "cronaca-valtopina-morte-lavoro",
-      "category": "Cronaca",
-      "title": "Valtopina, muore un operaio ventenne durante lavori stradali",
-      "eventKey": "incidente-lavoro-valtopina-operaio-20-anni-27-ottobre-2026"
-    },
-    {
-      "id": "cronaca-calabria-agguato-sibarelli",
-      "category": "Cronaca",
-      "title": "Agguato nel Cosentino, fissata l'autopsia sulla donna uccisa",
-      "eventKey": "agguato-cassano-ionio-silvana-sibarelli-autopsia-29-ottobre-2026"
-    },
-    {
-      "id": "cronaca-lecce-corpo-pozzo",
-      "category": "Cronaca",
-      "title": "Lecce, un uomo trovato morto in un pozzo: indagine per omicidio",
-      "eventKey": "lecce-torre-rinalda-corpo-antimo-mazzotta-pozzo-indagine-omicidio-2026"
-    },
-    {
-      "id": "cronaca-a20-palermo-messina-limite",
-      "category": "Cronaca",
-      "title": "Sicilia, limite di 60 km/h su un tratto della A20 per lavori urgenti",
-      "eventKey": "sicilia-a20-limite-60-villafranca-patti-28-ottobre-31-dicembre-2026"
-    },
-    {
-      "id": "roma-licei-occupazioni-27-ottobre",
-      "category": "Roma",
-      "title": "Roma, nuove occupazioni nei licei: proteste al Mamiani, De Sanctis e Croce-Aleramo",
-      "eventKey": "roma-occupazioni-licei-mamiani-desanctis-croce-aleramo-27-ottobre-2026"
-    },
-    {
-      "id": "roma-montespaccato-tt-polis",
-      "category": "Roma",
-      "title": "Montespaccato, oltre quaranta giovani avviano un progetto di cura del quartiere",
-      "eventKey": "roma-montespaccato-avvio-tt-polis-giovani-pulizia-quartiere-27-ottobre-2026"
-    },
-    {
-      "id": "roma-quarticciolo-nove-arresti",
-      "category": "Roma",
-      "title": "Quarticciolo, nove arresti durante i controlli antidroga",
-      "eventKey": "roma-quarticciolo-carabinieri-nove-arresti-208-dosi-27-ottobre-2026"
-    },
-    {
-      "id": "roma-viadotto-presidenti-ciclabile",
-      "category": "Roma",
-      "title": "Nel III Municipio inaugurato un nuovo percorso ciclopedonale di 2,7 chilometri",
-      "eventKey": "roma-inaugurazione-viadotto-presidenti-ciclopedonale-27-ottobre-2026"
-    },
-    {
-      "id": "roma-ponte-milvio-manifestazione",
-      "category": "Roma",
-      "title": "Ponte Milvio, annunciata una manifestazione per venerdì 30 ottobre",
-      "eventKey": "roma-ponte-milvio-manifestazione-30-ottobre-2026-avviso-viabilita"
-    },
-    {
-      "id": "cultura-abramovic-confession-arco-giano",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Marina Abramović annuncia «Confession» all'Arco di Giano",
-      "eventKey": "marina-abramovic-annuncio-confession-arco-giano-novembre-2026"
-    },
-    {
-      "id": "cultura-laika-opere-imbrattate",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Roma, imbrattate le opere di Laika durante un'irruzione in galleria",
-      "eventKey": "roma-galleria-rosso20sette-opere-laika-imbrattate-27-ottobre-2026"
-    },
-    {
-      "id": "cultura-la-medium-cuscuna-debutto",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Al Teatro Vascello debutta «La Medium» di Marta Cuscunà",
-      "eventKey": "romaeuropa-2026-la-medium-marta-cuscuna-28-ottobre"
-    },
-    {
-      "id": "cultura-opera-trittico-goecke-robbins-bausch",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Al Costanzi il trittico di danza firmato Goecke, Robbins e Bausch",
-      "eventKey": "opera-roma-trittico-goecke-robbins-bausch-replica-28-ottobre-2026"
-    },
-    {
-      "id": "cultura-carla-lonzi-documentario-archibugi",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Francesca Archibugi racconta Carla Lonzi in un documentario",
-      "eventKey": "documentario-carla-lonzi-francesca-archibugi-uscita-sale-26-28-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-gpt-61-terra",
-      "category": "Tecnologia · AI",
-      "title": "GPT-6.1 Terra arriva per ChatGPT Work e Codex",
-      "eventKey": "openai-rilascio-gpt-61-terra-27-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-pagopa-pec-phishing",
-      "category": "Tecnologia · AI",
-      "title": "False multe PagoPA: phishing attraverso caselle PEC compromesse",
-      "eventKey": "cert-agid-campagna-phishing-pagopa-pec-compromesse-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-imac-m6",
-      "category": "Tecnologia · AI",
-      "title": "Apple aggiorna l'iMac da 24 pollici con processore M6",
-      "eventKey": "apple-presentazione-imac-24-m6-27-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-phantom-blade-preload",
-      "category": "Tecnologia · AI",
-      "title": "Phantom Blade Zero, il precaricamento PC richiede 300 GB temporanei",
-      "eventKey": "phantom-blade-zero-requisito-precaricamento-300gb-pc-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-fortnite-one-piece",
-      "category": "Tecnologia · AI",
-      "title": "Fortnite presenta il trailer della mini-stagione con One Piece",
-      "eventKey": "fortnite-treasure-hunter-one-piece-trailer-mini-stagione-27-ottobre-2026"
-    },
-    {
-      "id": "sport-lazio-sassuolo-sei-due",
-      "category": "Sport",
-      "title": "La Lazio ne segna sei al Sassuolo e sale in vetta",
-      "eventKey": "serie-a-lazio-sassuolo-6-2-27-ottobre-2026"
-    },
-    {
-      "id": "sport-roma-cagliari-quattro-due",
-      "category": "Sport",
-      "title": "Roma-Cagliari finisce 4-2, decisivi i cambi di Gasperini",
-      "eventKey": "serie-a-roma-cagliari-4-2-27-ottobre-2026"
-    },
-    {
-      "id": "sport-como-torino-rimonta",
-      "category": "Sport",
-      "title": "Il Como rimonta il Torino e vince 3-1 in trasferta",
-      "eventKey": "serie-a-torino-como-1-3-rimonta-27-ottobre-2026"
-    },
-    {
-      "id": "sport-f1-antonelli-numero-dodici",
-      "category": "Sport",
-      "title": "F1, Antonelli verso il Messico: manterrebbe il numero 12 anche da campione",
-      "eventKey": "formula-1-antonelli-messico-numero-12-senna-27-ottobre-2026"
-    },
-    {
-      "id": "sport-cobolli-vienna-dimitrov",
-      "category": "Sport",
-      "title": "Tennis, Cobolli elimina Dimitrov a Vienna: derby con Berrettini",
-      "eventKey": "atp-vienna-cobolli-batte-dimitrov-27-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-riserva-meloni-email-tentato-attacco",
-      "category": "Tecnologia · AI",
-      "title": "Tentato attacco alla posta parlamentare di Meloni: accertamenti ancora aperti",
-      "eventKey": "tentativo-attacco-email-parlamentare-meloni-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-riserva-macbook-pro-14-m6",
-      "category": "Tecnologia · AI",
-      "title": "Apple presenta il MacBook Pro da 14 pollici con chip M6",
-      "eventKey": "apple-annuncio-macbook-pro-14-m6-27-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-riserva-danimarca-collabora-office",
-      "category": "Tecnologia · AI",
-      "title": "Danimarca, interrotto il test per sostituire Microsoft Office con Collabora",
-      "eventKey": "danimarca-interruzione-test-collabora-office-ministero-2026"
-    },
-    {
-      "id": "tecnologia-riserva-ac-black-flag-resynced-new-game-plus",
-      "category": "Tecnologia · AI",
-      "title": "Assassin's Creed Black Flag Resynced aggiunge New Game+ con la patch 1.0.8",
-      "eventKey": "assassins-creed-black-flag-resynced-patch-108-new-game-plus-27-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-riserva-modern-warfare-4-shipment",
-      "category": "Tecnologia · AI",
-      "title": "Modern Warfare 4 riporta la mappa Shipment nel primo aggiornamento",
-      "eventKey": "call-of-duty-modern-warfare-4-primo-aggiornamento-shipment-27-ottobre-2026"
+      "slug": "sport",
+      "reason": "Verifica scaduta o futura"
     }
   ],
+  "stories": [],
   "reserveCounts": {
     "Politica": 0,
     "Esteri": 0,
@@ -294,40 +58,60 @@
     "Cronaca": 0,
     "Roma": 0,
     "Cultura · Teatro · Cinema": 0,
-    "Tecnologia · AI": 5,
+    "Tecnologia · AI": 0,
     "Sport": 0
   },
-  "photoCandidates": [
-    {
-      "id": "politica-manovra-meloni-forum-moneta",
-      "category": "Politica",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg"
+  "photoCandidates": [],
+  "photosAvailable": 0,
+  "categoryProgress": {
+    "politica": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
     },
-    {
-      "id": "esteri-israele-exit-poll-knesset",
-      "category": "Esteri",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG"
+    "esteri": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
     },
-    {
-      "id": "economia-bce-intesa-mps-autorizzazione",
-      "category": "Economia",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ECB_headquarters,_Frankfurt_140827_1.jpg"
+    "economia": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
     },
-    {
-      "id": "cultura-abramovic-confession-arco-giano",
-      "category": "Cultura · Teatro · Cinema",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arch_of_Janus_(Arco_di_Giano)_-_Rome,_Italy_-_DSC00566.jpg"
+    "cronaca": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
     },
-    {
-      "id": "sport-lazio-sassuolo-sei-due",
-      "category": "Sport",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg"
+    "roma": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "cultura": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "tecnologia": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "sport": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
     }
-  ],
-  "photosAvailable": 5,
-  "editionId": "2026-10-28-batches-c29dd129955d",
-  "needsPublication": false,
-  "publicVerifiedAt": "2026-10-28T07:05:59.505638+00:00",
-  "publicEditionId": "2026-10-28-batches-c29dd129955d",
-  "publication": "verified"
+  },
+  "needsPublication": false
 }
