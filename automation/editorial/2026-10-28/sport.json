@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-10-28",
+  "category": "Sport",
+  "completedAt": "2026-10-28T06:05:42.597Z",
+  "articles": [
+    {
+      "id": "sport-lazio-sassuolo-sei-due",
+      "eventKey": "serie-a-lazio-sassuolo-6-2-27-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "La Lazio ne segna sei al Sassuolo e sale in vetta",
+      "summary": "La squadra di Gattuso vince 6-2 a Reggio Emilia: Noslin firma una doppietta e Floriani Mussolini trova il primo gol in Serie A.",
+      "body": [
+        "La Lazio supera il Sassuolo 6-2 nel turno infrasettimanale di Serie A e si porta temporaneamente da sola al comando, in attesa dell'Inter. La squadra biancoceleste conquista l'ottava vittoria in nove gare, con un attacco incisivo e sei reti segnate nonostante due rigori falliti.",
+        "La partita viene condizionata dall'espulsione di Thorstvedt al 31º minuto. Tra i protagonisti figurano Noslin, autore di due gol, e Romano Floriani Mussolini, alla prima rete nella massima serie."
+      ],
+      "publishedAt": "2026-10-27T23:39:00+01:00",
+      "verifiedAt": "2026-10-28T06:05:42.597Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/27/serie-a-lazio-travolgente-in-casa-sassuolo-6-2-e-vetta-solitaria_8454c10b-5c60-48ca-8a57-b9995fdd4b9d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T06:05:42.597Z",
+        "dateEvidence": "ANSA, 27 ottobre 2026 ore 23:39, articolo completo con cronaca, espulsione, risultato 6-2 e marcatori.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 90,
+      "image": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg/960px-Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg",
+        "alt": "Pallone da calcio su un prato",
+        "credit": "Peter Glaser baraida",
+        "rights": "CC0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "caption": "Repertorio · Un pallone da calcio su un prato. La fotografia non ritrae la partita o la cerimonia descritta nella notizia.",
+        "reuseApproved": true
+      }
+    },
+    {
+      "id": "sport-roma-cagliari-quattro-due",
+      "eventKey": "serie-a-roma-cagliari-4-2-27-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Roma-Cagliari finisce 4-2, decisivi i cambi di Gasperini",
+      "summary": "La Roma rimonta le difficoltà contro il Cagliari e conquista tre punti grazie agli ingressi di Mora e Malen.",
+      "body": [
+        "All'Olimpico i giallorossi vanno sotto e devono rincorrere il Cagliari più volte. Dopo il pareggio di Maldini nel finale, Mora e Malen segnano le reti decisive per il 4-2, mantenendo la Roma a contatto con le prime posizioni."
+      ],
+      "publishedAt": "2026-10-27T23:02:00+01:00",
+      "verifiedAt": "2026-10-28T06:05:42.597Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/27/serie-a-la-roma-batte-il-cagliari_47dcb4bd-36fb-476b-950d-28ea0282c1cd.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T06:05:42.597Z",
+        "dateEvidence": "ANSA, 27 ottobre 2026 ore 23:02, articolo completo con 4-2, andamento e marcatori decisivi.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-como-torino-rimonta",
+      "eventKey": "serie-a-torino-como-1-3-rimonta-27-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Il Como rimonta il Torino e vince 3-1 in trasferta",
+      "summary": "Sotto per il gol di Adams, la formazione di Fabregas ribalta il risultato con Ramon, Nico Paz e Baturina.",
+      "body": [
+        "Al Grande Torino i padroni di casa restano avanti fino all'81º minuto. Il Como trova poi il pareggio con Ramon e completa la rimonta con Nico Paz e Baturina, chiudendo la sfida sul 3-1."
+      ],
+      "publishedAt": "2026-10-27T23:00:00+01:00",
+      "verifiedAt": "2026-10-28T06:05:42.597Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/27/serie-a-colpo-esterno-del-como-a-torino_7e5e2bf4-71ab-487d-b842-c2604d65e1fc.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T06:05:42.597Z",
+        "dateEvidence": "ANSA, 27 ottobre 2026 ore 23:00, articolo completo sulla rimonta del Como e tre marcatori.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-f1-antonelli-numero-dodici",
+      "eventKey": "formula-1-antonelli-messico-numero-12-senna-27-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "F1, Antonelli verso il Messico: manterrebbe il numero 12 anche da campione",
+      "summary": "Il pilota Mercedes, vicino al titolo mondiale, dichiara di voler conservare il numero scelto in omaggio ad Ayrton Senna.",
+      "body": [
+        "Dopo la vittoria ad Austin, Kimi Antonelli affronta il GP del Messico con un nuovo match point iridato. Nell'articolo ANSA del 27 ottobre il pilota spiega che, anche in caso di successo mondiale, preferirebbe tenere il 12 invece del numero 1."
+      ],
+      "publishedAt": "2026-10-27T19:06:00+01:00",
+      "verifiedAt": "2026-10-28T06:05:42.597Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/27/f1-antonelli-campione-del-mondo-non-il-n.1-mi-tengo-il-12_4cd01d03-5ef7-427d-919d-d61e9da4aaf3.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T06:05:42.597Z",
+        "dateEvidence": "ANSA, 27 ottobre 2026 ore 19:06, articolo completo sulle dichiarazioni di Antonelli prima del Messico.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-cobolli-vienna-dimitrov",
+      "eventKey": "atp-vienna-cobolli-batte-dimitrov-27-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Tennis, Cobolli elimina Dimitrov a Vienna: derby con Berrettini",
+      "summary": "Il romano vince 6-4, 3-6, 6-3 contro Dimitrov e raggiunge gli ottavi dell'ATP 500 di Vienna.",
+      "body": [
+        "Flavio Cobolli supera Grigor Dimitrov in tre set e avanza agli ottavi del torneo austriaco. Al prossimo turno incontrerà Matteo Berrettini in un derby tutto italiano."
+      ],
+      "publishedAt": "2026-10-27T23:52:00+01:00",
+      "verifiedAt": "2026-10-28T06:05:42.597Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/27/tennis-cobolli-agli-ottavi-a-vienna-battuto-dimitrov_48248501-416f-4e47-aeab-3a03b13d8aeb.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T06:05:42.597Z",
+        "dateEvidence": "ANSA, 27 ottobre 2026 ore 23:52, articolo integrale con risultato 6-4 3-6 6-3 e prossimo avversario.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
+}
