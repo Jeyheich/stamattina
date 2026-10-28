@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-28",
-  "checkedAt": "2026-10-28T15:22:01.420Z",
+  "checkedAt": "2026-10-28T16:07:25.577Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,13 +13,13 @@
     "politica",
     "esteri",
     "economia",
-    "cronaca"
+    "cronaca",
+    "tecnologia"
   ],
   "inProgress": [],
   "missing": [
     "roma",
     "cultura",
-    "tecnologia",
     "sport"
   ],
   "invalid": [],
@@ -143,6 +143,36 @@
       "category": "Cronaca",
       "title": "Torino, ammessi gli appelli in un caso di violenza domestica",
       "eventKey": "torino-corte-appello-riapertura-caso-lesioni-moglie-suocera-28-ottobre"
+    },
+    {
+      "id": "tecnologia-certificati-emudhra",
+      "category": "Tecnologia · AI",
+      "title": "Windows, aggiornamenti straordinari contro certificati digitali vulnerabili",
+      "eventKey": "microsoft-patch-emudhra-certificati-compromessi-28-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-meta-muse-hardware",
+      "category": "Tecnologia · AI",
+      "title": "Meta amplia gli accordi con AMD e NVIDIA per l'infrastruttura AI",
+      "eventKey": "meta-accordi-amd-nvidia-muse-infrastruttura-28-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-firefox-smart-window",
+      "category": "Tecnologia · AI",
+      "title": "Firefox Smart Window aggiunge compilazione assistita e monitoraggio delle pagine",
+      "eventKey": "mozilla-firefox-smart-window-fill-watch-28-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-psplus-novembre",
+      "category": "Tecnologia · AI",
+      "title": "PlayStation Plus Essential, annunciati i titoli di novembre",
+      "eventKey": "sony-playstation-plus-essential-novembre-2026-annuncio"
+    },
+    {
+      "id": "tecnologia-ps5-prism",
+      "category": "Tecnologia · AI",
+      "title": "Sony presenta controller e cover trasparenti per PlayStation 5",
+      "eventKey": "sony-prism-collection-dualsense-cover-ps5-28-ottobre-2026"
     },
     {
       "id": "politica-sondaggio-swg-coalizioni",
@@ -337,7 +367,7 @@
       "complete": false
     },
     "tecnologia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
