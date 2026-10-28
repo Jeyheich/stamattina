@@ -1,124 +1,125 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-28",
+  "collectionId": "2026-10-28-pomeriggio",
   "category": "Esteri",
-  "completedAt": "2026-10-28T05:05:52.557Z",
+  "completedAt": "2026-10-28T15:09:08.060Z",
   "articles": [
     {
-      "id": "esteri-israele-exit-poll-knesset",
-      "eventKey": "israele-elezioni-27-ottobre-2026-exit-poll-knesset-stallo",
+      "id": "esteri-israele-scrutinio",
+      "eventKey": "israele-elezioni-scrutinio-28-ottobre-blocchi-senza-maggioranza",
       "category": "Esteri",
       "status": "verified",
-      "title": "Israele, exit poll senza maggioranza: trattative decisive dopo il voto",
-      "summary": "Secondo le proiezioni di Channel 12 il blocco Eisenkot avrebbe 52 seggi contro i 50 di Netanyahu; nessuno raggiunge quota 61.",
+      "title": "Israele, lo scrutinio non assegna ancora una maggioranza parlamentare",
+      "summary": "Il blocco guidato da Netanyahu risulta avanti nelle proiezioni parziali, ma nessuno degli schieramenti raggiunge i 61 seggi necessari alla Knesset.",
       "body": [
-        "Gli exit poll delle elezioni israeliane del 27 ottobre indicano il Likud primo partito con 24 seggi e Yashar a 22, ma il raggruppamento guidato da Gadi Eisenkot risulterebbe davanti nelle proiezioni dei blocchi. I numeri sono provvisori e non equivalgono ai risultati ufficiali.",
-        "I partiti arabi potrebbero essere determinanti nelle consultazioni per un nuovo governo. L'affluenza comunicata alla chiusura dei seggi è del 77,7%; le trattative sulla coalizione dipenderanno dagli scrutini e dai successivi colloqui istituzionali."
+        "Dopo il voto del 27 ottobre, il conteggio delle schede resta in corso. I dati provvisori e le dichiarazioni dei leader non equivalgono a una maggioranza già certificata; il ruolo dei partiti arabi resta determinante per i negoziati.",
+        "Le cifre e gli schieramenti possono variare con le schede ancora da scrutinare; l'articolo distingue lo spoglio dalle trattative per una coalizione."
       ],
-      "publishedAt": "2026-10-27T22:40:00+01:00",
-      "verifiedAt": "2026-10-28T05:05:52.557Z",
+      "publishedAt": "2026-10-28T15:00:00+01:00",
+      "verifiedAt": "2026-10-28T15:09:08.060Z",
       "source": {
         "name": "Sky TG24",
-        "url": "https://tg24.sky.it/mondo/2026/10/27/israele-elezioni-maggioranza-cosa-succede-adesso",
+        "url": "https://tg24.sky.it/mondo/2026/10/28/risultati-elezioni-israele-2026-ultime-news-diretta",
         "access": "free",
-        "accessCheckedAt": "2026-10-28T05:05:52.557Z",
-        "dateEvidence": "Sky TG24 Mondo, 27 ott 2026 - 22:40; exit poll Channel 12, 52-50 e affluenza 77,7%.",
+        "accessCheckedAt": "2026-10-28T15:09:08.060Z",
+        "dateEvidence": "Sky TG24 Mondo, diretta 28 ottobre 2026 aggiornata ore 15:00; risultati ancora provvisori.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 94,
+      "leadPriority": 93,
       "image": {
         "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Knesset_Building_%28From_Front%29.JPG",
         "alt": "Facciata della Knesset a Gerusalemme",
         "credit": "Effib",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG",
         "rights": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "caption": "Repertorio · Edificio della Knesset a Gerusalemme, fotografia del 2007. Non mostra lo scrutinio o i seggi del 27 ottobre 2026.",
+        "caption": "Repertorio · Sede della Knesset, fotografia del 2007; non documenta lo scrutinio del 2026.",
         "reuseApproved": true,
-        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+        "changes": "Nessuna modifica all'originale; adattamento di visualizzazione."
       }
     },
     {
-      "id": "esteri-kiev-raid-scuola-metro",
-      "eventKey": "raid-russo-kiev-scuola-metropolitana-27-ottobre-2026",
+      "id": "esteri-bolsonaro-espatrio",
+      "eventKey": "flavio-bolsonaro-espatrio-argentina-ecuador-usa-28-ottobre",
       "category": "Esteri",
       "status": "verified",
-      "title": "Kiev, raid missilistico colpisce scuola e infrastrutture civili",
-      "summary": "Le autorità ucraine riferiscono di vittime e feriti dopo un attacco che ha interessato una scuola, la metropolitana e aree residenziali.",
+      "title": "Brasile, notizie contrastanti sul viaggio all'estero di Flávio Bolsonaro",
+      "summary": "Dopo la sconfitta elettorale, fonti statunitensi e argentine forniscono ricostruzioni differenti sugli spostamenti del senatore.",
       "body": [
-        "Zelensky ha diffuso immagini dei danni e ha riferito di soccorsi ancora in corso. Il sindaco Vitali Klitschko ha segnalato un morto nei pressi di un supermercato; il bilancio complessivo era ancora in aggiornamento al momento della notizia."
+        "Adnkronos riporta che alcuni media statunitensi lo danno arrivato negli Usa, mentre le autorità argentine parlano di un volo per l'Ecuador dopo un attraversamento regolare della frontiera. Il Dipartimento di Stato statunitense ha annunciato disponibilità a concedere visti; la destinazione definitiva non risulta accertata dalla fonte."
       ],
-      "publishedAt": "2026-10-27T05:14:00Z",
-      "verifiedAt": "2026-10-28T05:05:52.557Z",
+      "publishedAt": "2026-10-28T06:57:00+01:00",
+      "verifiedAt": "2026-10-28T15:09:08.060Z",
       "source": {
-        "name": "RaiNews",
-        "url": "https://www.rainews.it/video/2026/10/zelenskiy-afferma-che-ci-sono-vittime-e-feriti-nellattacco-allistituto-scolastico-di-kiev-0cc63cde-9668-45af-8db0-dc1aaca32863.html",
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/internazionale/esteri/brasile-flavio-bolsonaro-usa-ultime-news_77a3a8sC2mQ8Htzowf3Zzb",
         "access": "free",
-        "accessCheckedAt": "2026-10-28T05:05:52.557Z",
-        "dateEvidence": "RaiNews 27/10/2026; dossier RSS pubDate Tue, 27 Oct 2026 05:14:00 GMT; articolo letto.",
+        "accessCheckedAt": "2026-10-28T15:09:08.060Z",
+        "dateEvidence": "Adnkronos Esteri, 28 ottobre 2026 ore 06:57; letto il resoconto che segnala fonti contrastanti.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "esteri-serbia-lista-studenti-riforme",
-      "eventKey": "serbia-vittoria-lista-studenti-sfida-riforme-27-ottobre-2026",
+      "id": "esteri-spagna-treni-toledo",
+      "eventKey": "spagna-scontro-treni-alta-velocita-toledo-28-ottobre",
       "category": "Esteri",
       "status": "verified",
-      "title": "Serbia, dopo la vittoria degli studenti comincia la sfida del governo",
-      "summary": "La Lista Studentesca emerge dalle elezioni con una maggioranza parlamentare secondo le proiezioni; la formazione del nuovo esecutivo resta da affrontare.",
+      "title": "Spagna, grave collisione fra treni ad alta velocità vicino a Toledo",
+      "summary": "Due convogli si sono scontrati sulla linea Madrid-Siviglia; le autorità segnalano numerose vittime e feriti, con un bilancio ancora in evoluzione.",
       "body": [
-        "Il servizio RaiNews da Belgrado descrive il successo del movimento studentesco e le difficoltà di trasformare la mobilitazione in azione di governo. Le stime citate indicano 141 seggi su 250 alla Lista e 103 alla coalizione di Vučić; non sono presentate come risultati definitivi."
+        "L'incidente è avvenuto il 28 ottobre nella provincia di Toledo. Le prime ricostruzioni parlano di un treno Renfe e di un convoglio Iryo; cause e numero definitivo delle vittime richiedono accertamenti, mentre la circolazione sulla tratta è stata interrotta."
       ],
-      "publishedAt": "2026-10-27T00:35:00Z",
-      "verifiedAt": "2026-10-28T05:05:52.557Z",
+      "publishedAt": "2026-10-28T15:40:00+01:00",
+      "verifiedAt": "2026-10-28T15:09:08.060Z",
       "source": {
-        "name": "RaiNews",
-        "url": "https://www.rainews.it/video/2026/10/serbia-la-lunga-strada-degli-studenti-serbi-dalla-festa-alle-riforme-lalovic-belgrado-30c03956-70ab-4cb7-8a81-73e88ea4f384.html",
+        "name": "La Stampa",
+        "url": "https://www.lastampa.it/esteri/2026/10/28/news/spagna_scontro_fra_treni_ad_alta_velocita_morti_e_feriti-15780207/",
         "access": "free",
-        "accessCheckedAt": "2026-10-28T05:05:52.557Z",
-        "dateEvidence": "RaiNews 27/10/2026; dossier RSS pubDate Tue, 27 Oct 2026 00:35:00 GMT; analisi post voto.",
+        "accessCheckedAt": "2026-10-28T15:09:08.060Z",
+        "dateEvidence": "La Stampa, diretta incidente ferroviario 28 ottobre 2026, aggiornamento alle 15:40; bilancio provvisorio.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "esteri-gabon-piattaforma-prospector-5",
-      "eventKey": "gabon-affondamento-prospector-5-dispersi-ottobre-2026",
+      "id": "esteri-serbia-vittoria-studenti",
+      "eventKey": "serbia-elezioni-studenti-vittoria-formazione-governo-26-ottobre",
       "category": "Esteri",
       "status": "verified",
-      "title": "Gabon, affonda la piattaforma Prospector 5: ricerche in corso",
-      "summary": "Una persona è morta e quattro risultano disperse dopo l'affondamento della piattaforma offshore al largo di Mayumba.",
+      "title": "Serbia, vittoria elettorale degli studenti e trattative sul governo",
+      "summary": "La Lista degli studenti ha ottenuto circa il 52,7% con quasi tutte le schede scrutinate; rimane aperta la scelta del futuro premier.",
       "body": [
-        "L'incidente è avvenuto il 25 ottobre durante attività preliminari alla perforazione; il resoconto del 27 ottobre segnala operazioni di soccorso e un'indagine tecnica. Le autorità non hanno segnalato sversamenti al momento dell'articolo."
+        "Il movimento nato dalle proteste dopo il crollo della pensilina di Novi Sad ha conquistato una maggioranza parlamentare secondo i dati riportati. Vučić ha riconosciuto la sconfitta, mentre il passaggio dalla protesta alla gestione delle istituzioni resta da definire."
       ],
-      "publishedAt": "2026-10-27T08:11:00+01:00",
-      "verifiedAt": "2026-10-28T05:05:52.557Z",
+      "publishedAt": "2026-10-26T12:00:00+01:00",
+      "verifiedAt": "2026-10-28T15:09:08.060Z",
       "source": {
-        "name": "TG LA7",
-        "url": "https://tg.la7.it/esteri/gabon-piattaforma-petrolifera-affondamento-video-27-10-2026-264917",
+        "name": "Vatican News",
+        "url": "https://www.vaticannews.va/it/mondo/news/2026-10/serbia-la-lista-degli-studenti-vince-le-elezioni.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-28T05:05:52.557Z",
-        "dateEvidence": "TG LA7, 27.10.2026 08:11; 115 a bordo, un morto e quattro dispersi; incidente del 25 ottobre.",
+        "accessCheckedAt": "2026-10-28T15:09:08.060Z",
+        "dateEvidence": "Vatican News, articolo pubblicato 26 ottobre 2026, riletto il 28 ottobre; ora esatta non riportata, 12:00 usata come indicativa.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "esteri-brasile-partito-bolsonaro-riconosce-lula",
-      "eventKey": "brasile-partido-liberal-riconosce-vittoria-lula-27-ottobre-2026",
+      "id": "esteri-lisbona-casa-proteste",
+      "eventKey": "lisbona-protesta-diritto-casa-parlamento-27-ottobre",
       "category": "Esteri",
       "status": "verified",
-      "title": "Brasile, il partito di Bolsonaro riconosce la vittoria di Lula",
-      "summary": "Il Partido Liberal accetta il risultato proclamato dalla giustizia elettorale, mentre Flávio Bolsonaro aveva contestato il voto.",
+      "title": "Lisbona, tende e manifestanti davanti al Parlamento per il diritto alla casa",
+      "summary": "I movimenti portoghesi hanno organizzato una protesta durante il dibattito sul bilancio 2027, chiedendo alloggi accessibili e contestando gli sfratti.",
       "body": [
-        "Secondo il resoconto del 27 ottobre, il partito ha diffuso una nota di riconoscimento del risultato pur chiedendo un confronto sulle contestazioni. Lula ha conquistato un quarto mandato, mentre la posizione personale dello sfidante resta distinta da quella ufficiale del partito."
+        "La manifestazione del 27 ottobre ha coinvolto centinaia di persone davanti all'Assembleia da República. I partecipanti hanno discusso la possibilità di un accampamento notturno; Euronews precisa che alle 19:30 le tende non erano ancora montate."
       ],
-      "publishedAt": "2026-10-27T22:17:00+01:00",
-      "verifiedAt": "2026-10-28T05:05:52.557Z",
+      "publishedAt": "2026-10-28T06:51:00+01:00",
+      "verifiedAt": "2026-10-28T15:09:08.060Z",
       "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/mondo/2026/10/27/elezioni-brasile-2026-lula-flavio-bolsonaro-news",
+        "name": "Euronews",
+        "url": "https://it.euronews.com/2026/10/28/lisbona-protesta-per-il-diritto-alla-casa-tende-davanti-al-parlamento",
         "access": "free",
-        "accessCheckedAt": "2026-10-28T05:05:52.557Z",
-        "dateEvidence": "Sky TG24 Mondo, aggiornato 27 ott 2026 - 22:17; nota Partido Liberal e reazioni Lula.",
+        "accessCheckedAt": "2026-10-28T15:09:08.060Z",
+        "dateEvidence": "Euronews, pubblicato 28 ottobre 2026 ore 06:51 CET; evento del 27 ottobre a Lisbona.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
