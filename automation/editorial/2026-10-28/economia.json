@@ -1,124 +1,124 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-28",
+  "collectionId": "2026-10-28-pomeriggio",
   "category": "Economia",
-  "completedAt": "2026-10-28T05:16:17.095Z",
+  "completedAt": "2026-10-28T15:20:35.785Z",
   "articles": [
     {
-      "id": "economia-bce-intesa-mps-autorizzazione",
-      "eventKey": "bce-autorizza-intesa-acquisizione-controllo-mps-27-ottobre-2026",
+      "id": "economia-stellantis-trimestre-2026-ricavi",
+      "eventKey": "stellantis-terzo-trimestre-2026-ricavi-376-miliardi",
       "category": "Economia",
       "status": "verified",
-      "title": "La BCE autorizza Intesa Sanpaolo a prendere il controllo di MPS",
-      "summary": "L'autorità di vigilanza europea ha dato il via libera preventivo all'acquisizione di controllo di Monte dei Paschi da parte di Intesa Sanpaolo.",
+      "title": "Stellantis, ricavi trimestrali a 37,6 miliardi e perdite ridotte",
+      "summary": "Nel terzo trimestre il gruppo automobilistico registra ricavi in crescita dell'1% e una perdita netta di 500 milioni, inferiore del 90% rispetto a un anno prima.",
       "body": [
-        "La Banca centrale europea ha autorizzato Intesa Sanpaolo a ottenere il controllo diretto di MPS e, indirettamente, di diverse società del gruppo, tra cui Mediobanca, Compass Banca e Wise Dialog Bank. Il provvedimento riguarda l'offerta pubblica di acquisto e scambio volontaria.",
-        "Non si tratta ancora della conclusione dell'operazione. Restano ulteriori autorizzazioni estere e l'esame del prospetto da parte della Consob. Nella stessa giornata la Banca d'Italia ha autorizzato alcune partecipazioni indirette connesse all'offerta."
+        "Stellantis ha comunicato ricavi netti trimestrali pari a 37,6 miliardi di euro, in aumento dell'1% rispetto allo stesso periodo del 2025. La crescita interessa Europa allargata e Sud America, mentre il Nord America segna una flessione.",
+        "Il gruppo registra una perdita netta di 500 milioni di euro, un utile operativo rettificato di 300 milioni e liquidità industriale disponibile per 42,7 miliardi. Confermate le stime per il 2026."
       ],
-      "publishedAt": "2026-10-27T20:47:00+01:00",
-      "verifiedAt": "2026-10-28T05:16:17.095Z",
+      "publishedAt": "2026-10-28T08:05:00+01:00",
+      "verifiedAt": "2026-10-28T15:20:35.785Z",
       "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/economia/2026/10/27/intesa-sanpaolo-mps-bce",
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/28/stellantis-nel-trimestre-1-ricavi-perdita-ridotta-del-90-a-500-milioni_7817daed-ecdb-4efc-bd27-1d6822bb8182.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-28T05:16:17.095Z",
-        "dateEvidence": "Pagina Sky TG24 del 27 ottobre 2026, ore 20:47; conferma BCE e passaggi Consob ancora attesi.",
+        "accessCheckedAt": "2026-10-28T15:20:35.785Z",
+        "dateEvidence": "Pagina ANSA, Torino 28 ottobre 2026 ore 08:05; risultati trimestrali nel testo.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 94,
+      "leadPriority": 93,
       "image": {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/ECB_headquarters%2C_Frankfurt_140827_1.jpg",
-        "alt": "La sede della Banca centrale europea a Francoforte",
-        "credit": "DXR / Daniel Vorndran",
-        "rights": "CC BY-SA 4.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:ECB_headquarters,_Frankfurt_140827_1.jpg",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "caption": "Repertorio · La sede della BCE a Francoforte fotografata nel 2014. L'immagine non documenta l'autorizzazione del 27 ottobre 2026.",
-        "changes": "Originale non modificato; possibile ritaglio nella visualizzazione.",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/FCA_Stellantis_Pratola_Serra_Plant.jpg",
+        "alt": "Stabilimento automobilistico Stellantis di Pratola Serra, fotografia del 2024",
+        "credit": "Corvettec6r",
+        "rights": "CC BY 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:FCA_Stellantis_Pratola_Serra_Plant.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "caption": "Repertorio · Stabilimento Stellantis a Pratola Serra fotografato nel 2024; non documenta i risultati trimestrali del 2026.",
         "reuseApproved": true
       }
     },
     {
-      "id": "economia-iren-piano-investimenti",
-      "eventKey": "iren-piano-industriale-2035-investimenti-104-miliardi-2026",
+      "id": "economia-asvis-rapporto-sostenibilita",
+      "eventKey": "asvis-rapporto-agenda-2030-italia-28-ottobre-2026",
       "category": "Economia",
       "status": "verified",
-      "title": "Iren programma 10,4 miliardi di investimenti fino al 2035",
-      "summary": "Il nuovo piano industriale del gruppo concentra metà delle risorse su reti e infrastrutture strategiche.",
+      "title": "ASviS, l'Italia resta indietro sugli obiettivi di sostenibilità",
+      "summary": "Il rapporto annuale segnala che il 58% dei 38 traguardi quantitativi per il 2030 appare irraggiungibile con l'andamento attuale.",
       "body": [
-        "Il consiglio di amministrazione di Iren ha approvato l'aggiornamento del piano 2026-2035: sono previsti circa 10,4 miliardi di investimenti. Il 50% è destinato a servizio idrico, distribuzione elettrica e termovalorizzatori; il gruppo punta anche a maggiore efficienza operativa e qualità dei servizi."
+        "L'ASviS fotografa un indice italiano sostanzialmente fermo nel 2025: sei obiettivi di sviluppo sostenibile sono peggiorati rispetto all'anno precedente. Il rapporto valuta fuori portata il 58% dei traguardi quantitativi fissati per il 2030."
       ],
-      "publishedAt": "2026-10-27T12:25:00+01:00",
-      "verifiedAt": "2026-10-28T05:16:17.095Z",
+      "publishedAt": "2026-10-28T13:08:00+01:00",
+      "verifiedAt": "2026-10-28T15:20:35.785Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/27/iren-approva-il-nuovo-piano-industriale-investimenti-per-104-miliardi_67eb288c-a4b6-4d0a-b929-414a3c14c61d.html",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/28/asvis-italia-a-marcia-indietro-su-sviluppo-sostenibile-meta-2030-si-allontana_566d636e-ed73-4716-be65-e6adfe6b271c.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-28T05:16:17.095Z",
-        "dateEvidence": "ANSA, Milano, 27 ottobre 2026 ore 12:25; delibera piano Iren 2026-2035 e investimenti di 10,4 miliardi.",
+        "accessCheckedAt": "2026-10-28T15:20:35.785Z",
+        "dateEvidence": "Pagina ANSA, Roma 28 ottobre 2026 ore 13:08; presentazione del rapporto ASviS.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "economia-borsa-milano-chiusura-27",
-      "eventKey": "borsa-milano-chiusura-27-ottobre-2026-ftse-mib-positivo",
+      "id": "economia-istat-fatturato-industria-agosto",
+      "eventKey": "istat-fatturato-industria-agosto-2026-dati-28-ottobre",
       "category": "Economia",
       "status": "verified",
-      "title": "Piazza Affari chiude in crescita dello 0,90%",
-      "summary": "Il Ftse Mib termina a 49.627 punti, con acquisti sui titoli tecnologici e vendite su Eni.",
+      "title": "Industria, Istat: fatturato di agosto in calo sul mese",
+      "summary": "Ad agosto il fatturato industriale scende dello 0,9% in valore rispetto a luglio, mentre cresce del 4,2% rispetto a un anno prima.",
       "body": [
-        "La seduta del 27 ottobre a Milano si chiude con il Ftse Mib a +0,90%. Tra i rialzi più consistenti figurano STM (+7,11%), Technoprobe (+3,36%) e Prysmian (+3,3%); Eni perde il 2,58%."
+        "Istat rileva una diminuzione congiunturale dello 0,9% in valore e del 3,5% in volume. Su base annua il fatturato aumenta del 4,2% in valore, ma arretra del 2,9% in volume: le due misure descrivono dinamiche differenti."
       ],
-      "publishedAt": "2026-10-27T17:41:00+01:00",
-      "verifiedAt": "2026-10-28T05:16:17.095Z",
+      "publishedAt": "2026-10-28T10:11:00+01:00",
+      "verifiedAt": "2026-10-28T15:20:35.785Z",
       "source": {
         "name": "ANSA",
-        "url": "https://videoembed.ansa.it/sito/notizie/economia/2026/10/27/borsa-milano-chiude-a-090-in-evidenza-stm_8e4f71da-0087-4b0b-9511-806af924c9ad.html",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/28/istat-fatturato-industria-ad-agosto-09-in-valore-sul-mese-42-sull-anno_3b341308-cae9-4c32-84dc-6b2b1034691b.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-28T05:16:17.095Z",
-        "dateEvidence": "ANSA, Milano, 27 ottobre 2026 ore 17:41; Ftse Mib +0,90% a 49.627 punti e valori dei principali titoli.",
+        "accessCheckedAt": "2026-10-28T15:20:35.785Z",
+        "dateEvidence": "Pagina ANSA, Roma 28 ottobre 2026 ore 10:11; dati Istat riferiti ad agosto 2026.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "economia-bankitalia-pagamenti-digitali",
-      "eventKey": "bankitalia-raddoppio-pagamenti-digitali-giugno-2026-vs-2022",
+      "id": "economia-unioncamere-potenziale-export",
+      "eventKey": "unioncamere-indagine-20000-imprese-potenziali-export-28-ottobre",
       "category": "Economia",
       "status": "verified",
-      "title": "Pagamenti digitali, Bankitalia registra il doppio delle operazioni rispetto al 2022",
-      "summary": "La crescita degli strumenti alternativi al contante è trainata soprattutto dalle carte.",
+      "title": "Unioncamere individua 20mila imprese con potenziale di export",
+      "summary": "Una ricerca su 4.500 aziende segnala un gruppo di imprese italiane che potrebbero iniziare a vendere all'estero.",
       "body": [
-        "Il rapporto della Banca d'Italia indica che a giugno 2026 il numero delle operazioni con strumenti di pagamento diversi dal contante era raddoppiato rispetto al 2022. Nel secondo trimestre 2026, tra i pagamenti POS con carte, il 71,9% è stato effettuato con carte di debito, il 17,1% con prepagate e l'11% con carte di credito."
+        "Secondo Unioncamere e Centro studi Tagliacarne, circa 20mila imprese oggi non esportatrici avrebbero caratteristiche favorevoli all'internazionalizzazione. Nell'indagine le esportatrici mostrano una produttività del lavoro superiore del 20% rispetto alle aziende attive solo in Italia."
       ],
-      "publishedAt": "2026-10-27T11:13:00+01:00",
-      "verifiedAt": "2026-10-28T05:16:17.095Z",
+      "publishedAt": "2026-10-28T11:11:00+01:00",
+      "verifiedAt": "2026-10-28T15:20:35.785Z",
       "source": {
         "name": "ANSA",
-        "url": "https://videoembed.ansa.it/sito/notizie/economia/2026/10/27/bankitalia-non-si-arresta-crescita-pagamenti-digitali-il-doppio-rispetto-al-2022_5befaaad-fc07-406c-b7ce-d0e21f9c463d.html",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/28/unioncamere-20mila-imprese-italiane-potenziali-esportatrici_b29d78e5-1b1c-4357-97f2-a96c744f8054.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-28T05:16:17.095Z",
-        "dateEvidence": "ANSA, Roma, 27 ottobre 2026 ore 11:13; rapporto Banca d'Italia, raddoppio pagamenti digitali e quote POS.",
+        "accessCheckedAt": "2026-10-28T15:20:35.785Z",
+        "dateEvidence": "Pagina ANSA, Roma 28 ottobre 2026 ore 11:11; indagine Unioncamere-Tagliacarne.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "economia-eni-q8-price-cap",
-      "eventKey": "eni-q8-proroga-tetti-prezzi-carburanti-dicembre-2026",
+      "id": "economia-gas-ttf-sopra-cento-euro",
+      "eventKey": "gas-ttf-amsterdam-supera-100-euro-28-ottobre-2026",
       "category": "Economia",
       "status": "verified",
-      "title": "Eni e Q8 prolungano i tetti commerciali ai carburanti",
-      "summary": "Le due compagnie mantengono iniziative di contenimento dei prezzi fino a dicembre, riservandosi possibili revisioni.",
+      "title": "Gas europeo sopra 100 euro al megawattora",
+      "summary": "Il riferimento TTF ad Amsterdam tocca 100,04 euro, in un contesto di tensioni sulle forniture e scorte europee contenute.",
       "body": [
-        "Eni e Q8 hanno annunciato l'estensione fino al 31 dicembre 2026 delle proprie iniziative commerciali sui prezzi di benzina e gasolio. Per Eni il livello indicato al momento dell'annuncio è 1,99 euro per la benzina e 2,25 euro per il gasolio. Entrambe le società subordinano l'applicazione alle condizioni del mercato e degli approvvigionamenti: non è una garanzia di prezzo immutabile."
+        "Il prezzo del gas europeo sale del 4,1% fino a 100,04 euro al megawattora. Tra i fattori indicati figurano le tensioni in Medio Oriente, le scorte europee ridotte e l'avvicinarsi della stagione di maggiore domanda per il riscaldamento."
       ],
-      "publishedAt": "2026-10-27T08:30:00+01:00",
-      "verifiedAt": "2026-10-28T05:16:17.095Z",
+      "publishedAt": "2026-10-28T15:32:00+01:00",
+      "verifiedAt": "2026-10-28T15:20:35.785Z",
       "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/economia/2026/10/27/prezzo-diesel-eni-q8-tetto-caro-carburante",
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/28/il-gas-supera-i-100-euro-timori-di-una-crisi-energetica-in-europa_5273d7e5-edf6-4052-9315-479524cdb210.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-28T05:16:17.095Z",
-        "dateEvidence": "Sky TG24, 27 ottobre 2026 ore 08:30, fotogallery 8 schede; dichiarazioni Eni e Q8 e scadenza 31 dicembre.",
+        "accessCheckedAt": "2026-10-28T15:20:35.785Z",
+        "dateEvidence": "Pagina ANSA, Milano 28 ottobre 2026 ore 15:32; quotazione TTF e contesto di mercato.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
