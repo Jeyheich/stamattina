@@ -1,10 +1,9 @@
 {
   "editionDate": "2026-10-28",
-  "checkedAt": "2026-10-28T15:21:28.313Z",
+  "checkedAt": "2026-10-28T15:21:43.078Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
-    "economia",
     "cronaca",
     "roma",
     "cultura",
@@ -205,13 +204,43 @@
       "category": "Esteri",
       "title": "Trump torna a ipotizzare un incontro fra Zelensky e Putin",
       "eventKey": "trump-ipotesi-incontro-zelensky-putin-28-ottobre-2026"
+    },
+    {
+      "id": "economia-confartigianato-costo-shock",
+      "category": "Economia",
+      "title": "Confartigianato quantifica in 296 miliardi il costo degli shock economici",
+      "eventKey": "confartigianato-shock-economia-296-miliardi-2022-2026"
+    },
+    {
+      "id": "economia-bnp-paribas-conti",
+      "category": "Economia",
+      "title": "BNP Paribas, utile trimestrale in crescita del 13%",
+      "eventKey": "bnp-paribas-utile-terzo-trimestre-2026-34-miliardi"
+    },
+    {
+      "id": "economia-sanac-cessione-stabilimenti",
+      "category": "Economia",
+      "title": "Sanac, autorizzata la vendita di tre stabilimenti",
+      "eventKey": "mimit-autorizza-cessione-tre-stabilimenti-sanac-28-ottobre"
+    },
+    {
+      "id": "economia-decreto-accise-gasolio",
+      "category": "Economia",
+      "title": "Gasolio, decreto riduce temporaneamente le accise",
+      "eventKey": "decreto-taglio-accise-gasolio-28-ottobre-7-novembre-2026"
+    },
+    {
+      "id": "economia-padoan-unicredit-presidenza",
+      "category": "Economia",
+      "title": "UniCredit, Padoan lascerà la presidenza a fine mandato",
+      "eventKey": "padoan-lascia-presidenza-unicredit-fine-mandato-2026"
     }
   ],
   "collectionId": "2026-10-28-pomeriggio",
   "reserveCounts": {
     "Politica": 5,
     "Esteri": 5,
-    "Economia": 0,
+    "Economia": 5,
     "Cronaca": 0,
     "Roma": 0,
     "Cultura · Teatro · Cinema": 0,
@@ -256,9 +285,9 @@
     },
     "economia": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "cronaca": {
       "base": 5,
