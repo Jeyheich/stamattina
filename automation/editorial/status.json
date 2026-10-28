@@ -1,10 +1,9 @@
 {
   "editionDate": "2026-10-28",
-  "checkedAt": "2026-10-28T15:21:43.078Z",
+  "checkedAt": "2026-10-28T15:22:01.420Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -234,6 +233,36 @@
       "category": "Economia",
       "title": "UniCredit, Padoan lascerà la presidenza a fine mandato",
       "eventKey": "padoan-lascia-presidenza-unicredit-fine-mandato-2026"
+    },
+    {
+      "id": "cronaca-hydra-collaboratore-giustizia",
+      "category": "Cronaca",
+      "title": "Processo Hydra, un nuovo collaboratore di giustizia",
+      "eventKey": "processo-hydra-giancarlo-vestiti-collaboratore-28-ottobre-2026"
+    },
+    {
+      "id": "cronaca-brandizzo-udienza-preliminare",
+      "category": "Cronaca",
+      "title": "Brandizzo, nuova udienza preliminare sulla morte di cinque operai",
+      "eventKey": "brandizzo-udienza-preliminare-parti-civili-28-ottobre-2026"
+    },
+    {
+      "id": "cronaca-rimpatri-ventotto-stranieri",
+      "category": "Cronaca",
+      "title": "Rimpatriate 28 persone, fra loro un giovane coinvolto negli scontri di Milano",
+      "eventKey": "rimpatri-28-persone-operazione-28-ottobre-2026"
+    },
+    {
+      "id": "cronaca-sciame-sismico-tirreno",
+      "category": "Cronaca",
+      "title": "Tirreno meridionale, prosegue lo sciame sismico",
+      "eventKey": "tirreno-meridionale-sette-scosse-28-ottobre-2026"
+    },
+    {
+      "id": "cronaca-lupi-animali-cremonese",
+      "category": "Cronaca",
+      "title": "Nel Cremonese segnalato un attacco di lupi a un pollaio",
+      "eventKey": "lupi-attacco-pollaio-olza-ottobre-2026"
     }
   ],
   "collectionId": "2026-10-28-pomeriggio",
@@ -241,7 +270,7 @@
     "Politica": 5,
     "Esteri": 5,
     "Economia": 5,
-    "Cronaca": 0,
+    "Cronaca": 5,
     "Roma": 0,
     "Cultura · Teatro · Cinema": 0,
     "Tecnologia · AI": 0,
@@ -291,9 +320,9 @@
     },
     "cronaca": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "roma": {
       "base": 0,
