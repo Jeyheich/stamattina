@@ -1,9 +1,12 @@
 {
-  "editionDate": "2026-10-27",
-  "checkedAt": "2026-10-27T16:49:17.011Z",
-  "ready": true,
+  "editionDate": "2026-10-28",
+  "checkedAt": "2026-10-28T05:05:27.667Z",
+  "ready": false,
   "completed": [
-    "politica",
+    "politica"
+  ],
+  "inProgress": [],
+  "missing": [
     "esteri",
     "economia",
     "cronaca",
@@ -12,538 +15,56 @@
     "tecnologia",
     "sport"
   ],
-  "inProgress": [],
-  "missing": [],
   "invalid": [],
   "stories": [
     {
-      "id": "politica-manovra-cdm-28-ottobre",
+      "id": "politica-manovra-meloni-forum-moneta",
       "category": "Politica",
-      "title": "Manovra, confronto ancora aperto sulle coperture prima del Cdm",
-      "eventKey": "manovra-2027-cdm-28-ottobre"
+      "title": "Manovra, Meloni indica salari, sanità ed energia tra le priorità",
+      "eventKey": "manovra-2027-meloni-forum-moneta-27-ottobre"
+    },
+    {
+      "id": "politica-piantedosi-sciopero-30-ottobre",
+      "category": "Politica",
+      "title": "Piantedosi invita a mantenere alta l'attenzione sulle manifestazioni",
+      "eventKey": "piantedosi-allerta-manifestazioni-sciopero-30-ottobre-2026"
+    },
+    {
+      "id": "politica-matone-passa-forza-italia",
+      "category": "Politica",
+      "title": "Simonetta Matone lascia la Lega e aderisce a Forza Italia",
+      "eventKey": "simonetta-matone-lascia-lega-aderisce-forza-italia-26-ottobre-2026"
+    },
+    {
+      "id": "politica-ricorsi-stabilicum-25-tribunali",
+      "category": "Politica",
+      "title": "Legge elettorale, depositati ricorsi in 25 tribunali",
+      "eventKey": "ricorsi-stabilicum-25-tribunali-26-ottobre-2026"
     },
     {
       "id": "politica-salvini-pensioni-64-anni",
       "category": "Politica",
-      "title": "Salvini rilancia l'uscita dal lavoro a 64 anni",
-      "eventKey": "salvini-proposta-pensioni-64-anni-manovra-27-ottobre-2026"
-    },
-    {
-      "id": "politica-ricorsi-legge-elettorale",
-      "category": "Politica",
-      "title": "Stabilicum, depositati ricorsi in 25 tribunali",
-      "eventKey": "ricorsi-stabilicum-25-tribunali-26-ottobre-2026"
-    },
-    {
-      "id": "politica-mazzi-turismo-costituzione",
-      "category": "Politica",
-      "title": "Turismo nella Costituzione, la proposta di Mazzi",
-      "eventKey": "proposta-mazzi-turismo-articolo-9-costituzione"
-    },
-    {
-      "id": "politica-mattarella-sanita-universale",
-      "category": "Politica",
-      "title": "Mattarella alle Regioni: difendere il carattere universale della sanità",
-      "eventKey": "mattarella-priorita-tutela-servizio-sanitario-nazionale"
-    },
-    {
-      "id": "esteri-israele-elezioni-affluenza",
-      "category": "Esteri",
-      "title": "Israele alle urne, affluenza del 31,5% a mezzogiorno",
-      "eventKey": "elezioni-israele-27-ottobre-2026-affluenza-record"
-    },
-    {
-      "id": "esteri-gabon-prospector-5",
-      "category": "Esteri",
-      "title": "Gabon, affonda una piattaforma: un morto e quattro dispersi",
-      "eventKey": "gabon-prospector-5-affondamento-morto-dispersi-ottobre-2026"
-    },
-    {
-      "id": "esteri-kiev-ponte-dnipro",
-      "category": "Esteri",
-      "title": "Kiev, missili russi danneggiano il ponte meridionale",
-      "eventKey": "raid-russo-kiev-infrastrutture-27-ottobre-2026"
-    },
-    {
-      "id": "esteri-serbia-student-list-ue",
-      "category": "Esteri",
-      "title": "Serbia, dopo la vittoria degli studenti l'UE valuta i prossimi passi",
-      "eventKey": "serbia-student-list-vittoria-relazioni-ue-ottobre-2026"
-    },
-    {
-      "id": "esteri-brasile-lula-riconoscimento",
-      "category": "Esteri",
-      "title": "Brasile, il partito di Bolsonaro riconosce la vittoria di Lula",
-      "eventKey": "brasile-lula-quarto-mandato-ballottaggio-2026"
-    },
-    {
-      "id": "economia-hsbc-utili-trimestre",
-      "category": "Economia",
-      "title": "HSBC aumenta gli utili del 32% e conferma la sede nel Regno Unito",
-      "eventKey": "hsbc-utili-terzo-trimestre-2026"
-    },
-    {
-      "id": "economia-imprese-uk-difficolta",
-      "category": "Economia",
-      "title": "Nel Regno Unito oltre 738 mila imprese segnalano difficoltà finanziarie",
-      "eventKey": "btg-imprese-uk-difficolta-q3-2026"
-    },
-    {
-      "id": "economia-prezzi-negozi-uk",
-      "category": "Economia",
-      "title": "Prezzi nei negozi britannici: l'inflazione accelera al 2,1%",
-      "eventKey": "inflazione-prezzi-negozi-uk-ottobre-2026"
-    },
-    {
-      "id": "economia-pompe-calore-sussidi",
-      "category": "Economia",
-      "title": "Pompe di calore, gli installatori britannici temono tagli agli incentivi",
-      "eventKey": "uk-pompe-calore-timori-taglio-sussidi-budget-ottobre-2026"
-    },
-    {
-      "id": "economia-commercio-uk-ue",
-      "category": "Economia",
-      "title": "Londra e Bruxelles preparano un'intesa su scambi e mobilità giovanile",
-      "eventKey": "negoziati-commercio-uk-ue-vertice-novembre-2026"
-    },
-    {
-      "id": "cronaca-monza-omicidio-fermo",
-      "category": "Cronaca",
-      "title": "Monza, un uomo muore accoltellato dopo una lite: fermato un 38enne",
-      "eventKey": "monza-via-pisacane-omicidio-34enne-fermo-27-ottobre-2026"
-    },
-    {
-      "id": "cronaca-perugia-operaio-ventenne",
-      "category": "Cronaca",
-      "title": "Valtopina, operaio ventenne muore schiacciato da un rullo compressore",
-      "eventKey": "valtopina-operaio-20enne-morto-rullo-compressore-27-ottobre-2026"
-    },
-    {
-      "id": "cronaca-impagnatiello-premeditazione",
-      "category": "Cronaca",
-      "title": "Caso Tramontano, nell'appello bis riconosciuta la premeditazione",
-      "eventKey": "impagnatiello-appello-bis-premeditazione-giulia-tramontano-26-ottobre-2026"
-    },
-    {
-      "id": "cronaca-verona-treno-33enne",
-      "category": "Cronaca",
-      "title": "Verona Porta Nuova, muore un trentatreenne dopo una caduta sui binari",
-      "eventKey": "verona-porta-nuova-treno-morte-33enne-ottobre-2026"
-    },
-    {
-      "id": "cronaca-sardegna-ristoranti-senza-schermi",
-      "category": "Cronaca",
-      "title": "In Sardegna quindici ristoranti sperimentano pasti senza smartphone",
-      "eventKey": "sardegna-15-ristoranti-patto-volontario-senza-schermi-ottobre-2026"
-    },
-    {
-      "id": "roma-trasporto-scolastico-riapertura",
-      "category": "Roma",
-      "title": "Trasporto scolastico romano, riaperte le richieste online",
-      "eventKey": "roma-trasporto-scolastico-riapertura-domande-27-ottobre-2026"
-    },
-    {
-      "id": "roma-montespaccato-volontari",
-      "category": "Roma",
-      "title": "Montespaccato, oltre quaranta giovani avviano un progetto di cura del quartiere",
-      "eventKey": "roma-montespaccato-tt-polis-giovani-pulizia-26-ottobre-2026"
-    },
-    {
-      "id": "roma-unicamillus-camici",
-      "category": "Roma",
-      "title": "UniCamillus, quattrocento studenti iniziano il tirocinio clinico",
-      "eventKey": "roma-unicamillus-white-coat-400-studenti-26-ottobre-2026"
-    },
-    {
-      "id": "roma-dia-san-basilio-tufello",
-      "category": "Roma",
-      "title": "DIA, sei arresti nell'inchiesta sul narcotraffico tra San Basilio e Tufello",
-      "eventKey": "roma-dia-arresti-traffico-droga-estorsioni-27-ottobre-2026"
-    },
-    {
-      "id": "roma-sciopero-usb-30-ottobre",
-      "category": "Roma",
-      "title": "Sciopero Usb del 30 ottobre, aggiornate le fasce di garanzia a Roma",
-      "eventKey": "roma-sciopero-usb-trasporti-30-ottobre-2026"
-    },
-    {
-      "id": "cultura-pasolini-porta-portese",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Pasolini al Porta Portese: letture e teatro nella serata del 27 ottobre",
-      "eventKey": "pasolini-art-visual-territorio-27-ottobre-2026"
-    },
-    {
-      "id": "cultura-can-can-ortoleva",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Can Can al Mattatoio, la danza interroga il racconto dell'epilessia",
-      "eventKey": "romaeuropa-can-can-ortoleva-27-28-ottobre-2026"
-    },
-    {
-      "id": "cultura-opera-trittico",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Opera di Roma, al via il trittico Goecke–Robbins–Bausch",
-      "eventKey": "opera-roma-trittico-goecke-robbins-bausch-27-ottobre-2026"
-    },
-    {
-      "id": "cultura-cinema-ucraino-polacco",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Casa del Cinema, tre giorni dedicati alle opere ucraine e polacche",
-      "eventKey": "casa-cinema-festival-ucraino-polacco-27-29-ottobre-2026"
-    },
-    {
-      "id": "cultura-psichedelico-tor-bella-monaca",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Psichedelico, storie di disagio giovanile al Teatro Tor Bella Monaca",
-      "eventKey": "teatro-tor-bella-monaca-psichedelico-27-28-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-opera-webai-browser",
-      "category": "Tecnologia · AI",
-      "title": "Opera propone WebAI per usare modelli AI locali nel browser",
-      "eventKey": "tecnologia-opera-webai-browser-2026-10-27"
-    },
-    {
-      "id": "tecnologia-macbook-oled-indiscrezioni",
-      "category": "Tecnologia · AI",
-      "title": "MacBook Pro OLED touch, nuove indiscrezioni sul design",
-      "eventKey": "tecnologia-macbook-oled-indiscrezioni-2026-10-27"
-    },
-    {
-      "id": "tecnologia-zelixos-linux-aurora",
-      "category": "Tecnologia · AI",
-      "title": "ZelixOS, una nuova distribuzione Linux basata su Arch",
-      "eventKey": "tecnologia-zelixos-linux-aurora-2026-10-27"
-    },
-    {
-      "id": "tecnologia-fortnite-one-piece-trailer",
-      "category": "Tecnologia · AI",
-      "title": "Fortnite mostra la collaborazione con One Piece nel trailer di Treasure Hunter",
-      "eventKey": "fortnite-one-piece-trailer-treasure-hunter-27-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-xbox-vendite-settembre",
-      "category": "Tecnologia · AI",
-      "title": "Xbox Series, vendite USA in calo nonostante l'attenzione per GTA 6",
-      "eventKey": "xbox-series-vendite-settembre-2026-circana-gta6"
-    },
-    {
-      "id": "sport-pulisic-rinnovo-milan",
-      "category": "Sport",
-      "title": "Milan, vicino il rinnovo di Pulisic fino al 2031",
-      "eventKey": "milan-pulisic-accordo-rinnovo-2031-ottobre-2026"
-    },
-    {
-      "id": "sport-napoli-allegri-squalifica",
-      "category": "Sport",
-      "title": "Napoli, due turni di squalifica per Allegri: il club presenta ricorso",
-      "eventKey": "napoli-allegri-due-giornate-squalifica-ricorso-ottobre-2026"
-    },
-    {
-      "id": "sport-serie-a-nona-giornata",
-      "category": "Sport",
-      "title": "Serie A, turno infrasettimanale dal 27 al 29 ottobre",
-      "eventKey": "serie-a-nona-giornata-infrasettimanale-27-29-ottobre-2026"
-    },
-    {
-      "id": "sport-antonelli-austin-vittoria",
-      "category": "Sport",
-      "title": "Formula 1, Antonelli vince ad Austin e si avvicina al titolo",
-      "eventKey": "f1-antonelli-nona-vittoria-austin-gp-usa-2026"
-    },
-    {
-      "id": "sport-paolini-osaka-tokyo",
-      "category": "Sport",
-      "title": "Tennis, Paolini eliminata da Osaka al primo turno a Tokyo",
-      "eventKey": "tennis-paolini-osaka-eliminazione-tokyo-27-ottobre-2026"
-    },
-    {
-      "id": "extra-matone-forza-italia",
-      "category": "Politica",
-      "title": "Matone lascia la Lega e passa a Forza Italia",
-      "eventKey": "extra-matone-forza-italia-2026-10"
-    },
-    {
-      "id": "extra-mattarella-assisi-pace",
-      "category": "Politica",
-      "title": "Mattarella ad Assisi: la pace richiede l’impegno di tutti",
-      "eventKey": "extra-mattarella-assisi-pace-2026-10"
-    },
-    {
-      "id": "extra-salvini-congresso-lega",
-      "category": "Politica",
-      "title": "Il congresso conferma Salvini alla guida della Lega",
-      "eventKey": "extra-salvini-congresso-lega-2026-10"
-    },
-    {
-      "id": "extra-schlein-alleati-montepulciano",
-      "category": "Politica",
-      "title": "Schlein sollecita gli alleati a completare il programma comune",
-      "eventKey": "extra-schlein-alleati-montepulciano-2026-10"
-    },
-    {
-      "id": "extra-csm-rinnovo-voto",
-      "category": "Politica",
-      "title": "Rinnovo del Csm, dopo il voto dei togati tocca al Parlamento",
-      "eventKey": "extra-csm-rinnovo-voto-2026-10"
-    },
-    {
-      "id": "extra-putin-stubb-store-colloquio",
-      "category": "Esteri",
-      "title": "Stubb e Støre parlano con Putin, confronto sui negoziati",
-      "eventKey": "extra-putin-stubb-store-colloquio-2026-10"
-    },
-    {
-      "id": "extra-usa-midterm-sondaggi",
-      "category": "Esteri",
-      "title": "Midterm USA, sondaggi favorevoli ai democratici soprattutto alla Camera",
-      "eventKey": "extra-usa-midterm-sondaggi-2026-10"
-    },
-    {
-      "id": "extra-orban-onu-ipotesi-wsj",
-      "category": "Esteri",
-      "title": "Segreteria ONU, il Wall Street Journal prospetta un’ipotesi Orbán",
-      "eventKey": "extra-orban-onu-ipotesi-wsj-2026-10"
-    },
-    {
-      "id": "extra-hindu-kush-sisma",
-      "category": "Esteri",
-      "title": "Afghanistan, scossa nell’Hindu Kush avvertita anche a Kabul",
-      "eventKey": "extra-hindu-kush-sisma-2026-10"
-    },
-    {
-      "id": "extra-noaa-tagli-el-nino",
-      "category": "Esteri",
-      "title": "Tagli alla NOAA, gli esperti temono minori capacità di previsione",
-      "eventKey": "extra-noaa-tagli-el-nino-2026-10"
-    },
-    {
-      "id": "extra-webuild-ferrovia-zambia",
-      "category": "Economia",
-      "title": "Webuild selezionata come offerente preferito per la ferrovia in Zambia",
-      "eventKey": "extra-webuild-ferrovia-zambia-2026-10"
-    },
-    {
-      "id": "extra-taranto-nuove-iniziative-industriali",
-      "category": "Economia",
-      "title": "Ex Ilva, il governo valuta nuove iniziative industriali a Taranto",
-      "eventKey": "extra-taranto-nuove-iniziative-industriali-2026-10"
-    },
-    {
-      "id": "extra-konecta-solidarieta-lavoratori",
-      "category": "Economia",
-      "title": "Konecta annuncia un accordo di solidarietà per circa mille lavoratori",
-      "eventKey": "extra-konecta-solidarieta-lavoratori-2026-10"
-    },
-    {
-      "id": "extra-oxfam-dividendo-climatico",
-      "category": "Economia",
-      "title": "Oxfam: i grandi patrimoni guadagnano anche dalla ricostruzione climatica",
-      "eventKey": "extra-oxfam-dividendo-climatico-2026-10"
-    },
-    {
-      "id": "extra-uk-datacenter-consultazioni",
-      "category": "Economia",
-      "title": "Datacenter britannici, un’inchiesta contesta lo squilibrio delle consultazioni",
-      "eventKey": "extra-uk-datacenter-consultazioni-2026-10"
-    },
-    {
-      "id": "extra-kaufmann-richiesta-ergastolo",
-      "category": "Cronaca",
-      "title": "Villa Pamphili, la Procura chiede l’ergastolo per Kaufmann",
-      "eventKey": "extra-kaufmann-richiesta-ergastolo-2026-10"
-    },
-    {
-      "id": "extra-parco-dora-fermo",
-      "category": "Cronaca",
-      "title": "Omicidio al Parco Dora, fermato un sospettato",
-      "eventKey": "extra-parco-dora-fermo-2026-10"
-    },
-    {
-      "id": "extra-milano-denuncia-cadorna",
-      "category": "Cronaca",
-      "title": "Milano, una studentessa denuncia violenza sessuale a Cadorna",
-      "eventKey": "extra-milano-denuncia-cadorna-2026-10"
-    },
-    {
-      "id": "extra-ischia-arresti-violenze",
-      "category": "Cronaca",
-      "title": "Ischia, tre giovani in custodia cautelare per violenze su una persona disabile",
-      "eventKey": "extra-ischia-arresti-violenze-2026-10"
-    },
-    {
-      "id": "extra-siher-udienza-convalida",
-      "category": "Cronaca",
-      "title": "Milano, Siher non risponde al gip: decisione attesa il 28 ottobre",
-      "eventKey": "extra-siher-udienza-convalida-2026-10"
-    },
-    {
-      "id": "extra-roma-fascia-verde-proroga",
-      "category": "Roma",
-      "title": "Fascia Verde, prorogate le limitazioni già in vigore",
-      "eventKey": "extra-roma-fascia-verde-proroga-2026-10"
-    },
-    {
-      "id": "extra-don-bosco-rapina-furgone",
-      "category": "Roma",
-      "title": "Don Bosco, rapina a un furgone portavalori e fuga in scooter",
-      "eventKey": "extra-don-bosco-rapina-furgone-2026-10"
-    },
-    {
-      "id": "extra-castel-giubileo-sequestro",
-      "category": "Roma",
-      "title": "Castel Giubileo, sequestrata un’area di 27mila metri quadrati",
-      "eventKey": "extra-castel-giubileo-sequestro-2026-10"
-    },
-    {
-      "id": "extra-viadotto-presidenti-ciclopedonale",
-      "category": "Roma",
-      "title": "III Municipio, inaugurato il percorso del Viadotto dei Presidenti",
-      "eventKey": "extra-viadotto-presidenti-ciclopedonale-2026-10"
-    },
-    {
-      "id": "extra-ilaria-sula-genitori-udienza",
-      "category": "Roma",
-      "title": "Ilaria Sula, i genitori presenti all’udienza a Rebibbia",
-      "eventKey": "extra-ilaria-sula-genitori-udienza-2026-10"
-    },
-    {
-      "id": "extra-thin-line-mostra",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "The Thin Line: fotografie dalle crisi umanitarie",
-      "eventKey": "extra-thin-line-mostra-2026-10"
-    },
-    {
-      "id": "extra-memoria-fotografica-cappelletti",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Spazio Rossellini, vent’anni di fotografie di scena",
-      "eventKey": "extra-memoria-fotografica-cappelletti-2026-10"
-    },
-    {
-      "id": "extra-zalib-formazione-cinema",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Zalib, laboratorio di cinema per giovani dai 20 ai 35 anni",
-      "eventKey": "extra-zalib-formazione-cinema-2026-10"
-    },
-    {
-      "id": "extra-amici-braschi-fori-ottobre",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "aMICi, visite a Palazzo Braschi e ai Fori Imperiali",
-      "eventKey": "extra-amici-braschi-fori-ottobre-2026-10"
-    },
-    {
-      "id": "extra-avincola-piji-concerti",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Avincola e Piji Siciliani in concerto a Palazzo Esposizioni",
-      "eventKey": "extra-avincola-piji-concerti-2026-10"
-    },
-    {
-      "id": "extra-mythos-aisi-valutazione",
-      "category": "Tecnologia · AI",
-      "title": "Sicurezza AI, nuovi dettagli sul test di Claude Mythos 5",
-      "eventKey": "extra-mythos-aisi-valutazione-2026-10"
-    },
-    {
-      "id": "extra-meloni-email-tentativo-attacco",
-      "category": "Tecnologia · AI",
-      "title": "Attacco all’email parlamentare di Meloni, accertamenti in corso",
-      "eventKey": "extra-meloni-email-tentativo-attacco-2026-10"
-    },
-    {
-      "id": "extra-imac-m6-annuncio",
-      "category": "Tecnologia · AI",
-      "title": "Apple presenta l’iMac M6: ordini dal 28 ottobre",
-      "eventKey": "extra-imac-m6-annuncio-2026-10"
-    },
-    {
-      "id": "extra-cyberpunk-titanfall-mod",
-      "category": "Tecnologia · AI",
-      "title": "Una mod porta il Titan di Titanfall in Cyberpunk 2077",
-      "eventKey": "extra-cyberpunk-titanfall-mod-2026-10"
-    },
-    {
-      "id": "extra-phantom-blade-preload-spazio",
-      "category": "Tecnologia · AI",
-      "title": "Phantom Blade Zero: 300 GB liberi per il preload su PC",
-      "eventKey": "extra-phantom-blade-preload-spazio-2026-10"
-    },
-    {
-      "id": "extra-spalletti-genoa-conferenza",
-      "category": "Sport",
-      "title": "Spalletti prepara Genoa–Juventus e avverte sulle insidie della trasferta",
-      "eventKey": "extra-spalletti-genoa-conferenza-2026-10"
-    },
-    {
-      "id": "extra-martin-sepang-recupero",
-      "category": "Sport",
-      "title": "MotoGP, Martin tenta il recupero per Sepang",
-      "eventKey": "extra-martin-sepang-recupero-2026-10"
-    },
-    {
-      "id": "extra-sinner-recupero-intervista",
-      "category": "Sport",
-      "title": "Sinner sul recupero: rispettare il corpo e avere pazienza",
-      "eventKey": "extra-sinner-recupero-intervista-2026-10"
-    },
-    {
-      "id": "extra-kane-pallone-oro",
-      "category": "Sport",
-      "title": "Pallone d’Oro a Kane, Lautaro chiude ventiduesimo",
-      "eventKey": "extra-kane-pallone-oro-2026-10"
-    },
-    {
-      "id": "extra-loftus-cheek-infortunio",
-      "category": "Sport",
-      "title": "Milan, lesione muscolare per Loftus-Cheek",
-      "eventKey": "extra-loftus-cheek-infortunio-2026-10"
+      "title": "Pensioni a 64 anni, Salvini rilancia la proposta della Lega",
+      "eventKey": "salvini-proposta-pensione-64-anni-27-ottobre-2026"
     }
   ],
-  "collectionId": "2026-10-27-pomeriggio",
   "reserveCounts": {
-    "Politica": 5,
-    "Esteri": 5,
-    "Economia": 5,
-    "Cronaca": 5,
-    "Roma": 5,
-    "Cultura · Teatro · Cinema": 5,
-    "Tecnologia · AI": 5,
-    "Sport": 5
+    "Politica": 0,
+    "Esteri": 0,
+    "Economia": 0,
+    "Cronaca": 0,
+    "Roma": 0,
+    "Cultura · Teatro · Cinema": 0,
+    "Tecnologia · AI": 0,
+    "Sport": 0
   },
   "photoCandidates": [
     {
-      "id": "politica-manovra-cdm-28-ottobre",
+      "id": "politica-manovra-meloni-forum-moneta",
       "category": "Politica",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg"
-    },
-    {
-      "id": "esteri-israele-elezioni-affluenza",
-      "category": "Esteri",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG"
-    },
-    {
-      "id": "economia-hsbc-utili-trimestre",
-      "category": "Economia",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:HSBC.Reza_01.jpg"
-    },
-    {
-      "id": "roma-trasporto-scolastico-riapertura",
-      "category": "Roma",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bus_stop_in_Rome_01.jpg"
-    },
-    {
-      "id": "cultura-cinema-ucraino-polacco",
-      "category": "Cultura · Teatro · Cinema",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Villa_Borghese_-_Casa_del_Cinema_P1020818.JPG"
-    },
-    {
-      "id": "sport-pulisic-rinnovo-milan",
-      "category": "Sport",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg"
     }
   ],
-  "photosAvailable": 6,
-  "editionId": "2026-10-27-batches-25240eef4798",
-  "needsPublication": false,
-  "publicVerifiedAt": "2026-10-27T16:49:39.507514+00:00",
-  "publicEditionId": "2026-10-27-batches-25240eef4798",
-  "publication": "verified"
+  "photosAvailable": 1,
+  "needsPublication": false
 }
