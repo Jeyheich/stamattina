@@ -1,117 +1,130 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-28",
+  "collectionId": "2026-10-28-pomeriggio",
   "category": "Roma",
-  "completedAt": "2026-10-28T06:19:38.614Z",
+  "completedAt": "2026-10-28T16:17:01.997Z",
   "articles": [
     {
-      "id": "roma-licei-occupazioni-27-ottobre",
-      "eventKey": "roma-occupazioni-licei-mamiani-desanctis-croce-aleramo-27-ottobre-2026",
+      "id": "roma-scippo-tor-bella-monaca",
+      "eventKey": "roma-tor-bella-monaca-scippo-collana-14enne-28-ottobre-2026",
       "category": "Roma",
       "status": "verified",
-      "title": "Roma, nuove occupazioni nei licei: proteste al Mamiani, De Sanctis e Croce-Aleramo",
-      "summary": "Si allarga la protesta studentesca nella Capitale: i collettivi denunciano problemi negli edifici e chiedono ascolto alle dirigenze.",
+      "title": "Tor Bella Monaca, arrestato un quattordicenne dopo lo scippo a una donna",
+      "summary": "Una 64enne è stata derubata della collana in via Casilina: i carabinieri hanno rintracciato un minorenne e restituito il gioiello.",
       "body": [
-        "Il 27 ottobre sono entrati in occupazione tre istituti superiori romani: Mamiani, De Sanctis e Croce-Aleramo. Le modalità di ingresso sono contestate dalle dirigenze; i rappresentanti degli studenti del De Sanctis denunciano infiltrazioni, muffa e problemi strutturali nelle sedi.",
-        "Al Croce-Aleramo la dirigente ha precisato che è stata occupata la sede di via Sommovigo, mentre il tentativo nella sede di viale Bardanzellu è rientrato. La scuola si è detta disponibile al confronto con gli studenti."
+        "Secondo la ricostruzione dei carabinieri riportata da ANSA, una donna di 64 anni ha chiesto aiuto dopo che un ragazzo le aveva strappato dal collo una collana d'oro mentre camminava in via Casilina.",
+        "I militari di Tor Bella Monaca hanno individuato un quattordicenne, recuperato la refurtiva e accompagnato il minore al centro di prima accoglienza a disposizione dell'autorità giudiziaria."
       ],
-      "publishedAt": "2026-10-27T21:40:00+01:00",
-      "verifiedAt": "2026-10-28T06:19:38.614Z",
+      "publishedAt": "2026-10-28T14:40:00+01:00",
+      "verifiedAt": "2026-10-28T16:17:01.997Z",
       "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com/cronaca/scuola-ancora-occupazioni-a-roma-al-mamiani-arriva-una-delegazione-di-studenti-francesi_3tKtuBl0xSbZTiRs98kf8S",
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/donna-scippata-in-strada-i-carabinieri-arrestano-un-14enne_008b4dbc-eb2b-4af4-8109-566e7888bafb.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-28T06:19:38.614Z",
-        "dateEvidence": "Adnkronos, articolo integrale datato 27 ottobre 2026 ore 21:40, descrive le tre occupazioni e le posizioni di studenti e presidi.",
+        "accessCheckedAt": "2026-10-28T16:17:01.997Z",
+        "dateEvidence": "ANSA Lazio: ROMA, 28 ottobre 2026, ore 14:40; testo della notizia consultato integralmente.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-operazione-dia-san-basilio-tufello",
+      "eventKey": "roma-dia-sei-arresti-traffico-cocaina-san-basilio-tufello-27-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Droga nell'area est di Roma, sei arresti dopo l'indagine della DIA",
+      "summary": "Un'inchiesta coordinata dalla DDA ricostruisce presunti traffici di cocaina e un'estorsione legata a un carico da 750mila euro.",
+      "body": [
+        "La Direzione investigativa antimafia ha eseguito sei misure cautelari a Roma nell'ambito di un'indagine su traffico internazionale di droga ed estorsioni aggravate dal metodo mafioso.",
+        "Secondo gli investigatori, parte della gestione dei rifornimenti avveniva dal carcere e durante una latitanza in Spagna. L'inchiesta cita anche operatori del traffico di droga tra San Basilio e Tufello."
+      ],
+      "publishedAt": "2026-10-27T10:00:00+01:00",
+      "verifiedAt": "2026-10-28T16:17:01.997Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/27/6-arresti-a-roma-indagati-gestivano-traffico-di-droga-dal-carcere_ce225b8b-c034-4328-ae4d-2d61d0b0040f.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T16:17:01.997Z",
+        "dateEvidence": "ANSA Lazio: ROMA, 27 ottobre 2026, ore 10:00; notizia e contesto dell'indagine riletti il 28.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-liceo-talete-danno-idrico",
+      "eventKey": "roma-liceo-talete-prati-danno-idrico-proteste-studenti-27-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Liceo Talete, proteste per i danni idrici e la sicurezza dell'edificio",
+      "summary": "La comunità scolastica di Prati chiede risposte dopo infiltrazioni che hanno coinvolto più istituti nello stesso complesso.",
+      "body": [
+        "L'associazione Amici del Talete denuncia che una perdita d'acqua ha attraversato due solai dell'edificio in via Camozzi, interessando anche una scuola media e un nido.",
+        "Dopo una chiusura fino al 21 ottobre e un'assemblea, molti studenti hanno protestato davanti all'ingresso chiedendo verifiche sulla sicurezza e manutenzioni durature."
+      ],
+      "publishedAt": "2026-10-27T19:03:00+01:00",
+      "verifiedAt": "2026-10-28T16:17:01.997Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/27/danno-idrico-al-liceo-talete-e-altre-due-scuole-gli-studenti-protestano_4b146f0a-b060-40a7-a06f-65710b085614.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T16:17:01.997Z",
+        "dateEvidence": "ANSA Lazio: ROMA, 27 ottobre 2026, ore 19:03; dichiarazioni dell'associazione Amici del Talete.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-sapienza-ballottaggio-rettore",
+      "eventKey": "roma-sapienza-ballottaggio-rettore-carcaterra-lucidi-27-30-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Sapienza, ballottaggio aperto per scegliere il rettore 2026–2032",
+      "summary": "Antonio Carcaterra e Fabio Lucidi si contendono la guida dell'ateneo nel voto online previsto fino al 30 ottobre.",
+      "body": [
+        "La Sapienza ha avviato il ballottaggio per la scelta del rettore del sessennio 2026–2032. Dopo il primo turno, la sfida è tra Antonio Carcaterra e Fabio Lucidi.",
+        "ANSA riferisce 1.584 voti per Carcaterra e 1.305 per Lucidi nella fase precedente; le votazioni del secondo turno si svolgono online dal 27 al 30 ottobre. L'esito non è ancora riportato nella fonte consultata."
+      ],
+      "publishedAt": "2026-10-27T13:27:00+01:00",
+      "verifiedAt": "2026-10-28T16:17:01.997Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/26/da-domani-ballottaggio-per-lelezione-del-nuovo-rettore-alla-sapienza_511cda1a-dda8-4ee1-affc-a314139cacce.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T16:17:01.997Z",
+        "dateEvidence": "ANSA Lazio: pagina con percorso 26 ottobre ma dateline interna ROMA, 27 ottobre 2026, 13:27; mantenuta la data visualizzata.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 78
-    },
-    {
-      "id": "roma-montespaccato-tt-polis",
-      "eventKey": "roma-montespaccato-avvio-tt-polis-giovani-pulizia-quartiere-27-ottobre-2026",
-      "category": "Roma",
-      "status": "verified",
-      "title": "Montespaccato, oltre quaranta giovani avviano un progetto di cura del quartiere",
-      "summary": "Partito T&T Polis: volontariato civico e sport per coinvolgere i ragazzi nella manutenzione degli spazi comuni.",
-      "body": [
-        "L'iniziativa inaugurale Terzo Tempo per Montespaccato ha coinvolto oltre quaranta ragazzi e ragazze del gruppo sportivo locale in una giornata di pulizia e valorizzazione delle strade del quartiere. Ha partecipato anche Valerio Tuveri, conosciuto come Mr. Tuvs."
-      ],
-      "publishedAt": "2026-10-27T12:00:00+01:00",
-      "verifiedAt": "2026-10-28T06:19:38.614Z",
-      "source": {
-        "name": "IO24",
-        "url": "https://io24.it/roma-montespaccato-al-via-tt-polis-con-oltre-quaranta-giovani-per-la-cura-del-quartiere/",
-        "access": "free",
-        "accessCheckedAt": "2026-10-28T06:19:38.614Z",
-        "dateEvidence": "IO24, articolo datato esplicitamente 27 Ottobre 2026, descrizione integrale dell'avvio T&T Polis e della partecipazione di oltre 40 giovani.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
+      "leadPriority": 84,
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Sapienzia_Roma.jpg",
+        "alt": "Edificio del rettorato dell'Università La Sapienza a Roma",
+        "credit": "Diagram Lajard",
+        "rights": "CC0 1.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sapienzia_Roma.jpg",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "caption": "Repertorio · edificio del rettorato della Sapienza, fotografia del 2015. Non ritrae il ballottaggio del 2026.",
+        "reuseApproved": true
       }
     },
     {
-      "id": "roma-quarticciolo-nove-arresti",
-      "eventKey": "roma-quarticciolo-carabinieri-nove-arresti-208-dosi-27-ottobre-2026",
+      "id": "roma-righi-scritte-lista-stupri",
+      "eventKey": "roma-liceo-righi-lista-stupri-svastica-25-ottobre-2026",
       "category": "Roma",
       "status": "verified",
-      "title": "Quarticciolo, nove arresti durante i controlli antidroga",
-      "summary": "Carabinieri in azione nel quartiere: sequestrate 208 dosi di stupefacenti, tra cui cocaina e crack.",
+      "title": "Liceo Righi, studenti denunciano scritte offensive nei bagni",
+      "summary": "Nel plesso di via Boncompagni sono comparsi nomi su una cosiddetta lista di violenza sessuale e un simbolo nazista.",
       "body": [
-        "Il servizio straordinario dei carabinieri della Compagnia Roma Casilina ha portato a nove arresti, otto per detenzione ai fini di spaccio e uno per violazione di un provvedimento giudiziario. Le perquisizioni hanno individuato 143 dosi e altre 65 nascoste nei vani contatori."
+        "Il collettivo del liceo Righi ha denunciato scritte nei bagni della sede di via Boncompagni, comprendenti nomi di studenti ed ex studenti in una cosiddetta 'lista stupri'.",
+        "Secondo la segnalazione riportata da ANSA, una svastica tracciata con lo stesso pennarello copriva una scritta di solidarietà alla Palestina. La notizia risale al 25 ottobre e viene ripresa come contesto locale ancora rilevante."
       ],
-      "publishedAt": "2026-10-27T13:02:00+01:00",
-      "verifiedAt": "2026-10-28T06:19:38.614Z",
+      "publishedAt": "2026-10-25T20:44:00+01:00",
+      "verifiedAt": "2026-10-28T16:17:01.997Z",
       "source": {
-        "name": "Roma Netweek",
-        "url": "https://romanetweek.it/roma/quarticciolo-nove-arresti-sequestrate-208-dosi-di-droga/",
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/25/una-lista-stupri-nei-bagni-del-liceo-righi-a-roma_9a18c256-d3e8-4ceb-8bb7-71cb51422466.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-28T06:19:38.614Z",
-        "dateEvidence": "Roma Netweek, 27 Ottobre 2026 ore 13:02; articolo completo con bilancio dei nove arresti e 208 dosi sequestrate.",
+        "accessCheckedAt": "2026-10-28T16:17:01.997Z",
+        "dateEvidence": "ANSA Lazio: ROMA, 25 ottobre 2026, ore 20:44; notizia di contesto entro 72 ore dalla verifica.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
-    },
-    {
-      "id": "roma-viadotto-presidenti-ciclabile",
-      "eventKey": "roma-inaugurazione-viadotto-presidenti-ciclopedonale-27-ottobre-2026",
-      "category": "Roma",
-      "status": "verified",
-      "title": "Nel III Municipio inaugurato un nuovo percorso ciclopedonale di 2,7 chilometri",
-      "summary": "Il Viadotto dei Presidenti cambia funzione: l'ex sedime del tram diventa un collegamento protetto tra i quartieri del quadrante nord-est.",
-      "body": [
-        "Il percorso inaugurato dal sindaco Gualtieri attraversa i viadotti Gronchi e Saragat, collegando l'area di Parco Talenti con quella di Parco delle Sabine. Sono stati realizzati spazi per pedoni, ciclisti e corsa, oltre a illuminazione e bonifica dell'area."
-      ],
-      "publishedAt": "2026-10-27T11:11:00+01:00",
-      "verifiedAt": "2026-10-28T06:19:38.614Z",
-      "source": {
-        "name": "Roma Tomorrow",
-        "url": "https://www.romatomorrow.it/2026/10/27/roma-rinasce-il-viadotto-dei-presidenti-inaugurata-la-ciclabile-di-27-km/",
-        "access": "free",
-        "accessCheckedAt": "2026-10-28T06:19:38.614Z",
-        "dateEvidence": "Roma Tomorrow, 27 Ottobre 2026 ore 11:11; articolo completo sull'inaugurazione del percorso di 2,7 km.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "roma-ponte-milvio-manifestazione",
-      "eventKey": "roma-ponte-milvio-manifestazione-30-ottobre-2026-avviso-viabilita",
-      "category": "Roma",
-      "status": "verified",
-      "title": "Ponte Milvio, annunciata una manifestazione per venerdì 30 ottobre",
-      "summary": "L'avviso di Roma Mobilità segnala possibili rallentamenti attorno al piazzale tra le 9 e le 11.",
-      "body": [
-        "Roma Servizi per la Mobilità ha pubblicato il 27 ottobre un avviso per la manifestazione programmata il 30 ottobre in piazzale di Ponte Milvio. Le difficoltà di circolazione sono possibili nella zona circostante; non sono indicate chiusure specifiche."
-      ],
-      "publishedAt": "2026-10-27T12:00:00+01:00",
-      "verifiedAt": "2026-10-28T06:19:38.614Z",
-      "source": {
-        "name": "Roma Servizi per la Mobilità",
-        "url": "https://romamobilita.it/infomobilita/venerdi-manifestazione-a-ponte-milvio-possibili-rallentamenti/",
-        "access": "free",
-        "accessCheckedAt": "2026-10-28T06:19:38.614Z",
-        "dateEvidence": "Avviso ufficiale Roma Mobilità: pubblicato e aggiornato il 27/10/2026; validità 30/10/2026 dalle 06:00 alle 12:00, manifestazione 09:00-11:00.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "dateKind": "event",
-      "eventDate": "2026-10-30"
     }
   ]
 }
