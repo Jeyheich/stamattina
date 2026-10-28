@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-28",
-  "checkedAt": "2026-10-28T15:20:50.821Z",
+  "checkedAt": "2026-10-28T15:21:28.313Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,11 +14,11 @@
   "completed": [
     "politica",
     "esteri",
-    "economia"
+    "economia",
+    "cronaca"
   ],
   "inProgress": [],
   "missing": [
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -117,6 +117,36 @@
       "eventKey": "gas-ttf-amsterdam-supera-100-euro-28-ottobre-2026"
     },
     {
+      "id": "cronaca-blitz-cosenza-ndrangheta",
+      "category": "Cronaca",
+      "title": "Operazione antimafia nel Cosentino, 41 misure cautelari",
+      "eventKey": "operazione-ros-cosenza-41-misure-stasi-28-ottobre-2026"
+    },
+    {
+      "id": "cronaca-docente-aggredito-torino",
+      "category": "Cronaca",
+      "title": "Torino, docente aggredito a scuola e portato in ospedale",
+      "eventKey": "torino-istituto-carlo-grassi-aggressione-docente-28-ottobre"
+    },
+    {
+      "id": "cronaca-indagine-dissidenti-cinesi",
+      "category": "Cronaca",
+      "title": "Milano, dieci indagati per presunte pressioni su dissidenti cinesi",
+      "eventKey": "milano-procura-dissidenti-cinesi-teacher-li-10-indagati-2026"
+    },
+    {
+      "id": "cronaca-mestre-bus-patteggiamenti",
+      "category": "Cronaca",
+      "title": "Mestre, sette patteggiamenti per la tragedia del bus",
+      "eventKey": "mestre-strage-bus-sette-patteggiamenti-28-ottobre-2026"
+    },
+    {
+      "id": "cronaca-appello-torino-violenza-domestica",
+      "category": "Cronaca",
+      "title": "Torino, ammessi gli appelli in un caso di violenza domestica",
+      "eventKey": "torino-corte-appello-riapertura-caso-lesioni-moglie-suocera-28-ottobre"
+    },
+    {
       "id": "politica-sondaggio-swg-coalizioni",
       "category": "Politica",
       "title": "Sondaggi, FdI al 29,3% ma coalizioni quasi appaiate",
@@ -203,9 +233,14 @@
       "id": "economia-stellantis-trimestre-2026-ricavi",
       "category": "Economia",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:FCA_Stellantis_Pratola_Serra_Plant.jpg"
+    },
+    {
+      "id": "cronaca-blitz-cosenza-ndrangheta",
+      "category": "Cronaca",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_159_Carabinieri.jpg"
     }
   ],
-  "photosAvailable": 3,
+  "photosAvailable": 4,
   "categoryProgress": {
     "politica": {
       "base": 5,
@@ -226,7 +261,7 @@
       "complete": false
     },
     "cronaca": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
