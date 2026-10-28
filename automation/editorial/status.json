@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-28",
-  "checkedAt": "2026-10-28T11:06:44.943Z",
+  "checkedAt": "2026-10-28T15:09:23.180Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,44 +13,83 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [],
+  "completed": [
+    "politica",
+    "esteri"
+  ],
   "inProgress": [],
-  "missing": [],
-  "invalid": [
+  "missing": [
+    "economia",
+    "cronaca",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
+  ],
+  "invalid": [],
+  "stories": [
     {
-      "slug": "politica",
-      "reason": "Verifica scaduta o futura"
+      "id": "politica-manovra-cdm-2027",
+      "category": "Politica",
+      "title": "Manovra 2027, il Consiglio dei ministri avvia l'esame del testo",
+      "eventKey": "manovra-2027-cdm-esame-28-ottobre"
     },
     {
-      "slug": "esteri",
-      "reason": "Verifica scaduta o futura"
+      "id": "politica-riforma-artigianato",
+      "category": "Politica",
+      "title": "Artigianato, Meloni annuncia un decreto per aggiornare la legge del 1985",
+      "eventKey": "meloni-annuncia-riforma-legge-artigianato-28-ottobre"
     },
     {
-      "slug": "economia",
-      "reason": "Verifica scaduta o futura"
+      "id": "politica-ddl-professioni-sanitarie",
+      "category": "Politica",
+      "title": "Professioni sanitarie, la Camera approva il testo e si divide sui medici radiati",
+      "eventKey": "camera-voto-professioni-sanitarie-medici-radiati-28-ottobre"
     },
     {
-      "slug": "cronaca",
-      "reason": "Verifica scaduta o futura"
+      "id": "politica-mattarella-sanita-territori",
+      "category": "Politica",
+      "title": "Mattarella richiama le istituzioni sulle differenze nella sanità pubblica",
+      "eventKey": "mattarella-giorni-ricerca-disuguaglianze-ssn-28-ottobre"
     },
     {
-      "slug": "roma",
-      "reason": "Verifica scaduta o futura"
+      "id": "politica-csm-elezioni-togati",
+      "category": "Politica",
+      "title": "Elezioni Csm, Nardecchia e Pilla conquistano i seggi di legittimità",
+      "eventKey": "elezioni-csm-legittimita-nardecchia-pilla-28-ottobre"
     },
     {
-      "slug": "cultura",
-      "reason": "Verifica scaduta o futura"
+      "id": "esteri-israele-scrutinio",
+      "category": "Esteri",
+      "title": "Israele, lo scrutinio non assegna ancora una maggioranza parlamentare",
+      "eventKey": "israele-elezioni-scrutinio-28-ottobre-blocchi-senza-maggioranza"
     },
     {
-      "slug": "tecnologia",
-      "reason": "Verifica scaduta o futura"
+      "id": "esteri-bolsonaro-espatrio",
+      "category": "Esteri",
+      "title": "Brasile, notizie contrastanti sul viaggio all'estero di Flávio Bolsonaro",
+      "eventKey": "flavio-bolsonaro-espatrio-argentina-ecuador-usa-28-ottobre"
     },
     {
-      "slug": "sport",
-      "reason": "Verifica scaduta o futura"
+      "id": "esteri-spagna-treni-toledo",
+      "category": "Esteri",
+      "title": "Spagna, grave collisione fra treni ad alta velocità vicino a Toledo",
+      "eventKey": "spagna-scontro-treni-alta-velocita-toledo-28-ottobre"
+    },
+    {
+      "id": "esteri-serbia-vittoria-studenti",
+      "category": "Esteri",
+      "title": "Serbia, vittoria elettorale degli studenti e trattative sul governo",
+      "eventKey": "serbia-elezioni-studenti-vittoria-formazione-governo-26-ottobre"
+    },
+    {
+      "id": "esteri-lisbona-casa-proteste",
+      "category": "Esteri",
+      "title": "Lisbona, tende e manifestanti davanti al Parlamento per il diritto alla casa",
+      "eventKey": "lisbona-protesta-diritto-casa-parlamento-27-ottobre"
     }
   ],
-  "stories": [],
+  "collectionId": "2026-10-28-pomeriggio",
   "reserveCounts": {
     "Politica": 0,
     "Esteri": 0,
@@ -61,17 +100,28 @@
     "Tecnologia · AI": 0,
     "Sport": 0
   },
-  "photoCandidates": [],
-  "photosAvailable": 0,
+  "photoCandidates": [
+    {
+      "id": "politica-manovra-cdm-2027",
+      "category": "Politica",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg"
+    },
+    {
+      "id": "esteri-israele-scrutinio",
+      "category": "Esteri",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG"
+    }
+  ],
+  "photosAvailable": 2,
   "categoryProgress": {
     "politica": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "esteri": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
