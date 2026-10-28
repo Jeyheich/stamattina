@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-28",
-  "checkedAt": "2026-10-28T15:11:31.946Z",
+  "checkedAt": "2026-10-28T15:20:50.821Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,11 +13,11 @@
   ],
   "completed": [
     "politica",
-    "esteri"
+    "esteri",
+    "economia"
   ],
   "inProgress": [],
   "missing": [
-    "economia",
     "cronaca",
     "roma",
     "cultura",
@@ -85,6 +85,36 @@
       "category": "Esteri",
       "title": "Lisbona, tende e manifestanti davanti al Parlamento per il diritto alla casa",
       "eventKey": "lisbona-protesta-diritto-casa-parlamento-27-ottobre"
+    },
+    {
+      "id": "economia-stellantis-trimestre-2026-ricavi",
+      "category": "Economia",
+      "title": "Stellantis, ricavi trimestrali a 37,6 miliardi e perdite ridotte",
+      "eventKey": "stellantis-terzo-trimestre-2026-ricavi-376-miliardi"
+    },
+    {
+      "id": "economia-asvis-rapporto-sostenibilita",
+      "category": "Economia",
+      "title": "ASviS, l'Italia resta indietro sugli obiettivi di sostenibilità",
+      "eventKey": "asvis-rapporto-agenda-2030-italia-28-ottobre-2026"
+    },
+    {
+      "id": "economia-istat-fatturato-industria-agosto",
+      "category": "Economia",
+      "title": "Industria, Istat: fatturato di agosto in calo sul mese",
+      "eventKey": "istat-fatturato-industria-agosto-2026-dati-28-ottobre"
+    },
+    {
+      "id": "economia-unioncamere-potenziale-export",
+      "category": "Economia",
+      "title": "Unioncamere individua 20mila imprese con potenziale di export",
+      "eventKey": "unioncamere-indagine-20000-imprese-potenziali-export-28-ottobre"
+    },
+    {
+      "id": "economia-gas-ttf-sopra-cento-euro",
+      "category": "Economia",
+      "title": "Gas europeo sopra 100 euro al megawattora",
+      "eventKey": "gas-ttf-amsterdam-supera-100-euro-28-ottobre-2026"
     },
     {
       "id": "politica-sondaggio-swg-coalizioni",
@@ -168,9 +198,14 @@
       "id": "esteri-israele-scrutinio",
       "category": "Esteri",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG"
+    },
+    {
+      "id": "economia-stellantis-trimestre-2026-ricavi",
+      "category": "Economia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:FCA_Stellantis_Pratola_Serra_Plant.jpg"
     }
   ],
-  "photosAvailable": 2,
+  "photosAvailable": 3,
   "categoryProgress": {
     "politica": {
       "base": 5,
@@ -185,7 +220,7 @@
       "complete": true
     },
     "economia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
