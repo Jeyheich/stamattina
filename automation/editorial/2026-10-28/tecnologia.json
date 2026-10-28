@@ -1,226 +1,112 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-28",
+  "collectionId": "2026-10-28-pomeriggio",
   "category": "Tecnologia · AI",
-  "completedAt": "2026-10-28T06:04:27.562Z",
+  "completedAt": "2026-10-28T16:07:09.577Z",
   "articles": [
     {
-      "id": "tecnologia-gpt-61-terra",
-      "eventKey": "openai-rilascio-gpt-61-terra-27-ottobre-2026",
-      "title": "GPT-6.1 Terra arriva per ChatGPT Work e Codex",
-      "summary": "Punto Informatico riferisce il debutto del nuovo modello di OpenAI, presentato con miglioramenti nelle attività visuali e nell'uso del computer.",
-      "body": [
-        "Secondo la ricostruzione pubblicata da Punto Informatico il 27 ottobre, GPT-6.1 Terra punta su operazioni professionali che richiedono la comprensione di immagini, il controllo di applicazioni desktop e la programmazione. Il modello viene indicato come disponibile in ChatGPT Work e Codex per gli abbonati idonei.",
-        "L'articolo riporta confronti di prestazioni e prezzi con la generazione precedente, attribuendoli a OpenAI. I risultati dei benchmark sono dichiarazioni riferite dal produttore, non prove indipendenti della redazione."
-      ],
-      "publishedAt": "2026-10-27",
-      "leadPriority": 88,
+      "id": "tecnologia-certificati-emudhra",
+      "eventKey": "microsoft-patch-emudhra-certificati-compromessi-28-ottobre-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "verifiedAt": "2026-10-28T06:04:27.562Z",
+      "title": "Windows, aggiornamenti straordinari contro certificati digitali vulnerabili",
+      "summary": "Microsoft ha pubblicato patch fuori calendario per revocare certificati eMudhra collegati a chiavi private compromesse.",
+      "body": [
+        "Le correzioni riguardano Windows 11 e Windows 10 e sono particolarmente importanti per computer che non aggiornano automaticamente gli elenchi dei certificati. Microsoft indica pacchetti diversi a seconda della versione del sistema."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-28T16:07:09.577Z",
       "source": {
         "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/openai-gpt-6-1-terra-nuovo-modello-chatgpt-codex/",
+        "url": "https://www.punto-informatico.it/windows-11-update-rimuovere-certificati-compromessi/",
         "access": "free",
-        "accessCheckedAt": "2026-10-28T06:04:27.562Z",
-        "dateEvidence": "Pagina completa di Punto Informatico firmata Luca Colantuoni: «Pubblicato il 27 ott 2026»; ora non indicata dalla fonte.",
+        "accessCheckedAt": "2026-10-28T16:07:09.577Z",
+        "dateEvidence": "Punto Informatico, Luca Colantuoni, Pubblicato il 28 ott 2026; articolo integrale consultato.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "tecnologia-pagopa-pec-phishing",
-      "eventKey": "cert-agid-campagna-phishing-pagopa-pec-compromesse-ottobre-2026",
-      "title": "False multe PagoPA: phishing attraverso caselle PEC compromesse",
-      "summary": "CERT-AgID segnala email su presunte contravvenzioni che conducono a siti imitazione di PagoPA per sottrarre dati e carte.",
-      "body": [
-        "Il CERT-AgID ha documentato messaggi inviati da caselle PEC compromesse, con richieste di pagamento per presunte multe stradali e collegamenti a pagine che imitano il portale PagoPA. In uno dei casi descritti viene chiesto di pagare 198 euro entro il 27 ottobre, minacciando un aumento a 268 euro.",
-        "La provenienza da un indirizzo PEC non garantisce che il contenuto sia autentico. La campagna punta a raccogliere dati anagrafici e informazioni sulle carte di pagamento."
-      ],
-      "publishedAt": "2026-10-27",
+      "id": "tecnologia-meta-muse-hardware",
+      "eventKey": "meta-accordi-amd-nvidia-muse-infrastruttura-28-ottobre-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "verifiedAt": "2026-10-28T06:04:27.562Z",
+      "title": "Meta amplia gli accordi con AMD e NVIDIA per l'infrastruttura AI",
+      "summary": "Nuovi accordi industriali puntano a sostenere i modelli Muse con CPU, GPU e sistemi di rete dei due fornitori.",
+      "body": [
+        "AMD mette al centro le soluzioni EPYC, Instinct e Helios, mentre NVIDIA fornirà componenti Vera e Vera Rubin. Le intese comprendono anche investimenti azionari, secondo quanto riferito dall'editore."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-28T16:07:09.577Z",
       "source": {
         "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/phishing-pagopa-richieste-pagamento-pec-compromesse/",
+        "url": "https://www.punto-informatico.it/chip-amd-epyc-nvidia-vera-rubin-meta-muse/",
         "access": "free",
-        "accessCheckedAt": "2026-10-28T06:04:27.562Z",
-        "dateEvidence": "Articolo completo Punto Informatico di Luca Colantuoni, data visibile «Pubblicato il 27 ott 2026»; orario non pubblicato.",
+        "accessCheckedAt": "2026-10-28T16:07:09.577Z",
+        "dateEvidence": "Punto Informatico, Luca Colantuoni, Pubblicato il 28 ott 2026; riferimenti agli annunci AMD/NVIDIA.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "tecnologia-imac-m6",
-      "eventKey": "apple-presentazione-imac-24-m6-27-ottobre-2026",
-      "title": "Apple aggiorna l'iMac da 24 pollici con processore M6",
-      "summary": "Il desktop all-in-one passa al chip M6 e introduce il supporto a Siri AI; ordini dal 28 ottobre e disponibilità prevista a novembre.",
-      "body": [
-        "Punto Informatico descrive il nuovo iMac da 24 pollici con due configurazioni M6, memoria unificata fino a 32 GB e connettività Wi-Fi 7. L'articolo indica un prezzo base italiano di 1.829 euro e l'avvio degli ordini il 28 ottobre, con consegne dal 6 novembre."
-      ],
-      "publishedAt": "2026-10-27",
+      "id": "tecnologia-firefox-smart-window",
+      "eventKey": "mozilla-firefox-smart-window-fill-watch-28-ottobre-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "verifiedAt": "2026-10-28T06:04:27.562Z",
+      "title": "Firefox Smart Window aggiunge compilazione assistita e monitoraggio delle pagine",
+      "summary": "La beta dell'assistente di Mozilla può usare schede selezionate per suggerire testo nei moduli e sorvegliare aggiornamenti di pagine web.",
+      "body": [
+        "Le funzioni si chiamano Fill from sources e /watch. Mozilla segnala che le informazioni selezionate per la compilazione vengono elaborate con un modello Gemini; la disponibilità iniziale è limitata a Stati Uniti e Canada."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-28T16:07:09.577Z",
       "source": {
         "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/apple-svela-nuovo-imac-chip-m6-siri-ai/",
+        "url": "https://www.punto-informatico.it/firefox-smart-windows-compila-moduli-controlla-pagine-web/",
         "access": "free",
-        "accessCheckedAt": "2026-10-28T06:04:27.562Z",
-        "dateEvidence": "Articolo integrale Punto Informatico firmato Luca Colantuoni con dicitura «Pubblicato il 27 ott 2026»; nessuna ora esposta.",
+        "accessCheckedAt": "2026-10-28T16:07:09.577Z",
+        "dateEvidence": "Punto Informatico, Tiziana Foglio, Pubblicato il 28 ott 2026; dettagli e limiti beta.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "tecnologia-phantom-blade-preload",
-      "eventKey": "phantom-blade-zero-requisito-precaricamento-300gb-pc-ottobre-2026",
-      "title": "Phantom Blade Zero, il precaricamento PC richiede 300 GB temporanei",
-      "summary": "S-Game chiarisce che i 300 GB servono durante il preload: dopo l'installazione il gioco occupa circa 145 GB.",
-      "body": [
-        "L'articolo di Everyeye distingue lo spazio necessario per la decompressione dei file durante il precaricamento da quello effettivamente occupato dal gioco. La versione PC richiede un SSD e il lancio è previsto per il 29 ottobre 2026."
-      ],
-      "publishedAt": "2026-10-27T16:14:00+01:00",
+      "id": "tecnologia-psplus-novembre",
+      "eventKey": "sony-playstation-plus-essential-novembre-2026-annuncio",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "verifiedAt": "2026-10-28T06:04:27.562Z",
+      "title": "PlayStation Plus Essential, annunciati i titoli di novembre",
+      "summary": "Sony ha annunciato Dead Island 2, Tomb Raider IV–VI Remastered e Monster Train 2 per il catalogo Essential di novembre.",
+      "body": [
+        "Secondo Everyeye i giochi saranno scaricabili dal 3 al 30 novembre; la raccolta Tomb Raider include tre capitoli classici e Monster Train 2 arriva su PS5."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-28T16:07:09.577Z",
       "source": {
         "name": "Everyeye",
-        "url": "https://www.everyeye.it/notizie/phantom-blade-zero-mette-crisi-ssd-perche-servono-300-gb-spazio-908297.html",
+        "url": "https://www.everyeye.it/notizie/playstation-plus-annunciati-giochi-gratis-novembre-908523.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-28T06:04:27.562Z",
-        "dateEvidence": "Everyeye, articolo di Francesco Mustacchio, intestazione datata 27/10/2026 ore 16:14; letto il testo integrale e i requisiti citati.",
+        "accessCheckedAt": "2026-10-28T16:07:09.577Z",
+        "dateEvidence": "Everyeye, Davide Leoni, 28/10/2026 ore 16:54; articolo letto integralmente.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "tecnologia-fortnite-one-piece",
-      "eventKey": "fortnite-treasure-hunter-one-piece-trailer-mini-stagione-27-ottobre-2026",
-      "title": "Fortnite presenta il trailer della mini-stagione con One Piece",
-      "summary": "Epic Games mostra personaggi della ciurma di Cappello di Paglia e ambientazioni ispirate all'anime nella mini-stagione Treasure Hunter.",
-      "body": [
-        "Nel trailer descritto da Everyeye compaiono Luffy, Nami, Zoro e altri personaggi di One Piece, insieme a luoghi e oggetti ispirati alla serie. La Going Merry è presentata come nuovo Bus della Battaglia."
-      ],
-      "publishedAt": "2026-10-27T15:31:00+01:00",
+      "id": "tecnologia-ps5-prism",
+      "eventKey": "sony-prism-collection-dualsense-cover-ps5-28-ottobre-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "verifiedAt": "2026-10-28T06:04:27.562Z",
+      "title": "Sony presenta controller e cover trasparenti per PlayStation 5",
+      "summary": "La Prism Collection comprende tre nuove colorazioni per DualSense e cover PS5, con preordini annunciati per il 10 novembre.",
+      "body": [
+        "Le varianti Flare Orange, Emerald Green e Graphite Gray hanno finitura trasparente; Everyeye riporta il prezzo di 84,99 euro per il controller e disponibilità dal 4 febbraio 2027."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-28T16:07:09.577Z",
       "source": {
         "name": "Everyeye",
-        "url": "https://www.everyeye.it/notizie/fortnite-accoglie-one-piece-e-ciurma-trailer-mini-stagione-908282.html",
+        "url": "https://www.everyeye.it/notizie/ps5-arrivano-dualsense-cover-trasparenti-data-uscita-prezzi-preordinare-italia-908479.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-28T06:04:27.562Z",
-        "dateEvidence": "Everyeye, articolo di Giovanni Panzano con data e ora 27/10/2026, ore 15:31; testo e dettagli del trailer letti.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    }
-  ],
-  "reserveArticles": [
-    {
-      "id": "tecnologia-riserva-meloni-email-tentato-attacco",
-      "eventKey": "tentativo-attacco-email-parlamentare-meloni-ottobre-2026",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "Tentato attacco alla posta parlamentare di Meloni: accertamenti ancora aperti",
-      "summary": "Un tentativo di compromissione ha preso di mira la casella parlamentare della presidente del Consiglio e altri account istituzionali.",
-      "body": [
-        "Punto Informatico ricostruisce la notizia riportata da Reuters: la posta parlamentare di Giorgia Meloni sarebbe stata presa di mira insieme a quella di altri deputati. L'ufficio della premier precisa che l'indirizzo interessato non è quello utilizzato per le comunicazioni governative.",
-        "La prima ricostruzione non confermava l'effettiva violazione; un aggiornamento delle 16:31 del 27 ottobre, attribuito a Repubblica, riferisce che alcuni messaggi sarebbero stati letti. La dinamica e i responsabili restano da chiarire."
-      ],
-      "publishedAt": "2026-10-27",
-      "verifiedAt": "2026-10-28T07:05:17.599Z",
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/attacco-casella-email-giorgia-meloni/",
-        "access": "free",
-        "accessCheckedAt": "2026-10-28T07:05:17.599Z",
-        "dateEvidence": "Pagina completa Punto Informatico: «Pubblicato il 27 ott 2026»; aggiornamento esplicito 27 ottobre 2026 ore 16:31. Non specificata ora iniziale.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "tecnologia-riserva-macbook-pro-14-m6",
-      "eventKey": "apple-annuncio-macbook-pro-14-m6-27-ottobre-2026",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "Apple presenta il MacBook Pro da 14 pollici con chip M6",
-      "summary": "Il portatile base da 14 pollici passa a M6: preordini dal 28 ottobre, disponibilità indicata dal 6 novembre.",
-      "body": [
-        "Secondo Punto Informatico, Apple aggiorna il MacBook Pro da 14 pollici con CPU e GPU a 12 core, configurazioni da 16 a 32 GB di memoria unificata e schermo Liquid Retina XDR. Il modello si distingue dall'iMac M6 già trattato nella rassegna principale.",
-        "Il listino riportato parte da 2.349 euro. Il pezzo indica preordini dal giorno successivo alla pubblicazione e disponibilità prevista dal 6 novembre, mentre le versioni M5 Pro e M5 Max restano per il momento a catalogo."
-      ],
-      "publishedAt": "2026-10-27",
-      "verifiedAt": "2026-10-28T07:05:17.599Z",
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/macbook-pro-14-pollici-m6/",
-        "access": "free",
-        "accessCheckedAt": "2026-10-28T07:05:17.599Z",
-        "dateEvidence": "Pagina completa Punto Informatico: «Pubblicato il 27 ott 2026»; preordini annunciati per il giorno seguente, 28 ottobre.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "tecnologia-riserva-danimarca-collabora-office",
-      "eventKey": "danimarca-interruzione-test-collabora-office-ministero-2026",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "Danimarca, interrotto il test per sostituire Microsoft Office con Collabora",
-      "summary": "Un esperimento del ministero danese su una suite alternativa è stato accantonato dopo problemi di formattazione e revisione dei documenti.",
-      "body": [
-        "Punto Informatico riferisce che il progetto, avviato nel 2025 per 38 dipendenti, prevedeva il passaggio da Microsoft Office a Collabora. Secondo la ricostruzione, il test è stato interrotto dopo meno di sei mesi, già a febbraio 2026.",
-        "Le difficoltà segnalate riguardavano stili, pagine vuote e tracciamento delle modifiche. Si tratta di una notizia pubblicata il 26 ottobre che ricostruisce un episodio precedente, non di una decisione presa il 28 ottobre."
-      ],
-      "publishedAt": "2026-10-26",
-      "verifiedAt": "2026-10-28T07:05:17.599Z",
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/danimarca-fallisce-test-collabora-torna-microsoft-office/",
-        "access": "free",
-        "accessCheckedAt": "2026-10-28T07:05:17.599Z",
-        "dateEvidence": "Pagina completa Punto Informatico: «Pubblicato il 26 ott 2026»; il testo distingue la pubblicazione dal test terminato a febbraio.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "tecnologia-riserva-ac-black-flag-resynced-new-game-plus",
-      "eventKey": "assassins-creed-black-flag-resynced-patch-108-new-game-plus-27-ottobre-2026",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "Assassin's Creed Black Flag Resynced aggiunge New Game+ con la patch 1.0.8",
-      "summary": "Ubisoft distribuisce un aggiornamento con nuova partita avanzata, difficoltà Incubo e altre correzioni.",
-      "body": [
-        "Everyeye riporta l'arrivo della patch 1.0.8 su PS5, Xbox Series X|S e PC. La modalità New Game+ permette di ricominciare mantenendo equipaggiamenti, potenziamenti e risorse, ma richiede di riconquistare i forti e reclutare nuovamente gli ufficiali.",
-        "La patch introduce anche una modalità Incubo, nuove ricompense cosmetiche e miglioramenti di stabilità. È distinta dalle notizie già pubblicate su Phantom Blade Zero e Fortnite."
-      ],
-      "publishedAt": "2026-10-27T23:04:00+01:00",
-      "verifiedAt": "2026-10-28T07:05:17.599Z",
-      "source": {
-        "name": "Everyeye",
-        "url": "https://www.everyeye.it/notizie/assassin-s-creed-black-flag-resynced-new-game-arrivato-non-unica-novita-908376.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-28T07:05:17.599Z",
-        "dateEvidence": "Articolo Everyeye di Francesco Mustacchio, data e ora esplicite 27/10/2026 ore 23:04; testo integrale della patch 1.0.8.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "tecnologia-riserva-modern-warfare-4-shipment",
-      "eventKey": "call-of-duty-modern-warfare-4-primo-aggiornamento-shipment-27-ottobre-2026",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "Modern Warfare 4 riporta la mappa Shipment nel primo aggiornamento",
-      "summary": "Il primo update post-lancio dello sparatutto introduce la piccola arena Shipment e una playlist dedicata.",
-      "body": [
-        "Everyeye segnala che la mappa Shipment è disponibile nel primo aggiornamento di Call of Duty Modern Warfare 4, con la modalità Shipment 24/7. Il formato concentrato dell'arena favorisce incontri rapidi e sfide per le mimetiche.",
-        "La notizia riguarda un aggiornamento effettivamente pubblicato, non un'indiscrezione sul prossimo capitolo; l'articolo include anche un richiamo al messaggio social ufficiale della serie."
-      ],
-      "publishedAt": "2026-10-27T22:42:00+01:00",
-      "verifiedAt": "2026-10-28T07:05:17.599Z",
-      "source": {
-        "name": "Everyeye",
-        "url": "https://www.everyeye.it/notizie/call-of-duty-modern-warfare-4-mappa-leggendaria-disponibile-update-908373.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-28T07:05:17.599Z",
-        "dateEvidence": "Articolo Everyeye di Giovanni Panzano, data e ora esplicite 27/10/2026 ore 22:42; descrizione della mappa Shipment e playlist 24/7.",
+        "accessCheckedAt": "2026-10-28T16:07:09.577Z",
+        "dateEvidence": "Everyeye, Davide Leoni, 28/10/2026 ore 16:06; articolo letto integralmente.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
