@@ -1,20 +1,19 @@
 {
   "editionDate": "2026-10-28",
-  "checkedAt": "2026-10-28T06:19:50.583Z",
-  "ready": false,
+  "checkedAt": "2026-10-28T06:20:46.357Z",
+  "ready": true,
   "completed": [
     "politica",
     "esteri",
     "economia",
     "cronaca",
     "roma",
+    "cultura",
     "tecnologia",
     "sport"
   ],
   "inProgress": [],
-  "missing": [
-    "cultura"
-  ],
+  "missing": [],
   "invalid": [],
   "stories": [
     {
@@ -168,6 +167,36 @@
       "eventKey": "roma-ponte-milvio-manifestazione-30-ottobre-2026-avviso-viabilita"
     },
     {
+      "id": "cultura-abramovic-confession-arco-giano",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Marina Abramović annuncia «Confession» all'Arco di Giano",
+      "eventKey": "marina-abramovic-annuncio-confession-arco-giano-novembre-2026"
+    },
+    {
+      "id": "cultura-laika-opere-imbrattate",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Roma, imbrattate le opere di Laika durante un'irruzione in galleria",
+      "eventKey": "roma-galleria-rosso20sette-opere-laika-imbrattate-27-ottobre-2026"
+    },
+    {
+      "id": "cultura-la-medium-cuscuna-debutto",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Al Teatro Vascello debutta «La Medium» di Marta Cuscunà",
+      "eventKey": "romaeuropa-2026-la-medium-marta-cuscuna-28-ottobre"
+    },
+    {
+      "id": "cultura-opera-trittico-goecke-robbins-bausch",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Al Costanzi il trittico di danza firmato Goecke, Robbins e Bausch",
+      "eventKey": "opera-roma-trittico-goecke-robbins-bausch-replica-28-ottobre-2026"
+    },
+    {
+      "id": "cultura-carla-lonzi-documentario-archibugi",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Francesca Archibugi racconta Carla Lonzi in un documentario",
+      "eventKey": "documentario-carla-lonzi-francesca-archibugi-uscita-sale-26-28-ottobre-2026"
+    },
+    {
       "id": "tecnologia-gpt-61-terra",
       "category": "Tecnologia · AI",
       "title": "GPT-6.1 Terra arriva per ChatGPT Work e Codex",
@@ -255,11 +284,17 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:ECB_headquarters,_Frankfurt_140827_1.jpg"
     },
     {
+      "id": "cultura-abramovic-confession-arco-giano",
+      "category": "Cultura · Teatro · Cinema",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arch_of_Janus_(Arco_di_Giano)_-_Rome,_Italy_-_DSC00566.jpg"
+    },
+    {
       "id": "sport-lazio-sassuolo-sei-due",
       "category": "Sport",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg"
     }
   ],
-  "photosAvailable": 4,
-  "needsPublication": false
+  "photosAvailable": 5,
+  "editionId": "2026-10-28-batches-ede003923fa6",
+  "needsPublication": true
 }
