@@ -1,10 +1,9 @@
 {
   "editionDate": "2026-10-28",
-  "checkedAt": "2026-10-28T17:05:14.673Z",
+  "checkedAt": "2026-10-28T17:17:13.583Z",
   "ready": true,
   "editorialComplete": false,
   "reserveMissing": [
-    "roma",
     "cultura"
   ],
   "completed": [
@@ -382,6 +381,36 @@
       "eventKey": "lupi-attacco-pollaio-olza-ottobre-2026"
     },
     {
+      "id": "roma-bilancio-lazio-consolidato-2025",
+      "category": "Roma",
+      "title": "Regione Lazio, approvato il bilancio consolidato 2025",
+      "eventKey": "lazio-consiglio-regionale-bilancio-consolidato-2025-approvato-28-ottobre-2026"
+    },
+    {
+      "id": "roma-iacopini-trasferimento-neurochirurgia",
+      "category": "Roma",
+      "title": "Davide Iacopini lascia la terapia intensiva, trasferito in reparto",
+      "eventKey": "roma-davide-iacopini-trasferito-neurochirurgia-28-ottobre-2026"
+    },
+    {
+      "id": "roma-papa-cinque-parrocchie-avvento",
+      "category": "Roma",
+      "title": "Il Papa visiterà cinque parrocchie romane durante l'Avvento",
+      "eventKey": "roma-leone-xiv-visite-cinque-parrocchie-avvento-2026"
+    },
+    {
+      "id": "roma-roma-breast-days-2026",
+      "category": "Roma",
+      "title": "Roma Breast Days, prevenzione e regata sul Tevere dal 29 ottobre",
+      "eventKey": "roma-breast-days-santo-spirito-regata-29-31-ottobre-2026"
+    },
+    {
+      "id": "roma-centocelle-intimidazione-sede-prc",
+      "category": "Roma",
+      "title": "Centocelle, denunciate nuove scritte intimidatorie alla sede di Rifondazione",
+      "eventKey": "roma-centocelle-scritte-intimidatorie-sede-prc-28-ottobre-2026"
+    },
+    {
       "id": "tecnologia-apple-iwork-assistente",
       "category": "Tecnologia · AI",
       "title": "Apple porta l'assistente AI in Pages, Keynote e Numbers",
@@ -448,7 +477,7 @@
     "Esteri": 5,
     "Economia": 5,
     "Cronaca": 5,
-    "Roma": 0,
+    "Roma": 5,
     "Cultura · Teatro · Cinema": 0,
     "Tecnologia · AI": 5,
     "Sport": 5
@@ -508,9 +537,9 @@
     },
     "roma": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "cultura": {
       "base": 5,
@@ -531,9 +560,6 @@
       "complete": true
     }
   },
-  "editionId": "2026-10-28-batches-821af529b1e5",
-  "needsPublication": false,
-  "publicVerifiedAt": "2026-10-28T17:05:51.075825+00:00",
-  "publicEditionId": "2026-10-28-batches-821af529b1e5",
-  "publication": "verified"
+  "editionId": "2026-10-28-batches-23197c67bebb",
+  "needsPublication": true
 }
