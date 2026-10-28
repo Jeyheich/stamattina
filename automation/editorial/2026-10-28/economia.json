@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-10-28",
+  "category": "Economia",
+  "completedAt": "2026-10-28T05:16:17.095Z",
+  "articles": [
+    {
+      "id": "economia-bce-intesa-mps-autorizzazione",
+      "eventKey": "bce-autorizza-intesa-acquisizione-controllo-mps-27-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "La BCE autorizza Intesa Sanpaolo a prendere il controllo di MPS",
+      "summary": "L'autorità di vigilanza europea ha dato il via libera preventivo all'acquisizione di controllo di Monte dei Paschi da parte di Intesa Sanpaolo.",
+      "body": [
+        "La Banca centrale europea ha autorizzato Intesa Sanpaolo a ottenere il controllo diretto di MPS e, indirettamente, di diverse società del gruppo, tra cui Mediobanca, Compass Banca e Wise Dialog Bank. Il provvedimento riguarda l'offerta pubblica di acquisto e scambio volontaria.",
+        "Non si tratta ancora della conclusione dell'operazione. Restano ulteriori autorizzazioni estere e l'esame del prospetto da parte della Consob. Nella stessa giornata la Banca d'Italia ha autorizzato alcune partecipazioni indirette connesse all'offerta."
+      ],
+      "publishedAt": "2026-10-27T20:47:00+01:00",
+      "verifiedAt": "2026-10-28T05:16:17.095Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/27/intesa-sanpaolo-mps-bce",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T05:16:17.095Z",
+        "dateEvidence": "Pagina Sky TG24 del 27 ottobre 2026, ore 20:47; conferma BCE e passaggi Consob ancora attesi.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 94,
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/ECB_headquarters%2C_Frankfurt_140827_1.jpg",
+        "alt": "La sede della Banca centrale europea a Francoforte",
+        "credit": "DXR / Daniel Vorndran",
+        "rights": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:ECB_headquarters,_Frankfurt_140827_1.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "caption": "Repertorio · La sede della BCE a Francoforte fotografata nel 2014. L'immagine non documenta l'autorizzazione del 27 ottobre 2026.",
+        "changes": "Originale non modificato; possibile ritaglio nella visualizzazione.",
+        "reuseApproved": true
+      }
+    },
+    {
+      "id": "economia-iren-piano-investimenti",
+      "eventKey": "iren-piano-industriale-2035-investimenti-104-miliardi-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Iren programma 10,4 miliardi di investimenti fino al 2035",
+      "summary": "Il nuovo piano industriale del gruppo concentra metà delle risorse su reti e infrastrutture strategiche.",
+      "body": [
+        "Il consiglio di amministrazione di Iren ha approvato l'aggiornamento del piano 2026-2035: sono previsti circa 10,4 miliardi di investimenti. Il 50% è destinato a servizio idrico, distribuzione elettrica e termovalorizzatori; il gruppo punta anche a maggiore efficienza operativa e qualità dei servizi."
+      ],
+      "publishedAt": "2026-10-27T12:25:00+01:00",
+      "verifiedAt": "2026-10-28T05:16:17.095Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/27/iren-approva-il-nuovo-piano-industriale-investimenti-per-104-miliardi_67eb288c-a4b6-4d0a-b929-414a3c14c61d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T05:16:17.095Z",
+        "dateEvidence": "ANSA, Milano, 27 ottobre 2026 ore 12:25; delibera piano Iren 2026-2035 e investimenti di 10,4 miliardi.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-borsa-milano-chiusura-27",
+      "eventKey": "borsa-milano-chiusura-27-ottobre-2026-ftse-mib-positivo",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Piazza Affari chiude in crescita dello 0,90%",
+      "summary": "Il Ftse Mib termina a 49.627 punti, con acquisti sui titoli tecnologici e vendite su Eni.",
+      "body": [
+        "La seduta del 27 ottobre a Milano si chiude con il Ftse Mib a +0,90%. Tra i rialzi più consistenti figurano STM (+7,11%), Technoprobe (+3,36%) e Prysmian (+3,3%); Eni perde il 2,58%."
+      ],
+      "publishedAt": "2026-10-27T17:41:00+01:00",
+      "verifiedAt": "2026-10-28T05:16:17.095Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://videoembed.ansa.it/sito/notizie/economia/2026/10/27/borsa-milano-chiude-a-090-in-evidenza-stm_8e4f71da-0087-4b0b-9511-806af924c9ad.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T05:16:17.095Z",
+        "dateEvidence": "ANSA, Milano, 27 ottobre 2026 ore 17:41; Ftse Mib +0,90% a 49.627 punti e valori dei principali titoli.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-bankitalia-pagamenti-digitali",
+      "eventKey": "bankitalia-raddoppio-pagamenti-digitali-giugno-2026-vs-2022",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Pagamenti digitali, Bankitalia registra il doppio delle operazioni rispetto al 2022",
+      "summary": "La crescita degli strumenti alternativi al contante è trainata soprattutto dalle carte.",
+      "body": [
+        "Il rapporto della Banca d'Italia indica che a giugno 2026 il numero delle operazioni con strumenti di pagamento diversi dal contante era raddoppiato rispetto al 2022. Nel secondo trimestre 2026, tra i pagamenti POS con carte, il 71,9% è stato effettuato con carte di debito, il 17,1% con prepagate e l'11% con carte di credito."
+      ],
+      "publishedAt": "2026-10-27T11:13:00+01:00",
+      "verifiedAt": "2026-10-28T05:16:17.095Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://videoembed.ansa.it/sito/notizie/economia/2026/10/27/bankitalia-non-si-arresta-crescita-pagamenti-digitali-il-doppio-rispetto-al-2022_5befaaad-fc07-406c-b7ce-d0e21f9c463d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T05:16:17.095Z",
+        "dateEvidence": "ANSA, Roma, 27 ottobre 2026 ore 11:13; rapporto Banca d'Italia, raddoppio pagamenti digitali e quote POS.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-eni-q8-price-cap",
+      "eventKey": "eni-q8-proroga-tetti-prezzi-carburanti-dicembre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Eni e Q8 prolungano i tetti commerciali ai carburanti",
+      "summary": "Le due compagnie mantengono iniziative di contenimento dei prezzi fino a dicembre, riservandosi possibili revisioni.",
+      "body": [
+        "Eni e Q8 hanno annunciato l'estensione fino al 31 dicembre 2026 delle proprie iniziative commerciali sui prezzi di benzina e gasolio. Per Eni il livello indicato al momento dell'annuncio è 1,99 euro per la benzina e 2,25 euro per il gasolio. Entrambe le società subordinano l'applicazione alle condizioni del mercato e degli approvvigionamenti: non è una garanzia di prezzo immutabile."
+      ],
+      "publishedAt": "2026-10-27T08:30:00+01:00",
+      "verifiedAt": "2026-10-28T05:16:17.095Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/27/prezzo-diesel-eni-q8-tetto-caro-carburante",
+        "access": "free",
+        "accessCheckedAt": "2026-10-28T05:16:17.095Z",
+        "dateEvidence": "Sky TG24, 27 ottobre 2026 ore 08:30, fotogallery 8 schede; dichiarazioni Eni e Q8 e scadenza 31 dicembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
+}
