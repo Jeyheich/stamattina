@@ -1,14 +1,14 @@
 {
   "editionDate": "2026-10-28",
-  "checkedAt": "2026-10-28T05:06:04.583Z",
+  "checkedAt": "2026-10-28T05:16:30.387Z",
   "ready": false,
   "completed": [
     "politica",
-    "esteri"
+    "esteri",
+    "economia"
   ],
   "inProgress": [],
   "missing": [
-    "economia",
     "cronaca",
     "roma",
     "cultura",
@@ -76,6 +76,36 @@
       "category": "Esteri",
       "title": "Brasile, il partito di Bolsonaro riconosce la vittoria di Lula",
       "eventKey": "brasile-partido-liberal-riconosce-vittoria-lula-27-ottobre-2026"
+    },
+    {
+      "id": "economia-bce-intesa-mps-autorizzazione",
+      "category": "Economia",
+      "title": "La BCE autorizza Intesa Sanpaolo a prendere il controllo di MPS",
+      "eventKey": "bce-autorizza-intesa-acquisizione-controllo-mps-27-ottobre-2026"
+    },
+    {
+      "id": "economia-iren-piano-investimenti",
+      "category": "Economia",
+      "title": "Iren programma 10,4 miliardi di investimenti fino al 2035",
+      "eventKey": "iren-piano-industriale-2035-investimenti-104-miliardi-2026"
+    },
+    {
+      "id": "economia-borsa-milano-chiusura-27",
+      "category": "Economia",
+      "title": "Piazza Affari chiude in crescita dello 0,90%",
+      "eventKey": "borsa-milano-chiusura-27-ottobre-2026-ftse-mib-positivo"
+    },
+    {
+      "id": "economia-bankitalia-pagamenti-digitali",
+      "category": "Economia",
+      "title": "Pagamenti digitali, Bankitalia registra il doppio delle operazioni rispetto al 2022",
+      "eventKey": "bankitalia-raddoppio-pagamenti-digitali-giugno-2026-vs-2022"
+    },
+    {
+      "id": "economia-eni-q8-price-cap",
+      "category": "Economia",
+      "title": "Eni e Q8 prolungano i tetti commerciali ai carburanti",
+      "eventKey": "eni-q8-proroga-tetti-prezzi-carburanti-dicembre-2026"
     }
   ],
   "reserveCounts": {
@@ -98,8 +128,13 @@
       "id": "esteri-israele-exit-poll-knesset",
       "category": "Esteri",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG"
+    },
+    {
+      "id": "economia-bce-intesa-mps-autorizzazione",
+      "category": "Economia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ECB_headquarters,_Frankfurt_140827_1.jpg"
     }
   ],
-  "photosAvailable": 2,
+  "photosAvailable": 3,
   "needsPublication": false
 }
