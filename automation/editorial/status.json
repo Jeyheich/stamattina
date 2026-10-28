@@ -1,18 +1,18 @@
 {
   "editionDate": "2026-10-28",
-  "checkedAt": "2026-10-28T06:05:55.215Z",
+  "checkedAt": "2026-10-28T06:19:50.583Z",
   "ready": false,
   "completed": [
     "politica",
     "esteri",
     "economia",
     "cronaca",
+    "roma",
     "tecnologia",
     "sport"
   ],
   "inProgress": [],
   "missing": [
-    "roma",
     "cultura"
   ],
   "invalid": [],
@@ -136,6 +136,36 @@
       "category": "Cronaca",
       "title": "Sicilia, limite di 60 km/h su un tratto della A20 per lavori urgenti",
       "eventKey": "sicilia-a20-limite-60-villafranca-patti-28-ottobre-31-dicembre-2026"
+    },
+    {
+      "id": "roma-licei-occupazioni-27-ottobre",
+      "category": "Roma",
+      "title": "Roma, nuove occupazioni nei licei: proteste al Mamiani, De Sanctis e Croce-Aleramo",
+      "eventKey": "roma-occupazioni-licei-mamiani-desanctis-croce-aleramo-27-ottobre-2026"
+    },
+    {
+      "id": "roma-montespaccato-tt-polis",
+      "category": "Roma",
+      "title": "Montespaccato, oltre quaranta giovani avviano un progetto di cura del quartiere",
+      "eventKey": "roma-montespaccato-avvio-tt-polis-giovani-pulizia-quartiere-27-ottobre-2026"
+    },
+    {
+      "id": "roma-quarticciolo-nove-arresti",
+      "category": "Roma",
+      "title": "Quarticciolo, nove arresti durante i controlli antidroga",
+      "eventKey": "roma-quarticciolo-carabinieri-nove-arresti-208-dosi-27-ottobre-2026"
+    },
+    {
+      "id": "roma-viadotto-presidenti-ciclabile",
+      "category": "Roma",
+      "title": "Nel III Municipio inaugurato un nuovo percorso ciclopedonale di 2,7 chilometri",
+      "eventKey": "roma-inaugurazione-viadotto-presidenti-ciclopedonale-27-ottobre-2026"
+    },
+    {
+      "id": "roma-ponte-milvio-manifestazione",
+      "category": "Roma",
+      "title": "Ponte Milvio, annunciata una manifestazione per venerdì 30 ottobre",
+      "eventKey": "roma-ponte-milvio-manifestazione-30-ottobre-2026-avviso-viabilita"
     },
     {
       "id": "tecnologia-gpt-61-terra",
