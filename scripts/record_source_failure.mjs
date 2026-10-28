@@ -7,7 +7,7 @@ export function recordFailure(state,edition,log){
   const affected=new Set((edition?.articles||[]).filter(a=>text.includes(a.id)).map(a=>categories.find(([,name])=>name===a.category)?.[0]).filter(Boolean));
   const invalid=[...affected].map(slug=>({slug,reason:'Controllo fonte/foto fallito: consultare sourceErrors'}));
   if(!invalid.length)invalid.push({slug:'edition',reason:'Controllo completo fallito: consultare sourceErrors'});
-  return {...state,ready:false,needsPublication:false,blocked:true,sourceErrors:text,
+  return {...state,ready:false,editorialComplete:false,needsPublication:false,blocked:true,sourceErrors:text,
     completed:(state.completed||[]).filter(slug=>!affected.has(slug)),invalid:[...(state.invalid||[]),...invalid]};
 }
 if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url)){

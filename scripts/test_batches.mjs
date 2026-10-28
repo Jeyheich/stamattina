@@ -65,3 +65,5 @@ assert.equal(expanded.state.editorialComplete,true);
 assert.deepEqual(expanded.state.reserveMissing,[]);
 assert.equal(assemble(badReserve,today,now).state.editorialComplete,false);
 console.log('PASS: 40 o 45 articoli dichiarano riserve mancanti; soltanto 80 validi completano il lavoro editoriale.');
+
+assert.equal(recordFailure(expanded.state,expanded.edition,'check_photo: fixture-economia-0: HTTP Error 403').editorialComplete,false,'Un errore fonte/foto annulla anche la completezza editoriale');

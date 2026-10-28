@@ -98,5 +98,7 @@ Richiesta Fabio: spostato nella toolbar sticky delle categorie, rimosso il dupli
 - Pubblicazione 2026-10-27-batches-25240eef4798 verificata sul JSON pubblico: 80 articoli, 40 reserveIds, cinque riserve per categoria. Browser: tutte le otto categorie passano 5→10 al clic; controllo visuale 390px superato. Edizione preparata alle 17:49, run40544624077 SUCCESS. Pulsante ↻ carica questa edizione, poi Carica altre 5 rivela le riserve senza ricerca al clic.
 
 ## Checkpoint correzione riserve 28 ottobre
-- Istruzioni del repository e due prompt nativi da allineare e rileggere; verificare esito remoto prima di dichiarare applicata la correzione.
+- Istruzioni e stato server pubblicati nel commit d838837e73eb60f334afa390e1192366d39cf956; run40675012624 SUCCESS. Entrambi i prompt nativi corretti, salvati e riletti, anche dopo ricaricamento: 5+5 obbligatori, recuperi e avviso parziale/completo. Calendari non modificati.
+- Controllo aggiuntivo: anche un errore HTTP/foto annulla editorialComplete; test dedicato passato.
+- Lo stato ricalcolato a metà giornata segnala onestamente verifiche mattutine scadute oltre tre ore; nessuna data aggiornata artificialmente. Il pubblico resta quello delle 08:05 con 45 articoli.
 - Nessuna modifica ai contenuti pubblicati, alla UI o alle fonti approvate. Modificare il flusso non crea retroattivamente le notizie mancanti.
