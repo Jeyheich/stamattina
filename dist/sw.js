@@ -1,6 +1,6 @@
-const CACHE='stamattina-v14';
+const CACHE='stamattina-v15';
 const base=new URL('./',self.location).pathname;
-const shell=['','index.html','style.css?v=12','app.js?v=14','data/current.json','manifest.webmanifest','manifest-manuela.webmanifest','assets/icon.svg','assets/icon-192.png','assets/icon-512.png'];
+const shell=['','index.html','manuela/','manuela/index.html','style.css?v=12','app.js?v=15','data/current.json','manifest.webmanifest','manifest-manuela.webmanifest','assets/icon.svg','assets/icon-192.png','assets/icon-512.png'];
 const allowed=origin=>[self.location.origin,'https://upload.wikimedia.org','https://thumb.wikimedia.org'].includes(origin);
 async function cachePhotos(response,cache){
   const edition=await response.json();
@@ -43,7 +43,7 @@ self.addEventListener('fetch',e=>{
         }
         return old;
       }
-      if(e.request.mode==='navigate')return await cache.match(base+'index.html');
+      if(e.request.mode==='navigate')return await cache.match(base+(url.pathname.startsWith(base+'manuela/')?'manuela/index.html':'index.html'));
       return new Response('Offline',{status:503});
     }
   })();

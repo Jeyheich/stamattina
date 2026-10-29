@@ -117,3 +117,8 @@ Richiesta Fabio: spostato nella toolbar sticky delle categorie, rimosso il dupli
 - Autorizzato da Fabio: https://jeyheich.github.io/stamattina/?per=manuela mostra Manuela nel saluto; URL standard resta Fabio. Parametro con due nomi ammessi, nessuna identificazione del dispositivo o nome immesso dall'utente.
 - Saluto mattina/sera continua a dipendere dall'edizione. Link del logo conserva il profilo; manifest personale con start_url e id ./?per=manuela per l'avvio Home. Nessun nuovo account, servizio o cambio alle attività/contenuti. Cache PWA v14.
 - Sintassi e casi Fabio/Manuela mattina/sera, parametro sconosciuto e manifest verificati; pubblicazione run40942672369 SUCCESS, commit4602364944c9b98db8dc8e03a29b9a3e547681b7. Browser pubblico verificato: link personale «Buonasera, Manuela.», standard «Buonasera, Fabio.», manifest personale raggiungibile con start_url corretto. Installazione fisica iPhone non effettuata.
+
+## Correzione Home di Manuela
+- Fabio segnala che l'icona iPhone del link con ?per=manuela torna al suo nome: la verifica browser precedente non dimostrava installazione iOS corretta.
+- Sostituzione con pagina statica dedicata /stamattina/manuela/, manifest personale già nel markup con id/start_url/scope sul percorso. Saluto riconosciuto dal percorso; vecchio link con parametro reindirizza alla pagina dedicata. Nessun nome condiviso salvato in storage.
+- Cache v15 include la pagina personale e relativo fallback offline; logo e ancore conservano /manuela/. La shell personale segue dist/index.html: mantenere coerenti le future modifiche comuni. Pubblicazione e verifica percorso pubblico in corso; installazione fisica iPhone da provare dall'utente.
