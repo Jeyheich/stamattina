@@ -122,5 +122,50 @@
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
-  ]
+  ],
+  "reserveDraft": [
+    {
+      "id": "cultura-antonello-da-messina-enigma-sorriso-mostra-28-ottobre",
+      "eventKey": "antonello-da-messina-enigma-sorriso-mostra-28-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Antonello da Messina, due ritratti a confronto tra Cefalù e Torino",
+      "summary": "La mostra «L'Enigma del sorriso» mette in dialogo l'Ignoto marinaio e il Ritratto Trivulzio.",
+      "body": [
+        "Il progetto ha già superato i 25mila visitatori nella tappa siciliana, che si conclude il 4 novembre. Dal 12 novembre i due dipinti saranno esposti a Palazzo Madama a Torino, fino al 22 febbraio 2027."
+      ],
+      "publishedAt": "2026-10-28T16:13:00+01:00",
+      "verifiedAt": "2026-10-29T06:14:15.576Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/due-ritratti-al-centro-lenigma-del-sorriso-di-antonello-da-messina_3cef021b-5688-48da-b6b1-52dd07a555ae.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:14:15.576Z",
+        "dateEvidence": "ANSA Roma, 28 ottobre 2026 ore 16:13; incontro sulla mostra dei due ritratti di Antonello da Messina.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-danza-in-levare-periferie-roma-30-ottobre",
+      "eventKey": "danza-in-levare-periferie-roma-30-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Danza verticale e acrobatica nelle periferie romane con «Danza in Levare»",
+      "summary": "Dal 30 ottobre al 5 dicembre spettacoli e laboratori gratuiti coinvolgeranno Casal de' Pazzi, Corviale e Spinaceto.",
+      "body": [
+        "Il progetto trasforma le facciate e gli spazi urbani in scenografie per performance aeree e circo contemporaneo. Si apre il 30 ottobre con «Fuoribordo» della compagnia Il Posto a Villa Ipazia d'Alessandria."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-29T06:14:15.576Z",
+      "source": {
+        "name": "RaiNews TGR Lazio",
+        "url": "https://www.rainews.it/tgr/lazio/articoli/2026/10/danza-in-levare-la-periferia-di-roma-guarda-verso-lalto-026856cb-8bda-4ddc-84a2-488d9bbd76a1.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:14:15.576Z",
+        "dateEvidence": "RaiNews TGR Lazio, 28/10/2026 (data indicata sulla pagina, ora non specificata); eventi dal 30 ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "lastAttemptAt": "2026-10-29T06:14:15.576Z"
 }
