@@ -122,5 +122,92 @@
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
-  ]
+  ],
+  "reserveDraft": [
+    {
+      "id": "roma-san-basilio-droga-finestra-tre-arresti-28-ottobre",
+      "eventKey": "san-basilio-droga-finestra-tre-arresti-28-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "San Basilio, cocaina e hashish nascosti in una finestra: tre arresti",
+      "summary": "In un alloggio Ater di via Corinaldo i carabinieri hanno sequestrato 393 dosi di cocaina e 40 di hashish.",
+      "body": [
+        "La perquisizione ha portato all'arresto di tre uomini e al sequestro di 2.750 euro in contanti. L'abitazione risultava occupata abusivamente; il padre di uno degli arrestati è stato denunciato per l'occupazione."
+      ],
+      "publishedAt": "2026-10-28T07:55:00+01:00",
+      "verifiedAt": "2026-10-29T06:14:04.193Z",
+      "source": {
+        "name": "La Capitale",
+        "url": "https://www.lacapitale.it/articolo/san-basilio-droga-nascosta-nel-montante-di-una-finestra-tre-arresti-sequestrate-433-dosi",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:14:04.193Z",
+        "dateEvidence": "La Capitale, 28 ottobre 2026 ore 07:55; 393 dosi di cocaina e 40 di hashish sequestrate a San Basilio.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-cerveteri-54-reperti-restituiti-stato-28-ottobre",
+      "eventKey": "cerveteri-54-reperti-restituiti-stato-28-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Cerveteri, restituiti allo Stato 54 reperti archeologici",
+      "summary": "I manufatti sequestrati a Marina di Cerveteri saranno destinati ai musei del territorio.",
+      "body": [
+        "Tra i reperti figurano ceramiche etrusche, lucerne e terrecotte votive databili dal VII secolo avanti Cristo all'età romana. L'assegnazione segue la conclusione dell'iter giudiziario."
+      ],
+      "publishedAt": "2026-10-28T08:54:00+01:00",
+      "verifiedAt": "2026-10-29T06:14:04.193Z",
+      "source": {
+        "name": "La Capitale",
+        "url": "https://www.lacapitale.it/articolo/cerveteri-restituiti-allo-stato-54-reperti-archeologici-dai-vasi-etruschi-agli-ex-voto-anatomici",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:14:04.193Z",
+        "dateEvidence": "La Capitale, 28 ottobre 2026 ore 08:54; restituzione dei 54 reperti archeologici a Cerveteri.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-roma-sciopero-usb-trasporti-30-ottobre-precettazione",
+      "eventKey": "roma-sciopero-usb-trasporti-30-ottobre-precettazione",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Sciopero del 30 ottobre, Roma comunica le fasce garantite per bus e metro",
+      "summary": "Nonostante la precettazione ministeriale, USB conferma l'agitazione e Roma Mobilità segnala possibili disagi.",
+      "body": [
+        "Per il trasporto pubblico romano sono previste corse garantite fino alle 8:29 e dalle 17 alle 19:59. La situazione è soggetta a possibili variazioni e richiede un controllo prima degli spostamenti."
+      ],
+      "publishedAt": "2026-10-28T07:59:00+01:00",
+      "verifiedAt": "2026-10-29T06:14:04.193Z",
+      "source": {
+        "name": "PMI.it",
+        "url": "https://www.pmi.it/economia/lavoro/478519/scioperi-ottobre-calendario.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:14:04.193Z",
+        "dateEvidence": "PMI.it, aggiornamento del 28 ottobre 2026 ore 07:59; precettazione e conferma USB; fasce locali confermate da Roma Mobilità.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-liceo-mamiani-occupazione-studenti-27-ottobre",
+      "eventKey": "liceo-mamiani-occupazione-studenti-27-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Occupazioni scolastiche a Roma, coinvolto anche il liceo Mamiani",
+      "summary": "Il liceo Mamiani di Prati è stato occupato nel quadro di una mobilitazione che interessa diversi istituti romani.",
+      "body": [
+        "L'occupazione del 27 ottobre segue le proteste in altri licei della capitale. Studenti e sindacati discutono le condizioni degli edifici, il dialogo con le scuole e le modalità degli interventi delle forze dell'ordine."
+      ],
+      "publishedAt": "2026-10-27T13:16:00+01:00",
+      "verifiedAt": "2026-10-29T06:14:04.193Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/27/occupato-a-roma-il-liceo-mamiani_246415fe-fcd7-402b-83ed-8345876b5964.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:14:04.193Z",
+        "dateEvidence": "ANSA Roma, 27 ottobre 2026 ore 13:16; occupazione del liceo Mamiani e proteste in altre scuole.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "lastAttemptAt": "2026-10-29T06:14:04.193Z"
 }
