@@ -117,5 +117,116 @@
       }
     }
   ],
-  "reserveArticles": []
+  "reserveArticles": [
+    {
+      "id": "politica-finanziamenti-forza-italia",
+      "eventKey": "forza-italia-donazioni-tronchetti-rocca-settembre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Forza Italia pubblica i contributi: 100mila euro da Tronchetti Provera",
+      "summary": "Nell'elenco delle donazioni aggiornato a settembre compaiono anche 50mila euro versati da Gianfelice Rocca.",
+      "body": [
+        "L'elenco dei contributi a Forza Italia reso pubblico dal partito riporta un versamento di 100mila euro di Marco Tronchetti Provera e uno di 50mila euro di Gianfelice Rocca.",
+        "Il resoconto segnala inoltre donazioni di dirigenti e imprese di vari settori. I versamenti riguardano settembre, mentre la notizia è stata pubblicata il 28 ottobre."
+      ],
+      "publishedAt": "2026-10-28T15:04:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:54.398Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/tronchetti-sostiene-forza-italia-con-100mila-euro-50mila-da-gianfelice-rocca_57375946-a422-4ab9-8447-343b2fc1f755.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:54.398Z",
+        "dateEvidence": "ANSA, Roma, 28 ottobre 2026 ore 15:04; dati sui finanziamenti al partito aggiornati a settembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-eu-kids-act-garante",
+      "eventKey": "garante-privacy-eu-kids-act-audizione-camera-28-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Eu Kids Act, il Garante chiede protezione dei minori senza raccolta eccessiva di dati",
+      "summary": "Pasquale Stanzione sollecita verifiche dell'età proporzionate e attenzione alla privacy dei ragazzi durante un'audizione alla Camera.",
+      "body": [
+        "Il presidente del Garante per la protezione dei dati personali ha illustrato alla Camera la posizione dell'Autorità sul progetto europeo Eu Kids Act.",
+        "Stanzione ha chiesto limiti alla raccolta dei dati per la verifica dell'età e garanzie per l'autonomia dei minori, sottolineando anche i rischi dei chatbot che simulano rapporti personali."
+      ],
+      "publishedAt": "2026-10-28T12:21:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:54.398Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/eu-kids-act-stanzione-tutela-dei-minori-senza-sacrificare-privacy-e-autonomia_24730c09-c4f1-41df-b2b0-03b99dec4d23.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:54.398Z",
+        "dateEvidence": "ANSA, Roma, 28 ottobre 2026 ore 12:21; audizione alla XIV commissione della Camera.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-mattarella-ricerca-guerre",
+      "eventKey": "mattarella-giorni-ricerca-risorse-guerre-28-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Mattarella richiama la cooperazione scientifica contro guerre e nuove pandemie",
+      "summary": "Il capo dello Stato avverte che conflitti e programmi militari sottraggono risorse alla medicina e ostacolano la collaborazione internazionale.",
+      "body": [
+        "Alla celebrazione dei Giorni della Ricerca al Quirinale, Sergio Mattarella ha sottolineato il ruolo della collaborazione fra Paesi nel progresso medico e nella risposta alla pandemia.",
+        "Ha criticato l'assorbimento di risorse da parte dei conflitti e il sorgere di barriere alla cooperazione scientifica, richiamando la centralità della persona nelle politiche pubbliche."
+      ],
+      "publishedAt": "2026-10-28T12:12:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:54.398Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/mattarella-guerre-dissennate-e-progetti-militari-sottraggono-risorse-alla-medicina_2434bbb4-fe63-44db-a41b-77a8b16343a5.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:54.398Z",
+        "dateEvidence": "ANSA, Roma, 28 ottobre 2026 ore 12:12; intervento di Mattarella ai Giorni della Ricerca.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-riforma-artigianato",
+      "eventKey": "meloni-annuncia-decreto-riforma-artigianato-28-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Artigianato, Meloni annuncia l'aggiornamento della legge quadro del 1985",
+      "summary": "All'assemblea di Confartigianato la premier presenta il decreto destinato a modernizzare la disciplina del settore.",
+      "body": [
+        "Giorgia Meloni ha annunciato il 28 ottobre, durante l'assemblea di Confartigianato, che il Consiglio dei ministri avrebbe esaminato un decreto per aggiornare la legge quadro sull'artigianato del 1985.",
+        "La dichiarazione precede la riunione dell'esecutivo: la notizia riguarda l'annuncio dell'iniziativa e non certifica da sola il testo definitivo del provvedimento."
+      ],
+      "publishedAt": "2026-10-28T11:32:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:54.398Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/meloni-oggi-in-consiglio-dei-ministri-la-riforma-dellartigianato_cc66dc96-687f-46cf-9d0b-50c3b1cb98fe.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:54.398Z",
+        "dateEvidence": "ANSA, Roma, 28 ottobre 2026 ore 11:32; annuncio di Meloni all'assemblea Confartigianato.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-vigano-consulta-presidente",
+      "eventKey": "consulta-elegge-francesco-vigano-presidente-28-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Corte costituzionale, Francesco Viganò eletto prossimo presidente",
+      "summary": "La Consulta sceglie all'unanimità Viganò, che entrerà in carica il 14 novembre al termine del mandato di Giovanni Amoroso.",
+      "body": [
+        "La Corte costituzionale ha eletto Francesco Viganò come prossimo presidente il 28 ottobre, con voto unanime in camera di consiglio.",
+        "Già vicepresidente dal gennaio 2025, Viganò assumerà la presidenza il 14 novembre e resterà in carica fino alla scadenza del mandato di giudice, prevista per l'8 marzo 2027."
+      ],
+      "publishedAt": "2026-10-28T15:10:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:54.398Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/francesco-vigano-nuovo-presidente-della-consulta-_ee122bc2-802e-43a4-b899-572cdbfcd7e0.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:54.398Z",
+        "dateEvidence": "ANSA, Roma, 28 ottobre 2026 ore 15:10; comunicazione dell'elezione in Corte costituzionale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
 }
