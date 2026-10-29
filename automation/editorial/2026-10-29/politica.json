@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-10-29",
+  "collectionId": "2026-10-29-mattina",
+  "category": "Politica",
+  "completedAt": "2026-10-29T05:05:03.438Z",
+  "articles": [
+    {
+      "id": "politica-manovra-cdm-26-miliardi",
+      "eventKey": "manovra-2027-cdm-26-miliardi-28-ottobre",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Manovra da 26 miliardi: il governo illustra taglio Irpef e sostegni",
+      "summary": "Il Consiglio dei ministri ha dato il via libera a una legge di bilancio da circa 26 miliardi: tra le misure annunciate ci sono interventi sull'Irpef per il ceto medio, congedi e sanità.",
+      "body": [
+        "Il governo ha presentato il 28 ottobre i contenuti della manovra da circa 26 miliardi, includendo una nuova riduzione dell'Irpef per il ceto medio, sostegni per famiglie e lavoro e risorse per la sanità.",
+        "Tra le novità illustrate figurano un premio per lavoratori sotto i trent'anni e un voucher sanitario per anziani. Le misure dovranno seguire l'iter parlamentare: l'approvazione del Consiglio dei ministri non equivale alla legge definitiva."
+      ],
+      "publishedAt": "2026-10-28T21:16:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:03.438Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/via-libera-del-consiglio-dei-ministri-alla-manovra.-meloni-vale_a800dc0a-5e17-4252-b135-567ad9587d2b.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:03.438Z",
+        "dateEvidence": "ANSA, articolo del 28 ottobre 2026 aggiornato alle 21:16 ora di Roma; approvazione in Consiglio dei ministri.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 90
+    },
+    {
+      "id": "politica-borghi-convegno-vaccini",
+      "eventKey": "borghi-convegno-senato-no-vax-pd-28-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Convegno sui vaccini al Senato, polemica fra Borghi e Pd",
+      "summary": "L'iniziativa ospitata dal leghista Claudio Borghi al Senato provoca le critiche dei democratici, mentre Mattarella richiama l'importanza della ricerca scientifica.",
+      "body": [
+        "Un convegno con esponenti contrari ai vaccini e persone che dichiarano danni da vaccinazione è stato ospitato il 28 ottobre al Senato per iniziativa personale di Claudio Borghi.",
+        "Esponenti del Pd, tra cui Filippo Sensi e Sandra Zampa, hanno contestato l'incontro, tenuto nello stesso giorno in cui il presidente della Repubblica metteva in guardia dall'opposizione pregiudiziale ai vaccini."
+      ],
+      "publishedAt": "2026-10-28T19:56:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:03.438Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/il-leghista-borghi-chiama-no-vax-e-vittime-dei-vaccini-al-senato-scontro-col_dd738e56-052d-48e2-8391-3c96641b6bff.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:03.438Z",
+        "dateEvidence": "ANSA, Roma, 28 ottobre 2026 ore 19:56; resoconto del convegno e delle reazioni politiche.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-conte-programma-coalizione",
+      "eventKey": "conte-urgenza-programma-campo-largo-28-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Conte chiede al centrosinistra di accelerare sul programma comune",
+      "summary": "Il leader del Movimento 5 Stelle invita gli alleati a trovare un'intesa programmatica prima di discutere delle primarie per la guida della coalizione.",
+      "body": [
+        "Giuseppe Conte ha detto il 28 ottobre che il confronto sul programma del campo largo non può essere rinviato ancora, richiamando le difficoltà economiche denunciate dai cittadini.",
+        "Il presidente M5s si è dichiarato favorevole anche a primarie rapide, ma ha ribadito che la priorità è concordare i contenuti politici condivisi."
+      ],
+      "publishedAt": "2026-10-28T17:45:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:03.438Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/conte-lattesa-per-il-programma-deve-finire-ogni-giorno-sara-tardi_83b6e98f-be96-4e41-8450-3ac3d5d87f1d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:03.438Z",
+        "dateEvidence": "ANSA, Roma, 28 ottobre 2026 ore 17:45; dichiarazioni di Giuseppe Conte a margine di un evento.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-siher-meloni-gip-anm",
+      "eventKey": "siher-scarcerazione-meloni-critica-gip-anm-28-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Scarcerazione Siher, scontro tra Meloni e magistratura",
+      "summary": "La giudice milanese non convalida il fermo di Youssef Siher; la premier contesta la decisione e l'Associazione nazionale magistrati replica.",
+      "body": [
+        "Il gip di Milano Tiziana Landoni ha respinto la richiesta di convalida del fermo di Youssef Siher, ritenendo che i messaggi contestati richiamassero disobbedienza civile e libera espressione, non incitamento alla violenza.",
+        "Giorgia Meloni ha definito la decisione una mortificazione del lavoro delle forze dell'ordine; l'Anm e i vertici giudiziari milanesi hanno reagito criticando l'attacco della premier."
+      ],
+      "publishedAt": "2026-10-28T22:03:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:03.438Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/meloni-dalla-gip-di-milano-una-decisione-vergognosa-su-siher.-lanm-solidarieta_cf22bf4c-c1b3-46ba-b54f-c5e1eb028452.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:03.438Z",
+        "dateEvidence": "ANSA, 28 ottobre 2026 ore 22:03; ricostruzione del provvedimento della gip e delle reazioni istituzionali.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-acquaroli-inchiesta-sisma",
+      "eventKey": "acquaroli-inchiesta-sisma-dichiarazioni-muccia-28-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Acquaroli interviene sull'inchiesta sisma: «Se avessi saputo, avrei denunciato»",
+      "summary": "Il presidente delle Marche afferma di considerarsi danneggiato insieme alle comunità terremotate e richiama gli atti trasmessi alle autorità.",
+      "body": [
+        "Durante il consiglio regionale aperto a Muccia, Francesco Acquaroli ha commentato l'inchiesta legata al sisma, dichiarando di essere tra le persone danneggiate dalla vicenda.",
+        "Ha aggiunto che avrebbe denunciato eventuali irregolarità conosciute e ha ricordato di avere trasmesso alle autorità le risultanze della commissione tecnica su Atim."
+      ],
+      "publishedAt": "2026-10-28T16:34:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:03.438Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/inchiesta-sisma-acquaroli-sono-una-vittima-insieme-ai-marchigiani_94f9780b-f9a3-4da5-8fea-a420315c1601.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:03.438Z",
+        "dateEvidence": "ANSA, Muccia, 28 ottobre 2026 ore 16:34; dichiarazioni del presidente delle Marche.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": []
+}
