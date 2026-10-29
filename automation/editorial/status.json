@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-29",
-  "checkedAt": "2026-10-29T05:20:47.805Z",
+  "checkedAt": "2026-10-29T06:11:33.806Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,14 +13,14 @@
     "politica",
     "esteri",
     "economia",
-    "cronaca"
+    "cronaca",
+    "tecnologia",
+    "sport"
   ],
   "inProgress": [],
   "missing": [
     "roma",
-    "cultura",
-    "tecnologia",
-    "sport"
+    "cultura"
   ],
   "invalid": [],
   "stories": [
@@ -143,6 +143,66 @@
       "category": "Cronaca",
       "title": "Reggio Emilia, voragine in strada coinvolge un'automobile",
       "eventKey": "reggio-emilia-voragine-auto-illeso-28-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-apple-macbook-pro-touch-proled-xdr-28-ottobre",
+      "category": "Tecnologia · AI",
+      "title": "MacBook Pro con schermo touch: Apple presenta la linea PROLED XDR",
+      "eventKey": "apple-macbook-pro-touch-proled-xdr-28-ottobre"
+    },
+    {
+      "id": "tecnologia-microsoft-windows-certificati-emudhra-update-28-ottobre",
+      "category": "Tecnologia · AI",
+      "title": "Windows, aggiornamenti straordinari contro certificati compromessi",
+      "eventKey": "microsoft-windows-certificati-emudhra-update-28-ottobre"
+    },
+    {
+      "id": "tecnologia-google-gemini-4-carbon-modello-cyber-28-ottobre",
+      "category": "Tecnologia · AI",
+      "title": "Google presenta Gemini 4 Carbon per la sicurezza del software",
+      "eventKey": "google-gemini-4-carbon-modello-cyber-28-ottobre"
+    },
+    {
+      "id": "tecnologia-sony-psn-membri-famiglia-sconosciuti-segnalazioni-28-ottobre",
+      "category": "Tecnologia · AI",
+      "title": "PlayStation Network, utenti segnalano profili sconosciuti nei gruppi famiglia",
+      "eventKey": "sony-psn-membri-famiglia-sconosciuti-segnalazioni-28-ottobre"
+    },
+    {
+      "id": "tecnologia-sony-playstation-plus-essential-novembre-lineup-28-ottobre",
+      "category": "Tecnologia · AI",
+      "title": "PlayStation Plus svela i tre giochi Essential di novembre",
+      "eventKey": "sony-playstation-plus-essential-novembre-lineup-28-ottobre"
+    },
+    {
+      "id": "sport-genoa-juventus-2-0-28-ottobre-2026",
+      "category": "Sport",
+      "title": "Il Genoa batte la Juventus 2-0, decisive le reti del primo tempo",
+      "eventKey": "genoa-juventus-2-0-28-ottobre-2026"
+    },
+    {
+      "id": "sport-milan-bologna-2-4-28-ottobre-2026",
+      "category": "Sport",
+      "title": "Bologna corsaro a San Siro: Milan sconfitto 4-2",
+      "eventKey": "milan-bologna-2-4-28-ottobre-2026"
+    },
+    {
+      "id": "sport-monza-napoli-1-4-28-ottobre-2026",
+      "category": "Sport",
+      "title": "Napoli torna a vincere: quattro gol sul campo del Monza",
+      "eventKey": "monza-napoli-1-4-28-ottobre-2026"
+    },
+    {
+      "id": "sport-f1-gp-messico-antonelli-match-point-29-ottobre-2026",
+      "category": "Sport",
+      "title": "Formula 1 in Messico: Antonelli ha un'altra occasione per il titolo",
+      "eventKey": "f1-gp-messico-antonelli-match-point-29-ottobre-2026"
+    },
+    {
+      "id": "sport-musetti-batte-tiafoe-atp-vienna-28-ottobre-2026",
+      "category": "Sport",
+      "title": "Musetti supera Tiafoe a Vienna e avanza agli ottavi",
+      "eventKey": "musetti-batte-tiafoe-atp-vienna-28-ottobre-2026"
     },
     {
       "id": "politica-finanziamenti-forza-italia",
@@ -327,13 +387,13 @@
       "complete": false
     },
     "tecnologia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "sport": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
