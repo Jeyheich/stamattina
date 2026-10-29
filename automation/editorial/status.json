@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-29",
-  "checkedAt": "2026-10-29T06:13:30.702Z",
+  "checkedAt": "2026-10-29T06:13:44.125Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,13 +13,12 @@
     "economia",
     "cronaca",
     "roma",
+    "cultura",
     "tecnologia",
     "sport"
   ],
   "inProgress": [],
-  "missing": [
-    "cultura"
-  ],
+  "missing": [],
   "invalid": [],
   "stories": [
     {
@@ -171,6 +170,36 @@
       "category": "Roma",
       "title": "Davide Iacopini trasferito in Neurochirurgia dopo il miglioramento",
       "eventKey": "iacopini-trasferimento-neurochirurgia-28-ottobre"
+    },
+    {
+      "id": "cultura-palladium-centenario-29-ottobre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Il Palladium celebra un secolo con tre appuntamenti teatrali e musicali",
+      "eventKey": "palladium-centenario-29-ottobre-2026"
+    },
+    {
+      "id": "cultura-medfilm-festival-32a-edizione-28-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "MedFilm Festival, la 32ª edizione si apre con Danielle Arbid",
+      "eventKey": "medfilm-festival-32a-edizione-28-ottobre"
+    },
+    {
+      "id": "cultura-churchill-escaped-alone-teatro-india-28-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Caryl Churchill al Teatro India: quotidianità e visioni apocalittiche",
+      "eventKey": "churchill-escaped-alone-teatro-india-28-ottobre"
+    },
+    {
+      "id": "cultura-falstaff-opera-roma-rai3-mondovisione-1-novembre",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Il Falstaff dell'Opera di Roma sarà trasmesso su Rai 3 il 1° novembre",
+      "eventKey": "falstaff-opera-roma-rai3-mondovisione-1-novembre"
+    },
+    {
+      "id": "cultura-nuova-consonanza-festival-tempo-28-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Nuova Consonanza presenta «Tempo», oltre quaranta eventi di musica contemporanea",
+      "eventKey": "nuova-consonanza-festival-tempo-28-ottobre"
     },
     {
       "id": "tecnologia-apple-macbook-pro-touch-proled-xdr-28-ottobre",
@@ -439,9 +468,14 @@
       "id": "roma-sapienza-lettere-occupazione-28-ottobre",
       "category": "Roma",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sapienzia_Roma.jpg"
+    },
+    {
+      "id": "cultura-palladium-centenario-29-ottobre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roma_Garbatella_teatro_Palladium.jpg"
     }
   ],
-  "photosAvailable": 3,
+  "photosAvailable": 4,
   "categoryProgress": {
     "politica": {
       "base": 5,
@@ -474,7 +508,7 @@
       "complete": false
     },
     "cultura": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
@@ -492,5 +526,6 @@
       "complete": true
     }
   },
+  "photosMissing": 1,
   "needsPublication": false
 }
