@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-10-29",
+  "collectionId": "2026-10-29-mattina",
+  "category": "Tecnologia · AI",
+  "completedAt": "2026-10-29T06:11:07.522Z",
+  "articles": [
+    {
+      "id": "tecnologia-apple-macbook-pro-touch-proled-xdr-28-ottobre",
+      "eventKey": "apple-macbook-pro-touch-proled-xdr-28-ottobre",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "MacBook Pro con schermo touch: Apple presenta la linea PROLED XDR",
+      "summary": "I nuovi portatili da 14 e 16 pollici adottano pannelli OLED touch e processori M5 Pro e Max; consegne previste dal 6 novembre.",
+      "body": [
+        "Apple ha presentato una nuova generazione di MacBook Pro con display PROLED XDR touch, supporto alla Dynamic Island e modifiche a cerniera, peso e spessore. Le configurazioni dichiarate arrivano fino a 128 GB di RAM e 16 TB di SSD.",
+        "Le prenotazioni sono già aperte, mentre l'arrivo nei negozi è indicato per il 6 novembre. Il modello da 14 pollici parte da 3.399 euro e quello da 16 pollici da 3.999 euro."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-29T06:11:07.522Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/macbook-pro-primi-modelli-con-schermo-touch-proled-xdr/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:07.522Z",
+        "dateEvidence": "Punto Informatico riporta esplicitamente 'Pubblicato il 28 ott 2026' nell'articolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 86
+    },
+    {
+      "id": "tecnologia-microsoft-windows-certificati-emudhra-update-28-ottobre",
+      "eventKey": "microsoft-windows-certificati-emudhra-update-28-ottobre",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Windows, aggiornamenti straordinari contro certificati compromessi",
+      "summary": "Microsoft ha distribuito patch fuori ciclo per Windows 10 e 11, rivolte ai dispositivi che non aggiornano automaticamente gli elenchi di attendibilità.",
+      "body": [
+        "Il problema riguarda certificati legati a chiavi private deboli di eMudhra. Per ridurre il rischio di impersonificazione di siti o software, Microsoft ha predisposto aggiornamenti specifici per Windows 11 e Windows 10.",
+        "Gli aggiornamenti sono pensati soprattutto per ambienti senza aggiornamento automatico degli elenchi di certificati. I pacchetti citati comprendono KB5134133, KB5134130 e KB5134125, a seconda della versione del sistema."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-29T06:11:07.522Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/windows-11-update-rimuovere-certificati-compromessi/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:07.522Z",
+        "dateEvidence": "Punto Informatico mostra la data originale 'Pubblicato il 28 ott 2026'.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 77
+    },
+    {
+      "id": "tecnologia-google-gemini-4-carbon-modello-cyber-28-ottobre",
+      "eventKey": "google-gemini-4-carbon-modello-cyber-28-ottobre",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Google presenta Gemini 4 Carbon per la sicurezza del software",
+      "summary": "Il nuovo modello è destinato inizialmente a organizzazioni selezionate per individuare vulnerabilità e proporre correzioni.",
+      "body": [
+        "Google descrive Gemini 4 Carbon come un modello specializzato in attività di cybersicurezza, dalla ricerca delle falle alla produzione di patch. Deriva dalla famiglia Argon e viene proposto inizialmente a un gruppo limitato di partner.",
+        "I risultati prestazionali citati provengono dai test comunicati dall'azienda: non equivalgono a una validazione indipendente. La disponibilità al pubblico non è stata annunciata."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-29T06:11:07.522Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/gemini-4-carbon-nuovo-modello-google-capacita-cyber/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:07.522Z",
+        "dateEvidence": "Data visibile sul pezzo di Punto Informatico: 28 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 74
+    },
+    {
+      "id": "tecnologia-sony-psn-membri-famiglia-sconosciuti-segnalazioni-28-ottobre",
+      "eventKey": "sony-psn-membri-famiglia-sconosciuti-segnalazioni-28-ottobre",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "PlayStation Network, utenti segnalano profili sconosciuti nei gruppi famiglia",
+      "summary": "Diverse segnalazioni parlano di membri aggiunti senza consenso, ma Sony non ha ancora confermato una vulnerabilità.",
+      "body": [
+        "Alcuni utenti PSN riferiscono la comparsa di account estranei nella gestione famiglia. Il fenomeno ha alimentato timori per la sicurezza delle credenziali e delle informazioni associate ai profili.",
+        "Al momento della pubblicazione non risultava una spiegazione ufficiale di Sony. Si tratta quindi di segnalazioni non ancora accertate come falla tecnica, non di un attacco dimostrato."
+      ],
+      "publishedAt": "2026-10-28T12:41:00+01:00",
+      "verifiedAt": "2026-10-29T06:11:07.522Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/sony-falla-psn-utenti-segnalano-membri-sconosciuti-interno-famiglia-908463.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:07.522Z",
+        "dateEvidence": "Everyeye, Alessio Marino, 28/10/2026 ore 12:41; natura della falla non confermata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 65
+    },
+    {
+      "id": "tecnologia-sony-playstation-plus-essential-novembre-lineup-28-ottobre",
+      "eventKey": "sony-playstation-plus-essential-novembre-lineup-28-ottobre",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "PlayStation Plus svela i tre giochi Essential di novembre",
+      "summary": "Dal 3 novembre gli abbonati potranno aggiungere Dead Island 2, Tomb Raider IV–VI Remastered e Monster Train 2.",
+      "body": [
+        "Sony ha annunciato la selezione mensile per PlayStation Plus Essential: uno sparatutto a tema zombie, una raccolta rimasterizzata delle avventure classiche di Lara Croft e un roguelite strategico.",
+        "Secondo il calendario riportato, i titoli saranno riscattabili dal 3 al 30 novembre. La disponibilità richiede un abbonamento PlayStation Plus: l'articolo informativo è consultabile gratuitamente."
+      ],
+      "publishedAt": "2026-10-28T16:54:00+01:00",
+      "verifiedAt": "2026-10-29T06:11:07.522Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/playstation-plus-annunciati-giochi-gratis-novembre-908523.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:07.522Z",
+        "dateEvidence": "Everyeye, Davide Leoni, 28/10/2026 ore 16:54; annuncio e finestra di novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 72
+    }
+  ]
+}
