@@ -1,232 +1,129 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-29",
-  "collectionId": "2026-10-29-mattina",
+  "collectionId": "2026-10-29-pomeriggio",
   "category": "Economia",
-  "completedAt": "2026-10-29T05:19:42.287Z",
+  "completedAt": "2026-10-29T15:21:28.088Z",
   "articles": [
     {
-      "id": "economia-fed-tassi-fermi",
+      "id": "economia-bce-tassi-fermi-ottobre",
+      "eventKey": "bce-tassi-fermi-29-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Bce, tassi invariati al 2,50% sui depositi",
+      "summary": "Il Consiglio direttivo lascia fermo il costo del denaro, mentre Lagarde segnala rischi di nuova inflazione energetica.",
+      "body": [
+        "La Banca centrale europea ha confermato il tasso sui depositi al 2,50%, quello sulle operazioni di rifinanziamento principali al 2,65% e quello marginale al 2,90%. La decisione del 29 ottobre è stata unanime.",
+        "La presidente uscente Christine Lagarde ha segnalato che i prezzi dell'energia potrebbero far risalire l'inflazione nei prossimi trimestri; un eventuale rialzo a dicembre resta una possibilità, non una decisione."
+      ],
+      "publishedAt": "2026-10-29T15:25:00+01:00",
+      "verifiedAt": "2026-10-29T15:21:28.088Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/29/tassi-bce-lagarde-oggi",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T15:21:28.088Z",
+        "dateEvidence": "Pagina Sky TG24 consultata integralmente il 29/10/2026, pubblicazione originale indicata 2026-10-29T15:25:00+01:00; data e fatti confrontati con il testo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-risparmi-bunq-italiani",
+      "eventKey": "indagine-bunq-risparmi-italiani-29-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Risparmi delle famiglie, il 73% degli intervistati ha attinto alle riserve",
+      "summary": "Un'indagine commissionata dalla banca digitale bunq fotografa il ricorso ai risparmi e la preoccupazione per le spese di fine anno.",
+      "body": [
+        "Secondo il rapporto Savings and Golden Quarter citato da Sky TG24, il 73% dei partecipanti italiani dichiara di aver usato risparmi negli ultimi dodici mesi. La cifra riguarda gli intervistati, non è una misura ufficiale sull'intera popolazione.",
+        "Il 56% degli intervistati riferisce meno di 5.000 euro disponibili sul conto, mentre l'80% prevede un aumento delle uscite nell'ultimo trimestre dell'anno."
+      ],
+      "publishedAt": "2026-10-29T14:31:00+01:00",
+      "verifiedAt": "2026-10-29T15:21:28.088Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/29/risparmi-italiani-riserve-fine-mese-dati",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T15:21:28.088Z",
+        "dateEvidence": "Pagina Sky TG24 consultata integralmente il 29/10/2026, pubblicazione originale indicata 2026-10-29T14:31:00+01:00; data e fatti confrontati con il testo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-energia-ue-riscaldamento",
+      "eventKey": "commissione-ue-rischio-riscaldamento-50-milioni-29-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Energia, la Commissione Ue teme difficoltà di riscaldamento per 50 milioni di persone",
+      "summary": "Il commissario all'Energia avverte che il problema del prossimo inverno sarà soprattutto il prezzo dell'energia.",
+      "body": [
+        "Dan Jørgensen ha stimato che oltre 50 milioni di europei potrebbero non riuscire a riscaldare adeguatamente le proprie case per via dei costi. La valutazione è stata riportata a margine di un Consiglio Ue in Lussemburgo.",
+        "Il commissario invita gli Stati a ridurre la dipendenza dai combustibili fossili attraverso efficienza energetica ed elettrificazione. Si tratta di una previsione di rischio, non di 50 milioni di casi già accertati."
+      ],
+      "publishedAt": "2026-10-29T14:19:00+01:00",
+      "verifiedAt": "2026-10-29T15:21:28.088Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/29/energia-ue-riscaldamento-rischio",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T15:21:28.088Z",
+        "dateEvidence": "Pagina Sky TG24 consultata integralmente il 29/10/2026, pubblicazione originale indicata 2026-10-29T14:19:00+01:00; data e fatti confrontati con il testo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-greenpeace-extraprofitti-petrolio",
+      "eventKey": "greenpeace-stima-extraprofitti-petrolio-ue-29-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Petrolio, Greenpeace stima 36 miliardi di extraprofitti nell'Ue",
+      "summary": "L'associazione attribuisce il maggior margine sui carburanti al rincaro dei prezzi dall'inizio del conflitto in Iran.",
+      "body": [
+        "L'analisi di Greenpeace Germania considera il periodo dal primo marzo al 19 ottobre 2026 e stima 36 miliardi di euro di margini extra per l'industria petrolifera nell'Unione europea.",
+        "Per l'Italia l'associazione indica una media superiore a 21 milioni di euro al giorno. Sono stime dell'organizzazione ambientalista, non profitti certificati da bilanci societari."
+      ],
+      "publishedAt": "2026-10-29T12:10:00+01:00",
+      "verifiedAt": "2026-10-29T15:21:28.088Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/29/aumento-prezzi-benzina-guerra-iran-extra-profitti",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T15:21:28.088Z",
+        "dateEvidence": "Pagina Sky TG24 consultata integralmente il 29/10/2026, pubblicazione originale indicata 2026-10-29T12:10:00+01:00; data e fatti confrontati con il testo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-fed-tassi-ottobre",
       "eventKey": "fed-tassi-fermi-28-ottobre-2026",
       "category": "Economia",
       "status": "verified",
-      "title": "La Fed lascia i tassi invariati tra 3,75% e 4%",
-      "summary": "La banca centrale statunitense non modifica il costo del denaro; due componenti avrebbero preferito un aumento di un quarto di punto.",
+      "title": "Fed, tassi Usa confermati fra 3,75% e 4%",
+      "summary": "La banca centrale statunitense mantiene il costo del denaro dopo il rialzo del mese precedente.",
       "body": [
-        "La Federal Reserve ha mantenuto il tasso di riferimento nella fascia 3,75–4%, dopo il rialzo del mese precedente. La decisione del 28 ottobre è stata approvata con dieci voti favorevoli e due contrari.",
-        "La Fed segnala che l'inflazione resta elevata. Il presidente Kevin Warsh sostiene che le elezioni di metà mandato del 3 novembre non abbiano influito sulla scelta."
+        "La Federal Reserve ha votato il 28 ottobre per lasciare invariata la forchetta dei tassi al 3,75-4%. Due membri del comitato si sono opposti alla scelta, preferendo un aumento di un quarto di punto.",
+        "La Fed continua a segnalare un'inflazione elevata e valuta i dati futuri per decidere le prossime mosse. La decisione è distinta da quella presa dalla Bce il 29 ottobre."
       ],
       "publishedAt": "2026-10-28T19:30:00+01:00",
-      "verifiedAt": "2026-10-29T05:19:42.286Z",
+      "verifiedAt": "2026-10-29T15:21:28.088Z",
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it/economia/2026/10/28/federal-reserve-tassi-interesse",
         "access": "free",
-        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
-        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T19:30:00+01:00 e contenuto coerente con la data.",
+        "accessCheckedAt": "2026-10-29T15:21:28.088Z",
+        "dateEvidence": "Pagina Sky TG24 consultata integralmente il 29/10/2026, pubblicazione originale indicata 2026-10-28T19:30:00+01:00; data e fatti confrontati con il testo.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 93,
+      "leadPriority": 87,
       "image": {
         "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Federal_Reserve.jpg",
-        "alt": "Facciata della sede centrale della Federal Reserve a Washington",
+        "alt": "Facciata della sede della Federal Reserve a Washington",
         "credit": "Dan Smith (Rdsmith4)",
         "rights": "CC BY-SA 2.5",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Federal_Reserve.jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
-        "caption": "Repertorio · Sede della Federal Reserve a Washington fotografata nel 2004, non la riunione del 28 ottobre 2026.",
+        "caption": "Repertorio · Sede della Federal Reserve, fotografia del 2004; non documenta la riunione del 28 ottobre 2026.",
         "reuseApproved": true
-      }
-    },
-    {
-      "id": "economia-intesa-autorizzazioni-opas-mps",
-      "eventKey": "intesa-autorizzazioni-opas-mps-28-ottobre-2026",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Intesa ottiene le ultime autorizzazioni preventive per l'Opas su Mps",
-      "summary": "La banca annuncia il completamento dei nulla osta di settore per l'offerta sul Monte dei Paschi; resta il passaggio del documento alla Consob.",
-      "body": [
-        "Le autorità estere competenti hanno concesso gli ultimi via libera preventivi all'acquisizione del controllo di Mps. Intesa comunica che la condizione di efficacia legata alle autorizzazioni è soddisfatta."
-      ],
-      "publishedAt": "2026-10-28T21:43:00+01:00",
-      "verifiedAt": "2026-10-29T05:19:42.286Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/economia/2026/10/28/intesa-autorizzazione-acquisizione-mps",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
-        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T21:43:00+01:00 e contenuto coerente con la data.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "economia-diesel-taglio-accise-fino-7-novembre",
-      "eventKey": "diesel-taglio-accise-fino-7-novembre-28-ottobre-2026",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Gasolio, taglio temporaneo delle accise fino al 7 novembre",
-      "summary": "Il provvedimento riduce il prelievo di quattro centesimi al litro, quasi cinque considerando l'Iva.",
-      "body": [
-        "Il taglio sul diesel è finanziato con 38,7 milioni di euro ricavati dall'extragettito Iva di settembre. La durata iniziale è di undici giorni; un eventuale prolungamento richiederà una nuova valutazione."
-      ],
-      "publishedAt": "2026-10-28T10:34:00+01:00",
-      "verifiedAt": "2026-10-29T05:19:42.286Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/economia/2026/10/28/prezzo-diesel-taglio-accise-sconto-gasolio",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
-        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T10:34:00+01:00 e contenuto coerente con la data.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "economia-padoan-lascia-presidenza-unicredit-fine-mandato",
-      "eventKey": "padoan-lascia-presidenza-unicredit-fine-mandato-28-ottobre-2026",
-      "category": "Economia",
-      "status": "verified",
-      "title": "UniCredit prepara la successione a Padoan",
-      "summary": "Il presidente lascerà alla scadenza del mandato e collaborerà alla selezione del successore.",
-      "body": [
-        "Pier Carlo Padoan lavorerà con il responsabile del Comitato nomine Jeffrey Edberg per organizzare un passaggio di consegne che mantenga continuità nella governance dell'istituto."
-      ],
-      "publishedAt": "2026-10-28T08:33:00+01:00",
-      "verifiedAt": "2026-10-29T05:19:42.286Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/economia/2026/10/28/padoan-lascia-presidenza-unicredit",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
-        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T08:33:00+01:00 e contenuto coerente con la data.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "economia-inps-calendario-pagamenti-novembre",
-      "eventKey": "inps-calendario-pagamenti-novembre-2026-28-ottobre",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Inps, pubblicato il calendario degli accrediti di novembre",
-      "summary": "Pensioni dal 2 novembre; assegno unico ordinario il 19 e 20, con altre finestre per i diversi sostegni.",
-      "body": [
-        "Le pensioni saranno accreditate dal primo giorno bancabile, lunedì 2 novembre. L'assegno unico senza variazioni è previsto tra il 19 e il 20 novembre; NASpI e DIS-COLL seguono date individuali."
-      ],
-      "publishedAt": "2026-10-28T10:36:00+01:00",
-      "verifiedAt": "2026-10-29T05:19:42.286Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/economia/2026/10/28/pagamenti-inps-novembre-2026",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
-        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T10:36:00+01:00 e contenuto coerente con la data.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    }
-  ],
-  "reserveArticles": [
-    {
-      "id": "economia-ravvedimento-speciale-concordato-regole",
-      "eventKey": "ravvedimento-speciale-concordato-2026-regole-28-ottobre",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Ravvedimento speciale, le condizioni per chi rinnova il concordato",
-      "summary": "L'Agenzia delle Entrate definisce le modalità di regolarizzazione per le annualità 2020–2023.",
-      "body": [
-        "Il provvedimento del 23 ottobre disciplina il ravvedimento per contribuenti che avevano aderito al concordato preventivo biennale 2024–2025 e lo rinnovano per il 2026–2027, in presenza degli altri requisiti previsti."
-      ],
-      "publishedAt": "2026-10-28T07:00:00+01:00",
-      "verifiedAt": "2026-10-29T05:20:13.888Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/economia/2026/10/28/ravvedimento-operoso-speciale-rate-scadenze",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
-        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-28T07:00:00+01:00, contenuto e data verificati.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "economia-mutui-variabile-cap-misto-richieste-settembre",
-      "eventKey": "mutui-2026-variabile-cap-misto-richieste-settembre",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Mutui, crescono le richieste di variabile con tetto e tasso misto",
-      "summary": "L'Osservatorio MutuiOnline registra un interesse maggiore per le formule flessibili, mentre prevale ancora il fisso.",
-      "body": [
-        "A settembre il tasso fisso medio sui mutui di 20–30 anni arriva al 3,53%; nei primi nove mesi il 92,3% delle richieste resta sul fisso. Le formule con cap e miste arrivano ciascuna al 2,1%."
-      ],
-      "publishedAt": "2026-10-28T07:00:00+01:00",
-      "verifiedAt": "2026-10-29T05:20:13.888Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/economia/2026/10/28/mutui-casa-tasso-misto-tasso-variabile-cap-quando-conviene",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
-        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-28T07:00:00+01:00, contenuto e data verificati.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "economia-credito-gasolio-autotrasportatori-codice-7082-26-ottobre",
-      "eventKey": "credito-gasolio-autotrasportatori-codice-7082-26-ottobre",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Autotrasporto, codice 7082 per compensare il credito sul gasolio",
-      "summary": "La risoluzione delle Entrate rende operativo l'utilizzo del bonus carburante tramite F24.",
-      "body": [
-        "Il credito d'imposta destinato alle imprese di trasporto che rispettano i requisiti si può compensare con il codice tributo 7082, introdotto dalla risoluzione 40/E del 26 ottobre."
-      ],
-      "publishedAt": "2026-10-28T07:00:00+01:00",
-      "verifiedAt": "2026-10-29T05:20:13.888Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/economia/2026/10/28/bonus-carburante-codice-compensazione-credito",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
-        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-28T07:00:00+01:00, contenuto e data verificati.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "economia-inps-arianna-assistente-generativa-400-prestazioni-27-ottobre",
-      "eventKey": "inps-arianna-assistente-generativa-400-prestazioni-27-ottobre",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Inps, Arianna orienta i cittadini su oltre 400 prestazioni",
-      "summary": "L'assistente digitale è disponibile sul sito e sull'app e risponde utilizzando informazioni dell'Istituto.",
-      "body": [
-        "Il servizio presentato il 27 ottobre permette di formulare domande in linguaggio naturale su pensioni, lavoro e sostegni. Secondo l'Inps, i test hanno completato il 97% dei casi d'uso."
-      ],
-      "publishedAt": "2026-10-27T17:55:00+01:00",
-      "verifiedAt": "2026-10-29T05:20:13.888Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/economia/2026/10/27/inps-arianna-come-funziona",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
-        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-27T17:55:00+01:00, contenuto e data verificati.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "economia-gas-europeo-rincari-golfo-riserve-germania-27-ottobre",
-      "eventKey": "gas-europeo-rincari-golfo-riserve-germania-27-ottobre",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Gas europeo vicino ai 100 euro: pesano tensioni e scorte",
-      "summary": "Il prezzo all'ingrosso sale sui timori per forniture e costi logistici, con ricadute possibili sulle bollette.",
-      "body": [
-        "Il servizio del 27 ottobre collega i rincari ai rischi nel Golfo Persico e alle riserve tedesche al 62%, inferiori a quelle italiane indicate al 91%. È un contesto ancora rilevante, non una quotazione aggiornata al 29 ottobre."
-      ],
-      "publishedAt": "2026-10-27T19:32:00+01:00",
-      "verifiedAt": "2026-10-29T05:20:13.888Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/economia/video/2026/10/27/perche-il-prezzo-del-gas-sale-ai-massimi-dal-2023-1135192",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
-        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-27T19:32:00+01:00, contenuto e data verificati.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ]
