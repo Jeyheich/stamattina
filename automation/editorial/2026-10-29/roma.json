@@ -4,7 +4,7 @@
   "collectionId": "2026-10-29-pomeriggio",
   "category": "Roma",
   "completedAt": "2026-10-29T16:17:26.194Z",
-  "lastAttemptAt": "2026-10-29T16:17:26.194Z",
+  "lastAttemptAt": "2026-10-29T16:17:58.023Z",
   "articles": [
     {
       "id": "roma-sinagoga-aggressione-antisemita-misure-29-ottobre",
@@ -125,6 +125,118 @@
         "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "caption": "Repertorio: edificio principale della Sapienza nel 2015; non ritrae l'occupazione del 28 ottobre 2026.",
         "reuseApproved": true
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "roma-furti-bar-case-supermercati-cinque-arresti-29-ottobre",
+      "eventKey": "roma-furti-bar-case-supermercati-cinque-arresti-29-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Roma, cinque arresti per furti tra bar, abitazioni e negozi",
+      "summary": "La polizia ha eseguito diversi interventi contro furti in quartieri della Capitale; recuperati anche oggetti rubati.",
+      "body": [
+        "Le indagini hanno riguardato furti di borse nei locali, intrusioni nelle abitazioni e sottrazioni di merce nei supermercati. In un caso i sospettati usavano un'auto a noleggio e auricolari per coordinarsi.",
+        "Secondo la ricostruzione giornalistica, cinque persone sono state arrestate in interventi distinti e gli arresti sono stati convalidati."
+      ],
+      "publishedAt": "2026-10-29T09:04:00+01:00",
+      "verifiedAt": "2026-10-29T16:17:58.023Z",
+      "source": {
+        "name": "La Capitale",
+        "url": "https://www.lacapitale.it/articolo/furti-in-bar-case-e-supermercati-a-roma-cinque-arresti-cuffiette-wireless-e-auto-base-per-coordinare-i-colpi",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:17:58.023Z",
+        "dateEvidence": "La Capitale, articolo pubblicato il 29 ottobre 2026 alle 09:04, cinque arresti in più episodi.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-san-basilio-droga-finestra-tre-arresti-28-ottobre",
+      "eventKey": "roma-san-basilio-droga-finestra-tre-arresti-28-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "San Basilio, dosi di stupefacenti nascoste in una finestra",
+      "summary": "I carabinieri hanno trovato 393 dosi di cocaina e 40 di hashish in un appartamento di via Corinaldo; arrestate tre persone.",
+      "body": [
+        "Durante la perquisizione di un appartamento in via Corinaldo i militari hanno individuato un nascondiglio ricavato nel montante di una finestra.",
+        "Sono state sequestrate 433 dosi di sostanze stupefacenti e 2.750 euro in contanti. Tre uomini sono stati arrestati in flagranza, secondo quanto riferito dai carabinieri."
+      ],
+      "publishedAt": "2026-10-28T07:55:00+01:00",
+      "verifiedAt": "2026-10-29T16:17:58.023Z",
+      "source": {
+        "name": "La Capitale",
+        "url": "https://www.lacapitale.it/articolo/san-basilio-droga-nascosta-nel-montante-di-una-finestra-tre-arresti-sequestrate-433-dosi",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:17:58.023Z",
+        "dateEvidence": "La Capitale, 28 ottobre 2026 ore 07:55, articolo integrale riletto nel pomeriggio del 29.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-cerveteri-54-reperti-archeologici-restituiti-28-ottobre",
+      "eventKey": "roma-cerveteri-54-reperti-archeologici-restituiti-28-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Cerveteri, 54 reperti archeologici tornano allo Stato",
+      "summary": "I carabinieri hanno riconsegnato al Ministero della Cultura manufatti sequestrati a Marina di Cerveteri.",
+      "body": [
+        "I reperti, databili tra il VII secolo avanti Cristo e l'età imperiale romana, comprendono ceramiche, lucerne ed ex voto anatomici.",
+        "Dopo la conclusione dell'iter giudiziario, i 54 manufatti sono destinati alla custodia e all'esposizione nei musei del territorio."
+      ],
+      "publishedAt": "2026-10-28T08:54:00+01:00",
+      "verifiedAt": "2026-10-29T16:17:58.023Z",
+      "source": {
+        "name": "La Capitale",
+        "url": "https://www.lacapitale.it/articolo/cerveteri-restituiti-allo-stato-54-reperti-archeologici-dai-vasi-etruschi-agli-ex-voto-anatomici",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:17:58.023Z",
+        "dateEvidence": "La Capitale, 28 ottobre 2026 ore 08:54, 54 reperti riconsegnati allo Stato.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-papa-leone-cinque-visite-parrocchie-avvento-28-ottobre",
+      "eventKey": "roma-papa-leone-cinque-visite-parrocchie-avvento-28-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Avvento, annunciate cinque visite del Papa nelle parrocchie romane",
+      "summary": "Papa Leone XIV visiterà cinque comunità della diocesi di Roma dal 27 novembre al 20 dicembre.",
+      "body": [
+        "Il calendario comprende Sant'Andrea delle Fratte il 27 novembre, San Carlo da Sezze il 29 novembre, Sant'Eligio il 6 dicembre, Santa Lucia il 13 dicembre e San Roberto Bellarmino il 20 dicembre.",
+        "Gli incontri si svolgeranno nel pomeriggio, con momenti di dialogo con le comunità parrocchiali e celebrazioni della messa."
+      ],
+      "publishedAt": "2026-10-28T13:34:00+01:00",
+      "verifiedAt": "2026-10-29T16:17:58.023Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/il-papa-visitera-nel-tempo-davvento-cinque-parrocchie-di-roma_cf7049d3-60ea-431e-8b11-04b7d052ad9a.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:17:58.023Z",
+        "dateEvidence": "ANSA Roma, 28 ottobre 2026 ore 13:34, programma delle cinque visite di Avvento.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-centocelle-intimidazione-sede-prc-28-ottobre",
+      "eventKey": "roma-centocelle-intimidazione-sede-prc-28-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Centocelle, denunciate scritte intimidatorie contro Rifondazione",
+      "summary": "Il partito segnala una nuova croce celtica e una scritta sulla sede di via delle Acacie durante attività per migranti.",
+      "body": [
+        "Secondo la denuncia del segretario locale di Rifondazione Comunista, sul cancello della sede di Centocelle sono state trovate una croce celtica e la parola 'remigrazione'.",
+        "Il partito riferisce che l'episodio è avvenuto mentre si svolgeva una lezione di italiano per migranti e chiede alle autorità di individuare i responsabili."
+      ],
+      "publishedAt": "2026-10-28T12:57:00+01:00",
+      "verifiedAt": "2026-10-29T16:17:58.023Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/croce-celtica-e-scritta-remigrazione-su-una-sede-del-prc-a-roma_22b2f88e-cfa5-493c-a009-b72242465214.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:17:58.023Z",
+        "dateEvidence": "ANSA Roma, 28 ottobre 2026 ore 12:57, denuncia del segretario locale PRC.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ]
