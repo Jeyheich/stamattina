@@ -1,7 +1,7 @@
 {
   "editionDate": "2026-10-29",
-  "checkedAt": "2026-10-29T06:14:48.607Z",
-  "ready": false,
+  "checkedAt": "2026-10-29T07:08:05.594Z",
+  "ready": true,
   "editorialComplete": false,
   "reserveMissing": [
     "roma",
@@ -455,6 +455,11 @@
   },
   "photoCandidates": [
     {
+      "id": "politica-manovra-cdm-26-miliardi",
+      "category": "Politica",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Chigi_Roma_giugno_2024.jpg"
+    },
+    {
       "id": "economia-fed-tassi-fermi",
       "category": "Economia",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Federal_Reserve.jpg"
@@ -475,7 +480,7 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roma_Garbatella_teatro_Palladium.jpg"
     }
   ],
-  "photosAvailable": 4,
+  "photosAvailable": 5,
   "categoryProgress": {
     "politica": {
       "base": 5,
@@ -526,6 +531,6 @@
       "complete": true
     }
   },
-  "photosMissing": 1,
-  "needsPublication": false
+  "editionId": "2026-10-29-batches-91d0ae0f6f63",
+  "needsPublication": true
 }
