@@ -120,5 +120,117 @@
       },
       "leadPriority": 72
     }
+  ],
+  "reserveArticles": [
+    {
+      "id": "tecnologia-meta-waddle-world-tamagotchi-ai-filippine-28-ottobre",
+      "eventKey": "meta-waddle-world-tamagotchi-ai-filippine-28-ottobre",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Meta prova Waddle World, un animaletto virtuale con intelligenza artificiale",
+      "summary": "L'app sperimentale per iOS e Android è disponibile per ora nelle Filippine, con diario, ricordi e piccoli giochi.",
+      "body": [
+        "Waddle World riprende il modello dei pet virtuali: l'utente sceglie un personaggio in pixel art, lo accudisce e può raccontargli le proprie giornate. L'app genera anche un diario illustrato e propone minigiochi.",
+        "Il lancio è per ora limitato alle Filippine. Non sono state annunciate date per una diffusione internazionale, quindi non va presentato come prodotto già disponibile in Italia."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-29T06:11:33.684Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/tamagotchi-targato-meta-waddle-world/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:33.684Z",
+        "dateEvidence": "Punto Informatico, articolo di Tiziana Foglio pubblicato il 28 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-firefox-smart-window-fill-watch-beta-28-ottobre",
+      "eventKey": "firefox-smart-window-fill-watch-beta-28-ottobre",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Firefox Smart Window aggiunge compilazione assistita e monitoraggio delle pagine",
+      "summary": "La beta permette di usare le schede aperte come fonti per moduli e di sorvegliare modifiche ai siti tramite /watch.",
+      "body": [
+        "Mozilla ha introdotto due funzioni in Smart Window: Fill from sources propone testi per i moduli a partire dalle schede autorizzate dall'utente; il comando /watch può controllare pagine con cadenza giornaliera o settimanale.",
+        "Il monitoraggio richiede che il browser resti aperto. La beta è inizialmente disponibile negli Stati Uniti e in Canada; i dati usati per la compilazione vengono condivisi con un modello Google, dettaglio importante per la privacy."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-29T06:11:33.684Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/firefox-smart-windows-compila-moduli-controlla-pagine-web/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:33.684Z",
+        "dateEvidence": "Punto Informatico riporta 'Pubblicato il 28 ott 2026', con disponibilità beta USA/Canada.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-microsoft-copilot-smart-tv-supporto-fine-2026",
+      "eventKey": "microsoft-copilot-smart-tv-supporto-fine-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Microsoft prepara l'uscita di Copilot dalle smart TV",
+      "summary": "Un avviso mostrato su alcune piattaforme televisive segnala la cessazione del supporto all'assistente entro fine anno.",
+      "body": [
+        "Copilot, integrato su diversi televisori, sarà ritirato dalle smart TV secondo l'avviso di Microsoft riportato da Punto Informatico. La comunicazione non indica ancora una data precisa per la dismissione.",
+        "L'articolo ricorda le polemiche seguite all'inserimento dell'assistente su alcuni modelli LG. L'estensione della comunicazione ad altri produttori è attesa, ma le tempistiche specifiche non sono confermate."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-29T06:11:33.684Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/addio-copilot-smart-tv/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:33.684Z",
+        "dateEvidence": "Punto Informatico, articolo del 28 ottobre 2026; data di fine supporto non precisata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-call-of-duty-modern-warfare-4-stagione-1-6-novembre",
+      "eventKey": "call-of-duty-modern-warfare-4-stagione-1-6-novembre",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Modern Warfare 4 annuncia la prima stagione per il 6 novembre",
+      "summary": "Nuove mappe multiplayer, contenuti DMZ e aggiornamenti di Warzone accompagneranno l'avvio della stagione.",
+      "body": [
+        "Infinity Ward ha presentato la prima stagione di Call of Duty: Modern Warfare 4, programmata per venerdì 6 novembre alle 06:00 italiane. All'esordio sono previste le mappe Backstab, Canyon e Shoot House.",
+        "La roadmap include altre arene successive, la zona X01 Black Site per DMZ e due mappe aggiuntive per Warzone. L'annuncio descrive anche un Battle Pass con cento livelli."
+      ],
+      "publishedAt": "2026-10-28T23:32:00+01:00",
+      "verifiedAt": "2026-10-29T06:11:33.684Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/cod-modern-warfare-4-quando-inizia-stagione-1-novita-908579.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:33.684Z",
+        "dateEvidence": "Everyeye, Antonio Izzo, 28 ottobre 2026 ore 23:32; stagione prevista il 6 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-mass-effect-community-n7-day-flashmob-7-novembre",
+      "eventKey": "mass-effect-community-n7-day-flashmob-7-novembre",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "I fan di Mass Effect organizzano un'iniziativa per l'N7 Day",
+      "summary": "Il 7 novembre la community vuole ritrovarsi sulla Legendary Edition per aumentare la partecipazione simultanea.",
+      "body": [
+        "Un gruppo di appassionati della saga ha promosso una sessione coordinata di Mass Effect Legendary Edition per il 7 novembre, nell'ambito della campagna #SaveMassEffect.",
+        "Per l'Italia l'iniziativa è prevista dalle 20 alle 23. L'obiettivo dichiarato è dare visibilità alla community attraverso i dati dei giocatori contemporanei su Steam e la condivisione di schermate da altre piattaforme."
+      ],
+      "publishedAt": "2026-10-28T08:29:00+01:00",
+      "verifiedAt": "2026-10-29T06:11:33.684Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/mass-effect-community-non-arrende-programma-azione-massa-n7-day-2026-908301.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:33.684Z",
+        "dateEvidence": "Everyeye, Fabio Alberti, 28 ottobre 2026 ore 08:29; evento futuro il 7 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
   ]
 }
