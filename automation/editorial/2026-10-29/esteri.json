@@ -1,230 +1,117 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-29",
-  "collectionId": "2026-10-29-mattina",
+  "collectionId": "2026-10-29-pomeriggio",
   "category": "Esteri",
-  "completedAt": "2026-10-29T05:05:19.485Z",
+  "completedAt": "2026-10-29T16:06:19+01:00",
   "articles": [
     {
-      "id": "esteri-arabia-missile-houthi",
-      "eventKey": "arabia-saudita-intercetta-missile-houthi-29-ottobre-2026",
+      "id": "esteri-spagna-toledo-treni-69-morti-italiane-29-ottobre",
+      "eventKey": "spagna-toledo-treni-69-morti-italiane-29-ottobre",
       "category": "Esteri",
       "status": "verified",
-      "title": "Arabia Saudita, intercettato un missile attribuito agli Houthi",
-      "summary": "La coalizione a guida saudita riferisce di avere abbattuto un missile balistico diretto verso la parte orientale del Paese.",
+      "title": "Spagna, la tragedia ferroviaria di Toledo: il bilancio sale e continuano le ricerche",
+      "summary": "Dopo lo scontro tra due treni ad alta velocità, le autorità indagano sulle comunicazioni del centro di controllo e sulle procedure seguite durante un guasto.",
       "body": [
-        "Il portavoce della coalizione saudita Turki al-Malki ha annunciato il 29 ottobre l'intercettazione di un missile balistico lanciato dagli Houthi verso l'area orientale del regno.",
-        "La notizia è attribuita alla dichiarazione ufficiale della coalizione. Al momento della pubblicazione dell'articolo non sono riportati dettagli su danni o vittime."
+        "Lo scontro del 28 ottobre nei pressi di Urda ha provocato decine di vittime e oltre cento feriti. La ricostruzione dei primi accertamenti considera un possibile errore nell'autorizzazione alla ripartenza.",
+        "La Farnesina ha comunicato il coinvolgimento di cittadini italiani. I bilanci restano soggetti agli aggiornamenti delle autorità e l'accertamento delle responsabilità non è concluso."
       ],
-      "publishedAt": "2026-10-29T03:18:00+01:00",
-      "verifiedAt": "2026-10-29T05:05:19.485Z",
+      "publishedAt": "2026-10-28T23:03:00+01:00",
+      "verifiedAt": "2026-10-29T16:06:19+01:00",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/29/arabia-saudita-intercettato-e-distrutto-un-missile-lanciato-dagli-houthi_fb715c01-faa0-4da7-ba2c-0ddf5464b6b3.html",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/28/almeno-68-morti-nellincidente-ferroviario-a-toledo-tre-italiane-disperse_3124daf4-1c75-4126-a99f-4356a4740361.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-29T05:05:19.485Z",
-        "dateEvidence": "ANSA, Riad, 29 ottobre 2026 ore 03:18; dichiarazione del portavoce della coalizione.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 90
-    },
-    {
-      "id": "esteri-haiti-truppe-salvador",
-      "eventKey": "haiti-schieramento-1300-militari-el-salvador-29-ottobre-2026",
-      "category": "Esteri",
-      "status": "verified",
-      "title": "Haiti, El Salvador invia militari per rafforzare la missione di sicurezza",
-      "summary": "Secondo fonti haitiane citate dalla stampa locale, il contingente salvadoregno è salito a circa 1.300 unità per sostenere la missione internazionale contro le bande armate.",
-      "body": [
-        "Il quotidiano haitiano Le Nouvelliste, citando una fonte governativa, indica che con gli ultimi arrivi il contingente di El Salvador ad Haiti raggiunge circa 1.300 soldati.",
-        "L'operazione è presentata come un rafforzamento concordato con il governo haitiano della missione multinazionale, già impegnata contro la violenza delle bande. La cifra proviene da fonti citate e non da un conteggio indipendente."
-      ],
-      "publishedAt": "2026-10-29T02:13:00+01:00",
-      "verifiedAt": "2026-10-29T05:05:19.485Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/29/media-el-salvador-schiera-1.300-militari-ad-haiti_5cc84ad2-e771-4966-9949-db8ec56d04fd.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:05:19.485Z",
-        "dateEvidence": "ANSA, Port-au-Prince, 29 ottobre 2026 ore 02:13; cita Le Nouvelliste e una fonte governativa.",
+        "accessCheckedAt": "2026-10-29T16:06:19+01:00",
+        "dateEvidence": "ANSA, Madrid, 28 ottobre 2026 ore 23:03; articolo letto con bilancio provvisorio di almeno 68 morti.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "esteri-obama-midterm-georgia",
-      "eventKey": "obama-comizio-georgia-critiche-trump-midterm-29-ottobre-2026",
+      "id": "esteri-israele-voto-speciale-netanyahu-senza-maggioranza-29-ottobre",
+      "eventKey": "israele-voto-speciale-netanyahu-senza-maggioranza-29-ottobre",
       "category": "Esteri",
       "status": "verified",
-      "title": "Midterm statunitensi, Obama attacca Trump durante un comizio in Georgia",
-      "summary": "L'ex presidente americano invita gli elettori a scegliere dirigenti seri, sostenendo candidati democratici in vista delle elezioni di metà mandato.",
+      "title": "Israele, scrutinio ancora aperto: nessuno dei blocchi raggiunge la maggioranza",
+      "summary": "I voti speciali sono ancora in conteggio e il presidente Herzog valuta consultazioni per evitare una nuova elezione.",
       "body": [
-        "Barack Obama è intervenuto a un comizio in Georgia a sostegno di Keisha Lance Bottoms, candidata a governatrice, e del senatore Jon Ossoff, impegnato nella rielezione.",
-        "Nel suo intervento ha criticato il linguaggio spettacolarizzato della politica della Casa Bianca e ha chiesto figure di governo capaci di affrontare questioni complesse."
+        "Con circa il 92,7% delle schede conteggiate, il blocco di Netanyahu viene stimato a 53 seggi e quello di Eisenkot a 48, mentre i partiti arabi ne raccolgono 19.",
+        "La polizia israeliana afferma di non avere elementi a sostegno delle accuse di brogli lanciate dal Likud. I risultati sono provvisori e le trattative restano aperte."
       ],
-      "publishedAt": "2026-10-29T04:48:00+01:00",
-      "verifiedAt": "2026-10-29T05:05:19.485Z",
+      "publishedAt": "2026-10-29T09:10:00+01:00",
+      "verifiedAt": "2026-10-29T16:06:19+01:00",
       "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/29/obama-a-washington-ce-bisogno-di-persone-serie-non-di-reality-show_802badab-3e61-4491-b334-90f916a8d6aa.html",
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/mondo/2026/10/29/risultati-elezioni-israele-netanyahu-eisenkot-news",
         "access": "free",
-        "accessCheckedAt": "2026-10-29T05:05:19.485Z",
-        "dateEvidence": "ANSA, Washington, 29 ottobre 2026 ore 04:48; resoconto del comizio in Georgia.",
+        "accessCheckedAt": "2026-10-29T16:06:19+01:00",
+        "dateEvidence": "Sky TG24, Mondo, 29 ottobre 2026 ore 09:10; dati parziali dello scrutinio israeliano.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "esteri-messico-sheinbaum-lepen",
-      "eventKey": "sheinbaum-replica-lepen-messicanizzazione-29-ottobre-2026",
+      "id": "esteri-ucraina-dnipro-treno-civile-droni-13-morti-29-ottobre",
+      "eventKey": "ucraina-dnipro-treno-civile-droni-13-morti-29-ottobre",
       "category": "Esteri",
       "status": "verified",
-      "title": "Sheinbaum respinge il paragone di Le Pen tra Francia e narcotraffico messicano",
-      "summary": "La presidente messicana critica l'uso del nome del suo Paese come sinonimo di insicurezza nel dibattito politico francese.",
+      "title": "Ucraina, attacco contro un treno civile a Dnipro: almeno 13 morti",
+      "summary": "Le autorità ucraine riferiscono di un attacco russo con droni contro un treno passeggeri e chiedono nuove sanzioni internazionali.",
       "body": [
-        "Claudia Sheinbaum ha replicato alle parole di Marine Le Pen sul rischio di una presunta «messicanizzazione» della Francia per la criminalità organizzata.",
-        "Durante una conferenza stampa, la presidente del Messico ha invitato a riconoscere la cultura e i valori del Paese, anziché ridurlo al fenomeno dei cartelli della droga."
+        "Il sindaco di Dnipro e l'amministrazione regionale hanno riferito almeno tredici vittime e diversi feriti nell'attacco alla stazione ferroviaria.",
+        "Zelensky ha condannato l'episodio e chiesto ai partner occidentali di irrigidire le sanzioni contro Mosca. I numeri citati provengono dalle autorità ucraine e possono essere aggiornati."
       ],
-      "publishedAt": "2026-10-29T02:35:00+01:00",
-      "verifiedAt": "2026-10-29T05:05:19.485Z",
+      "publishedAt": "2026-10-29T12:54:00+01:00",
+      "verifiedAt": "2026-10-29T16:06:19+01:00",
       "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/29/sheinbaum-le-pen-e-male-informata-sui-valori-del-messico_cd06b37a-492d-432a-960e-256e503c57ec.html",
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-news-oggi-29-ottobre-2026_2Ky1bkweqEz8yiiWnsMw1P",
         "access": "free",
-        "accessCheckedAt": "2026-10-29T05:05:19.485Z",
-        "dateEvidence": "ANSA, Città del Messico, 29 ottobre 2026 ore 02:35; dichiarazioni di Sheinbaum in conferenza stampa.",
+        "accessCheckedAt": "2026-10-29T16:06:19+01:00",
+        "dateEvidence": "Adnkronos, 29 ottobre 2026 ore 12:54; aggiornamento sull'attacco alla stazione di Dnipro.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "esteri-cardenas-morte-messico",
-      "eventKey": "morte-cuauhtemoc-cardenas-sinistra-messicana-28-ottobre-2026",
+      "id": "esteri-brasile-flavio-bolsonaro-usa-rivendica-vittoria-28-ottobre",
+      "eventKey": "brasile-flavio-bolsonaro-usa-rivendica-vittoria-28-ottobre",
       "category": "Esteri",
       "status": "verified",
-      "title": "Messico, morto Cuauhtémoc Cárdenas, figura della transizione democratica",
-      "summary": "Il politico messicano, fondatore del Prd ed ex capo di governo eletto di Città del Messico, è morto a 92 anni.",
+      "title": "Brasile, Flávio Bolsonaro contesta il voto dagli Stati Uniti",
+      "summary": "Dopo la vittoria di Lula, lo sfidante sostiene senza prove riportate dalla fonte di essere il legittimo presidente e annuncia che guiderà l'opposizione dall'estero.",
       "body": [
-        "Cuauhtémoc Cárdenas, esponente storico della sinistra messicana, è morto mercoledì 28 ottobre all'età di 92 anni, secondo il resoconto pubblicato il 29 ottobre.",
-        "Fu tra i protagonisti della contestazione all'egemonia del partito unico nel 1988, contribuì alla nascita del Prd e nel 1997 divenne il primo capo di governo della capitale scelto con voto popolare."
+        "Flávio Bolsonaro, arrivato a Miami con la famiglia, ha diffuso una dichiarazione in cui contesta il risultato delle presidenziali brasiliane e rivendica la vittoria.",
+        "Donald Trump ha detto di non voler essere coinvolto nella disputa. Le dichiarazioni del candidato sconfitto non equivalgono a una revisione del risultato elettorale."
       ],
-      "publishedAt": "2026-10-29T04:44:00+01:00",
-      "verifiedAt": "2026-10-29T05:05:19.485Z",
+      "publishedAt": "2026-10-28T22:22:00+01:00",
+      "verifiedAt": "2026-10-29T16:06:19+01:00",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/29/morto-cuauhtemoc-cardenas-leader-della-sinistra-messicana_7a6d71ec-e542-4d4f-a535-c7134f202126.html",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/28/bolsonaro-io-il-vero-presidente-del-brasile-guidero-lopposizione-dagli-usa_1b9d2be9-8a00-428f-926e-46b20bfc3e26.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-29T05:05:19.485Z",
-        "dateEvidence": "ANSA, Città del Messico, 29 ottobre 2026 ore 04:44; il testo colloca il decesso a mercoledì 28 ottobre.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    }
-  ],
-  "reserveArticles": [
-    {
-      "id": "esteri-israele-elezioni-herzog",
-      "eventKey": "israele-elezioni-2026-herzog-consultazioni-netanyahu-eisenkot",
-      "category": "Esteri",
-      "status": "verified",
-      "title": "Israele, nessuna maggioranza chiara: Herzog valuta consultazioni per un governo di unità",
-      "summary": "Dopo il voto, il blocco di Netanyahu ottiene 53 seggi e quello di Eisenkot 48; i partiti arabi potrebbero diventare decisivi.",
-      "body": [
-        "Lo scrutinio delle elezioni israeliane del 28 ottobre assegna 53 seggi al blocco di Benjamin Netanyahu e 48 allo schieramento di Gadi Eisenkot, senza una maggioranza parlamentare automatica.",
-        "Secondo i media israeliani, il presidente Isaac Herzog intende incontrare separatamente i due leader per esplorare un possibile governo di unità. Le accuse di brogli lanciate dal Likud restano contestazioni del partito, non fatti accertati."
-      ],
-      "publishedAt": "2026-10-28T20:29:00+01:00",
-      "verifiedAt": "2026-10-29T05:06:20.492Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/28/israele-i-media-herzog-vedra-netanyahu-e-eisenkot-per-testare-un-governo-di-unita_74766689-3c93-4a0a-8778-21bf55ce3a7c.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:06:20.492Z",
-        "dateEvidence": "ANSA, Tel Aviv, cronaca del 28 ottobre 2026 aggiornata alle 20:29; risultati e consultazioni in evoluzione.",
+        "accessCheckedAt": "2026-10-29T16:06:19+01:00",
+        "dateEvidence": "ANSA, San Paolo, 28 ottobre 2026 ore 22:22; dichiarazioni di Flávio Bolsonaro dopo il ballottaggio.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "esteri-spagna-treni-atocha",
-      "eventKey": "spagna-scontro-treni-toledo-audio-controllo-atocha-28-ottobre-2026",
+      "id": "esteri-ue-canada-von-der-leyen-alleanza-futuro-29-ottobre",
+      "eventKey": "ue-canada-von-der-leyen-alleanza-futuro-29-ottobre",
       "category": "Esteri",
       "status": "verified",
-      "title": "Scontro ferroviario in Spagna, esaminate le comunicazioni con il controllo di Atocha",
-      "summary": "Registrazioni diffuse da media spagnoli sollevano interrogativi sulle autorizzazioni a ripartire impartite prima della collisione.",
+      "title": "Unione europea e Canada, von der Leyen propone un'alleanza economica più stretta",
+      "summary": "La presidente della Commissione europea parla a Montréal di uno spazio comune di crescita, sicurezza economica e resilienza.",
       "body": [
-        "El País e la televisione pubblica spagnola hanno diffuso audio delle comunicazioni fra il centro di controllo ferroviario di Atocha e i macchinisti dei due convogli coinvolti nello scontro vicino a Urda, in provincia di Toledo.",
-        "Secondo la ricostruzione riportata, dopo problemi al sistema automatico Lzb sarebbero state date indicazioni di riprendere la marcia a velocità normale. L'eventuale responsabilità del centro di controllo richiede ancora accertamenti."
+        "Nel suo intervento all'Howe Institute, Ursula von der Leyen ha indicato il Canada come partner prioritario per una cooperazione rafforzata in un contesto internazionale più competitivo.",
+        "La proposta è presentata come una direzione politica per il futuro, non come un trattato già sottoscritto."
       ],
-      "publishedAt": "2026-10-28T23:09:00+01:00",
-      "verifiedAt": "2026-10-29T05:06:20.492Z",
+      "publishedAt": "2026-10-29T15:21:00+01:00",
+      "verifiedAt": "2026-10-29T16:06:19+01:00",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/scontro-treni-in-spagna-audio-puntano-il-dito-su-centro-controllo-di-atocha_1af21c04-6c84-42c5-86ad-2744246bb945.html",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/29/von-der-leyen-con-il-canada-alleanza-per-il-futuro-e-spazio-comune_bf8d4efa-97cb-4cf9-abef-1594b9ca1172.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-29T05:06:20.492Z",
-        "dateEvidence": "ANSA, 28 ottobre 2026 ore 23:09; audio attribuiti a El País e Tve, indagine non conclusa.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "esteri-vance-iran-contatti",
-      "eventKey": "vance-lettera-rezaei-iran-negoziati-wsj-28-ottobre-2026",
-      "category": "Esteri",
-      "status": "verified",
-      "title": "Iran, il Wall Street Journal riferisce di una lettera di Vance per riaprire i colloqui",
-      "summary": "Secondo il quotidiano statunitense, il vicepresidente avrebbe scritto a Mohsen Rezaei su indicazione di Trump.",
-      "body": [
-        "Il Wall Street Journal, citato da ANSA, riferisce che JD Vance avrebbe contattato per lettera Mohsen Rezaei, segretario del Consiglio supremo per la sicurezza nazionale iraniano.",
-        "L'iniziativa sarebbe stata promossa da Donald Trump per cercare di rilanciare il dialogo con Teheran. La notizia è una ricostruzione giornalistica e non la conferma di negoziati ripresi."
-      ],
-      "publishedAt": "2026-10-28T21:17:00+01:00",
-      "verifiedAt": "2026-10-29T05:06:20.492Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/vance-ha-scritto-a-esponente-linea-dura-delliran-per-riavviare-i-colloqui_d51d23df-2bb1-42d1-9453-5f0297fa327e.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:06:20.492Z",
-        "dateEvidence": "ANSA, Washington, 28 ottobre 2026 ore 21:17; attribuzione esplicita al Wall Street Journal.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "esteri-venezuela-oro-londra",
-      "eventKey": "venezuela-rodriguez-richiesta-oro-banca-inghilterra-29-ottobre-2026",
-      "category": "Esteri",
-      "status": "verified",
-      "title": "Venezuela, Rodríguez chiede il recupero delle riserve auree bloccate a Londra",
-      "summary": "Caracas sollecita iniziative diplomatiche e giudiziarie per ottenere l'oro depositato presso la Banca d'Inghilterra.",
-      "body": [
-        "La presidente incaricata Delcy Rodríguez ha chiesto di avviare procedure per recuperare le riserve auree venezuelane custodite nel Regno Unito e bloccate da oltre sei anni.",
-        "La controversia risale al mancato riconoscimento britannico della rielezione di Nicolás Maduro nel 2018. La valutazione riportata per le riserve è di circa 1,9 miliardi di dollari nel 2023."
-      ],
-      "publishedAt": "2026-10-29T01:51:00+01:00",
-      "verifiedAt": "2026-10-29T05:06:20.492Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/29/delcy-rodriguez-basta-scuse-sia-recuperato-loro-bloccato-a-londra_a974b5e3-c72b-436a-aaf2-47dae4fd4604.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:06:20.492Z",
-        "dateEvidence": "ANSA, Caracas, 29 ottobre 2026 ore 01:51; richiesta della presidente incaricata e contesto della controversia.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "esteri-messico-export-2026",
-      "eventKey": "messico-export-primi-nove-mesi-2026-crescita-304-percento",
-      "category": "Esteri",
-      "status": "verified",
-      "title": "Messico, esportazioni in aumento del 30,4% nei primi nove mesi del 2026",
-      "summary": "I dati statistici citati dal governo indicano vendite estere per 627,2 miliardi di dollari, con gli Stati Uniti come principale mercato.",
-      "body": [
-        "Secondo l'Istituto nazionale di statistica e geografia del Messico, le esportazioni sono cresciute del 30,4% nei primi nove mesi del 2026, arrivando a 627,2 miliardi di dollari.",
-        "La quota destinata agli Stati Uniti è stimata intorno all'80%. Claudia Sheinbaum ha sottolineato l'integrazione economica fra i due Paesi, pur insistendo sul rispetto delle rispettive sovranità."
-      ],
-      "publishedAt": "2026-10-29T02:01:00+01:00",
-      "verifiedAt": "2026-10-29T05:06:20.492Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/29/messico-lexport-cresce-di-oltre-il-30-nei-primi-nove-mesi-del-2026_549c63f0-2430-4d00-b1b5-c810ac0a67d0.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:06:20.492Z",
-        "dateEvidence": "ANSA, Città del Messico, 29 ottobre 2026 ore 02:01; dati statistici primi nove mesi e confronto settembre.",
+        "accessCheckedAt": "2026-10-29T16:06:19+01:00",
+        "dateEvidence": "ANSA, Bruxelles, 29 ottobre 2026 ore 15:21; dichiarazioni di von der Leyen all'Howe Institute di Montréal.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
