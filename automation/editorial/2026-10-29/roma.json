@@ -1,10 +1,99 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-29",
-  "collectionId": "2026-10-29-mattina",
+  "collectionId": "2026-10-29-pomeriggio",
   "category": "Roma",
-  "completedAt": "2026-10-29T06:13:17.163Z",
+  "completedAt": "2026-10-29T16:17:26.194Z",
+  "lastAttemptAt": "2026-10-29T16:17:26.194Z",
   "articles": [
+    {
+      "id": "roma-sinagoga-aggressione-antisemita-misure-29-ottobre",
+      "eventKey": "roma-sinagoga-aggressione-antisemita-misure-29-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Aggressione antisemita a Roma, due misure cautelari",
+      "summary": "Due uomini sono indagati per un'aggressione a un ricercatore vicino alla sinagoga di via Padova; l'episodio risale ad agosto.",
+      "body": [
+        "Secondo gli investigatori, la vittima sarebbe stata insultata per motivi antisemiti e colpita mentre tentava di telefonare al 112. Le indagini coordinate dalla Procura di Roma hanno portato a due misure cautelari nei confronti di uomini di 36 e 46 anni.",
+        "La contestazione riguarda una tentata rapina aggravata dalla finalità discriminatoria. La responsabilità dei due indagati resta da accertare nel procedimento."
+      ],
+      "publishedAt": "2026-10-29T07:56:00+01:00",
+      "verifiedAt": "2026-10-29T16:17:26.194Z",
+      "source": {
+        "name": "La Capitale",
+        "url": "https://www.lacapitale.it/articolo/insulti-antisemiti-e-aggressione-vicino-alla-sinagoga-ricercatore-colpito-al-volto-due-misure-cautelari",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:17:26.194Z",
+        "dateEvidence": "La Capitale, pubblicazione 29 ottobre 2026 alle 07:56; misure cautelari per aggressione di agosto.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-finanza-sequestro-cinque-milioni-prodotti-29-ottobre",
+      "eventKey": "roma-finanza-sequestro-cinque-milioni-prodotti-29-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Roma, sequestrati oltre cinque milioni di prodotti non conformi",
+      "summary": "Controlli della Guardia di Finanza nel Municipio II hanno portato al sequestro di giocattoli, cosmetici e altri articoli non conformi alle norme.",
+      "body": [
+        "Nelle zone Nomentano e Italia i finanzieri hanno svolto 103 interventi, sequestrando 5.101.056 articoli ritenuti non conformi alle regole di sicurezza e altri 4.697 prodotti sospettati di contraffazione.",
+        "I controlli hanno inoltre fatto emergere lavoratori irregolari e violazioni fiscali; tra le attività verificate anche una struttura ricettiva di 29 camere."
+      ],
+      "publishedAt": "2026-10-29T09:38:00+01:00",
+      "verifiedAt": "2026-10-29T16:17:26.194Z",
+      "source": {
+        "name": "La Capitale",
+        "url": "https://www.lacapitale.it/articolo/giocattoli-cosmetici-e-merce-contraffatta-maxi-sequestro-a-roma-oltre-5-milioni-di-prodotti-irregolari",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:17:26.194Z",
+        "dateEvidence": "La Capitale, pubblicato 29 ottobre 2026 alle 09:38; dettagli di 103 controlli e sequestri.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-colle-oppio-retake-370-kg-rifiuti-29-ottobre",
+      "eventKey": "roma-colle-oppio-retake-370-kg-rifiuti-29-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Colle Oppio, volontari rimuovono 370 chili di rifiuti",
+      "summary": "Oltre quaranta volontari di Retake Roma hanno ripulito il parco e alcune strade di Monti con un intervento svolto il 28 ottobre.",
+      "body": [
+        "L'iniziativa ha portato alla raccolta di 68 sacchi di indifferenziata e sei di vetro, oltre a materiali ingombranti. Il peso complessivo dichiarato è di circa 370 chilogrammi.",
+        "L'associazione ha segnalato anche lavori di diserbo e pulizia dei viali, presentando l'intervento come un'attività di cura condivisa dello spazio pubblico."
+      ],
+      "publishedAt": "2026-10-29T08:46:00+01:00",
+      "verifiedAt": "2026-10-29T16:17:26.194Z",
+      "source": {
+        "name": "La Capitale",
+        "url": "https://www.lacapitale.it/articolo/colle-oppio-raccolti-370-chili-di-rifiuti-con-oltre-40-volontari-ripuliti-il-parco-e-le-strade-di-monti",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:17:26.194Z",
+        "dateEvidence": "La Capitale, pubblicato 29 ottobre 2026 alle 08:46; iniziativa svolta il giorno precedente.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-monti-furto-diciannove-vinili-29-ottobre",
+      "eventKey": "roma-monti-furto-diciannove-vinili-29-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Monti, recuperati 19 vinili rubati in un negozio",
+      "summary": "Un ventisettenne è stato arrestato dopo un furto in un negozio di dischi di via del Boschetto; il valore dei vinili recuperati è stimato in 900 euro.",
+      "body": [
+        "I carabinieri della stazione Roma Quirinale hanno fermato il sospettato poco dopo la sottrazione dei dischi da collezione nel rione Monti.",
+        "Tutta la merce è stata restituita al titolare del negozio. L'uomo è gravemente indiziato di furto aggravato, in attesa della convalida dell'arresto."
+      ],
+      "publishedAt": "2026-10-29T08:54:00+01:00",
+      "verifiedAt": "2026-10-29T16:17:26.194Z",
+      "source": {
+        "name": "La Capitale",
+        "url": "https://www.lacapitale.it/articolo/ruba-19-vinili-da-collezione-in-un-negozio-di-monti-arrestato-recuperati-dischi-per-900-euro",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:17:26.194Z",
+        "dateEvidence": "La Capitale, pubblicato 29 ottobre 2026 alle 08:54; 19 vinili e valore 900 euro.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
     {
       "id": "roma-sapienza-lettere-occupazione-28-ottobre",
       "eventKey": "sapienza-lettere-occupazione-28-ottobre",
@@ -17,13 +106,13 @@
         "Nello stesso periodo l'ateneo è impegnato nel ballottaggio per il nuovo rettore. L'annuncio dell'occupazione non equivale a una valutazione ufficiale dell'università sull'iniziativa."
       ],
       "publishedAt": "2026-10-28T18:58:00+01:00",
-      "verifiedAt": "2026-10-29T06:13:17.163Z",
+      "verifiedAt": "2026-10-29T16:17:26.194Z",
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it/lazio/notizie/2026/10/28/collettivi-occupata-la-facolta-di-lettere-alla-sapienza_69be496d-de51-4a62-8260-6797a5ca2c4f.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-29T06:13:17.163Z",
-        "dateEvidence": "Pagina ANSA del 28 ottobre 2026, ore 18:58: comunicato dei collettivi Osa sull'occupazione.",
+        "accessCheckedAt": "2026-10-29T16:17:26.194Z",
+        "dateEvidence": "ANSA, 28 ottobre 2026 ore 18:58, articolo riletto il 29 ottobre pomeriggio: occupazione Lettere Sapienza.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
       "leadPriority": 91,
@@ -36,198 +125,6 @@
         "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "caption": "Repertorio: edificio principale della Sapienza nel 2015; non ritrae l'occupazione del 28 ottobre 2026.",
         "reuseApproved": true
-      }
-    },
-    {
-      "id": "roma-tor-bella-monaca-scippo-14enne-28-ottobre",
-      "eventKey": "tor-bella-monaca-scippo-14enne-28-ottobre",
-      "category": "Roma",
-      "status": "verified",
-      "title": "Tor Bella Monaca, arrestato un quattordicenne dopo uno scippo",
-      "summary": "I carabinieri hanno fermato un minorenne accusato di aver strappato una collana a una donna di 64 anni in via Casilina.",
-      "body": [
-        "Secondo la ricostruzione dei carabinieri, una pattuglia è intervenuta dopo aver sentito le richieste d'aiuto della donna e ha bloccato il giovane in fuga. La collana è stata recuperata e restituita; la vittima non è rimasta ferita."
-      ],
-      "publishedAt": "2026-10-28T14:40:00+01:00",
-      "verifiedAt": "2026-10-29T06:13:17.163Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/donna-scippata-in-strada-i-carabinieri-arrestano-un-14enne_008b4dbc-eb2b-4af4-8109-566e7888bafb.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T06:13:17.163Z",
-        "dateEvidence": "ANSA Roma, 28 ottobre 2026 ore 14:40; intervento dei carabinieri a Tor Bella Monaca.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "roma-centocelle-intimidazioni-sede-prc-28-ottobre",
-      "eventKey": "centocelle-intimidazioni-sede-prc-28-ottobre",
-      "category": "Roma",
-      "status": "verified",
-      "title": "Centocelle, denunciate nuove scritte intimidatorie contro una sede di Rifondazione",
-      "summary": "Il segretario romano di Rifondazione Comunista segnala una seconda intimidazione contro la sede di via delle Acacie.",
-      "body": [
-        "Giovanni Barbera riferisce che una croce celtica e la parola «remigrazione» sono state tracciate sul cancello durante una lezione di italiano per migranti. Il partito chiede alle autorità di individuare i responsabili e rafforzare la vigilanza."
-      ],
-      "publishedAt": "2026-10-28T12:57:00+01:00",
-      "verifiedAt": "2026-10-29T06:13:17.163Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/croce-celtica-e-scritta-remigrazione-su-una-sede-del-prc-a-roma_22b2f88e-cfa5-493c-a009-b72242465214.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T06:13:17.163Z",
-        "dateEvidence": "ANSA Roma 28 ottobre 2026 ore 12:57; dichiarazioni di Giovanni Barbera sulla sede di Centocelle.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "roma-papa-avvento-cinque-parrocchie-roma-28-ottobre",
-      "eventKey": "papa-avvento-cinque-parrocchie-roma-28-ottobre",
-      "category": "Roma",
-      "status": "verified",
-      "title": "Annunciate cinque visite del Papa nelle parrocchie romane durante l'Avvento",
-      "summary": "Leone XIV visiterà una parrocchia per ciascun settore pastorale della diocesi tra fine novembre e dicembre.",
-      "body": [
-        "Il calendario diffuso il 28 ottobre prevede la prima visita a Sant'Andrea delle Fratte il 27 novembre e l'ultima a San Roberto Bellarmino il 20 dicembre. Sono previsti incontri con le comunità e celebrazioni eucaristiche."
-      ],
-      "publishedAt": "2026-10-28T13:34:00+01:00",
-      "verifiedAt": "2026-10-29T06:13:17.163Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/il-papa-visitera-nel-tempo-davvento-cinque-parrocchie-di-roma_cf7049d3-60ea-431e-8b11-04b7d052ad9a.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T06:13:17.163Z",
-        "dateEvidence": "ANSA Roma, 28 ottobre 2026 ore 13:34; calendario delle cinque visite pastorali.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "roma-iacopini-trasferimento-neurochirurgia-28-ottobre",
-      "eventKey": "iacopini-trasferimento-neurochirurgia-28-ottobre",
-      "category": "Roma",
-      "status": "verified",
-      "title": "Davide Iacopini trasferito in Neurochirurgia dopo il miglioramento",
-      "summary": "Il San Camillo comunica che l'attore è vigile e non necessita più di supporti intensivi.",
-      "body": [
-        "Il bollettino diffuso il 28 ottobre segnala il trasferimento di Iacopini in Neurochirurgia dopo 23 giorni di terapia intensiva. La prognosi è stata sciolta; proseguirà il percorso di cura e riabilitazione."
-      ],
-      "publishedAt": "2026-10-28T17:08:00+01:00",
-      "verifiedAt": "2026-10-29T06:13:17.163Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/spinto-dalla-minicar-iacopini-trasferito-in-reparto-e-vigile_dcd97a14-b941-40dd-a771-15ece679f0c4.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T06:13:17.163Z",
-        "dateEvidence": "ANSA Roma, 28 ottobre 2026 ore 17:08; bollettino ospedale San Camillo.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    }
-  ],
-  "lastAttemptAt": "2026-10-29T06:14:04.193Z",
-  "reserveArticles": [
-    {
-      "id": "roma-san-basilio-droga-finestra-tre-arresti-28-ottobre",
-      "eventKey": "san-basilio-droga-finestra-tre-arresti-28-ottobre",
-      "category": "Roma",
-      "status": "verified",
-      "title": "San Basilio, cocaina e hashish nascosti in una finestra: tre arresti",
-      "summary": "In un alloggio Ater di via Corinaldo i carabinieri hanno sequestrato 393 dosi di cocaina e 40 di hashish.",
-      "body": [
-        "La perquisizione ha portato all'arresto di tre uomini e al sequestro di 2.750 euro in contanti. L'abitazione risultava occupata abusivamente; il padre di uno degli arrestati è stato denunciato per l'occupazione."
-      ],
-      "publishedAt": "2026-10-28T07:55:00+01:00",
-      "verifiedAt": "2026-10-29T06:14:04.193Z",
-      "source": {
-        "name": "La Capitale",
-        "url": "https://www.lacapitale.it/articolo/san-basilio-droga-nascosta-nel-montante-di-una-finestra-tre-arresti-sequestrate-433-dosi",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T06:14:04.193Z",
-        "dateEvidence": "La Capitale, 28 ottobre 2026 ore 07:55; 393 dosi di cocaina e 40 di hashish sequestrate a San Basilio.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "roma-cerveteri-54-reperti-restituiti-stato-28-ottobre",
-      "eventKey": "cerveteri-54-reperti-restituiti-stato-28-ottobre",
-      "category": "Roma",
-      "status": "verified",
-      "title": "Cerveteri, restituiti allo Stato 54 reperti archeologici",
-      "summary": "I manufatti sequestrati a Marina di Cerveteri saranno destinati ai musei del territorio.",
-      "body": [
-        "Tra i reperti figurano ceramiche etrusche, lucerne e terrecotte votive databili dal VII secolo avanti Cristo all'età romana. L'assegnazione segue la conclusione dell'iter giudiziario."
-      ],
-      "publishedAt": "2026-10-28T08:54:00+01:00",
-      "verifiedAt": "2026-10-29T06:14:04.193Z",
-      "source": {
-        "name": "La Capitale",
-        "url": "https://www.lacapitale.it/articolo/cerveteri-restituiti-allo-stato-54-reperti-archeologici-dai-vasi-etruschi-agli-ex-voto-anatomici",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T06:14:04.193Z",
-        "dateEvidence": "La Capitale, 28 ottobre 2026 ore 08:54; restituzione dei 54 reperti archeologici a Cerveteri.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "roma-roma-sciopero-usb-trasporti-30-ottobre-precettazione",
-      "eventKey": "roma-sciopero-usb-trasporti-30-ottobre-precettazione",
-      "category": "Roma",
-      "status": "verified",
-      "title": "Sciopero del 30 ottobre, Roma comunica le fasce garantite per bus e metro",
-      "summary": "Nonostante la precettazione ministeriale, USB conferma l'agitazione e Roma Mobilità segnala possibili disagi.",
-      "body": [
-        "Per il trasporto pubblico romano sono previste corse garantite fino alle 8:29 e dalle 17 alle 19:59. La situazione è soggetta a possibili variazioni e richiede un controllo prima degli spostamenti."
-      ],
-      "publishedAt": "2026-10-28T07:59:00+01:00",
-      "verifiedAt": "2026-10-29T06:14:04.193Z",
-      "source": {
-        "name": "PMI.it",
-        "url": "https://www.pmi.it/economia/lavoro/478519/scioperi-ottobre-calendario.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T06:14:04.193Z",
-        "dateEvidence": "PMI.it, aggiornamento del 28 ottobre 2026 ore 07:59; precettazione e conferma USB; fasce locali confermate da Roma Mobilità.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "roma-liceo-mamiani-occupazione-studenti-27-ottobre",
-      "eventKey": "liceo-mamiani-occupazione-studenti-27-ottobre",
-      "category": "Roma",
-      "status": "verified",
-      "title": "Occupazioni scolastiche a Roma, coinvolto anche il liceo Mamiani",
-      "summary": "Il liceo Mamiani di Prati è stato occupato nel quadro di una mobilitazione che interessa diversi istituti romani.",
-      "body": [
-        "L'occupazione del 27 ottobre segue le proteste in altri licei della capitale. Studenti e sindacati discutono le condizioni degli edifici, il dialogo con le scuole e le modalità degli interventi delle forze dell'ordine."
-      ],
-      "publishedAt": "2026-10-27T13:16:00+01:00",
-      "verifiedAt": "2026-10-29T06:14:04.193Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/lazio/notizie/2026/10/27/occupato-a-roma-il-liceo-mamiani_246415fe-fcd7-402b-83ed-8345876b5964.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T06:14:04.193Z",
-        "dateEvidence": "ANSA Roma, 27 ottobre 2026 ore 13:16; occupazione del liceo Mamiani e proteste in altre scuole.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "roma-lazio-bilancio-consolidato-2025-approvato-28-ottobre",
-      "eventKey": "lazio-consiglio-regionale-approva-bilancio-consolidato-2025-28-ottobre",
-      "category": "Roma",
-      "status": "verified",
-      "title": "Lazio, approvato il bilancio consolidato 2025 della Regione",
-      "summary": "Il Consiglio regionale ha approvato il documento contabile del Gruppo Regione Lazio, che registra un risultato economico positivo di circa 870,5 milioni di euro.",
-      "body": [
-        "Il bilancio consolidato riunisce i dati economici e patrimoniali dell'ente e delle società e organismi controllati o partecipati. La relazione è stata illustrata dall'assessore al Bilancio Giancarlo Righini, prima del voto favorevole dell'assemblea regionale."
-      ],
-      "publishedAt": "2026-10-28T15:41:00+01:00",
-      "verifiedAt": "2026-10-29T07:16:12.562Z",
-      "source": {
-        "name": "ANSA Lazio",
-        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/il-consiglio-regionale-approva-il-bilancio-consolidato-utile-di-870-milioni_3498c56f-a053-4ff2-8ea5-670fb2b6037f.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T07:16:12.562Z",
-        "dateEvidence": "ANSA Lazio, 28 ottobre 2026 ore 15:41, articolo sul voto del Consiglio regionale e risultato di 870.471.398 euro.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ]
