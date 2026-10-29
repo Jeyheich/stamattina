@@ -123,7 +123,8 @@
       }
     }
   ],
-  "reserveDraft": [
+  "lastAttemptAt": "2026-10-29T06:14:15.576Z",
+  "reserveArticles": [
     {
       "id": "cultura-antonello-da-messina-enigma-sorriso-mostra-28-ottobre",
       "eventKey": "antonello-da-messina-enigma-sorriso-mostra-28-ottobre",
@@ -165,7 +166,69 @@
         "dateEvidence": "RaiNews TGR Lazio, 28/10/2026 (data indicata sulla pagina, ora non specificata); eventi dal 30 ottobre.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "cultura-film-ragazzine-ratigher-lucca-comics-28-ottobre",
+      "eventKey": "film-ragazzine-stanno-perdendo-controllo-lucca-comics-28-ottobre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Dal fumetto al cinema, «Le ragazzine» arriva a Lucca Comics",
+      "summary": "Il film d'esordio di Pierluca Di Pasquale, tratto dalla graphic novel di Ratigher, viene presentato il 29 ottobre a Lucca Comics & Games.",
+      "body": [
+        "Dopo la partecipazione ad Alice nella città, la storia di amicizia e formazione di due adolescenti approda alla manifestazione lucchese. Sara Ciocca e Anita Serafini interpretano le protagoniste; l'uscita nelle sale è prevista per il 4 marzo 2027."
+      ],
+      "publishedAt": "2026-10-28T18:46:00+01:00",
+      "verifiedAt": "2026-10-29T07:16:24.359Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/28/le-ragazzine-stanno-perdendo-il-controllo-due-amiche-nel-viaggio-nella-vita_e73da4c3-a4f8-42de-9c4d-958fcd32d4c5.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T07:16:24.359Z",
+        "dateEvidence": "ANSA Cultura/Cinema, 28 ottobre 2026 ore 18:46; presentazione a Lucca il 29 ottobre e uscita in sala il 4 marzo 2027.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-incendi-mouawad-teatro-verdi-padova-28-ottobre",
+      "eventKey": "incendi-mouawad-prima-nazionale-teatro-verdi-padova-28-ottobre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "«Incendi» di Mouawad inaugura la stagione dello Stabile del Veneto",
+      "summary": "La tragedia contemporanea debutta in prima nazionale al Teatro Verdi di Padova con la regia di Marco Lorenzi.",
+      "body": [
+        "Lo spettacolo, in scena dal 28 ottobre al 3 novembre, intreccia una ricerca familiare con la memoria della guerra civile libanese. In scena Frédérique Loliée e Filippo Dini; per l'occasione Einaudi pubblica una nuova traduzione del testo di Monica Capuani."
+      ],
+      "publishedAt": "2026-10-28T15:42:00+01:00",
+      "verifiedAt": "2026-10-29T07:16:24.359Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/10/28/incendi-in-scena-il-capolavoro-di-wajdi-mouawad-per-spezzare-la-catena-dellodio_30215921-b284-445e-b0c6-dac166c235a8.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T07:16:24.359Z",
+        "dateEvidence": "ANSA Cultura/Teatro, 28 ottobre 2026 ore 15:42; debutto al Verdi di Padova il 28 ottobre, fino al 3 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-alberto-savinio-souvenir-pinacoteca-agnelli-28-ottobre",
+      "eventKey": "pinacoteca-agnelli-souvenir-alberto-savinio-inaugurazione-30-ottobre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "A Torino apre «Souvenir», retrospettiva dedicata ad Alberto Savinio",
+      "summary": "La Pinacoteca Agnelli inaugura il 30 ottobre una mostra con oltre settanta opere dell'artista, visitabile fino al 4 aprile 2027.",
+      "body": [
+        "La rassegna, curata da Sarah Cosulich e Pietro Rigolo, ripercorre temi e linguaggi di Savinio tra pittura, memoria e figure ibride. Nello stesso programma espositivo trovano spazio un dialogo tra Chris Ofili e Manet e un intervento di Iris Touliatou sulla Pista 500."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-29T07:16:24.359Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/piemonte/notizie/2026/10/28/alla-pinacoteca-agnelli-souvenir-di-alberto-savinio_195c3881-9e4b-4927-9cbe-62414942970d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T07:16:24.359Z",
+        "dateEvidence": "ANSA Piemonte, 28 ottobre 2026 (ora non indicata nella pagina AMP); inaugurazione il 30 ottobre, chiusura il 4 aprile 2027.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
-  ],
-  "lastAttemptAt": "2026-10-29T06:14:15.576Z"
+  ]
 }
