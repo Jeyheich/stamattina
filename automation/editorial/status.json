@@ -1,9 +1,13 @@
 {
   "editionDate": "2026-10-29",
-  "checkedAt": "2026-10-29T16:17:43.753Z",
-  "ready": false,
+  "checkedAt": "2026-10-29T16:18:01.396Z",
+  "ready": true,
   "editorialComplete": false,
   "reserveMissing": [
+    "roma",
+    "cultura"
+  ],
+  "completed": [
     "politica",
     "esteri",
     "economia",
@@ -13,15 +17,520 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [],
   "inProgress": [],
   "missing": [],
-  "invalid": [
+  "invalid": [],
+  "stories": [
     {
-      "slug": "edition",
-      "reason": "Cicli editoriali differenti"
+      "id": "politica-manovra-2027-cdm-26-miliardi-28-ottobre",
+      "category": "Politica",
+      "title": "Manovra 2027: il governo difende la scelta di concentrare gli interventi",
+      "eventKey": "manovra-2027-cdm-26-miliardi-28-ottobre"
+    },
+    {
+      "id": "politica-nordio-siher-no-ispettori-gip-29-ottobre-2026",
+      "category": "Politica",
+      "title": "Nordio sul caso Siher: nessuna ispezione dopo la decisione della gip",
+      "eventKey": "nordio-siher-no-ispettori-gip-29-ottobre-2026"
+    },
+    {
+      "id": "politica-cateno-de-luca-profezia-voto-maggio-2027-29-ottobre",
+      "category": "Politica",
+      "title": "De Luca rilancia l'ipotesi di elezioni politiche anticipate a maggio",
+      "eventKey": "cateno-de-luca-profezia-voto-maggio-2027-29-ottobre"
+    },
+    {
+      "id": "politica-crosetto-ucraina-inverno-russia-previsioni-29-ottobre",
+      "category": "Politica",
+      "title": "Crosetto: il conflitto ucraino potrebbe proseguire oltre l'inverno",
+      "eventKey": "crosetto-ucraina-inverno-russia-previsioni-29-ottobre"
+    },
+    {
+      "id": "politica-di-pietro-autocandidatura-csm-voto-28-ottobre",
+      "category": "Politica",
+      "title": "Csm, Di Pietro rivendica una candidatura autonoma dopo la prima fumata nera",
+      "eventKey": "di-pietro-autocandidatura-csm-voto-28-ottobre"
+    },
+    {
+      "id": "esteri-spagna-toledo-treni-69-morti-italiane-29-ottobre",
+      "category": "Esteri",
+      "title": "Spagna, la tragedia ferroviaria di Toledo: il bilancio sale e continuano le ricerche",
+      "eventKey": "spagna-toledo-treni-69-morti-italiane-29-ottobre"
+    },
+    {
+      "id": "esteri-israele-voto-speciale-netanyahu-senza-maggioranza-29-ottobre",
+      "category": "Esteri",
+      "title": "Israele, scrutinio ancora aperto: nessuno dei blocchi raggiunge la maggioranza",
+      "eventKey": "israele-voto-speciale-netanyahu-senza-maggioranza-29-ottobre"
+    },
+    {
+      "id": "esteri-ucraina-dnipro-treno-civile-droni-13-morti-29-ottobre",
+      "category": "Esteri",
+      "title": "Ucraina, attacco contro un treno civile a Dnipro: almeno 13 morti",
+      "eventKey": "ucraina-dnipro-treno-civile-droni-13-morti-29-ottobre"
+    },
+    {
+      "id": "esteri-brasile-flavio-bolsonaro-usa-rivendica-vittoria-28-ottobre",
+      "category": "Esteri",
+      "title": "Brasile, Flávio Bolsonaro contesta il voto dagli Stati Uniti",
+      "eventKey": "brasile-flavio-bolsonaro-usa-rivendica-vittoria-28-ottobre"
+    },
+    {
+      "id": "esteri-ue-canada-von-der-leyen-alleanza-futuro-29-ottobre",
+      "category": "Esteri",
+      "title": "Unione europea e Canada, von der Leyen propone un'alleanza economica più stretta",
+      "eventKey": "ue-canada-von-der-leyen-alleanza-futuro-29-ottobre"
+    },
+    {
+      "id": "economia-bce-tassi-fermi-ottobre",
+      "category": "Economia",
+      "title": "Bce, tassi invariati al 2,50% sui depositi",
+      "eventKey": "bce-tassi-fermi-29-ottobre-2026"
+    },
+    {
+      "id": "economia-risparmi-bunq-italiani",
+      "category": "Economia",
+      "title": "Risparmi delle famiglie, il 73% degli intervistati ha attinto alle riserve",
+      "eventKey": "indagine-bunq-risparmi-italiani-29-ottobre-2026"
+    },
+    {
+      "id": "economia-energia-ue-riscaldamento",
+      "category": "Economia",
+      "title": "Energia, la Commissione Ue teme difficoltà di riscaldamento per 50 milioni di persone",
+      "eventKey": "commissione-ue-rischio-riscaldamento-50-milioni-29-ottobre-2026"
+    },
+    {
+      "id": "economia-greenpeace-extraprofitti-petrolio",
+      "category": "Economia",
+      "title": "Petrolio, Greenpeace stima 36 miliardi di extraprofitti nell'Ue",
+      "eventKey": "greenpeace-stima-extraprofitti-petrolio-ue-29-ottobre-2026"
+    },
+    {
+      "id": "economia-fed-tassi-ottobre",
+      "category": "Economia",
+      "title": "Fed, tassi Usa confermati fra 3,75% e 4%",
+      "eventKey": "fed-tassi-fermi-28-ottobre-2026"
+    },
+    {
+      "id": "cronaca-ultras-puteolana-portici",
+      "category": "Cronaca",
+      "title": "Scontri tra ultras, contestato il tentato omicidio a otto arrestati",
+      "eventKey": "ultras-puteolana-portici-tentato-omicidio-29-ottobre-2026"
+    },
+    {
+      "id": "cronaca-ex-ilva-cassazione",
+      "category": "Cronaca",
+      "title": "Ex Ilva, la Cassazione conferma la fermata dell'area a caldo",
+      "eventKey": "ex-ilva-cassazione-area-caldo-fermata-29-ottobre-2026"
+    },
+    {
+      "id": "cronaca-verona-infermiere-arrestato",
+      "category": "Cronaca",
+      "title": "Verona, arrestato infermiere accusato di aver ucciso la moglie",
+      "eventKey": "verona-arresto-infermiere-morte-moglie-29-ottobre-2026"
+    },
+    {
+      "id": "cronaca-milano-arresto-terrorismo",
+      "category": "Cronaca",
+      "title": "Milano, arrestato 22enne indagato per preparazione di attentati",
+      "eventKey": "milano-arresto-22enne-progetti-attentati-29-ottobre-2026"
+    },
+    {
+      "id": "cronaca-etna-allerta-rossa",
+      "category": "Cronaca",
+      "title": "Etna, cenere vulcanica: limitati gli arrivi a Catania",
+      "eventKey": "etna-cenere-allerta-rossa-aeroporto-catania-29-ottobre-2026"
+    },
+    {
+      "id": "roma-sinagoga-aggressione-antisemita-misure-29-ottobre",
+      "category": "Roma",
+      "title": "Aggressione antisemita a Roma, due misure cautelari",
+      "eventKey": "roma-sinagoga-aggressione-antisemita-misure-29-ottobre"
+    },
+    {
+      "id": "roma-finanza-sequestro-cinque-milioni-prodotti-29-ottobre",
+      "category": "Roma",
+      "title": "Roma, sequestrati oltre cinque milioni di prodotti non conformi",
+      "eventKey": "roma-finanza-sequestro-cinque-milioni-prodotti-29-ottobre"
+    },
+    {
+      "id": "roma-colle-oppio-retake-370-kg-rifiuti-29-ottobre",
+      "category": "Roma",
+      "title": "Colle Oppio, volontari rimuovono 370 chili di rifiuti",
+      "eventKey": "roma-colle-oppio-retake-370-kg-rifiuti-29-ottobre"
+    },
+    {
+      "id": "roma-monti-furto-diciannove-vinili-29-ottobre",
+      "category": "Roma",
+      "title": "Monti, recuperati 19 vinili rubati in un negozio",
+      "eventKey": "roma-monti-furto-diciannove-vinili-29-ottobre"
+    },
+    {
+      "id": "roma-sapienza-lettere-occupazione-28-ottobre",
+      "category": "Roma",
+      "title": "Collettivi occupano Lettere alla Sapienza dopo un'assemblea",
+      "eventKey": "sapienza-lettere-occupazione-28-ottobre"
+    },
+    {
+      "id": "cultura-palladium-centenario-29-ottobre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Il Palladium celebra un secolo con tre appuntamenti teatrali e musicali",
+      "eventKey": "palladium-centenario-29-ottobre-2026"
+    },
+    {
+      "id": "cultura-medfilm-festival-32a-edizione-28-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "MedFilm Festival, la 32ª edizione si apre con Danielle Arbid",
+      "eventKey": "medfilm-festival-32a-edizione-28-ottobre"
+    },
+    {
+      "id": "cultura-churchill-escaped-alone-teatro-india-28-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Caryl Churchill al Teatro India: quotidianità e visioni apocalittiche",
+      "eventKey": "churchill-escaped-alone-teatro-india-28-ottobre"
+    },
+    {
+      "id": "cultura-thin-line-museo-trastevere-29-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "«The Thin Line», fotografie sulle crisi umanitarie al Museo di Roma",
+      "eventKey": "cultura-thin-line-museo-trastevere-29-ottobre"
+    },
+    {
+      "id": "cultura-bob-dylan-john-cohen-foto-vinyl-room-29-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Bob Dylan giovane a New York, undici fotografie in mostra a Roma",
+      "eventKey": "cultura-bob-dylan-john-cohen-foto-vinyl-room-29-ottobre"
+    },
+    {
+      "id": "tecnologia-google-registered-app-store-android17-dicembre-2026",
+      "category": "Tecnologia · AI",
+      "title": "Android 17, Google apre la certificazione degli store alternativi",
+      "eventKey": "google-registered-app-store-android17-dicembre-2026"
+    },
+    {
+      "id": "tecnologia-windows11-kb5127936-menu-contestuale-personalizzabile",
+      "category": "Tecnologia · AI",
+      "title": "Windows 11 prova un menu contestuale più semplice e configurabile",
+      "eventKey": "windows11-kb5127936-menu-contestuale-personalizzabile"
+    },
+    {
+      "id": "tecnologia-anthropic-claude-red-team-exploit-browser-sistemi-2026",
+      "category": "Tecnologia · AI",
+      "title": "Claude sperimentale trova catene di vulnerabilità in browser e sistemi",
+      "eventKey": "anthropic-claude-red-team-exploit-browser-sistemi-2026"
+    },
+    {
+      "id": "tecnologia-epic-games-uso-ia-sviluppo-unreal-engine-2026",
+      "category": "Tecnologia · AI",
+      "title": "Epic Games amplia l'uso dell'IA nello sviluppo di Unreal Engine",
+      "eventKey": "epic-games-uso-ia-sviluppo-unreal-engine-2026"
+    },
+    {
+      "id": "tecnologia-alien-isolation-2-conferma-edizione-fisica-2026",
+      "category": "Tecnologia · AI",
+      "title": "Alien Isolation 2 avrà un'edizione fisica, conferma Creative Assembly",
+      "eventKey": "alien-isolation-2-conferma-edizione-fisica-2026"
+    },
+    {
+      "id": "sport-juventus-ritiro-anticipato-napoli-29-ottobre",
+      "category": "Sport",
+      "title": "Juventus, ritiro anticipato prima della sfida con il Napoli",
+      "eventKey": "juventus-ritiro-anticipato-napoli-29-ottobre"
+    },
+    {
+      "id": "sport-napoli-lobotka-lesione-caviglia-stop-29-ottobre",
+      "category": "Sport",
+      "title": "Napoli, gli esami fermano Lobotka per circa sei settimane",
+      "eventKey": "napoli-lobotka-lesione-caviglia-stop-29-ottobre"
+    },
+    {
+      "id": "sport-milan-pulisic-rinnovo-contratto-2031-29-ottobre",
+      "category": "Sport",
+      "title": "Milan, Pulisic firma il rinnovo fino al 2031",
+      "eventKey": "milan-pulisic-rinnovo-contratto-2031-29-ottobre"
+    },
+    {
+      "id": "sport-f1-messico-pirelli-mescole-c3-c4-c5-29-ottobre",
+      "category": "Sport",
+      "title": "F1 in Messico, Pirelli sceglie le tre mescole più morbide",
+      "eventKey": "f1-messico-pirelli-mescole-c3-c4-c5-29-ottobre"
+    },
+    {
+      "id": "sport-tennis-vienna-musetti-fery-ottavi-29-ottobre",
+      "category": "Sport",
+      "title": "Musetti affronta Fery negli ottavi del torneo di Vienna",
+      "eventKey": "tennis-vienna-musetti-fery-ottavi-29-ottobre"
+    },
+    {
+      "id": "politica-riforma-professioni-sanitarie-camera-28-ottobre",
+      "category": "Politica",
+      "title": "Professioni sanitarie, la riforma passa alla Camera e attende il Senato",
+      "eventKey": "riforma-professioni-sanitarie-camera-28-ottobre"
+    },
+    {
+      "id": "politica-salvini-precettazione-sciopero-30-ottobre",
+      "category": "Politica",
+      "title": "Sciopero del 30 ottobre, Salvini dispone la precettazione dei trasporti",
+      "eventKey": "salvini-precettazione-sciopero-30-ottobre"
+    },
+    {
+      "id": "politica-conte-primarie-campo-largo-apertura-candidati-27-ottobre",
+      "category": "Politica",
+      "title": "Centrosinistra, Conte chiede primarie rapide e aperte a più candidati",
+      "eventKey": "conte-primarie-campo-largo-apertura-candidati-27-ottobre"
+    },
+    {
+      "id": "politica-la-russa-querela-ponzani-valutazione-27-ottobre",
+      "category": "Politica",
+      "title": "La Russa valuta se ritirare la querela contro la storica Ponzani",
+      "eventKey": "la-russa-querela-ponzani-valutazione-27-ottobre"
+    },
+    {
+      "id": "politica-meloni-giornalista-stato-diritto-conferenza-28-ottobre",
+      "category": "Politica",
+      "title": "Meloni e una giornalista si confrontano sul significato dello Stato di diritto",
+      "eventKey": "meloni-giornalista-stato-diritto-conferenza-28-ottobre"
+    },
+    {
+      "id": "esteri-egitto-lina-attalah-liberata-multa-28-ottobre",
+      "category": "Esteri",
+      "title": "Egitto, libera la giornalista Lina Attalah dopo il pagamento di una multa",
+      "eventKey": "egitto-lina-attalah-liberata-multa-28-ottobre"
+    },
+    {
+      "id": "esteri-ucraina-oleshky-evacuazione-tregua-umanitaria-28-ottobre",
+      "category": "Esteri",
+      "title": "Oleshky, la tregua umanitaria apre alla preparazione delle evacuazioni",
+      "eventKey": "ucraina-oleshky-evacuazione-tregua-umanitaria-28-ottobre"
+    },
+    {
+      "id": "esteri-usa-vance-peltola-alaska-indagine-29-ottobre",
+      "category": "Esteri",
+      "title": "Midterm Usa, Vance sollecita verifiche sulla candidata democratica in Alaska",
+      "eventKey": "usa-vance-peltola-alaska-indagine-29-ottobre"
+    },
+    {
+      "id": "esteri-ue-resilienza-clima-piani-nazionali-28-ottobre",
+      "category": "Esteri",
+      "title": "Clima, Bruxelles chiede piani nazionali di adattamento al riscaldamento",
+      "eventKey": "ue-resilienza-clima-piani-nazionali-28-ottobre"
+    },
+    {
+      "id": "esteri-israele-arresti-corruzione-elettorale-indagine-29-ottobre",
+      "category": "Esteri",
+      "title": "Israele, arresti e indagini su presunti pagamenti legati al voto",
+      "eventKey": "israele-arresti-corruzione-elettorale-indagine-29-ottobre"
+    },
+    {
+      "id": "economia-lagarde-dimissioni",
+      "category": "Economia",
+      "title": "Christine Lagarde annuncia l'uscita dalla presidenza della Bce",
+      "eventKey": "lagarde-annuncia-dimissioni-bce-29-ottobre-2026"
+    },
+    {
+      "id": "economia-volkswagen-perdita-terzo-trimestre",
+      "category": "Economia",
+      "title": "Volkswagen chiude il terzo trimestre con 5,82 miliardi di perdita",
+      "eventKey": "volkswagen-perdita-terzo-trimestre-2026"
+    },
+    {
+      "id": "economia-interbrand-classifica-marchi",
+      "category": "Economia",
+      "title": "Interbrand 2026, Apple resta prima fra i marchi globali",
+      "eventKey": "interbrand-best-global-brands-2026-28-ottobre"
+    },
+    {
+      "id": "economia-bollette-prescrizione-biennale",
+      "category": "Economia",
+      "title": "Bollette arretrate, una sentenza chiarisce la prescrizione biennale",
+      "eventKey": "tribunale-bologna-prescrizione-bollette-2026"
+    },
+    {
+      "id": "economia-intesa-autorizzazioni-mps",
+      "category": "Economia",
+      "title": "Intesa Sanpaolo annuncia il via libera regolamentare all'Opas su Mps",
+      "eventKey": "intesa-autorizzazioni-opas-mps-28-ottobre-2026"
+    },
+    {
+      "id": "cronaca-sub-ceneri-sardegna",
+      "category": "Cronaca",
+      "title": "Sub morte alle Maldive, le ceneri di madre e figlia disperse in Sardegna",
+      "eventKey": "sub-maldive-ceneri-madre-figlia-sardegna-28-ottobre-2026"
+    },
+    {
+      "id": "cronaca-sciopero-treni-revocato",
+      "category": "Cronaca",
+      "title": "Sciopero del 30 ottobre, revocato lo stop ferroviario annunciato",
+      "eventKey": "sciopero-treni-revoca-30-ottobre-2026"
+    },
+    {
+      "id": "cronaca-longiano-confessione",
+      "category": "Cronaca",
+      "title": "Longiano, fermato un 29enne per il corpo trovato nel pozzo",
+      "eventKey": "longiano-fermato-confessione-omicidio-29-ottobre-2026"
+    },
+    {
+      "id": "cronaca-ragusa-minorenne-propaganda",
+      "category": "Cronaca",
+      "title": "Ragusa, minorenne collocata in comunità nell'indagine sulla propaganda jihadista",
+      "eventKey": "ragusa-minorenne-propaganda-jihad-comunita-29-ottobre-2026"
+    },
+    {
+      "id": "cronaca-reggio-cugino-eredita",
+      "category": "Cronaca",
+      "title": "Reggio Emilia, indagato per la morte del cugino con difficoltà di deglutizione",
+      "eventKey": "reggio-emilia-cugino-disabile-omicidio-eredita-29-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-apple-mac-studio-m5-ultra-512gb-prezzo-25179",
+      "category": "Tecnologia · AI",
+      "title": "Mac Studio con 512 GB di RAM: configurazione da oltre 25.000 euro",
+      "eventKey": "apple-mac-studio-m5-ultra-512gb-prezzo-25179"
+    },
+    {
+      "id": "tecnologia-libreoffice-26-8-2-risolti-35-bug",
+      "category": "Tecnologia · AI",
+      "title": "LibreOffice 26.8.2 corregge circa 35 problemi",
+      "eventKey": "libreoffice-26-8-2-risolti-35-bug"
+    },
+    {
+      "id": "tecnologia-new-york-legge-chatbot-ai-minori-18-2026",
+      "category": "Tecnologia · AI",
+      "title": "New York limita i chatbot che simulano relazioni con i minorenni",
+      "eventKey": "new-york-legge-chatbot-ai-minori-18-2026"
+    },
+    {
+      "id": "tecnologia-gta6-edge-intervista-meteo-dinamico-mappa-29-ottobre",
+      "category": "Tecnologia · AI",
+      "title": "GTA VI, nuovi dettagli sul mondo aperto da un'intervista a Rockstar",
+      "eventKey": "gta6-edge-intervista-meteo-dinamico-mappa-29-ottobre"
+    },
+    {
+      "id": "tecnologia-demons-souls-emulazione-ps5-pc-dlss5-video-29-ottobre",
+      "category": "Tecnologia · AI",
+      "title": "Demon's Souls Remake mostrato su PC tramite emulazione e DLSS 5",
+      "eventKey": "demons-souls-emulazione-ps5-pc-dlss5-video-29-ottobre"
+    },
+    {
+      "id": "sport-milan-recupera-rabiot-gila-moreira-derby-29-ottobre",
+      "category": "Sport",
+      "title": "Milan, tre rientri in allenamento in vista del derby con l'Inter",
+      "eventKey": "milan-recupera-rabiot-gila-moreira-derby-29-ottobre"
+    },
+    {
+      "id": "sport-frosinone-lecce-29-ottobre-probabili-formazioni",
+      "category": "Sport",
+      "title": "Frosinone-Lecce, le scelte prima del turno infrasettimanale",
+      "eventKey": "frosinone-lecce-29-ottobre-probabili-formazioni"
+    },
+    {
+      "id": "sport-inter-milan-nuovo-stadio-presentazione-29-ottobre",
+      "category": "Sport",
+      "title": "Inter e Milan, il progetto del nuovo stadio al centro della presentazione",
+      "eventKey": "inter-milan-nuovo-stadio-presentazione-29-ottobre"
+    },
+    {
+      "id": "sport-motogp-jorge-martin-idoneo-prove-sepang-29-ottobre",
+      "category": "Sport",
+      "title": "MotoGP, Jorge Martín autorizzato a provare a Sepang",
+      "eventKey": "motogp-jorge-martin-idoneo-prove-sepang-29-ottobre"
+    },
+    {
+      "id": "sport-mclaren-livrea-fan-gp-messico-2026",
+      "category": "Sport",
+      "title": "McLaren porta in Messico una livrea creata con i tifosi",
+      "eventKey": "mclaren-livrea-fan-gp-messico-2026"
     }
   ],
-  "stories": [],
-  "needsPublication": false
+  "collectionId": "2026-10-29-pomeriggio",
+  "reserveCounts": {
+    "Politica": 5,
+    "Esteri": 5,
+    "Economia": 5,
+    "Cronaca": 5,
+    "Roma": 0,
+    "Cultura · Teatro · Cinema": 0,
+    "Tecnologia · AI": 5,
+    "Sport": 5
+  },
+  "photoCandidates": [
+    {
+      "id": "politica-manovra-2027-cdm-26-miliardi-28-ottobre",
+      "category": "Politica",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Chigi_Roma_giugno_2024.jpg"
+    },
+    {
+      "id": "economia-fed-tassi-ottobre",
+      "category": "Economia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Federal_Reserve.jpg"
+    },
+    {
+      "id": "cronaca-milano-arresto-terrorismo",
+      "category": "Cronaca",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_159_Carabinieri.jpg"
+    },
+    {
+      "id": "roma-sapienza-lettere-occupazione-28-ottobre",
+      "category": "Roma",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sapienzia_Roma.jpg"
+    },
+    {
+      "id": "cultura-palladium-centenario-29-ottobre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roma_Garbatella_teatro_Palladium.jpg"
+    }
+  ],
+  "photosAvailable": 5,
+  "categoryProgress": {
+    "politica": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "esteri": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "economia": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "cronaca": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "roma": {
+      "base": 5,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "cultura": {
+      "base": 5,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "tecnologia": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "sport": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    }
+  },
+  "editionId": "2026-10-29-batches-ff02fef56a93",
+  "needsPublication": true
 }
