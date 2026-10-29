@@ -111,4 +111,4 @@ Richiesta Fabio: spostato nella toolbar sticky delle categorie, rimosso il dupli
 
 ## Saluto per edizione — 29 ottobre
 - Richiesta Fabio: nella pomeridiana mostrare «Buonasera, Fabio.»; mattutina «Buongiorno, Fabio.». Il saluto dipende da collectionId, non dall'ora in cui si apre la PWA. Per edizioni precedenti prive di ciclo usa generatedAt in Europe/Rome.
-- Modifica mirata al titolo Tutte; categorie e resto della UI invariati. Cache PWA v13 per distribuire il nuovo app.js. Sintassi JS e casi mattina/pomeriggio/legacy verificati; pubblicazione e controllo pubblico da completare.
+- Modifica mirata al titolo Tutte; categorie e resto della UI invariati. Cache PWA v13 per distribuire il nuovo app.js. Sintassi JS e casi mattina/pomeriggio/legacy verificati; pubblicazione run40839428160 SUCCESS, commit400df564aca515212aeb07337f301c752cec74bd. Browser pubblico serve app.js?v=13; saluto mattutino presente e logica Buonasera pomeridiana verificata nel codice pubblico.
