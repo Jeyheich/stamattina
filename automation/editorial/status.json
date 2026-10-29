@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-29",
-  "checkedAt": "2026-10-29T05:06:36.401Z",
+  "checkedAt": "2026-10-29T05:19:56.642Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,12 +13,12 @@
   ],
   "completed": [
     "politica",
-    "esteri"
+    "esteri",
+    "economia",
+    "cronaca"
   ],
   "inProgress": [],
   "missing": [
-    "economia",
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -85,6 +85,66 @@
       "category": "Esteri",
       "title": "Messico, morto Cuauhtémoc Cárdenas, figura della transizione democratica",
       "eventKey": "morte-cuauhtemoc-cardenas-sinistra-messicana-28-ottobre-2026"
+    },
+    {
+      "id": "economia-fed-tassi-fermi",
+      "category": "Economia",
+      "title": "La Fed lascia i tassi invariati tra 3,75% e 4%",
+      "eventKey": "fed-tassi-fermi-28-ottobre-2026"
+    },
+    {
+      "id": "economia-intesa-autorizzazioni-opas-mps",
+      "category": "Economia",
+      "title": "Intesa ottiene le ultime autorizzazioni preventive per l'Opas su Mps",
+      "eventKey": "intesa-autorizzazioni-opas-mps-28-ottobre-2026"
+    },
+    {
+      "id": "economia-diesel-taglio-accise-fino-7-novembre",
+      "category": "Economia",
+      "title": "Gasolio, taglio temporaneo delle accise fino al 7 novembre",
+      "eventKey": "diesel-taglio-accise-fino-7-novembre-28-ottobre-2026"
+    },
+    {
+      "id": "economia-padoan-lascia-presidenza-unicredit-fine-mandato",
+      "category": "Economia",
+      "title": "UniCredit prepara la successione a Padoan",
+      "eventKey": "padoan-lascia-presidenza-unicredit-fine-mandato-28-ottobre-2026"
+    },
+    {
+      "id": "economia-inps-calendario-pagamenti-novembre",
+      "category": "Economia",
+      "title": "Inps, pubblicato il calendario degli accrediti di novembre",
+      "eventKey": "inps-calendario-pagamenti-novembre-2026-28-ottobre"
+    },
+    {
+      "id": "cronaca-longiano-cadavere-pozzo-indagine-omicidio",
+      "category": "Cronaca",
+      "title": "Longiano, trovato un corpo in un pozzo: indagine per omicidio",
+      "eventKey": "longiano-cadavere-pozzo-indagine-omicidio-28-ottobre-2026"
+    },
+    {
+      "id": "cronaca-trevigiano-monossido-due-famiglie-intossicate",
+      "category": "Cronaca",
+      "title": "Monossido nel Trevigiano, soccorse dieci persone",
+      "eventKey": "trevigiano-monossido-due-famiglie-intossicate-28-ottobre-2026"
+    },
+    {
+      "id": "cronaca-torino-docente-aggredito-studente-carlo-grassi",
+      "category": "Cronaca",
+      "title": "Torino, docente aggredito da uno studente in istituto superiore",
+      "eventKey": "torino-docente-aggredito-studente-carlo-grassi-28-ottobre-2026"
+    },
+    {
+      "id": "cronaca-mestre-strage-bus-sette-patteggiamenti",
+      "category": "Cronaca",
+      "title": "Strage del bus di Mestre, sette patteggiamenti",
+      "eventKey": "mestre-strage-bus-sette-patteggiamenti-28-ottobre-2026"
+    },
+    {
+      "id": "cronaca-reggio-emilia-voragine-auto-illeso",
+      "category": "Cronaca",
+      "title": "Reggio Emilia, voragine in strada coinvolge un'automobile",
+      "eventKey": "reggio-emilia-voragine-auto-illeso-28-ottobre-2026"
     },
     {
       "id": "politica-finanziamenti-forza-italia",
@@ -158,8 +218,19 @@
     "Tecnologia · AI": 0,
     "Sport": 0
   },
-  "photoCandidates": [],
-  "photosAvailable": 0,
+  "photoCandidates": [
+    {
+      "id": "economia-fed-tassi-fermi",
+      "category": "Economia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Federal_Reserve.jpg"
+    },
+    {
+      "id": "cronaca-longiano-cadavere-pozzo-indagine-omicidio",
+      "category": "Cronaca",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_159_Carabinieri.jpg"
+    }
+  ],
+  "photosAvailable": 2,
   "categoryProgress": {
     "politica": {
       "base": 5,
@@ -174,13 +245,13 @@
       "complete": true
     },
     "economia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cronaca": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
