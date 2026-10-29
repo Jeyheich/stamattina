@@ -1,13 +1,11 @@
 {
   "editionDate": "2026-10-29",
-  "checkedAt": "2026-10-29T06:11:33.806Z",
+  "checkedAt": "2026-10-29T06:11:50.630Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
     "roma",
-    "cultura",
-    "tecnologia",
-    "sport"
+    "cultura"
   ],
   "completed": [
     "politica",
@@ -323,6 +321,66 @@
       "category": "Cronaca",
       "title": "David Rossi, la procura antimafia di Firenze indaga per omicidio",
       "eventKey": "david-rossi-firenze-antimafia-indaga-omicidio-28-ottobre"
+    },
+    {
+      "id": "tecnologia-meta-waddle-world-tamagotchi-ai-filippine-28-ottobre",
+      "category": "Tecnologia · AI",
+      "title": "Meta prova Waddle World, un animaletto virtuale con intelligenza artificiale",
+      "eventKey": "meta-waddle-world-tamagotchi-ai-filippine-28-ottobre"
+    },
+    {
+      "id": "tecnologia-firefox-smart-window-fill-watch-beta-28-ottobre",
+      "category": "Tecnologia · AI",
+      "title": "Firefox Smart Window aggiunge compilazione assistita e monitoraggio delle pagine",
+      "eventKey": "firefox-smart-window-fill-watch-beta-28-ottobre"
+    },
+    {
+      "id": "tecnologia-microsoft-copilot-smart-tv-supporto-fine-2026",
+      "category": "Tecnologia · AI",
+      "title": "Microsoft prepara l'uscita di Copilot dalle smart TV",
+      "eventKey": "microsoft-copilot-smart-tv-supporto-fine-2026"
+    },
+    {
+      "id": "tecnologia-call-of-duty-modern-warfare-4-stagione-1-6-novembre",
+      "category": "Tecnologia · AI",
+      "title": "Modern Warfare 4 annuncia la prima stagione per il 6 novembre",
+      "eventKey": "call-of-duty-modern-warfare-4-stagione-1-6-novembre"
+    },
+    {
+      "id": "tecnologia-mass-effect-community-n7-day-flashmob-7-novembre",
+      "category": "Tecnologia · AI",
+      "title": "I fan di Mass Effect organizzano un'iniziativa per l'N7 Day",
+      "eventKey": "mass-effect-community-n7-day-flashmob-7-novembre"
+    },
+    {
+      "id": "sport-venezia-inter-0-2-doppia-autorete-28-ottobre",
+      "category": "Sport",
+      "title": "Inter vittoriosa a Venezia grazie a due autoreti nel finale",
+      "eventKey": "venezia-inter-0-2-doppia-autorete-28-ottobre"
+    },
+    {
+      "id": "sport-figc-calciatori-allenatori-galliani-candidatura-28-ottobre",
+      "category": "Sport",
+      "title": "FIGC, si profila una candidatura Galliani sostenuta da calciatori e allenatori",
+      "eventKey": "figc-calciatori-allenatori-galliani-candidatura-28-ottobre"
+    },
+    {
+      "id": "sport-inter-milan-presentazione-nuovo-stadio-29-ottobre",
+      "category": "Sport",
+      "title": "Milan e Inter presentano il progetto del nuovo stadio il 29 ottobre",
+      "eventKey": "inter-milan-presentazione-nuovo-stadio-29-ottobre"
+    },
+    {
+      "id": "sport-sergio-perez-cadillac-rinnovo-2029-28-ottobre",
+      "category": "Sport",
+      "title": "Cadillac prolunga il contratto di Sergio Pérez fino al 2029",
+      "eventKey": "sergio-perez-cadillac-rinnovo-2029-28-ottobre"
+    },
+    {
+      "id": "sport-cobolli-berrettini-primo-derby-vienna-29-ottobre",
+      "category": "Sport",
+      "title": "Cobolli e Berrettini si affrontano per la prima volta a Vienna",
+      "eventKey": "cobolli-berrettini-primo-derby-vienna-29-ottobre"
     }
   ],
   "collectionId": "2026-10-29-mattina",
@@ -333,8 +391,8 @@
     "Cronaca": 5,
     "Roma": 0,
     "Cultura · Teatro · Cinema": 0,
-    "Tecnologia · AI": 0,
-    "Sport": 0
+    "Tecnologia · AI": 5,
+    "Sport": 5
   },
   "photoCandidates": [
     {
@@ -388,15 +446,15 @@
     },
     "tecnologia": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "sport": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     }
   },
   "needsPublication": false
