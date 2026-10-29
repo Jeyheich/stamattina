@@ -112,3 +112,8 @@ Richiesta Fabio: spostato nella toolbar sticky delle categorie, rimosso il dupli
 ## Saluto per edizione — 29 ottobre
 - Richiesta Fabio: nella pomeridiana mostrare «Buonasera, Fabio.»; mattutina «Buongiorno, Fabio.». Il saluto dipende da collectionId, non dall'ora in cui si apre la PWA. Per edizioni precedenti prive di ciclo usa generatedAt in Europe/Rome.
 - Modifica mirata al titolo Tutte; categorie e resto della UI invariati. Cache PWA v13 per distribuire il nuovo app.js. Sintassi JS e casi mattina/pomeriggio/legacy verificati; pubblicazione run40839428160 SUCCESS, commit400df564aca515212aeb07337f301c752cec74bd. Browser pubblico serve app.js?v=13; saluto mattutino presente e logica Buonasera pomeridiana verificata nel codice pubblico.
+
+## Link personale Manuela
+- Autorizzato da Fabio: https://jeyheich.github.io/stamattina/?per=manuela mostra Manuela nel saluto; URL standard resta Fabio. Parametro con due nomi ammessi, nessuna identificazione del dispositivo o nome immesso dall'utente.
+- Saluto mattina/sera continua a dipendere dall'edizione. Link del logo conserva il profilo; manifest personale con start_url e id ./?per=manuela per l'avvio Home. Nessun nuovo account, servizio o cambio alle attività/contenuti. Cache PWA v14.
+- Sintassi e casi Fabio/Manuela mattina/sera, parametro sconosciuto e manifest verificati; verifica pubblica in corso.
