@@ -1,10 +1,9 @@
 {
   "editionDate": "2026-10-29",
-  "checkedAt": "2026-10-29T05:06:10.036Z",
+  "checkedAt": "2026-10-29T05:06:36.401Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
-    "esteri",
     "economia",
     "cronaca",
     "roma",
@@ -13,7 +12,8 @@
     "sport"
   ],
   "completed": [
-    "politica"
+    "politica",
+    "esteri"
   ],
   "inProgress": [],
   "missing": [
@@ -24,12 +24,7 @@
     "tecnologia",
     "sport"
   ],
-  "invalid": [
-    {
-      "slug": "esteri",
-      "reason": "Il blocco completo deve contenere 5 notizie distinte"
-    }
-  ],
+  "invalid": [],
   "stories": [
     {
       "id": "politica-manovra-cdm-26-miliardi",
@@ -62,6 +57,36 @@
       "eventKey": "acquaroli-inchiesta-sisma-dichiarazioni-muccia-28-ottobre-2026"
     },
     {
+      "id": "esteri-arabia-missile-houthi",
+      "category": "Esteri",
+      "title": "Arabia Saudita, intercettato un missile attribuito agli Houthi",
+      "eventKey": "arabia-saudita-intercetta-missile-houthi-29-ottobre-2026"
+    },
+    {
+      "id": "esteri-haiti-truppe-salvador",
+      "category": "Esteri",
+      "title": "Haiti, El Salvador invia militari per rafforzare la missione di sicurezza",
+      "eventKey": "haiti-schieramento-1300-militari-el-salvador-29-ottobre-2026"
+    },
+    {
+      "id": "esteri-obama-midterm-georgia",
+      "category": "Esteri",
+      "title": "Midterm statunitensi, Obama attacca Trump durante un comizio in Georgia",
+      "eventKey": "obama-comizio-georgia-critiche-trump-midterm-29-ottobre-2026"
+    },
+    {
+      "id": "esteri-messico-sheinbaum-lepen",
+      "category": "Esteri",
+      "title": "Sheinbaum respinge il paragone di Le Pen tra Francia e narcotraffico messicano",
+      "eventKey": "sheinbaum-replica-lepen-messicanizzazione-29-ottobre-2026"
+    },
+    {
+      "id": "esteri-cardenas-morte-messico",
+      "category": "Esteri",
+      "title": "Messico, morto Cuauhtémoc Cárdenas, figura della transizione democratica",
+      "eventKey": "morte-cuauhtemoc-cardenas-sinistra-messicana-28-ottobre-2026"
+    },
+    {
       "id": "politica-finanziamenti-forza-italia",
       "category": "Politica",
       "title": "Forza Italia pubblica i contributi: 100mila euro da Tronchetti Provera",
@@ -90,12 +115,42 @@
       "category": "Politica",
       "title": "Corte costituzionale, Francesco Viganò eletto prossimo presidente",
       "eventKey": "consulta-elegge-francesco-vigano-presidente-28-ottobre-2026"
+    },
+    {
+      "id": "esteri-israele-elezioni-herzog",
+      "category": "Esteri",
+      "title": "Israele, nessuna maggioranza chiara: Herzog valuta consultazioni per un governo di unità",
+      "eventKey": "israele-elezioni-2026-herzog-consultazioni-netanyahu-eisenkot"
+    },
+    {
+      "id": "esteri-spagna-treni-atocha",
+      "category": "Esteri",
+      "title": "Scontro ferroviario in Spagna, esaminate le comunicazioni con il controllo di Atocha",
+      "eventKey": "spagna-scontro-treni-toledo-audio-controllo-atocha-28-ottobre-2026"
+    },
+    {
+      "id": "esteri-vance-iran-contatti",
+      "category": "Esteri",
+      "title": "Iran, il Wall Street Journal riferisce di una lettera di Vance per riaprire i colloqui",
+      "eventKey": "vance-lettera-rezaei-iran-negoziati-wsj-28-ottobre-2026"
+    },
+    {
+      "id": "esteri-venezuela-oro-londra",
+      "category": "Esteri",
+      "title": "Venezuela, Rodríguez chiede il recupero delle riserve auree bloccate a Londra",
+      "eventKey": "venezuela-rodriguez-richiesta-oro-banca-inghilterra-29-ottobre-2026"
+    },
+    {
+      "id": "esteri-messico-export-2026",
+      "category": "Esteri",
+      "title": "Messico, esportazioni in aumento del 30,4% nei primi nove mesi del 2026",
+      "eventKey": "messico-export-primi-nove-mesi-2026-crescita-304-percento"
     }
   ],
   "collectionId": "2026-10-29-mattina",
   "reserveCounts": {
     "Politica": 5,
-    "Esteri": 0,
+    "Esteri": 5,
     "Economia": 0,
     "Cronaca": 0,
     "Roma": 0,
@@ -113,10 +168,10 @@
       "complete": true
     },
     "esteri": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "economia": {
       "base": 0,
