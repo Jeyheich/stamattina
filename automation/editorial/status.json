@@ -1,11 +1,9 @@
 {
   "editionDate": "2026-10-29",
-  "checkedAt": "2026-10-29T05:20:11.001Z",
+  "checkedAt": "2026-10-29T05:20:33.864Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
-    "economia",
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -205,14 +203,74 @@
       "category": "Esteri",
       "title": "Messico, esportazioni in aumento del 30,4% nei primi nove mesi del 2026",
       "eventKey": "messico-export-primi-nove-mesi-2026-crescita-304-percento"
+    },
+    {
+      "id": "economia-ravvedimento-speciale-concordato-regole",
+      "category": "Economia",
+      "title": "Ravvedimento speciale, le condizioni per chi rinnova il concordato",
+      "eventKey": "ravvedimento-speciale-concordato-2026-regole-28-ottobre"
+    },
+    {
+      "id": "economia-mutui-variabile-cap-misto-richieste-settembre",
+      "category": "Economia",
+      "title": "Mutui, crescono le richieste di variabile con tetto e tasso misto",
+      "eventKey": "mutui-2026-variabile-cap-misto-richieste-settembre"
+    },
+    {
+      "id": "economia-credito-gasolio-autotrasportatori-codice-7082-26-ottobre",
+      "category": "Economia",
+      "title": "Autotrasporto, codice 7082 per compensare il credito sul gasolio",
+      "eventKey": "credito-gasolio-autotrasportatori-codice-7082-26-ottobre"
+    },
+    {
+      "id": "economia-inps-arianna-assistente-generativa-400-prestazioni-27-ottobre",
+      "category": "Economia",
+      "title": "Inps, Arianna orienta i cittadini su oltre 400 prestazioni",
+      "eventKey": "inps-arianna-assistente-generativa-400-prestazioni-27-ottobre"
+    },
+    {
+      "id": "economia-gas-europeo-rincari-golfo-riserve-germania-27-ottobre",
+      "category": "Economia",
+      "title": "Gas europeo vicino ai 100 euro: pesano tensioni e scorte",
+      "eventKey": "gas-europeo-rincari-golfo-riserve-germania-27-ottobre"
+    },
+    {
+      "id": "cronaca-milano-niguarda-test-droni-trasporto-farmaci",
+      "category": "Cronaca",
+      "title": "Niguarda sperimenta i droni per farmaci e provette urgenti",
+      "eventKey": "milano-niguarda-test-droni-trasporto-farmaci-28-ottobre"
+    },
+    {
+      "id": "cronaca-milano-docente-inglese-licenziamento-tribunale",
+      "category": "Cronaca",
+      "title": "Milano, confermato il licenziamento di una docente di inglese",
+      "eventKey": "milano-docente-inglese-licenziamento-tribunale-28-ottobre"
+    },
+    {
+      "id": "cronaca-processo-hydra-vestiti-collabora-giustizia",
+      "category": "Cronaca",
+      "title": "Processo Hydra, Giancarlo Vestiti sceglie di collaborare",
+      "eventKey": "processo-hydra-vestiti-collabora-giustizia-28-ottobre"
+    },
+    {
+      "id": "cronaca-bologna-morte-fakir-nuova-denuncia-bodycam",
+      "category": "Cronaca",
+      "title": "Morte di Fakir, i familiari presentano una nuova denuncia",
+      "eventKey": "bologna-morte-fakir-nuova-denuncia-bodycam-28-ottobre"
+    },
+    {
+      "id": "cronaca-david-rossi-firenze-antimafia-indaga-omicidio",
+      "category": "Cronaca",
+      "title": "David Rossi, la procura antimafia di Firenze indaga per omicidio",
+      "eventKey": "david-rossi-firenze-antimafia-indaga-omicidio-28-ottobre"
     }
   ],
   "collectionId": "2026-10-29-mattina",
   "reserveCounts": {
     "Politica": 5,
     "Esteri": 5,
-    "Economia": 0,
-    "Cronaca": 0,
+    "Economia": 5,
+    "Cronaca": 5,
     "Roma": 0,
     "Cultura · Teatro · Cinema": 0,
     "Tecnologia · AI": 0,
@@ -246,15 +304,15 @@
     },
     "economia": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "cronaca": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "roma": {
       "base": 0,
