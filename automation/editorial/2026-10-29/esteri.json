@@ -117,5 +117,116 @@
       }
     }
   ],
-  "reserveArticles": []
+  "reserveArticles": [
+    {
+      "id": "esteri-israele-elezioni-herzog",
+      "eventKey": "israele-elezioni-2026-herzog-consultazioni-netanyahu-eisenkot",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Israele, nessuna maggioranza chiara: Herzog valuta consultazioni per un governo di unità",
+      "summary": "Dopo il voto, il blocco di Netanyahu ottiene 53 seggi e quello di Eisenkot 48; i partiti arabi potrebbero diventare decisivi.",
+      "body": [
+        "Lo scrutinio delle elezioni israeliane del 28 ottobre assegna 53 seggi al blocco di Benjamin Netanyahu e 48 allo schieramento di Gadi Eisenkot, senza una maggioranza parlamentare automatica.",
+        "Secondo i media israeliani, il presidente Isaac Herzog intende incontrare separatamente i due leader per esplorare un possibile governo di unità. Le accuse di brogli lanciate dal Likud restano contestazioni del partito, non fatti accertati."
+      ],
+      "publishedAt": "2026-10-28T20:29:00+01:00",
+      "verifiedAt": "2026-10-29T05:06:20.492Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/28/israele-i-media-herzog-vedra-netanyahu-e-eisenkot-per-testare-un-governo-di-unita_74766689-3c93-4a0a-8778-21bf55ce3a7c.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:06:20.492Z",
+        "dateEvidence": "ANSA, Tel Aviv, cronaca del 28 ottobre 2026 aggiornata alle 20:29; risultati e consultazioni in evoluzione.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-spagna-treni-atocha",
+      "eventKey": "spagna-scontro-treni-toledo-audio-controllo-atocha-28-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Scontro ferroviario in Spagna, esaminate le comunicazioni con il controllo di Atocha",
+      "summary": "Registrazioni diffuse da media spagnoli sollevano interrogativi sulle autorizzazioni a ripartire impartite prima della collisione.",
+      "body": [
+        "El País e la televisione pubblica spagnola hanno diffuso audio delle comunicazioni fra il centro di controllo ferroviario di Atocha e i macchinisti dei due convogli coinvolti nello scontro vicino a Urda, in provincia di Toledo.",
+        "Secondo la ricostruzione riportata, dopo problemi al sistema automatico Lzb sarebbero state date indicazioni di riprendere la marcia a velocità normale. L'eventuale responsabilità del centro di controllo richiede ancora accertamenti."
+      ],
+      "publishedAt": "2026-10-28T23:09:00+01:00",
+      "verifiedAt": "2026-10-29T05:06:20.492Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/scontro-treni-in-spagna-audio-puntano-il-dito-su-centro-controllo-di-atocha_1af21c04-6c84-42c5-86ad-2744246bb945.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:06:20.492Z",
+        "dateEvidence": "ANSA, 28 ottobre 2026 ore 23:09; audio attribuiti a El País e Tve, indagine non conclusa.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-vance-iran-contatti",
+      "eventKey": "vance-lettera-rezaei-iran-negoziati-wsj-28-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Iran, il Wall Street Journal riferisce di una lettera di Vance per riaprire i colloqui",
+      "summary": "Secondo il quotidiano statunitense, il vicepresidente avrebbe scritto a Mohsen Rezaei su indicazione di Trump.",
+      "body": [
+        "Il Wall Street Journal, citato da ANSA, riferisce che JD Vance avrebbe contattato per lettera Mohsen Rezaei, segretario del Consiglio supremo per la sicurezza nazionale iraniano.",
+        "L'iniziativa sarebbe stata promossa da Donald Trump per cercare di rilanciare il dialogo con Teheran. La notizia è una ricostruzione giornalistica e non la conferma di negoziati ripresi."
+      ],
+      "publishedAt": "2026-10-28T21:17:00+01:00",
+      "verifiedAt": "2026-10-29T05:06:20.492Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/vance-ha-scritto-a-esponente-linea-dura-delliran-per-riavviare-i-colloqui_d51d23df-2bb1-42d1-9453-5f0297fa327e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:06:20.492Z",
+        "dateEvidence": "ANSA, Washington, 28 ottobre 2026 ore 21:17; attribuzione esplicita al Wall Street Journal.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-venezuela-oro-londra",
+      "eventKey": "venezuela-rodriguez-richiesta-oro-banca-inghilterra-29-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Venezuela, Rodríguez chiede il recupero delle riserve auree bloccate a Londra",
+      "summary": "Caracas sollecita iniziative diplomatiche e giudiziarie per ottenere l'oro depositato presso la Banca d'Inghilterra.",
+      "body": [
+        "La presidente incaricata Delcy Rodríguez ha chiesto di avviare procedure per recuperare le riserve auree venezuelane custodite nel Regno Unito e bloccate da oltre sei anni.",
+        "La controversia risale al mancato riconoscimento britannico della rielezione di Nicolás Maduro nel 2018. La valutazione riportata per le riserve è di circa 1,9 miliardi di dollari nel 2023."
+      ],
+      "publishedAt": "2026-10-29T01:51:00+01:00",
+      "verifiedAt": "2026-10-29T05:06:20.492Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/29/delcy-rodriguez-basta-scuse-sia-recuperato-loro-bloccato-a-londra_a974b5e3-c72b-436a-aaf2-47dae4fd4604.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:06:20.492Z",
+        "dateEvidence": "ANSA, Caracas, 29 ottobre 2026 ore 01:51; richiesta della presidente incaricata e contesto della controversia.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-messico-export-2026",
+      "eventKey": "messico-export-primi-nove-mesi-2026-crescita-304-percento",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Messico, esportazioni in aumento del 30,4% nei primi nove mesi del 2026",
+      "summary": "I dati statistici citati dal governo indicano vendite estere per 627,2 miliardi di dollari, con gli Stati Uniti come principale mercato.",
+      "body": [
+        "Secondo l'Istituto nazionale di statistica e geografia del Messico, le esportazioni sono cresciute del 30,4% nei primi nove mesi del 2026, arrivando a 627,2 miliardi di dollari.",
+        "La quota destinata agli Stati Uniti è stimata intorno all'80%. Claudia Sheinbaum ha sottolineato l'integrazione economica fra i due Paesi, pur insistendo sul rispetto delle rispettive sovranità."
+      ],
+      "publishedAt": "2026-10-29T02:01:00+01:00",
+      "verifiedAt": "2026-10-29T05:06:20.492Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/29/messico-lexport-cresce-di-oltre-il-30-nei-primi-nove-mesi-del-2026_549c63f0-2430-4d00-b1b5-c810ac0a67d0.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:06:20.492Z",
+        "dateEvidence": "ANSA, Città del Messico, 29 ottobre 2026 ore 02:01; dati statistici primi nove mesi e confronto settembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
 }
