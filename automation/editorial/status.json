@@ -1,10 +1,9 @@
 {
-  "editionDate": "2026-10-28",
-  "checkedAt": "2026-10-28T17:17:56.078Z",
-  "ready": true,
-  "editorialComplete": true,
-  "reserveMissing": [],
-  "completed": [
+  "editionDate": "2026-10-29",
+  "checkedAt": "2026-10-29T05:05:23.625Z",
+  "ready": false,
+  "editorialComplete": false,
+  "reserveMissing": [
     "politica",
     "esteri",
     "economia",
@@ -14,583 +13,86 @@
     "tecnologia",
     "sport"
   ],
+  "completed": [],
   "inProgress": [],
-  "missing": [],
-  "invalid": [],
-  "stories": [
-    {
-      "id": "politica-manovra-cdm-2027",
-      "category": "Politica",
-      "title": "Manovra 2027, il Consiglio dei ministri avvia l'esame del testo",
-      "eventKey": "manovra-2027-cdm-esame-28-ottobre"
-    },
-    {
-      "id": "politica-riforma-artigianato",
-      "category": "Politica",
-      "title": "Artigianato, Meloni annuncia un decreto per aggiornare la legge del 1985",
-      "eventKey": "meloni-annuncia-riforma-legge-artigianato-28-ottobre"
-    },
-    {
-      "id": "politica-ddl-professioni-sanitarie",
-      "category": "Politica",
-      "title": "Professioni sanitarie, la Camera approva il testo e si divide sui medici radiati",
-      "eventKey": "camera-voto-professioni-sanitarie-medici-radiati-28-ottobre"
-    },
-    {
-      "id": "politica-mattarella-sanita-territori",
-      "category": "Politica",
-      "title": "Mattarella richiama le istituzioni sulle differenze nella sanità pubblica",
-      "eventKey": "mattarella-giorni-ricerca-disuguaglianze-ssn-28-ottobre"
-    },
-    {
-      "id": "politica-csm-elezioni-togati",
-      "category": "Politica",
-      "title": "Elezioni Csm, Nardecchia e Pilla conquistano i seggi di legittimità",
-      "eventKey": "elezioni-csm-legittimita-nardecchia-pilla-28-ottobre"
-    },
-    {
-      "id": "esteri-israele-scrutinio",
-      "category": "Esteri",
-      "title": "Israele, lo scrutinio non assegna ancora una maggioranza parlamentare",
-      "eventKey": "israele-elezioni-scrutinio-28-ottobre-blocchi-senza-maggioranza"
-    },
-    {
-      "id": "esteri-bolsonaro-espatrio",
-      "category": "Esteri",
-      "title": "Brasile, notizie contrastanti sul viaggio all'estero di Flávio Bolsonaro",
-      "eventKey": "flavio-bolsonaro-espatrio-argentina-ecuador-usa-28-ottobre"
-    },
-    {
-      "id": "esteri-spagna-treni-toledo",
-      "category": "Esteri",
-      "title": "Spagna, grave collisione fra treni ad alta velocità vicino a Toledo",
-      "eventKey": "spagna-scontro-treni-alta-velocita-toledo-28-ottobre"
-    },
-    {
-      "id": "esteri-serbia-vittoria-studenti",
-      "category": "Esteri",
-      "title": "Serbia, vittoria elettorale degli studenti e trattative sul governo",
-      "eventKey": "serbia-elezioni-studenti-vittoria-formazione-governo-26-ottobre"
-    },
-    {
-      "id": "esteri-lisbona-casa-proteste",
-      "category": "Esteri",
-      "title": "Lisbona, tende e manifestanti davanti al Parlamento per il diritto alla casa",
-      "eventKey": "lisbona-protesta-diritto-casa-parlamento-27-ottobre"
-    },
-    {
-      "id": "economia-stellantis-trimestre-2026-ricavi",
-      "category": "Economia",
-      "title": "Stellantis, ricavi trimestrali a 37,6 miliardi e perdite ridotte",
-      "eventKey": "stellantis-terzo-trimestre-2026-ricavi-376-miliardi"
-    },
-    {
-      "id": "economia-asvis-rapporto-sostenibilita",
-      "category": "Economia",
-      "title": "ASviS, l'Italia resta indietro sugli obiettivi di sostenibilità",
-      "eventKey": "asvis-rapporto-agenda-2030-italia-28-ottobre-2026"
-    },
-    {
-      "id": "economia-istat-fatturato-industria-agosto",
-      "category": "Economia",
-      "title": "Industria, Istat: fatturato di agosto in calo sul mese",
-      "eventKey": "istat-fatturato-industria-agosto-2026-dati-28-ottobre"
-    },
-    {
-      "id": "economia-unioncamere-potenziale-export",
-      "category": "Economia",
-      "title": "Unioncamere individua 20mila imprese con potenziale di export",
-      "eventKey": "unioncamere-indagine-20000-imprese-potenziali-export-28-ottobre"
-    },
-    {
-      "id": "economia-gas-ttf-sopra-cento-euro",
-      "category": "Economia",
-      "title": "Gas europeo sopra 100 euro al megawattora",
-      "eventKey": "gas-ttf-amsterdam-supera-100-euro-28-ottobre-2026"
-    },
-    {
-      "id": "cronaca-blitz-cosenza-ndrangheta",
-      "category": "Cronaca",
-      "title": "Operazione antimafia nel Cosentino, 41 misure cautelari",
-      "eventKey": "operazione-ros-cosenza-41-misure-stasi-28-ottobre-2026"
-    },
-    {
-      "id": "cronaca-docente-aggredito-torino",
-      "category": "Cronaca",
-      "title": "Torino, docente aggredito a scuola e portato in ospedale",
-      "eventKey": "torino-istituto-carlo-grassi-aggressione-docente-28-ottobre"
-    },
-    {
-      "id": "cronaca-indagine-dissidenti-cinesi",
-      "category": "Cronaca",
-      "title": "Milano, dieci indagati per presunte pressioni su dissidenti cinesi",
-      "eventKey": "milano-procura-dissidenti-cinesi-teacher-li-10-indagati-2026"
-    },
-    {
-      "id": "cronaca-mestre-bus-patteggiamenti",
-      "category": "Cronaca",
-      "title": "Mestre, sette patteggiamenti per la tragedia del bus",
-      "eventKey": "mestre-strage-bus-sette-patteggiamenti-28-ottobre-2026"
-    },
-    {
-      "id": "cronaca-appello-torino-violenza-domestica",
-      "category": "Cronaca",
-      "title": "Torino, ammessi gli appelli in un caso di violenza domestica",
-      "eventKey": "torino-corte-appello-riapertura-caso-lesioni-moglie-suocera-28-ottobre"
-    },
-    {
-      "id": "roma-scippo-tor-bella-monaca",
-      "category": "Roma",
-      "title": "Tor Bella Monaca, arrestato un quattordicenne dopo lo scippo a una donna",
-      "eventKey": "roma-tor-bella-monaca-scippo-collana-14enne-28-ottobre-2026"
-    },
-    {
-      "id": "roma-operazione-dia-san-basilio-tufello",
-      "category": "Roma",
-      "title": "Droga nell'area est di Roma, sei arresti dopo l'indagine della DIA",
-      "eventKey": "roma-dia-sei-arresti-traffico-cocaina-san-basilio-tufello-27-ottobre-2026"
-    },
-    {
-      "id": "roma-liceo-talete-danno-idrico",
-      "category": "Roma",
-      "title": "Liceo Talete, proteste per i danni idrici e la sicurezza dell'edificio",
-      "eventKey": "roma-liceo-talete-prati-danno-idrico-proteste-studenti-27-ottobre-2026"
-    },
-    {
-      "id": "roma-sapienza-ballottaggio-rettore",
-      "category": "Roma",
-      "title": "Sapienza, ballottaggio aperto per scegliere il rettore 2026–2032",
-      "eventKey": "roma-sapienza-ballottaggio-rettore-carcaterra-lucidi-27-30-ottobre-2026"
-    },
-    {
-      "id": "roma-righi-scritte-lista-stupri",
-      "category": "Roma",
-      "title": "Liceo Righi, studenti denunciano scritte offensive nei bagni",
-      "eventKey": "roma-liceo-righi-lista-stupri-svastica-25-ottobre-2026"
-    },
-    {
-      "id": "cultura-festival-nuova-consonanza-tempo",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Nuova Consonanza presenta «Tempo»: oltre quaranta eventi musicali a Roma",
-      "eventKey": "festival-nuova-consonanza-tempo-63-edizione-28-ottobre-2026"
-    },
-    {
-      "id": "cultura-falstaff-opera-roma-diretta-rai3",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "«Falstaff» dell'Opera di Roma arriva in diretta su Rai 3 il 1° novembre",
-      "eventKey": "opera-roma-falstaff-diretta-rai3-primo-novembre-2026"
-    },
-    {
-      "id": "cultura-antonello-enigma-sorriso-ritratti",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Antonello da Messina, due ritratti in dialogo tra Cefalù e Torino",
-      "eventKey": "antonello-da-messina-enigma-sorriso-cefalu-torino-28-ottobre-2026"
-    },
-    {
-      "id": "cultura-ref-can-can-ortoleva-mattatoio",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Romaeuropa, «Can Can» indaga il corpo femminile al Mattatoio",
-      "eventKey": "romaeuropa-can-can-ortoleva-mantova-mattatoio-27-28-ottobre-2026"
-    },
-    {
-      "id": "cultura-gone-kepler452-teatro-india",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Al Teatro India debutta «Gone», il progetto di Kepler-452 con attori georgiani",
-      "eventKey": "gone-kepler452-teatro-india-debutto-28-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-certificati-emudhra",
-      "category": "Tecnologia · AI",
-      "title": "Windows, aggiornamenti straordinari contro certificati digitali vulnerabili",
-      "eventKey": "microsoft-patch-emudhra-certificati-compromessi-28-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-meta-muse-hardware",
-      "category": "Tecnologia · AI",
-      "title": "Meta amplia gli accordi con AMD e NVIDIA per l'infrastruttura AI",
-      "eventKey": "meta-accordi-amd-nvidia-muse-infrastruttura-28-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-firefox-smart-window",
-      "category": "Tecnologia · AI",
-      "title": "Firefox Smart Window aggiunge compilazione assistita e monitoraggio delle pagine",
-      "eventKey": "mozilla-firefox-smart-window-fill-watch-28-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-psplus-novembre",
-      "category": "Tecnologia · AI",
-      "title": "PlayStation Plus Essential, annunciati i titoli di novembre",
-      "eventKey": "sony-playstation-plus-essential-novembre-2026-annuncio"
-    },
-    {
-      "id": "tecnologia-ps5-prism",
-      "category": "Tecnologia · AI",
-      "title": "Sony presenta controller e cover trasparenti per PlayStation 5",
-      "eventKey": "sony-prism-collection-dualsense-cover-ps5-28-ottobre-2026"
-    },
-    {
-      "id": "sport-atalanta-rientri",
-      "category": "Sport",
-      "title": "Atalanta, tornano Sulemana e Scalvini per la trasferta di Firenze",
-      "eventKey": "atalanta-sulemana-scalvini-rientrano-fiorentina-28-ottobre-2026"
-    },
-    {
-      "id": "sport-lecce-frosinone",
-      "category": "Sport",
-      "title": "Lecce verso Frosinone con numerose assenze: Di Francesco valuta i cambi",
-      "eventKey": "lecce-emergenza-assenze-di-francesco-frosinone-28-ottobre-2026"
-    },
-    {
-      "id": "sport-coppa-re-toledo",
-      "category": "Sport",
-      "title": "Coppa del Re, rinviate 24 gare dopo l'incidente ferroviario di Toledo",
-      "eventKey": "federazione-spagnola-rinvia-24-partite-coppa-re-toledo-28-ottobre-2026"
-    },
-    {
-      "id": "sport-f1-tre-italiani",
-      "category": "Sport",
-      "title": "Formula 1, tre italiani nelle prime libere del GP del Messico",
-      "eventKey": "f1-messico-fp1-tre-italiani-antonelli-fornaroli-mini-28-ottobre-2026"
-    },
-    {
-      "id": "sport-paolini-tokyo",
-      "category": "Sport",
-      "title": "Tennis, Paolini eliminata da Osaka all'esordio a Tokyo",
-      "eventKey": "wta-tokyo-paolini-eliminata-osaka-27-ottobre-2026"
-    },
-    {
-      "id": "politica-sondaggio-swg-coalizioni",
-      "category": "Politica",
-      "title": "Sondaggi, FdI al 29,3% ma coalizioni quasi appaiate",
-      "eventKey": "sondaggio-swg-26-ottobre-2026-coalizioni"
-    },
-    {
-      "id": "politica-sud-chiama-nord-convention",
-      "category": "Politica",
-      "title": "Sud chiama Nord, a Roma la convention per allargare il progetto nazionale",
-      "eventKey": "sud-chiama-nord-convention-roma-28-ottobre-2026"
-    },
-    {
-      "id": "politica-meloni-siher-gip",
-      "category": "Politica",
-      "title": "Caso Siher, Meloni critica la decisione della giudice di Milano",
-      "eventKey": "meloni-commenta-liberazione-siher-28-ottobre-2026"
-    },
-    {
-      "id": "politica-matone-forza-italia",
-      "category": "Politica",
-      "title": "Simonetta Matone passa dalla Lega a Forza Italia",
-      "eventKey": "simonetta-matone-passaggio-lega-forza-italia-26-ottobre"
-    },
-    {
-      "id": "politica-ricorsi-stabilicum",
-      "category": "Politica",
-      "title": "Legge elettorale, depositati ricorsi in 25 tribunali",
-      "eventKey": "ricorsi-stabilicum-25-tribunali-26-ottobre-2026"
-    },
-    {
-      "id": "esteri-sudan-nyala-mercato",
-      "category": "Esteri",
-      "title": "Sudan, drone su un mercato a Nyala: almeno 21 vittime secondo i resoconti",
-      "eventKey": "sudan-attacco-drone-mercato-nyala-26-ottobre-2026"
-    },
-    {
-      "id": "esteri-frontex-rimpatri-ue",
-      "category": "Esteri",
-      "title": "Unione europea, proposta di rafforzare Frontex e i rimpatri",
-      "eventKey": "ue-proposta-riforma-frontex-27-ottobre-2026"
-    },
-    {
-      "id": "esteri-gabon-prospector-5",
-      "category": "Esteri",
-      "title": "Gabon, ricerche dopo l'affondamento della piattaforma Prospector 5",
-      "eventKey": "gabon-piattaforma-prospector-5-affondamento-25-ottobre-2026"
-    },
-    {
-      "id": "esteri-jorgensen-raffinazione",
-      "category": "Esteri",
-      "title": "Ue, Jørgensen propone una strategia per la raffinazione europea",
-      "eventKey": "ue-jorgensen-raffinazione-diesel-28-ottobre-2026"
-    },
-    {
-      "id": "esteri-trump-zelensky-putin",
-      "category": "Esteri",
-      "title": "Trump torna a ipotizzare un incontro fra Zelensky e Putin",
-      "eventKey": "trump-ipotesi-incontro-zelensky-putin-28-ottobre-2026"
-    },
-    {
-      "id": "economia-confartigianato-costo-shock",
-      "category": "Economia",
-      "title": "Confartigianato quantifica in 296 miliardi il costo degli shock economici",
-      "eventKey": "confartigianato-shock-economia-296-miliardi-2022-2026"
-    },
-    {
-      "id": "economia-bnp-paribas-conti",
-      "category": "Economia",
-      "title": "BNP Paribas, utile trimestrale in crescita del 13%",
-      "eventKey": "bnp-paribas-utile-terzo-trimestre-2026-34-miliardi"
-    },
-    {
-      "id": "economia-sanac-cessione-stabilimenti",
-      "category": "Economia",
-      "title": "Sanac, autorizzata la vendita di tre stabilimenti",
-      "eventKey": "mimit-autorizza-cessione-tre-stabilimenti-sanac-28-ottobre"
-    },
-    {
-      "id": "economia-decreto-accise-gasolio",
-      "category": "Economia",
-      "title": "Gasolio, decreto riduce temporaneamente le accise",
-      "eventKey": "decreto-taglio-accise-gasolio-28-ottobre-7-novembre-2026"
-    },
-    {
-      "id": "economia-padoan-unicredit-presidenza",
-      "category": "Economia",
-      "title": "UniCredit, Padoan lascerà la presidenza a fine mandato",
-      "eventKey": "padoan-lascia-presidenza-unicredit-fine-mandato-2026"
-    },
-    {
-      "id": "cronaca-hydra-collaboratore-giustizia",
-      "category": "Cronaca",
-      "title": "Processo Hydra, un nuovo collaboratore di giustizia",
-      "eventKey": "processo-hydra-giancarlo-vestiti-collaboratore-28-ottobre-2026"
-    },
-    {
-      "id": "cronaca-brandizzo-udienza-preliminare",
-      "category": "Cronaca",
-      "title": "Brandizzo, nuova udienza preliminare sulla morte di cinque operai",
-      "eventKey": "brandizzo-udienza-preliminare-parti-civili-28-ottobre-2026"
-    },
-    {
-      "id": "cronaca-rimpatri-ventotto-stranieri",
-      "category": "Cronaca",
-      "title": "Rimpatriate 28 persone, fra loro un giovane coinvolto negli scontri di Milano",
-      "eventKey": "rimpatri-28-persone-operazione-28-ottobre-2026"
-    },
-    {
-      "id": "cronaca-sciame-sismico-tirreno",
-      "category": "Cronaca",
-      "title": "Tirreno meridionale, prosegue lo sciame sismico",
-      "eventKey": "tirreno-meridionale-sette-scosse-28-ottobre-2026"
-    },
-    {
-      "id": "cronaca-lupi-animali-cremonese",
-      "category": "Cronaca",
-      "title": "Nel Cremonese segnalato un attacco di lupi a un pollaio",
-      "eventKey": "lupi-attacco-pollaio-olza-ottobre-2026"
-    },
-    {
-      "id": "roma-bilancio-lazio-consolidato-2025",
-      "category": "Roma",
-      "title": "Regione Lazio, approvato il bilancio consolidato 2025",
-      "eventKey": "lazio-consiglio-regionale-bilancio-consolidato-2025-approvato-28-ottobre-2026"
-    },
-    {
-      "id": "roma-iacopini-trasferimento-neurochirurgia",
-      "category": "Roma",
-      "title": "Davide Iacopini lascia la terapia intensiva, trasferito in reparto",
-      "eventKey": "roma-davide-iacopini-trasferito-neurochirurgia-28-ottobre-2026"
-    },
-    {
-      "id": "roma-papa-cinque-parrocchie-avvento",
-      "category": "Roma",
-      "title": "Il Papa visiterà cinque parrocchie romane durante l'Avvento",
-      "eventKey": "roma-leone-xiv-visite-cinque-parrocchie-avvento-2026"
-    },
-    {
-      "id": "roma-roma-breast-days-2026",
-      "category": "Roma",
-      "title": "Roma Breast Days, prevenzione e regata sul Tevere dal 29 ottobre",
-      "eventKey": "roma-breast-days-santo-spirito-regata-29-31-ottobre-2026"
-    },
-    {
-      "id": "roma-centocelle-intimidazione-sede-prc",
-      "category": "Roma",
-      "title": "Centocelle, denunciate nuove scritte intimidatorie alla sede di Rifondazione",
-      "eventKey": "roma-centocelle-scritte-intimidatorie-sede-prc-28-ottobre-2026"
-    },
-    {
-      "id": "cultura-churchill-escaped-alone-teatro-india",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "«Escaped Alone» al Teatro India: il quotidiano diventa apocalisse",
-      "eventKey": "caryl-churchill-escaped-alone-teatro-india-28-ottobre-2026"
-    },
-    {
-      "id": "cultura-roma-jazz-festival-cinquantanni",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Roma Jazz Festival compie cinquant'anni e celebra Miles Davis",
-      "eventKey": "roma-jazz-festival-cinquantesima-edizione-1-24-novembre-2026"
-    },
-    {
-      "id": "cultura-palladium-centenario-1926",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Il Teatro Palladium celebra un secolo dalla prima pietra",
-      "eventKey": "roma-teatro-palladium-centenario-prima-pietra-1926-programma-2026"
-    },
-    {
-      "id": "cultura-medfilm-festival-trentaduesima-edizione",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "MedFilm Festival, 67 film da 33 Paesi nella 32ª edizione",
-      "eventKey": "roma-medfilm-festival-67-film-33-paesi-5-15-novembre-2026"
-    },
-    {
-      "id": "cultura-fumetti-mercato-aie-lucca-2026",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Fumetti, un libro acquistato su dieci è una graphic story",
-      "eventKey": "aie-fumetti-101-percento-libri-acquistati-primi-nove-mesi-2026"
-    },
-    {
-      "id": "tecnologia-apple-iwork-assistente",
-      "category": "Tecnologia · AI",
-      "title": "Apple porta l'assistente AI in Pages, Keynote e Numbers",
-      "eventKey": "apple-ai-assistente-pages-numbers-keynote-27-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-authenticator-android",
-      "category": "Tecnologia · AI",
-      "title": "Microsoft Authenticator su Android, corretta una falla nei token aziendali",
-      "eventKey": "microsoft-authenticator-android-cve-2026-80097-patch"
-    },
-    {
-      "id": "tecnologia-mythos-supply-chain",
-      "category": "Tecnologia · AI",
-      "title": "Test di sicurezza AI, un agente tenta modifiche dannose su GitHub",
-      "eventKey": "aisi-claude-mythos5-test-attacco-github-27-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-psn-famiglia-segnalazioni",
-      "category": "Tecnologia · AI",
-      "title": "PlayStation Network, segnalati account sconosciuti nei gruppi famiglia",
-      "eventKey": "psn-segnalazioni-membri-famiglia-sconosciuti-28-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-modern-warfare4-barry-sloane",
-      "category": "Tecnologia · AI",
-      "title": "Modern Warfare 4, Barry Sloane racconta il lato più complesso del Capitano Price",
-      "eventKey": "everyeye-intervista-barry-sloane-price-modern-warfare4-28-ottobre-2026"
-    },
-    {
-      "id": "sport-antonelli-titolo-messico",
-      "category": "Sport",
-      "title": "F1, Antonelli può chiudere il Mondiale in Messico",
-      "eventKey": "f1-antonelli-secondo-matchpoint-messico-25-ottobre-2026"
-    },
-    {
-      "id": "sport-musetti-vince-lione",
-      "category": "Sport",
-      "title": "Tennis, Musetti torna a vincere un titolo battendo Fritz a Lione",
-      "eventKey": "tennis-musetti-batte-fritz-finale-lione-26-ottobre-2026"
-    },
-    {
-      "id": "sport-lazio-dodici-marcatori",
-      "category": "Sport",
-      "title": "Lazio, dodici marcatori diversi nelle prime nove giornate di Serie A",
-      "eventKey": "lazio-dodici-marcatori-diversi-prime-nove-giornate-2026"
-    },
-    {
-      "id": "sport-errani-paolini-doppio-tokyo",
-      "category": "Sport",
-      "title": "Errani e Paolini ai quarti nel doppio di Tokyo, Finals più vicine",
-      "eventKey": "errani-paolini-vittoria-doppio-danilina-jiang-tokyo-28-ottobre-2026"
-    },
-    {
-      "id": "sport-serie-a-nona-giornata-mercoledi",
-      "category": "Sport",
-      "title": "Serie A, cinque partite nel mercoledì della nona giornata",
-      "eventKey": "serie-a-turno-infrasettimanale-cinque-partite-28-ottobre-2026"
+  "missing": [
+    "esteri",
+    "economia",
+    "cronaca",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
+  ],
+  "invalid": [
+    {
+      "slug": "politica",
+      "reason": "Il blocco completo deve contenere 5 notizie distinte"
     }
   ],
-  "collectionId": "2026-10-28-pomeriggio",
+  "stories": [],
+  "collectionId": "2026-10-29-mattina",
   "reserveCounts": {
-    "Politica": 5,
-    "Esteri": 5,
-    "Economia": 5,
-    "Cronaca": 5,
-    "Roma": 5,
-    "Cultura · Teatro · Cinema": 5,
-    "Tecnologia · AI": 5,
-    "Sport": 5
+    "Politica": 0,
+    "Esteri": 0,
+    "Economia": 0,
+    "Cronaca": 0,
+    "Roma": 0,
+    "Cultura · Teatro · Cinema": 0,
+    "Tecnologia · AI": 0,
+    "Sport": 0
   },
-  "photoCandidates": [
-    {
-      "id": "politica-manovra-cdm-2027",
-      "category": "Politica",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg"
-    },
-    {
-      "id": "esteri-israele-scrutinio",
-      "category": "Esteri",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG"
-    },
-    {
-      "id": "economia-stellantis-trimestre-2026-ricavi",
-      "category": "Economia",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:FCA_Stellantis_Pratola_Serra_Plant.jpg"
-    },
-    {
-      "id": "cronaca-blitz-cosenza-ndrangheta",
-      "category": "Cronaca",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_159_Carabinieri.jpg"
-    },
-    {
-      "id": "roma-sapienza-ballottaggio-rettore",
-      "category": "Roma",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sapienzia_Roma.jpg"
-    }
-  ],
-  "photosAvailable": 5,
+  "photoCandidates": [],
+  "photosAvailable": 0,
   "categoryProgress": {
     "politica": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     },
     "esteri": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     },
     "economia": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     },
     "cronaca": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     },
     "roma": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     },
     "cultura": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     },
     "tecnologia": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     },
     "sport": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     }
   },
-  "editionId": "2026-10-28-batches-cc9a1e6cc172",
-  "needsPublication": false,
-  "publicVerifiedAt": "2026-10-28T17:18:22.100900+00:00",
-  "publicEditionId": "2026-10-28-batches-cc9a1e6cc172",
-  "publication": "verified"
+  "needsPublication": false
 }
