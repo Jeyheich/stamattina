@@ -126,5 +126,117 @@
         "reuseApproved": true
       }
     }
+  ],
+  "reserveArticles": [
+    {
+      "id": "economia-lagarde-dimissioni",
+      "eventKey": "lagarde-annuncia-dimissioni-bce-29-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Christine Lagarde annuncia l'uscita dalla presidenza della Bce",
+      "summary": "La presidente comunica che lascerà l'incarico dal 7 febbraio 2027.",
+      "body": [
+        "Lagarde ha annunciato in un videomessaggio che si dimetterà dalla guida della Banca centrale europea con effetto dal 7 febbraio 2027. La decisione riguarda la successione ai vertici, distinta dalla politica sui tassi.",
+        "Nel messaggio ha tracciato un bilancio del proprio lavoro. La data di uscita è futura e non va confusa con l'effettiva cessazione dall'incarico."
+      ],
+      "publishedAt": "2026-10-29T14:54:00+01:00",
+      "verifiedAt": "2026-10-29T15:21:28.088Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/video/2026/10/29/lagarde-bce-dimissioni-1135586",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T15:21:28.088Z",
+        "dateEvidence": "Pagina Sky TG24 consultata integralmente il 29/10/2026, pubblicazione originale indicata 2026-10-29T14:54:00+01:00; data e fatti confrontati con il testo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-volkswagen-perdita-terzo-trimestre",
+      "eventKey": "volkswagen-perdita-terzo-trimestre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Volkswagen chiude il terzo trimestre con 5,82 miliardi di perdita",
+      "summary": "Il gruppo automobilistico attribuisce il risultato al mercato cinese e ai costi di riorganizzazione.",
+      "body": [
+        "Il risultato consolidato netto del gruppo Volkswagen per luglio-settembre 2026 è di circa -5,82 miliardi di euro, secondo i dati comunicati il 29 ottobre.",
+        "Il gruppo cita la debolezza in Cina, la concorrenza sui prezzi e le spese di ristrutturazione. La cifra riguarda il trimestre, non l'intero esercizio."
+      ],
+      "publishedAt": "2026-10-29T08:32:00+01:00",
+      "verifiedAt": "2026-10-29T15:21:28.088Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/29/volkswagen-crisi-perdite",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T15:21:28.088Z",
+        "dateEvidence": "Pagina Sky TG24 consultata integralmente il 29/10/2026, pubblicazione originale indicata 2026-10-29T08:32:00+01:00; data e fatti confrontati con il testo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-interbrand-classifica-marchi",
+      "eventKey": "interbrand-best-global-brands-2026-28-ottobre",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Interbrand 2026, Apple resta prima fra i marchi globali",
+      "summary": "La graduatoria registra una crescita del valore complessivo dei cento brand selezionati.",
+      "body": [
+        "La classifica Best Global Brands 2026 pubblicata il 28 ottobre attribuisce ad Apple il primo posto con un valore stimato di 514,6 miliardi di dollari, seguita da Microsoft e Google.",
+        "Il valore aggregato dei cento marchi della graduatoria sale a circa 3,866 trilioni di dollari, secondo la metodologia Interbrand. È una stima del valore dei marchi, non della capitalizzazione di Borsa."
+      ],
+      "publishedAt": "2026-10-29T06:30:00+01:00",
+      "verifiedAt": "2026-10-29T15:21:28.088Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/29/marchi-piu-valore-mondo-classifica-interbrand",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T15:21:28.088Z",
+        "dateEvidence": "Pagina Sky TG24 consultata integralmente il 29/10/2026, pubblicazione originale indicata 2026-10-29T06:30:00+01:00; data e fatti confrontati con il testo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-bollette-prescrizione-biennale",
+      "eventKey": "tribunale-bologna-prescrizione-bollette-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Bollette arretrate, una sentenza chiarisce la prescrizione biennale",
+      "summary": "Il Tribunale di Bologna lega il decorso del termine al periodo di fornitura, non all'emissione tardiva della fattura.",
+      "body": [
+        "Una pronuncia del Tribunale di Bologna del 29 settembre 2026, richiamata in un approfondimento del 29 ottobre, considera il termine biennale di prescrizione dei consumi a partire dall'ultimo giorno del periodo di erogazione.",
+        "La regola riguarda specifiche categorie di utenze e richiede di verificare il caso concreto: una fattura tardiva va contestata con riferimento al periodo e alle condizioni applicabili, non ignorata automaticamente."
+      ],
+      "publishedAt": "2026-10-29T06:30:00+01:00",
+      "verifiedAt": "2026-10-29T15:21:28.088Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/29/bollette-luce-gas-ritardo-conguaglio-prescrizione",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T15:21:28.088Z",
+        "dateEvidence": "Pagina Sky TG24 consultata integralmente il 29/10/2026, pubblicazione originale indicata 2026-10-29T06:30:00+01:00; data e fatti confrontati con il testo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-intesa-autorizzazioni-mps",
+      "eventKey": "intesa-autorizzazioni-opas-mps-28-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Intesa Sanpaolo annuncia il via libera regolamentare all'Opas su Mps",
+      "summary": "Il gruppo riferisce di aver ricevuto tutte le autorizzazioni preventive previste.",
+      "body": [
+        "Intesa Sanpaolo ha comunicato il 28 ottobre di avere ottenuto le ultime autorizzazioni preventive estere connesse all'operazione su Monte dei Paschi di Siena.",
+        "L'annuncio riguarda l'avveramento di una condizione dell'offerta; non equivale alla conclusione dell'acquisizione. Resta il passaggio del documento d'offerta alla Consob."
+      ],
+      "publishedAt": "2026-10-28T21:43:00+01:00",
+      "verifiedAt": "2026-10-29T15:21:28.088Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/28/intesa-autorizzazione-acquisizione-mps",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T15:21:28.088Z",
+        "dateEvidence": "Pagina Sky TG24 consultata integralmente il 29/10/2026, pubblicazione originale indicata 2026-10-28T21:43:00+01:00; data e fatti confrontati con il testo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
   ]
 }
