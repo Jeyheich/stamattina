@@ -1,10 +1,9 @@
 {
   "editionDate": "2026-10-29",
-  "checkedAt": "2026-10-29T05:05:37.619Z",
+  "checkedAt": "2026-10-29T05:06:10.036Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
-    "politica",
     "esteri",
     "economia",
     "cronaca",
@@ -13,7 +12,9 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [],
+  "completed": [
+    "politica"
+  ],
   "inProgress": [],
   "missing": [
     "economia",
@@ -25,18 +26,75 @@
   ],
   "invalid": [
     {
-      "slug": "politica",
-      "reason": "Il blocco completo deve contenere 5 notizie distinte"
-    },
-    {
       "slug": "esteri",
       "reason": "Il blocco completo deve contenere 5 notizie distinte"
     }
   ],
-  "stories": [],
+  "stories": [
+    {
+      "id": "politica-manovra-cdm-26-miliardi",
+      "category": "Politica",
+      "title": "Manovra da 26 miliardi: il governo illustra taglio Irpef e sostegni",
+      "eventKey": "manovra-2027-cdm-26-miliardi-28-ottobre"
+    },
+    {
+      "id": "politica-borghi-convegno-vaccini",
+      "category": "Politica",
+      "title": "Convegno sui vaccini al Senato, polemica fra Borghi e Pd",
+      "eventKey": "borghi-convegno-senato-no-vax-pd-28-ottobre-2026"
+    },
+    {
+      "id": "politica-conte-programma-coalizione",
+      "category": "Politica",
+      "title": "Conte chiede al centrosinistra di accelerare sul programma comune",
+      "eventKey": "conte-urgenza-programma-campo-largo-28-ottobre-2026"
+    },
+    {
+      "id": "politica-siher-meloni-gip-anm",
+      "category": "Politica",
+      "title": "Scarcerazione Siher, scontro tra Meloni e magistratura",
+      "eventKey": "siher-scarcerazione-meloni-critica-gip-anm-28-ottobre-2026"
+    },
+    {
+      "id": "politica-acquaroli-inchiesta-sisma",
+      "category": "Politica",
+      "title": "Acquaroli interviene sull'inchiesta sisma: «Se avessi saputo, avrei denunciato»",
+      "eventKey": "acquaroli-inchiesta-sisma-dichiarazioni-muccia-28-ottobre-2026"
+    },
+    {
+      "id": "politica-finanziamenti-forza-italia",
+      "category": "Politica",
+      "title": "Forza Italia pubblica i contributi: 100mila euro da Tronchetti Provera",
+      "eventKey": "forza-italia-donazioni-tronchetti-rocca-settembre-2026"
+    },
+    {
+      "id": "politica-eu-kids-act-garante",
+      "category": "Politica",
+      "title": "Eu Kids Act, il Garante chiede protezione dei minori senza raccolta eccessiva di dati",
+      "eventKey": "garante-privacy-eu-kids-act-audizione-camera-28-ottobre-2026"
+    },
+    {
+      "id": "politica-mattarella-ricerca-guerre",
+      "category": "Politica",
+      "title": "Mattarella richiama la cooperazione scientifica contro guerre e nuove pandemie",
+      "eventKey": "mattarella-giorni-ricerca-risorse-guerre-28-ottobre-2026"
+    },
+    {
+      "id": "politica-riforma-artigianato",
+      "category": "Politica",
+      "title": "Artigianato, Meloni annuncia l'aggiornamento della legge quadro del 1985",
+      "eventKey": "meloni-annuncia-decreto-riforma-artigianato-28-ottobre-2026"
+    },
+    {
+      "id": "politica-vigano-consulta-presidente",
+      "category": "Politica",
+      "title": "Corte costituzionale, Francesco Viganò eletto prossimo presidente",
+      "eventKey": "consulta-elegge-francesco-vigano-presidente-28-ottobre-2026"
+    }
+  ],
   "collectionId": "2026-10-29-mattina",
   "reserveCounts": {
-    "Politica": 0,
+    "Politica": 5,
     "Esteri": 0,
     "Economia": 0,
     "Cronaca": 0,
@@ -49,10 +107,10 @@
   "photosAvailable": 0,
   "categoryProgress": {
     "politica": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "esteri": {
       "base": 0,
