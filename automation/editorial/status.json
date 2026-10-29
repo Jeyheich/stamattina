@@ -1,10 +1,9 @@
 {
   "editionDate": "2026-10-29",
-  "checkedAt": "2026-10-29T07:08:05.594Z",
+  "checkedAt": "2026-10-29T07:16:26.589Z",
   "ready": true,
   "editorialComplete": false,
   "reserveMissing": [
-    "roma",
     "cultura"
   ],
   "completed": [
@@ -382,6 +381,36 @@
       "eventKey": "david-rossi-firenze-antimafia-indaga-omicidio-28-ottobre"
     },
     {
+      "id": "roma-san-basilio-droga-finestra-tre-arresti-28-ottobre",
+      "category": "Roma",
+      "title": "San Basilio, cocaina e hashish nascosti in una finestra: tre arresti",
+      "eventKey": "san-basilio-droga-finestra-tre-arresti-28-ottobre"
+    },
+    {
+      "id": "roma-cerveteri-54-reperti-restituiti-stato-28-ottobre",
+      "category": "Roma",
+      "title": "Cerveteri, restituiti allo Stato 54 reperti archeologici",
+      "eventKey": "cerveteri-54-reperti-restituiti-stato-28-ottobre"
+    },
+    {
+      "id": "roma-roma-sciopero-usb-trasporti-30-ottobre-precettazione",
+      "category": "Roma",
+      "title": "Sciopero del 30 ottobre, Roma comunica le fasce garantite per bus e metro",
+      "eventKey": "roma-sciopero-usb-trasporti-30-ottobre-precettazione"
+    },
+    {
+      "id": "roma-liceo-mamiani-occupazione-studenti-27-ottobre",
+      "category": "Roma",
+      "title": "Occupazioni scolastiche a Roma, coinvolto anche il liceo Mamiani",
+      "eventKey": "liceo-mamiani-occupazione-studenti-27-ottobre"
+    },
+    {
+      "id": "roma-lazio-bilancio-consolidato-2025-approvato-28-ottobre",
+      "category": "Roma",
+      "title": "Lazio, approvato il bilancio consolidato 2025 della Regione",
+      "eventKey": "lazio-consiglio-regionale-approva-bilancio-consolidato-2025-28-ottobre"
+    },
+    {
       "id": "tecnologia-meta-waddle-world-tamagotchi-ai-filippine-28-ottobre",
       "category": "Tecnologia · AI",
       "title": "Meta prova Waddle World, un animaletto virtuale con intelligenza artificiale",
@@ -448,7 +477,7 @@
     "Esteri": 5,
     "Economia": 5,
     "Cronaca": 5,
-    "Roma": 0,
+    "Roma": 5,
     "Cultura · Teatro · Cinema": 0,
     "Tecnologia · AI": 5,
     "Sport": 5
@@ -508,9 +537,9 @@
     },
     "roma": {
       "base": 5,
-      "reserve": 0,
-      "draft": 4,
-      "complete": false
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
     },
     "cultura": {
       "base": 5,
@@ -531,9 +560,6 @@
       "complete": true
     }
   },
-  "editionId": "2026-10-29-batches-91d0ae0f6f63",
-  "needsPublication": false,
-  "publicVerifiedAt": "2026-10-29T07:08:30.443716+00:00",
-  "publicEditionId": "2026-10-29-batches-91d0ae0f6f63",
-  "publication": "verified"
+  "editionId": "2026-10-29-batches-ac7e85a4f19a",
+  "needsPublication": true
 }
