@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-29",
-  "collectionId": "2026-10-29-mattina",
+  "collectionId": "2026-10-29-pomeriggio",
   "category": "Politica",
-  "completedAt": "2026-10-29T05:05:03.438Z",
+  "completedAt": "2026-10-29T16:06:19+01:00",
   "articles": [
     {
-      "id": "politica-manovra-cdm-26-miliardi",
+      "id": "politica-manovra-2027-cdm-26-miliardi-28-ottobre",
       "eventKey": "manovra-2027-cdm-26-miliardi-28-ottobre",
       "category": "Politica",
       "status": "verified",
-      "title": "Manovra da 26 miliardi: il governo illustra taglio Irpef e sostegni",
-      "summary": "Il Consiglio dei ministri ha dato il via libera a una legge di bilancio da circa 26 miliardi: tra le misure annunciate ci sono interventi sull'Irpef per il ceto medio, congedi e sanità.",
+      "title": "Manovra 2027: il governo difende la scelta di concentrare gli interventi",
+      "summary": "Dopo il via libera del Consiglio dei ministri, la premier presenta la legge di bilancio da 26 miliardi come un compromesso tra taglio delle imposte, famiglia e sostegni.",
       "body": [
-        "Il governo ha presentato il 28 ottobre i contenuti della manovra da circa 26 miliardi, includendo una nuova riduzione dell'Irpef per il ceto medio, sostegni per famiglie e lavoro e risorse per la sanità.",
-        "Tra le novità illustrate figurano un premio per lavoratori sotto i trent'anni e un voucher sanitario per anziani. Le misure dovranno seguire l'iter parlamentare: l'approvazione del Consiglio dei ministri non equivale alla legge definitiva."
+        "Il provvedimento approvato il 28 ottobre prevede, tra le altre misure, una revisione dell'Irpef, interventi per giovani e nuovi nati e il rinvio del decreto bollette.",
+        "La conferenza stampa e le reazioni degli alleati sono state ripercorse da Adnkronos nell'articolo pubblicato il 29 ottobre. Il testo dovrà ancora passare dal Parlamento."
       ],
-      "publishedAt": "2026-10-28T21:16:00+01:00",
-      "verifiedAt": "2026-10-29T05:05:03.438Z",
+      "publishedAt": "2026-10-29T00:11:00+01:00",
+      "verifiedAt": "2026-10-29T16:06:19+01:00",
       "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/via-libera-del-consiglio-dei-ministri-alla-manovra.-meloni-vale_a800dc0a-5e17-4252-b135-567ad9587d2b.html",
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/politica/manovra-2026-meloni_5wZmgDFyvGiLENVYZoCkCg",
         "access": "free",
-        "accessCheckedAt": "2026-10-29T05:05:03.438Z",
-        "dateEvidence": "ANSA, articolo del 28 ottobre 2026 aggiornato alle 21:16 ora di Roma; approvazione in Consiglio dei ministri.",
+        "accessCheckedAt": "2026-10-29T16:06:19+01:00",
+        "dateEvidence": "Adnkronos 29 ottobre 2026 ore 00:11, ricostruzione del via libera del Cdm del 28 ottobre.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
       "leadPriority": 90,
@@ -39,202 +39,90 @@
       }
     },
     {
-      "id": "politica-borghi-convegno-vaccini",
-      "eventKey": "borghi-convegno-senato-no-vax-pd-28-ottobre-2026",
+      "id": "politica-nordio-siher-no-ispettori-gip-29-ottobre-2026",
+      "eventKey": "nordio-siher-no-ispettori-gip-29-ottobre-2026",
       "category": "Politica",
       "status": "verified",
-      "title": "Convegno sui vaccini al Senato, polemica fra Borghi e Pd",
-      "summary": "L'iniziativa ospitata dal leghista Claudio Borghi al Senato provoca le critiche dei democratici, mentre Mattarella richiama l'importanza della ricerca scientifica.",
+      "title": "Nordio sul caso Siher: nessuna ispezione dopo la decisione della gip",
+      "summary": "Il ministro della Giustizia dice di essere rimasto sorpreso dal mancato arresto, ma esclude l'invio di ispettori al tribunale milanese.",
       "body": [
-        "Un convegno con esponenti contrari ai vaccini e persone che dichiarano danni da vaccinazione è stato ospitato il 28 ottobre al Senato per iniziativa personale di Claudio Borghi.",
-        "Esponenti del Pd, tra cui Filippo Sensi e Sandra Zampa, hanno contestato l'incontro, tenuto nello stesso giorno in cui il presidente della Repubblica metteva in guardia dall'opposizione pregiudiziale ai vaccini."
+        "Intervistato al Salone della Giustizia, Carlo Nordio distingue la critica al provvedimento dal rispetto dell'autonomia del giudice e precisa che non è prevista alcuna ispezione.",
+        "Al Csm, intanto, alcuni consiglieri hanno chiesto una pratica a tutela della gip Tiziana Landoni dopo le parole della presidente del Consiglio."
       ],
-      "publishedAt": "2026-10-28T19:56:00+01:00",
-      "verifiedAt": "2026-10-29T05:05:03.438Z",
+      "publishedAt": "2026-10-29T13:44:00+01:00",
+      "verifiedAt": "2026-10-29T16:06:19+01:00",
       "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/il-leghista-borghi-chiama-no-vax-e-vittime-dei-vaccini-al-senato-scontro-col_dd738e56-052d-48e2-8391-3c96641b6bff.html",
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/10/29/ministro-nordio-intervista",
         "access": "free",
-        "accessCheckedAt": "2026-10-29T05:05:03.438Z",
-        "dateEvidence": "ANSA, Roma, 28 ottobre 2026 ore 19:56; resoconto del convegno e delle reazioni politiche.",
+        "accessCheckedAt": "2026-10-29T16:06:19+01:00",
+        "dateEvidence": "Sky TG24, sezione Politica, 29 ottobre 2026 ore 13:44; dichiarazioni raccolte al Salone della Giustizia.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "politica-conte-programma-coalizione",
-      "eventKey": "conte-urgenza-programma-campo-largo-28-ottobre-2026",
+      "id": "politica-cateno-de-luca-profezia-voto-maggio-2027-29-ottobre",
+      "eventKey": "cateno-de-luca-profezia-voto-maggio-2027-29-ottobre",
       "category": "Politica",
       "status": "verified",
-      "title": "Conte chiede al centrosinistra di accelerare sul programma comune",
-      "summary": "Il leader del Movimento 5 Stelle invita gli alleati a trovare un'intesa programmatica prima di discutere delle primarie per la guida della coalizione.",
+      "title": "De Luca rilancia l'ipotesi di elezioni politiche anticipate a maggio",
+      "summary": "Il leader di Sud chiama Nord indica il 9 e 10 maggio 2027 come possibile data del voto, ma non esiste alcuna decisione istituzionale in tal senso.",
       "body": [
-        "Giuseppe Conte ha detto il 28 ottobre che il confronto sul programma del campo largo non può essere rinviato ancora, richiamando le difficoltà economiche denunciate dai cittadini.",
-        "Il presidente M5s si è dichiarato favorevole anche a primarie rapide, ma ha ribadito che la priorità è concordare i contenuti politici condivisi."
+        "Nel giorno conclusivo della convention romana, Cateno De Luca ribadisce una previsione già espressa in precedenza e annuncia il simbolo del progetto politico con Sindaci d'Italia.",
+        "Open ricorda che un eventuale scioglimento anticipato delle Camere richiederebbe passaggi istituzionali e non può essere considerato già deciso."
       ],
-      "publishedAt": "2026-10-28T17:45:00+01:00",
-      "verifiedAt": "2026-10-29T05:05:03.438Z",
+      "publishedAt": "2026-10-29T13:21:00+01:00",
+      "verifiedAt": "2026-10-29T16:06:19+01:00",
       "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/conte-lattesa-per-il-programma-deve-finire-ogni-giorno-sara-tardi_83b6e98f-be96-4e41-8450-3ac3d5d87f1d.html",
+        "name": "Open",
+        "url": "https://www.open.online/2026/10/29/elezioni-9-10-maggio-profezia-cateno-de-luca-sud-chiama-nord/",
         "access": "free",
-        "accessCheckedAt": "2026-10-29T05:05:03.438Z",
-        "dateEvidence": "ANSA, Roma, 28 ottobre 2026 ore 17:45; dichiarazioni di Giuseppe Conte a margine di un evento.",
+        "accessCheckedAt": "2026-10-29T16:06:19+01:00",
+        "dateEvidence": "Open, articolo del 29 ottobre 2026 ore 13:21; dichiarazioni e post di De Luca.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "politica-siher-meloni-gip-anm",
-      "eventKey": "siher-scarcerazione-meloni-critica-gip-anm-28-ottobre-2026",
+      "id": "politica-crosetto-ucraina-inverno-russia-previsioni-29-ottobre",
+      "eventKey": "crosetto-ucraina-inverno-russia-previsioni-29-ottobre",
       "category": "Politica",
       "status": "verified",
-      "title": "Scarcerazione Siher, scontro tra Meloni e magistratura",
-      "summary": "La giudice milanese non convalida il fermo di Youssef Siher; la premier contesta la decisione e l'Associazione nazionale magistrati replica.",
+      "title": "Crosetto: il conflitto ucraino potrebbe proseguire oltre l'inverno",
+      "summary": "Il ministro della Difesa teme che la Russia utilizzi i mesi freddi per intensificare la pressione su Kiev e non prevede una soluzione prima dell'estate.",
       "body": [
-        "Il gip di Milano Tiziana Landoni ha respinto la richiesta di convalida del fermo di Youssef Siher, ritenendo che i messaggi contestati richiamassero disobbedienza civile e libera espressione, non incitamento alla violenza.",
-        "Giorgia Meloni ha definito la decisione una mortificazione del lavoro delle forze dell'ordine; l'Anm e i vertici giudiziari milanesi hanno reagito criticando l'attacco della premier."
+        "Durante un'intervista alla convention di Sud chiama Nord, Guido Crosetto parla delle prospettive diplomatiche e dei sistemi di difesa richiesti dall'Ucraina.",
+        "Sottolinea anche l'assenza, nell'immediato, delle condizioni per una missione di pace nello Stretto di Hormuz: si tratta di valutazioni del ministro, non di sviluppi già avvenuti."
       ],
-      "publishedAt": "2026-10-28T22:03:00+01:00",
-      "verifiedAt": "2026-10-29T05:05:03.438Z",
+      "publishedAt": "2026-10-29T11:32:00+01:00",
+      "verifiedAt": "2026-10-29T16:06:19+01:00",
       "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/meloni-dalla-gip-di-milano-una-decisione-vergognosa-su-siher.-lanm-solidarieta_cf22bf4c-c1b3-46ba-b54f-c5e1eb028452.html",
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/internazionale/esteri/crosetto-intervista-ucraina-iran-difesa_4NbwoWqADqVNeLFqh9pz2k",
         "access": "free",
-        "accessCheckedAt": "2026-10-29T05:05:03.438Z",
-        "dateEvidence": "ANSA, 28 ottobre 2026 ore 22:03; ricostruzione del provvedimento della gip e delle reazioni istituzionali.",
+        "accessCheckedAt": "2026-10-29T16:06:19+01:00",
+        "dateEvidence": "Adnkronos, 29 ottobre 2026 ore 11:32, intervista al ministro della Difesa a Roma.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "politica-acquaroli-inchiesta-sisma",
-      "eventKey": "acquaroli-inchiesta-sisma-dichiarazioni-muccia-28-ottobre-2026",
+      "id": "politica-di-pietro-autocandidatura-csm-voto-28-ottobre",
+      "eventKey": "di-pietro-autocandidatura-csm-voto-28-ottobre",
       "category": "Politica",
       "status": "verified",
-      "title": "Acquaroli interviene sull'inchiesta sisma: «Se avessi saputo, avrei denunciato»",
-      "summary": "Il presidente delle Marche afferma di considerarsi danneggiato insieme alle comunità terremotate e richiama gli atti trasmessi alle autorità.",
+      "title": "Csm, Di Pietro rivendica una candidatura autonoma dopo la prima fumata nera",
+      "summary": "L'ex magistrato dichiara di aver presentato personalmente la domanda per il Consiglio superiore della magistratura, mentre proseguono i contrasti fra i partiti.",
       "body": [
-        "Durante il consiglio regionale aperto a Muccia, Francesco Acquaroli ha commentato l'inchiesta legata al sisma, dichiarando di essere tra le persone danneggiate dalla vicenda.",
-        "Ha aggiunto che avrebbe denunciato eventuali irregolarità conosciute e ha ricordato di avere trasmesso alle autorità le risultanze della commissione tecnica su Atim."
+        "Antonio Di Pietro sostiene che la propria candidatura non dipenda da una sponsorizzazione politica e che chi lo ritenga idoneo possa votarlo.",
+        "Il primo scrutinio parlamentare del 28 ottobre non ha portato all'elezione dei componenti laici. Forza Italia ha manifestato contrarietà al suo nome."
       ],
-      "publishedAt": "2026-10-28T16:34:00+01:00",
-      "verifiedAt": "2026-10-29T05:05:03.438Z",
+      "publishedAt": "2026-10-28T19:27:00+01:00",
+      "verifiedAt": "2026-10-29T16:06:19+01:00",
       "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/inchiesta-sisma-acquaroli-sono-una-vittima-insieme-ai-marchigiani_94f9780b-f9a3-4da5-8fea-a420315c1601.html",
+        "name": "Open",
+        "url": "https://www.open.online/2026/10/28/antonio-di-pietro-candidatura-csm-camera-politica/",
         "access": "free",
-        "accessCheckedAt": "2026-10-29T05:05:03.438Z",
-        "dateEvidence": "ANSA, Muccia, 28 ottobre 2026 ore 16:34; dichiarazioni del presidente delle Marche.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    }
-  ],
-  "reserveArticles": [
-    {
-      "id": "politica-finanziamenti-forza-italia",
-      "eventKey": "forza-italia-donazioni-tronchetti-rocca-settembre-2026",
-      "category": "Politica",
-      "status": "verified",
-      "title": "Forza Italia pubblica i contributi: 100mila euro da Tronchetti Provera",
-      "summary": "Nell'elenco delle donazioni aggiornato a settembre compaiono anche 50mila euro versati da Gianfelice Rocca.",
-      "body": [
-        "L'elenco dei contributi a Forza Italia reso pubblico dal partito riporta un versamento di 100mila euro di Marco Tronchetti Provera e uno di 50mila euro di Gianfelice Rocca.",
-        "Il resoconto segnala inoltre donazioni di dirigenti e imprese di vari settori. I versamenti riguardano settembre, mentre la notizia è stata pubblicata il 28 ottobre."
-      ],
-      "publishedAt": "2026-10-28T15:04:00+01:00",
-      "verifiedAt": "2026-10-29T05:05:54.398Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/tronchetti-sostiene-forza-italia-con-100mila-euro-50mila-da-gianfelice-rocca_57375946-a422-4ab9-8447-343b2fc1f755.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:05:54.398Z",
-        "dateEvidence": "ANSA, Roma, 28 ottobre 2026 ore 15:04; dati sui finanziamenti al partito aggiornati a settembre.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "politica-eu-kids-act-garante",
-      "eventKey": "garante-privacy-eu-kids-act-audizione-camera-28-ottobre-2026",
-      "category": "Politica",
-      "status": "verified",
-      "title": "Eu Kids Act, il Garante chiede protezione dei minori senza raccolta eccessiva di dati",
-      "summary": "Pasquale Stanzione sollecita verifiche dell'età proporzionate e attenzione alla privacy dei ragazzi durante un'audizione alla Camera.",
-      "body": [
-        "Il presidente del Garante per la protezione dei dati personali ha illustrato alla Camera la posizione dell'Autorità sul progetto europeo Eu Kids Act.",
-        "Stanzione ha chiesto limiti alla raccolta dei dati per la verifica dell'età e garanzie per l'autonomia dei minori, sottolineando anche i rischi dei chatbot che simulano rapporti personali."
-      ],
-      "publishedAt": "2026-10-28T12:21:00+01:00",
-      "verifiedAt": "2026-10-29T05:05:54.398Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/eu-kids-act-stanzione-tutela-dei-minori-senza-sacrificare-privacy-e-autonomia_24730c09-c4f1-41df-b2b0-03b99dec4d23.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:05:54.398Z",
-        "dateEvidence": "ANSA, Roma, 28 ottobre 2026 ore 12:21; audizione alla XIV commissione della Camera.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "politica-mattarella-ricerca-guerre",
-      "eventKey": "mattarella-giorni-ricerca-risorse-guerre-28-ottobre-2026",
-      "category": "Politica",
-      "status": "verified",
-      "title": "Mattarella richiama la cooperazione scientifica contro guerre e nuove pandemie",
-      "summary": "Il capo dello Stato avverte che conflitti e programmi militari sottraggono risorse alla medicina e ostacolano la collaborazione internazionale.",
-      "body": [
-        "Alla celebrazione dei Giorni della Ricerca al Quirinale, Sergio Mattarella ha sottolineato il ruolo della collaborazione fra Paesi nel progresso medico e nella risposta alla pandemia.",
-        "Ha criticato l'assorbimento di risorse da parte dei conflitti e il sorgere di barriere alla cooperazione scientifica, richiamando la centralità della persona nelle politiche pubbliche."
-      ],
-      "publishedAt": "2026-10-28T12:12:00+01:00",
-      "verifiedAt": "2026-10-29T05:05:54.398Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/mattarella-guerre-dissennate-e-progetti-militari-sottraggono-risorse-alla-medicina_2434bbb4-fe63-44db-a41b-77a8b16343a5.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:05:54.398Z",
-        "dateEvidence": "ANSA, Roma, 28 ottobre 2026 ore 12:12; intervento di Mattarella ai Giorni della Ricerca.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "politica-riforma-artigianato",
-      "eventKey": "meloni-annuncia-decreto-riforma-artigianato-28-ottobre-2026",
-      "category": "Politica",
-      "status": "verified",
-      "title": "Artigianato, Meloni annuncia l'aggiornamento della legge quadro del 1985",
-      "summary": "All'assemblea di Confartigianato la premier presenta il decreto destinato a modernizzare la disciplina del settore.",
-      "body": [
-        "Giorgia Meloni ha annunciato il 28 ottobre, durante l'assemblea di Confartigianato, che il Consiglio dei ministri avrebbe esaminato un decreto per aggiornare la legge quadro sull'artigianato del 1985.",
-        "La dichiarazione precede la riunione dell'esecutivo: la notizia riguarda l'annuncio dell'iniziativa e non certifica da sola il testo definitivo del provvedimento."
-      ],
-      "publishedAt": "2026-10-28T11:32:00+01:00",
-      "verifiedAt": "2026-10-29T05:05:54.398Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/meloni-oggi-in-consiglio-dei-ministri-la-riforma-dellartigianato_cc66dc96-687f-46cf-9d0b-50c3b1cb98fe.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:05:54.398Z",
-        "dateEvidence": "ANSA, Roma, 28 ottobre 2026 ore 11:32; annuncio di Meloni all'assemblea Confartigianato.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "politica-vigano-consulta-presidente",
-      "eventKey": "consulta-elegge-francesco-vigano-presidente-28-ottobre-2026",
-      "category": "Politica",
-      "status": "verified",
-      "title": "Corte costituzionale, Francesco Viganò eletto prossimo presidente",
-      "summary": "La Consulta sceglie all'unanimità Viganò, che entrerà in carica il 14 novembre al termine del mandato di Giovanni Amoroso.",
-      "body": [
-        "La Corte costituzionale ha eletto Francesco Viganò come prossimo presidente il 28 ottobre, con voto unanime in camera di consiglio.",
-        "Già vicepresidente dal gennaio 2025, Viganò assumerà la presidenza il 14 novembre e resterà in carica fino alla scadenza del mandato di giudice, prevista per l'8 marzo 2027."
-      ],
-      "publishedAt": "2026-10-28T15:10:00+01:00",
-      "verifiedAt": "2026-10-29T05:05:54.398Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/francesco-vigano-nuovo-presidente-della-consulta-_ee122bc2-802e-43a4-b899-572cdbfcd7e0.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:05:54.398Z",
-        "dateEvidence": "ANSA, Roma, 28 ottobre 2026 ore 15:10; comunicazione dell'elezione in Corte costituzionale.",
+        "accessCheckedAt": "2026-10-29T16:06:19+01:00",
+        "dateEvidence": "Open, 28 ottobre 2026 ore 19:27, dichiarazioni di Di Pietro e resoconto del primo voto in Parlamento.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
