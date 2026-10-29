@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-10-29",
+  "collectionId": "2026-10-29-mattina",
+  "category": "Cronaca",
+  "completedAt": "2026-10-29T05:19:44.762Z",
+  "articles": [
+    {
+      "id": "cronaca-longiano-cadavere-pozzo-indagine-omicidio",
+      "eventKey": "longiano-cadavere-pozzo-indagine-omicidio-28-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Longiano, trovato un corpo in un pozzo: indagine per omicidio",
+      "summary": "La Procura di Forlì indaga sul ritrovamento di un uomo scomparso il 7 ottobre nel Cesenate.",
+      "body": [
+        "Il corpo rinvenuto in un pozzo a Felloniche, nel comune di Longiano, sarebbe quello di un trentunenne scomparso il 7 ottobre. La sua automobile era stata trovata bruciata il giorno successivo.",
+        "Gli inquirenti procedono per omicidio e, secondo la ricostruzione pubblicata, vicino al pozzo sarebbero stati trovati bossoli. L'identificazione riportata dalla fonte è ancora formulata in termini non definitivi."
+      ],
+      "publishedAt": "2026-10-28T15:15:00+01:00",
+      "verifiedAt": "2026-10-29T05:19:42.286Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/28/omicidio-longiano-cadavere-uomo-pozzo",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
+        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T15:15:00+01:00 e contenuto coerente con la data.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 88,
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Alfa_Romeo_159_Carabinieri.jpg",
+        "alt": "Autovettura dei Carabinieri fotografata nel 2015",
+        "credit": "SkeLeBon",
+        "rights": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_159_Carabinieri.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "caption": "Repertorio · Mezzo dei Carabinieri nel 2015; non documenta le indagini di Longiano del 28 ottobre 2026.",
+        "reuseApproved": true
+      }
+    },
+    {
+      "id": "cronaca-trevigiano-monossido-due-famiglie-intossicate",
+      "eventKey": "trevigiano-monossido-due-famiglie-intossicate-28-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Monossido nel Trevigiano, soccorse dieci persone",
+      "summary": "Due famiglie a Loria e Follina sono finite in ospedale dopo episodi distinti legati all'uso di bracieri.",
+      "body": [
+        "I vigili del fuoco sono intervenuti per due episodi di intossicazione da monossido di carbonio. Sei persone sono state soccorse a Loria e quattro a Follina; per alcuni pazienti è stato necessario il trattamento in camera iperbarica."
+      ],
+      "publishedAt": "2026-10-28T14:53:00+01:00",
+      "verifiedAt": "2026-10-29T05:19:42.286Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/28/intossicazione-monossido-carbonio-treviso",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
+        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T14:53:00+01:00 e contenuto coerente con la data.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-torino-docente-aggredito-studente-carlo-grassi",
+      "eventKey": "torino-docente-aggredito-studente-carlo-grassi-28-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Torino, docente aggredito da uno studente in istituto superiore",
+      "summary": "Il professore è stato portato all'ospedale Giovanni Bosco; il ragazzo minorenne in caserma.",
+      "body": [
+        "All'istituto Carlo Grassi di Torino un insegnante è stato colpito con calci e pugni durante la mattina del 28 ottobre. Lo studente coinvolto frequenta il secondo anno delle superiori."
+      ],
+      "publishedAt": "2026-10-28T14:18:00+01:00",
+      "verifiedAt": "2026-10-29T05:19:42.286Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/28/professore-aggressione-scuola-torino",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
+        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T14:18:00+01:00 e contenuto coerente con la data.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-mestre-strage-bus-sette-patteggiamenti",
+      "eventKey": "mestre-strage-bus-sette-patteggiamenti-28-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Strage del bus di Mestre, sette patteggiamenti",
+      "summary": "La giudice di Venezia ratifica accordi per pene inferiori a due anni nell'inchiesta sul crollo del 2023.",
+      "body": [
+        "Sette dirigenti e funzionari comunali indagati per omicidio stradale plurimo hanno patteggiato. L'inchiesta riguarda il varco nella barriera di protezione del cavalcavia da cui precipitò il bus: morirono 22 persone."
+      ],
+      "publishedAt": "2026-10-28T15:40:00+01:00",
+      "verifiedAt": "2026-10-29T05:19:42.286Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/28/strage-bus-mestre",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
+        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T15:40:00+01:00 e contenuto coerente con la data.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-reggio-emilia-voragine-auto-illeso",
+      "eventKey": "reggio-emilia-voragine-auto-illeso-28-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Reggio Emilia, voragine in strada coinvolge un'automobile",
+      "summary": "Illeso il conducente; secondo Iren il cedimento è legato a una tubazione del teleriscaldamento.",
+      "body": [
+        "La voragine si è aperta all'alba in via Galileo Galilei. Un tratto della strada è stato chiuso per le operazioni di ripristino dopo l'intervento di vigili del fuoco, polizia locale e tecnici."
+      ],
+      "publishedAt": "2026-10-28T18:51:00+01:00",
+      "verifiedAt": "2026-10-29T05:19:42.286Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/video/2026/10/28/voragine-a-reggio-emilia-inghiottita-dallasfalto-1135407",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
+        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T18:51:00+01:00 e contenuto coerente con la data.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
+}
