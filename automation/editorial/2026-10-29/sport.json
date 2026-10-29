@@ -3,7 +3,7 @@
   "editionDate": "2026-10-29",
   "collectionId": "2026-10-29-pomeriggio",
   "category": "Sport",
-  "completedAt": "2026-10-29T16:03:42.083Z",
+  "completedAt": "2026-10-29T16:04:15.491Z",
   "articles": [
     {
       "id": "sport-juventus-ritiro-anticipato-napoli-29-ottobre",
@@ -119,6 +119,118 @@
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
       "leadPriority": 80
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "sport-milan-recupera-rabiot-gila-moreira-derby-29-ottobre",
+      "eventKey": "milan-recupera-rabiot-gila-moreira-derby-29-ottobre",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Milan, tre rientri in allenamento in vista del derby con l'Inter",
+      "summary": "Rabiot, Gila e Moreira sono tornati a lavorare con il gruppo prima della sfida cittadina.",
+      "body": [
+        "Sky Sport segnala che il Milan ha recuperato in allenamento Rabiot, Gila e Moreira, in vista del derby con l'Inter previsto per sabato alle 20:45.",
+        "La notizia riguarda la disponibilità in preparazione alla partita: la presenza effettiva dei tre giocatori nella formazione titolare non è ancora confermata."
+      ],
+      "publishedAt": "2026-10-29T13:15:00+01:00",
+      "verifiedAt": "2026-10-29T16:04:15.491Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/29/milan-inter-probabili-formazioni-ultime-news",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:04:15.491Z",
+        "dateEvidence": "Sky Sport, pagina derby aggiornata il 29 ott 2026 ore 13:15; allenamento del mattino.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-frosinone-lecce-29-ottobre-probabili-formazioni",
+      "eventKey": "frosinone-lecce-29-ottobre-probabili-formazioni",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Frosinone-Lecce, le scelte prima del turno infrasettimanale",
+      "summary": "La gara della nona giornata è fissata alle 18:30; le due squadre valutano cambi in difesa.",
+      "body": [
+        "Frosinone e Lecce si affrontano allo Stirpe nella nona giornata di Serie A. La presentazione di Sky Sport colloca il calcio d'inizio alle 18:30 di giovedì 29 ottobre.",
+        "Il Frosinone valuta l'impiego di Monterisi e Terzic; il Lecce deve riorganizzare il reparto arretrato per le assenze indicate alla vigilia. Sono probabili formazioni, non un risultato già acquisito."
+      ],
+      "publishedAt": "2026-10-29T15:45:00+01:00",
+      "verifiedAt": "2026-10-29T16:04:15.491Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/28/frosinone-lecce-probabili-formazioni-9-giornata",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:04:15.491Z",
+        "dateEvidence": "Sky Sport, pagina aggiornata 29 ott 2026 ore 15:45; partita fissata alle 18:30.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-inter-milan-nuovo-stadio-presentazione-29-ottobre",
+      "eventKey": "inter-milan-nuovo-stadio-presentazione-29-ottobre",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Inter e Milan, il progetto del nuovo stadio al centro della presentazione",
+      "summary": "Gli studi Foster + Partners e MANICA illustrano il piano per il futuro impianto condiviso.",
+      "body": [
+        "Il 29 ottobre è la data scelta per presentare al Castello Sforzesco il progetto del nuovo stadio di Inter e Milan, affidato agli studi Foster + Partners e MANICA.",
+        "Prima dell'evento, Sky Sport ha illustrato le ipotesi ricavate dai documenti preliminari, fra cui circa 71.500 posti e una struttura ovale. Sono stime progettuali, non dettagli definitivi certificati dalla presentazione."
+      ],
+      "publishedAt": "2026-10-29T07:28:00+01:00",
+      "verifiedAt": "2026-10-29T16:04:15.491Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/28/nuovo-san-siro-stadio-milan-inter",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:04:15.491Z",
+        "dateEvidence": "Sky Sport, approfondimento aggiornato 29 ott 2026 ore 07:28; presentazione ore 16:30.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-motogp-jorge-martin-idoneo-prove-sepang-29-ottobre",
+      "eventKey": "motogp-jorge-martin-idoneo-prove-sepang-29-ottobre",
+      "category": "Sport",
+      "status": "verified",
+      "title": "MotoGP, Jorge Martín autorizzato a provare a Sepang",
+      "summary": "Il pilota Aprilia ha ottenuto il via libera medico per le prime libere, ma sarà rivalutato.",
+      "body": [
+        "Dopo la frattura composta del radio riportata nella Sprint di Phillip Island, Jorge Martín è stato dichiarato idoneo per partecipare alla prima sessione di prove libere del GP di Malesia.",
+        "La sessione è prevista nella notte italiana fra giovedì e venerdì alle 3:45. Il personale medico controllerà nuovamente il pilota al termine delle FP1 prima di confermare il prosieguo del weekend."
+      ],
+      "publishedAt": "2026-10-29T07:05:00+01:00",
+      "verifiedAt": "2026-10-29T16:04:15.491Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/motogp/2026/10/29/motogp-jorge-martin-news-condizioni-sepang-2026",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:04:15.491Z",
+        "dateEvidence": "Sky Sport, pubblicato il 29 ott 2026 ore 07:05; idoneità limitata alla prima sessione.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-mclaren-livrea-fan-gp-messico-2026",
+      "eventKey": "mclaren-livrea-fan-gp-messico-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "McLaren porta in Messico una livrea creata con i tifosi",
+      "summary": "I contributi dei sostenitori diventano adesivi su vetture, tute e box per il Gran Premio.",
+      "body": [
+        "McLaren ha presentato una decorazione speciale per il Gran Premio del Messico, costruita a partire dai messaggi e desideri inviati dai fan del team all'inizio della stagione.",
+        "Gli elementi selezionati compariranno sulle monoposto e sulle tute di Norris e Piastri, oltre che nel box. L'iniziativa è distinta dalle scelte tecniche sulle gomme del weekend."
+      ],
+      "publishedAt": "2026-10-28T23:50:00+01:00",
+      "verifiedAt": "2026-10-29T16:04:15.491Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/formula-1/2026/10/28/f1-mclaren-livrea-gp-messico-foto",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:04:15.491Z",
+        "dateEvidence": "Sky Sport, fotogallery pubblicata il 28 ott 2026 ore 23:50; GP 30 ott-1 nov.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
   ]
 }
