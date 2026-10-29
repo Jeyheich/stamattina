@@ -1,231 +1,128 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-29",
-  "collectionId": "2026-10-29-mattina",
+  "collectionId": "2026-10-29-pomeriggio",
   "category": "Cronaca",
-  "completedAt": "2026-10-29T05:19:44.762Z",
+  "completedAt": "2026-10-29T15:21:28.088Z",
   "articles": [
     {
-      "id": "cronaca-longiano-cadavere-pozzo-indagine-omicidio",
-      "eventKey": "longiano-cadavere-pozzo-indagine-omicidio-28-ottobre-2026",
+      "id": "cronaca-ultras-puteolana-portici",
+      "eventKey": "ultras-puteolana-portici-tentato-omicidio-29-ottobre-2026",
       "category": "Cronaca",
       "status": "verified",
-      "title": "Longiano, trovato un corpo in un pozzo: indagine per omicidio",
-      "summary": "La Procura di Forlì indaga sul ritrovamento di un uomo scomparso il 7 ottobre nel Cesenate.",
+      "title": "Scontri tra ultras, contestato il tentato omicidio a otto arrestati",
+      "summary": "Le decisioni sulle misure cautelari proseguono dopo il ferimento di un tifoso.",
       "body": [
-        "Il corpo rinvenuto in un pozzo a Felloniche, nel comune di Longiano, sarebbe quello di un trentunenne scomparso il 7 ottobre. La sua automobile era stata trovata bruciata il giorno successivo.",
-        "Gli inquirenti procedono per omicidio e, secondo la ricostruzione pubblicata, vicino al pozzo sarebbero stati trovati bossoli. L'identificazione riportata dalla fonte è ancora formulata in termini non definitivi."
+        "Per gli scontri tra sostenitori di Puteolana e Portici, otto persone — tre minorenni e cinque maggiorenni — sono accusate di tentato omicidio.",
+        "Due arresti di maggiorenni sono stati convalidati; per gli altri maggiorenni è stata disposta la scarcerazione. Al momento del servizio si attendevano le decisioni sui minorenni."
       ],
-      "publishedAt": "2026-10-28T15:15:00+01:00",
-      "verifiedAt": "2026-10-29T05:19:42.286Z",
+      "publishedAt": "2026-10-29T15:57:00+01:00",
+      "verifiedAt": "2026-10-29T15:21:28.088Z",
       "source": {
         "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/10/28/omicidio-longiano-cadavere-uomo-pozzo",
+        "url": "https://tg24.sky.it/cronaca/video/2026/10/29/tifoso-ferito-ultras-accusato-tentato-omicidio-1135604",
         "access": "free",
-        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
-        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T15:15:00+01:00 e contenuto coerente con la data.",
+        "accessCheckedAt": "2026-10-29T15:21:28.088Z",
+        "dateEvidence": "Pagina Sky TG24 consultata integralmente il 29/10/2026, pubblicazione originale indicata 2026-10-29T15:57:00+01:00; data e fatti confrontati con il testo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-ex-ilva-cassazione",
+      "eventKey": "ex-ilva-cassazione-area-caldo-fermata-29-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Ex Ilva, la Cassazione conferma la fermata dell'area a caldo",
+      "summary": "Respinti i ricorsi contro il decreto della Corte d'Appello di Milano sullo stabilimento di Taranto.",
+      "body": [
+        "Le Sezioni Unite civili della Cassazione hanno rigettato i ricorsi delle società contro il provvedimento che impone la fermata dell'area a caldo dell'ex Ilva.",
+        "La decisione mantiene efficace il decreto dei giudici milanesi, motivato da rischi per salute e ambiente. Non è un annuncio di riavvio degli impianti."
+      ],
+      "publishedAt": "2026-10-29T14:45:00+01:00",
+      "verifiedAt": "2026-10-29T15:21:28.088Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/29/ex-ilva-area-a-caldo-ricorso-news",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T15:21:28.088Z",
+        "dateEvidence": "Pagina Sky TG24 consultata integralmente il 29/10/2026, pubblicazione originale indicata 2026-10-29T14:45:00+01:00; data e fatti confrontati con il testo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-verona-infermiere-arrestato",
+      "eventKey": "verona-arresto-infermiere-morte-moglie-29-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Verona, arrestato infermiere accusato di aver ucciso la moglie",
+      "summary": "L'indagine riguarda la morte nel 2024 di una donna di 32 anni, che secondo gli investigatori sarebbe stata provocata con insulina.",
+      "body": [
+        "Un infermiere di 35 anni è stato arrestato a Verona nell'ambito delle indagini sulla morte della moglie Jessica Dalla Chiara, avvenuta il 24 giugno 2024.",
+        "Secondo l'accusa l'uomo avrebbe somministrato insulina senza ragioni terapeutiche e incassato un indennizzo assicurativo. Si tratta di contestazioni investigative, non di una condanna."
+      ],
+      "publishedAt": "2026-10-29T14:02:00+01:00",
+      "verifiedAt": "2026-10-29T15:21:28.088Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/29/uccide-moglie-insulina-infermiere-arrestato",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T15:21:28.088Z",
+        "dateEvidence": "Pagina Sky TG24 consultata integralmente il 29/10/2026, pubblicazione originale indicata 2026-10-29T14:02:00+01:00; data e fatti confrontati con il testo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-milano-arresto-terrorismo",
+      "eventKey": "milano-arresto-22enne-progetti-attentati-29-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Milano, arrestato 22enne indagato per preparazione di attentati",
+      "summary": "I carabinieri riferiscono di materiale di autoaddestramento e di progetti contro luoghi di culto.",
+      "body": [
+        "Un ventiduenne è stato arrestato su ordinanza del gip di Milano nell'ambito di un'indagine per addestramento con finalità di terrorismo. Secondo gli investigatori aveva preso in considerazione attacchi a una sinagoga e a un luogo di preghiera islamica.",
+        "L'accusa richiama materiali trovati nei dispositivi dell'indagato. Le intenzioni attribuitegli sono oggetto dell'inchiesta e non vanno presentate come attentati avvenuti."
+      ],
+      "publishedAt": "2026-10-29T12:31:00+01:00",
+      "verifiedAt": "2026-10-29T15:21:28.088Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/29/terrorismo-attentati-sinagoghe-moschee-arresto-milano",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T15:21:28.088Z",
+        "dateEvidence": "Pagina Sky TG24 consultata integralmente il 29/10/2026, pubblicazione originale indicata 2026-10-29T12:31:00+01:00; data e fatti confrontati con il testo.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 88,
+      "leadPriority": 87,
       "image": {
         "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Alfa_Romeo_159_Carabinieri.jpg",
-        "alt": "Autovettura dei Carabinieri fotografata nel 2015",
+        "alt": "Autovettura del Nucleo operativo radiomobile dei Carabinieri",
         "credit": "SkeLeBon",
         "rights": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_159_Carabinieri.jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "caption": "Repertorio · Mezzo dei Carabinieri nel 2015; non documenta le indagini di Longiano del 28 ottobre 2026.",
+        "caption": "Repertorio · Auto dei Carabinieri fotografata nel 2015; non ritrae l'arresto avvenuto a Milano il 29 ottobre 2026.",
         "reuseApproved": true
       }
     },
     {
-      "id": "cronaca-trevigiano-monossido-due-famiglie-intossicate",
-      "eventKey": "trevigiano-monossido-due-famiglie-intossicate-28-ottobre-2026",
+      "id": "cronaca-etna-allerta-rossa",
+      "eventKey": "etna-cenere-allerta-rossa-aeroporto-catania-29-ottobre-2026",
       "category": "Cronaca",
       "status": "verified",
-      "title": "Monossido nel Trevigiano, soccorse dieci persone",
-      "summary": "Due famiglie a Loria e Follina sono finite in ospedale dopo episodi distinti legati all'uso di bracieri.",
+      "title": "Etna, cenere vulcanica: limitati gli arrivi a Catania",
+      "summary": "Allerta rossa per l'aviazione e tetto di dieci atterraggi all'ora fino alle 21.",
       "body": [
-        "I vigili del fuoco sono intervenuti per due episodi di intossicazione da monossido di carbonio. Sei persone sono state soccorse a Loria e quattro a Follina; per alcuni pazienti è stato necessario il trattamento in camera iperbarica."
+        "L'aeroporto di Catania ha limitato gli arrivi a dieci velivoli all'ora e chiuso il settore B1 dello spazio aereo dell'Etna a causa dell'emissione di cenere.",
+        "La società di gestione Sac ha comunicato che le misure erano previste fino alle 21 del 29 ottobre e che al momento della nota non risultavano particolari disagi ai passeggeri."
       ],
-      "publishedAt": "2026-10-28T14:53:00+01:00",
-      "verifiedAt": "2026-10-29T05:19:42.286Z",
+      "publishedAt": "2026-10-29T10:06:00+01:00",
+      "verifiedAt": "2026-10-29T15:21:28.088Z",
       "source": {
         "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/10/28/intossicazione-monossido-carbonio-treviso",
+        "url": "https://tg24.sky.it/cronaca/2026/10/29/eruzione-etna-aeroporto-catania-news",
         "access": "free",
-        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
-        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T14:53:00+01:00 e contenuto coerente con la data.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-torino-docente-aggredito-studente-carlo-grassi",
-      "eventKey": "torino-docente-aggredito-studente-carlo-grassi-28-ottobre-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Torino, docente aggredito da uno studente in istituto superiore",
-      "summary": "Il professore è stato portato all'ospedale Giovanni Bosco; il ragazzo minorenne in caserma.",
-      "body": [
-        "All'istituto Carlo Grassi di Torino un insegnante è stato colpito con calci e pugni durante la mattina del 28 ottobre. Lo studente coinvolto frequenta il secondo anno delle superiori."
-      ],
-      "publishedAt": "2026-10-28T14:18:00+01:00",
-      "verifiedAt": "2026-10-29T05:19:42.286Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/10/28/professore-aggressione-scuola-torino",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
-        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T14:18:00+01:00 e contenuto coerente con la data.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-mestre-strage-bus-sette-patteggiamenti",
-      "eventKey": "mestre-strage-bus-sette-patteggiamenti-28-ottobre-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Strage del bus di Mestre, sette patteggiamenti",
-      "summary": "La giudice di Venezia ratifica accordi per pene inferiori a due anni nell'inchiesta sul crollo del 2023.",
-      "body": [
-        "Sette dirigenti e funzionari comunali indagati per omicidio stradale plurimo hanno patteggiato. L'inchiesta riguarda il varco nella barriera di protezione del cavalcavia da cui precipitò il bus: morirono 22 persone."
-      ],
-      "publishedAt": "2026-10-28T15:40:00+01:00",
-      "verifiedAt": "2026-10-29T05:19:42.286Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/10/28/strage-bus-mestre",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
-        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T15:40:00+01:00 e contenuto coerente con la data.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-reggio-emilia-voragine-auto-illeso",
-      "eventKey": "reggio-emilia-voragine-auto-illeso-28-ottobre-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Reggio Emilia, voragine in strada coinvolge un'automobile",
-      "summary": "Illeso il conducente; secondo Iren il cedimento è legato a una tubazione del teleriscaldamento.",
-      "body": [
-        "La voragine si è aperta all'alba in via Galileo Galilei. Un tratto della strada è stato chiuso per le operazioni di ripristino dopo l'intervento di vigili del fuoco, polizia locale e tecnici."
-      ],
-      "publishedAt": "2026-10-28T18:51:00+01:00",
-      "verifiedAt": "2026-10-29T05:19:42.286Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/video/2026/10/28/voragine-a-reggio-emilia-inghiottita-dallasfalto-1135407",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
-        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T18:51:00+01:00 e contenuto coerente con la data.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    }
-  ],
-  "reserveArticles": [
-    {
-      "id": "cronaca-milano-niguarda-test-droni-trasporto-farmaci",
-      "eventKey": "milano-niguarda-test-droni-trasporto-farmaci-28-ottobre",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Niguarda sperimenta i droni per farmaci e provette urgenti",
-      "summary": "L'ospedale milanese avvia un progetto per velocizzare il trasporto di materiale sanitario leggero.",
-      "body": [
-        "La sperimentazione, condotta con partner tecnologici, riguarda consegne di campioni e farmaci per ridurre i tempi degli spostamenti tra punti di servizio."
-      ],
-      "publishedAt": "2026-10-28T16:34:00+01:00",
-      "verifiedAt": "2026-10-29T05:20:13.888Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/video/2026/10/28/milano-niguarda-droni-per-consegnare-farmaci-urgenti-1135371",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
-        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-28T16:34:00+01:00, contenuto e data verificati.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-milano-docente-inglese-licenziamento-tribunale",
-      "eventKey": "milano-docente-inglese-licenziamento-tribunale-28-ottobre",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Milano, confermato il licenziamento di una docente di inglese",
-      "summary": "Il tribunale civile accoglie la richiesta dell'istituto per incapacità didattica, dopo contestazioni sul metodo di insegnamento.",
-      "body": [
-        "Tra gli episodi esaminati c'è la proiezione in classe di un video di Lady Gaga su abusi sessuali senza adeguata preparazione o spiegazione. I giudici citano anche l'uso sistematico dell'italiano durante le lezioni di inglese."
-      ],
-      "publishedAt": "2026-10-28T12:14:00+01:00",
-      "verifiedAt": "2026-10-29T05:20:13.888Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/10/28/milano-insegnante-inglese-licenziata",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
-        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-28T12:14:00+01:00, contenuto e data verificati.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-processo-hydra-vestiti-collabora-giustizia",
-      "eventKey": "processo-hydra-vestiti-collabora-giustizia-28-ottobre",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Processo Hydra, Giancarlo Vestiti sceglie di collaborare",
-      "summary": "La decisione del presunto referente del clan Senese in Lombardia emerge in udienza a Milano.",
-      "body": [
-        "Vestiti è indicato come il sesto collaboratore nell'inchiesta Hydra sulla presunta rete mafiosa in Lombardia. La scelta processuale è stata resa nota nell'aula bunker di piazza Filangieri."
-      ],
-      "publishedAt": "2026-10-28T14:19:00+01:00",
-      "verifiedAt": "2026-10-29T05:20:13.888Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/10/28/processo-hydra-clan-senese-news",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
-        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-28T14:19:00+01:00, contenuto e data verificati.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-bologna-morte-fakir-nuova-denuncia-bodycam",
-      "eventKey": "bologna-morte-fakir-nuova-denuncia-bodycam-28-ottobre",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Morte di Fakir, i familiari presentano una nuova denuncia",
-      "summary": "L'iniziativa legale riguarda le frasi registrate durante l'intervento della polizia del 19 luglio a Bologna.",
-      "body": [
-        "Il legale della famiglia richiama audio e trascrizioni delle bodycam e prospetta un'ipotesi di reato più grave di quella finora contestata. Si tratta di accuse da accertare, non di responsabilità giudizialmente stabilite."
-      ],
-      "publishedAt": "2026-10-28T13:09:00+01:00",
-      "verifiedAt": "2026-10-29T05:20:13.888Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/10/28/morte-fakir-bologna-denuncia-famiglia-frasi-poliziotti",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
-        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-28T13:09:00+01:00, contenuto e data verificati.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-david-rossi-firenze-antimafia-indaga-omicidio",
-      "eventKey": "david-rossi-firenze-antimafia-indaga-omicidio-28-ottobre",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "David Rossi, la procura antimafia di Firenze indaga per omicidio",
-      "summary": "La morte dell'ex responsabile comunicazione di Mps, precipitato nel 2013, è oggetto di nuovi accertamenti.",
-      "body": [
-        "La novità investigativa riguarda l'ipotesi di omicidio, che non costituisce un accertamento definitivo delle circostanze della morte. La vicenda risale al 2013 a Siena."
-      ],
-      "publishedAt": "2026-10-28T14:05:00+01:00",
-      "verifiedAt": "2026-10-29T05:20:13.888Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/video/2026/10/28/morte-di-david-rossi-ora-indaga-lantimafia-per-omidio-1135318",
-        "access": "free",
-        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
-        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-28T14:05:00+01:00, contenuto e data verificati.",
+        "accessCheckedAt": "2026-10-29T15:21:28.088Z",
+        "dateEvidence": "Pagina Sky TG24 consultata integralmente il 29/10/2026, pubblicazione originale indicata 2026-10-29T10:06:00+01:00; data e fatti confrontati con il testo.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
