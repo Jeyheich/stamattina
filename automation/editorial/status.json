@@ -1,12 +1,13 @@
 {
   "editionDate": "2026-10-29",
-  "checkedAt": "2026-10-29T16:18:42.375Z",
-  "ready": true,
-  "editorialComplete": true,
-  "reserveMissing": [],
-  "completed": [
+  "checkedAt": "2026-10-29T18:18:19.111Z",
+  "ready": false,
+  "editorialComplete": false,
+  "reserveMissing": [
     "politica",
-    "esteri",
+    "esteri"
+  ],
+  "completed": [
     "economia",
     "cronaca",
     "roma",
@@ -16,68 +17,17 @@
   ],
   "inProgress": [],
   "missing": [],
-  "invalid": [],
+  "invalid": [
+    {
+      "slug": "politica",
+      "reason": "Verifica scaduta o futura"
+    },
+    {
+      "slug": "esteri",
+      "reason": "Verifica scaduta o futura"
+    }
+  ],
   "stories": [
-    {
-      "id": "politica-manovra-2027-cdm-26-miliardi-28-ottobre",
-      "category": "Politica",
-      "title": "Manovra 2027: il governo difende la scelta di concentrare gli interventi",
-      "eventKey": "manovra-2027-cdm-26-miliardi-28-ottobre"
-    },
-    {
-      "id": "politica-nordio-siher-no-ispettori-gip-29-ottobre-2026",
-      "category": "Politica",
-      "title": "Nordio sul caso Siher: nessuna ispezione dopo la decisione della gip",
-      "eventKey": "nordio-siher-no-ispettori-gip-29-ottobre-2026"
-    },
-    {
-      "id": "politica-cateno-de-luca-profezia-voto-maggio-2027-29-ottobre",
-      "category": "Politica",
-      "title": "De Luca rilancia l'ipotesi di elezioni politiche anticipate a maggio",
-      "eventKey": "cateno-de-luca-profezia-voto-maggio-2027-29-ottobre"
-    },
-    {
-      "id": "politica-crosetto-ucraina-inverno-russia-previsioni-29-ottobre",
-      "category": "Politica",
-      "title": "Crosetto: il conflitto ucraino potrebbe proseguire oltre l'inverno",
-      "eventKey": "crosetto-ucraina-inverno-russia-previsioni-29-ottobre"
-    },
-    {
-      "id": "politica-di-pietro-autocandidatura-csm-voto-28-ottobre",
-      "category": "Politica",
-      "title": "Csm, Di Pietro rivendica una candidatura autonoma dopo la prima fumata nera",
-      "eventKey": "di-pietro-autocandidatura-csm-voto-28-ottobre"
-    },
-    {
-      "id": "esteri-spagna-toledo-treni-69-morti-italiane-29-ottobre",
-      "category": "Esteri",
-      "title": "Spagna, la tragedia ferroviaria di Toledo: il bilancio sale e continuano le ricerche",
-      "eventKey": "spagna-toledo-treni-69-morti-italiane-29-ottobre"
-    },
-    {
-      "id": "esteri-israele-voto-speciale-netanyahu-senza-maggioranza-29-ottobre",
-      "category": "Esteri",
-      "title": "Israele, scrutinio ancora aperto: nessuno dei blocchi raggiunge la maggioranza",
-      "eventKey": "israele-voto-speciale-netanyahu-senza-maggioranza-29-ottobre"
-    },
-    {
-      "id": "esteri-ucraina-dnipro-treno-civile-droni-13-morti-29-ottobre",
-      "category": "Esteri",
-      "title": "Ucraina, attacco contro un treno civile a Dnipro: almeno 13 morti",
-      "eventKey": "ucraina-dnipro-treno-civile-droni-13-morti-29-ottobre"
-    },
-    {
-      "id": "esteri-brasile-flavio-bolsonaro-usa-rivendica-vittoria-28-ottobre",
-      "category": "Esteri",
-      "title": "Brasile, Flávio Bolsonaro contesta il voto dagli Stati Uniti",
-      "eventKey": "brasile-flavio-bolsonaro-usa-rivendica-vittoria-28-ottobre"
-    },
-    {
-      "id": "esteri-ue-canada-von-der-leyen-alleanza-futuro-29-ottobre",
-      "category": "Esteri",
-      "title": "Unione europea e Canada, von der Leyen propone un'alleanza economica più stretta",
-      "eventKey": "ue-canada-von-der-leyen-alleanza-futuro-29-ottobre"
-    },
     {
       "id": "economia-bce-tassi-fermi-ottobre",
       "category": "Economia",
@@ -257,66 +207,6 @@
       "category": "Sport",
       "title": "Musetti affronta Fery negli ottavi del torneo di Vienna",
       "eventKey": "tennis-vienna-musetti-fery-ottavi-29-ottobre"
-    },
-    {
-      "id": "politica-riforma-professioni-sanitarie-camera-28-ottobre",
-      "category": "Politica",
-      "title": "Professioni sanitarie, la riforma passa alla Camera e attende il Senato",
-      "eventKey": "riforma-professioni-sanitarie-camera-28-ottobre"
-    },
-    {
-      "id": "politica-salvini-precettazione-sciopero-30-ottobre",
-      "category": "Politica",
-      "title": "Sciopero del 30 ottobre, Salvini dispone la precettazione dei trasporti",
-      "eventKey": "salvini-precettazione-sciopero-30-ottobre"
-    },
-    {
-      "id": "politica-conte-primarie-campo-largo-apertura-candidati-27-ottobre",
-      "category": "Politica",
-      "title": "Centrosinistra, Conte chiede primarie rapide e aperte a più candidati",
-      "eventKey": "conte-primarie-campo-largo-apertura-candidati-27-ottobre"
-    },
-    {
-      "id": "politica-la-russa-querela-ponzani-valutazione-27-ottobre",
-      "category": "Politica",
-      "title": "La Russa valuta se ritirare la querela contro la storica Ponzani",
-      "eventKey": "la-russa-querela-ponzani-valutazione-27-ottobre"
-    },
-    {
-      "id": "politica-meloni-giornalista-stato-diritto-conferenza-28-ottobre",
-      "category": "Politica",
-      "title": "Meloni e una giornalista si confrontano sul significato dello Stato di diritto",
-      "eventKey": "meloni-giornalista-stato-diritto-conferenza-28-ottobre"
-    },
-    {
-      "id": "esteri-egitto-lina-attalah-liberata-multa-28-ottobre",
-      "category": "Esteri",
-      "title": "Egitto, libera la giornalista Lina Attalah dopo il pagamento di una multa",
-      "eventKey": "egitto-lina-attalah-liberata-multa-28-ottobre"
-    },
-    {
-      "id": "esteri-ucraina-oleshky-evacuazione-tregua-umanitaria-28-ottobre",
-      "category": "Esteri",
-      "title": "Oleshky, la tregua umanitaria apre alla preparazione delle evacuazioni",
-      "eventKey": "ucraina-oleshky-evacuazione-tregua-umanitaria-28-ottobre"
-    },
-    {
-      "id": "esteri-usa-vance-peltola-alaska-indagine-29-ottobre",
-      "category": "Esteri",
-      "title": "Midterm Usa, Vance sollecita verifiche sulla candidata democratica in Alaska",
-      "eventKey": "usa-vance-peltola-alaska-indagine-29-ottobre"
-    },
-    {
-      "id": "esteri-ue-resilienza-clima-piani-nazionali-28-ottobre",
-      "category": "Esteri",
-      "title": "Clima, Bruxelles chiede piani nazionali di adattamento al riscaldamento",
-      "eventKey": "ue-resilienza-clima-piani-nazionali-28-ottobre"
-    },
-    {
-      "id": "esteri-israele-arresti-corruzione-elettorale-indagine-29-ottobre",
-      "category": "Esteri",
-      "title": "Israele, arresti e indagini su presunti pagamenti legati al voto",
-      "eventKey": "israele-arresti-corruzione-elettorale-indagine-29-ottobre"
     },
     {
       "id": "economia-lagarde-dimissioni",
@@ -501,8 +391,8 @@
   ],
   "collectionId": "2026-10-29-pomeriggio",
   "reserveCounts": {
-    "Politica": 5,
-    "Esteri": 5,
+    "Politica": 0,
+    "Esteri": 0,
     "Economia": 5,
     "Cronaca": 5,
     "Roma": 5,
@@ -511,11 +401,6 @@
     "Sport": 5
   },
   "photoCandidates": [
-    {
-      "id": "politica-manovra-2027-cdm-26-miliardi-28-ottobre",
-      "category": "Politica",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Chigi_Roma_giugno_2024.jpg"
-    },
     {
       "id": "economia-fed-tassi-ottobre",
       "category": "Economia",
@@ -537,19 +422,19 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roma_Garbatella_teatro_Palladium.jpg"
     }
   ],
-  "photosAvailable": 5,
+  "photosAvailable": 4,
   "categoryProgress": {
     "politica": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     },
     "esteri": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     },
     "economia": {
       "base": 5,
@@ -588,9 +473,5 @@
       "complete": true
     }
   },
-  "editionId": "2026-10-29-batches-caa391bdf622",
-  "needsPublication": false,
-  "publicVerifiedAt": "2026-10-29T16:19:07.506481+00:00",
-  "publicEditionId": "2026-10-29-batches-caa391bdf622",
-  "publication": "verified"
+  "needsPublication": false
 }
