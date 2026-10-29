@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "collectionId": "2026-10-29-mattina",
-  "id": "2026-10-29-batches-ac7e85a4f19a",
+  "id": "2026-10-29-batches-354db71a66e7",
   "mode": "live",
   "editionDate": "2026-10-29",
-  "generatedAt": "2026-10-29T07:16:26.589Z",
+  "generatedAt": "2026-10-29T07:17:30.255Z",
   "timezone": "Europe/Rome",
   "scheduledFor": "2026-10-29T09:00:00+01:00",
   "essentialIds": [
@@ -1525,6 +1525,111 @@
       }
     },
     {
+      "id": "cultura-antonello-da-messina-enigma-sorriso-mostra-28-ottobre",
+      "eventKey": "antonello-da-messina-enigma-sorriso-mostra-28-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Antonello da Messina, due ritratti a confronto tra Cefalù e Torino",
+      "summary": "La mostra «L'Enigma del sorriso» mette in dialogo l'Ignoto marinaio e il Ritratto Trivulzio.",
+      "body": [
+        "Il progetto ha già superato i 25mila visitatori nella tappa siciliana, che si conclude il 4 novembre. Dal 12 novembre i due dipinti saranno esposti a Palazzo Madama a Torino, fino al 22 febbraio 2027."
+      ],
+      "publishedAt": "2026-10-28T16:13:00+01:00",
+      "verifiedAt": "2026-10-29T06:14:15.576Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/due-ritratti-al-centro-lenigma-del-sorriso-di-antonello-da-messina_3cef021b-5688-48da-b6b1-52dd07a555ae.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:14:15.576Z",
+        "dateEvidence": "ANSA Roma, 28 ottobre 2026 ore 16:13; incontro sulla mostra dei due ritratti di Antonello da Messina.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-danza-in-levare-periferie-roma-30-ottobre",
+      "eventKey": "danza-in-levare-periferie-roma-30-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Danza verticale e acrobatica nelle periferie romane con «Danza in Levare»",
+      "summary": "Dal 30 ottobre al 5 dicembre spettacoli e laboratori gratuiti coinvolgeranno Casal de' Pazzi, Corviale e Spinaceto.",
+      "body": [
+        "Il progetto trasforma le facciate e gli spazi urbani in scenografie per performance aeree e circo contemporaneo. Si apre il 30 ottobre con «Fuoribordo» della compagnia Il Posto a Villa Ipazia d'Alessandria."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-29T06:14:15.576Z",
+      "source": {
+        "name": "RaiNews TGR Lazio",
+        "url": "https://www.rainews.it/tgr/lazio/articoli/2026/10/danza-in-levare-la-periferia-di-roma-guarda-verso-lalto-026856cb-8bda-4ddc-84a2-488d9bbd76a1.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:14:15.576Z",
+        "dateEvidence": "RaiNews TGR Lazio, 28/10/2026 (data indicata sulla pagina, ora non specificata); eventi dal 30 ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-film-ragazzine-ratigher-lucca-comics-28-ottobre",
+      "eventKey": "film-ragazzine-stanno-perdendo-controllo-lucca-comics-28-ottobre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Dal fumetto al cinema, «Le ragazzine» arriva a Lucca Comics",
+      "summary": "Il film d'esordio di Pierluca Di Pasquale, tratto dalla graphic novel di Ratigher, viene presentato il 29 ottobre a Lucca Comics & Games.",
+      "body": [
+        "Dopo la partecipazione ad Alice nella città, la storia di amicizia e formazione di due adolescenti approda alla manifestazione lucchese. Sara Ciocca e Anita Serafini interpretano le protagoniste; l'uscita nelle sale è prevista per il 4 marzo 2027."
+      ],
+      "publishedAt": "2026-10-28T18:46:00+01:00",
+      "verifiedAt": "2026-10-29T07:16:24.359Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/28/le-ragazzine-stanno-perdendo-il-controllo-due-amiche-nel-viaggio-nella-vita_e73da4c3-a4f8-42de-9c4d-958fcd32d4c5.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T07:16:24.359Z",
+        "dateEvidence": "ANSA Cultura/Cinema, 28 ottobre 2026 ore 18:46; presentazione a Lucca il 29 ottobre e uscita in sala il 4 marzo 2027.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-incendi-mouawad-teatro-verdi-padova-28-ottobre",
+      "eventKey": "incendi-mouawad-prima-nazionale-teatro-verdi-padova-28-ottobre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "«Incendi» di Mouawad inaugura la stagione dello Stabile del Veneto",
+      "summary": "La tragedia contemporanea debutta in prima nazionale al Teatro Verdi di Padova con la regia di Marco Lorenzi.",
+      "body": [
+        "Lo spettacolo, in scena dal 28 ottobre al 3 novembre, intreccia una ricerca familiare con la memoria della guerra civile libanese. In scena Frédérique Loliée e Filippo Dini; per l'occasione Einaudi pubblica una nuova traduzione del testo di Monica Capuani."
+      ],
+      "publishedAt": "2026-10-28T15:42:00+01:00",
+      "verifiedAt": "2026-10-29T07:16:24.359Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/10/28/incendi-in-scena-il-capolavoro-di-wajdi-mouawad-per-spezzare-la-catena-dellodio_30215921-b284-445e-b0c6-dac166c235a8.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T07:16:24.359Z",
+        "dateEvidence": "ANSA Cultura/Teatro, 28 ottobre 2026 ore 15:42; debutto al Verdi di Padova il 28 ottobre, fino al 3 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-alberto-savinio-souvenir-pinacoteca-agnelli-28-ottobre",
+      "eventKey": "pinacoteca-agnelli-souvenir-alberto-savinio-inaugurazione-30-ottobre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "A Torino apre «Souvenir», retrospettiva dedicata ad Alberto Savinio",
+      "summary": "La Pinacoteca Agnelli inaugura il 30 ottobre una mostra con oltre settanta opere dell'artista, visitabile fino al 4 aprile 2027.",
+      "body": [
+        "La rassegna, curata da Sarah Cosulich e Pietro Rigolo, ripercorre temi e linguaggi di Savinio tra pittura, memoria e figure ibride. Nello stesso programma espositivo trovano spazio un dialogo tra Chris Ofili e Manet e un intervento di Iris Touliatou sulla Pista 500."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-29T07:16:24.359Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/piemonte/notizie/2026/10/28/alla-pinacoteca-agnelli-souvenir-di-alberto-savinio_195c3881-9e4b-4927-9cbe-62414942970d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T07:16:24.359Z",
+        "dateEvidence": "ANSA Piemonte, 28 ottobre 2026 (ora non indicata nella pagina AMP); inaugurazione il 30 ottobre, chiusura il 4 aprile 2027.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
       "id": "tecnologia-meta-waddle-world-tamagotchi-ai-filippine-28-ottobre",
       "eventKey": "meta-waddle-world-tamagotchi-ai-filippine-28-ottobre",
       "category": "Tecnologia · AI",
@@ -1771,6 +1876,11 @@
     "roma-roma-sciopero-usb-trasporti-30-ottobre-precettazione",
     "roma-liceo-mamiani-occupazione-studenti-27-ottobre",
     "roma-lazio-bilancio-consolidato-2025-approvato-28-ottobre",
+    "cultura-antonello-da-messina-enigma-sorriso-mostra-28-ottobre",
+    "cultura-danza-in-levare-periferie-roma-30-ottobre",
+    "cultura-film-ragazzine-ratigher-lucca-comics-28-ottobre",
+    "cultura-incendi-mouawad-teatro-verdi-padova-28-ottobre",
+    "cultura-alberto-savinio-souvenir-pinacoteca-agnelli-28-ottobre",
     "tecnologia-meta-waddle-world-tamagotchi-ai-filippine-28-ottobre",
     "tecnologia-firefox-smart-window-fill-watch-beta-28-ottobre",
     "tecnologia-microsoft-copilot-smart-tv-supporto-fine-2026",

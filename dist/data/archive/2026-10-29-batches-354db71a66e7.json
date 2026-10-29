@@ -1,0 +1,1895 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "2026-10-29-mattina",
+  "id": "2026-10-29-batches-354db71a66e7",
+  "mode": "live",
+  "editionDate": "2026-10-29",
+  "generatedAt": "2026-10-29T07:17:30.255Z",
+  "timezone": "Europe/Rome",
+  "scheduledFor": "2026-10-29T09:00:00+01:00",
+  "essentialIds": [
+    "economia-fed-tassi-fermi",
+    "roma-sapienza-lettere-occupazione-28-ottobre",
+    "cultura-palladium-centenario-29-ottobre-2026",
+    "politica-manovra-cdm-26-miliardi",
+    "cronaca-longiano-cadavere-pozzo-indagine-omicidio"
+  ],
+  "leadIds": [
+    "economia-fed-tassi-fermi",
+    "roma-sapienza-lettere-occupazione-28-ottobre",
+    "cultura-palladium-centenario-29-ottobre-2026",
+    "politica-manovra-cdm-26-miliardi",
+    "cronaca-longiano-cadavere-pozzo-indagine-omicidio"
+  ],
+  "compactIds": [
+    "politica-borghi-convegno-vaccini",
+    "politica-conte-programma-coalizione",
+    "politica-siher-meloni-gip-anm",
+    "politica-acquaroli-inchiesta-sisma",
+    "esteri-arabia-missile-houthi",
+    "esteri-haiti-truppe-salvador",
+    "esteri-obama-midterm-georgia",
+    "esteri-messico-sheinbaum-lepen",
+    "esteri-cardenas-morte-messico",
+    "economia-intesa-autorizzazioni-opas-mps",
+    "economia-diesel-taglio-accise-fino-7-novembre",
+    "economia-padoan-lascia-presidenza-unicredit-fine-mandato",
+    "economia-inps-calendario-pagamenti-novembre",
+    "cronaca-trevigiano-monossido-due-famiglie-intossicate",
+    "cronaca-torino-docente-aggredito-studente-carlo-grassi",
+    "cronaca-mestre-strage-bus-sette-patteggiamenti",
+    "cronaca-reggio-emilia-voragine-auto-illeso",
+    "roma-tor-bella-monaca-scippo-14enne-28-ottobre",
+    "roma-centocelle-intimidazioni-sede-prc-28-ottobre",
+    "roma-papa-avvento-cinque-parrocchie-roma-28-ottobre",
+    "roma-iacopini-trasferimento-neurochirurgia-28-ottobre",
+    "cultura-medfilm-festival-32a-edizione-28-ottobre",
+    "cultura-churchill-escaped-alone-teatro-india-28-ottobre",
+    "cultura-falstaff-opera-roma-rai3-mondovisione-1-novembre",
+    "cultura-nuova-consonanza-festival-tempo-28-ottobre",
+    "tecnologia-apple-macbook-pro-touch-proled-xdr-28-ottobre",
+    "tecnologia-microsoft-windows-certificati-emudhra-update-28-ottobre",
+    "tecnologia-google-gemini-4-carbon-modello-cyber-28-ottobre",
+    "tecnologia-sony-psn-membri-famiglia-sconosciuti-segnalazioni-28-ottobre",
+    "tecnologia-sony-playstation-plus-essential-novembre-lineup-28-ottobre",
+    "sport-genoa-juventus-2-0-28-ottobre-2026",
+    "sport-milan-bologna-2-4-28-ottobre-2026",
+    "sport-monza-napoli-1-4-28-ottobre-2026",
+    "sport-f1-gp-messico-antonelli-match-point-29-ottobre-2026",
+    "sport-musetti-batte-tiafoe-atp-vienna-28-ottobre-2026"
+  ],
+  "articles": [
+    {
+      "id": "politica-manovra-cdm-26-miliardi",
+      "eventKey": "manovra-2027-cdm-26-miliardi-28-ottobre",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Manovra da 26 miliardi: il governo illustra taglio Irpef e sostegni",
+      "summary": "Il Consiglio dei ministri ha dato il via libera a una legge di bilancio da circa 26 miliardi: tra le misure annunciate ci sono interventi sull'Irpef per il ceto medio, congedi e sanità.",
+      "body": [
+        "Il governo ha presentato il 28 ottobre i contenuti della manovra da circa 26 miliardi, includendo una nuova riduzione dell'Irpef per il ceto medio, sostegni per famiglie e lavoro e risorse per la sanità.",
+        "Tra le novità illustrate figurano un premio per lavoratori sotto i trent'anni e un voucher sanitario per anziani. Le misure dovranno seguire l'iter parlamentare: l'approvazione del Consiglio dei ministri non equivale alla legge definitiva."
+      ],
+      "publishedAt": "2026-10-28T21:16:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:03.438Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/via-libera-del-consiglio-dei-ministri-alla-manovra.-meloni-vale_a800dc0a-5e17-4252-b135-567ad9587d2b.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:03.438Z",
+        "dateEvidence": "ANSA, articolo del 28 ottobre 2026 aggiornato alle 21:16 ora di Roma; approvazione in Consiglio dei ministri.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 90,
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Palazzo_Chigi_Roma_giugno_2024.jpg",
+        "alt": "Facciata di Palazzo Chigi a Roma, sede della Presidenza del Consiglio",
+        "credit": "Sergio D’Afflitto / Wikimedia Commons",
+        "rights": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Chigi_Roma_giugno_2024.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "caption": "Palazzo Chigi, sede del Governo italiano, in una fotografia di repertorio del giugno 2024. L'immagine non documenta la riunione del 28 ottobre 2026.",
+        "reuseApproved": true
+      }
+    },
+    {
+      "id": "politica-borghi-convegno-vaccini",
+      "eventKey": "borghi-convegno-senato-no-vax-pd-28-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Convegno sui vaccini al Senato, polemica fra Borghi e Pd",
+      "summary": "L'iniziativa ospitata dal leghista Claudio Borghi al Senato provoca le critiche dei democratici, mentre Mattarella richiama l'importanza della ricerca scientifica.",
+      "body": [
+        "Un convegno con esponenti contrari ai vaccini e persone che dichiarano danni da vaccinazione è stato ospitato il 28 ottobre al Senato per iniziativa personale di Claudio Borghi.",
+        "Esponenti del Pd, tra cui Filippo Sensi e Sandra Zampa, hanno contestato l'incontro, tenuto nello stesso giorno in cui il presidente della Repubblica metteva in guardia dall'opposizione pregiudiziale ai vaccini."
+      ],
+      "publishedAt": "2026-10-28T19:56:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:03.438Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/il-leghista-borghi-chiama-no-vax-e-vittime-dei-vaccini-al-senato-scontro-col_dd738e56-052d-48e2-8391-3c96641b6bff.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:03.438Z",
+        "dateEvidence": "ANSA, Roma, 28 ottobre 2026 ore 19:56; resoconto del convegno e delle reazioni politiche.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-conte-programma-coalizione",
+      "eventKey": "conte-urgenza-programma-campo-largo-28-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Conte chiede al centrosinistra di accelerare sul programma comune",
+      "summary": "Il leader del Movimento 5 Stelle invita gli alleati a trovare un'intesa programmatica prima di discutere delle primarie per la guida della coalizione.",
+      "body": [
+        "Giuseppe Conte ha detto il 28 ottobre che il confronto sul programma del campo largo non può essere rinviato ancora, richiamando le difficoltà economiche denunciate dai cittadini.",
+        "Il presidente M5s si è dichiarato favorevole anche a primarie rapide, ma ha ribadito che la priorità è concordare i contenuti politici condivisi."
+      ],
+      "publishedAt": "2026-10-28T17:45:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:03.438Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/conte-lattesa-per-il-programma-deve-finire-ogni-giorno-sara-tardi_83b6e98f-be96-4e41-8450-3ac3d5d87f1d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:03.438Z",
+        "dateEvidence": "ANSA, Roma, 28 ottobre 2026 ore 17:45; dichiarazioni di Giuseppe Conte a margine di un evento.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-siher-meloni-gip-anm",
+      "eventKey": "siher-scarcerazione-meloni-critica-gip-anm-28-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Scarcerazione Siher, scontro tra Meloni e magistratura",
+      "summary": "La giudice milanese non convalida il fermo di Youssef Siher; la premier contesta la decisione e l'Associazione nazionale magistrati replica.",
+      "body": [
+        "Il gip di Milano Tiziana Landoni ha respinto la richiesta di convalida del fermo di Youssef Siher, ritenendo che i messaggi contestati richiamassero disobbedienza civile e libera espressione, non incitamento alla violenza.",
+        "Giorgia Meloni ha definito la decisione una mortificazione del lavoro delle forze dell'ordine; l'Anm e i vertici giudiziari milanesi hanno reagito criticando l'attacco della premier."
+      ],
+      "publishedAt": "2026-10-28T22:03:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:03.438Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/meloni-dalla-gip-di-milano-una-decisione-vergognosa-su-siher.-lanm-solidarieta_cf22bf4c-c1b3-46ba-b54f-c5e1eb028452.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:03.438Z",
+        "dateEvidence": "ANSA, 28 ottobre 2026 ore 22:03; ricostruzione del provvedimento della gip e delle reazioni istituzionali.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-acquaroli-inchiesta-sisma",
+      "eventKey": "acquaroli-inchiesta-sisma-dichiarazioni-muccia-28-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Acquaroli interviene sull'inchiesta sisma: «Se avessi saputo, avrei denunciato»",
+      "summary": "Il presidente delle Marche afferma di considerarsi danneggiato insieme alle comunità terremotate e richiama gli atti trasmessi alle autorità.",
+      "body": [
+        "Durante il consiglio regionale aperto a Muccia, Francesco Acquaroli ha commentato l'inchiesta legata al sisma, dichiarando di essere tra le persone danneggiate dalla vicenda.",
+        "Ha aggiunto che avrebbe denunciato eventuali irregolarità conosciute e ha ricordato di avere trasmesso alle autorità le risultanze della commissione tecnica su Atim."
+      ],
+      "publishedAt": "2026-10-28T16:34:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:03.438Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/inchiesta-sisma-acquaroli-sono-una-vittima-insieme-ai-marchigiani_94f9780b-f9a3-4da5-8fea-a420315c1601.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:03.438Z",
+        "dateEvidence": "ANSA, Muccia, 28 ottobre 2026 ore 16:34; dichiarazioni del presidente delle Marche.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-arabia-missile-houthi",
+      "eventKey": "arabia-saudita-intercetta-missile-houthi-29-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Arabia Saudita, intercettato un missile attribuito agli Houthi",
+      "summary": "La coalizione a guida saudita riferisce di avere abbattuto un missile balistico diretto verso la parte orientale del Paese.",
+      "body": [
+        "Il portavoce della coalizione saudita Turki al-Malki ha annunciato il 29 ottobre l'intercettazione di un missile balistico lanciato dagli Houthi verso l'area orientale del regno.",
+        "La notizia è attribuita alla dichiarazione ufficiale della coalizione. Al momento della pubblicazione dell'articolo non sono riportati dettagli su danni o vittime."
+      ],
+      "publishedAt": "2026-10-29T03:18:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:19.485Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/29/arabia-saudita-intercettato-e-distrutto-un-missile-lanciato-dagli-houthi_fb715c01-faa0-4da7-ba2c-0ddf5464b6b3.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:19.485Z",
+        "dateEvidence": "ANSA, Riad, 29 ottobre 2026 ore 03:18; dichiarazione del portavoce della coalizione.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 90
+    },
+    {
+      "id": "esteri-haiti-truppe-salvador",
+      "eventKey": "haiti-schieramento-1300-militari-el-salvador-29-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Haiti, El Salvador invia militari per rafforzare la missione di sicurezza",
+      "summary": "Secondo fonti haitiane citate dalla stampa locale, il contingente salvadoregno è salito a circa 1.300 unità per sostenere la missione internazionale contro le bande armate.",
+      "body": [
+        "Il quotidiano haitiano Le Nouvelliste, citando una fonte governativa, indica che con gli ultimi arrivi il contingente di El Salvador ad Haiti raggiunge circa 1.300 soldati.",
+        "L'operazione è presentata come un rafforzamento concordato con il governo haitiano della missione multinazionale, già impegnata contro la violenza delle bande. La cifra proviene da fonti citate e non da un conteggio indipendente."
+      ],
+      "publishedAt": "2026-10-29T02:13:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:19.485Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/29/media-el-salvador-schiera-1.300-militari-ad-haiti_5cc84ad2-e771-4966-9949-db8ec56d04fd.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:19.485Z",
+        "dateEvidence": "ANSA, Port-au-Prince, 29 ottobre 2026 ore 02:13; cita Le Nouvelliste e una fonte governativa.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-obama-midterm-georgia",
+      "eventKey": "obama-comizio-georgia-critiche-trump-midterm-29-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Midterm statunitensi, Obama attacca Trump durante un comizio in Georgia",
+      "summary": "L'ex presidente americano invita gli elettori a scegliere dirigenti seri, sostenendo candidati democratici in vista delle elezioni di metà mandato.",
+      "body": [
+        "Barack Obama è intervenuto a un comizio in Georgia a sostegno di Keisha Lance Bottoms, candidata a governatrice, e del senatore Jon Ossoff, impegnato nella rielezione.",
+        "Nel suo intervento ha criticato il linguaggio spettacolarizzato della politica della Casa Bianca e ha chiesto figure di governo capaci di affrontare questioni complesse."
+      ],
+      "publishedAt": "2026-10-29T04:48:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:19.485Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/29/obama-a-washington-ce-bisogno-di-persone-serie-non-di-reality-show_802badab-3e61-4491-b334-90f916a8d6aa.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:19.485Z",
+        "dateEvidence": "ANSA, Washington, 29 ottobre 2026 ore 04:48; resoconto del comizio in Georgia.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-messico-sheinbaum-lepen",
+      "eventKey": "sheinbaum-replica-lepen-messicanizzazione-29-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Sheinbaum respinge il paragone di Le Pen tra Francia e narcotraffico messicano",
+      "summary": "La presidente messicana critica l'uso del nome del suo Paese come sinonimo di insicurezza nel dibattito politico francese.",
+      "body": [
+        "Claudia Sheinbaum ha replicato alle parole di Marine Le Pen sul rischio di una presunta «messicanizzazione» della Francia per la criminalità organizzata.",
+        "Durante una conferenza stampa, la presidente del Messico ha invitato a riconoscere la cultura e i valori del Paese, anziché ridurlo al fenomeno dei cartelli della droga."
+      ],
+      "publishedAt": "2026-10-29T02:35:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:19.485Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/29/sheinbaum-le-pen-e-male-informata-sui-valori-del-messico_cd06b37a-492d-432a-960e-256e503c57ec.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:19.485Z",
+        "dateEvidence": "ANSA, Città del Messico, 29 ottobre 2026 ore 02:35; dichiarazioni di Sheinbaum in conferenza stampa.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-cardenas-morte-messico",
+      "eventKey": "morte-cuauhtemoc-cardenas-sinistra-messicana-28-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Messico, morto Cuauhtémoc Cárdenas, figura della transizione democratica",
+      "summary": "Il politico messicano, fondatore del Prd ed ex capo di governo eletto di Città del Messico, è morto a 92 anni.",
+      "body": [
+        "Cuauhtémoc Cárdenas, esponente storico della sinistra messicana, è morto mercoledì 28 ottobre all'età di 92 anni, secondo il resoconto pubblicato il 29 ottobre.",
+        "Fu tra i protagonisti della contestazione all'egemonia del partito unico nel 1988, contribuì alla nascita del Prd e nel 1997 divenne il primo capo di governo della capitale scelto con voto popolare."
+      ],
+      "publishedAt": "2026-10-29T04:44:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:19.485Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/29/morto-cuauhtemoc-cardenas-leader-della-sinistra-messicana_7a6d71ec-e542-4d4f-a535-c7134f202126.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:19.485Z",
+        "dateEvidence": "ANSA, Città del Messico, 29 ottobre 2026 ore 04:44; il testo colloca il decesso a mercoledì 28 ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-fed-tassi-fermi",
+      "eventKey": "fed-tassi-fermi-28-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "La Fed lascia i tassi invariati tra 3,75% e 4%",
+      "summary": "La banca centrale statunitense non modifica il costo del denaro; due componenti avrebbero preferito un aumento di un quarto di punto.",
+      "body": [
+        "La Federal Reserve ha mantenuto il tasso di riferimento nella fascia 3,75–4%, dopo il rialzo del mese precedente. La decisione del 28 ottobre è stata approvata con dieci voti favorevoli e due contrari.",
+        "La Fed segnala che l'inflazione resta elevata. Il presidente Kevin Warsh sostiene che le elezioni di metà mandato del 3 novembre non abbiano influito sulla scelta."
+      ],
+      "publishedAt": "2026-10-28T19:30:00+01:00",
+      "verifiedAt": "2026-10-29T05:19:42.286Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/28/federal-reserve-tassi-interesse",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
+        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T19:30:00+01:00 e contenuto coerente con la data.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 93,
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Federal_Reserve.jpg",
+        "alt": "Facciata della sede centrale della Federal Reserve a Washington",
+        "credit": "Dan Smith (Rdsmith4)",
+        "rights": "CC BY-SA 2.5",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Federal_Reserve.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+        "caption": "Repertorio · Sede della Federal Reserve a Washington fotografata nel 2004, non la riunione del 28 ottobre 2026.",
+        "reuseApproved": true
+      }
+    },
+    {
+      "id": "economia-intesa-autorizzazioni-opas-mps",
+      "eventKey": "intesa-autorizzazioni-opas-mps-28-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Intesa ottiene le ultime autorizzazioni preventive per l'Opas su Mps",
+      "summary": "La banca annuncia il completamento dei nulla osta di settore per l'offerta sul Monte dei Paschi; resta il passaggio del documento alla Consob.",
+      "body": [
+        "Le autorità estere competenti hanno concesso gli ultimi via libera preventivi all'acquisizione del controllo di Mps. Intesa comunica che la condizione di efficacia legata alle autorizzazioni è soddisfatta."
+      ],
+      "publishedAt": "2026-10-28T21:43:00+01:00",
+      "verifiedAt": "2026-10-29T05:19:42.286Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/28/intesa-autorizzazione-acquisizione-mps",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
+        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T21:43:00+01:00 e contenuto coerente con la data.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-diesel-taglio-accise-fino-7-novembre",
+      "eventKey": "diesel-taglio-accise-fino-7-novembre-28-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Gasolio, taglio temporaneo delle accise fino al 7 novembre",
+      "summary": "Il provvedimento riduce il prelievo di quattro centesimi al litro, quasi cinque considerando l'Iva.",
+      "body": [
+        "Il taglio sul diesel è finanziato con 38,7 milioni di euro ricavati dall'extragettito Iva di settembre. La durata iniziale è di undici giorni; un eventuale prolungamento richiederà una nuova valutazione."
+      ],
+      "publishedAt": "2026-10-28T10:34:00+01:00",
+      "verifiedAt": "2026-10-29T05:19:42.286Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/28/prezzo-diesel-taglio-accise-sconto-gasolio",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
+        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T10:34:00+01:00 e contenuto coerente con la data.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-padoan-lascia-presidenza-unicredit-fine-mandato",
+      "eventKey": "padoan-lascia-presidenza-unicredit-fine-mandato-28-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "UniCredit prepara la successione a Padoan",
+      "summary": "Il presidente lascerà alla scadenza del mandato e collaborerà alla selezione del successore.",
+      "body": [
+        "Pier Carlo Padoan lavorerà con il responsabile del Comitato nomine Jeffrey Edberg per organizzare un passaggio di consegne che mantenga continuità nella governance dell'istituto."
+      ],
+      "publishedAt": "2026-10-28T08:33:00+01:00",
+      "verifiedAt": "2026-10-29T05:19:42.286Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/28/padoan-lascia-presidenza-unicredit",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
+        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T08:33:00+01:00 e contenuto coerente con la data.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-inps-calendario-pagamenti-novembre",
+      "eventKey": "inps-calendario-pagamenti-novembre-2026-28-ottobre",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Inps, pubblicato il calendario degli accrediti di novembre",
+      "summary": "Pensioni dal 2 novembre; assegno unico ordinario il 19 e 20, con altre finestre per i diversi sostegni.",
+      "body": [
+        "Le pensioni saranno accreditate dal primo giorno bancabile, lunedì 2 novembre. L'assegno unico senza variazioni è previsto tra il 19 e il 20 novembre; NASpI e DIS-COLL seguono date individuali."
+      ],
+      "publishedAt": "2026-10-28T10:36:00+01:00",
+      "verifiedAt": "2026-10-29T05:19:42.286Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/28/pagamenti-inps-novembre-2026",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
+        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T10:36:00+01:00 e contenuto coerente con la data.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-longiano-cadavere-pozzo-indagine-omicidio",
+      "eventKey": "longiano-cadavere-pozzo-indagine-omicidio-28-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Longiano, trovato un corpo in un pozzo: indagine per omicidio",
+      "summary": "La Procura di Forlì indaga sul ritrovamento di un uomo scomparso il 7 ottobre nel Cesenate.",
+      "body": [
+        "Il corpo rinvenuto in un pozzo a Felloniche, nel comune di Longiano, sarebbe quello di un trentunenne scomparso il 7 ottobre. La sua automobile era stata trovata bruciata il giorno successivo.",
+        "Gli inquirenti procedono per omicidio e, secondo la ricostruzione pubblicata, vicino al pozzo sarebbero stati trovati bossoli. L'identificazione riportata dalla fonte è ancora formulata in termini non definitivi."
+      ],
+      "publishedAt": "2026-10-28T15:15:00+01:00",
+      "verifiedAt": "2026-10-29T05:19:42.286Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/28/omicidio-longiano-cadavere-uomo-pozzo",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
+        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T15:15:00+01:00 e contenuto coerente con la data.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 88,
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Alfa_Romeo_159_Carabinieri.jpg",
+        "alt": "Autovettura dei Carabinieri fotografata nel 2015",
+        "credit": "SkeLeBon",
+        "rights": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_159_Carabinieri.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "caption": "Repertorio · Mezzo dei Carabinieri nel 2015; non documenta le indagini di Longiano del 28 ottobre 2026.",
+        "reuseApproved": true
+      }
+    },
+    {
+      "id": "cronaca-trevigiano-monossido-due-famiglie-intossicate",
+      "eventKey": "trevigiano-monossido-due-famiglie-intossicate-28-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Monossido nel Trevigiano, soccorse dieci persone",
+      "summary": "Due famiglie a Loria e Follina sono finite in ospedale dopo episodi distinti legati all'uso di bracieri.",
+      "body": [
+        "I vigili del fuoco sono intervenuti per due episodi di intossicazione da monossido di carbonio. Sei persone sono state soccorse a Loria e quattro a Follina; per alcuni pazienti è stato necessario il trattamento in camera iperbarica."
+      ],
+      "publishedAt": "2026-10-28T14:53:00+01:00",
+      "verifiedAt": "2026-10-29T05:19:42.286Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/28/intossicazione-monossido-carbonio-treviso",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
+        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T14:53:00+01:00 e contenuto coerente con la data.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-torino-docente-aggredito-studente-carlo-grassi",
+      "eventKey": "torino-docente-aggredito-studente-carlo-grassi-28-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Torino, docente aggredito da uno studente in istituto superiore",
+      "summary": "Il professore è stato portato all'ospedale Giovanni Bosco; il ragazzo minorenne in caserma.",
+      "body": [
+        "All'istituto Carlo Grassi di Torino un insegnante è stato colpito con calci e pugni durante la mattina del 28 ottobre. Lo studente coinvolto frequenta il secondo anno delle superiori."
+      ],
+      "publishedAt": "2026-10-28T14:18:00+01:00",
+      "verifiedAt": "2026-10-29T05:19:42.286Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/28/professore-aggressione-scuola-torino",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
+        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T14:18:00+01:00 e contenuto coerente con la data.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-mestre-strage-bus-sette-patteggiamenti",
+      "eventKey": "mestre-strage-bus-sette-patteggiamenti-28-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Strage del bus di Mestre, sette patteggiamenti",
+      "summary": "La giudice di Venezia ratifica accordi per pene inferiori a due anni nell'inchiesta sul crollo del 2023.",
+      "body": [
+        "Sette dirigenti e funzionari comunali indagati per omicidio stradale plurimo hanno patteggiato. L'inchiesta riguarda il varco nella barriera di protezione del cavalcavia da cui precipitò il bus: morirono 22 persone."
+      ],
+      "publishedAt": "2026-10-28T15:40:00+01:00",
+      "verifiedAt": "2026-10-29T05:19:42.286Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/28/strage-bus-mestre",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
+        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T15:40:00+01:00 e contenuto coerente con la data.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-reggio-emilia-voragine-auto-illeso",
+      "eventKey": "reggio-emilia-voragine-auto-illeso-28-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Reggio Emilia, voragine in strada coinvolge un'automobile",
+      "summary": "Illeso il conducente; secondo Iren il cedimento è legato a una tubazione del teleriscaldamento.",
+      "body": [
+        "La voragine si è aperta all'alba in via Galileo Galilei. Un tratto della strada è stato chiuso per le operazioni di ripristino dopo l'intervento di vigili del fuoco, polizia locale e tecnici."
+      ],
+      "publishedAt": "2026-10-28T18:51:00+01:00",
+      "verifiedAt": "2026-10-29T05:19:42.286Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/video/2026/10/28/voragine-a-reggio-emilia-inghiottita-dallasfalto-1135407",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:19:42.286Z",
+        "dateEvidence": "Pagina integrale Sky TG24 consultata il 29/10/2026; pubblicazione indicata 2026-10-28T18:51:00+01:00 e contenuto coerente con la data.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-sapienza-lettere-occupazione-28-ottobre",
+      "eventKey": "sapienza-lettere-occupazione-28-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Collettivi occupano Lettere alla Sapienza dopo un'assemblea",
+      "summary": "Alla Sapienza di Roma gli studenti dei collettivi hanno annunciato l'occupazione della facoltà di Lettere e Filosofia dopo un'assemblea.",
+      "body": [
+        "Il collettivo Osa ha comunicato l'occupazione della facoltà di Lettere e Filosofia della Sapienza nella serata del 28 ottobre. Nel comunicato gli studenti collegano la protesta a mobilitazioni giovanili in altri Paesi europei.",
+        "Nello stesso periodo l'ateneo è impegnato nel ballottaggio per il nuovo rettore. L'annuncio dell'occupazione non equivale a una valutazione ufficiale dell'università sull'iniziativa."
+      ],
+      "publishedAt": "2026-10-28T18:58:00+01:00",
+      "verifiedAt": "2026-10-29T06:13:17.163Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/collettivi-occupata-la-facolta-di-lettere-alla-sapienza_69be496d-de51-4a62-8260-6797a5ca2c4f.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:13:17.163Z",
+        "dateEvidence": "Pagina ANSA del 28 ottobre 2026, ore 18:58: comunicato dei collettivi Osa sull'occupazione.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 91,
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Sapienzia_Roma.jpg",
+        "alt": "Edificio principale della Sapienza a Roma",
+        "credit": "Diagram Lajard",
+        "rights": "CC0 1.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sapienzia_Roma.jpg",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "caption": "Repertorio: edificio principale della Sapienza nel 2015; non ritrae l'occupazione del 28 ottobre 2026.",
+        "reuseApproved": true
+      }
+    },
+    {
+      "id": "roma-tor-bella-monaca-scippo-14enne-28-ottobre",
+      "eventKey": "tor-bella-monaca-scippo-14enne-28-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Tor Bella Monaca, arrestato un quattordicenne dopo uno scippo",
+      "summary": "I carabinieri hanno fermato un minorenne accusato di aver strappato una collana a una donna di 64 anni in via Casilina.",
+      "body": [
+        "Secondo la ricostruzione dei carabinieri, una pattuglia è intervenuta dopo aver sentito le richieste d'aiuto della donna e ha bloccato il giovane in fuga. La collana è stata recuperata e restituita; la vittima non è rimasta ferita."
+      ],
+      "publishedAt": "2026-10-28T14:40:00+01:00",
+      "verifiedAt": "2026-10-29T06:13:17.163Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/donna-scippata-in-strada-i-carabinieri-arrestano-un-14enne_008b4dbc-eb2b-4af4-8109-566e7888bafb.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:13:17.163Z",
+        "dateEvidence": "ANSA Roma, 28 ottobre 2026 ore 14:40; intervento dei carabinieri a Tor Bella Monaca.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-centocelle-intimidazioni-sede-prc-28-ottobre",
+      "eventKey": "centocelle-intimidazioni-sede-prc-28-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Centocelle, denunciate nuove scritte intimidatorie contro una sede di Rifondazione",
+      "summary": "Il segretario romano di Rifondazione Comunista segnala una seconda intimidazione contro la sede di via delle Acacie.",
+      "body": [
+        "Giovanni Barbera riferisce che una croce celtica e la parola «remigrazione» sono state tracciate sul cancello durante una lezione di italiano per migranti. Il partito chiede alle autorità di individuare i responsabili e rafforzare la vigilanza."
+      ],
+      "publishedAt": "2026-10-28T12:57:00+01:00",
+      "verifiedAt": "2026-10-29T06:13:17.163Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/croce-celtica-e-scritta-remigrazione-su-una-sede-del-prc-a-roma_22b2f88e-cfa5-493c-a009-b72242465214.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:13:17.163Z",
+        "dateEvidence": "ANSA Roma 28 ottobre 2026 ore 12:57; dichiarazioni di Giovanni Barbera sulla sede di Centocelle.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-papa-avvento-cinque-parrocchie-roma-28-ottobre",
+      "eventKey": "papa-avvento-cinque-parrocchie-roma-28-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Annunciate cinque visite del Papa nelle parrocchie romane durante l'Avvento",
+      "summary": "Leone XIV visiterà una parrocchia per ciascun settore pastorale della diocesi tra fine novembre e dicembre.",
+      "body": [
+        "Il calendario diffuso il 28 ottobre prevede la prima visita a Sant'Andrea delle Fratte il 27 novembre e l'ultima a San Roberto Bellarmino il 20 dicembre. Sono previsti incontri con le comunità e celebrazioni eucaristiche."
+      ],
+      "publishedAt": "2026-10-28T13:34:00+01:00",
+      "verifiedAt": "2026-10-29T06:13:17.163Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/il-papa-visitera-nel-tempo-davvento-cinque-parrocchie-di-roma_cf7049d3-60ea-431e-8b11-04b7d052ad9a.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:13:17.163Z",
+        "dateEvidence": "ANSA Roma, 28 ottobre 2026 ore 13:34; calendario delle cinque visite pastorali.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-iacopini-trasferimento-neurochirurgia-28-ottobre",
+      "eventKey": "iacopini-trasferimento-neurochirurgia-28-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Davide Iacopini trasferito in Neurochirurgia dopo il miglioramento",
+      "summary": "Il San Camillo comunica che l'attore è vigile e non necessita più di supporti intensivi.",
+      "body": [
+        "Il bollettino diffuso il 28 ottobre segnala il trasferimento di Iacopini in Neurochirurgia dopo 23 giorni di terapia intensiva. La prognosi è stata sciolta; proseguirà il percorso di cura e riabilitazione."
+      ],
+      "publishedAt": "2026-10-28T17:08:00+01:00",
+      "verifiedAt": "2026-10-29T06:13:17.163Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/spinto-dalla-minicar-iacopini-trasferito-in-reparto-e-vigile_dcd97a14-b941-40dd-a771-15ece679f0c4.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:13:17.163Z",
+        "dateEvidence": "ANSA Roma, 28 ottobre 2026 ore 17:08; bollettino ospedale San Camillo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-palladium-centenario-29-ottobre-2026",
+      "eventKey": "palladium-centenario-29-ottobre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Il Palladium celebra un secolo con tre appuntamenti teatrali e musicali",
+      "summary": "A Garbatella iniziano il 29 ottobre le celebrazioni per i cento anni dalla prima pietra del Cinema-Teatro Garbatella.",
+      "body": [
+        "L'Università Roma Tre inaugura «Palladium 100 – Un teatro per il popolo» con «Risate di gioia. Storie di gente di teatro» della compagnia Le belle bandiere. Il programma prosegue il 28 novembre con la Banda Osiris e si chiude l'11 dicembre con Niccolò Fettarappa e Lorenzo Minozzi.",
+        "Il teatro, progettato da Innocenzo Sabbatini e costruito tra il 1926 e il 1927, è stato recuperato da Roma Tre e riaperto nel 2003. Le celebrazioni ne ripercorrono il ruolo nella vita culturale della Garbatella."
+      ],
+      "publishedAt": "2026-10-28T10:45:00+01:00",
+      "verifiedAt": "2026-10-29T06:13:31.156Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/cento-anni-fa-a-roma-la-prima-pietra-del-palladium-un-teatro-per-il-popolo_889157a7-cfba-4c59-a89e-0ace66083e81.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:13:31.156Z",
+        "dateEvidence": "ANSA Roma, 28 ottobre 2026 ore 10:45; programma Palladium 100 dal 29 ottobre all'11 dicembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 91,
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Roma_Garbatella_teatro_Palladium.jpg",
+        "alt": "Ingresso principale del Teatro Palladium a Garbatella",
+        "credit": "Sergio D’Afflitto (Blackcat)",
+        "rights": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roma_Garbatella_teatro_Palladium.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "caption": "Repertorio: ingresso del Teatro Palladium, foto del 2016. Non ritrae gli spettacoli del centenario.",
+        "reuseApproved": true
+      }
+    },
+    {
+      "id": "cultura-medfilm-festival-32a-edizione-28-ottobre",
+      "eventKey": "medfilm-festival-32a-edizione-28-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "MedFilm Festival, la 32ª edizione si apre con Danielle Arbid",
+      "summary": "Dal 5 al 15 novembre il festival del cinema mediterraneo propone anteprime, retrospettive e incontri a Roma.",
+      "body": [
+        "La serata inaugurale prevede l'anteprima italiana di «Only Rebels Win» della regista franco-libanese Danielle Arbid. Il festival assegnerà un premio alla carriera a Rashid Masharawi e dedicherà una retrospettiva a Mohammad Bakri."
+      ],
+      "publishedAt": "2026-10-28T18:40:00+01:00",
+      "verifiedAt": "2026-10-29T06:13:31.156Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/torna-il-medfilm-festival-apre-danielle-arbid-con-only-rebels-win_cf371751-b8ca-46b7-bc7c-f63cb98e0714.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:13:31.156Z",
+        "dateEvidence": "ANSA Roma, 28 ottobre 2026 ore 18:40; annuncio della 32ª edizione 5-15 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-churchill-escaped-alone-teatro-india-28-ottobre",
+      "eventKey": "churchill-escaped-alone-teatro-india-28-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Caryl Churchill al Teatro India: quotidianità e visioni apocalittiche",
+      "summary": "«Escaped Alone» mette in scena quattro donne, tra conversazioni ordinarie e squarci inquietanti sul futuro.",
+      "body": [
+        "Il progetto di lacasadargilla, con la regia di Lisa Ferlazzo Natoli e Alessandro Ferroni, è in replica al Teatro India fino al 1° novembre. Il testo alterna dialoghi domestici a immagini di crisi e distruzione."
+      ],
+      "publishedAt": "2026-10-28T17:35:00+01:00",
+      "verifiedAt": "2026-10-29T06:13:31.156Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/caryl-churchill-porta-in-scena-visioni-postapocalittiche-durante-lora-del-the_052fa19c-ebcf-4a4d-b16c-050c0b544c81.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:13:31.156Z",
+        "dateEvidence": "ANSA Roma, 28 ottobre 2026 ore 17:35; recensione e repliche di Escaped Alone al Teatro India.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-falstaff-opera-roma-rai3-mondovisione-1-novembre",
+      "eventKey": "falstaff-opera-roma-rai3-mondovisione-1-novembre",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Il Falstaff dell'Opera di Roma sarà trasmesso su Rai 3 il 1° novembre",
+      "summary": "La recita conclusiva dell'opera verdiana andrà in onda in prima serata, con Michele Mariotti sul podio.",
+      "body": [
+        "Il Teatro dell'Opera annuncia la trasmissione televisiva dell'ultima replica del «Falstaff» di Verdi, diretto in scena da Tatjana Gürbaca. Rai 3 lo proporrà il 1° novembre dalle 20:40, con presentazione di Cristiana Capotondi e Maurizio Lastrico."
+      ],
+      "publishedAt": "2026-10-28T16:14:00+01:00",
+      "verifiedAt": "2026-10-29T06:13:31.156Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/opera-roma-falstaff-ultima-recita-in-diretta-e-mondovisione-su-rai-3_a4c24c61-1263-46eb-82b4-361d57414f52.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:13:31.156Z",
+        "dateEvidence": "ANSA Roma, 28 ottobre 2026 ore 16:14; annuncio Rai Cultura per la diretta del 1° novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-nuova-consonanza-festival-tempo-28-ottobre",
+      "eventKey": "nuova-consonanza-festival-tempo-28-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Nuova Consonanza presenta «Tempo», oltre quaranta eventi di musica contemporanea",
+      "summary": "La 63ª edizione del festival romano si svolgerà dal 5 novembre al 20 dicembre, con concerti e nuove esecuzioni.",
+      "body": [
+        "La rassegna rende omaggio ai fondatori Franco Evangelisti e Mauro Bortolotti nel centenario della nascita e propone il progetto «Humanitas» per gli ottant'anni dell'Assemblea Costituente. Le sedi comprendono Auditorium, Palladium e Mattatoio."
+      ],
+      "publishedAt": "2026-10-28T16:22:00+01:00",
+      "verifiedAt": "2026-10-29T06:13:31.156Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/tempo-di-innovazione-tecnologia-creativita.-il-festival-di-nuova-consonanza_10c618e0-6935-44c8-88b2-740a9988088e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:13:31.156Z",
+        "dateEvidence": "ANSA Roma, 28 ottobre 2026 ore 16:22; presentazione del Festival Nuova Consonanza 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-apple-macbook-pro-touch-proled-xdr-28-ottobre",
+      "eventKey": "apple-macbook-pro-touch-proled-xdr-28-ottobre",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "MacBook Pro con schermo touch: Apple presenta la linea PROLED XDR",
+      "summary": "I nuovi portatili da 14 e 16 pollici adottano pannelli OLED touch e processori M5 Pro e Max; consegne previste dal 6 novembre.",
+      "body": [
+        "Apple ha presentato una nuova generazione di MacBook Pro con display PROLED XDR touch, supporto alla Dynamic Island e modifiche a cerniera, peso e spessore. Le configurazioni dichiarate arrivano fino a 128 GB di RAM e 16 TB di SSD.",
+        "Le prenotazioni sono già aperte, mentre l'arrivo nei negozi è indicato per il 6 novembre. Il modello da 14 pollici parte da 3.399 euro e quello da 16 pollici da 3.999 euro."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-29T06:11:07.522Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/macbook-pro-primi-modelli-con-schermo-touch-proled-xdr/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:07.522Z",
+        "dateEvidence": "Punto Informatico riporta esplicitamente 'Pubblicato il 28 ott 2026' nell'articolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 86
+    },
+    {
+      "id": "tecnologia-microsoft-windows-certificati-emudhra-update-28-ottobre",
+      "eventKey": "microsoft-windows-certificati-emudhra-update-28-ottobre",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Windows, aggiornamenti straordinari contro certificati compromessi",
+      "summary": "Microsoft ha distribuito patch fuori ciclo per Windows 10 e 11, rivolte ai dispositivi che non aggiornano automaticamente gli elenchi di attendibilità.",
+      "body": [
+        "Il problema riguarda certificati legati a chiavi private deboli di eMudhra. Per ridurre il rischio di impersonificazione di siti o software, Microsoft ha predisposto aggiornamenti specifici per Windows 11 e Windows 10.",
+        "Gli aggiornamenti sono pensati soprattutto per ambienti senza aggiornamento automatico degli elenchi di certificati. I pacchetti citati comprendono KB5134133, KB5134130 e KB5134125, a seconda della versione del sistema."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-29T06:11:07.522Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/windows-11-update-rimuovere-certificati-compromessi/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:07.522Z",
+        "dateEvidence": "Punto Informatico mostra la data originale 'Pubblicato il 28 ott 2026'.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 77
+    },
+    {
+      "id": "tecnologia-google-gemini-4-carbon-modello-cyber-28-ottobre",
+      "eventKey": "google-gemini-4-carbon-modello-cyber-28-ottobre",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Google presenta Gemini 4 Carbon per la sicurezza del software",
+      "summary": "Il nuovo modello è destinato inizialmente a organizzazioni selezionate per individuare vulnerabilità e proporre correzioni.",
+      "body": [
+        "Google descrive Gemini 4 Carbon come un modello specializzato in attività di cybersicurezza, dalla ricerca delle falle alla produzione di patch. Deriva dalla famiglia Argon e viene proposto inizialmente a un gruppo limitato di partner.",
+        "I risultati prestazionali citati provengono dai test comunicati dall'azienda: non equivalgono a una validazione indipendente. La disponibilità al pubblico non è stata annunciata."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-29T06:11:07.522Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/gemini-4-carbon-nuovo-modello-google-capacita-cyber/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:07.522Z",
+        "dateEvidence": "Data visibile sul pezzo di Punto Informatico: 28 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 74
+    },
+    {
+      "id": "tecnologia-sony-psn-membri-famiglia-sconosciuti-segnalazioni-28-ottobre",
+      "eventKey": "sony-psn-membri-famiglia-sconosciuti-segnalazioni-28-ottobre",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "PlayStation Network, utenti segnalano profili sconosciuti nei gruppi famiglia",
+      "summary": "Diverse segnalazioni parlano di membri aggiunti senza consenso, ma Sony non ha ancora confermato una vulnerabilità.",
+      "body": [
+        "Alcuni utenti PSN riferiscono la comparsa di account estranei nella gestione famiglia. Il fenomeno ha alimentato timori per la sicurezza delle credenziali e delle informazioni associate ai profili.",
+        "Al momento della pubblicazione non risultava una spiegazione ufficiale di Sony. Si tratta quindi di segnalazioni non ancora accertate come falla tecnica, non di un attacco dimostrato."
+      ],
+      "publishedAt": "2026-10-28T12:41:00+01:00",
+      "verifiedAt": "2026-10-29T06:11:07.522Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/sony-falla-psn-utenti-segnalano-membri-sconosciuti-interno-famiglia-908463.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:07.522Z",
+        "dateEvidence": "Everyeye, Alessio Marino, 28/10/2026 ore 12:41; natura della falla non confermata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 65
+    },
+    {
+      "id": "tecnologia-sony-playstation-plus-essential-novembre-lineup-28-ottobre",
+      "eventKey": "sony-playstation-plus-essential-novembre-lineup-28-ottobre",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "PlayStation Plus svela i tre giochi Essential di novembre",
+      "summary": "Dal 3 novembre gli abbonati potranno aggiungere Dead Island 2, Tomb Raider IV–VI Remastered e Monster Train 2.",
+      "body": [
+        "Sony ha annunciato la selezione mensile per PlayStation Plus Essential: uno sparatutto a tema zombie, una raccolta rimasterizzata delle avventure classiche di Lara Croft e un roguelite strategico.",
+        "Secondo il calendario riportato, i titoli saranno riscattabili dal 3 al 30 novembre. La disponibilità richiede un abbonamento PlayStation Plus: l'articolo informativo è consultabile gratuitamente."
+      ],
+      "publishedAt": "2026-10-28T16:54:00+01:00",
+      "verifiedAt": "2026-10-29T06:11:07.522Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/playstation-plus-annunciati-giochi-gratis-novembre-908523.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:07.522Z",
+        "dateEvidence": "Everyeye, Davide Leoni, 28/10/2026 ore 16:54; annuncio e finestra di novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 72
+    },
+    {
+      "id": "sport-genoa-juventus-2-0-28-ottobre-2026",
+      "eventKey": "genoa-juventus-2-0-28-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Il Genoa batte la Juventus 2-0, decisive le reti del primo tempo",
+      "summary": "Ehizibue e Baldanzi segnano prima dell'intervallo: la squadra di De Rossi conquista tre punti contro i bianconeri.",
+      "body": [
+        "Il Genoa ha superato la Juventus per 2-0 nella nona giornata di Serie A del 28 ottobre. Ehizibue ha sbloccato il risultato al 12', Baldanzi ha raddoppiato al 28' dopo un'azione di Vitinha.",
+        "Nella ripresa la Juventus ha provato a reagire con i cambi, ma il Genoa ha difeso il vantaggio. La classifica riportata da Sky vedeva il Genoa a 10 punti e la Juventus a 14."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-29T06:11:07.522Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-9/genoa-juventus/video-highlights",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:07.522Z",
+        "dateEvidence": "Sky Sport indica Serie A, giornata 9, mercoledì 28 ottobre 2026 e risultato finale 2-0.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 92
+    },
+    {
+      "id": "sport-milan-bologna-2-4-28-ottobre-2026",
+      "eventKey": "milan-bologna-2-4-28-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Bologna corsaro a San Siro: Milan sconfitto 4-2",
+      "summary": "La tripletta di Mbangula e un'autorete ribaltano la doppietta di Cissé: primo ko rossonero in campionato.",
+      "body": [
+        "Nella nona giornata di Serie A il Bologna ha battuto il Milan 4-2. Mbangula ha segnato tre volte, mentre un'autorete di Bartesaghi ha completato il tabellino ospite.",
+        "Il Milan aveva risposto al vantaggio iniziale degli emiliani con due gol di Alphadjo Cissé. La ripresa ha cambiato l'esito dell'incontro e interrotto l'imbattibilità in campionato dei rossoneri."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-29T06:11:07.522Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-9/milan-bologna/video-highlights",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:07.522Z",
+        "dateEvidence": "Sky Sport, pagina partita Milan-Bologna, giornata 9 del 28 ottobre 2026, risultato finale 2-4.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 85
+    },
+    {
+      "id": "sport-monza-napoli-1-4-28-ottobre-2026",
+      "eventKey": "monza-napoli-1-4-28-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Napoli torna a vincere: quattro gol sul campo del Monza",
+      "summary": "Dopo l'1-1 del primo tempo, Politano, Rafa Marín e De Bruyne firmano l'allungo azzurro.",
+      "body": [
+        "Il Napoli ha battuto il Monza 4-1 nella nona giornata di Serie A. Højlund ha segnato per primo, poi Varela ha pareggiato per i padroni di casa prima dell'intervallo.",
+        "Nella seconda metà di gara sono arrivati i gol di Politano, Rafa Marín e De Bruyne. Lobotka è uscito per un problema alla caviglia; con questa vittoria il Napoli ha raggiunto quota 14 punti."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-29T06:11:07.522Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-9/monza-napoli/video-highlights",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:07.522Z",
+        "dateEvidence": "Sky Sport, partita Monza-Napoli disputata mercoledì 28 ottobre 2026, finale 1-4.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 80
+    },
+    {
+      "id": "sport-f1-gp-messico-antonelli-match-point-29-ottobre-2026",
+      "eventKey": "f1-gp-messico-antonelli-match-point-29-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Formula 1 in Messico: Antonelli ha un'altra occasione per il titolo",
+      "summary": "Il pilota italiano potrebbe conquistare il Mondiale già a Città del Messico; la gara è prevista domenica 1 novembre.",
+      "body": [
+        "Il Gran Premio di Città del Messico si apre giovedì 29 ottobre con le attività per i piloti, mentre le prove libere sono fissate per venerdì e le qualifiche per sabato.",
+        "Secondo le combinazioni presentate da Sky Sport, ad Antonelli basterebbe ottenere almeno due punti in gara per diventare campione del mondo. Il via del Gran Premio è fissato per domenica alle 21, ora italiana."
+      ],
+      "publishedAt": "2026-10-28T08:00:00+01:00",
+      "verifiedAt": "2026-10-29T06:11:07.522Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/formula-1/2026/10/28/f1-orari-gp-messico-2026",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:07.522Z",
+        "dateEvidence": "Sky Sport, guida al GP Messico pubblicata il 28 ottobre 2026 alle 08:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 78
+    },
+    {
+      "id": "sport-musetti-batte-tiafoe-atp-vienna-28-ottobre-2026",
+      "eventKey": "musetti-batte-tiafoe-atp-vienna-28-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Musetti supera Tiafoe a Vienna e avanza agli ottavi",
+      "summary": "Il tennista italiano si impone 7-6, 7-5 e allunga a sei la striscia di vittorie consecutive.",
+      "body": [
+        "Lorenzo Musetti ha sconfitto Frances Tiafoe al torneo ATP 500 di Vienna con due set combattuti, chiusi 7-6 e 7-5. Il match è durato poco più di due ore.",
+        "L'azzurro ha servito con continuità, senza concedere palle break, e si è qualificato per il turno successivo contro Arthur Fery. È la sua sesta vittoria consecutiva."
+      ],
+      "publishedAt": "2026-10-28T17:35:00+01:00",
+      "verifiedAt": "2026-10-29T06:11:07.522Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/2026/10/28/musetti-tiafoe-atp-vienna-risultato",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:07.522Z",
+        "dateEvidence": "Sky Sport, articolo del 28 ottobre 2026 alle 17:35 con punteggio 7-6 7-5.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 82
+    },
+    {
+      "id": "politica-finanziamenti-forza-italia",
+      "eventKey": "forza-italia-donazioni-tronchetti-rocca-settembre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Forza Italia pubblica i contributi: 100mila euro da Tronchetti Provera",
+      "summary": "Nell'elenco delle donazioni aggiornato a settembre compaiono anche 50mila euro versati da Gianfelice Rocca.",
+      "body": [
+        "L'elenco dei contributi a Forza Italia reso pubblico dal partito riporta un versamento di 100mila euro di Marco Tronchetti Provera e uno di 50mila euro di Gianfelice Rocca.",
+        "Il resoconto segnala inoltre donazioni di dirigenti e imprese di vari settori. I versamenti riguardano settembre, mentre la notizia è stata pubblicata il 28 ottobre."
+      ],
+      "publishedAt": "2026-10-28T15:04:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:54.398Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/tronchetti-sostiene-forza-italia-con-100mila-euro-50mila-da-gianfelice-rocca_57375946-a422-4ab9-8447-343b2fc1f755.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:54.398Z",
+        "dateEvidence": "ANSA, Roma, 28 ottobre 2026 ore 15:04; dati sui finanziamenti al partito aggiornati a settembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-eu-kids-act-garante",
+      "eventKey": "garante-privacy-eu-kids-act-audizione-camera-28-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Eu Kids Act, il Garante chiede protezione dei minori senza raccolta eccessiva di dati",
+      "summary": "Pasquale Stanzione sollecita verifiche dell'età proporzionate e attenzione alla privacy dei ragazzi durante un'audizione alla Camera.",
+      "body": [
+        "Il presidente del Garante per la protezione dei dati personali ha illustrato alla Camera la posizione dell'Autorità sul progetto europeo Eu Kids Act.",
+        "Stanzione ha chiesto limiti alla raccolta dei dati per la verifica dell'età e garanzie per l'autonomia dei minori, sottolineando anche i rischi dei chatbot che simulano rapporti personali."
+      ],
+      "publishedAt": "2026-10-28T12:21:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:54.398Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/eu-kids-act-stanzione-tutela-dei-minori-senza-sacrificare-privacy-e-autonomia_24730c09-c4f1-41df-b2b0-03b99dec4d23.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:54.398Z",
+        "dateEvidence": "ANSA, Roma, 28 ottobre 2026 ore 12:21; audizione alla XIV commissione della Camera.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-mattarella-ricerca-guerre",
+      "eventKey": "mattarella-giorni-ricerca-risorse-guerre-28-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Mattarella richiama la cooperazione scientifica contro guerre e nuove pandemie",
+      "summary": "Il capo dello Stato avverte che conflitti e programmi militari sottraggono risorse alla medicina e ostacolano la collaborazione internazionale.",
+      "body": [
+        "Alla celebrazione dei Giorni della Ricerca al Quirinale, Sergio Mattarella ha sottolineato il ruolo della collaborazione fra Paesi nel progresso medico e nella risposta alla pandemia.",
+        "Ha criticato l'assorbimento di risorse da parte dei conflitti e il sorgere di barriere alla cooperazione scientifica, richiamando la centralità della persona nelle politiche pubbliche."
+      ],
+      "publishedAt": "2026-10-28T12:12:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:54.398Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/mattarella-guerre-dissennate-e-progetti-militari-sottraggono-risorse-alla-medicina_2434bbb4-fe63-44db-a41b-77a8b16343a5.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:54.398Z",
+        "dateEvidence": "ANSA, Roma, 28 ottobre 2026 ore 12:12; intervento di Mattarella ai Giorni della Ricerca.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-riforma-artigianato",
+      "eventKey": "meloni-annuncia-decreto-riforma-artigianato-28-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Artigianato, Meloni annuncia l'aggiornamento della legge quadro del 1985",
+      "summary": "All'assemblea di Confartigianato la premier presenta il decreto destinato a modernizzare la disciplina del settore.",
+      "body": [
+        "Giorgia Meloni ha annunciato il 28 ottobre, durante l'assemblea di Confartigianato, che il Consiglio dei ministri avrebbe esaminato un decreto per aggiornare la legge quadro sull'artigianato del 1985.",
+        "La dichiarazione precede la riunione dell'esecutivo: la notizia riguarda l'annuncio dell'iniziativa e non certifica da sola il testo definitivo del provvedimento."
+      ],
+      "publishedAt": "2026-10-28T11:32:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:54.398Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/meloni-oggi-in-consiglio-dei-ministri-la-riforma-dellartigianato_cc66dc96-687f-46cf-9d0b-50c3b1cb98fe.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:54.398Z",
+        "dateEvidence": "ANSA, Roma, 28 ottobre 2026 ore 11:32; annuncio di Meloni all'assemblea Confartigianato.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-vigano-consulta-presidente",
+      "eventKey": "consulta-elegge-francesco-vigano-presidente-28-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Corte costituzionale, Francesco Viganò eletto prossimo presidente",
+      "summary": "La Consulta sceglie all'unanimità Viganò, che entrerà in carica il 14 novembre al termine del mandato di Giovanni Amoroso.",
+      "body": [
+        "La Corte costituzionale ha eletto Francesco Viganò come prossimo presidente il 28 ottobre, con voto unanime in camera di consiglio.",
+        "Già vicepresidente dal gennaio 2025, Viganò assumerà la presidenza il 14 novembre e resterà in carica fino alla scadenza del mandato di giudice, prevista per l'8 marzo 2027."
+      ],
+      "publishedAt": "2026-10-28T15:10:00+01:00",
+      "verifiedAt": "2026-10-29T05:05:54.398Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/francesco-vigano-nuovo-presidente-della-consulta-_ee122bc2-802e-43a4-b899-572cdbfcd7e0.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:05:54.398Z",
+        "dateEvidence": "ANSA, Roma, 28 ottobre 2026 ore 15:10; comunicazione dell'elezione in Corte costituzionale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-israele-elezioni-herzog",
+      "eventKey": "israele-elezioni-2026-herzog-consultazioni-netanyahu-eisenkot",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Israele, nessuna maggioranza chiara: Herzog valuta consultazioni per un governo di unità",
+      "summary": "Dopo il voto, il blocco di Netanyahu ottiene 53 seggi e quello di Eisenkot 48; i partiti arabi potrebbero diventare decisivi.",
+      "body": [
+        "Lo scrutinio delle elezioni israeliane del 28 ottobre assegna 53 seggi al blocco di Benjamin Netanyahu e 48 allo schieramento di Gadi Eisenkot, senza una maggioranza parlamentare automatica.",
+        "Secondo i media israeliani, il presidente Isaac Herzog intende incontrare separatamente i due leader per esplorare un possibile governo di unità. Le accuse di brogli lanciate dal Likud restano contestazioni del partito, non fatti accertati."
+      ],
+      "publishedAt": "2026-10-28T20:29:00+01:00",
+      "verifiedAt": "2026-10-29T05:06:20.492Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/28/israele-i-media-herzog-vedra-netanyahu-e-eisenkot-per-testare-un-governo-di-unita_74766689-3c93-4a0a-8778-21bf55ce3a7c.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:06:20.492Z",
+        "dateEvidence": "ANSA, Tel Aviv, cronaca del 28 ottobre 2026 aggiornata alle 20:29; risultati e consultazioni in evoluzione.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-spagna-treni-atocha",
+      "eventKey": "spagna-scontro-treni-toledo-audio-controllo-atocha-28-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Scontro ferroviario in Spagna, esaminate le comunicazioni con il controllo di Atocha",
+      "summary": "Registrazioni diffuse da media spagnoli sollevano interrogativi sulle autorizzazioni a ripartire impartite prima della collisione.",
+      "body": [
+        "El País e la televisione pubblica spagnola hanno diffuso audio delle comunicazioni fra il centro di controllo ferroviario di Atocha e i macchinisti dei due convogli coinvolti nello scontro vicino a Urda, in provincia di Toledo.",
+        "Secondo la ricostruzione riportata, dopo problemi al sistema automatico Lzb sarebbero state date indicazioni di riprendere la marcia a velocità normale. L'eventuale responsabilità del centro di controllo richiede ancora accertamenti."
+      ],
+      "publishedAt": "2026-10-28T23:09:00+01:00",
+      "verifiedAt": "2026-10-29T05:06:20.492Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/scontro-treni-in-spagna-audio-puntano-il-dito-su-centro-controllo-di-atocha_1af21c04-6c84-42c5-86ad-2744246bb945.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:06:20.492Z",
+        "dateEvidence": "ANSA, 28 ottobre 2026 ore 23:09; audio attribuiti a El País e Tve, indagine non conclusa.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-vance-iran-contatti",
+      "eventKey": "vance-lettera-rezaei-iran-negoziati-wsj-28-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Iran, il Wall Street Journal riferisce di una lettera di Vance per riaprire i colloqui",
+      "summary": "Secondo il quotidiano statunitense, il vicepresidente avrebbe scritto a Mohsen Rezaei su indicazione di Trump.",
+      "body": [
+        "Il Wall Street Journal, citato da ANSA, riferisce che JD Vance avrebbe contattato per lettera Mohsen Rezaei, segretario del Consiglio supremo per la sicurezza nazionale iraniano.",
+        "L'iniziativa sarebbe stata promossa da Donald Trump per cercare di rilanciare il dialogo con Teheran. La notizia è una ricostruzione giornalistica e non la conferma di negoziati ripresi."
+      ],
+      "publishedAt": "2026-10-28T21:17:00+01:00",
+      "verifiedAt": "2026-10-29T05:06:20.492Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/vance-ha-scritto-a-esponente-linea-dura-delliran-per-riavviare-i-colloqui_d51d23df-2bb1-42d1-9453-5f0297fa327e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:06:20.492Z",
+        "dateEvidence": "ANSA, Washington, 28 ottobre 2026 ore 21:17; attribuzione esplicita al Wall Street Journal.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-venezuela-oro-londra",
+      "eventKey": "venezuela-rodriguez-richiesta-oro-banca-inghilterra-29-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Venezuela, Rodríguez chiede il recupero delle riserve auree bloccate a Londra",
+      "summary": "Caracas sollecita iniziative diplomatiche e giudiziarie per ottenere l'oro depositato presso la Banca d'Inghilterra.",
+      "body": [
+        "La presidente incaricata Delcy Rodríguez ha chiesto di avviare procedure per recuperare le riserve auree venezuelane custodite nel Regno Unito e bloccate da oltre sei anni.",
+        "La controversia risale al mancato riconoscimento britannico della rielezione di Nicolás Maduro nel 2018. La valutazione riportata per le riserve è di circa 1,9 miliardi di dollari nel 2023."
+      ],
+      "publishedAt": "2026-10-29T01:51:00+01:00",
+      "verifiedAt": "2026-10-29T05:06:20.492Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/29/delcy-rodriguez-basta-scuse-sia-recuperato-loro-bloccato-a-londra_a974b5e3-c72b-436a-aaf2-47dae4fd4604.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:06:20.492Z",
+        "dateEvidence": "ANSA, Caracas, 29 ottobre 2026 ore 01:51; richiesta della presidente incaricata e contesto della controversia.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-messico-export-2026",
+      "eventKey": "messico-export-primi-nove-mesi-2026-crescita-304-percento",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Messico, esportazioni in aumento del 30,4% nei primi nove mesi del 2026",
+      "summary": "I dati statistici citati dal governo indicano vendite estere per 627,2 miliardi di dollari, con gli Stati Uniti come principale mercato.",
+      "body": [
+        "Secondo l'Istituto nazionale di statistica e geografia del Messico, le esportazioni sono cresciute del 30,4% nei primi nove mesi del 2026, arrivando a 627,2 miliardi di dollari.",
+        "La quota destinata agli Stati Uniti è stimata intorno all'80%. Claudia Sheinbaum ha sottolineato l'integrazione economica fra i due Paesi, pur insistendo sul rispetto delle rispettive sovranità."
+      ],
+      "publishedAt": "2026-10-29T02:01:00+01:00",
+      "verifiedAt": "2026-10-29T05:06:20.492Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/29/messico-lexport-cresce-di-oltre-il-30-nei-primi-nove-mesi-del-2026_549c63f0-2430-4d00-b1b5-c810ac0a67d0.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:06:20.492Z",
+        "dateEvidence": "ANSA, Città del Messico, 29 ottobre 2026 ore 02:01; dati statistici primi nove mesi e confronto settembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-ravvedimento-speciale-concordato-regole",
+      "eventKey": "ravvedimento-speciale-concordato-2026-regole-28-ottobre",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Ravvedimento speciale, le condizioni per chi rinnova il concordato",
+      "summary": "L'Agenzia delle Entrate definisce le modalità di regolarizzazione per le annualità 2020–2023.",
+      "body": [
+        "Il provvedimento del 23 ottobre disciplina il ravvedimento per contribuenti che avevano aderito al concordato preventivo biennale 2024–2025 e lo rinnovano per il 2026–2027, in presenza degli altri requisiti previsti."
+      ],
+      "publishedAt": "2026-10-28T07:00:00+01:00",
+      "verifiedAt": "2026-10-29T05:20:13.888Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/28/ravvedimento-operoso-speciale-rate-scadenze",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
+        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-28T07:00:00+01:00, contenuto e data verificati.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-mutui-variabile-cap-misto-richieste-settembre",
+      "eventKey": "mutui-2026-variabile-cap-misto-richieste-settembre",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Mutui, crescono le richieste di variabile con tetto e tasso misto",
+      "summary": "L'Osservatorio MutuiOnline registra un interesse maggiore per le formule flessibili, mentre prevale ancora il fisso.",
+      "body": [
+        "A settembre il tasso fisso medio sui mutui di 20–30 anni arriva al 3,53%; nei primi nove mesi il 92,3% delle richieste resta sul fisso. Le formule con cap e miste arrivano ciascuna al 2,1%."
+      ],
+      "publishedAt": "2026-10-28T07:00:00+01:00",
+      "verifiedAt": "2026-10-29T05:20:13.888Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/28/mutui-casa-tasso-misto-tasso-variabile-cap-quando-conviene",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
+        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-28T07:00:00+01:00, contenuto e data verificati.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-credito-gasolio-autotrasportatori-codice-7082-26-ottobre",
+      "eventKey": "credito-gasolio-autotrasportatori-codice-7082-26-ottobre",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Autotrasporto, codice 7082 per compensare il credito sul gasolio",
+      "summary": "La risoluzione delle Entrate rende operativo l'utilizzo del bonus carburante tramite F24.",
+      "body": [
+        "Il credito d'imposta destinato alle imprese di trasporto che rispettano i requisiti si può compensare con il codice tributo 7082, introdotto dalla risoluzione 40/E del 26 ottobre."
+      ],
+      "publishedAt": "2026-10-28T07:00:00+01:00",
+      "verifiedAt": "2026-10-29T05:20:13.888Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/28/bonus-carburante-codice-compensazione-credito",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
+        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-28T07:00:00+01:00, contenuto e data verificati.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-inps-arianna-assistente-generativa-400-prestazioni-27-ottobre",
+      "eventKey": "inps-arianna-assistente-generativa-400-prestazioni-27-ottobre",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Inps, Arianna orienta i cittadini su oltre 400 prestazioni",
+      "summary": "L'assistente digitale è disponibile sul sito e sull'app e risponde utilizzando informazioni dell'Istituto.",
+      "body": [
+        "Il servizio presentato il 27 ottobre permette di formulare domande in linguaggio naturale su pensioni, lavoro e sostegni. Secondo l'Inps, i test hanno completato il 97% dei casi d'uso."
+      ],
+      "publishedAt": "2026-10-27T17:55:00+01:00",
+      "verifiedAt": "2026-10-29T05:20:13.888Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/27/inps-arianna-come-funziona",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
+        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-27T17:55:00+01:00, contenuto e data verificati.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-gas-europeo-rincari-golfo-riserve-germania-27-ottobre",
+      "eventKey": "gas-europeo-rincari-golfo-riserve-germania-27-ottobre",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Gas europeo vicino ai 100 euro: pesano tensioni e scorte",
+      "summary": "Il prezzo all'ingrosso sale sui timori per forniture e costi logistici, con ricadute possibili sulle bollette.",
+      "body": [
+        "Il servizio del 27 ottobre collega i rincari ai rischi nel Golfo Persico e alle riserve tedesche al 62%, inferiori a quelle italiane indicate al 91%. È un contesto ancora rilevante, non una quotazione aggiornata al 29 ottobre."
+      ],
+      "publishedAt": "2026-10-27T19:32:00+01:00",
+      "verifiedAt": "2026-10-29T05:20:13.888Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/video/2026/10/27/perche-il-prezzo-del-gas-sale-ai-massimi-dal-2023-1135192",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
+        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-27T19:32:00+01:00, contenuto e data verificati.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-milano-niguarda-test-droni-trasporto-farmaci",
+      "eventKey": "milano-niguarda-test-droni-trasporto-farmaci-28-ottobre",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Niguarda sperimenta i droni per farmaci e provette urgenti",
+      "summary": "L'ospedale milanese avvia un progetto per velocizzare il trasporto di materiale sanitario leggero.",
+      "body": [
+        "La sperimentazione, condotta con partner tecnologici, riguarda consegne di campioni e farmaci per ridurre i tempi degli spostamenti tra punti di servizio."
+      ],
+      "publishedAt": "2026-10-28T16:34:00+01:00",
+      "verifiedAt": "2026-10-29T05:20:13.888Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/video/2026/10/28/milano-niguarda-droni-per-consegnare-farmaci-urgenti-1135371",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
+        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-28T16:34:00+01:00, contenuto e data verificati.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-milano-docente-inglese-licenziamento-tribunale",
+      "eventKey": "milano-docente-inglese-licenziamento-tribunale-28-ottobre",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Milano, confermato il licenziamento di una docente di inglese",
+      "summary": "Il tribunale civile accoglie la richiesta dell'istituto per incapacità didattica, dopo contestazioni sul metodo di insegnamento.",
+      "body": [
+        "Tra gli episodi esaminati c'è la proiezione in classe di un video di Lady Gaga su abusi sessuali senza adeguata preparazione o spiegazione. I giudici citano anche l'uso sistematico dell'italiano durante le lezioni di inglese."
+      ],
+      "publishedAt": "2026-10-28T12:14:00+01:00",
+      "verifiedAt": "2026-10-29T05:20:13.888Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/28/milano-insegnante-inglese-licenziata",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
+        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-28T12:14:00+01:00, contenuto e data verificati.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-processo-hydra-vestiti-collabora-giustizia",
+      "eventKey": "processo-hydra-vestiti-collabora-giustizia-28-ottobre",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Processo Hydra, Giancarlo Vestiti sceglie di collaborare",
+      "summary": "La decisione del presunto referente del clan Senese in Lombardia emerge in udienza a Milano.",
+      "body": [
+        "Vestiti è indicato come il sesto collaboratore nell'inchiesta Hydra sulla presunta rete mafiosa in Lombardia. La scelta processuale è stata resa nota nell'aula bunker di piazza Filangieri."
+      ],
+      "publishedAt": "2026-10-28T14:19:00+01:00",
+      "verifiedAt": "2026-10-29T05:20:13.888Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/28/processo-hydra-clan-senese-news",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
+        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-28T14:19:00+01:00, contenuto e data verificati.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-bologna-morte-fakir-nuova-denuncia-bodycam",
+      "eventKey": "bologna-morte-fakir-nuova-denuncia-bodycam-28-ottobre",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Morte di Fakir, i familiari presentano una nuova denuncia",
+      "summary": "L'iniziativa legale riguarda le frasi registrate durante l'intervento della polizia del 19 luglio a Bologna.",
+      "body": [
+        "Il legale della famiglia richiama audio e trascrizioni delle bodycam e prospetta un'ipotesi di reato più grave di quella finora contestata. Si tratta di accuse da accertare, non di responsabilità giudizialmente stabilite."
+      ],
+      "publishedAt": "2026-10-28T13:09:00+01:00",
+      "verifiedAt": "2026-10-29T05:20:13.888Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/28/morte-fakir-bologna-denuncia-famiglia-frasi-poliziotti",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
+        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-28T13:09:00+01:00, contenuto e data verificati.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-david-rossi-firenze-antimafia-indaga-omicidio",
+      "eventKey": "david-rossi-firenze-antimafia-indaga-omicidio-28-ottobre",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "David Rossi, la procura antimafia di Firenze indaga per omicidio",
+      "summary": "La morte dell'ex responsabile comunicazione di Mps, precipitato nel 2013, è oggetto di nuovi accertamenti.",
+      "body": [
+        "La novità investigativa riguarda l'ipotesi di omicidio, che non costituisce un accertamento definitivo delle circostanze della morte. La vicenda risale al 2013 a Siena."
+      ],
+      "publishedAt": "2026-10-28T14:05:00+01:00",
+      "verifiedAt": "2026-10-29T05:20:13.888Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/video/2026/10/28/morte-di-david-rossi-ora-indaga-lantimafia-per-omidio-1135318",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
+        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-28T14:05:00+01:00, contenuto e data verificati.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-san-basilio-droga-finestra-tre-arresti-28-ottobre",
+      "eventKey": "san-basilio-droga-finestra-tre-arresti-28-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "San Basilio, cocaina e hashish nascosti in una finestra: tre arresti",
+      "summary": "In un alloggio Ater di via Corinaldo i carabinieri hanno sequestrato 393 dosi di cocaina e 40 di hashish.",
+      "body": [
+        "La perquisizione ha portato all'arresto di tre uomini e al sequestro di 2.750 euro in contanti. L'abitazione risultava occupata abusivamente; il padre di uno degli arrestati è stato denunciato per l'occupazione."
+      ],
+      "publishedAt": "2026-10-28T07:55:00+01:00",
+      "verifiedAt": "2026-10-29T06:14:04.193Z",
+      "source": {
+        "name": "La Capitale",
+        "url": "https://www.lacapitale.it/articolo/san-basilio-droga-nascosta-nel-montante-di-una-finestra-tre-arresti-sequestrate-433-dosi",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:14:04.193Z",
+        "dateEvidence": "La Capitale, 28 ottobre 2026 ore 07:55; 393 dosi di cocaina e 40 di hashish sequestrate a San Basilio.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-cerveteri-54-reperti-restituiti-stato-28-ottobre",
+      "eventKey": "cerveteri-54-reperti-restituiti-stato-28-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Cerveteri, restituiti allo Stato 54 reperti archeologici",
+      "summary": "I manufatti sequestrati a Marina di Cerveteri saranno destinati ai musei del territorio.",
+      "body": [
+        "Tra i reperti figurano ceramiche etrusche, lucerne e terrecotte votive databili dal VII secolo avanti Cristo all'età romana. L'assegnazione segue la conclusione dell'iter giudiziario."
+      ],
+      "publishedAt": "2026-10-28T08:54:00+01:00",
+      "verifiedAt": "2026-10-29T06:14:04.193Z",
+      "source": {
+        "name": "La Capitale",
+        "url": "https://www.lacapitale.it/articolo/cerveteri-restituiti-allo-stato-54-reperti-archeologici-dai-vasi-etruschi-agli-ex-voto-anatomici",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:14:04.193Z",
+        "dateEvidence": "La Capitale, 28 ottobre 2026 ore 08:54; restituzione dei 54 reperti archeologici a Cerveteri.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-roma-sciopero-usb-trasporti-30-ottobre-precettazione",
+      "eventKey": "roma-sciopero-usb-trasporti-30-ottobre-precettazione",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Sciopero del 30 ottobre, Roma comunica le fasce garantite per bus e metro",
+      "summary": "Nonostante la precettazione ministeriale, USB conferma l'agitazione e Roma Mobilità segnala possibili disagi.",
+      "body": [
+        "Per il trasporto pubblico romano sono previste corse garantite fino alle 8:29 e dalle 17 alle 19:59. La situazione è soggetta a possibili variazioni e richiede un controllo prima degli spostamenti."
+      ],
+      "publishedAt": "2026-10-28T07:59:00+01:00",
+      "verifiedAt": "2026-10-29T06:14:04.193Z",
+      "source": {
+        "name": "PMI.it",
+        "url": "https://www.pmi.it/economia/lavoro/478519/scioperi-ottobre-calendario.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:14:04.193Z",
+        "dateEvidence": "PMI.it, aggiornamento del 28 ottobre 2026 ore 07:59; precettazione e conferma USB; fasce locali confermate da Roma Mobilità.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-liceo-mamiani-occupazione-studenti-27-ottobre",
+      "eventKey": "liceo-mamiani-occupazione-studenti-27-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Occupazioni scolastiche a Roma, coinvolto anche il liceo Mamiani",
+      "summary": "Il liceo Mamiani di Prati è stato occupato nel quadro di una mobilitazione che interessa diversi istituti romani.",
+      "body": [
+        "L'occupazione del 27 ottobre segue le proteste in altri licei della capitale. Studenti e sindacati discutono le condizioni degli edifici, il dialogo con le scuole e le modalità degli interventi delle forze dell'ordine."
+      ],
+      "publishedAt": "2026-10-27T13:16:00+01:00",
+      "verifiedAt": "2026-10-29T06:14:04.193Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/27/occupato-a-roma-il-liceo-mamiani_246415fe-fcd7-402b-83ed-8345876b5964.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:14:04.193Z",
+        "dateEvidence": "ANSA Roma, 27 ottobre 2026 ore 13:16; occupazione del liceo Mamiani e proteste in altre scuole.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-lazio-bilancio-consolidato-2025-approvato-28-ottobre",
+      "eventKey": "lazio-consiglio-regionale-approva-bilancio-consolidato-2025-28-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Lazio, approvato il bilancio consolidato 2025 della Regione",
+      "summary": "Il Consiglio regionale ha approvato il documento contabile del Gruppo Regione Lazio, che registra un risultato economico positivo di circa 870,5 milioni di euro.",
+      "body": [
+        "Il bilancio consolidato riunisce i dati economici e patrimoniali dell'ente e delle società e organismi controllati o partecipati. La relazione è stata illustrata dall'assessore al Bilancio Giancarlo Righini, prima del voto favorevole dell'assemblea regionale."
+      ],
+      "publishedAt": "2026-10-28T15:41:00+01:00",
+      "verifiedAt": "2026-10-29T07:16:12.562Z",
+      "source": {
+        "name": "ANSA Lazio",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/il-consiglio-regionale-approva-il-bilancio-consolidato-utile-di-870-milioni_3498c56f-a053-4ff2-8ea5-670fb2b6037f.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T07:16:12.562Z",
+        "dateEvidence": "ANSA Lazio, 28 ottobre 2026 ore 15:41, articolo sul voto del Consiglio regionale e risultato di 870.471.398 euro.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-antonello-da-messina-enigma-sorriso-mostra-28-ottobre",
+      "eventKey": "antonello-da-messina-enigma-sorriso-mostra-28-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Antonello da Messina, due ritratti a confronto tra Cefalù e Torino",
+      "summary": "La mostra «L'Enigma del sorriso» mette in dialogo l'Ignoto marinaio e il Ritratto Trivulzio.",
+      "body": [
+        "Il progetto ha già superato i 25mila visitatori nella tappa siciliana, che si conclude il 4 novembre. Dal 12 novembre i due dipinti saranno esposti a Palazzo Madama a Torino, fino al 22 febbraio 2027."
+      ],
+      "publishedAt": "2026-10-28T16:13:00+01:00",
+      "verifiedAt": "2026-10-29T06:14:15.576Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/due-ritratti-al-centro-lenigma-del-sorriso-di-antonello-da-messina_3cef021b-5688-48da-b6b1-52dd07a555ae.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:14:15.576Z",
+        "dateEvidence": "ANSA Roma, 28 ottobre 2026 ore 16:13; incontro sulla mostra dei due ritratti di Antonello da Messina.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-danza-in-levare-periferie-roma-30-ottobre",
+      "eventKey": "danza-in-levare-periferie-roma-30-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Danza verticale e acrobatica nelle periferie romane con «Danza in Levare»",
+      "summary": "Dal 30 ottobre al 5 dicembre spettacoli e laboratori gratuiti coinvolgeranno Casal de' Pazzi, Corviale e Spinaceto.",
+      "body": [
+        "Il progetto trasforma le facciate e gli spazi urbani in scenografie per performance aeree e circo contemporaneo. Si apre il 30 ottobre con «Fuoribordo» della compagnia Il Posto a Villa Ipazia d'Alessandria."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-29T06:14:15.576Z",
+      "source": {
+        "name": "RaiNews TGR Lazio",
+        "url": "https://www.rainews.it/tgr/lazio/articoli/2026/10/danza-in-levare-la-periferia-di-roma-guarda-verso-lalto-026856cb-8bda-4ddc-84a2-488d9bbd76a1.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:14:15.576Z",
+        "dateEvidence": "RaiNews TGR Lazio, 28/10/2026 (data indicata sulla pagina, ora non specificata); eventi dal 30 ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-film-ragazzine-ratigher-lucca-comics-28-ottobre",
+      "eventKey": "film-ragazzine-stanno-perdendo-controllo-lucca-comics-28-ottobre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Dal fumetto al cinema, «Le ragazzine» arriva a Lucca Comics",
+      "summary": "Il film d'esordio di Pierluca Di Pasquale, tratto dalla graphic novel di Ratigher, viene presentato il 29 ottobre a Lucca Comics & Games.",
+      "body": [
+        "Dopo la partecipazione ad Alice nella città, la storia di amicizia e formazione di due adolescenti approda alla manifestazione lucchese. Sara Ciocca e Anita Serafini interpretano le protagoniste; l'uscita nelle sale è prevista per il 4 marzo 2027."
+      ],
+      "publishedAt": "2026-10-28T18:46:00+01:00",
+      "verifiedAt": "2026-10-29T07:16:24.359Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/28/le-ragazzine-stanno-perdendo-il-controllo-due-amiche-nel-viaggio-nella-vita_e73da4c3-a4f8-42de-9c4d-958fcd32d4c5.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T07:16:24.359Z",
+        "dateEvidence": "ANSA Cultura/Cinema, 28 ottobre 2026 ore 18:46; presentazione a Lucca il 29 ottobre e uscita in sala il 4 marzo 2027.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-incendi-mouawad-teatro-verdi-padova-28-ottobre",
+      "eventKey": "incendi-mouawad-prima-nazionale-teatro-verdi-padova-28-ottobre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "«Incendi» di Mouawad inaugura la stagione dello Stabile del Veneto",
+      "summary": "La tragedia contemporanea debutta in prima nazionale al Teatro Verdi di Padova con la regia di Marco Lorenzi.",
+      "body": [
+        "Lo spettacolo, in scena dal 28 ottobre al 3 novembre, intreccia una ricerca familiare con la memoria della guerra civile libanese. In scena Frédérique Loliée e Filippo Dini; per l'occasione Einaudi pubblica una nuova traduzione del testo di Monica Capuani."
+      ],
+      "publishedAt": "2026-10-28T15:42:00+01:00",
+      "verifiedAt": "2026-10-29T07:16:24.359Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/10/28/incendi-in-scena-il-capolavoro-di-wajdi-mouawad-per-spezzare-la-catena-dellodio_30215921-b284-445e-b0c6-dac166c235a8.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T07:16:24.359Z",
+        "dateEvidence": "ANSA Cultura/Teatro, 28 ottobre 2026 ore 15:42; debutto al Verdi di Padova il 28 ottobre, fino al 3 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-alberto-savinio-souvenir-pinacoteca-agnelli-28-ottobre",
+      "eventKey": "pinacoteca-agnelli-souvenir-alberto-savinio-inaugurazione-30-ottobre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "A Torino apre «Souvenir», retrospettiva dedicata ad Alberto Savinio",
+      "summary": "La Pinacoteca Agnelli inaugura il 30 ottobre una mostra con oltre settanta opere dell'artista, visitabile fino al 4 aprile 2027.",
+      "body": [
+        "La rassegna, curata da Sarah Cosulich e Pietro Rigolo, ripercorre temi e linguaggi di Savinio tra pittura, memoria e figure ibride. Nello stesso programma espositivo trovano spazio un dialogo tra Chris Ofili e Manet e un intervento di Iris Touliatou sulla Pista 500."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-29T07:16:24.359Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/piemonte/notizie/2026/10/28/alla-pinacoteca-agnelli-souvenir-di-alberto-savinio_195c3881-9e4b-4927-9cbe-62414942970d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T07:16:24.359Z",
+        "dateEvidence": "ANSA Piemonte, 28 ottobre 2026 (ora non indicata nella pagina AMP); inaugurazione il 30 ottobre, chiusura il 4 aprile 2027.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-meta-waddle-world-tamagotchi-ai-filippine-28-ottobre",
+      "eventKey": "meta-waddle-world-tamagotchi-ai-filippine-28-ottobre",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Meta prova Waddle World, un animaletto virtuale con intelligenza artificiale",
+      "summary": "L'app sperimentale per iOS e Android è disponibile per ora nelle Filippine, con diario, ricordi e piccoli giochi.",
+      "body": [
+        "Waddle World riprende il modello dei pet virtuali: l'utente sceglie un personaggio in pixel art, lo accudisce e può raccontargli le proprie giornate. L'app genera anche un diario illustrato e propone minigiochi.",
+        "Il lancio è per ora limitato alle Filippine. Non sono state annunciate date per una diffusione internazionale, quindi non va presentato come prodotto già disponibile in Italia."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-29T06:11:33.684Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/tamagotchi-targato-meta-waddle-world/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:33.684Z",
+        "dateEvidence": "Punto Informatico, articolo di Tiziana Foglio pubblicato il 28 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-firefox-smart-window-fill-watch-beta-28-ottobre",
+      "eventKey": "firefox-smart-window-fill-watch-beta-28-ottobre",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Firefox Smart Window aggiunge compilazione assistita e monitoraggio delle pagine",
+      "summary": "La beta permette di usare le schede aperte come fonti per moduli e di sorvegliare modifiche ai siti tramite /watch.",
+      "body": [
+        "Mozilla ha introdotto due funzioni in Smart Window: Fill from sources propone testi per i moduli a partire dalle schede autorizzate dall'utente; il comando /watch può controllare pagine con cadenza giornaliera o settimanale.",
+        "Il monitoraggio richiede che il browser resti aperto. La beta è inizialmente disponibile negli Stati Uniti e in Canada; i dati usati per la compilazione vengono condivisi con un modello Google, dettaglio importante per la privacy."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-29T06:11:33.684Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/firefox-smart-windows-compila-moduli-controlla-pagine-web/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:33.684Z",
+        "dateEvidence": "Punto Informatico riporta 'Pubblicato il 28 ott 2026', con disponibilità beta USA/Canada.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-microsoft-copilot-smart-tv-supporto-fine-2026",
+      "eventKey": "microsoft-copilot-smart-tv-supporto-fine-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Microsoft prepara l'uscita di Copilot dalle smart TV",
+      "summary": "Un avviso mostrato su alcune piattaforme televisive segnala la cessazione del supporto all'assistente entro fine anno.",
+      "body": [
+        "Copilot, integrato su diversi televisori, sarà ritirato dalle smart TV secondo l'avviso di Microsoft riportato da Punto Informatico. La comunicazione non indica ancora una data precisa per la dismissione.",
+        "L'articolo ricorda le polemiche seguite all'inserimento dell'assistente su alcuni modelli LG. L'estensione della comunicazione ad altri produttori è attesa, ma le tempistiche specifiche non sono confermate."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-29T06:11:33.684Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/addio-copilot-smart-tv/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:33.684Z",
+        "dateEvidence": "Punto Informatico, articolo del 28 ottobre 2026; data di fine supporto non precisata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-call-of-duty-modern-warfare-4-stagione-1-6-novembre",
+      "eventKey": "call-of-duty-modern-warfare-4-stagione-1-6-novembre",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Modern Warfare 4 annuncia la prima stagione per il 6 novembre",
+      "summary": "Nuove mappe multiplayer, contenuti DMZ e aggiornamenti di Warzone accompagneranno l'avvio della stagione.",
+      "body": [
+        "Infinity Ward ha presentato la prima stagione di Call of Duty: Modern Warfare 4, programmata per venerdì 6 novembre alle 06:00 italiane. All'esordio sono previste le mappe Backstab, Canyon e Shoot House.",
+        "La roadmap include altre arene successive, la zona X01 Black Site per DMZ e due mappe aggiuntive per Warzone. L'annuncio descrive anche un Battle Pass con cento livelli."
+      ],
+      "publishedAt": "2026-10-28T23:32:00+01:00",
+      "verifiedAt": "2026-10-29T06:11:33.684Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/cod-modern-warfare-4-quando-inizia-stagione-1-novita-908579.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:33.684Z",
+        "dateEvidence": "Everyeye, Antonio Izzo, 28 ottobre 2026 ore 23:32; stagione prevista il 6 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-mass-effect-community-n7-day-flashmob-7-novembre",
+      "eventKey": "mass-effect-community-n7-day-flashmob-7-novembre",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "I fan di Mass Effect organizzano un'iniziativa per l'N7 Day",
+      "summary": "Il 7 novembre la community vuole ritrovarsi sulla Legendary Edition per aumentare la partecipazione simultanea.",
+      "body": [
+        "Un gruppo di appassionati della saga ha promosso una sessione coordinata di Mass Effect Legendary Edition per il 7 novembre, nell'ambito della campagna #SaveMassEffect.",
+        "Per l'Italia l'iniziativa è prevista dalle 20 alle 23. L'obiettivo dichiarato è dare visibilità alla community attraverso i dati dei giocatori contemporanei su Steam e la condivisione di schermate da altre piattaforme."
+      ],
+      "publishedAt": "2026-10-28T08:29:00+01:00",
+      "verifiedAt": "2026-10-29T06:11:33.684Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/mass-effect-community-non-arrende-programma-azione-massa-n7-day-2026-908301.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:33.684Z",
+        "dateEvidence": "Everyeye, Fabio Alberti, 28 ottobre 2026 ore 08:29; evento futuro il 7 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-venezia-inter-0-2-doppia-autorete-28-ottobre",
+      "eventKey": "venezia-inter-0-2-doppia-autorete-28-ottobre",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Inter vittoriosa a Venezia grazie a due autoreti nel finale",
+      "summary": "I nerazzurri vincono 2-0 dopo una gara a lungo bloccata e raggiungono la Lazio in testa.",
+      "body": [
+        "La partita Venezia-Inter del 28 ottobre si è risolta negli ultimi minuti: le deviazioni nella propria porta di Moreno al 79' e Halhal all'82' hanno consegnato il successo ai nerazzurri.",
+        "Prima della doppia autorete il Venezia aveva creato occasioni e visto annullare due gol per fuorigioco. Con il risultato l'Inter ha raggiunto la Lazio al vertice della classifica riportata da Sky."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-29T06:11:33.684Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-9/venezia-inter/video-highlights",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:33.684Z",
+        "dateEvidence": "Sky Sport, nona giornata Serie A mercoledì 28 ottobre 2026, finale Venezia-Inter 0-2.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-figc-calciatori-allenatori-galliani-candidatura-28-ottobre",
+      "eventKey": "figc-calciatori-allenatori-galliani-candidatura-28-ottobre",
+      "category": "Sport",
+      "status": "verified",
+      "title": "FIGC, si profila una candidatura Galliani sostenuta da calciatori e allenatori",
+      "summary": "Le due componenti starebbero valutando di proporre Galliani alla presidenza federale, ma la decisione non è definitiva.",
+      "body": [
+        "Secondo Sky Sport, le associazioni dei calciatori e degli allenatori stanno discutendo una candidatura di Adriano Galliani alla guida della FIGC. Il possibile accordo modificherebbe gli equilibri della corsa contro Giovanni Malagò.",
+        "La scelta non risultava formalizzata al momento dell'articolo. Calciatori e allenatori insieme rappresentano circa il 30% del peso elettorale; le elezioni sono attese il 14 dicembre."
+      ],
+      "publishedAt": "2026-10-28T22:30:00+01:00",
+      "verifiedAt": "2026-10-29T06:11:33.684Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/28/elezioni-presidenza-figc-calciatori-allenatori-galliani",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:33.684Z",
+        "dateEvidence": "Sky Sport, Silvia Vallini, 28 ottobre 2026 ore 22:30; candidatura ancora in discussione.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-inter-milan-presentazione-nuovo-stadio-29-ottobre",
+      "eventKey": "inter-milan-presentazione-nuovo-stadio-29-ottobre",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Milan e Inter presentano il progetto del nuovo stadio il 29 ottobre",
+      "summary": "Gli studi Foster + Partners e MANICA illustreranno il progetto al Castello Sforzesco; le caratteristiche definitive restano da valutare.",
+      "body": [
+        "Il progetto del nuovo impianto condiviso da Milan e Inter è atteso per la presentazione del 29 ottobre alle 16:30. Gli studi incaricati sono Foster + Partners e MANICA.",
+        "Le ipotesi riportate prima della presentazione comprendono una capienza intorno a 71.500 posti e due anelli. Sono indicazioni preliminari, non un progetto già approvato; l'obiettivo sarebbe aprire il cantiere nel 2027."
+      ],
+      "publishedAt": "2026-10-28T17:28:00+01:00",
+      "verifiedAt": "2026-10-29T06:11:33.684Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/28/nuovo-san-siro-stadio-milan-inter",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:33.684Z",
+        "dateEvidence": "Sky Sport, articolo del 28 ottobre 2026 alle 17:28; presentazione futura 29 ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-sergio-perez-cadillac-rinnovo-2029-28-ottobre",
+      "eventKey": "sergio-perez-cadillac-rinnovo-2029-28-ottobre",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Cadillac prolunga il contratto di Sergio Pérez fino al 2029",
+      "summary": "Il pilota messicano resterà nel progetto statunitense di Formula 1 per almeno altre tre stagioni.",
+      "body": [
+        "Cadillac ha annunciato il rinnovo pluriennale di Sergio Pérez, confermando la collaborazione almeno fino al 2029. Il pilota ha sottolineato l'impegno necessario a far crescere una squadra costruita da zero.",
+        "L'annuncio arriva prima del Gran Premio di casa a Città del Messico, in coincidenza con la sua trecentesima partenza in Formula 1. L'intesa riguarda il futuro del team, non il risultato del prossimo Gran Premio."
+      ],
+      "publishedAt": "2026-10-28T18:50:00+01:00",
+      "verifiedAt": "2026-10-29T06:11:33.684Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/formula-1/2026/10/28/f1-sergio-perez-rinnovo-cadillac-dichiarazioni",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:33.684Z",
+        "dateEvidence": "Sky Sport, 28 ottobre 2026 ore 18:50; annuncio ufficiale di rinnovo fino al 2029.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-cobolli-berrettini-primo-derby-vienna-29-ottobre",
+      "eventKey": "cobolli-berrettini-primo-derby-vienna-29-ottobre",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Cobolli e Berrettini si affrontano per la prima volta a Vienna",
+      "summary": "Il derby italiano degli ottavi è previsto alle 20 del 29 ottobre, con un posto nei quarti in palio.",
+      "body": [
+        "Flavio Cobolli e Matteo Berrettini si sfideranno per la prima volta nel circuito ATP al torneo di Vienna. La partita è programmata sul Campo Centrale alle 20, ora italiana.",
+        "Cobolli arriva dalla vittoria contro Dimitrov, mentre Berrettini ha superato Etcheverry all'esordio. Al momento della verifica l'incontro deve ancora disputarsi: non esiste un risultato da riferire."
+      ],
+      "publishedAt": "2026-10-29T06:12:00+01:00",
+      "verifiedAt": "2026-10-29T06:11:33.684Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/2026/10/29/cobolli-berrettini-atp-vienna-2026-tv-streaming",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T06:11:33.684Z",
+        "dateEvidence": "Sky Sport, 29 ottobre 2026 ore 06:12; incontro programmato alle 20 dello stesso giorno.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveIds": [
+    "politica-finanziamenti-forza-italia",
+    "politica-eu-kids-act-garante",
+    "politica-mattarella-ricerca-guerre",
+    "politica-riforma-artigianato",
+    "politica-vigano-consulta-presidente",
+    "esteri-israele-elezioni-herzog",
+    "esteri-spagna-treni-atocha",
+    "esteri-vance-iran-contatti",
+    "esteri-venezuela-oro-londra",
+    "esteri-messico-export-2026",
+    "economia-ravvedimento-speciale-concordato-regole",
+    "economia-mutui-variabile-cap-misto-richieste-settembre",
+    "economia-credito-gasolio-autotrasportatori-codice-7082-26-ottobre",
+    "economia-inps-arianna-assistente-generativa-400-prestazioni-27-ottobre",
+    "economia-gas-europeo-rincari-golfo-riserve-germania-27-ottobre",
+    "cronaca-milano-niguarda-test-droni-trasporto-farmaci",
+    "cronaca-milano-docente-inglese-licenziamento-tribunale",
+    "cronaca-processo-hydra-vestiti-collabora-giustizia",
+    "cronaca-bologna-morte-fakir-nuova-denuncia-bodycam",
+    "cronaca-david-rossi-firenze-antimafia-indaga-omicidio",
+    "roma-san-basilio-droga-finestra-tre-arresti-28-ottobre",
+    "roma-cerveteri-54-reperti-restituiti-stato-28-ottobre",
+    "roma-roma-sciopero-usb-trasporti-30-ottobre-precettazione",
+    "roma-liceo-mamiani-occupazione-studenti-27-ottobre",
+    "roma-lazio-bilancio-consolidato-2025-approvato-28-ottobre",
+    "cultura-antonello-da-messina-enigma-sorriso-mostra-28-ottobre",
+    "cultura-danza-in-levare-periferie-roma-30-ottobre",
+    "cultura-film-ragazzine-ratigher-lucca-comics-28-ottobre",
+    "cultura-incendi-mouawad-teatro-verdi-padova-28-ottobre",
+    "cultura-alberto-savinio-souvenir-pinacoteca-agnelli-28-ottobre",
+    "tecnologia-meta-waddle-world-tamagotchi-ai-filippine-28-ottobre",
+    "tecnologia-firefox-smart-window-fill-watch-beta-28-ottobre",
+    "tecnologia-microsoft-copilot-smart-tv-supporto-fine-2026",
+    "tecnologia-call-of-duty-modern-warfare-4-stagione-1-6-novembre",
+    "tecnologia-mass-effect-community-n7-day-flashmob-7-novembre",
+    "sport-venezia-inter-0-2-doppia-autorete-28-ottobre",
+    "sport-figc-calciatori-allenatori-galliani-candidatura-28-ottobre",
+    "sport-inter-milan-presentazione-nuovo-stadio-29-ottobre",
+    "sport-sergio-perez-cadillac-rinnovo-2029-28-ottobre",
+    "sport-cobolli-berrettini-primo-derby-vienna-29-ottobre"
+  ]
+}
