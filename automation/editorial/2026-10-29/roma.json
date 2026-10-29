@@ -123,7 +123,8 @@
       }
     }
   ],
-  "reserveDraft": [
+  "lastAttemptAt": "2026-10-29T06:14:04.193Z",
+  "reserveArticles": [
     {
       "id": "roma-san-basilio-droga-finestra-tre-arresti-28-ottobre",
       "eventKey": "san-basilio-droga-finestra-tre-arresti-28-ottobre",
@@ -207,7 +208,27 @@
         "dateEvidence": "ANSA Roma, 27 ottobre 2026 ore 13:16; occupazione del liceo Mamiani e proteste in altre scuole.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "roma-lazio-bilancio-consolidato-2025-approvato-28-ottobre",
+      "eventKey": "lazio-consiglio-regionale-approva-bilancio-consolidato-2025-28-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Lazio, approvato il bilancio consolidato 2025 della Regione",
+      "summary": "Il Consiglio regionale ha approvato il documento contabile del Gruppo Regione Lazio, che registra un risultato economico positivo di circa 870,5 milioni di euro.",
+      "body": [
+        "Il bilancio consolidato riunisce i dati economici e patrimoniali dell'ente e delle società e organismi controllati o partecipati. La relazione è stata illustrata dall'assessore al Bilancio Giancarlo Righini, prima del voto favorevole dell'assemblea regionale."
+      ],
+      "publishedAt": "2026-10-28T15:41:00+01:00",
+      "verifiedAt": "2026-10-29T07:16:12.562Z",
+      "source": {
+        "name": "ANSA Lazio",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/il-consiglio-regionale-approva-il-bilancio-consolidato-utile-di-870-milioni_3498c56f-a053-4ff2-8ea5-670fb2b6037f.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T07:16:12.562Z",
+        "dateEvidence": "ANSA Lazio, 28 ottobre 2026 ore 15:41, articolo sul voto del Consiglio regionale e risultato di 870.471.398 euro.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
-  ],
-  "lastAttemptAt": "2026-10-29T06:14:04.193Z"
+  ]
 }
