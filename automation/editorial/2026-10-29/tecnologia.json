@@ -3,7 +3,7 @@
   "editionDate": "2026-10-29",
   "collectionId": "2026-10-29-pomeriggio",
   "category": "Tecnologia · AI",
-  "completedAt": "2026-10-29T16:03:42.083Z",
+  "completedAt": "2026-10-29T16:04:15.491Z",
   "articles": [
     {
       "id": "tecnologia-google-registered-app-store-android17-dicembre-2026",
@@ -119,6 +119,118 @@
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
       "leadPriority": 80
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "tecnologia-apple-mac-studio-m5-ultra-512gb-prezzo-25179",
+      "eventKey": "apple-mac-studio-m5-ultra-512gb-prezzo-25179",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Mac Studio con 512 GB di RAM: configurazione da oltre 25.000 euro",
+      "summary": "Apple rende ordinabile il modello M5 Ultra con memoria massima e prezzo superiore a quello di alcune auto.",
+      "body": [
+        "La configurazione Mac Studio con chip M5 Ultra, CPU a 36 core, GPU a 80 core, 512 GB di memoria unificata e 1 TB di archiviazione costa 25.179 euro secondo il listino riportato da Punto Informatico.",
+        "Il prezzo sale ulteriormente scegliendo più spazio di archiviazione. Il modello si rivolge soprattutto a professionisti che devono eseguire carichi di lavoro molto esigenti, anche con modelli di IA in locale."
+      ],
+      "publishedAt": "2026-10-29",
+      "verifiedAt": "2026-10-29T16:04:15.491Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/mac-studio-512-gb-ram-costa-automobile/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:04:15.491Z",
+        "dateEvidence": "Punto Informatico, pubblicato il 29 ott 2026; configurazione e prezzo riportati nella pagina.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-libreoffice-26-8-2-risolti-35-bug",
+      "eventKey": "libreoffice-26-8-2-risolti-35-bug",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "LibreOffice 26.8.2 corregge circa 35 problemi",
+      "summary": "L'aggiornamento di manutenzione interviene su stabilità, compatibilità e gestione di alcuni formati Office.",
+      "body": [
+        "The Document Foundation ha pubblicato LibreOffice 26.8.2, una versione correttiva che risolve circa 35 anomalie, fra cui blocchi su macOS 27 e problemi in Writer e Impress.",
+        "La nuova release migliora anche l'importazione di file DOC, PPT e XLS. Non introduce una riscrittura della suite: chi usa installazioni gestite può valutare tempi e compatibilità prima di aggiornare."
+      ],
+      "publishedAt": "2026-10-29",
+      "verifiedAt": "2026-10-29T16:04:15.491Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/libreoffice-26-8-2/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:04:15.491Z",
+        "dateEvidence": "Punto Informatico, pubblicato il 29 ott 2026; nuova release LibreOffice 26.8.2.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-new-york-legge-chatbot-ai-minori-18-2026",
+      "eventKey": "new-york-legge-chatbot-ai-minori-18-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "New York limita i chatbot che simulano relazioni con i minorenni",
+      "summary": "Una legge firmata dalla governatrice Hochul introduce verifiche d'età e divieti su funzioni considerate rischiose.",
+      "body": [
+        "La legge dello Stato di New York impedisce di offrire ai minori di 18 anni chatbot che fingono relazioni personali o emotive, incoraggiano condotte dannose o propongono contenuti sessualmente espliciti.",
+        "Le aziende devono verificare l'età degli utenti prima di attivare certe funzionalità. Il testo prevede sanzioni per le violazioni e regole sulla cancellazione dei dati raccolti per verificare l'età."
+      ],
+      "publishedAt": "2026-10-29",
+      "verifiedAt": "2026-10-29T16:04:15.491Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/chatbot-ai-ban-minori-18-anni-new-york/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:04:15.491Z",
+        "dateEvidence": "Punto Informatico, pubblicato il 29 ott 2026; legge S.9051B/A.10379C firmata da Kathy Hochul.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-gta6-edge-intervista-meteo-dinamico-mappa-29-ottobre",
+      "eventKey": "gta6-edge-intervista-meteo-dinamico-mappa-29-ottobre",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "GTA VI, nuovi dettagli sul mondo aperto da un'intervista a Rockstar",
+      "summary": "Uno speciale di EDGE descrive meteo, interni esplorabili e comportamento degli abitanti del gioco.",
+      "body": [
+        "Everyeye riassume un approfondimento della rivista EDGE che include dichiarazioni di Rob Nelson e Aaron Garbut di Rockstar North sul progetto GTA VI. L'attenzione è rivolta alla densità della mappa e alle interazioni con i personaggi non giocanti.",
+        "Tra gli elementi descritti figurano meteo variabile, mezzi pubblici con percorsi definiti e reazioni ambientali di pedoni e veicoli. Le informazioni provengono dallo speciale, non da una prova indipendente della versione finale."
+      ],
+      "publishedAt": "2026-10-29T12:51:00+01:00",
+      "verifiedAt": "2026-10-29T16:04:15.491Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/gta-6-come-non-hai-visto-meteo-dinamico-segreti-mappa-reale-angolo-908659.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:04:15.491Z",
+        "dateEvidence": "Everyeye, Davide Leoni, 29/10/2026 ore 12:51, riassunto intervista EDGE.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-demons-souls-emulazione-ps5-pc-dlss5-video-29-ottobre",
+      "eventKey": "demons-souls-emulazione-ps5-pc-dlss5-video-29-ottobre",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Demon's Souls Remake mostrato su PC tramite emulazione e DLSS 5",
+      "summary": "Un video realizzato da un modder dimostra un esperimento grafico, non un porting ufficiale.",
+      "body": [
+        "Un creatore di contenuti ha mostrato Demon's Souls Remake eseguito su PC tramite l'emulatore PS5 Kyty e arricchito con DLSS 5 e impostazioni ReShade personalizzate.",
+        "Il filmato è stato registrato in 4K su una macchina con GeForce RTX 5090. Everyeye sottolinea che si tratta di una dimostrazione non ufficiale e non di un annuncio Sony di pubblicazione del gioco su PC."
+      ],
+      "publishedAt": "2026-10-29T13:32:00+01:00",
+      "verifiedAt": "2026-10-29T16:04:15.491Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/demon-s-souls-remake-conquista-pc-grafica-next-gen-dlss-5-906586.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:04:15.491Z",
+        "dateEvidence": "Everyeye, Giovanni Panzano, 29/10/2026 ore 13:32; dimostrazione modder con emulazione.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
   ]
 }
