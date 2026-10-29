@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "collectionId": "2026-10-29-pomeriggio",
-  "id": "2026-10-29-batches-ff02fef56a93",
+  "id": "2026-10-29-batches-caa391bdf622",
   "mode": "live",
   "editionDate": "2026-10-29",
-  "generatedAt": "2026-10-29T16:18:01.396Z",
+  "generatedAt": "2026-10-29T16:18:42.375Z",
   "timezone": "Europe/Rome",
   "scheduledFor": "2026-10-29T19:00:00+01:00",
   "essentialIds": [
@@ -1443,6 +1443,226 @@
       }
     },
     {
+      "id": "roma-furti-bar-case-supermercati-cinque-arresti-29-ottobre",
+      "eventKey": "roma-furti-bar-case-supermercati-cinque-arresti-29-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Roma, cinque arresti per furti tra bar, abitazioni e negozi",
+      "summary": "La polizia ha eseguito diversi interventi contro furti in quartieri della Capitale; recuperati anche oggetti rubati.",
+      "body": [
+        "Le indagini hanno riguardato furti di borse nei locali, intrusioni nelle abitazioni e sottrazioni di merce nei supermercati. In un caso i sospettati usavano un'auto a noleggio e auricolari per coordinarsi.",
+        "Secondo la ricostruzione giornalistica, cinque persone sono state arrestate in interventi distinti e gli arresti sono stati convalidati."
+      ],
+      "publishedAt": "2026-10-29T09:04:00+01:00",
+      "verifiedAt": "2026-10-29T16:17:58.023Z",
+      "source": {
+        "name": "La Capitale",
+        "url": "https://www.lacapitale.it/articolo/furti-in-bar-case-e-supermercati-a-roma-cinque-arresti-cuffiette-wireless-e-auto-base-per-coordinare-i-colpi",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:17:58.023Z",
+        "dateEvidence": "La Capitale, articolo pubblicato il 29 ottobre 2026 alle 09:04, cinque arresti in più episodi.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-san-basilio-droga-finestra-tre-arresti-28-ottobre",
+      "eventKey": "roma-san-basilio-droga-finestra-tre-arresti-28-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "San Basilio, dosi di stupefacenti nascoste in una finestra",
+      "summary": "I carabinieri hanno trovato 393 dosi di cocaina e 40 di hashish in un appartamento di via Corinaldo; arrestate tre persone.",
+      "body": [
+        "Durante la perquisizione di un appartamento in via Corinaldo i militari hanno individuato un nascondiglio ricavato nel montante di una finestra.",
+        "Sono state sequestrate 433 dosi di sostanze stupefacenti e 2.750 euro in contanti. Tre uomini sono stati arrestati in flagranza, secondo quanto riferito dai carabinieri."
+      ],
+      "publishedAt": "2026-10-28T07:55:00+01:00",
+      "verifiedAt": "2026-10-29T16:17:58.023Z",
+      "source": {
+        "name": "La Capitale",
+        "url": "https://www.lacapitale.it/articolo/san-basilio-droga-nascosta-nel-montante-di-una-finestra-tre-arresti-sequestrate-433-dosi",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:17:58.023Z",
+        "dateEvidence": "La Capitale, 28 ottobre 2026 ore 07:55, articolo integrale riletto nel pomeriggio del 29.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-cerveteri-54-reperti-archeologici-restituiti-28-ottobre",
+      "eventKey": "roma-cerveteri-54-reperti-archeologici-restituiti-28-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Cerveteri, 54 reperti archeologici tornano allo Stato",
+      "summary": "I carabinieri hanno riconsegnato al Ministero della Cultura manufatti sequestrati a Marina di Cerveteri.",
+      "body": [
+        "I reperti, databili tra il VII secolo avanti Cristo e l'età imperiale romana, comprendono ceramiche, lucerne ed ex voto anatomici.",
+        "Dopo la conclusione dell'iter giudiziario, i 54 manufatti sono destinati alla custodia e all'esposizione nei musei del territorio."
+      ],
+      "publishedAt": "2026-10-28T08:54:00+01:00",
+      "verifiedAt": "2026-10-29T16:17:58.023Z",
+      "source": {
+        "name": "La Capitale",
+        "url": "https://www.lacapitale.it/articolo/cerveteri-restituiti-allo-stato-54-reperti-archeologici-dai-vasi-etruschi-agli-ex-voto-anatomici",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:17:58.023Z",
+        "dateEvidence": "La Capitale, 28 ottobre 2026 ore 08:54, 54 reperti riconsegnati allo Stato.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-papa-leone-cinque-visite-parrocchie-avvento-28-ottobre",
+      "eventKey": "roma-papa-leone-cinque-visite-parrocchie-avvento-28-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Avvento, annunciate cinque visite del Papa nelle parrocchie romane",
+      "summary": "Papa Leone XIV visiterà cinque comunità della diocesi di Roma dal 27 novembre al 20 dicembre.",
+      "body": [
+        "Il calendario comprende Sant'Andrea delle Fratte il 27 novembre, San Carlo da Sezze il 29 novembre, Sant'Eligio il 6 dicembre, Santa Lucia il 13 dicembre e San Roberto Bellarmino il 20 dicembre.",
+        "Gli incontri si svolgeranno nel pomeriggio, con momenti di dialogo con le comunità parrocchiali e celebrazioni della messa."
+      ],
+      "publishedAt": "2026-10-28T13:34:00+01:00",
+      "verifiedAt": "2026-10-29T16:17:58.023Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/il-papa-visitera-nel-tempo-davvento-cinque-parrocchie-di-roma_cf7049d3-60ea-431e-8b11-04b7d052ad9a.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:17:58.023Z",
+        "dateEvidence": "ANSA Roma, 28 ottobre 2026 ore 13:34, programma delle cinque visite di Avvento.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-centocelle-intimidazione-sede-prc-28-ottobre",
+      "eventKey": "roma-centocelle-intimidazione-sede-prc-28-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Centocelle, denunciate scritte intimidatorie contro Rifondazione",
+      "summary": "Il partito segnala una nuova croce celtica e una scritta sulla sede di via delle Acacie durante attività per migranti.",
+      "body": [
+        "Secondo la denuncia del segretario locale di Rifondazione Comunista, sul cancello della sede di Centocelle sono state trovate una croce celtica e la parola 'remigrazione'.",
+        "Il partito riferisce che l'episodio è avvenuto mentre si svolgeva una lezione di italiano per migranti e chiede alle autorità di individuare i responsabili."
+      ],
+      "publishedAt": "2026-10-28T12:57:00+01:00",
+      "verifiedAt": "2026-10-29T16:17:58.023Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/croce-celtica-e-scritta-remigrazione-su-una-sede-del-prc-a-roma_22b2f88e-cfa5-493c-a009-b72242465214.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:17:58.023Z",
+        "dateEvidence": "ANSA Roma, 28 ottobre 2026 ore 12:57, denuncia del segretario locale PRC.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-falstaff-opera-roma-rai3-mondovisione-1-novembre",
+      "eventKey": "cultura-falstaff-opera-roma-rai3-mondovisione-1-novembre",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "«Falstaff» dell'Opera di Roma in diretta su Rai 3 il 1° novembre",
+      "summary": "L'ultima recita del capolavoro di Verdi sarà trasmessa in prima serata dal Teatro Costanzi.",
+      "body": [
+        "Domenica 1° novembre alle 20:40 Rai 3 trasmetterà in diretta l'ultima recita del «Falstaff» diretto da Michele Mariotti e con la regia teatrale di Tatjana Gürbaca.",
+        "Il collegamento è curato da Rai Cultura; Cristiana Capotondi e Maurizio Lastrico accompagneranno il racconto televisivo."
+      ],
+      "publishedAt": "2026-10-28T16:14:00+01:00",
+      "verifiedAt": "2026-10-29T16:18:15.359Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/opera-roma-falstaff-ultima-recita-in-diretta-e-mondovisione-su-rai-3_a4c24c61-1263-46eb-82b4-361d57414f52.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:18:15.359Z",
+        "dateEvidence": "ANSA Roma, pubblicazione 28 ottobre 2026 ore 16:14; recita in programma il 1 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-nuova-consonanza-tempo-festival-28-ottobre",
+      "eventKey": "cultura-nuova-consonanza-tempo-festival-28-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Nuova Consonanza presenta il festival «Tempo» a Roma",
+      "summary": "La 63ª edizione propone oltre quaranta appuntamenti tra concerti, teatro musicale e incontri.",
+      "body": [
+        "Il festival di musica contemporanea «Tempo» si svolgerà a Roma tra novembre e dicembre con concerti, performance e workshop, secondo il programma presentato dagli organizzatori.",
+        "L'apertura renderà omaggio ai compositori Franco Evangelisti e Mauro Bortolotti, nel centenario della loro nascita."
+      ],
+      "publishedAt": "2026-10-28T16:22:00+01:00",
+      "verifiedAt": "2026-10-29T16:18:15.359Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/tempo-di-innovazione-tecnologia-creativita.-il-festival-di-nuova-consonanza_10c618e0-6935-44c8-88b2-740a9988088e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:18:15.359Z",
+        "dateEvidence": "ANSA Roma, 28 ottobre 2026 ore 16:22; programma Festival Nuova Consonanza.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-antonello-messina-enigma-sorriso-cefalu-torino-28-ottobre",
+      "eventKey": "cultura-antonello-messina-enigma-sorriso-cefalu-torino-28-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Antonello da Messina, due ritratti a confronto tra Sicilia e Piemonte",
+      "summary": "Il progetto espositivo «L'Enigma del Sorriso» mette in relazione il ritratto del Mandralisca e quello di Palazzo Madama.",
+      "body": [
+        "La mostra accosta il cosiddetto «Ignoto marinaio» di Cefalù e il «Ritratto Trivulzio» di Torino, due opere di Antonello da Messina.",
+        "Dopo la tappa siciliana, che si conclude il 4 novembre, il progetto proseguirà a Torino dal 12 novembre al 22 febbraio 2027."
+      ],
+      "publishedAt": "2026-10-28T16:13:00+01:00",
+      "verifiedAt": "2026-10-29T16:18:15.359Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/due-ritratti-al-centro-lenigma-del-sorriso-di-antonello-da-messina_3cef021b-5688-48da-b6b1-52dd07a555ae.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:18:15.359Z",
+        "dateEvidence": "ANSA Roma, 28 ottobre 2026 ore 16:13, confronto dei due ritratti di Antonello.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-savinio-souvenir-pinacoteca-agnelli-28-ottobre",
+      "eventKey": "cultura-savinio-souvenir-pinacoteca-agnelli-28-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Torino, la Pinacoteca Agnelli dedica una retrospettiva ad Alberto Savinio",
+      "summary": "Dal 30 ottobre la mostra «Souvenir» riunisce oltre settanta opere dell'artista, scrittore e compositore.",
+      "body": [
+        "La Pinacoteca Agnelli inaugura il 30 ottobre una retrospettiva di Alberto Savinio, curata da Sarah Cosulich e Pietro Rigolo.",
+        "L'esposizione è affiancata da altri due progetti di arte contemporanea, negli spazi del museo e sulla Pista 500, e resterà aperta fino al 4 aprile 2027."
+      ],
+      "publishedAt": "2026-10-28T15:43:00+01:00",
+      "verifiedAt": "2026-10-29T16:18:15.359Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/piemonte/notizie/2026/10/28/alla-pinacoteca-agnelli-souvenir-di-alberto-savinio_195c3881-9e4b-4927-9cbe-62414942970d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:18:15.359Z",
+        "dateEvidence": "ANSA Torino, 28 ottobre 2026 ore 15:43, retrospettiva Savinio dal 30 ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-topo-gigio-libro-musical-29-ottobre",
+      "eventKey": "cultura-topo-gigio-libro-musical-29-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Topo Gigio torna in un libro e in un musical in tournée",
+      "summary": "Maurizio Colombi e Alessandro Rossi raccontano la storia del celebre personaggio in un volume; lo spettacolo debutta il 6 dicembre.",
+      "body": [
+        "«La vera storia di Topo Gigio» ripercorre in forma di favola la nascita del personaggio ideato da Maria Perego e Federico Caldura.",
+        "Dal libro nasce anche un musical diretto da Maurizio Colombi, in debutto al Teatro Verdi di Genova il 6 dicembre e poi in tournée nazionale fino a marzo."
+      ],
+      "publishedAt": "2026-10-29T16:17:00+01:00",
+      "verifiedAt": "2026-10-29T16:18:15.359Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/10/29/torna-topo-gigio-nel-libro-di-colombi-e-rossi-e-diventa-anche-un-musical_7e1df5bb-9085-4315-88ad-9b9cbe79a75c.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:18:15.359Z",
+        "dateEvidence": "ANSA Roma, 29 ottobre 2026 ore 16:17; nuovo libro e musical dal 6 dicembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
       "id": "tecnologia-apple-mac-studio-m5-ultra-512gb-prezzo-25179",
       "eventKey": "apple-mac-studio-m5-ultra-512gb-prezzo-25179",
       "category": "Tecnologia · AI",
@@ -1684,6 +1904,16 @@
     "cronaca-longiano-confessione",
     "cronaca-ragusa-minorenne-propaganda",
     "cronaca-reggio-cugino-eredita",
+    "roma-furti-bar-case-supermercati-cinque-arresti-29-ottobre",
+    "roma-san-basilio-droga-finestra-tre-arresti-28-ottobre",
+    "roma-cerveteri-54-reperti-archeologici-restituiti-28-ottobre",
+    "roma-papa-leone-cinque-visite-parrocchie-avvento-28-ottobre",
+    "roma-centocelle-intimidazione-sede-prc-28-ottobre",
+    "cultura-falstaff-opera-roma-rai3-mondovisione-1-novembre",
+    "cultura-nuova-consonanza-tempo-festival-28-ottobre",
+    "cultura-antonello-messina-enigma-sorriso-cefalu-torino-28-ottobre",
+    "cultura-savinio-souvenir-pinacoteca-agnelli-28-ottobre",
+    "cultura-topo-gigio-libro-musical-29-ottobre",
     "tecnologia-apple-mac-studio-m5-ultra-512gb-prezzo-25179",
     "tecnologia-libreoffice-26-8-2-risolti-35-bug",
     "tecnologia-new-york-legge-chatbot-ai-minori-18-2026",

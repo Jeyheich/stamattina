@@ -1,12 +1,9 @@
 {
   "editionDate": "2026-10-29",
-  "checkedAt": "2026-10-29T16:18:01.396Z",
+  "checkedAt": "2026-10-29T16:18:42.375Z",
   "ready": true,
-  "editorialComplete": false,
-  "reserveMissing": [
-    "roma",
-    "cultura"
-  ],
+  "editorialComplete": true,
+  "reserveMissing": [],
   "completed": [
     "politica",
     "esteri",
@@ -382,6 +379,66 @@
       "eventKey": "reggio-emilia-cugino-disabile-omicidio-eredita-29-ottobre-2026"
     },
     {
+      "id": "roma-furti-bar-case-supermercati-cinque-arresti-29-ottobre",
+      "category": "Roma",
+      "title": "Roma, cinque arresti per furti tra bar, abitazioni e negozi",
+      "eventKey": "roma-furti-bar-case-supermercati-cinque-arresti-29-ottobre"
+    },
+    {
+      "id": "roma-san-basilio-droga-finestra-tre-arresti-28-ottobre",
+      "category": "Roma",
+      "title": "San Basilio, dosi di stupefacenti nascoste in una finestra",
+      "eventKey": "roma-san-basilio-droga-finestra-tre-arresti-28-ottobre"
+    },
+    {
+      "id": "roma-cerveteri-54-reperti-archeologici-restituiti-28-ottobre",
+      "category": "Roma",
+      "title": "Cerveteri, 54 reperti archeologici tornano allo Stato",
+      "eventKey": "roma-cerveteri-54-reperti-archeologici-restituiti-28-ottobre"
+    },
+    {
+      "id": "roma-papa-leone-cinque-visite-parrocchie-avvento-28-ottobre",
+      "category": "Roma",
+      "title": "Avvento, annunciate cinque visite del Papa nelle parrocchie romane",
+      "eventKey": "roma-papa-leone-cinque-visite-parrocchie-avvento-28-ottobre"
+    },
+    {
+      "id": "roma-centocelle-intimidazione-sede-prc-28-ottobre",
+      "category": "Roma",
+      "title": "Centocelle, denunciate scritte intimidatorie contro Rifondazione",
+      "eventKey": "roma-centocelle-intimidazione-sede-prc-28-ottobre"
+    },
+    {
+      "id": "cultura-falstaff-opera-roma-rai3-mondovisione-1-novembre",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "«Falstaff» dell'Opera di Roma in diretta su Rai 3 il 1° novembre",
+      "eventKey": "cultura-falstaff-opera-roma-rai3-mondovisione-1-novembre"
+    },
+    {
+      "id": "cultura-nuova-consonanza-tempo-festival-28-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Nuova Consonanza presenta il festival «Tempo» a Roma",
+      "eventKey": "cultura-nuova-consonanza-tempo-festival-28-ottobre"
+    },
+    {
+      "id": "cultura-antonello-messina-enigma-sorriso-cefalu-torino-28-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Antonello da Messina, due ritratti a confronto tra Sicilia e Piemonte",
+      "eventKey": "cultura-antonello-messina-enigma-sorriso-cefalu-torino-28-ottobre"
+    },
+    {
+      "id": "cultura-savinio-souvenir-pinacoteca-agnelli-28-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Torino, la Pinacoteca Agnelli dedica una retrospettiva ad Alberto Savinio",
+      "eventKey": "cultura-savinio-souvenir-pinacoteca-agnelli-28-ottobre"
+    },
+    {
+      "id": "cultura-topo-gigio-libro-musical-29-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Topo Gigio torna in un libro e in un musical in tournée",
+      "eventKey": "cultura-topo-gigio-libro-musical-29-ottobre"
+    },
+    {
       "id": "tecnologia-apple-mac-studio-m5-ultra-512gb-prezzo-25179",
       "category": "Tecnologia · AI",
       "title": "Mac Studio con 512 GB di RAM: configurazione da oltre 25.000 euro",
@@ -448,8 +505,8 @@
     "Esteri": 5,
     "Economia": 5,
     "Cronaca": 5,
-    "Roma": 0,
-    "Cultura · Teatro · Cinema": 0,
+    "Roma": 5,
+    "Cultura · Teatro · Cinema": 5,
     "Tecnologia · AI": 5,
     "Sport": 5
   },
@@ -508,15 +565,15 @@
     },
     "roma": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "cultura": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "tecnologia": {
       "base": 5,
@@ -531,9 +588,6 @@
       "complete": true
     }
   },
-  "editionId": "2026-10-29-batches-ff02fef56a93",
-  "needsPublication": false,
-  "publicVerifiedAt": "2026-10-29T16:18:25.599172+00:00",
-  "publicEditionId": "2026-10-29-batches-ff02fef56a93",
-  "publication": "verified"
+  "editionId": "2026-10-29-batches-caa391bdf622",
+  "needsPublication": true
 }
