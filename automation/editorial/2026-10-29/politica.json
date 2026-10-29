@@ -126,5 +126,117 @@
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
+  ],
+  "reserveArticles": [
+    {
+      "id": "politica-riforma-professioni-sanitarie-camera-28-ottobre",
+      "eventKey": "riforma-professioni-sanitarie-camera-28-ottobre",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Professioni sanitarie, la riforma passa alla Camera e attende il Senato",
+      "summary": "Il disegno di legge delega per il riordino delle professioni sanitarie ha ottenuto 143 voti favorevoli e 113 contrari alla Camera.",
+      "body": [
+        "La relatrice Marta Schifone descrive il testo come parte di un intervento più ampio sulle professioni regolamentate, con misure su responsabilità, formazione e ordini.",
+        "Il provvedimento deve essere esaminato dal Senato e non è ancora una legge definitiva."
+      ],
+      "publishedAt": "2026-10-28T15:39:00+01:00",
+      "verifiedAt": "2026-10-29T16:06:19+01:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/politica/riforma-professioni-sanitarie-schifone-fdi-riorganizzazione-e-rilancio-erano-misure-attese-da-anni_z7vpEC1sgXaSQPnqS2g4Y",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:06:19+01:00",
+        "dateEvidence": "Adnkronos, 28 ottobre 2026 ore 15:39, dichiarazioni della relatrice e voto 143 a 113 alla Camera.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-salvini-precettazione-sciopero-30-ottobre",
+      "eventKey": "salvini-precettazione-sciopero-30-ottobre",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Sciopero del 30 ottobre, Salvini dispone la precettazione dei trasporti",
+      "summary": "Il ministero interviene in vista delle mobilitazioni di venerdì, richiamando le esigenze di circolazione durante il ponte di Ognissanti.",
+      "body": [
+        "L'ordinanza del ministro dei Trasporti riguarda il settore aereo, ferroviario, i taxi e il trasporto pubblico locale, su richiesta della Commissione di garanzia.",
+        "La misura si colloca nel confronto con i sindacati sulle proteste contro il carovita e altre rivendicazioni."
+      ],
+      "publishedAt": "2026-10-28T15:55:00+01:00",
+      "verifiedAt": "2026-10-29T16:06:19+01:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/politica/sciopero-30-ottobre-salvini-ordinanza_31t09OFuMQ5i4tAuPA3faO",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:06:19+01:00",
+        "dateEvidence": "Adnkronos, 28 ottobre 2026 ore 15:55, notizia sull'ordinanza di precettazione.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-conte-primarie-campo-largo-apertura-candidati-27-ottobre",
+      "eventKey": "conte-primarie-campo-largo-apertura-candidati-27-ottobre",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Centrosinistra, Conte chiede primarie rapide e aperte a più candidati",
+      "summary": "Il presidente del M5S sostiene che la coalizione debba definire presto programma e leadership, evitando di limitare la scelta a un confronto a due.",
+      "body": [
+        "Conte afferma che i candidati alle primarie dovrebbero considerarsi parte della stessa squadra e critica l'ipotesi di rinviare la selezione a febbraio.",
+        "Le dichiarazioni sono state rese il 27 ottobre: restano una posizione politica e non fissano una data ufficiale per le primarie."
+      ],
+      "publishedAt": "2026-10-27T16:30:00+01:00",
+      "verifiedAt": "2026-10-29T16:06:19+01:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/politica/conte-schlein-primarie-febbraio-2027_6Zne9MC526MrTLu8MpCso2",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:06:19+01:00",
+        "dateEvidence": "Adnkronos, 27 ottobre 2026 ore 16:30, intervista a Conte a Tagadà sulle primarie.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-la-russa-querela-ponzani-valutazione-27-ottobre",
+      "eventKey": "la-russa-querela-ponzani-valutazione-27-ottobre",
+      "category": "Politica",
+      "status": "verified",
+      "title": "La Russa valuta se ritirare la querela contro la storica Ponzani",
+      "summary": "Il presidente del Senato non esclude di riconsiderare l'azione legale legata a dichiarazioni sulla manifestazione milanese del 1973.",
+      "body": [
+        "A margine della convention di Sud chiama Nord, Ignazio La Russa torna sulla polemica con Michela Ponzani, riferita a una manifestazione conclusasi con la morte di un agente.",
+        "Alla domanda sul possibile ritiro della querela risponde che ci penserà: non è stata annunciata alcuna decisione definitiva."
+      ],
+      "publishedAt": "2026-10-27T17:15:00+01:00",
+      "verifiedAt": "2026-10-29T16:06:19+01:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/politica/la-russa-su-ritiro-querela-contro-michela-ponzani-video_3dOlfKGwpYbJyCv56u8ZHA",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:06:19+01:00",
+        "dateEvidence": "Adnkronos, 27 ottobre 2026 ore 17:15, breve resoconto delle parole di La Russa.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-meloni-giornalista-stato-diritto-conferenza-28-ottobre",
+      "eventKey": "meloni-giornalista-stato-diritto-conferenza-28-ottobre",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Meloni e una giornalista si confrontano sul significato dello Stato di diritto",
+      "summary": "Al termine della conferenza sulla manovra, la premier replica a una domanda sui cortei e sulla tutela dei cittadini.",
+      "body": [
+        "Lo scambio avviene il 28 ottobre, dopo le dichiarazioni del governo sulla scarcerazione di Youssef Siher e nel clima di confronto sulla gestione delle proteste.",
+        "La presidente del Consiglio rivendica il proprio richiamo alla sicurezza. L'episodio è distinto dalle dichiarazioni del ministro Nordio del giorno successivo."
+      ],
+      "publishedAt": "2026-10-28T20:10:00+01:00",
+      "verifiedAt": "2026-10-29T16:06:19+01:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/politica/meloni-disordini-cortei-scintille-meloni-giornalista_11WSWuOUKGm5jVEJ00E4ba",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:06:19+01:00",
+        "dateEvidence": "Adnkronos, 28 ottobre 2026 ore 20:10, scambio al termine della conferenza stampa.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
   ]
 }
