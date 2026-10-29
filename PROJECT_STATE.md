@@ -108,3 +108,7 @@ Richiesta Fabio: spostato nella toolbar sticky delle categorie, rimosso il dupli
 - Controllo aggiuntivo: anche un errore HTTP/foto annulla editorialComplete; test dedicato passato.
 - Lo stato ricalcolato a metà giornata segnala onestamente verifiche mattutine scadute oltre tre ore; nessuna data aggiornata artificialmente. Il pubblico resta quello delle 08:05 con 45 articoli.
 - Nessuna modifica ai contenuti pubblicati, alla UI o alle fonti approvate. Modificare il flusso non crea retroattivamente le notizie mancanti.
+
+## Saluto per edizione — 29 ottobre
+- Richiesta Fabio: nella pomeridiana mostrare «Buonasera, Fabio.»; mattutina «Buongiorno, Fabio.». Il saluto dipende da collectionId, non dall'ora in cui si apre la PWA. Per edizioni precedenti prive di ciclo usa generatedAt in Europe/Rome.
+- Modifica mirata al titolo Tutte; categorie e resto della UI invariati. Cache PWA v13 per distribuire il nuovo app.js. Sintassi JS e casi mattina/pomeriggio/legacy verificati; pubblicazione e controllo pubblico da completare.
