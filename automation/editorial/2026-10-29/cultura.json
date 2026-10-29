@@ -4,7 +4,7 @@
   "collectionId": "2026-10-29-pomeriggio",
   "category": "Cultura · Teatro · Cinema",
   "completedAt": "2026-10-29T16:17:37.990Z",
-  "lastAttemptAt": "2026-10-29T16:17:37.990Z",
+  "lastAttemptAt": "2026-10-29T16:18:15.359Z",
   "articles": [
     {
       "id": "cultura-palladium-centenario-29-ottobre-2026",
@@ -122,6 +122,118 @@
         "access": "free",
         "accessCheckedAt": "2026-10-29T16:17:37.990Z",
         "dateEvidence": "ANSA, 29 ottobre 2026 ore 16:46; undici fotografie di John Cohen, mostra dal 5 dicembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "cultura-falstaff-opera-roma-rai3-mondovisione-1-novembre",
+      "eventKey": "cultura-falstaff-opera-roma-rai3-mondovisione-1-novembre",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "«Falstaff» dell'Opera di Roma in diretta su Rai 3 il 1° novembre",
+      "summary": "L'ultima recita del capolavoro di Verdi sarà trasmessa in prima serata dal Teatro Costanzi.",
+      "body": [
+        "Domenica 1° novembre alle 20:40 Rai 3 trasmetterà in diretta l'ultima recita del «Falstaff» diretto da Michele Mariotti e con la regia teatrale di Tatjana Gürbaca.",
+        "Il collegamento è curato da Rai Cultura; Cristiana Capotondi e Maurizio Lastrico accompagneranno il racconto televisivo."
+      ],
+      "publishedAt": "2026-10-28T16:14:00+01:00",
+      "verifiedAt": "2026-10-29T16:18:15.359Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/opera-roma-falstaff-ultima-recita-in-diretta-e-mondovisione-su-rai-3_a4c24c61-1263-46eb-82b4-361d57414f52.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:18:15.359Z",
+        "dateEvidence": "ANSA Roma, pubblicazione 28 ottobre 2026 ore 16:14; recita in programma il 1 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-nuova-consonanza-tempo-festival-28-ottobre",
+      "eventKey": "cultura-nuova-consonanza-tempo-festival-28-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Nuova Consonanza presenta il festival «Tempo» a Roma",
+      "summary": "La 63ª edizione propone oltre quaranta appuntamenti tra concerti, teatro musicale e incontri.",
+      "body": [
+        "Il festival di musica contemporanea «Tempo» si svolgerà a Roma tra novembre e dicembre con concerti, performance e workshop, secondo il programma presentato dagli organizzatori.",
+        "L'apertura renderà omaggio ai compositori Franco Evangelisti e Mauro Bortolotti, nel centenario della loro nascita."
+      ],
+      "publishedAt": "2026-10-28T16:22:00+01:00",
+      "verifiedAt": "2026-10-29T16:18:15.359Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/tempo-di-innovazione-tecnologia-creativita.-il-festival-di-nuova-consonanza_10c618e0-6935-44c8-88b2-740a9988088e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:18:15.359Z",
+        "dateEvidence": "ANSA Roma, 28 ottobre 2026 ore 16:22; programma Festival Nuova Consonanza.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-antonello-messina-enigma-sorriso-cefalu-torino-28-ottobre",
+      "eventKey": "cultura-antonello-messina-enigma-sorriso-cefalu-torino-28-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Antonello da Messina, due ritratti a confronto tra Sicilia e Piemonte",
+      "summary": "Il progetto espositivo «L'Enigma del Sorriso» mette in relazione il ritratto del Mandralisca e quello di Palazzo Madama.",
+      "body": [
+        "La mostra accosta il cosiddetto «Ignoto marinaio» di Cefalù e il «Ritratto Trivulzio» di Torino, due opere di Antonello da Messina.",
+        "Dopo la tappa siciliana, che si conclude il 4 novembre, il progetto proseguirà a Torino dal 12 novembre al 22 febbraio 2027."
+      ],
+      "publishedAt": "2026-10-28T16:13:00+01:00",
+      "verifiedAt": "2026-10-29T16:18:15.359Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/28/due-ritratti-al-centro-lenigma-del-sorriso-di-antonello-da-messina_3cef021b-5688-48da-b6b1-52dd07a555ae.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:18:15.359Z",
+        "dateEvidence": "ANSA Roma, 28 ottobre 2026 ore 16:13, confronto dei due ritratti di Antonello.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-savinio-souvenir-pinacoteca-agnelli-28-ottobre",
+      "eventKey": "cultura-savinio-souvenir-pinacoteca-agnelli-28-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Torino, la Pinacoteca Agnelli dedica una retrospettiva ad Alberto Savinio",
+      "summary": "Dal 30 ottobre la mostra «Souvenir» riunisce oltre settanta opere dell'artista, scrittore e compositore.",
+      "body": [
+        "La Pinacoteca Agnelli inaugura il 30 ottobre una retrospettiva di Alberto Savinio, curata da Sarah Cosulich e Pietro Rigolo.",
+        "L'esposizione è affiancata da altri due progetti di arte contemporanea, negli spazi del museo e sulla Pista 500, e resterà aperta fino al 4 aprile 2027."
+      ],
+      "publishedAt": "2026-10-28T15:43:00+01:00",
+      "verifiedAt": "2026-10-29T16:18:15.359Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/piemonte/notizie/2026/10/28/alla-pinacoteca-agnelli-souvenir-di-alberto-savinio_195c3881-9e4b-4927-9cbe-62414942970d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:18:15.359Z",
+        "dateEvidence": "ANSA Torino, 28 ottobre 2026 ore 15:43, retrospettiva Savinio dal 30 ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-topo-gigio-libro-musical-29-ottobre",
+      "eventKey": "cultura-topo-gigio-libro-musical-29-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Topo Gigio torna in un libro e in un musical in tournée",
+      "summary": "Maurizio Colombi e Alessandro Rossi raccontano la storia del celebre personaggio in un volume; lo spettacolo debutta il 6 dicembre.",
+      "body": [
+        "«La vera storia di Topo Gigio» ripercorre in forma di favola la nascita del personaggio ideato da Maria Perego e Federico Caldura.",
+        "Dal libro nasce anche un musical diretto da Maurizio Colombi, in debutto al Teatro Verdi di Genova il 6 dicembre e poi in tournée nazionale fino a marzo."
+      ],
+      "publishedAt": "2026-10-29T16:17:00+01:00",
+      "verifiedAt": "2026-10-29T16:18:15.359Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/10/29/torna-topo-gigio-nel-libro-di-colombi-e-rossi-e-diventa-anche-un-musical_7e1df5bb-9085-4315-88ad-9b9cbe79a75c.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T16:18:15.359Z",
+        "dateEvidence": "ANSA Roma, 29 ottobre 2026 ore 16:17; nuovo libro e musical dal 6 dicembre.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
