@@ -26,7 +26,17 @@
         "dateEvidence": "ANSA, articolo del 28 ottobre 2026 aggiornato alle 21:16 ora di Roma; approvazione in Consiglio dei ministri.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 90
+      "leadPriority": 90,
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Palazzo_Chigi_Roma_giugno_2024.jpg",
+        "alt": "Facciata di Palazzo Chigi a Roma, sede della Presidenza del Consiglio",
+        "credit": "Sergio D’Afflitto / Wikimedia Commons",
+        "rights": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Chigi_Roma_giugno_2024.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "caption": "Palazzo Chigi, sede del Governo italiano, in una fotografia di repertorio del giugno 2024. L'immagine non documenta la riunione del 28 ottobre 2026.",
+        "reuseApproved": true
+      }
     },
     {
       "id": "politica-borghi-convegno-vaccini",
