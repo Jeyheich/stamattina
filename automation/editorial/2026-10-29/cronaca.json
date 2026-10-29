@@ -122,5 +122,112 @@
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
+  ],
+  "reserveArticles": [
+    {
+      "id": "cronaca-milano-niguarda-test-droni-trasporto-farmaci",
+      "eventKey": "milano-niguarda-test-droni-trasporto-farmaci-28-ottobre",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Niguarda sperimenta i droni per farmaci e provette urgenti",
+      "summary": "L'ospedale milanese avvia un progetto per velocizzare il trasporto di materiale sanitario leggero.",
+      "body": [
+        "La sperimentazione, condotta con partner tecnologici, riguarda consegne di campioni e farmaci per ridurre i tempi degli spostamenti tra punti di servizio."
+      ],
+      "publishedAt": "2026-10-28T16:34:00+01:00",
+      "verifiedAt": "2026-10-29T05:20:13.888Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/video/2026/10/28/milano-niguarda-droni-per-consegnare-farmaci-urgenti-1135371",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
+        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-28T16:34:00+01:00, contenuto e data verificati.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-milano-docente-inglese-licenziamento-tribunale",
+      "eventKey": "milano-docente-inglese-licenziamento-tribunale-28-ottobre",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Milano, confermato il licenziamento di una docente di inglese",
+      "summary": "Il tribunale civile accoglie la richiesta dell'istituto per incapacità didattica, dopo contestazioni sul metodo di insegnamento.",
+      "body": [
+        "Tra gli episodi esaminati c'è la proiezione in classe di un video di Lady Gaga su abusi sessuali senza adeguata preparazione o spiegazione. I giudici citano anche l'uso sistematico dell'italiano durante le lezioni di inglese."
+      ],
+      "publishedAt": "2026-10-28T12:14:00+01:00",
+      "verifiedAt": "2026-10-29T05:20:13.888Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/28/milano-insegnante-inglese-licenziata",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
+        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-28T12:14:00+01:00, contenuto e data verificati.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-processo-hydra-vestiti-collabora-giustizia",
+      "eventKey": "processo-hydra-vestiti-collabora-giustizia-28-ottobre",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Processo Hydra, Giancarlo Vestiti sceglie di collaborare",
+      "summary": "La decisione del presunto referente del clan Senese in Lombardia emerge in udienza a Milano.",
+      "body": [
+        "Vestiti è indicato come il sesto collaboratore nell'inchiesta Hydra sulla presunta rete mafiosa in Lombardia. La scelta processuale è stata resa nota nell'aula bunker di piazza Filangieri."
+      ],
+      "publishedAt": "2026-10-28T14:19:00+01:00",
+      "verifiedAt": "2026-10-29T05:20:13.888Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/28/processo-hydra-clan-senese-news",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
+        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-28T14:19:00+01:00, contenuto e data verificati.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-bologna-morte-fakir-nuova-denuncia-bodycam",
+      "eventKey": "bologna-morte-fakir-nuova-denuncia-bodycam-28-ottobre",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Morte di Fakir, i familiari presentano una nuova denuncia",
+      "summary": "L'iniziativa legale riguarda le frasi registrate durante l'intervento della polizia del 19 luglio a Bologna.",
+      "body": [
+        "Il legale della famiglia richiama audio e trascrizioni delle bodycam e prospetta un'ipotesi di reato più grave di quella finora contestata. Si tratta di accuse da accertare, non di responsabilità giudizialmente stabilite."
+      ],
+      "publishedAt": "2026-10-28T13:09:00+01:00",
+      "verifiedAt": "2026-10-29T05:20:13.888Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/28/morte-fakir-bologna-denuncia-famiglia-frasi-poliziotti",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
+        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-28T13:09:00+01:00, contenuto e data verificati.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-david-rossi-firenze-antimafia-indaga-omicidio",
+      "eventKey": "david-rossi-firenze-antimafia-indaga-omicidio-28-ottobre",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "David Rossi, la procura antimafia di Firenze indaga per omicidio",
+      "summary": "La morte dell'ex responsabile comunicazione di Mps, precipitato nel 2013, è oggetto di nuovi accertamenti.",
+      "body": [
+        "La novità investigativa riguarda l'ipotesi di omicidio, che non costituisce un accertamento definitivo delle circostanze della morte. La vicenda risale al 2013 a Siena."
+      ],
+      "publishedAt": "2026-10-28T14:05:00+01:00",
+      "verifiedAt": "2026-10-29T05:20:13.888Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/video/2026/10/28/morte-di-david-rossi-ora-indaga-lantimafia-per-omidio-1135318",
+        "access": "free",
+        "accessCheckedAt": "2026-10-29T05:20:13.888Z",
+        "dateEvidence": "Fonte Sky TG24 letta direttamente il 29/10/2026; la pagina indica 2026-10-28T14:05:00+01:00, contenuto e data verificati.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
   ]
 }
