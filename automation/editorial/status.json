@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-29",
-  "checkedAt": "2026-10-29T06:12:05.722Z",
+  "checkedAt": "2026-10-29T06:13:30.702Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -12,12 +12,12 @@
     "esteri",
     "economia",
     "cronaca",
+    "roma",
     "tecnologia",
     "sport"
   ],
   "inProgress": [],
   "missing": [
-    "roma",
     "cultura"
   ],
   "invalid": [],
@@ -141,6 +141,36 @@
       "category": "Cronaca",
       "title": "Reggio Emilia, voragine in strada coinvolge un'automobile",
       "eventKey": "reggio-emilia-voragine-auto-illeso-28-ottobre-2026"
+    },
+    {
+      "id": "roma-sapienza-lettere-occupazione-28-ottobre",
+      "category": "Roma",
+      "title": "Collettivi occupano Lettere alla Sapienza dopo un'assemblea",
+      "eventKey": "sapienza-lettere-occupazione-28-ottobre"
+    },
+    {
+      "id": "roma-tor-bella-monaca-scippo-14enne-28-ottobre",
+      "category": "Roma",
+      "title": "Tor Bella Monaca, arrestato un quattordicenne dopo uno scippo",
+      "eventKey": "tor-bella-monaca-scippo-14enne-28-ottobre"
+    },
+    {
+      "id": "roma-centocelle-intimidazioni-sede-prc-28-ottobre",
+      "category": "Roma",
+      "title": "Centocelle, denunciate nuove scritte intimidatorie contro una sede di Rifondazione",
+      "eventKey": "centocelle-intimidazioni-sede-prc-28-ottobre"
+    },
+    {
+      "id": "roma-papa-avvento-cinque-parrocchie-roma-28-ottobre",
+      "category": "Roma",
+      "title": "Annunciate cinque visite del Papa nelle parrocchie romane durante l'Avvento",
+      "eventKey": "papa-avvento-cinque-parrocchie-roma-28-ottobre"
+    },
+    {
+      "id": "roma-iacopini-trasferimento-neurochirurgia-28-ottobre",
+      "category": "Roma",
+      "title": "Davide Iacopini trasferito in Neurochirurgia dopo il miglioramento",
+      "eventKey": "iacopini-trasferimento-neurochirurgia-28-ottobre"
     },
     {
       "id": "tecnologia-apple-macbook-pro-touch-proled-xdr-28-ottobre",
@@ -404,9 +434,14 @@
       "id": "cronaca-longiano-cadavere-pozzo-indagine-omicidio",
       "category": "Cronaca",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_159_Carabinieri.jpg"
+    },
+    {
+      "id": "roma-sapienza-lettere-occupazione-28-ottobre",
+      "category": "Roma",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sapienzia_Roma.jpg"
     }
   ],
-  "photosAvailable": 2,
+  "photosAvailable": 3,
   "categoryProgress": {
     "politica": {
       "base": 5,
@@ -433,7 +468,7 @@
       "complete": true
     },
     "roma": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
