@@ -3,7 +3,7 @@
   "editionDate": "2026-10-30",
   "collectionId": "2026-10-30-mattina",
   "category": "Esteri",
-  "completedAt": "2026-10-30T06:05:51+01:00",
+  "completedAt": "2026-10-30T06:06:39+01:00",
   "articles": [
     {
       "id": "esteri-israele-elezioni-2026-nessuna-maggioranza-netanyahu",
@@ -113,6 +113,118 @@
         "access": "free",
         "accessCheckedAt": "2026-10-30T06:05:51+01:00",
         "dateEvidence": "ANSA dateline SAN PAOLO, 30 ottobre 2026, 01:17.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "esteri-ecuador-estradizione-salcedo-usa-villavicencio",
+      "eventKey": "ecuador-estradizione-salcedo-usa-villavicencio",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Ecuador, estradato negli Stati Uniti un indagato per l'omicidio Villavicencio",
+      "summary": "Le autorità ecuadoriane hanno estradato Daniel Salcedo, indicato come presunto mandante dell'omicidio del candidato presidenziale Fernando Villavicencio nel 2023.",
+      "body": [
+        "Le autorità ecuadoriane hanno estradato Daniel Salcedo, indicato come presunto mandante dell'omicidio del candidato presidenziale Fernando Villavicencio nel 2023.",
+        "Il presidente Daniel Noboa ha annunciato il trasferimento di altre due persone nell'ambito di procedimenti collegati a narcotraffico e criminalità organizzata."
+      ],
+      "publishedAt": "2026-10-30T00:46:00+01:00",
+      "verifiedAt": "2026-10-30T06:06:39+01:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/30/ecuador-estradato-negli-usa-il-presunto-mandante-dellomicidio-di-villavicencio_6f51e30d-ea8b-4255-9056-9c5aea67aafc.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:06:39+01:00",
+        "dateEvidence": "Dateline ANSA QUITO, 30 ottobre 2026, 00:46, annuncio di estradizione.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-venezuela-oliver-blanco-nuovo-ministro-esteri",
+      "eventKey": "venezuela-oliver-blanco-nuovo-ministro-esteri",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Venezuela, Oliver Blanco nominato ministro degli Esteri",
+      "summary": "La presidente ad interim Delcy Rodríguez ha affidato il ministero degli Esteri a Oliver Blanco, che subentra a Félix Plasencia.",
+      "body": [
+        "La presidente ad interim Delcy Rodríguez ha affidato il ministero degli Esteri a Oliver Blanco, che subentra a Félix Plasencia.",
+        "Plasencia passa a un incarico nella presidenza con il compito di seguire il recupero delle riserve auree venezuelane custodite nel Regno Unito."
+      ],
+      "publishedAt": "2026-10-30T01:16:00+01:00",
+      "verifiedAt": "2026-10-30T06:06:39+01:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/30/venezuela-rodriguez-nomina-oliver-blanco-ministro-degli-esteri-al-posto-di-plasencia_71dc5b6a-a7ec-4ca0-bd7c-7b272f8bbf1c.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:06:39+01:00",
+        "dateEvidence": "Dateline ANSA CARACAS, 30 ottobre 2026, 01:16; nomina annunciata dalla presidenza.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-unione-europea-canada-costa-relazioni-dirette",
+      "eventKey": "unione-europea-canada-costa-relazioni-dirette",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Costa ribadisce l'autonomia dei rapporti tra Unione europea e Canada",
+      "summary": "Durante gli incontri a Montreal, il presidente del Consiglio europeo António Costa ha affermato che il dialogo fra Europa e Canada non richiede una mediazione statunitense.",
+      "body": [
+        "Durante gli incontri a Montreal, il presidente del Consiglio europeo António Costa ha affermato che il dialogo fra Europa e Canada non richiede una mediazione statunitense.",
+        "Costa ha descritto il partenariato come fondato su valori e interessi comuni, distinguendolo dai rapporti che ciascuna parte mantiene con Washington."
+      ],
+      "publishedAt": "2026-10-29T18:56:00+01:00",
+      "verifiedAt": "2026-10-30T06:06:39+01:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/29/costa-relazioni-ue-canada-non-hanno-bisogno-della-mediazione-usa_9a038c33-e7f5-492f-9342-5fa62dfadeb5.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:06:39+01:00",
+        "dateEvidence": "Dateline ANSA BRUXELLES, 29 ottobre 2026, 18:56; dichiarazioni al vertice UE-Canada.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-afghanistan-produzione-oppio-2026-unodc",
+      "eventKey": "afghanistan-produzione-oppio-2026-unodc",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Afghanistan, la produzione di oppio torna a crescere secondo l'Onu",
+      "summary": "Una nuova indagine dell'UNODC indica che la produzione di oppio afghana è salita da circa 300 a 1.500 tonnellate in un anno, nonostante il divieto imposto dai talebani.",
+      "body": [
+        "Una nuova indagine dell'UNODC indica che la produzione di oppio afghana è salita da circa 300 a 1.500 tonnellate in un anno, nonostante il divieto imposto dai talebani.",
+        "Le superfici coltivate passano da circa 10.000 a oltre 43.000 ettari. L'agenzia richiama la necessità di alternative economiche per le comunità rurali."
+      ],
+      "publishedAt": "2026-10-29T17:58:00+01:00",
+      "verifiedAt": "2026-10-30T06:06:39+01:00",
+      "source": {
+        "name": "AgenSIR",
+        "url": "https://www.agensir.it/quotidiano/2026/10/29/afghanistan-quintuplicata-la-produzione-di-oppio-per-lonu-mancano-alternative-economiche/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:06:39+01:00",
+        "dateEvidence": "AgenSIR articolo del 29 Ottobre 2026 @ 17:58, dati dell'UNODC.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-egitto-convoglio-aiuti-farina-gaza",
+      "eventKey": "egitto-convoglio-aiuti-farina-gaza",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Dall'Egitto un convoglio di aiuti alimentari diretto a Gaza",
+      "summary": "Un convoglio di 62 camion con quasi 800 tonnellate di beni, inclusa farina per i panifici, è stato preparato in Egitto per la Striscia di Gaza.",
+      "body": [
+        "Un convoglio di 62 camion con quasi 800 tonnellate di beni, inclusa farina per i panifici, è stato preparato in Egitto per la Striscia di Gaza.",
+        "Secondo gli organizzatori il passaggio dal valico di Rafah è previsto tra sabato e domenica; l'effettivo ingresso degli aiuti non era ancora confermato nell'articolo."
+      ],
+      "publishedAt": "2026-10-29T18:59:00+01:00",
+      "verifiedAt": "2026-10-30T06:06:39+01:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/29/a-gaza-manca-anche-il-pane-egitto-invia-decine-di-tonnellate-di-farina_c3c04fd1-1a3f-4fba-ac97-939fdc9129f1.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:06:39+01:00",
+        "dateEvidence": "Dateline ANSA IL CAIRO, 29 ottobre 2026, 18:59, convoglio in partenza.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
