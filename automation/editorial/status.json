@@ -1,6 +1,6 @@
 {
-  "editionDate": "2026-10-29",
-  "checkedAt": "2026-10-29T19:50:58.443Z",
+  "editionDate": "2026-10-30",
+  "checkedAt": "2026-10-30T05:06:33.684Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,45 +13,53 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [],
+  "completed": [
+    "politica"
+  ],
   "inProgress": [],
-  "missing": [],
-  "invalid": [
+  "missing": [
+    "esteri",
+    "economia",
+    "cronaca",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
+  ],
+  "invalid": [],
+  "stories": [
     {
-      "slug": "politica",
-      "reason": "Verifica scaduta o futura"
+      "id": "politica-campo-largo-confronto-manovra-roadmap",
+      "category": "Politica",
+      "title": "Il centrosinistra prepara un confronto comune sulla manovra e sulle alleanze",
+      "eventKey": "campo-largo-confronto-manovra-roadmap"
     },
     {
-      "slug": "esteri",
-      "reason": "Verifica scaduta o futura"
+      "id": "politica-fratelli-italia-lega-scontro-fornero",
+      "category": "Politica",
+      "title": "Pensioni, emergono divergenze fra Fratelli d'Italia e Lega",
+      "eventKey": "fratelli-italia-lega-scontro-fornero"
     },
     {
-      "slug": "economia",
-      "reason": "Verifica scaduta o futura"
+      "id": "politica-vannacci-apertura-condizionata-centrodestra",
+      "category": "Politica",
+      "title": "Vannacci segnala un'apertura condizionata a un'intesa con il centrodestra",
+      "eventKey": "vannacci-apertura-condizionata-centrodestra"
     },
     {
-      "slug": "cronaca",
-      "reason": "Verifica scaduta o futura"
+      "id": "politica-de-luca-sud-chiama-nord-sindaci-italia",
+      "category": "Politica",
+      "title": "Cateno De Luca presenta la nuova alleanza civica con i sindaci",
+      "eventKey": "de-luca-sud-chiama-nord-sindaci-italia"
     },
     {
-      "slug": "roma",
-      "reason": "Verifica scaduta o futura"
-    },
-    {
-      "slug": "cultura",
-      "reason": "Verifica scaduta o futura"
-    },
-    {
-      "slug": "tecnologia",
-      "reason": "Verifica scaduta o futura"
-    },
-    {
-      "slug": "sport",
-      "reason": "Verifica scaduta o futura"
+      "id": "politica-nordio-giudici-siher-no-ispettori",
+      "category": "Politica",
+      "title": "Nordio esclude ispettori a Milano dopo la decisione sul caso Siher",
+      "eventKey": "nordio-giudici-siher-no-ispettori"
     }
   ],
-  "stories": [],
-  "collectionId": "2026-10-29-pomeriggio",
+  "collectionId": "2026-10-30-mattina",
   "reserveCounts": {
     "Politica": 0,
     "Esteri": 0,
@@ -66,7 +74,7 @@
   "photosAvailable": 0,
   "categoryProgress": {
     "politica": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
