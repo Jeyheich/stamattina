@@ -3,7 +3,7 @@
   "editionDate": "2026-10-30",
   "collectionId": "2026-10-30-pomeriggio",
   "category": "Esteri",
-  "completedAt": "2026-10-30T16:10:41+01:00",
+  "completedAt": "2026-10-30T16:11:36+01:00",
   "articles": [
     {
       "id": "esteri-spagna-toledo-italiana-ritrovata",
@@ -121,5 +121,116 @@
       "leadPriority": 75
     }
   ],
-  "reserveArticles": []
+  "reserveArticles": [
+    {
+      "id": "esteri-cina-espulsioni-partito-plenum",
+      "eventKey": "cina-plenum-espulsione-33-dirigenti-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Cina, 33 espulsioni dal Partito comunista durante il plenum",
+      "summary": "L'incontro dei vertici registra un numero eccezionale di assenze, mentre prosegue la campagna disciplinare promossa da Xi Jinping.",
+      "body": [
+        "Al quinto plenum del Partito comunista cinese sono state confermate 33 espulsioni. Dei 376 membri titolari e supplenti del Comitato centrale nominati nel 2022, ne erano presenti 279.",
+        "Tra gli espulsi figurano dirigenti politici e militari di primo piano. Non tutte le assenze sono spiegate da provvedimenti disciplinari, e l'interpretazione delle purghe resta oggetto di analisi."
+      ],
+      "publishedAt": "2026-10-30T03:56:00+01:00",
+      "verifiedAt": "2026-10-30T16:11:36+01:00",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:11:36+01:00",
+        "dateEvidence": "Pubblicato Thu 29 Oct 2026 22:56 EDT, corrispondenti al 30 ottobre 03:56 CET; aggiornato 23:26 EDT.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-papua-nuova-guinea-siccita-el-nino",
+      "eventKey": "papua-nuova-guinea-siccita-el-nino-crisi-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Papua Nuova Guinea, la siccità colpisce milioni di persone",
+      "summary": "La scarsità di piogge legata a El Niño prosciuga corsi d'acqua e danneggia colture, servizi sanitari e produzione elettrica.",
+      "body": [
+        "Una siccità intensa sta colpendo fino a otto milioni di persone in Papua Nuova Guinea, secondo stime riportate dal Guardian e testimonianze di operatori umanitari.",
+        "La crisi sta riducendo le disponibilità di acqua e cibo nelle aree rurali e provoca interruzioni elettriche nella capitale. Il governo prepara misure di risposta mentre organizzazioni civiche chiedono maggiore coordinamento."
+      ],
+      "publishedAt": "2026-10-30T02:45:00+01:00",
+      "verifiedAt": "2026-10-30T16:11:36+01:00",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/30/png-el-nino-drought-papua-new-guinea",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:11:36+01:00",
+        "dateEvidence": "Data esplicita The Guardian: Fri 30 Oct 2026 02:45 CET, aggiornato 02:47 CET.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-sudan-nusseibeh-onu-critiche-candidatura",
+      "eventKey": "sudan-attivisti-criticano-candidatura-nusseibeh-onu-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Sudan, associazioni contestano la candidatura emiratina alla guida dell'Onu",
+      "summary": "Attivisti sudanesi e organizzazioni per i diritti umani criticano la candidatura di Lana Nusseibeh a segretaria generale.",
+      "body": [
+        "La diplomatica degli Emirati Arabi Uniti Lana Nusseibeh è candidata alla successione di António Guterres, ma esponenti della diaspora sudanese e associazioni denunciano il suo atteggiamento sulle accuse di sostegno emiratino alle RSF.",
+        "Nusseibeh nega le accuse rivolte al suo Paese e afferma che, se eletta, sosterrà le indagini internazionali sui crimini in Sudan. La scelta dipenderà dal Consiglio di sicurezza dell'Onu."
+      ],
+      "publishedAt": "2026-10-30T06:00:00+01:00",
+      "verifiedAt": "2026-10-30T16:11:36+01:00",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:11:36+01:00",
+        "dateEvidence": "The Guardian Fri 30 Oct 2026 01:00 EDT = 06:00 CET, aggiornato 01:02 EDT.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-iran-reazione-elezioni-israele",
+      "eventKey": "iran-reazione-elezioni-israele-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Iran, Teheran non si aspetta un cambio di linea da Israele",
+      "summary": "Il governo iraniano e i suoi alleati considerano lo stallo politico israeliano incapace di ridurre il rischio di nuove ostilità.",
+      "body": [
+        "Dopo le elezioni israeliane, esponenti iraniani hanno dichiarato che la strategia di Teheran non dipende da chi guiderà il prossimo governo di Israele.",
+        "Il quadro regionale resta teso: Hezbollah, Houthi e autorità irachene seguono gli sviluppi con preoccupazioni differenti. Si tratta di valutazioni e dichiarazioni, non di un annuncio di nuova guerra."
+      ],
+      "publishedAt": "2026-10-28T20:12:00+01:00",
+      "verifiedAt": "2026-10-30T16:11:36+01:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/28/teheran-resta-in-trincea-da-israele-nessun-cambiamento_a6e4cf76-559e-47ec-b9bd-7510a7d1a389.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:11:36+01:00",
+        "dateEvidence": "ROMA, 28 ottobre 2026, 20:12, analisi ANSA sulle reazioni al voto israeliano.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-egitto-lina-attalah-rilascio",
+      "eventKey": "egitto-lina-attalah-rilasciata-multa-mada-masr-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Egitto, liberata la giornalista Lina Attalah dopo il pagamento di una multa",
+      "summary": "La direttrice del sito indipendente Mada Masr è stata rilasciata; la testata resta soggetta a un ordine di chiusura.",
+      "body": [
+        "Lina Attalah, responsabile di Mada Masr, è stata rimessa in libertà dopo il pagamento di una multa di circa 48mila euro, secondo quanto riferito dalla stessa testata.",
+        "Resta un procedimento relativo alla gestione del sito e alla diffusione di informazioni; i legali hanno presentato opposizione a una precedente condanna e un'udienza è prevista l'11 novembre."
+      ],
+      "publishedAt": "2026-10-28T11:09:00+01:00",
+      "verifiedAt": "2026-10-30T16:11:36+01:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/28/la-giornalista-egiziana-attalah-torna-libera-pagata-la-multa-da-48-mila-euro_9c7405b3-f229-4ae0-8fb3-a48fbbf90f4a.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:11:36+01:00",
+        "dateEvidence": "IL CAIRO, 28 ottobre 2026, 11:09, articolo ANSA; prossima udienza 11 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
 }
