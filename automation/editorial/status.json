@@ -1,11 +1,9 @@
 {
   "editionDate": "2026-10-30",
-  "checkedAt": "2026-10-30T05:16:20.074Z",
+  "checkedAt": "2026-10-30T05:16:35.663Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
-    "economia",
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -205,14 +203,74 @@
       "category": "Esteri",
       "title": "Dall'Egitto un convoglio di aiuti alimentari diretto a Gaza",
       "eventKey": "egitto-convoglio-aiuti-farina-gaza"
+    },
+    {
+      "id": "economia-europa-riscaldamento-prezzi",
+      "category": "Economia",
+      "title": "Energia, per 50 milioni di europei riscaldarsi potrebbe diventare proibitivo",
+      "eventKey": "ue-jorgensen-rischio-riscaldamento-50-milioni-2026"
+    },
+    {
+      "id": "economia-greenpeace-extra-profitti",
+      "category": "Economia",
+      "title": "Greenpeace stima 36 miliardi di extraprofitti petroliferi nell'Ue",
+      "eventKey": "greenpeace-extra-profitti-petrolio-ue-36-miliardi-2026"
+    },
+    {
+      "id": "economia-halloween-coupon-cioccolato",
+      "category": "Economia",
+      "title": "Halloween, il cioccolato domina i buoni sconto",
+      "eventKey": "osservatorio-savi-halloween-coupon-cioccolato-2026"
+    },
+    {
+      "id": "economia-pensioni-rivalutazione-simulazioni",
+      "category": "Economia",
+      "title": "Pensioni 2027, tre simulazioni sugli aumenti da inflazione",
+      "eventKey": "simulazioni-rivalutazione-pensioni-2027-enac"
+    },
+    {
+      "id": "economia-fed-tassi-ottobre",
+      "category": "Economia",
+      "title": "Federal Reserve, tassi fermi tra il 3,75% e il 4%",
+      "eventKey": "fed-tassi-invariati-28-ottobre-2026"
+    },
+    {
+      "id": "cronaca-sisma-cantieri-castelli",
+      "category": "Cronaca",
+      "title": "Sisma del Centro Italia, Castelli riferisce 16mila cantieri conclusi",
+      "eventKey": "sisma-centro-italia-castelli-16mila-cantieri-2026"
+    },
+    {
+      "id": "cronaca-ultras-puteolana-portici",
+      "category": "Cronaca",
+      "title": "Scontri tra ultras, contestato il tentato omicidio a otto indagati",
+      "eventKey": "puteolana-portici-otto-arresti-tentato-omicidio-2026"
+    },
+    {
+      "id": "cronaca-sub-ceneri-capo-mannu",
+      "category": "Cronaca",
+      "title": "Sardegna, disperse in mare le ceneri delle due sub morte alle Maldive",
+      "eventKey": "ceneri-montefalcone-sommacal-capo-mannu-28-ottobre-2026"
+    },
+    {
+      "id": "cronaca-etna-allerta-aeroporto",
+      "category": "Cronaca",
+      "title": "Etna, cenere vulcanica e limitazioni agli arrivi a Catania",
+      "eventKey": "etna-cenere-allerta-rossa-aeroporto-catania-29-ottobre-2026"
+    },
+    {
+      "id": "cronaca-sciopero-treni-revoca",
+      "category": "Cronaca",
+      "title": "Sciopero ferroviario del 30 ottobre revocato dopo la precettazione",
+      "eventKey": "sciopero-treni-30-ottobre-2026-revocato"
     }
   ],
   "collectionId": "2026-10-30-mattina",
   "reserveCounts": {
     "Politica": 5,
     "Esteri": 5,
-    "Economia": 0,
-    "Cronaca": 0,
+    "Economia": 5,
+    "Cronaca": 5,
     "Roma": 0,
     "Cultura · Teatro · Cinema": 0,
     "Tecnologia · AI": 0,
@@ -246,15 +304,15 @@
     },
     "economia": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "cronaca": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "roma": {
       "base": 0,
