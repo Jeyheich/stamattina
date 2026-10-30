@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "collectionId": "2026-10-30-mattina",
-  "id": "2026-10-30-batches-87ea25b2f9f9",
+  "id": "2026-10-30-batches-645d694be68e",
   "mode": "live",
   "editionDate": "2026-10-30",
-  "generatedAt": "2026-10-30T06:12:35.445Z",
+  "generatedAt": "2026-10-30T06:13:10.130Z",
   "timezone": "Europe/Rome",
   "scheduledFor": "2026-10-30T09:00:00+01:00",
   "essentialIds": [
@@ -41,7 +41,7 @@
     "cronaca-salerno-escavatore-cavalcavia",
     "cronaca-nordest-furti-metalli",
     "roma-raccordo-incidente-cassia",
-    "roma-trasporti-sciopero-rinviato",
+    "roma-bus-882-corsa-scuole",
     "roma-iacopini-risveglio-san-camillo",
     "roma-ostia-donna-38-anni-inchiesta",
     "cultura-u2-tour-san-siro-2027",
@@ -546,24 +546,24 @@
       }
     },
     {
-      "id": "roma-trasporti-sciopero-rinviato",
-      "eventKey": "roma-sciopero-trasporti-30-ottobre-differito",
+      "id": "roma-bus-882-corsa-scuole",
+      "eventKey": "roma-bus-882-corsa-aggiuntiva-studenti-29-ottobre-2026",
       "category": "Roma",
       "status": "verified",
-      "title": "Trasporti romani regolari il 30 ottobre dopo il rinvio dello sciopero",
-      "summary": "Roma Mobilità conferma il servizio ordinario su Atac, Cotral e operatori privati.",
+      "title": "Bus 882, aggiunta una corsa pomeridiana per gli studenti",
+      "summary": "Dal lunedì al sabato una partenza alle 13:24 migliora il collegamento tra Gianicolense, Casaletto e Colle Massimo.",
       "body": [
-        "Il ministero dei Trasporti ha disposto il differimento dello sciopero di 24 ore inizialmente previsto per venerdì 30 ottobre. Roma Servizi per la Mobilità segnala che Atac, Cotral, operatori privati e Trenitalia svolgeranno il servizio regolare.",
-        "L'avviso ufficiale è stato aggiornato il 29 ottobre: le precedenti comunicazioni sui possibili blocchi dei mezzi non rappresentano quindi l'assetto aggiornato del servizio. Le manifestazioni in piazza restano un tema separato."
+        "Roma Servizi per la Mobilità ha annunciato il 29 ottobre una nuova corsa della linea circolare 882, che collega Gianicolense/Casaletto e Colle Massimo.",
+        "La partenza aggiuntiva alle 13:24, dal lunedì al sabato, è pensata per gli studenti degli istituti Eugenio Montale e Alessandro Volta. L'avviso è valido fino al 7 novembre 2026."
       ],
       "publishedAt": "2026-10-29",
-      "verifiedAt": "2026-10-30T06:12:03.141Z",
+      "verifiedAt": "2026-10-30T06:12:39.871Z",
       "source": {
         "name": "Roma Servizi per la Mobilità",
-        "url": "https://romamobilita.it/primo-piano/scioperi-il-30-ottobre-agitazione-nazionale-indetta-da-usb-trasporto-pubblico-a-rischio/",
+        "url": "https://romamobilita.it/infomobilita/linea-bus-882-una-corsa-in-piu-per-le-scuole/",
         "access": "free",
-        "accessCheckedAt": "2026-10-30T06:12:03.141Z",
-        "dateEvidence": "Roma Mobilità: pubblicazione iniziale 25 ottobre 2026, aggiornamento del 29 ottobre 2026; ora dell'aggiornamento non indicata.",
+        "accessCheckedAt": "2026-10-30T06:12:39.871Z",
+        "dateEvidence": "Roma Mobilità, pubblicazione e aggiornamento del 29 ottobre 2026, orario di pubblicazione non indicato.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -1446,6 +1446,116 @@
       }
     },
     {
+      "id": "roma-sapienza-lettere-occupazione",
+      "eventKey": "roma-sapienza-occupazione-lettere-filosofia-28-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Sapienza, occupata la facoltà di Lettere e Filosofia",
+      "summary": "Gli attivisti di Cambiare Rotta annunciano iniziative e assemblee contro le spese militari.",
+      "body": [
+        "Alla Sapienza di Roma gli studenti del collettivo Cambiare Rotta hanno occupato la facoltà di Lettere e Filosofia dopo un'assemblea partecipata.",
+        "Nel comunicato, riportato il 28 ottobre da TGR Lazio, il movimento collega la protesta alle mobilitazioni giovanili europee e critica le spese militari. Sono annunciati ulteriori incontri e manifestazioni."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-30T06:13:01.835Z",
+      "source": {
+        "name": "RaiNews TGR Lazio",
+        "url": "https://www.rainews.it/tgr/lazio/articoli/2026/10/gli-studenti-occupano-la-facolta-di-lettere-e-filosofia-a3c7c729-1c66-426f-b207-954aee6481e7.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:13:01.835Z",
+        "dateEvidence": "RaiNews TGR Lazio, pubblicazione originale 28 ottobre 2026, senza ora indicata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-oasis-rivendita-antitrust",
+      "eventKey": "oasis-biglietti-roma-antitrust-secondary-ticketing-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Oasis, accertamenti sulla rivendita dei biglietti dei concerti romani",
+      "summary": "L'Autorità avvia approfondimenti dopo la segnalazione di prezzi fino a quasi 10mila euro.",
+      "body": [
+        "L'Antitrust ha avviato approfondimenti preliminari sul secondary ticketing denunciato dal Codacons per i concerti degli Oasis allo Stadio Olimpico, previsti il 26, 29 e 30 luglio 2027.",
+        "L'associazione ha segnalato offerte sui siti di rivendita fra 5mila e 7mila euro, in alcuni casi vicine a 10mila. Gli accertamenti non equivalgono a un illecito già accertato né a sanzioni già applicate."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-30T06:13:01.835Z",
+      "source": {
+        "name": "RaiNews TGR Lazio",
+        "url": "https://www.rainews.it/amp/tgr/lazio/articoli/2026/10/oasis-a-roma-biglietti-a-10mila-euro-lantitrust-avvia-gli-accertamenti-b5dd2291-daf9-420b-a876-ab427a01180e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:13:01.835Z",
+        "dateEvidence": "RaiNews TGR Lazio, articolo del 28 ottobre 2026, data originale riportata nell'indice e pagina.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-adinolfi-domiciliari",
+      "eventKey": "roma-mario-adinolfi-torna-domiciliari-gip-28-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Mario Adinolfi torna ai domiciliari dopo la decisione del gip",
+      "summary": "Accolta l'istanza dei difensori dell'ex parlamentare, indagato per truffa aggravata e reati fiscali.",
+      "body": [
+        "Il giudice per le indagini preliminari di Roma ha accolto la richiesta della difesa di Mario Adinolfi, disponendo il passaggio dal carcere agli arresti domiciliari.",
+        "L'ex parlamentare era stato trasferito in carcere a settembre per presunte violazioni delle prescrizioni, fra cui l'utilizzo frequente dei social. L'indagine per truffa aggravata e reati fiscali resta distinta dalla misura cautelare."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-30T06:13:01.835Z",
+      "source": {
+        "name": "RaiNews TGR Lazio",
+        "url": "https://www.rainews.it/tgr/lazio/articoli/2026/10/adinolfi-lascia-il-carcere-accolta-istanza-della-difesa--7cafe1a5-a71a-4662-8345-45b41f0542c3.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:13:01.835Z",
+        "dateEvidence": "RaiNews TGR Lazio, articolo originale del 28/10/2026, nessuna ora dichiarata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-annia-regilla-linea-663",
+      "eventKey": "roma-linea-663-deviazione-annia-regilla-29-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Via Annia Regilla, deviata la linea 663 per lavori",
+      "summary": "La modifica riguarda il tragitto verso largo Cirò e comporta la sospensione temporanea di alcune fermate.",
+      "body": [
+        "Roma Servizi per la Mobilità segnala che una seconda fase dei lavori in via Annia Regilla, tra via Appia Nuova e via Vallericcia, comporta la deviazione della linea 663 in direzione di largo Cirò.",
+        "I bus proseguono sull'Appia Nuova fino a via Appia Pignatelli prima di riprendere il percorso ordinario. Diverse fermate in zona Annia Regilla e Quarto Miglio sono temporaneamente disattivate."
+      ],
+      "publishedAt": "2026-10-29",
+      "verifiedAt": "2026-10-30T06:13:01.835Z",
+      "source": {
+        "name": "Roma Servizi per la Mobilità",
+        "url": "https://romamobilita.it/infomobilita/lavori-in-via-annia-regilla-deviata-linea-663/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:13:01.835Z",
+        "dateEvidence": "Roma Mobilità: avviso pubblicato e aggiornato 29/10/2026; validità dal 29/10 ore 12:16, non necessariamente orario di pubblicazione.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-cerveteri-reperti-restituiti",
+      "eventKey": "cerveteri-restituzione-54-reperti-archeologici-stato",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Cerveteri, restituiti allo Stato 54 reperti archeologici",
+      "summary": "I beni sequestrati a Marina di Cerveteri sono stati assegnati alla Soprintendenza competente.",
+      "body": [
+        "I Carabinieri della Stazione di Campo di Mare hanno formalizzato la restituzione allo Stato di 54 reperti archeologici sequestrati a Marina di Cerveteri durante indagini coordinate dalla Procura di Civitavecchia.",
+        "Secondo la comunicazione riportata il 28 ottobre, i beni coprono un arco cronologico dal VII secolo avanti Cristo all'età imperiale romana e sono stati destinati alla Soprintendenza dell'Etruria meridionale. Il corpo del comunicato indica 54 oggetti, benché il titolo del sito riporti per errore 57."
+      ],
+      "publishedAt": "2026-10-28T10:29:00+01:00",
+      "verifiedAt": "2026-10-30T06:13:01.835Z",
+      "source": {
+        "name": "Il Metropolitano (comunicato Carabinieri)",
+        "url": "https://www.ilmetropolitano.it/2026/10/28/cerveteri-restituiti-allo-stato-57-reperti-archeologici/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:13:01.835Z",
+        "dateEvidence": "Comunicato Carabinieri ripreso da Il Metropolitano: Cerveteri 28/10/2026 ore 10:29, testo indica 54 reperti; titolo della pagina erroneamente 57.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
       "id": "tecnologia-skynet-llmjacking-agente-cryptominer-2026",
       "eventKey": "skynet-llmjacking-agente-cryptominer-2026",
       "category": "Tecnologia · AI",
@@ -1687,6 +1797,11 @@
     "cronaca-sub-ceneri-capo-mannu",
     "cronaca-etna-allerta-aeroporto",
     "cronaca-sciopero-treni-revoca",
+    "roma-sapienza-lettere-occupazione",
+    "roma-oasis-rivendita-antitrust",
+    "roma-adinolfi-domiciliari",
+    "roma-annia-regilla-linea-663",
+    "roma-cerveteri-reperti-restituiti",
     "tecnologia-skynet-llmjacking-agente-cryptominer-2026",
     "tecnologia-chrome-gemini-gmail-compilazione-moduli-2026",
     "tecnologia-sony-elf-mn1-display-3d-senza-occhiali-2026",
