@@ -3,7 +3,7 @@
   "editionDate": "2026-10-30",
   "collectionId": "2026-10-30-pomeriggio",
   "category": "Sport",
-  "completedAt": "2026-10-30T16:12:54.957Z",
+  "completedAt": "2026-10-30T16:13:01.319Z",
   "articles": [
     {
       "id": "sport-figc-malago-quorum-undici-club-30-ottobre-2026",
@@ -112,6 +112,118 @@
         "access": "free",
         "accessCheckedAt": "2026-10-30T16:12:51.836Z",
         "dateEvidence": "Sky Sport: «30 ott 2026 - 13:05»; presenza di Magnus Norman a Monte-Carlo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "sport-milan-pulisic-rinnovo-contratto-2031-ottobre-2026",
+      "eventKey": "milan-pulisic-rinnovo-contratto-2031-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Pulisic prolunga con il Milan fino al 2031",
+      "summary": "Il club ha ufficializzato l'accordo con l'attaccante statunitense il 29 ottobre.",
+      "body": [
+        "Christian Pulisic ha firmato il rinnovo che lo lega al Milan fino al 30 giugno 2031. La comunicazione è stata inserita nella rassegna dei rinnovi ufficiali di Sky Sport.",
+        "La firma è avvenuta il 29 ottobre a Casa Milan. Si tratta di un accordo contrattuale già concluso, distinto dalle dichiarazioni di Cardinale sulle strategie future del club."
+      ],
+      "publishedAt": "2026-10-29T16:00:00+01:00",
+      "verifiedAt": "2026-10-30T16:12:51.836Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calciomercato/calciomercato-ultimi-rinnovi-ufficiali",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:12:51.836Z",
+        "dateEvidence": "Sky Sport: pagina dei rinnovi «29 ott 2026 - 16:00», conferma ufficiale Pulisic fino al 2031.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-serie-a-designazioni-guida-derby-sozza-juve-napoli-2026",
+      "eventKey": "serie-a-designazioni-guida-derby-sozza-juve-napoli-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Serie A, Guida designato per Milan-Inter e Sozza per Juventus-Napoli",
+      "summary": "Definiti gli arbitri della decima giornata: Maresca dirigerà Udinese-Roma.",
+      "body": [
+        "Le designazioni ufficiali per la decima giornata di Serie A affidano a Marco Guida il derby Milan-Inter del 31 ottobre e a Simone Sozza Juventus-Napoli del primo novembre.",
+        "Per Udinese-Roma è stato indicato Fabio Maresca. Il calendario comprende incontri distribuiti fino al 2 novembre: la notizia riguarda gli arbitri assegnati, non l'esito delle partite."
+      ],
+      "publishedAt": "2026-10-30T12:05:00+01:00",
+      "verifiedAt": "2026-10-30T16:12:51.836Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/30/arbitri-serie-a-designazioni-giornata-10",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:12:51.836Z",
+        "dateEvidence": "Sky Sport: «30 ott 2026 - 12:05»; elenco designazioni arbitrali 10a giornata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-san-siro-derby-riaperti-terzo-anello-2350-posti-2026",
+      "eventKey": "san-siro-derby-riaperti-terzo-anello-2350-posti-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Derby di Milano, San Siro riapre settori del terzo anello",
+      "summary": "La rimozione dei teloni di sicurezza libera 2.350 posti in più per la partita del 31 ottobre.",
+      "body": [
+        "Per Milan-Inter lo stadio Meazza aumenta la capienza grazie alla riapertura dei settori Terzo Anello Blu e Verde, rimasti inutilizzati dall'inizio della stagione 2019-2020.",
+        "Sky Sport quantifica in 2.350 i posti tornati disponibili e segnala la vendita di ulteriori biglietti. L'eventuale superamento delle 77 mila presenze resta una possibilità, non un dato definitivo."
+      ],
+      "publishedAt": "2026-10-30T12:55:00+01:00",
+      "verifiedAt": "2026-10-30T16:12:51.836Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/30/milan-inter-biglietti-derby-terzo-anello",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:12:51.836Z",
+        "dateEvidence": "Sky Sport: «30 ott 2026 - 12:55»; riapertura di due settori del terzo anello.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-antonelli-rientro-fp1-dopo-indisposizione-messico-2026",
+      "eventKey": "antonelli-rientro-fp1-dopo-indisposizione-messico-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Antonelli torna in pista dopo l'indisposizione della vigilia",
+      "summary": "Il pilota Mercedes aveva saltato gli impegni con i media del 29 ottobre; è atteso alle libere in Messico.",
+      "body": [
+        "Kimi Antonelli torna al programma del Gran Premio del Messico dopo aver saltato il media day di giovedì 29 ottobre per un'indisposizione. Sky Sport ne documenta il rientro nelle attività del weekend.",
+        "La condizione fisica è un tema separato dalla presenza dei tre italiani nelle FP1 e dalle combinazioni matematiche per il titolo. Alla verifica non sono ancora riportati risultati delle prove libere."
+      ],
+      "publishedAt": "2026-10-30T15:45:00+01:00",
+      "verifiedAt": "2026-10-30T16:12:51.836Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/formula-1/kimi-antonelli-gp-messico-f1-foto",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:12:51.836Z",
+        "dateEvidence": "Sky Sport: fotogallery «30 ott 2026 - 15:45»; rientro dopo indisposizione del 29 ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-berrettini-de-minaur-quarti-vienna-programma-2026",
+      "eventKey": "berrettini-de-minaur-quarti-vienna-programma-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Berrettini atteso contro De Minaur nei quarti a Vienna",
+      "summary": "Il match è previsto non prima delle 20; in campo anche Bolelli e Vavassori nel doppio.",
+      "body": [
+        "Matteo Berrettini affronta Alex De Minaur nei quarti dell'ATP 500 di Vienna, secondo il programma pubblicato da Sky Sport per il 30 ottobre. L'incontro è previsto in serata, non prima delle 20.",
+        "Il programma comprende anche il doppio Bolelli-Vavassori contro Andreozzi-Guinard. Non viene anticipato alcun risultato della partita di Berrettini, ancora da disputare all'ora della verifica."
+      ],
+      "publishedAt": "2026-10-30T08:00:00+01:00",
+      "verifiedAt": "2026-10-30T16:12:51.836Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/2026/10/30/atp-vienna-basilea-2026-partite-oggi-30-ottobre",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:12:51.836Z",
+        "dateEvidence": "Sky Sport: «30 ott 2026 - 08:00»; programma ATP Vienna, Berrettini-De Minaur non prima delle 20.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
