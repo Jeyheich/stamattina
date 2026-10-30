@@ -1,26 +1,24 @@
 {
   "editionDate": "2026-10-30",
-  "checkedAt": "2026-10-30T05:16:51.683Z",
+  "checkedAt": "2026-10-30T06:11:27.515Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
     "roma",
-    "cultura",
-    "tecnologia",
-    "sport"
+    "cultura"
   ],
   "completed": [
     "politica",
     "esteri",
     "economia",
-    "cronaca"
+    "cronaca",
+    "tecnologia",
+    "sport"
   ],
   "inProgress": [],
   "missing": [
     "roma",
-    "cultura",
-    "tecnologia",
-    "sport"
+    "cultura"
   ],
   "invalid": [],
   "stories": [
@@ -145,6 +143,66 @@
       "eventKey": "padova-indagine-furti-rame-metalli-sette-misure-2026"
     },
     {
+      "id": "tecnologia-mistral-large4-versione-finale-cyber-2026",
+      "category": "Tecnologia · AI",
+      "title": "Mistral pubblica Large 4: attenzione a codice e sicurezza",
+      "eventKey": "mistral-large4-versione-finale-cyber-2026"
+    },
+    {
+      "id": "tecnologia-survival-llm-chatbot-offline-emergenze-2026",
+      "category": "Tecnologia · AI",
+      "title": "Survival LLM porta un archivio di emergenza su computer offline",
+      "eventKey": "survival-llm-chatbot-offline-emergenze-2026"
+    },
+    {
+      "id": "tecnologia-new-york-legge-chatbot-minori-verifica-eta-2026",
+      "category": "Tecnologia · AI",
+      "title": "New York limita i chatbot che simulano relazioni con i minori",
+      "eventKey": "new-york-legge-chatbot-minori-verifica-eta-2026"
+    },
+    {
+      "id": "tecnologia-silent-hill-townfall-patch-16-difficolta-2026",
+      "category": "Tecnologia · AI",
+      "title": "Silent Hill: Townfall riceve la modalità Difficile con la patch 1.6",
+      "eventKey": "silent-hill-townfall-patch-16-difficolta-2026"
+    },
+    {
+      "id": "tecnologia-ubisoft-assassins-creed-hexe-presentazione-2027",
+      "category": "Tecnologia · AI",
+      "title": "Ubisoft indica il 2027 per la prima presentazione di Assassin's Creed Hexe",
+      "eventKey": "ubisoft-assassins-creed-hexe-presentazione-2027"
+    },
+    {
+      "id": "sport-inter-milan-generali-stadium-progetto-71500-2031",
+      "category": "Sport",
+      "title": "Milan e Inter presentano il Generali Stadium da 71.500 posti",
+      "eventKey": "inter-milan-generali-stadium-progetto-71500-2031"
+    },
+    {
+      "id": "sport-fiorentina-atalanta-2-2-29-ottobre-2026",
+      "category": "Sport",
+      "title": "Fiorentina e Atalanta chiudono sul 2-2 al Franchi",
+      "eventKey": "fiorentina-atalanta-2-2-29-ottobre-2026"
+    },
+    {
+      "id": "sport-frosinone-lecce-5-1-29-ottobre-2026",
+      "category": "Sport",
+      "title": "Frosinone travolge il Lecce 5-1 e sale al sesto posto",
+      "eventKey": "frosinone-lecce-5-1-29-ottobre-2026"
+    },
+    {
+      "id": "sport-f1-russell-antonelli-rapporto-gp-messico-2026",
+      "category": "Sport",
+      "title": "Russell rassicura sul rapporto con Antonelli prima del GP del Messico",
+      "eventKey": "f1-russell-antonelli-rapporto-gp-messico-2026"
+    },
+    {
+      "id": "sport-atp-vienna-cobolli-ritiro-berrettini-quarti-2026",
+      "category": "Sport",
+      "title": "Cobolli si ritira a Vienna, Berrettini passa ai quarti",
+      "eventKey": "atp-vienna-cobolli-ritiro-berrettini-quarti-2026"
+    },
+    {
       "id": "politica-meloni-trump-vicinanza-interesse-nazionale",
       "category": "Politica",
       "title": "Meloni rivendica la scelta di mantenere un rapporto stretto con Trump",
@@ -263,6 +321,66 @@
       "category": "Cronaca",
       "title": "Sciopero ferroviario del 30 ottobre revocato dopo la precettazione",
       "eventKey": "sciopero-treni-30-ottobre-2026-revocato"
+    },
+    {
+      "id": "tecnologia-skynet-llmjacking-agente-cryptominer-2026",
+      "category": "Tecnologia · AI",
+      "title": "Un agente automatizzato sfrutta modelli AI esposti per furti e mining",
+      "eventKey": "skynet-llmjacking-agente-cryptominer-2026"
+    },
+    {
+      "id": "tecnologia-chrome-gemini-gmail-compilazione-moduli-2026",
+      "category": "Tecnologia · AI",
+      "title": "Chrome usa Gemini per recuperare da Gmail dati utili ai moduli",
+      "eventKey": "chrome-gemini-gmail-compilazione-moduli-2026"
+    },
+    {
+      "id": "tecnologia-sony-elf-mn1-display-3d-senza-occhiali-2026",
+      "category": "Tecnologia · AI",
+      "title": "Sony mostra un piccolo display 3D senza occhiali da scrivania",
+      "eventKey": "sony-elf-mn1-display-3d-senza-occhiali-2026"
+    },
+    {
+      "id": "tecnologia-gta6-scooter-brothers-app-veicoli-2026",
+      "category": "Tecnologia · AI",
+      "title": "GTA 6 cita un vecchio meme con un'app per richiamare veicoli",
+      "eventKey": "gta6-scooter-brothers-app-veicoli-2026"
+    },
+    {
+      "id": "tecnologia-super-mario64-progetto-mixed-reality-lucas-martinic-2026",
+      "category": "Tecnologia · AI",
+      "title": "Un progetto amatoriale porta Super Mario 64 nella realtà mista",
+      "eventKey": "super-mario64-progetto-mixed-reality-lucas-martinic-2026"
+    },
+    {
+      "id": "sport-milan-rabiot-gila-moreira-recuperati-derby-2026",
+      "category": "Sport",
+      "title": "Milan, Rabiot, Gila e Moreira tornano in gruppo verso il derby",
+      "eventKey": "milan-rabiot-gila-moreira-recuperati-derby-2026"
+    },
+    {
+      "id": "sport-juventus-ritiro-anticipato-verso-napoli-2026",
+      "category": "Sport",
+      "title": "Juventus in ritiro anticipato prima della partita con il Napoli",
+      "eventKey": "juventus-ritiro-anticipato-verso-napoli-2026"
+    },
+    {
+      "id": "sport-como-kean-cinque-settimane-stop-nazionale-2026",
+      "category": "Sport",
+      "title": "Como, Kean fermo circa cinque settimane: salta gli impegni azzurri",
+      "eventKey": "como-kean-cinque-settimane-stop-nazionale-2026"
+    },
+    {
+      "id": "sport-f1-leclerc-ferrari-sensibile-gp-messico-2026",
+      "category": "Sport",
+      "title": "Leclerc: Ferrari competitiva, ma in Messico servirà un weekend perfetto",
+      "eventKey": "f1-leclerc-ferrari-sensibile-gp-messico-2026"
+    },
+    {
+      "id": "sport-atp-vienna-zverev-primo-ranking-lunedi-2026",
+      "category": "Sport",
+      "title": "Zverev torna numero uno ATP grazie ai quarti raggiunti a Vienna",
+      "eventKey": "atp-vienna-zverev-primo-ranking-lunedi-2026"
     }
   ],
   "collectionId": "2026-10-30-mattina",
@@ -273,8 +391,8 @@
     "Cronaca": 5,
     "Roma": 0,
     "Cultura · Teatro · Cinema": 0,
-    "Tecnologia · AI": 0,
-    "Sport": 0
+    "Tecnologia · AI": 5,
+    "Sport": 5
   },
   "photoCandidates": [
     {
@@ -327,16 +445,16 @@
       "complete": false
     },
     "tecnologia": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "sport": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     }
   },
   "needsPublication": false
