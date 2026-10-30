@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-30",
-  "checkedAt": "2026-10-30T05:06:33.684Z",
+  "checkedAt": "2026-10-30T05:06:48.105Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,11 +14,11 @@
     "sport"
   ],
   "completed": [
-    "politica"
+    "politica",
+    "esteri"
   ],
   "inProgress": [],
   "missing": [
-    "esteri",
     "economia",
     "cronaca",
     "roma",
@@ -57,6 +57,36 @@
       "category": "Politica",
       "title": "Nordio esclude ispettori a Milano dopo la decisione sul caso Siher",
       "eventKey": "nordio-giudici-siher-no-ispettori"
+    },
+    {
+      "id": "esteri-israele-elezioni-2026-nessuna-maggioranza-netanyahu",
+      "category": "Esteri",
+      "title": "Israele, il blocco di Netanyahu è primo ma non ha la maggioranza",
+      "eventKey": "israele-elezioni-2026-nessuna-maggioranza-netanyahu"
+    },
+    {
+      "id": "esteri-ucraina-dnipro-droni-stazione-14-morti",
+      "category": "Esteri",
+      "title": "Ucraina, attacco con droni alla stazione di Dnipro: almeno 14 morti",
+      "eventKey": "ucraina-dnipro-droni-stazione-14-morti"
+    },
+    {
+      "id": "esteri-italiani-fermati-cisgiordania-raccolta-olive",
+      "category": "Esteri",
+      "title": "Cinque attivisti italiani fermati in Cisgiordania, interviene la Farnesina",
+      "eventKey": "italiani-fermati-cisgiordania-raccolta-olive"
+    },
+    {
+      "id": "esteri-el-salvador-soldati-haiti-missione-bukele",
+      "category": "Esteri",
+      "title": "El Salvador dispiega militari ad Haiti, Bukele nega che sia un'invasione",
+      "eventKey": "el-salvador-soldati-haiti-missione-bukele"
+    },
+    {
+      "id": "esteri-brasile-meta-causa-coercizione-elettorale",
+      "category": "Esteri",
+      "title": "Brasile, azione giudiziaria contro Meta per post di pressione elettorale",
+      "eventKey": "brasile-meta-causa-coercizione-elettorale"
     }
   ],
   "collectionId": "2026-10-30-mattina",
@@ -80,7 +110,7 @@
       "complete": false
     },
     "esteri": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
