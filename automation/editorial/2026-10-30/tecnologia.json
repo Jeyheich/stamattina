@@ -1,234 +1,117 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-30",
-  "collectionId": "2026-10-30-mattina",
+  "collectionId": "2026-10-30-pomeriggio",
   "category": "Tecnologia · AI",
-  "completedAt": "2026-10-30T06:10:27Z",
+  "completedAt": "2026-10-30T16:12:52.573Z",
   "articles": [
     {
-      "id": "tecnologia-mistral-large4-versione-finale-cyber-2026",
-      "eventKey": "mistral-large4-versione-finale-cyber-2026",
+      "id": "tecnologia-reddit-login-contro-scraping-ai-2026",
+      "eventKey": "reddit-login-contro-scraping-ai-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "Mistral pubblica Large 4: attenzione a codice e sicurezza",
-      "summary": "La versione finale del modello open-weight punta sulla programmazione agentica e sulla ricerca di vulnerabilità.",
+      "title": "Reddit prepara l'accesso con account per frenare lo scraping AI",
+      "summary": "I primi test del login obbligatorio riguarderanno alcuni paesi fuori dagli Stati Uniti; i link diretti continueranno a funzionare.",
       "body": [
-        "Mistral ha reso disponibile Large 4, noto anche come Le Chonk, dopo una fase di anteprima. Punto Informatico riferisce che il modello multimodale comprende oltre 160 lingue e mette a disposizione i pesi per gli sviluppatori.",
-        "I risultati di programmazione e cybersicurezza riportati nell'articolo derivano da benchmark dichiarati; non equivalgono a una garanzia di sicurezza. Il modello può essere utilizzato anche tramite strumenti per sviluppatori."
+        "Reddit intende limitare l'accesso anonimo ai propri contenuti per contrastare la raccolta non autorizzata di dati destinati ai modelli di intelligenza artificiale. Steve Huffman ne ha parlato commentando i risultati trimestrali.",
+        "Il cambiamento sarà sperimentato in alcuni paesi nel quarto trimestre 2026, con possibile estensione successiva. L'azienda distingue le visite tramite link condivisi e risultati di ricerca, che resteranno possibili."
       ],
-      "publishedAt": "2026-10-29",
-      "verifiedAt": "2026-10-30T06:10:27Z",
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-10-30T16:12:51.836Z",
       "source": {
         "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/mistral-large-4-migliore-modello-open-capacita-cyber/",
+        "url": "https://www.punto-informatico.it/reddit-login-obbligatorio-bloccare-scraping-ai/",
         "access": "free",
-        "accessCheckedAt": "2026-10-30T06:10:27Z",
-        "dateEvidence": "Punto Informatico, data esplicita «Pubblicato il 29 ott 2026» e annuncio della disponibilità finale.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 95
-    },
-    {
-      "id": "tecnologia-survival-llm-chatbot-offline-emergenze-2026",
-      "eventKey": "survival-llm-chatbot-offline-emergenze-2026",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "Survival LLM porta un archivio di emergenza su computer offline",
-      "summary": "Il progetto gratuito combina un modello locale e una raccolta di guide, ma i test indicano limiti importanti di accuratezza.",
-      "body": [
-        "Survival LLM permette di consultare senza connessione una biblioteca scaricata in precedenza, composta da circa 1,5 milioni di documenti su emergenze, riparazioni e altri argomenti. Il software può funzionare in locale su computer compatibili.",
-        "I risultati pubblicati dallo sviluppatore non costituiscono una validazione indipendente: un modello testato per macchine da 16-31 GB ha risposto correttamente a 14 domande su 22. Per indicazioni mediche o di sicurezza è indispensabile controllare la fonte primaria."
-      ],
-      "publishedAt": "2026-10-29",
-      "verifiedAt": "2026-10-30T06:10:27Z",
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/come-funziona-survival-llm-chatbot-offline-emergenze/",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T06:10:27Z",
-        "dateEvidence": "Punto Informatico, «Pubblicato il 29 ott 2026»; descrizione e limiti del progetto nella pagina.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 91
-    },
-    {
-      "id": "tecnologia-new-york-legge-chatbot-minori-verifica-eta-2026",
-      "eventKey": "new-york-legge-chatbot-minori-verifica-eta-2026",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "New York limita i chatbot che simulano relazioni con i minori",
-      "summary": "La nuova legge richiede verifiche dell'età e vieta ai servizi rivolti ai minori determinate funzioni relazionali.",
-      "body": [
-        "La governatrice Kathy Hochul ha firmato una norma sui chatbot capaci di imitare rapporti personali e incoraggiare dipendenze emotive. Il testo citato da Punto Informatico introduce restrizioni specifiche per gli utenti sotto i 18 anni.",
-        "I fornitori devono verificare l'età per rendere disponibili le funzioni vietate ai minori; sono previste sanzioni in caso di violazioni. La misura riguarda lo Stato di New York, non costituisce un divieto globale di tutti i chatbot."
-      ],
-      "publishedAt": "2026-10-29",
-      "verifiedAt": "2026-10-30T06:10:27Z",
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/chatbot-ai-ban-minori-18-anni-new-york/",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T06:10:27Z",
-        "dateEvidence": "Punto Informatico, data «Pubblicato il 29 ott 2026»; riferimento alla legge S.9051B/A.10379C.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 90
-    },
-    {
-      "id": "tecnologia-silent-hill-townfall-patch-16-difficolta-2026",
-      "eventKey": "silent-hill-townfall-patch-16-difficolta-2026",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "Silent Hill: Townfall riceve la modalità Difficile con la patch 1.6",
-      "summary": "L'aggiornamento interviene anche su accessibilità, bilanciamento e grafica PC.",
-      "body": [
-        "Konami e Screen Burn hanno distribuito la patch 1.6 di Silent Hill: Townfall su PS5 e PC. La nuova modalità Difficile si colloca tra Normale e Incubo e modifica la gestione delle risorse e la sensibilità dei nemici.",
-        "L'aggiornamento aggiunge opzioni per la mappa e indicazioni sugli enigmi, oltre a miglioramenti visivi per utenti daltonici. Su PC è previsto il supporto a NVIDIA DLSS Ray Reconstruction."
-      ],
-      "publishedAt": "2026-10-29T22:24:00+01:00",
-      "verifiedAt": "2026-10-30T06:10:27Z",
-      "source": {
-        "name": "Everyeye",
-        "url": "https://www.everyeye.it/notizie/silent-hill-townfall-sorpresa-halloween-arriva-difficolta-908783.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T06:10:27Z",
-        "dateEvidence": "Everyeye, firma e data 29/10/2026 ore 22:24; patch 1.6 descritta e disponibile.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 89
-    },
-    {
-      "id": "tecnologia-ubisoft-assassins-creed-hexe-presentazione-2027",
-      "eventKey": "ubisoft-assassins-creed-hexe-presentazione-2027",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "Ubisoft indica il 2027 per la prima presentazione di Assassin's Creed Hexe",
-      "summary": "L'editore aggiorna anche lo stato del progetto multiplayer Invictus e dei capitoli precedenti.",
-      "body": [
-        "Ubisoft ha confermato che Codename Hexe sarà mostrato per la prima volta nel corso del 2027, senza annunciare una data di uscita. Codename Invictus, progetto multiplayer PvP, rimane in sviluppo dopo test privati.",
-        "L'azienda ha inoltre anticipato nuovi aggiornamenti per titoli già pubblicati, tra cui il New Game Plus di Assassin's Creed Valhalla. L'assenza di una data di lancio non va confusa con un annuncio di uscita nel 2027."
-      ],
-      "publishedAt": "2026-10-29T19:53:00+01:00",
-      "verifiedAt": "2026-10-30T06:10:27Z",
-      "source": {
-        "name": "Everyeye",
-        "url": "https://www.everyeye.it/notizie/ubisoft-annunciato-bel-po-novita-assassin-s-creed-parla-hexe-908759.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T06:10:27Z",
-        "dateEvidence": "Everyeye, pubblicato il 29/10/2026 alle 19:53; aggiornamento Ubisoft riportato nel testo.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 88
-    }
-  ],
-  "reserveArticles": [
-    {
-      "id": "tecnologia-skynet-llmjacking-agente-cryptominer-2026",
-      "eventKey": "skynet-llmjacking-agente-cryptominer-2026",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "Un agente automatizzato sfrutta modelli AI esposti per furti e mining",
-      "summary": "Symantec descrive un sistema che cerca servizi non protetti e ne abusa per azioni malevole.",
-      "body": [
-        "Secondo l'analisi di Symantec ripresa da Punto Informatico, una modalità chiamata Skynet automatizza la ricerca di modelli di intelligenza artificiale accessibili senza protezioni.",
-        "L'abuso può comportare sottrazione di credenziali, installazione di cryptominer e costi di calcolo a carico dei proprietari dei modelli esposti. La notizia riguarda una campagna osservata dagli analisti, non un difetto universale di tutti i chatbot."
-      ],
-      "publishedAt": "2026-10-29",
-      "verifiedAt": "2026-10-30T06:10:27Z",
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/agente-skynet-installa-cryptominer-ruba-credenziali/",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T06:10:27Z",
-        "dateEvidence": "Punto Informatico, «Pubblicato il 29 ott 2026», ricerca Symantec e dettagli LLMjacking.",
+        "accessCheckedAt": "2026-10-30T16:12:51.836Z",
+        "dateEvidence": "Punto Informatico: «Pubblicato il 30 ott 2026»; annuncio del CEO Reddit sui test nel quarto trimestre.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "tecnologia-chrome-gemini-gmail-compilazione-moduli-2026",
-      "eventKey": "chrome-gemini-gmail-compilazione-moduli-2026",
+      "id": "tecnologia-gemini-modifica-documenti-direttamente-chat-2026",
+      "eventKey": "gemini-modifica-documenti-direttamente-chat-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "Chrome usa Gemini per recuperare da Gmail dati utili ai moduli",
-      "summary": "La funzione inizialmente statunitense propone informazioni di ordini, viaggi e spedizioni.",
+      "title": "Gemini porta l'editing di documenti dentro la conversazione",
+      "summary": "L'anteprima e la modifica dei PDF funzionano anche su mobile; gli altri formati restano per ora limitati al web.",
       "body": [
-        "Google ha presentato un'evoluzione della compilazione automatica di Chrome che può usare Gemini con Personal Intelligence per ricavare dalla posta dettagli come codici di prenotazione o numeri di spedizione.",
-        "Secondo l'articolo, la funzione parte dagli Stati Uniti e richiede l'attivazione di Personal Intelligence. Gli utenti possono regolare o disabilitare gli accessi nelle impostazioni del browser."
+        "Google introduce nella chat di Gemini la possibilità di creare, visualizzare e modificare documenti senza passare a un'altra applicazione. Sono inclusi PDF, Docs, Fogli, presentazioni, testo, Markdown e codice.",
+        "L'utente può selezionare una porzione del documento e richiederne una revisione, oppure trasformare una tabella in grafico. Sul telefono la modifica diretta è per ora prevista per i PDF, mentre le altre tipologie richiedono il browser desktop."
       ],
-      "publishedAt": "2026-10-29",
-      "verifiedAt": "2026-10-30T06:10:27Z",
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-10-30T16:12:51.836Z",
       "source": {
         "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/chrome-usa-gemini-compilare-moduli-dati-gmail/",
+        "url": "https://www.punto-informatico.it/gemini-modifica-file-chat-pdf-docs-fogli-slide/",
         "access": "free",
-        "accessCheckedAt": "2026-10-30T06:10:27Z",
-        "dateEvidence": "Punto Informatico, «Pubblicato il 29 ott 2026», lancio statunitense descritto nella pagina.",
+        "accessCheckedAt": "2026-10-30T16:12:51.836Z",
+        "dateEvidence": "Punto Informatico: «Pubblicato il 30 ott 2026»; novità Google sui file in Gemini.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "tecnologia-sony-elf-mn1-display-3d-senza-occhiali-2026",
-      "eventKey": "sony-elf-mn1-display-3d-senza-occhiali-2026",
+      "id": "tecnologia-google-home-consumi-prese-matter-2026",
+      "eventKey": "google-home-consumi-prese-matter-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "Sony mostra un piccolo display 3D senza occhiali da scrivania",
-      "summary": "Il modello ELF-MN1 da sei pollici è destinato inizialmente al mercato giapponese.",
+      "title": "Google Home visualizza l'energia consumata dalle prese Matter",
+      "summary": "L'app mostra potenza istantanea e kWh cumulati quando la presa compatibile fornisce i dati.",
       "body": [
-        "Sony ha presentato in Giappone il display ELF-MN1, con microlenti e tracciamento degli occhi per creare un effetto tridimensionale senza occhiali. Il dispositivo è pensato per la visione da parte di una persona a distanza ravvicinata.",
-        "L'uscita giapponese è indicata per l'11 dicembre 2026, con prezzo di 53.900 yen. Non è stata annunciata una distribuzione italiana."
+        "Con l'aggiornamento annunciato il 29 ottobre, Google Home aggiunge la lettura dei consumi di prese e contatori compatibili con Matter. Le informazioni appaiono sia sulla scheda del dispositivo sia nei controlli dettagliati.",
+        "La misura è effettuata dall'hardware collegato, non dallo smartphone. Il rilascio è graduale e per questa funzione riguarda inizialmente Android; non tutte le prese Matter supportano la rilevazione energetica."
       ],
-      "publishedAt": "2026-10-29",
-      "verifiedAt": "2026-10-30T06:10:27Z",
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-10-30T16:12:51.836Z",
       "source": {
         "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/sony-rilancia-3d-senza-occhiali-sulla-scrivania/",
+        "url": "https://www.punto-informatico.it/google-home-svela-quali-dispositivi-consumano-piu-energia/",
         "access": "free",
-        "accessCheckedAt": "2026-10-30T06:10:27Z",
-        "dateEvidence": "Punto Informatico, «Pubblicato il 29 ott 2026»; presentazione Sony del 28 ottobre e uscita prevista a dicembre.",
+        "accessCheckedAt": "2026-10-30T16:12:51.836Z",
+        "dateEvidence": "Punto Informatico: «Pubblicato il 30 ott 2026»; aggiornamento Google Home annunciato il 29 ottobre.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "tecnologia-gta6-scooter-brothers-app-veicoli-2026",
-      "eventKey": "gta6-scooter-brothers-app-veicoli-2026",
+      "id": "tecnologia-petit-planet-uscita-4-dicembre-2026",
+      "eventKey": "petit-planet-uscita-4-dicembre-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "GTA 6 cita un vecchio meme con un'app per richiamare veicoli",
-      "summary": "Un dettaglio di gameplay descritto da Everyeye richiama la gag Scooter Brothers di GTA IV.",
+      "title": "Petit Planet ha una data: debutto gratuito il 4 dicembre",
+      "summary": "HoYoverse conferma il lancio su PC e dispositivi mobili, senza una versione console iniziale.",
       "body": [
-        "Un approfondimento citato da Everyeye descrive un'app di Grand Theft Auto VI che consentirebbe di richiedere la consegna di un veicolo sul posto. Il nome Scooter Brothers richiama un meme nato intorno a GTA IV.",
-        "La pagina distingue il dettaglio riportato dalla speculazione su come avverrà materialmente la consegna: quest'ultima non è confermata. La notizia riguarda una singola meccanica, non una nuova data di uscita."
+        "Un nuovo trailer di HoYoverse fissa al 4 dicembre 2026 l'uscita di Petit Planet, gioco di simulazione di vita free-to-play con costruzione di un pianeta e attività rilassate.",
+        "La versione 1.0 arriverà su iOS, Android e PC tramite client ufficiale ed Epic Games Store. Una presentazione dedicata ai dettagli del lancio è prevista per il primo novembre; non è stato annunciato il debutto contemporaneo su console."
       ],
-      "publishedAt": "2026-10-30T00:03:00+01:00",
-      "verifiedAt": "2026-10-30T06:10:27Z",
+      "publishedAt": "2026-10-30T11:33:00+01:00",
+      "verifiedAt": "2026-10-30T16:12:51.836Z",
       "source": {
         "name": "Everyeye",
-        "url": "https://www.everyeye.it/notizie/meccanica-gta-6-ispirata-leggendario-meme-908789.html",
+        "url": "https://www.everyeye.it/notizie/quando-esce-petit-planet-gioco-gratis-stile-animal-crossing-arrivando-908848.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-30T06:10:27Z",
-        "dateEvidence": "Everyeye, pubblicato il 30/10/2026 alle 00:03; riferisce un articolo di EDGE sul gioco.",
+        "accessCheckedAt": "2026-10-30T16:12:51.836Z",
+        "dateEvidence": "Everyeye: intestazione «30/10/2026, ore 11:33»; trailer con data di uscita 4 dicembre.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "tecnologia-super-mario64-progetto-mixed-reality-lucas-martinic-2026",
-      "eventKey": "super-mario64-progetto-mixed-reality-lucas-martinic-2026",
+      "id": "tecnologia-gta6-mappa-aperta-dopo-tutorial-2026",
+      "eventKey": "gta6-mappa-aperta-dopo-tutorial-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "Un progetto amatoriale porta Super Mario 64 nella realtà mista",
-      "summary": "Lo sviluppatore Lucas Martinic mostra Mario su una scrivania attraverso un visore PICO.",
+      "title": "GTA 6: esplorazione della mappa dopo un breve tutorial",
+      "summary": "Rockstar chiarisce che l'accesso al mondo di gioco non sarà rigidamente sbloccato missione dopo missione.",
       "body": [
-        "Lucas Martinic ha mostrato una dimostrazione indipendente di Super Mario 64 in realtà mista, con un ambiente 3D che sembra fluttuare nella stanza e un personaggio che può essere spostato fuori dalla finestra di gioco.",
-        "Il prototipo, dichiarato a 90 fotogrammi al secondo, non è un prodotto ufficiale Nintendo o PICO. Al momento non è stata annunciata una distribuzione pubblica."
+        "Secondo i dettagli ripresi da Everyeye da un'intervista pubblicata su EDGE, in Grand Theft Auto 6 l'ambientazione di Leonida potrà essere esplorata molto presto, senza i blocchi progressivi dei capitoli più vecchi.",
+        "La libertà di movimento non è però istantanea: è previsto un tutorial iniziale. Alcune possibilità di interazione e strumenti potranno comunque dipendere dalla progressione della storia; non è una conferma di tutte le meccaniche al lancio."
       ],
-      "publishedAt": "2026-10-29T23:14:00+01:00",
-      "verifiedAt": "2026-10-30T06:10:27Z",
+      "publishedAt": "2026-10-30T11:02:00+01:00",
+      "verifiedAt": "2026-10-30T16:12:51.836Z",
       "source": {
         "name": "Everyeye",
-        "url": "https://www.everyeye.it/notizie/super-mario-64-giocabile-realta-visore-vr-908786.html",
+        "url": "https://www.everyeye.it/notizie/mappa-gta-6-liberamente-esplorabile-subito-908837.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-30T06:10:27Z",
-        "dateEvidence": "Everyeye, pubblicato il 29/10/2026 alle 23:14; video sviluppatore citato e limiti del progetto.",
+        "accessCheckedAt": "2026-10-30T16:12:51.836Z",
+        "dateEvidence": "Everyeye: intestazione «30/10/2026, ore 11:02»; dettagli dell'intervista EDGE.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
