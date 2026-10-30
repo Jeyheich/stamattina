@@ -3,7 +3,7 @@
   "editionDate": "2026-10-30",
   "collectionId": "2026-10-30-mattina",
   "category": "Cronaca",
-  "completedAt": "2026-10-30T05:15:55.866Z",
+  "completedAt": "2026-10-30T05:16:21.876Z",
   "articles": [
     {
       "id": "cronaca-bosnia-elicottero-italiani",
@@ -123,6 +123,118 @@
         "access": "free",
         "accessCheckedAt": "2026-10-30T05:15:55.866Z",
         "dateEvidence": "Sky TG24, pagina originale del 29 ottobre 2026, orario di pubblicazione 18:08 Europe/Rome; testo e data riletti il 30 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "cronaca-sisma-cantieri-castelli",
+      "eventKey": "sisma-centro-italia-castelli-16mila-cantieri-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Sisma del Centro Italia, Castelli riferisce 16mila cantieri conclusi",
+      "summary": "A dieci anni dal terremoto del 2016 il commissario traccia un bilancio della ricostruzione.",
+      "body": [
+        "Nel decennale della lunga sequenza sismica che colpì l'Appennino centrale nel 2016, il commissario alla ricostruzione Guido Castelli ha riferito il completamento di circa 16mila cantieri.",
+        "Nell'intervista a Sky TG24 ha descritto un'accelerazione dei lavori rispetto alla prima fase. Il numero è un dato dichiarato dal commissario e non equivale alla conclusione di tutta la ricostruzione."
+      ],
+      "publishedAt": "2026-10-29T19:48:00+01:00",
+      "verifiedAt": "2026-10-30T05:16:21.876Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/video/2026/10/29/sisma-centro-italia-castelli-cantieri-1135689",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T05:16:21.876Z",
+        "dateEvidence": "Sky TG24, pubblicazione originale del 29 ottobre 2026 alle 19:48 Europe/Rome, data e testo della fonte letti e verificati il 30 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-ultras-puteolana-portici",
+      "eventKey": "puteolana-portici-otto-arresti-tentato-omicidio-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Scontri tra ultras, contestato il tentato omicidio a otto indagati",
+      "summary": "La vicenda riguarda il tifoso ferito durante gli scontri tra Puteolana e Portici.",
+      "body": [
+        "Otto persone, tra cui tre minorenni, risultano accusate di tentato omicidio per gli scontri tra tifoserie della Puteolana e del Portici nei quali un sostenitore era rimasto ferito.",
+        "Il 29 ottobre Sky TG24 riferisce la convalida dell'arresto di due maggiorenni, mentre altri tre sono stati scarcerati; per i minorenni la decisione era ancora attesa. Le contestazioni sono accuse e non condanne."
+      ],
+      "publishedAt": "2026-10-29T15:57:00+01:00",
+      "verifiedAt": "2026-10-30T05:16:21.876Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/video/2026/10/29/tifoso-ferito-ultras-accusato-tentato-omicidio-1135604",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T05:16:21.876Z",
+        "dateEvidence": "Sky TG24, pubblicazione originale del 29 ottobre 2026 alle 15:57 Europe/Rome, data e testo della fonte letti e verificati il 30 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-sub-ceneri-capo-mannu",
+      "eventKey": "ceneri-montefalcone-sommacal-capo-mannu-28-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Sardegna, disperse in mare le ceneri delle due sub morte alle Maldive",
+      "summary": "La famiglia ha scelto Capo Mannu, luogo a cui madre e figlia erano legate.",
+      "body": [
+        "Il 28 ottobre al largo di Capo Mannu, in Sardegna, sono state disperse le ceneri di Monica Montefalcone e della figlia Giorgia Sommacal, morte durante un'immersione alle Maldive nel maggio 2026.",
+        "La cerimonia privata è stata raccontata il 29 ottobre. La notizia riguarda l'ultimo saluto della famiglia, non un nuovo sviluppo dell'indagine sull'incidente subacqueo."
+      ],
+      "publishedAt": "2026-10-29T15:08:00+01:00",
+      "verifiedAt": "2026-10-30T05:16:21.876Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/29/sub-morte-maldive-monica-montefalcone-giorgia-sommacal-capo-mannu",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T05:16:21.876Z",
+        "dateEvidence": "Sky TG24, pubblicazione originale del 29 ottobre 2026 alle 15:08 Europe/Rome, data e testo della fonte letti e verificati il 30 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-etna-allerta-aeroporto",
+      "eventKey": "etna-cenere-allerta-rossa-aeroporto-catania-29-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Etna, cenere vulcanica e limitazioni agli arrivi a Catania",
+      "summary": "L'allerta per l'aviazione è salita al livello rosso, con misure previste fino alla sera del 29 ottobre.",
+      "body": [
+        "L'emissione di cenere dall'Etna ha portato il 29 ottobre all'innalzamento del codice di allerta per l'aviazione da arancione a rosso e alla chiusura del settore B1 dello spazio aereo.",
+        "La società di gestione dell'aeroporto di Catania ha disposto un massimo di dieci arrivi l'ora, con limitazioni previste fino alle 21 del 29 ottobre. Non è confermato che le restrizioni siano ancora in vigore il 30."
+      ],
+      "publishedAt": "2026-10-29T10:06:00+01:00",
+      "verifiedAt": "2026-10-30T05:16:21.876Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/29/eruzione-etna-aeroporto-catania-news",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T05:16:21.876Z",
+        "dateEvidence": "Sky TG24, pubblicazione originale del 29 ottobre 2026 alle 10:06 Europe/Rome, data e testo della fonte letti e verificati il 30 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-sciopero-treni-revoca",
+      "eventKey": "sciopero-treni-30-ottobre-2026-revocato",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Sciopero ferroviario del 30 ottobre revocato dopo la precettazione",
+      "summary": "Trenitalia e Trenord hanno annunciato la circolazione regolare, pur restando possibili disagi per i cortei.",
+      "body": [
+        "L'agitazione ferroviaria inizialmente prevista tra il 29 e il 30 ottobre è stata revocata e differita a seguito della precettazione del ministero dei Trasporti e del richiamo alla finestra di franchigia.",
+        "Trenitalia e Trenord hanno annunciato la normale circolazione dei convogli. La revoca dei blocchi ferroviari non esclude deviazioni stradali o altri disagi legati alle manifestazioni."
+      ],
+      "publishedAt": "2026-10-29T10:06:00+01:00",
+      "verifiedAt": "2026-10-30T05:16:21.876Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/29/sciopero-treni-30-ottobre-revocato",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T05:16:21.876Z",
+        "dateEvidence": "Sky TG24, pubblicazione originale del 29 ottobre 2026 alle 10:06 Europe/Rome, data e testo della fonte letti e verificati il 30 ottobre 2026.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
