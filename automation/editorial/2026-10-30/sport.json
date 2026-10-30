@@ -120,5 +120,117 @@
       },
       "leadPriority": 93
     }
+  ],
+  "reserveArticles": [
+    {
+      "id": "sport-milan-rabiot-gila-moreira-recuperati-derby-2026",
+      "eventKey": "milan-rabiot-gila-moreira-recuperati-derby-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Milan, Rabiot, Gila e Moreira tornano in gruppo verso il derby",
+      "summary": "I tre giocatori hanno ripreso gli allenamenti collettivi prima della sfida con l'Inter.",
+      "body": [
+        "Secondo Sky Sport, Rabiot, Gila e Moreira hanno lavorato con il resto del gruppo a Milanello nella preparazione del derby cittadino previsto per sabato sera.",
+        "Il rientro in allenamento è un segnale positivo per la disponibilità dei giocatori, ma non equivale alla conferma della loro presenza nell'undici titolare."
+      ],
+      "publishedAt": "2026-10-29T13:15:00+01:00",
+      "verifiedAt": "2026-10-30T06:10:27Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/29/milan-inter-probabili-formazioni-ultime-news",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:10:27Z",
+        "dateEvidence": "Sky Sport, articolo del 29 ott 2026 alle 13:15, aggiornamento sugli allenamenti del Milan.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-juventus-ritiro-anticipato-verso-napoli-2026",
+      "eventKey": "juventus-ritiro-anticipato-verso-napoli-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Juventus in ritiro anticipato prima della partita con il Napoli",
+      "summary": "Società e allenatore decidono di riunire la squadra dal 30 ottobre dopo la prova di Genova.",
+      "body": [
+        "La Juventus ha programmato un ritiro dal venerdì 30 ottobre fino alla sfida di domenica contro il Napoli. La decisione è stata condivisa dalla società con l'allenatore Spalletti.",
+        "Dopo un confronto con la squadra alla Continassa, l'amministratore delegato Carnevali ha ribadito fiducia nel gruppo e chiesto una risposta sul campo."
+      ],
+      "publishedAt": "2026-10-29T14:25:00+01:00",
+      "verifiedAt": "2026-10-30T06:10:27Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/29/juventus-ritiro-anticipato-partita-napoli",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:10:27Z",
+        "dateEvidence": "Sky Sport, pubblicato il 29 ott 2026 ore 14:25, ritiro previsto dal 30 ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-como-kean-cinque-settimane-stop-nazionale-2026",
+      "eventKey": "como-kean-cinque-settimane-stop-nazionale-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Como, Kean fermo circa cinque settimane: salta gli impegni azzurri",
+      "summary": "L'attaccante è stato sottoposto a un trattamento a Barcellona per un problema alla tibia.",
+      "body": [
+        "Il Como ha comunicato per Moise Kean un periodo di recupero stimato intorno a cinque settimane dopo il trattamento alla tibia eseguito a Barcellona.",
+        "L'indisponibilità riguarda le prossime partite del club e, secondo Sky Sport, anche gli impegni della Nazionale di novembre. La durata effettiva dipenderà dall'evoluzione clinica."
+      ],
+      "publishedAt": "2026-10-29T19:25:00+01:00",
+      "verifiedAt": "2026-10-30T06:10:27Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/29/kean-infortunio-como-news",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:10:27Z",
+        "dateEvidence": "Sky Sport, articolo 29 ott 2026 ore 19:25, comunicazione del Como e tempi stimati.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-f1-leclerc-ferrari-sensibile-gp-messico-2026",
+      "eventKey": "f1-leclerc-ferrari-sensibile-gp-messico-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Leclerc: Ferrari competitiva, ma in Messico servirà un weekend perfetto",
+      "summary": "Il pilota evidenzia la sensibilità della monoposto quando esce dalla finestra di funzionamento.",
+      "body": [
+        "Charles Leclerc ha spiegato alla vigilia del GP del Messico che la Ferrari non può considerarsi favorita rispetto a Mercedes e Red Bull. Per lottare davanti, secondo il pilota, sarà necessario evitare errori.",
+        "La SF-26 viene descritta come veloce ma sensibile alle condizioni di assetto e utilizzo, un limite emerso anche nel precedente appuntamento di Austin."
+      ],
+      "publishedAt": "2026-10-29T21:58:00+01:00",
+      "verifiedAt": "2026-10-30T06:10:27Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/formula-1/2026/10/29/f1-gp-messico-leclerc-ferrari-conferenza-video",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:10:27Z",
+        "dateEvidence": "Sky Sport, articolo del 29 ott 2026 alle 21:58 con dichiarazioni di Leclerc.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-atp-vienna-zverev-primo-ranking-lunedi-2026",
+      "eventKey": "atp-vienna-zverev-primo-ranking-lunedi-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Zverev torna numero uno ATP grazie ai quarti raggiunti a Vienna",
+      "summary": "Il tedesco batte Griekspoor e si prepara a superare Sinner nel ranking di lunedì.",
+      "body": [
+        "Alexander Zverev ha battuto Tallon Griekspoor 6-4, 7-5 negli ottavi dell'ATP 500 di Vienna, assicurandosi il primo posto nella classifica mondiale a partire dal successivo aggiornamento del lunedì.",
+        "Il tedesco diventerà il trentesimo numero uno nella storia del ranking ATP, interrompendo il periodo di Sinner in vetta. Ai quarti incontrerà Arthur Fery."
+      ],
+      "publishedAt": "2026-10-29T20:20:00+01:00",
+      "verifiedAt": "2026-10-30T06:10:27Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/2026/10/29/zverev-griekspoor-atp-vienna-risultato",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:10:27Z",
+        "dateEvidence": "Sky Sport, articolo 29 ott 2026 ore 20:20, risultato 6-4 7-5 e classifica ATP.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
   ]
 }
