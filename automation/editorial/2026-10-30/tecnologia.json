@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-10-30",
+  "collectionId": "2026-10-30-mattina",
+  "category": "Tecnologia · AI",
+  "completedAt": "2026-10-30T06:10:27Z",
+  "articles": [
+    {
+      "id": "tecnologia-mistral-large4-versione-finale-cyber-2026",
+      "eventKey": "mistral-large4-versione-finale-cyber-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Mistral pubblica Large 4: attenzione a codice e sicurezza",
+      "summary": "La versione finale del modello open-weight punta sulla programmazione agentica e sulla ricerca di vulnerabilità.",
+      "body": [
+        "Mistral ha reso disponibile Large 4, noto anche come Le Chonk, dopo una fase di anteprima. Punto Informatico riferisce che il modello multimodale comprende oltre 160 lingue e mette a disposizione i pesi per gli sviluppatori.",
+        "I risultati di programmazione e cybersicurezza riportati nell'articolo derivano da benchmark dichiarati; non equivalgono a una garanzia di sicurezza. Il modello può essere utilizzato anche tramite strumenti per sviluppatori."
+      ],
+      "publishedAt": "2026-10-29",
+      "verifiedAt": "2026-10-30T06:10:27Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/mistral-large-4-migliore-modello-open-capacita-cyber/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:10:27Z",
+        "dateEvidence": "Punto Informatico, data esplicita «Pubblicato il 29 ott 2026» e annuncio della disponibilità finale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 95
+    },
+    {
+      "id": "tecnologia-survival-llm-chatbot-offline-emergenze-2026",
+      "eventKey": "survival-llm-chatbot-offline-emergenze-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Survival LLM porta un archivio di emergenza su computer offline",
+      "summary": "Il progetto gratuito combina un modello locale e una raccolta di guide, ma i test indicano limiti importanti di accuratezza.",
+      "body": [
+        "Survival LLM permette di consultare senza connessione una biblioteca scaricata in precedenza, composta da circa 1,5 milioni di documenti su emergenze, riparazioni e altri argomenti. Il software può funzionare in locale su computer compatibili.",
+        "I risultati pubblicati dallo sviluppatore non costituiscono una validazione indipendente: un modello testato per macchine da 16-31 GB ha risposto correttamente a 14 domande su 22. Per indicazioni mediche o di sicurezza è indispensabile controllare la fonte primaria."
+      ],
+      "publishedAt": "2026-10-29",
+      "verifiedAt": "2026-10-30T06:10:27Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/come-funziona-survival-llm-chatbot-offline-emergenze/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:10:27Z",
+        "dateEvidence": "Punto Informatico, «Pubblicato il 29 ott 2026»; descrizione e limiti del progetto nella pagina.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 91
+    },
+    {
+      "id": "tecnologia-new-york-legge-chatbot-minori-verifica-eta-2026",
+      "eventKey": "new-york-legge-chatbot-minori-verifica-eta-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "New York limita i chatbot che simulano relazioni con i minori",
+      "summary": "La nuova legge richiede verifiche dell'età e vieta ai servizi rivolti ai minori determinate funzioni relazionali.",
+      "body": [
+        "La governatrice Kathy Hochul ha firmato una norma sui chatbot capaci di imitare rapporti personali e incoraggiare dipendenze emotive. Il testo citato da Punto Informatico introduce restrizioni specifiche per gli utenti sotto i 18 anni.",
+        "I fornitori devono verificare l'età per rendere disponibili le funzioni vietate ai minori; sono previste sanzioni in caso di violazioni. La misura riguarda lo Stato di New York, non costituisce un divieto globale di tutti i chatbot."
+      ],
+      "publishedAt": "2026-10-29",
+      "verifiedAt": "2026-10-30T06:10:27Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/chatbot-ai-ban-minori-18-anni-new-york/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:10:27Z",
+        "dateEvidence": "Punto Informatico, data «Pubblicato il 29 ott 2026»; riferimento alla legge S.9051B/A.10379C.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 90
+    },
+    {
+      "id": "tecnologia-silent-hill-townfall-patch-16-difficolta-2026",
+      "eventKey": "silent-hill-townfall-patch-16-difficolta-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Silent Hill: Townfall riceve la modalità Difficile con la patch 1.6",
+      "summary": "L'aggiornamento interviene anche su accessibilità, bilanciamento e grafica PC.",
+      "body": [
+        "Konami e Screen Burn hanno distribuito la patch 1.6 di Silent Hill: Townfall su PS5 e PC. La nuova modalità Difficile si colloca tra Normale e Incubo e modifica la gestione delle risorse e la sensibilità dei nemici.",
+        "L'aggiornamento aggiunge opzioni per la mappa e indicazioni sugli enigmi, oltre a miglioramenti visivi per utenti daltonici. Su PC è previsto il supporto a NVIDIA DLSS Ray Reconstruction."
+      ],
+      "publishedAt": "2026-10-29T22:24:00+01:00",
+      "verifiedAt": "2026-10-30T06:10:27Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/silent-hill-townfall-sorpresa-halloween-arriva-difficolta-908783.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:10:27Z",
+        "dateEvidence": "Everyeye, firma e data 29/10/2026 ore 22:24; patch 1.6 descritta e disponibile.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 89
+    },
+    {
+      "id": "tecnologia-ubisoft-assassins-creed-hexe-presentazione-2027",
+      "eventKey": "ubisoft-assassins-creed-hexe-presentazione-2027",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Ubisoft indica il 2027 per la prima presentazione di Assassin's Creed Hexe",
+      "summary": "L'editore aggiorna anche lo stato del progetto multiplayer Invictus e dei capitoli precedenti.",
+      "body": [
+        "Ubisoft ha confermato che Codename Hexe sarà mostrato per la prima volta nel corso del 2027, senza annunciare una data di uscita. Codename Invictus, progetto multiplayer PvP, rimane in sviluppo dopo test privati.",
+        "L'azienda ha inoltre anticipato nuovi aggiornamenti per titoli già pubblicati, tra cui il New Game Plus di Assassin's Creed Valhalla. L'assenza di una data di lancio non va confusa con un annuncio di uscita nel 2027."
+      ],
+      "publishedAt": "2026-10-29T19:53:00+01:00",
+      "verifiedAt": "2026-10-30T06:10:27Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/ubisoft-annunciato-bel-po-novita-assassin-s-creed-parla-hexe-908759.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:10:27Z",
+        "dateEvidence": "Everyeye, pubblicato il 29/10/2026 alle 19:53; aggiornamento Ubisoft riportato nel testo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 88
+    }
+  ]
+}
