@@ -1,244 +1,117 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-30",
-  "collectionId": "2026-10-30-mattina",
+  "collectionId": "2026-10-30-pomeriggio",
   "category": "Sport",
-  "completedAt": "2026-10-30T06:10:27Z",
+  "completedAt": "2026-10-30T16:12:54.957Z",
   "articles": [
     {
-      "id": "sport-inter-milan-generali-stadium-progetto-71500-2031",
-      "eventKey": "inter-milan-generali-stadium-progetto-71500-2031",
+      "id": "sport-figc-malago-quorum-undici-club-30-ottobre-2026",
+      "eventKey": "figc-malago-quorum-undici-club-30-ottobre-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "Milan e Inter presentano il Generali Stadium da 71.500 posti",
-      "summary": "Il nuovo impianto milanese punta alla prima partita nella stagione 2031-32.",
+      "title": "FIGC, Malagò ottiene le firme necessarie dalla Serie A",
+      "summary": "Undici società sostengono la candidatura dell'ex presidente CONI; il voto federale è previsto per il 14 dicembre.",
       "body": [
-        "Inter e Milan hanno presentato il progetto del Generali Stadium, destinato a sostituire l'attuale San Siro. La capienza prevista è di circa 71.500 spettatori e il disegno comprende due curve inclinate fino a 37 gradi.",
-        "Il piano include una copertura con pannelli fotovoltaici e interventi sull'area circostante. La stagione 2031-32 è un obiettivo progettuale, non una data di apertura già garantita."
+        "Secondo le informazioni ANSA riprese da Sky Sport, Giovanni Malagò ha raggiunto il quorum di undici club necessario per presentarsi come candidato sostenuto dalla Serie A alla presidenza FIGC.",
+        "Alla lista dei sostenitori si è aggiunto il Parma. La corsa potrebbe contrapporlo ad Adriano Galliani, indicato da calciatori e allenatori: la candidatura non significa ancora elezione."
       ],
-      "publishedAt": "2026-10-29T22:20:00+01:00",
-      "verifiedAt": "2026-10-30T06:10:27Z",
+      "publishedAt": "2026-10-30T13:16:00+01:00",
+      "verifiedAt": "2026-10-30T16:12:51.836Z",
       "source": {
         "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/2026/10/29/nuovo-stadio-milan-inter-generali-foto",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/30/figc-malago-candidatura-presidente-quorum",
         "access": "free",
-        "accessCheckedAt": "2026-10-30T06:10:27Z",
-        "dateEvidence": "Sky Sport, fotogallery pubblicata il 29 ott 2026 alle 22:20, presentazione ufficiale del progetto.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 95
-    },
-    {
-      "id": "sport-fiorentina-atalanta-2-2-29-ottobre-2026",
-      "eventKey": "fiorentina-atalanta-2-2-29-ottobre-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Fiorentina e Atalanta chiudono sul 2-2 al Franchi",
-      "summary": "De Ketelaere apre, la Fiorentina rimonta e Zalewski firma il pareggio.",
-      "body": [
-        "Nella nona giornata di Serie A Fiorentina e Atalanta hanno pareggiato 2-2. De Ketelaere ha segnato al 41', poi Njie e João Mário hanno ribaltato il risultato tra il 53' e il 61'.",
-        "Zalewski ha realizzato il definitivo pareggio al 74'. Il risultato lascia entrambe le squadre con un punto dopo una partita ricca di cambi di fronte."
-      ],
-      "publishedAt": "2026-10-29",
-      "verifiedAt": "2026-10-30T06:10:27Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-9/fiorentina-atalanta/video-highlights",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T06:10:27Z",
-        "dateEvidence": "Sky Sport, pagina risultato «giovedì 29 ottobre 2026», punteggio finale 2-2 e marcatori.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 91
-    },
-    {
-      "id": "sport-frosinone-lecce-5-1-29-ottobre-2026",
-      "eventKey": "frosinone-lecce-5-1-29-ottobre-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Frosinone travolge il Lecce 5-1 e sale al sesto posto",
-      "summary": "La squadra di Alvini segna almeno quattro gol per la terza gara consecutiva.",
-      "body": [
-        "Il Frosinone ha battuto il Lecce 5-1 nella nona giornata di Serie A. In gol Cichella, Calò su rigore, Raimondo e Bîrligea con una doppietta; Monteiro ha segnato la rete ospite.",
-        "Sky Sport segnala il sesto posto in classifica del Frosinone dopo il successo. È la terza partita consecutiva in cui la squadra di Alvini realizza almeno quattro reti."
-      ],
-      "publishedAt": "2026-10-29",
-      "verifiedAt": "2026-10-30T06:10:27Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-9/frosinone-lecce/video-highlights",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T06:10:27Z",
-        "dateEvidence": "Sky Sport, pagina risultato «giovedì 29 ottobre 2026», 5-1 finale con elenco marcatori.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 90
-    },
-    {
-      "id": "sport-f1-russell-antonelli-rapporto-gp-messico-2026",
-      "eventKey": "f1-russell-antonelli-rapporto-gp-messico-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Russell rassicura sul rapporto con Antonelli prima del GP del Messico",
-      "summary": "Il pilota Mercedes nega tensioni particolari con il compagno in lotta per il Mondiale.",
-      "body": [
-        "Alla conferenza stampa del GP del Messico, George Russell ha definito positivo il rapporto personale con Kimi Antonelli, che nel fine settimana ha una possibilità di conquistare il titolo mondiale.",
-        "Russell ha spiegato che la competizione porta naturalmente maggiore concentrazione prima di scendere in pista, ma non ha descritto un conflitto tra i due piloti."
-      ],
-      "publishedAt": "2026-10-29T18:30:00+01:00",
-      "verifiedAt": "2026-10-30T06:10:27Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/formula-1/2026/10/29/formula-1-conferenza-gp-messico-live-streaming",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T06:10:27Z",
-        "dateEvidence": "Sky Sport, articolo 29 ott 2026 ore 18:30, conferenza stampa GP Messico.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 86
-    },
-    {
-      "id": "sport-atp-vienna-cobolli-ritiro-berrettini-quarti-2026",
-      "eventKey": "atp-vienna-cobolli-ritiro-berrettini-quarti-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Cobolli si ritira a Vienna, Berrettini passa ai quarti",
-      "summary": "Il derby italiano termina dopo sette game per un problema fisico di Cobolli.",
-      "body": [
-        "Flavio Cobolli ha interrotto il match degli ottavi contro Matteo Berrettini sul 2-5 nel primo set, accusando un problema fisico alla coscia sinistra. Berrettini ha raggiunto così i quarti dell'ATP 500 di Vienna.",
-        "Cobolli ha annunciato l'intenzione di sottoporsi a esami, senza una diagnosi definitiva al momento della notizia. Berrettini affronterà Alex de Minaur nel turno successivo."
-      ],
-      "publishedAt": "2026-10-29T21:30:00+01:00",
-      "verifiedAt": "2026-10-30T06:10:27Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/tennis/2026/10/29/cobolli-berrettini-atp-vienna-risultato",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T06:10:27Z",
-        "dateEvidence": "Sky Sport, cronaca del 29 ott 2026 ore 21:30 con aggiornamenti del ritiro e delle dichiarazioni.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 93,
-      "image": {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Matteo_Berrettini_at_2025_Miami_Open_02.jpg",
-        "alt": "Matteo Berrettini in campo durante il Miami Open del 2025",
-        "credit": "Vbrunophotog / Wikimedia Commons",
-        "rights": "CC BY-SA 4.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Matteo_Berrettini_at_2025_Miami_Open_02.jpg",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "caption": "Foto di repertorio · Matteo Berrettini al Miami Open 2025; non ritrae la partita di Vienna del 29 ottobre 2026.",
-        "reuseApproved": true
-      }
-    }
-  ],
-  "reserveArticles": [
-    {
-      "id": "sport-milan-rabiot-gila-moreira-recuperati-derby-2026",
-      "eventKey": "milan-rabiot-gila-moreira-recuperati-derby-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Milan, Rabiot, Gila e Moreira tornano in gruppo verso il derby",
-      "summary": "I tre giocatori hanno ripreso gli allenamenti collettivi prima della sfida con l'Inter.",
-      "body": [
-        "Secondo Sky Sport, Rabiot, Gila e Moreira hanno lavorato con il resto del gruppo a Milanello nella preparazione del derby cittadino previsto per sabato sera.",
-        "Il rientro in allenamento è un segnale positivo per la disponibilità dei giocatori, ma non equivale alla conferma della loro presenza nell'undici titolare."
-      ],
-      "publishedAt": "2026-10-29T13:15:00+01:00",
-      "verifiedAt": "2026-10-30T06:10:27Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/2026/10/29/milan-inter-probabili-formazioni-ultime-news",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T06:10:27Z",
-        "dateEvidence": "Sky Sport, articolo del 29 ott 2026 alle 13:15, aggiornamento sugli allenamenti del Milan.",
+        "accessCheckedAt": "2026-10-30T16:12:51.836Z",
+        "dateEvidence": "Sky Sport: «30 ott 2026 - 13:16»; attribuzione esplicita ad ANSA.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "sport-juventus-ritiro-anticipato-verso-napoli-2026",
-      "eventKey": "juventus-ritiro-anticipato-verso-napoli-2026",
+      "id": "sport-milan-tomori-lesione-coscia-stop-un-mese-2026",
+      "eventKey": "milan-tomori-lesione-coscia-stop-un-mese-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "Juventus in ritiro anticipato prima della partita con il Napoli",
-      "summary": "Società e allenatore decidono di riunire la squadra dal 30 ottobre dopo la prova di Genova.",
+      "title": "Milan senza Tomori per il derby: lesione muscolare",
+      "summary": "Gli esami indicano uno stop di almeno un mese e un nuovo controllo tra due settimane.",
       "body": [
-        "La Juventus ha programmato un ritiro dal venerdì 30 ottobre fino alla sfida di domenica contro il Napoli. La decisione è stata condivisa dalla società con l'allenatore Spalletti.",
-        "Dopo un confronto con la squadra alla Continassa, l'amministratore delegato Carnevali ha ribadito fiducia nel gruppo e chiesto una risposta sul campo."
+        "Il difensore Fikayo Tomori ha riportato una lesione al flessore mediale della coscia destra durante Milan-Bologna. Sky Sport riferisce che salterà il derby con l'Inter del 31 ottobre.",
+        "Il Milan programma una rivalutazione tra due settimane, ma l'assenza è stimata in almeno un mese. La notizia riguarda il responso medico sul singolo calciatore, distinto dai recuperi degli altri compagni."
       ],
-      "publishedAt": "2026-10-29T14:25:00+01:00",
-      "verifiedAt": "2026-10-30T06:10:27Z",
+      "publishedAt": "2026-10-30T13:54:00+01:00",
+      "verifiedAt": "2026-10-30T16:12:51.836Z",
       "source": {
         "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/2026/10/29/juventus-ritiro-anticipato-partita-napoli",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/30/milan-tomori-infortunio-news",
         "access": "free",
-        "accessCheckedAt": "2026-10-30T06:10:27Z",
-        "dateEvidence": "Sky Sport, pubblicato il 29 ott 2026 ore 14:25, ritiro previsto dal 30 ottobre.",
+        "accessCheckedAt": "2026-10-30T16:12:51.836Z",
+        "dateEvidence": "Sky Sport: «30 ott 2026 - 13:54»; diagnosi e tempi di recupero.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "sport-como-kean-cinque-settimane-stop-nazionale-2026",
-      "eventKey": "como-kean-cinque-settimane-stop-nazionale-2026",
+      "id": "sport-milan-cardinale-fiducia-amorim-scudetto-2026",
+      "eventKey": "milan-cardinale-fiducia-amorim-scudetto-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "Como, Kean fermo circa cinque settimane: salta gli impegni azzurri",
-      "summary": "L'attaccante è stato sottoposto a un trattamento a Barcellona per un problema alla tibia.",
+      "title": "Cardinale conferma Amorim e rilancia le ambizioni del Milan",
+      "summary": "Il proprietario rossonero ribadisce fiducia nell'allenatore e disponibilità a rinforzare la rosa.",
       "body": [
-        "Il Como ha comunicato per Moise Kean un periodo di recupero stimato intorno a cinque settimane dopo il trattamento alla tibia eseguito a Barcellona.",
-        "L'indisponibilità riguarda le prossime partite del club e, secondo Sky Sport, anche gli impegni della Nazionale di novembre. La durata effettiva dipenderà dall'evoluzione clinica."
+        "In interviste riprese da Sky Sport, Gerry Cardinale ha difeso il lavoro di Ruben Amorim alla guida del Milan, escludendo che la posizione del tecnico sia in pericolo alla vigilia del derby.",
+        "Cardinale ha parlato di interventi sul mercato di gennaio e ha sostenuto che lo scudetto resti un obiettivo possibile. Sono dichiarazioni di intenti del proprietario, non annunci di acquisti o risultati acquisiti."
       ],
-      "publishedAt": "2026-10-29T19:25:00+01:00",
-      "verifiedAt": "2026-10-30T06:10:27Z",
+      "publishedAt": "2026-10-30T09:29:00+01:00",
+      "verifiedAt": "2026-10-30T16:12:51.836Z",
       "source": {
         "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/2026/10/29/kean-infortunio-como-news",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/30/cardinale-milan-amorim-intervista",
         "access": "free",
-        "accessCheckedAt": "2026-10-30T06:10:27Z",
-        "dateEvidence": "Sky Sport, articolo 29 ott 2026 ore 19:25, comunicazione del Como e tempi stimati.",
+        "accessCheckedAt": "2026-10-30T16:12:51.836Z",
+        "dateEvidence": "Sky Sport: «30 ott 2026 - 09:29»; interviste a tre quotidiani italiani.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "sport-f1-leclerc-ferrari-sensibile-gp-messico-2026",
-      "eventKey": "f1-leclerc-ferrari-sensibile-gp-messico-2026",
+      "id": "sport-f1-messico-tre-italiani-fp1-dal-2011-2026",
+      "eventKey": "f1-messico-tre-italiani-fp1-dal-2011-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "Leclerc: Ferrari competitiva, ma in Messico servirà un weekend perfetto",
-      "summary": "Il pilota evidenzia la sensibilità della monoposto quando esce dalla finestra di funzionamento.",
+      "title": "F1 in Messico, tre italiani nella prima sessione di libere",
+      "summary": "Con Antonelli ci saranno Fornaroli sulla McLaren e Minì sull'Alpine: non accadeva dal 2011.",
       "body": [
-        "Charles Leclerc ha spiegato alla vigilia del GP del Messico che la Ferrari non può considerarsi favorita rispetto a Mercedes e Red Bull. Per lottare davanti, secondo il pilota, sarà necessario evitare errori.",
-        "La SF-26 viene descritta come veloce ma sensibile alle condizioni di assetto e utilizzo, un limite emerso anche nel precedente appuntamento di Austin."
+        "Nelle prime prove libere del Gran Premio del Messico sono annunciati Kimi Antonelli, Leonardo Fornaroli e Gabriele Minì. Il primo corre per Mercedes, gli altri prendono parte alla sessione con McLaren e Alpine.",
+        "Sky Sport osserva che tre italiani non partecipavano alla stessa sessione ufficiale di Formula 1 dal GP di Malesia 2011. La notizia riguarda la composizione prevista delle FP1, non un risultato di pista già ottenuto."
       ],
-      "publishedAt": "2026-10-29T21:58:00+01:00",
-      "verifiedAt": "2026-10-30T06:10:27Z",
+      "publishedAt": "2026-10-30T15:50:00+01:00",
+      "verifiedAt": "2026-10-30T16:12:51.836Z",
       "source": {
         "name": "Sky Sport",
-        "url": "https://sport.sky.it/formula-1/2026/10/29/f1-gp-messico-leclerc-ferrari-conferenza-video",
+        "url": "https://sport.sky.it/formula-1/2026/10/27/f1-gp-messico-fp1-piloti-italiani-antonelli-mini-fornaroli",
         "access": "free",
-        "accessCheckedAt": "2026-10-30T06:10:27Z",
-        "dateEvidence": "Sky Sport, articolo del 29 ott 2026 alle 21:58 con dichiarazioni di Leclerc.",
+        "accessCheckedAt": "2026-10-30T16:12:51.836Z",
+        "dateEvidence": "Sky Sport: «30 ott 2026 - 15:50» sulla pagina aggiornata delle FP1.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "sport-atp-vienna-zverev-primo-ranking-lunedi-2026",
-      "eventKey": "atp-vienna-zverev-primo-ranking-lunedi-2026",
+      "id": "sport-sinner-norman-montecarlo-preparazione-2027",
+      "eventKey": "sinner-norman-montecarlo-preparazione-2027",
       "category": "Sport",
       "status": "verified",
-      "title": "Zverev torna numero uno ATP grazie ai quarti raggiunti a Vienna",
-      "summary": "Il tedesco batte Griekspoor e si prepara a superare Sinner nel ranking di lunedì.",
+      "title": "Sinner lavora a Monte-Carlo, presente anche Magnus Norman",
+      "summary": "Il tennista prosegue la preparazione per il 2027 mentre si discute del possibile assetto del suo staff.",
       "body": [
-        "Alexander Zverev ha battuto Tallon Griekspoor 6-4, 7-5 negli ottavi dell'ATP 500 di Vienna, assicurandosi il primo posto nella classifica mondiale a partire dal successivo aggiornamento del lunedì.",
-        "Il tedesco diventerà il trentesimo numero uno nella storia del ranking ATP, interrompendo il periodo di Sinner in vetta. Ai quarti incontrerà Arthur Fery."
+        "Sky Sport riferisce che Jannik Sinner continua il lavoro atletico e riabilitativo a Monte-Carlo in vista della prossima stagione, con la presenza del suo gruppo di lavoro e di Darren Cahill.",
+        "Nello stesso contesto è stato visto Magnus Norman, ex tennista e allenatore di Stan Wawrinka. La presenza dello svedese non costituisce di per sé un annuncio di un nuovo incarico ufficiale nello staff di Sinner."
       ],
-      "publishedAt": "2026-10-29T20:20:00+01:00",
-      "verifiedAt": "2026-10-30T06:10:27Z",
+      "publishedAt": "2026-10-30T13:05:00+01:00",
+      "verifiedAt": "2026-10-30T16:12:51.836Z",
       "source": {
         "name": "Sky Sport",
-        "url": "https://sport.sky.it/tennis/2026/10/29/zverev-griekspoor-atp-vienna-risultato",
+        "url": "https://sport.sky.it/tennis/2026/10/30/sinner-magnus-norman-incontro-montecarlo-news",
         "access": "free",
-        "accessCheckedAt": "2026-10-30T06:10:27Z",
-        "dateEvidence": "Sky Sport, articolo 29 ott 2026 ore 20:20, risultato 6-4 7-5 e classifica ATP.",
+        "accessCheckedAt": "2026-10-30T16:12:51.836Z",
+        "dateEvidence": "Sky Sport: «30 ott 2026 - 13:05»; presenza di Magnus Norman a Monte-Carlo.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
