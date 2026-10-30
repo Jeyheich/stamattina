@@ -1,240 +1,128 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-30",
-  "collectionId": "2026-10-30-mattina",
+  "collectionId": "2026-10-30-pomeriggio",
   "category": "Cronaca",
-  "completedAt": "2026-10-30T05:16:21.876Z",
+  "completedAt": "2026-10-30T15:14:58.604Z",
   "articles": [
     {
-      "id": "cronaca-bosnia-elicottero-italiani",
-      "eventKey": "bosnia-elicottero-eufor-quattro-italiani-morti-2026",
+      "id": "cronaca-parma-monossido",
+      "eventKey": "parma-mezzani-monossido-due-morti-neonata-grave-2026",
       "category": "Cronaca",
       "status": "verified",
-      "title": "Bosnia, precipita un elicottero italiano: quattro vittime",
-      "summary": "Due militari dell'Esercito e due appartenenti alla Croce Rossa militare morti; undici feriti.",
+      "title": "Parma, due vittime e una neonata grave per monossido",
+      "summary": "Nel casolare a Bocca d'Enza di Mezzani è sopravvissuto illeso un bambino di sei anni.",
       "body": [
-        "Un elicottero CH-47 italiano impiegato nella missione Eufor Althea è precipitato il 29 ottobre nei pressi di Brčko, in Bosnia-Erzegovina. Le cause dell'incidente sono ancora da accertare.",
-        "La Difesa ha riferito quattro vittime italiane, due militari dell'Esercito e due del Corpo Militare Volontario della Croce Rossa, e undici feriti, nessuno dei quali indicato in pericolo di vita."
+        "Un uomo di 35 anni e una donna di 32 sono morti a Bocca d'Enza di Mezzani, nel Parmense, per una sospetta intossicazione da monossido di carbonio. Una bambina di sette mesi è stata trasportata in gravi condizioni all'ospedale Maggiore di Parma.",
+        "Un altro bambino di sei anni è uscito illeso. Gli accertamenti sono in corso e tra le ipotesi c'è il malfunzionamento di una stufa; la causa non è stata ancora stabilita."
       ],
-      "publishedAt": "2026-10-29T17:58:00+01:00",
-      "verifiedAt": "2026-10-30T05:15:55.866Z",
+      "publishedAt": "2026-10-30T12:45:00+01:00",
+      "verifiedAt": "2026-10-30T15:14:48.266Z",
       "source": {
         "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/10/29/elicottero-militare-italiano-bosnia",
+        "url": "https://tg24.sky.it/cronaca/2026/10/30/nossido-carbonio-morti-parma",
         "access": "free",
-        "accessCheckedAt": "2026-10-30T05:15:55.866Z",
-        "dateEvidence": "Sky TG24, pagina originale del 29 ottobre 2026, orario di pubblicazione 17:58 Europe/Rome; testo e data riletti il 30 ottobre 2026.",
+        "accessCheckedAt": "2026-10-30T15:14:48.266Z",
+        "dateEvidence": "Sky TG24, pagina originale datata 2026-10-30 alle 12:45 Europe/Rome, testo e data letti il 30 ottobre 2026.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "cronaca-verona-arresto-insulina",
-      "eventKey": "verona-infermiere-arrestato-morte-moglie-insulina-2026",
+      "id": "cronaca-ascoli-tribunale",
+      "eventKey": "ascoli-corte-appello-sfratto-tribunale-2026",
       "category": "Cronaca",
       "status": "verified",
-      "title": "Verona, infermiere arrestato per la morte della moglie",
-      "summary": "L'uomo è accusato di aver somministrato insulina alla donna nel 2024.",
+      "title": "Ascoli Piceno, il tribunale deve lasciare la sede storica",
+      "summary": "La Corte d'appello rende esecutivo il rilascio del palazzo di piazza Orlini, senza un'alternativa pronta.",
       "body": [
-        "Un infermiere di 35 anni è stato arrestato il 29 ottobre a Verona nell'ambito dell'indagine sulla morte della moglie Jessica Dalla Chiara, avvenuta nel giugno 2024.",
-        "Secondo l'ipotesi investigativa, l'uomo avrebbe somministrato insulina per finalità non terapeutiche; avrebbe inoltre incassato un indennizzo assicurativo. Le accuse sono da verificare nel procedimento giudiziario."
+        "Il Tribunale e la Procura di Ascoli Piceno devono lasciare lo storico palazzo di giustizia di piazza Orlini, secondo una decisione della Corte d'appello di Ancona.",
+        "Il sindaco Marco Fioravanti giudica la decisione inaccettabile e segnala il rischio di interruzioni del servizio giudiziario in assenza di una sede sostitutiva. La controversia immobiliare risale a un contratto scaduto nel 2022."
       ],
-      "publishedAt": "2026-10-29T14:02:00+01:00",
-      "verifiedAt": "2026-10-30T05:15:55.866Z",
+      "publishedAt": "2026-10-30T13:48:00+01:00",
+      "verifiedAt": "2026-10-30T15:14:48.266Z",
       "source": {
         "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/10/29/uccide-moglie-insulina-infermiere-arrestato",
+        "url": "https://tg24.sky.it/cronaca/2026/10/30/sfratto-tribunale-ascoli",
         "access": "free",
-        "accessCheckedAt": "2026-10-30T05:15:55.866Z",
-        "dateEvidence": "Sky TG24, pagina originale del 29 ottobre 2026, orario di pubblicazione 14:02 Europe/Rome; testo e data riletti il 30 ottobre 2026.",
+        "accessCheckedAt": "2026-10-30T15:14:48.266Z",
+        "dateEvidence": "Sky TG24, pagina originale datata 2026-10-30 alle 13:48 Europe/Rome, testo e data letti il 30 ottobre 2026.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "cronaca-milano-terrorismo-arresto",
-      "eventKey": "milano-arresto-22enne-progetti-attentati-luoghi-culto-2026",
+      "id": "cronaca-san-severino-incidente",
+      "eventKey": "san-severino-marche-incidente-stefano-fiori-29-ottobre-2026",
       "category": "Cronaca",
       "status": "verified",
-      "title": "Milano, arrestato un 22enne indagato per terrorismo",
-      "summary": "L'inchiesta riguarda presunti progetti di attentati contro luoghi di culto e materiale di autoaddestramento.",
+      "title": "San Severino Marche, muore un automobilista di 21 anni",
+      "summary": "L'auto è finita contro un muro sulla provinciale 361 nella serata del 29 ottobre.",
       "body": [
-        "I Carabinieri hanno arrestato su ordinanza del gip di Milano un ventiduenne indagato per addestramento ad attività con finalità di terrorismo. Gli investigatori sostengono che progettasse azioni contro una sinagoga e un luogo di preghiera islamica nell'hinterland.",
-        "Secondo gli inquirenti, nei dispositivi sequestrati sarebbero stati trovati contenuti estremisti e materiale di autoaddestramento. Le ipotesi d'accusa non costituiscono un accertamento definitivo di responsabilità."
+        "Stefano Fiori, 21 anni, è morto dopo che la sua Bmw si è schiantata contro un muro di contenimento lungo la strada provinciale 361 a San Severino Marche, in provincia di Macerata.",
+        "L'incidente è avvenuto intorno alle 20:30 del 29 ottobre. I soccorritori non sono riusciti a rianimarlo; non risultano altri veicoli coinvolti e i carabinieri stanno ricostruendo la dinamica."
       ],
-      "publishedAt": "2026-10-29T12:31:00+01:00",
-      "verifiedAt": "2026-10-30T05:15:55.866Z",
+      "publishedAt": "2026-10-30T08:28:00+01:00",
+      "verifiedAt": "2026-10-30T15:14:48.266Z",
       "source": {
         "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/10/29/terrorismo-attentati-sinagoghe-moschee-arresto-milano",
+        "url": "https://tg24.sky.it/cronaca/2026/10/30/incidente-san-severino-marche-stefano-fiori-morto",
         "access": "free",
-        "accessCheckedAt": "2026-10-30T05:15:55.866Z",
-        "dateEvidence": "Sky TG24, pagina originale del 29 ottobre 2026, orario di pubblicazione 12:31 Europe/Rome; testo e data riletti il 30 ottobre 2026.",
+        "accessCheckedAt": "2026-10-30T15:14:48.266Z",
+        "dateEvidence": "Sky TG24, pagina originale datata 2026-10-30 alle 08:28 Europe/Rome, testo e data letti il 30 ottobre 2026.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
+      "leadPriority": 88,
       "image": {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Alfa_Romeo_159_Carabinieri.jpg",
-        "alt": "Autovettura dei Carabinieri del Nucleo operativo radiomobile",
-        "credit": "SkeLeBon",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Panorama_San_Severino_Marche_3.jpg",
+        "alt": "Veduta panoramica di San Severino Marche fotografata nel 2019",
+        "credit": "Egijd / Wikipedia italiana",
         "rights": "CC BY-SA 4.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_159_Carabinieri.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panorama_San_Severino_Marche_3.jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "caption": "Repertorio · Vettura dei Carabinieri fotografata nel 2015; non mostra l'arresto a Milano del 29 ottobre 2026.",
+        "caption": "Repertorio · Panorama di San Severino Marche (2019), località dell'incidente; la fotografia non raffigura il luogo dello schianto.",
         "reuseApproved": true
-      },
-      "leadPriority": 92
+      }
     },
     {
-      "id": "cronaca-salerno-escavatore-cavalcavia",
-      "eventKey": "salerno-escavatore-cavalcavia-detriti-auto-29-ottobre-2026",
+      "id": "cronaca-barete-terremoto",
+      "eventKey": "barete-laquila-scossa-magnitudo-tre-30-ottobre-2026",
       "category": "Cronaca",
       "status": "verified",
-      "title": "Salerno, escavatore urta un cavalcavia: strada chiusa",
-      "summary": "Detriti sulle auto lungo il raccordo Avellino-Salerno, senza feriti segnalati.",
+      "title": "Scossa di magnitudo 3 nella notte vicino all'Aquila",
+      "summary": "L'Ingv colloca l'epicentro due chilometri a est di Barete, a 11 chilometri di profondità.",
       "body": [
-        "Un escavatore trasportato su un camion ha urtato un cavalcavia sul raccordo Avellino-Salerno, nel tratto tra Lancusi e Baronissi, provocando la caduta di detriti sulle vetture in transito.",
-        "Non risultano feriti. Il tratto è stato chiuso e il traffico bloccato mentre tecnici Anas e forze dell'ordine hanno avviato le verifiche di sicurezza."
+        "Un terremoto di magnitudo 3 è stato registrato nella notte del 30 ottobre in provincia dell'Aquila.",
+        "Secondo i dati Ingv riportati da Sky TG24, l'epicentro è stato localizzato circa due chilometri a est di Barete, a una ventina di chilometri dal capoluogo, e l'ipocentro a circa 11 chilometri di profondità."
       ],
-      "publishedAt": "2026-10-29T20:14:00+01:00",
-      "verifiedAt": "2026-10-30T05:15:55.866Z",
+      "publishedAt": "2026-10-30T07:55:00+01:00",
+      "verifiedAt": "2026-10-30T15:14:48.266Z",
       "source": {
         "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/video/2026/10/29/salerno-escavatore-urta-un-cavalcavia-detriti-sulle-auto-1135692",
+        "url": "https://tg24.sky.it/cronaca/2026/10/30/terremoto-l-aquila-oggi",
         "access": "free",
-        "accessCheckedAt": "2026-10-30T05:15:55.866Z",
-        "dateEvidence": "Sky TG24, pagina originale del 29 ottobre 2026, orario di pubblicazione 20:14 Europe/Rome; testo e data riletti il 30 ottobre 2026.",
+        "accessCheckedAt": "2026-10-30T15:14:48.266Z",
+        "dateEvidence": "Sky TG24, pagina originale datata 2026-10-30 alle 07:55 Europe/Rome, testo e data letti il 30 ottobre 2026.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "cronaca-nordest-furti-metalli",
-      "eventKey": "padova-indagine-furti-rame-metalli-sette-misure-2026",
+      "id": "cronaca-bologna-scontri",
+      "eventKey": "bologna-sciopero-scontri-via-stalingrado-30-ottobre-2026",
       "category": "Cronaca",
       "status": "verified",
-      "title": "Furti di rame e metalli nel Nordest, sette misure cautelari",
-      "summary": "La polizia di Padova indaga su almeno tredici episodi tra Veneto ed Emilia-Romagna.",
+      "title": "Bologna, scontri tra manifestanti e polizia durante il corteo",
+      "summary": "Le tensioni si sono concentrate in via Stalingrado, mentre parte del corteo puntava alla tangenziale.",
       "body": [
-        "La polizia di Padova ha eseguito sette misure cautelari in un'indagine relativa ad almeno tredici furti in aziende venete ed emiliane commessi tra aprile e giugno 2026.",
-        "Tra i materiali sottratti figurano rame, carburo di tungsteno e utensili. Secondo gli investigatori, gli obiettivi venivano individuati e osservati prima dei colpi."
+        "Durante lo sciopero generale del 30 ottobre si sono verificati scontri a Bologna quando la testa del corteo ha raggiunto via Stalingrado, dopo aver percorso via San Donato.",
+        "Le forze dell'ordine in assetto antisommossa hanno bloccato l'accesso alla strada sotto il ponte, mentre i manifestanti chiedevano di dirigersi verso la tangenziale. La fonte non quantifica eventuali feriti."
       ],
-      "publishedAt": "2026-10-29T18:08:00+01:00",
-      "verifiedAt": "2026-10-30T05:15:55.866Z",
+      "publishedAt": "2026-10-30T14:25:00+01:00",
+      "verifiedAt": "2026-10-30T15:14:48.266Z",
       "source": {
         "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/video/2026/10/29/furti-di-rame-e-metalli-sette-misure-cautelari-nel-nordest-1135656",
+        "url": "https://tg24.sky.it/cronaca/video/2026/10/30/sciopero-generale-corteo-bologna-scontri-1135877",
         "access": "free",
-        "accessCheckedAt": "2026-10-30T05:15:55.866Z",
-        "dateEvidence": "Sky TG24, pagina originale del 29 ottobre 2026, orario di pubblicazione 18:08 Europe/Rome; testo e data riletti il 30 ottobre 2026.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    }
-  ],
-  "reserveArticles": [
-    {
-      "id": "cronaca-sisma-cantieri-castelli",
-      "eventKey": "sisma-centro-italia-castelli-16mila-cantieri-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Sisma del Centro Italia, Castelli riferisce 16mila cantieri conclusi",
-      "summary": "A dieci anni dal terremoto del 2016 il commissario traccia un bilancio della ricostruzione.",
-      "body": [
-        "Nel decennale della lunga sequenza sismica che colpì l'Appennino centrale nel 2016, il commissario alla ricostruzione Guido Castelli ha riferito il completamento di circa 16mila cantieri.",
-        "Nell'intervista a Sky TG24 ha descritto un'accelerazione dei lavori rispetto alla prima fase. Il numero è un dato dichiarato dal commissario e non equivale alla conclusione di tutta la ricostruzione."
-      ],
-      "publishedAt": "2026-10-29T19:48:00+01:00",
-      "verifiedAt": "2026-10-30T05:16:21.876Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/video/2026/10/29/sisma-centro-italia-castelli-cantieri-1135689",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T05:16:21.876Z",
-        "dateEvidence": "Sky TG24, pubblicazione originale del 29 ottobre 2026 alle 19:48 Europe/Rome, data e testo della fonte letti e verificati il 30 ottobre 2026.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-ultras-puteolana-portici",
-      "eventKey": "puteolana-portici-otto-arresti-tentato-omicidio-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Scontri tra ultras, contestato il tentato omicidio a otto indagati",
-      "summary": "La vicenda riguarda il tifoso ferito durante gli scontri tra Puteolana e Portici.",
-      "body": [
-        "Otto persone, tra cui tre minorenni, risultano accusate di tentato omicidio per gli scontri tra tifoserie della Puteolana e del Portici nei quali un sostenitore era rimasto ferito.",
-        "Il 29 ottobre Sky TG24 riferisce la convalida dell'arresto di due maggiorenni, mentre altri tre sono stati scarcerati; per i minorenni la decisione era ancora attesa. Le contestazioni sono accuse e non condanne."
-      ],
-      "publishedAt": "2026-10-29T15:57:00+01:00",
-      "verifiedAt": "2026-10-30T05:16:21.876Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/video/2026/10/29/tifoso-ferito-ultras-accusato-tentato-omicidio-1135604",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T05:16:21.876Z",
-        "dateEvidence": "Sky TG24, pubblicazione originale del 29 ottobre 2026 alle 15:57 Europe/Rome, data e testo della fonte letti e verificati il 30 ottobre 2026.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-sub-ceneri-capo-mannu",
-      "eventKey": "ceneri-montefalcone-sommacal-capo-mannu-28-ottobre-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Sardegna, disperse in mare le ceneri delle due sub morte alle Maldive",
-      "summary": "La famiglia ha scelto Capo Mannu, luogo a cui madre e figlia erano legate.",
-      "body": [
-        "Il 28 ottobre al largo di Capo Mannu, in Sardegna, sono state disperse le ceneri di Monica Montefalcone e della figlia Giorgia Sommacal, morte durante un'immersione alle Maldive nel maggio 2026.",
-        "La cerimonia privata è stata raccontata il 29 ottobre. La notizia riguarda l'ultimo saluto della famiglia, non un nuovo sviluppo dell'indagine sull'incidente subacqueo."
-      ],
-      "publishedAt": "2026-10-29T15:08:00+01:00",
-      "verifiedAt": "2026-10-30T05:16:21.876Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/10/29/sub-morte-maldive-monica-montefalcone-giorgia-sommacal-capo-mannu",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T05:16:21.876Z",
-        "dateEvidence": "Sky TG24, pubblicazione originale del 29 ottobre 2026 alle 15:08 Europe/Rome, data e testo della fonte letti e verificati il 30 ottobre 2026.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-etna-allerta-aeroporto",
-      "eventKey": "etna-cenere-allerta-rossa-aeroporto-catania-29-ottobre-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Etna, cenere vulcanica e limitazioni agli arrivi a Catania",
-      "summary": "L'allerta per l'aviazione è salita al livello rosso, con misure previste fino alla sera del 29 ottobre.",
-      "body": [
-        "L'emissione di cenere dall'Etna ha portato il 29 ottobre all'innalzamento del codice di allerta per l'aviazione da arancione a rosso e alla chiusura del settore B1 dello spazio aereo.",
-        "La società di gestione dell'aeroporto di Catania ha disposto un massimo di dieci arrivi l'ora, con limitazioni previste fino alle 21 del 29 ottobre. Non è confermato che le restrizioni siano ancora in vigore il 30."
-      ],
-      "publishedAt": "2026-10-29T10:06:00+01:00",
-      "verifiedAt": "2026-10-30T05:16:21.876Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/10/29/eruzione-etna-aeroporto-catania-news",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T05:16:21.876Z",
-        "dateEvidence": "Sky TG24, pubblicazione originale del 29 ottobre 2026 alle 10:06 Europe/Rome, data e testo della fonte letti e verificati il 30 ottobre 2026.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-sciopero-treni-revoca",
-      "eventKey": "sciopero-treni-30-ottobre-2026-revocato",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Sciopero ferroviario del 30 ottobre revocato dopo la precettazione",
-      "summary": "Trenitalia e Trenord hanno annunciato la circolazione regolare, pur restando possibili disagi per i cortei.",
-      "body": [
-        "L'agitazione ferroviaria inizialmente prevista tra il 29 e il 30 ottobre è stata revocata e differita a seguito della precettazione del ministero dei Trasporti e del richiamo alla finestra di franchigia.",
-        "Trenitalia e Trenord hanno annunciato la normale circolazione dei convogli. La revoca dei blocchi ferroviari non esclude deviazioni stradali o altri disagi legati alle manifestazioni."
-      ],
-      "publishedAt": "2026-10-29T10:06:00+01:00",
-      "verifiedAt": "2026-10-30T05:16:21.876Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/10/29/sciopero-treni-30-ottobre-revocato",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T05:16:21.876Z",
-        "dateEvidence": "Sky TG24, pubblicazione originale del 29 ottobre 2026 alle 10:06 Europe/Rome, data e testo della fonte letti e verificati il 30 ottobre 2026.",
+        "accessCheckedAt": "2026-10-30T15:14:48.266Z",
+        "dateEvidence": "Sky TG24, pagina originale datata 2026-10-30 alle 14:25 Europe/Rome, testo e data letti il 30 ottobre 2026.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
