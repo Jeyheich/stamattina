@@ -1,232 +1,125 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-30",
-  "collectionId": "2026-10-30-mattina",
+  "collectionId": "2026-10-30-pomeriggio",
   "category": "Esteri",
-  "completedAt": "2026-10-30T06:06:39+01:00",
+  "completedAt": "2026-10-30T16:10:41+01:00",
   "articles": [
     {
-      "id": "esteri-israele-elezioni-2026-nessuna-maggioranza-netanyahu",
-      "eventKey": "israele-elezioni-2026-nessuna-maggioranza-netanyahu",
+      "id": "esteri-spagna-toledo-italiana-ritrovata",
+      "eventKey": "spagna-treni-toledo-italiana-ritrovata-29-ottobre",
       "category": "Esteri",
       "status": "verified",
-      "title": "Israele, il blocco di Netanyahu è primo ma non ha la maggioranza",
-      "summary": "I risultati definitivi delle legislative assegnano 53 seggi alla coalizione di Benjamin Netanyahu, sotto la soglia necessaria per controllare la Knesset.",
+      "title": "Spagna, ritrovata viva una delle italiane disperse dopo lo scontro ferroviario",
+      "summary": "Una delle tre italiane inizialmente irreperibili ha contattato il consolato; proseguono le ricerche delle altre due.",
       "body": [
-        "I risultati definitivi delle legislative assegnano 53 seggi alla coalizione di Benjamin Netanyahu, sotto la soglia necessaria per controllare la Knesset.",
-        "Il blocco guidato da Gadi Eisenkot ne ottiene 48; le due liste arabe, con 19 seggi complessivi, potrebbero essere decisive nelle trattative per formare il governo."
+        "Dopo la collisione tra due treni ad alta velocità nella provincia di Toledo, una cittadina italiana considerata dispersa ha contattato il consolato di Madrid confermando di stare bene.",
+        "Restano senza notizie altre due italiane residenti in Spagna. Le autorità proseguono le identificazioni delle vittime e le indagini sulla sequenza di guasti e autorizzazioni ferroviarie; il bilancio provvisorio riferito dall'articolo è di almeno 69 morti."
       ],
-      "publishedAt": "2026-10-30T01:06:00+01:00",
-      "verifiedAt": "2026-10-30T06:05:51+01:00",
+      "publishedAt": "2026-10-29T20:55:00+01:00",
+      "verifiedAt": "2026-10-30T16:10:41+01:00",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/30/israele-risultati-definitivi-schieramento-netanyahu-in-testa-ma-senza-maggioranza_171ca0d1-b631-44cd-b410-8f98c22bc6f1.html",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/29/disastro-ferroviario-in-spagna-ritrovata-una-delle-italiane_cb23d261-10a6-4136-8db0-a611c06f6406.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-30T06:05:51+01:00",
-        "dateEvidence": "Dateline GERUSALEMME, 30 ottobre 2026, 01:06, risultati elettorali definitivi.",
+        "accessCheckedAt": "2026-10-30T16:10:41+01:00",
+        "dateEvidence": "MADRID, 29 ottobre 2026, 20:55, nell'articolo ANSA; bilancio provvisorio.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 94
+      "leadPriority": 95
     },
     {
-      "id": "esteri-ucraina-dnipro-droni-stazione-14-morti",
-      "eventKey": "ucraina-dnipro-droni-stazione-14-morti",
+      "id": "esteri-israele-arresti-corruzione-elettorale",
+      "eventKey": "israele-indagine-presunta-corruzione-elettorale-2026",
       "category": "Esteri",
       "status": "verified",
-      "title": "Ucraina, attacco con droni alla stazione di Dnipro: almeno 14 morti",
-      "summary": "Un attacco russo ha colpito una banchina ferroviaria affollata a Dnipro, causando almeno 14 vittime secondo il bilancio riportato nella serata del 29 ottobre.",
+      "title": "Israele, arresti e verifiche per presunte irregolarità elettorali",
+      "summary": "La polizia ha fermato quattro uomini nel sud del Paese; le autorità esaminano accuse di denaro offerto agli elettori.",
       "body": [
-        "Un attacco russo ha colpito una banchina ferroviaria affollata a Dnipro, causando almeno 14 vittime secondo il bilancio riportato nella serata del 29 ottobre.",
-        "Il presidente ucraino Zelensky ha denunciato l'attacco contro i civili. Le autorità hanno segnalato anche feriti e interruzioni dei collegamenti ferroviari."
+        "Dopo le elezioni israeliane, la polizia ha annunciato l'arresto di quattro uomini nell'ambito di un'indagine per presunta corruzione elettorale, mentre la commissione elettorale valuta ulteriori elementi.",
+        "Le accuse, anche relative a possibili interferenze straniere, restano oggetto di indagine: non equivalgono a un accertamento di brogli. Alcune fonti di polizia e della commissione hanno contestato le generalizzazioni diffuse sul voto arabo."
       ],
-      "publishedAt": "2026-10-29T17:05:00+01:00",
-      "verifiedAt": "2026-10-30T06:05:51+01:00",
-      "source": {
-        "name": "Euronews",
-        "url": "https://it.euronews.com/2026/10/29/attacco-con-droni-russi-alla-stazione-ferroviaria-di-dnipro-almeno-13-morti",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T06:05:51+01:00",
-        "dateEvidence": "Euronews pubblicato 29 ottobre 2026 ore 17:05 CET e aggiornato alle 17:20, bilancio 14.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "esteri-italiani-fermati-cisgiordania-raccolta-olive",
-      "eventKey": "italiani-fermati-cisgiordania-raccolta-olive",
-      "category": "Esteri",
-      "status": "verified",
-      "title": "Cinque attivisti italiani fermati in Cisgiordania, interviene la Farnesina",
-      "summary": "Il ministero degli Esteri ha chiesto il rilascio di cinque italiani fermati vicino ad Al Lubban al-Gharbiyye mentre accompagnavano contadini palestinesi nella raccolta delle olive.",
-      "body": [
-        "Il ministero degli Esteri ha chiesto il rilascio di cinque italiani fermati vicino ad Al Lubban al-Gharbiyye mentre accompagnavano contadini palestinesi nella raccolta delle olive.",
-        "Ambasciata a Tel Aviv e Consolato a Gerusalemme hanno richiesto chiarimenti alle autorità israeliane e attivato l'assistenza consolare."
-      ],
-      "publishedAt": "2026-10-29T20:37:00+01:00",
-      "verifiedAt": "2026-10-30T06:05:51+01:00",
+      "publishedAt": "2026-10-29T20:45:00+01:00",
+      "verifiedAt": "2026-10-30T16:10:41+01:00",
       "source": {
         "name": "ANSA",
-        "url": "https://videoembed.ansa.it/sito/notizie/mondo/2026/10/29/farnesina-5-attivisti-italiani-fermati-in-cisgiordania-chiesto-rilascio-immediato_2ab1cd41-7ccc-46f1-bbd1-830e9f4a440e.html",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/29/israele-quattro-arresti-per-presunta-corruzione-elettorale-_44945242-6c9e-4c60-adc4-8ae1b7e7b2a1.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-30T06:05:51+01:00",
-        "dateEvidence": "ANSA dateline ROMA, 29 ottobre 2026, 20:37; comunicato Farnesina datato 29 ottobre.",
+        "accessCheckedAt": "2026-10-30T16:10:41+01:00",
+        "dateEvidence": "TEL AVIV, 29 ottobre 2026, 20:45, articolo ANSA; accuse non accertate.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
+      },
+      "leadPriority": 90
     },
     {
-      "id": "esteri-el-salvador-soldati-haiti-missione-bukele",
-      "eventKey": "el-salvador-soldati-haiti-missione-bukele",
+      "id": "esteri-oleshky-evacuazione-avviata",
+      "eventKey": "oleshky-evacuazione-umanitaria-avviata-30-ottobre",
       "category": "Esteri",
       "status": "verified",
-      "title": "El Salvador dispiega militari ad Haiti, Bukele nega che sia un'invasione",
-      "summary": "Il presidente salvadoregno Nayib Bukele ha annunciato che il dispiegamento di soldati, mezzi blindati ed elicotteri ad Haiti è quasi completato.",
+      "title": "Ucraina, iniziata l'evacuazione umanitaria da Oleshky",
+      "summary": "Commissari russi e ucraini annunciano l'avvio dell'operazione; Kiev prevede il rientro di 527 residenti.",
       "body": [
-        "Il presidente salvadoregno Nayib Bukele ha annunciato che il dispiegamento di soldati, mezzi blindati ed elicotteri ad Haiti è quasi completato.",
-        "La missione dichiarata mira a recuperare quattro tecnici aeronautici e a contrastare le bande criminali. Bukele sostiene che El Salvador sosterrà il 90% delle spese."
+        "È cominciata l'evacuazione umanitaria di Oleshky, città della regione di Kherson occupata dalle forze russe, secondo i commissari per i diritti umani delle due parti.",
+        "Il premier ucraino Sergii Koretskyi ha indicato che 527 abitanti dovrebbero tornare nel territorio controllato dall'Ucraina. Il dato riguarda una previsione, non un numero di evacuati già arrivati."
       ],
-      "publishedAt": "2026-10-30T02:07:00+01:00",
-      "verifiedAt": "2026-10-30T06:05:51+01:00",
+      "publishedAt": "2026-10-30T10:49:00+01:00",
+      "verifiedAt": "2026-10-30T16:10:41+01:00",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/30/el-salvador-siamo-ad-haiti-per-combattere-contro-i-malvagi_9f3c7f5d-ca63-42bb-8398-0327ba9b2a44.html",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/30/mosca-e-kiev-iniziata-levacuazione-umanitaria-a-oleshky_54782161-b948-4c7f-abbf-605c7f0dfcf6.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-30T06:05:51+01:00",
-        "dateEvidence": "ANSA dateline SAN SALVADOR, 30 ottobre 2026, 02:07.",
+        "accessCheckedAt": "2026-10-30T16:10:41+01:00",
+        "dateEvidence": "ROMA, 30 ottobre 2026, 10:49, articolo ANSA; 527 sono attesi.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
+      },
+      "leadPriority": 85
     },
     {
-      "id": "esteri-brasile-meta-causa-coercizione-elettorale",
-      "eventKey": "brasile-meta-causa-coercizione-elettorale",
+      "id": "esteri-novaya-gazeta-chiusura-russia",
+      "eventKey": "novaya-gazeta-annuncia-chiusura-russia-9-novembre-2026",
       "category": "Esteri",
       "status": "verified",
-      "title": "Brasile, azione giudiziaria contro Meta per post di pressione elettorale",
-      "summary": "Il ministero pubblico del Lavoro brasiliano ha avviato una causa contro Meta chiedendo di rimuovere contenuti che incoraggiano pressioni sui dipendenti in base al loro voto.",
+      "title": "Russia, Novaya Gazeta annuncia la chiusura delle attività nel Paese",
+      "summary": "Il giornale indipendente comunica che il 9 novembre spegnerà la sede e i server in Russia, denunciando pressioni delle autorità.",
       "body": [
-        "Il ministero pubblico del Lavoro brasiliano ha avviato una causa contro Meta chiedendo di rimuovere contenuti che incoraggiano pressioni sui dipendenti in base al loro voto.",
-        "L'azione riguarda Facebook, Instagram e Threads e include una richiesta di risarcimento collettivo di 50 milioni di real, oltre a misure di moderazione."
+        "Novaya Gazeta ha annunciato la cessazione delle proprie attività in Russia a partire dal 9 novembre, attribuendo la decisione alle pressioni delle autorità e dei servizi di sicurezza.",
+        "La redazione denuncia anche il blocco dei finanziamenti tramite donazioni. Una parte dei giornalisti aveva già lasciato il Paese e continua a lavorare al progetto Novaya Gazeta Europe."
       ],
-      "publishedAt": "2026-10-30T01:17:00+01:00",
-      "verifiedAt": "2026-10-30T06:05:51+01:00",
+      "publishedAt": "2026-10-30T09:16:00+01:00",
+      "verifiedAt": "2026-10-30T16:10:41+01:00",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/30/brasile-il-ministero-del-lavoro-porta-meta-in-tribunale-per-coercizione-elettorale_223de6a4-a30f-451e-a993-300f838cd1f2.html",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/30/novaya-gazeta-chiude-in-russia-uccisi-dalle-autorita-e-dai-servizi_d33ddf83-ea9e-47fe-a824-4089bc1db2d4.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-30T06:05:51+01:00",
-        "dateEvidence": "ANSA dateline SAN PAOLO, 30 ottobre 2026, 01:17.",
+        "accessCheckedAt": "2026-10-30T16:10:41+01:00",
+        "dateEvidence": "MOSCA, 30 ottobre 2026, 09:16, articolo ANSA; chiusura prevista 9 novembre.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
+      },
+      "leadPriority": 80
+    },
+    {
+      "id": "esteri-scozia-balmoral-epstein-indagine",
+      "eventKey": "scozia-polizia-indaga-visite-epstein-balmoral-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Scozia, indagine sulle visite di Epstein nella tenuta reale di Balmoral",
+      "summary": "Police Scotland verifica informazioni sui soggiorni di Jeffrey Epstein e Ghislaine Maxwell presso la residenza reale.",
+      "body": [
+        "La polizia scozzese ha confermato di aver ricevuto informazioni sui soggiorni di Jeffrey Epstein e Ghislaine Maxwell a Balmoral, collegati all'allora principe Andrea.",
+        "Gli accertamenti sono preliminari e riguardano anche possibili vittime di abusi e tratta. La notizia non costituisce una conclusione giudiziaria sulle responsabilità individuali."
+      ],
+      "publishedAt": "2026-10-30T12:19:00+01:00",
+      "verifiedAt": "2026-10-30T16:10:41+01:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/30/polizia-scozzese-indaga-sui-soggiorni-di-andrea-con-epstein-a-balmoral_5c095db5-0a69-4950-86ff-3d0e009044ed.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:10:41+01:00",
+        "dateEvidence": "LONDRA, 30 ottobre 2026, 12:19, articolo ANSA; indagini preliminari.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 75
     }
   ],
-  "reserveArticles": [
-    {
-      "id": "esteri-ecuador-estradizione-salcedo-usa-villavicencio",
-      "eventKey": "ecuador-estradizione-salcedo-usa-villavicencio",
-      "category": "Esteri",
-      "status": "verified",
-      "title": "Ecuador, estradato negli Stati Uniti un indagato per l'omicidio Villavicencio",
-      "summary": "Le autorità ecuadoriane hanno estradato Daniel Salcedo, indicato come presunto mandante dell'omicidio del candidato presidenziale Fernando Villavicencio nel 2023.",
-      "body": [
-        "Le autorità ecuadoriane hanno estradato Daniel Salcedo, indicato come presunto mandante dell'omicidio del candidato presidenziale Fernando Villavicencio nel 2023.",
-        "Il presidente Daniel Noboa ha annunciato il trasferimento di altre due persone nell'ambito di procedimenti collegati a narcotraffico e criminalità organizzata."
-      ],
-      "publishedAt": "2026-10-30T00:46:00+01:00",
-      "verifiedAt": "2026-10-30T06:06:39+01:00",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/30/ecuador-estradato-negli-usa-il-presunto-mandante-dellomicidio-di-villavicencio_6f51e30d-ea8b-4255-9056-9c5aea67aafc.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T06:06:39+01:00",
-        "dateEvidence": "Dateline ANSA QUITO, 30 ottobre 2026, 00:46, annuncio di estradizione.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "esteri-venezuela-oliver-blanco-nuovo-ministro-esteri",
-      "eventKey": "venezuela-oliver-blanco-nuovo-ministro-esteri",
-      "category": "Esteri",
-      "status": "verified",
-      "title": "Venezuela, Oliver Blanco nominato ministro degli Esteri",
-      "summary": "La presidente ad interim Delcy Rodríguez ha affidato il ministero degli Esteri a Oliver Blanco, che subentra a Félix Plasencia.",
-      "body": [
-        "La presidente ad interim Delcy Rodríguez ha affidato il ministero degli Esteri a Oliver Blanco, che subentra a Félix Plasencia.",
-        "Plasencia passa a un incarico nella presidenza con il compito di seguire il recupero delle riserve auree venezuelane custodite nel Regno Unito."
-      ],
-      "publishedAt": "2026-10-30T01:16:00+01:00",
-      "verifiedAt": "2026-10-30T06:06:39+01:00",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/30/venezuela-rodriguez-nomina-oliver-blanco-ministro-degli-esteri-al-posto-di-plasencia_71dc5b6a-a7ec-4ca0-bd7c-7b272f8bbf1c.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T06:06:39+01:00",
-        "dateEvidence": "Dateline ANSA CARACAS, 30 ottobre 2026, 01:16; nomina annunciata dalla presidenza.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "esteri-unione-europea-canada-costa-relazioni-dirette",
-      "eventKey": "unione-europea-canada-costa-relazioni-dirette",
-      "category": "Esteri",
-      "status": "verified",
-      "title": "Costa ribadisce l'autonomia dei rapporti tra Unione europea e Canada",
-      "summary": "Durante gli incontri a Montreal, il presidente del Consiglio europeo António Costa ha affermato che il dialogo fra Europa e Canada non richiede una mediazione statunitense.",
-      "body": [
-        "Durante gli incontri a Montreal, il presidente del Consiglio europeo António Costa ha affermato che il dialogo fra Europa e Canada non richiede una mediazione statunitense.",
-        "Costa ha descritto il partenariato come fondato su valori e interessi comuni, distinguendolo dai rapporti che ciascuna parte mantiene con Washington."
-      ],
-      "publishedAt": "2026-10-29T18:56:00+01:00",
-      "verifiedAt": "2026-10-30T06:06:39+01:00",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/29/costa-relazioni-ue-canada-non-hanno-bisogno-della-mediazione-usa_9a038c33-e7f5-492f-9342-5fa62dfadeb5.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T06:06:39+01:00",
-        "dateEvidence": "Dateline ANSA BRUXELLES, 29 ottobre 2026, 18:56; dichiarazioni al vertice UE-Canada.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "esteri-afghanistan-produzione-oppio-2026-unodc",
-      "eventKey": "afghanistan-produzione-oppio-2026-unodc",
-      "category": "Esteri",
-      "status": "verified",
-      "title": "Afghanistan, la produzione di oppio torna a crescere secondo l'Onu",
-      "summary": "Una nuova indagine dell'UNODC indica che la produzione di oppio afghana è salita da circa 300 a 1.500 tonnellate in un anno, nonostante il divieto imposto dai talebani.",
-      "body": [
-        "Una nuova indagine dell'UNODC indica che la produzione di oppio afghana è salita da circa 300 a 1.500 tonnellate in un anno, nonostante il divieto imposto dai talebani.",
-        "Le superfici coltivate passano da circa 10.000 a oltre 43.000 ettari. L'agenzia richiama la necessità di alternative economiche per le comunità rurali."
-      ],
-      "publishedAt": "2026-10-29T17:58:00+01:00",
-      "verifiedAt": "2026-10-30T06:06:39+01:00",
-      "source": {
-        "name": "AgenSIR",
-        "url": "https://www.agensir.it/quotidiano/2026/10/29/afghanistan-quintuplicata-la-produzione-di-oppio-per-lonu-mancano-alternative-economiche/",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T06:06:39+01:00",
-        "dateEvidence": "AgenSIR articolo del 29 Ottobre 2026 @ 17:58, dati dell'UNODC.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "esteri-egitto-convoglio-aiuti-farina-gaza",
-      "eventKey": "egitto-convoglio-aiuti-farina-gaza",
-      "category": "Esteri",
-      "status": "verified",
-      "title": "Dall'Egitto un convoglio di aiuti alimentari diretto a Gaza",
-      "summary": "Un convoglio di 62 camion con quasi 800 tonnellate di beni, inclusa farina per i panifici, è stato preparato in Egitto per la Striscia di Gaza.",
-      "body": [
-        "Un convoglio di 62 camion con quasi 800 tonnellate di beni, inclusa farina per i panifici, è stato preparato in Egitto per la Striscia di Gaza.",
-        "Secondo gli organizzatori il passaggio dal valico di Rafah è previsto tra sabato e domenica; l'effettivo ingresso degli aiuti non era ancora confermato nell'articolo."
-      ],
-      "publishedAt": "2026-10-29T18:59:00+01:00",
-      "verifiedAt": "2026-10-30T06:06:39+01:00",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/29/a-gaza-manca-anche-il-pane-egitto-invia-decine-di-tonnellate-di-farina_c3c04fd1-1a3f-4fba-ac97-939fdc9129f1.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T06:06:39+01:00",
-        "dateEvidence": "Dateline ANSA IL CAIRO, 29 ottobre 2026, 18:59, convoglio in partenza.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    }
-  ]
+  "reserveArticles": []
 }
