@@ -1,11 +1,9 @@
 {
   "editionDate": "2026-10-30",
-  "checkedAt": "2026-10-30T06:13:10.130Z",
+  "checkedAt": "2026-10-30T06:13:50.559Z",
   "ready": true,
-  "editorialComplete": false,
-  "reserveMissing": [
-    "cultura"
-  ],
+  "editorialComplete": true,
+  "reserveMissing": [],
   "completed": [
     "politica",
     "esteri",
@@ -411,6 +409,36 @@
       "eventKey": "cerveteri-restituzione-54-reperti-archeologici-stato"
     },
     {
+      "id": "cultura-preziosi-orfeo-arezzo",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Alessandro Preziosi porta il mito di Orfeo al Teatro Petrarca",
+      "eventKey": "orfeo-alessandro-preziosi-teatro-petrarca-30-ottobre"
+    },
+    {
+      "id": "cultura-film-unaltra-me-social-avatar",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Un'altra me, una commedia sul doppio digitale e sull'identità",
+      "eventKey": "film-unaltra-me-brignone-uscita-5-novembre-2026"
+    },
+    {
+      "id": "cultura-tamaki-yoshida-unfolding",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "A Pordenone la prima grande mostra europea di Tamaki Yoshida",
+      "eventKey": "tamaki-yoshida-unfolding-pordenone-mostra-2026"
+    },
+    {
+      "id": "cultura-danza-in-levare-periferie",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Danza in Levare trasforma le periferie romane in palcoscenici",
+      "eventKey": "danza-in-levare-roma-casal-de-pazzi-corviale-2026"
+    },
+    {
+      "id": "cultura-abramovic-confession-arco-giano",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Marina Abramović prepara Confession sotto l'Arco di Giano",
+      "eventKey": "marina-abramovic-confession-arco-di-giano-2026"
+    },
+    {
       "id": "tecnologia-skynet-llmjacking-agente-cryptominer-2026",
       "category": "Tecnologia · AI",
       "title": "Un agente automatizzato sfrutta modelli AI esposti per furti e mining",
@@ -478,7 +506,7 @@
     "Economia": 5,
     "Cronaca": 5,
     "Roma": 5,
-    "Cultura · Teatro · Cinema": 0,
+    "Cultura · Teatro · Cinema": 5,
     "Tecnologia · AI": 5,
     "Sport": 5
   },
@@ -543,9 +571,9 @@
     },
     "cultura": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "tecnologia": {
       "base": 5,
@@ -560,9 +588,6 @@
       "complete": true
     }
   },
-  "editionId": "2026-10-30-batches-645d694be68e",
-  "needsPublication": false,
-  "publicVerifiedAt": "2026-10-30T06:13:35.048629+00:00",
-  "publicEditionId": "2026-10-30-batches-645d694be68e",
-  "publication": "verified"
+  "editionId": "2026-10-30-batches-664962206201",
+  "needsPublication": true
 }

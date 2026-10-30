@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "collectionId": "2026-10-30-mattina",
-  "id": "2026-10-30-batches-645d694be68e",
+  "id": "2026-10-30-batches-664962206201",
   "mode": "live",
   "editionDate": "2026-10-30",
-  "generatedAt": "2026-10-30T06:13:10.130Z",
+  "generatedAt": "2026-10-30T06:13:50.559Z",
   "timezone": "Europe/Rome",
   "scheduledFor": "2026-10-30T09:00:00+01:00",
   "essentialIds": [
@@ -1556,6 +1556,116 @@
       }
     },
     {
+      "id": "cultura-preziosi-orfeo-arezzo",
+      "eventKey": "orfeo-alessandro-preziosi-teatro-petrarca-30-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Alessandro Preziosi porta il mito di Orfeo al Teatro Petrarca",
+      "summary": "Il melologo contemporaneo di Silvia Colasanti combina recitazione e musica al Youth Music Festival di Arezzo.",
+      "body": [
+        "Venerdì 30 ottobre alle 20, al Teatro Petrarca di Arezzo, Alessandro Preziosi interpreta Orfeo, melologo contemporaneo composto da Silvia Colasanti.",
+        "La produzione è stata ideata per la settima edizione dello Youth Music Festival e affianca la voce dell'attore al Quartetto Eos e a giovani musicisti, con l'obiettivo di rileggere il mito attraverso parola e musica."
+      ],
+      "publishedAt": "2026-10-29",
+      "verifiedAt": "2026-10-30T06:13:18.059Z",
+      "source": {
+        "name": "La Nazione",
+        "url": "https://www.lanazione.it/arezzo/cultura/ad-arezzo-alessandro-preziosi-nel-melologo-contemporaneo-orfeo-bxz7tbtk",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:13:18.059Z",
+        "dateEvidence": "La Nazione, articolo datato 29 ottobre 2026; data originale verificata, orario non indicato.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-film-unaltra-me-social-avatar",
+      "eventKey": "film-unaltra-me-brignone-uscita-5-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Un'altra me, una commedia sul doppio digitale e sull'identità",
+      "summary": "Il film di Luca Brignone con Margot Sikabonyi arriverà al cinema il 5 novembre.",
+      "body": [
+        "Un'altra me, diretto da Luca Brignone, racconta la storia di Anna, assistente di produzione che crea sui social una versione idealizzata di sé, chiamata LaBenni.",
+        "La commedia, interpretata da Margot Sikabonyi e prodotta da Luca Barbareschi con Rai Cinema, mescola fantasia e riflessione sull'immagine pubblica. La distribuzione in sala è prevista dal 5 novembre 2026."
+      ],
+      "publishedAt": "2026-10-29T16:15:00+01:00",
+      "verifiedAt": "2026-10-30T06:13:18.059Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/29/unaltra-me-essere-belli-come-lavatar-dei-social_ee93eacb-a5af-4d58-a630-61d8abeb163c.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:13:18.059Z",
+        "dateEvidence": "ANSA Cinema, pubblicazione 29 ottobre 2026 alle 16:15 ora italiana riportata nella pagina.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-tamaki-yoshida-unfolding",
+      "eventKey": "tamaki-yoshida-unfolding-pordenone-mostra-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "A Pordenone la prima grande mostra europea di Tamaki Yoshida",
+      "summary": "Unfolding indaga le conseguenze dell'azione umana sugli ecosistemi con due serie fotografiche.",
+      "body": [
+        "Dal 31 ottobre al 13 dicembre lo spazio Die Gelbe Wand dei Mercati Culturali Pordenone ospita Unfolding, prima grande mostra europea della fotografa giapponese Tamaki Yoshida.",
+        "Curata da Marco Minuz, l'esposizione presenta Negative Ecology e Himizu, due progetti sul rapporto tra essere umano, ambiente e trasformazione della materia fotografica. L'iniziativa rientra nel percorso di Pordenone Capitale italiana della Cultura 2027."
+      ],
+      "publishedAt": "2026-10-29T15:37:00+01:00",
+      "verifiedAt": "2026-10-30T06:13:18.059Z",
+      "source": {
+        "name": "Il Popolo",
+        "url": "https://ilpopolopordenone.it/2026/10/ai-mercati-culturali-la-mostra-fotografica-di-tamaki-ushida/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:13:18.059Z",
+        "dateEvidence": "Il Popolo, articolo del 29 ottobre 2026 alle 15:37, titolo URL usa 'Ushida' ma testo e mostra identificano l'artista Tamaki Yoshida.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-danza-in-levare-periferie",
+      "eventKey": "danza-in-levare-roma-casal-de-pazzi-corviale-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Danza in Levare trasforma le periferie romane in palcoscenici",
+      "summary": "Dal 30 ottobre spettacoli e laboratori gratuiti di danza verticale, circo e acrobatica.",
+      "body": [
+        "Danza in Levare porta fino al 5 dicembre performance e laboratori di danza aerea e circo contemporaneo nei quartieri di Casal de' Pazzi, Corviale e Spinaceto, all'interno della Biennale MArteLive Plus.",
+        "Il programma inizia il 30 ottobre alle 21 a Villa Ipazia d'Alessandria con Fuoribordo della compagnia Il Posto. Gli eventi sono gratuiti, mentre per i laboratori è richiesta la prenotazione."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-30T06:13:18.059Z",
+      "source": {
+        "name": "RaiNews TGR Lazio",
+        "url": "https://www.rainews.it/tgr/lazio/articoli/2026/10/danza-in-levare-la-periferia-di-roma-guarda-verso-lalto-026856cb-8bda-4ddc-84a2-488d9bbd76a1.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:13:18.059Z",
+        "dateEvidence": "RaiNews TGR Lazio, pubblicazione originale 28 ottobre 2026, senza orario visibile.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-abramovic-confession-arco-giano",
+      "eventKey": "marina-abramovic-confession-arco-di-giano-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Marina Abramović prepara Confession sotto l'Arco di Giano",
+      "summary": "Dal 19 novembre un'installazione con un asino dorato e una panchina inviterà il pubblico all'ascolto.",
+      "body": [
+        "Dal 19 novembre 2026 al 19 maggio 2027 l'Arco di Giano a Roma ospiterà Confession, 2026, progetto di Marina Abramović realizzato con la Fondazione Alda Fendi – Esperimenti.",
+        "L'installazione prevede una scultura in bronzo dorato raffigurante un asino, una panchina per i visitatori e un'opera video. L'invito è a fermarsi e condividere, anche in silenzio, una riflessione personale."
+      ],
+      "publishedAt": "2026-10-29",
+      "verifiedAt": "2026-10-30T06:13:18.059Z",
+      "source": {
+        "name": "Radio Web Italia",
+        "url": "https://www.radiowebitalia.it/marina-abramovic-allarco-di-giano-con-confession-2026/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:13:18.059Z",
+        "dateEvidence": "Radio Web Italia, articolo datato 29 ottobre 2026, senza indicazione di orario di pubblicazione.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
       "id": "tecnologia-skynet-llmjacking-agente-cryptominer-2026",
       "eventKey": "skynet-llmjacking-agente-cryptominer-2026",
       "category": "Tecnologia · AI",
@@ -1802,6 +1912,11 @@
     "roma-adinolfi-domiciliari",
     "roma-annia-regilla-linea-663",
     "roma-cerveteri-reperti-restituiti",
+    "cultura-preziosi-orfeo-arezzo",
+    "cultura-film-unaltra-me-social-avatar",
+    "cultura-tamaki-yoshida-unfolding",
+    "cultura-danza-in-levare-periferie",
+    "cultura-abramovic-confession-arco-giano",
     "tecnologia-skynet-llmjacking-agente-cryptominer-2026",
     "tecnologia-chrome-gemini-gmail-compilazione-moduli-2026",
     "tecnologia-sony-elf-mn1-display-3d-senza-occhiali-2026",
