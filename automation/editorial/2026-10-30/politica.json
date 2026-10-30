@@ -3,7 +3,7 @@
   "editionDate": "2026-10-30",
   "collectionId": "2026-10-30-mattina",
   "category": "Politica",
-  "completedAt": "2026-10-30T06:05:51+01:00",
+  "completedAt": "2026-10-30T06:06:39+01:00",
   "articles": [
     {
       "id": "politica-campo-largo-confronto-manovra-roadmap",
@@ -113,6 +113,118 @@
         "access": "free",
         "accessCheckedAt": "2026-10-30T06:05:51+01:00",
         "dateEvidence": "Articolo ANSA: ROMA, 29 ottobre 2026, 11:59, con dichiarazioni di Nordio.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "politica-meloni-trump-vicinanza-interesse-nazionale",
+      "eventKey": "meloni-trump-vicinanza-interesse-nazionale",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Meloni rivendica la scelta di mantenere un rapporto stretto con Trump",
+      "summary": "In un'anticipazione del libro di Bruno Vespa, Giorgia Meloni ha spiegato di non pentirsi della vicinanza iniziale al secondo mandato di Donald Trump.",
+      "body": [
+        "In un'anticipazione del libro di Bruno Vespa, Giorgia Meloni ha spiegato di non pentirsi della vicinanza iniziale al secondo mandato di Donald Trump.",
+        "La premier ha collegato la scelta agli interessi strategici ed economici dell'Italia e alla necessità di mantenere aperto il dialogo tra Stati Uniti ed Europa."
+      ],
+      "publishedAt": "2026-10-29T17:53:00+01:00",
+      "verifiedAt": "2026-10-30T06:06:39+01:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/meloni-non-mi-pento-di-essere-stata-vicina-a-trump-difendevo-linteresse-nazionale_79e9c780-c4d6-44a4-a4c4-6094e300f984.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:06:39+01:00",
+        "dateEvidence": "Dateline ANSA ROMA, 29 ottobre 2026, 17:53, anticipazione libro Vespa.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-piantedosi-piano-sicurezza-cortei-30-ottobre",
+      "eventKey": "piantedosi-piano-sicurezza-cortei-30-ottobre",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Piantedosi prepara il coordinamento delle forze di polizia per i cortei",
+      "summary": "Alla vigilia delle manifestazioni del 30 ottobre, il ministro dell'Interno ha annunciato un confronto con prefetti, questori e vertici delle forze di polizia.",
+      "body": [
+        "Alla vigilia delle manifestazioni del 30 ottobre, il ministro dell'Interno ha annunciato un confronto con prefetti, questori e vertici delle forze di polizia.",
+        "Piantedosi ha riconosciuto l'esistenza di rischi, esprimendo fiducia nella capacità delle autorità locali di gestire anche gli sviluppi imprevedibili."
+      ],
+      "publishedAt": "2026-10-29T11:54:00+01:00",
+      "verifiedAt": "2026-10-30T06:06:39+01:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/cortei-piantedosi-gli-allarmi-ci-sono-ma-nulla-di-diverso-a-quanto-trattato-finora_ab6c62d9-05a4-4625-aa44-5c8f03882e43.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:06:39+01:00",
+        "dateEvidence": "Articolo ANSA datato 29 ottobre 2026 ore 11:54, dichiarazioni del ministro Piantedosi.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-consiglio-ministri-manovra-26-miliardi",
+      "eventKey": "consiglio-ministri-manovra-26-miliardi",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Il governo approva una legge di bilancio da circa 26 miliardi",
+      "summary": "Il Consiglio dei ministri ha dato il via libera alla manovra; Meloni l'ha presentata come il risultato del lavoro condiviso tra le forze di maggioranza.",
+      "body": [
+        "Il Consiglio dei ministri ha dato il via libera alla manovra; Meloni l'ha presentata come il risultato del lavoro condiviso tra le forze di maggioranza.",
+        "Le misure annunciate comprendono modifiche fiscali per il ceto medio e per alcune partite Iva. Il testo definitivo e il confronto parlamentare restano passaggi successivi."
+      ],
+      "publishedAt": "2026-10-29T00:11:00+01:00",
+      "verifiedAt": "2026-10-30T06:06:39+01:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/politica/manovra-2026-meloni_5wZmgDFyvGiLENVYZoCkCg",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:06:39+01:00",
+        "dateEvidence": "Adnkronos pubblicato 29 ottobre 2026 alle 00.11, resoconto del Cdm del 28 ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-acquaroli-inchiesta-ricostruzione-sisma-marche",
+      "eventKey": "acquaroli-inchiesta-ricostruzione-sisma-marche",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Acquaroli interviene sull'inchiesta legata alla ricostruzione nelle Marche",
+      "summary": "Il presidente delle Marche Francesco Acquaroli ha dichiarato di considerarsi, insieme alle comunità colpite dal terremoto, danneggiato dalla vicenda al centro dell'inchiesta.",
+      "body": [
+        "Il presidente delle Marche Francesco Acquaroli ha dichiarato di considerarsi, insieme alle comunità colpite dal terremoto, danneggiato dalla vicenda al centro dell'inchiesta.",
+        "Intervenendo a Muccia, ha sostenuto che avrebbe denunciato eventuali irregolarità se ne fosse stato a conoscenza e ha ricordato iniziative già trasmesse alle autorità."
+      ],
+      "publishedAt": "2026-10-28T16:34:00+01:00",
+      "verifiedAt": "2026-10-30T06:06:39+01:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/marche/notizie/2026/10/28/inchiesta-sisma-acquaroli-sono-una-vittima-insieme-ai-marchigiani_a9b0cc69-bded-4c9f-8b27-db54969b8f16.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:06:39+01:00",
+        "dateEvidence": "Dateline ANSA MUCCIA, 28 ottobre 2026, 16:34; notizia entro 72 ore.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-csm-richiesta-tutela-gip-landoni",
+      "eventKey": "csm-richiesta-tutela-gip-landoni",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Il Csm riceve una richiesta di tutela per la giudice del caso Siher",
+      "summary": "Un gruppo di consiglieri del Consiglio superiore della magistratura ha chiesto l'apertura di una pratica a tutela della gip milanese Tiziana Landoni.",
+      "body": [
+        "Un gruppo di consiglieri del Consiglio superiore della magistratura ha chiesto l'apertura di una pratica a tutela della gip milanese Tiziana Landoni.",
+        "L'iniziativa riguarda le critiche pubbliche alla decisione di non convalidare il fermo di Youssef Siher. La richiesta non equivale all'avvenuta apertura della pratica."
+      ],
+      "publishedAt": "2026-10-29T13:55:00+01:00",
+      "verifiedAt": "2026-10-30T06:06:39+01:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/csm-chiesta-apertura-pratica-a-tutela-per-gip-di-milano_615fc0f5-0451-4a25-a5d7-060d3c00af26.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:06:39+01:00",
+        "dateEvidence": "Dateline ANSA ROMA, 29 ottobre 2026, 13:55; richiesta pratica a tutela.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
