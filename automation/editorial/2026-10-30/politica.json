@@ -1,232 +1,125 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-30",
-  "collectionId": "2026-10-30-mattina",
+  "collectionId": "2026-10-30-pomeriggio",
   "category": "Politica",
-  "completedAt": "2026-10-30T06:06:39+01:00",
+  "completedAt": "2026-10-30T16:10:24+01:00",
   "articles": [
     {
-      "id": "politica-campo-largo-confronto-manovra-roadmap",
+      "id": "politica-campo-largo-programma-primarie-ottobre",
       "eventKey": "campo-largo-confronto-manovra-roadmap",
       "category": "Politica",
       "status": "verified",
-      "title": "Il centrosinistra prepara un confronto comune sulla manovra e sulle alleanze",
-      "summary": "Pd, M5S e Avs hanno programmato una riunione tra i leader per coordinare l'opposizione alla legge di bilancio e definire un percorso verso le prossime politiche.",
+      "title": "Il campo progressista fissa le tappe: programma a novembre e primarie entro febbraio",
+      "summary": "Pd, M5S e Avs annunciano tavoli dalla prossima settimana per un programma condiviso e primarie entro febbraio.",
       "body": [
-        "Pd, M5S e Avs hanno programmato una riunione tra i leader per coordinare l'opposizione alla legge di bilancio e definire un percorso verso le prossime politiche.",
-        "La riunione annunciata per il 30 ottobre mette al centro la risposta parlamentare alla manovra. Restano aperte divergenze su Ucraina, primarie e perimetro delle alleanze."
+        "La segretaria del Pd Elly Schlein, Giuseppe Conte e i leader di Avs Angelo Bonelli e Nicola Fratoianni hanno diffuso una nota comune dopo un confronto tra i vertici.",
+        "Il percorso annunciato prevede la definizione del programma entro novembre e primarie per la leadership entro febbraio, coinvolgendo le forze di opposizione parlamentari che condividono l'obiettivo di un'alternativa di governo."
       ],
-      "publishedAt": "2026-10-29T21:44:00+01:00",
-      "verifiedAt": "2026-10-30T06:05:51+01:00",
+      "publishedAt": "2026-10-30T15:36:00+01:00",
+      "verifiedAt": "2026-10-30T16:10:24+01:00",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/riunione-dei-leader-di-campo-largo-confronto-su-manovra-e-roadmap_73fbff9b-6580-46d7-9c40-6988a42843cc.html",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/30/leader-del-campo-largo-programma-a-novembre-primarie-a-febbraio_d8afa11a-a17f-42a3-b844-7b3d3310931a.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-30T06:05:51+01:00",
-        "dateEvidence": "Data e ora nell'articolo ANSA: ROMA, 29 ottobre 2026, 21:44.",
+        "accessCheckedAt": "2026-10-30T16:10:24+01:00",
+        "dateEvidence": "ROMA, 30 ottobre 2026, 15:36, riportato nell'articolo ANSA.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 95
+    },
+    {
+      "id": "politica-meloni-esclude-vannacci-alleanza",
+      "eventKey": "meloni-rifiuta-alleanza-vannacci-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Meloni prende le distanze da un'alleanza con Vannacci",
+      "summary": "La premier, in un'anticipazione di un libro di Bruno Vespa, dice di voler governare con l'attuale centrodestra senza condizionamenti.",
+      "body": [
+        "Giorgia Meloni ha spiegato di voler riproporre agli elettori la coalizione di centrodestra, eventualmente rafforzata da nuovi movimenti civici.",
+        "Nell'anticipazione del libro di Bruno Vespa in uscita il 2 novembre, ha respinto l'ipotesi di un'intesa con Roberto Vannacci, motivando la scelta con la volontà di non essere ricattabile."
+      ],
+      "publishedAt": "2026-10-30T12:49:00+01:00",
+      "verifiedAt": "2026-10-30T16:10:24+01:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/30/meloni-chiude-a-vannacci-chiedero-agli-italiani-di-governare-senza-ricatti_824b9b7b-3c54-44d0-b29a-4e5886b41818.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:10:24+01:00",
+        "dateEvidence": "ROMA, 30 ottobre 2026, 12:49, nell'anticipazione ANSA.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
       "leadPriority": 90
     },
     {
-      "id": "politica-fratelli-italia-lega-scontro-fornero",
-      "eventKey": "fratelli-italia-lega-scontro-fornero",
+      "id": "politica-meloni-sostegno-ucraina-costo-politico",
+      "eventKey": "meloni-conferma-sostegno-ucraina-costo-politico",
       "category": "Politica",
       "status": "verified",
-      "title": "Pensioni, emergono divergenze fra Fratelli d'Italia e Lega",
-      "summary": "Dopo l'approvazione della manovra, Fratelli d'Italia ha raffreddato le aspettative leghiste su un superamento della legge Fornero.",
+      "title": "Meloni conferma il sostegno a Kiev nonostante il possibile costo elettorale",
+      "summary": "La presidente del Consiglio riconosce che una parte degli elettori può dissentire, ma considera il sostegno all'Ucraina nell'interesse italiano.",
       "body": [
-        "Dopo l'approvazione della manovra, Fratelli d'Italia ha raffreddato le aspettative leghiste su un superamento della legge Fornero.",
-        "Il testo della legge di bilancio non risultava ancora disponibile al momento dell'articolo. Si profila una discussione nella maggioranza durante l'iter parlamentare."
+        "In un estratto del libro di Bruno Vespa diffuso il 30 ottobre, Giorgia Meloni ha ribadito che non intende cambiare posizione sul sostegno all'Ucraina.",
+        "La premier sostiene che un ordine internazionale dominato dalla forza militare danneggerebbe anche l'Italia, pur riconoscendo possibili ripercussioni sul consenso politico."
       ],
-      "publishedAt": "2026-10-29T20:31:00+01:00",
-      "verifiedAt": "2026-10-30T06:05:51+01:00",
+      "publishedAt": "2026-10-30T12:42:00+01:00",
+      "verifiedAt": "2026-10-30T16:10:24+01:00",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/scintille-fdi-lega-sulla-fornero.-il-fisco-divide-autonomi-e-dipendenti_b2dabd79-7a26-4357-8767-9d6e322c5baf.html",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/30/meloni-lappoggio-a-kiev-puo-avere-un-prezzo-politico-ma-non-cambio-posizione_059bfb3d-758d-4996-9d13-531f5b9c0a17.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-30T06:05:51+01:00",
-        "dateEvidence": "Articolo ANSA datato 29 ottobre 2026 alle 20:31, con analisi del confronto sulle pensioni.",
+        "accessCheckedAt": "2026-10-30T16:10:24+01:00",
+        "dateEvidence": "ROMA, 30 ottobre 2026, 12:42, articolo ANSA.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
+      },
+      "leadPriority": 85
     },
     {
-      "id": "politica-vannacci-apertura-condizionata-centrodestra",
-      "eventKey": "vannacci-apertura-condizionata-centrodestra",
+      "id": "politica-consulta-francesco-vigano-presidente",
+      "eventKey": "consulta-francesco-vigano-eletto-presidente-2026",
       "category": "Politica",
       "status": "verified",
-      "title": "Vannacci segnala un'apertura condizionata a un'intesa con il centrodestra",
-      "summary": "Roberto Vannacci ha dichiarato che Futuro nazionale è disponibile al confronto politico, ma soltanto nel rispetto delle proprie posizioni programmatiche.",
+      "title": "Francesco Viganò eletto alla presidenza della Corte costituzionale",
+      "summary": "La Consulta sceglie all'unanimità il nuovo presidente, che entrerà in carica il 14 novembre.",
       "body": [
-        "Roberto Vannacci ha dichiarato che Futuro nazionale è disponibile al confronto politico, ma soltanto nel rispetto delle proprie posizioni programmatiche.",
-        "Le dichiarazioni, pronunciate a Trecenta, sono accompagnate da critiche all'esecutivo e da un richiamo alle differenze sulle politiche europee."
+        "I giudici della Corte costituzionale hanno eletto all'unanimità Francesco Viganò, già vicepresidente della Corte dal gennaio 2025.",
+        "Il nuovo incarico inizierà il 14 novembre, dopo la conclusione del mandato di Giovanni Amoroso, e durerà fino all'8 marzo 2027, data di scadenza del mandato di giudice di Viganò."
       ],
-      "publishedAt": "2026-10-29T20:11:00+01:00",
-      "verifiedAt": "2026-10-30T06:05:51+01:00",
+      "publishedAt": "2026-10-28T15:10:00+01:00",
+      "verifiedAt": "2026-10-30T16:10:24+01:00",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/ansa-box-vannacci-lancia-un-segnale-a-meloni-vuol-far-vincere-la-sinistra_4e83c538-b12b-48ba-994f-6a3b659ad59c.html",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/francesco-vigano-nuovo-presidente-della-consulta-_ee122bc2-802e-43a4-b899-572cdbfcd7e0.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-30T06:05:51+01:00",
-        "dateEvidence": "Articolo ANSA con dateline TRECENTA, 29 ottobre 2026, 20:11.",
+        "accessCheckedAt": "2026-10-30T16:10:24+01:00",
+        "dateEvidence": "ROMA, 28 ottobre 2026, 15:10, articolo ANSA; incarico dal 14 novembre.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
+      },
+      "leadPriority": 80
     },
     {
-      "id": "politica-de-luca-sud-chiama-nord-sindaci-italia",
-      "eventKey": "de-luca-sud-chiama-nord-sindaci-italia",
+      "id": "politica-craxi-modifiche-norma-medici-radiati",
+      "eventKey": "craxi-forza-italia-modifiche-reintegro-medici-radiati",
       "category": "Politica",
       "status": "verified",
-      "title": "Cateno De Luca presenta la nuova alleanza civica con i sindaci",
-      "summary": "Cateno De Luca ha presentato la formazione Sud Chiama Nord–Sindaci d'Italia e indicato l'obiettivo di incidere sul risultato delle prossime elezioni politiche.",
+      "title": "Forza Italia chiede modifiche al Senato sulla riammissione dei medici radiati",
+      "summary": "Stefania Craxi contesta la norma approvata alla Camera e annuncia emendamenti nel passaggio a Palazzo Madama.",
       "body": [
-        "Cateno De Luca ha presentato la formazione Sud Chiama Nord–Sindaci d'Italia e indicato l'obiettivo di incidere sul risultato delle prossime elezioni politiche.",
-        "Giorgia Meloni è intervenuta alla convention con un videomessaggio. De Luca ha prospettato il 9 e 10 maggio come possibili date elettorali: si tratta di una sua previsione, non di un calendario ufficiale."
+        "La presidente dei senatori di Forza Italia Stefania Craxi ha criticato il percorso straordinario di reiscrizione agli Albi per sanitari radiati negli anni della pandemia.",
+        "Secondo Craxi, il legislatore non deve annullare le decisioni degli Ordini professionali; il gruppo intende proporre modifiche quando il testo arriverà al Senato."
       ],
-      "publishedAt": "2026-10-29T19:58:00+01:00",
-      "verifiedAt": "2026-10-30T06:05:51+01:00",
+      "publishedAt": "2026-10-28T12:56:00+01:00",
+      "verifiedAt": "2026-10-30T16:10:24+01:00",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/ansacateno-de-luca-vuol-contare-nel-centrodestra-voto-a-maggio_1d932b47-d181-4679-82c8-62b8f04bf021.html",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/craxi-fi-sanatoria-sui-medici-radiati-e-errore-al-senato-chiederemo-modifiche_9ce4f430-d0c9-40e0-af04-45c3f36b9f4c.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-30T06:05:51+01:00",
-        "dateEvidence": "Dateline ANSA: ROMA, 29 ottobre 2026, 19:58; riporta la convention politica.",
+        "accessCheckedAt": "2026-10-30T16:10:24+01:00",
+        "dateEvidence": "ROMA, 28 ottobre 2026, 12:56, articolo ANSA.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "politica-nordio-giudici-siher-no-ispettori",
-      "eventKey": "nordio-giudici-siher-no-ispettori",
-      "category": "Politica",
-      "status": "verified",
-      "title": "Nordio esclude ispettori a Milano dopo la decisione sul caso Siher",
-      "summary": "Il ministro della Giustizia Carlo Nordio ha escluso l'invio di ispettori a Milano dopo la decisione della gip su Youssef Siher, pur dichiarandosi sorpreso dall'esito.",
-      "body": [
-        "Il ministro della Giustizia Carlo Nordio ha escluso l'invio di ispettori a Milano dopo la decisione della gip su Youssef Siher, pur dichiarandosi sorpreso dall'esito.",
-        "Al Salone della Giustizia Nordio ha invitato politica e magistratura a mantenere il confronto nei limiti del rispetto istituzionale."
-      ],
-      "publishedAt": "2026-10-29T11:59:00+01:00",
-      "verifiedAt": "2026-10-30T06:05:51+01:00",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/nordio-improprio-che-i-magistrati-si-lamentino-delle-critiche-dei-politici_91bd2cc9-2130-41ae-8b30-4fc377474ea9.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T06:05:51+01:00",
-        "dateEvidence": "Articolo ANSA: ROMA, 29 ottobre 2026, 11:59, con dichiarazioni di Nordio.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
+      },
+      "leadPriority": 75
     }
   ],
-  "reserveArticles": [
-    {
-      "id": "politica-meloni-trump-vicinanza-interesse-nazionale",
-      "eventKey": "meloni-trump-vicinanza-interesse-nazionale",
-      "category": "Politica",
-      "status": "verified",
-      "title": "Meloni rivendica la scelta di mantenere un rapporto stretto con Trump",
-      "summary": "In un'anticipazione del libro di Bruno Vespa, Giorgia Meloni ha spiegato di non pentirsi della vicinanza iniziale al secondo mandato di Donald Trump.",
-      "body": [
-        "In un'anticipazione del libro di Bruno Vespa, Giorgia Meloni ha spiegato di non pentirsi della vicinanza iniziale al secondo mandato di Donald Trump.",
-        "La premier ha collegato la scelta agli interessi strategici ed economici dell'Italia e alla necessità di mantenere aperto il dialogo tra Stati Uniti ed Europa."
-      ],
-      "publishedAt": "2026-10-29T17:53:00+01:00",
-      "verifiedAt": "2026-10-30T06:06:39+01:00",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/meloni-non-mi-pento-di-essere-stata-vicina-a-trump-difendevo-linteresse-nazionale_79e9c780-c4d6-44a4-a4c4-6094e300f984.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T06:06:39+01:00",
-        "dateEvidence": "Dateline ANSA ROMA, 29 ottobre 2026, 17:53, anticipazione libro Vespa.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "politica-piantedosi-piano-sicurezza-cortei-30-ottobre",
-      "eventKey": "piantedosi-piano-sicurezza-cortei-30-ottobre",
-      "category": "Politica",
-      "status": "verified",
-      "title": "Piantedosi prepara il coordinamento delle forze di polizia per i cortei",
-      "summary": "Alla vigilia delle manifestazioni del 30 ottobre, il ministro dell'Interno ha annunciato un confronto con prefetti, questori e vertici delle forze di polizia.",
-      "body": [
-        "Alla vigilia delle manifestazioni del 30 ottobre, il ministro dell'Interno ha annunciato un confronto con prefetti, questori e vertici delle forze di polizia.",
-        "Piantedosi ha riconosciuto l'esistenza di rischi, esprimendo fiducia nella capacità delle autorità locali di gestire anche gli sviluppi imprevedibili."
-      ],
-      "publishedAt": "2026-10-29T11:54:00+01:00",
-      "verifiedAt": "2026-10-30T06:06:39+01:00",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/cortei-piantedosi-gli-allarmi-ci-sono-ma-nulla-di-diverso-a-quanto-trattato-finora_ab6c62d9-05a4-4625-aa44-5c8f03882e43.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T06:06:39+01:00",
-        "dateEvidence": "Articolo ANSA datato 29 ottobre 2026 ore 11:54, dichiarazioni del ministro Piantedosi.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "politica-consiglio-ministri-manovra-26-miliardi",
-      "eventKey": "consiglio-ministri-manovra-26-miliardi",
-      "category": "Politica",
-      "status": "verified",
-      "title": "Il governo approva una legge di bilancio da circa 26 miliardi",
-      "summary": "Il Consiglio dei ministri ha dato il via libera alla manovra; Meloni l'ha presentata come il risultato del lavoro condiviso tra le forze di maggioranza.",
-      "body": [
-        "Il Consiglio dei ministri ha dato il via libera alla manovra; Meloni l'ha presentata come il risultato del lavoro condiviso tra le forze di maggioranza.",
-        "Le misure annunciate comprendono modifiche fiscali per il ceto medio e per alcune partite Iva. Il testo definitivo e il confronto parlamentare restano passaggi successivi."
-      ],
-      "publishedAt": "2026-10-29T00:11:00+01:00",
-      "verifiedAt": "2026-10-30T06:06:39+01:00",
-      "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com/politica/manovra-2026-meloni_5wZmgDFyvGiLENVYZoCkCg",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T06:06:39+01:00",
-        "dateEvidence": "Adnkronos pubblicato 29 ottobre 2026 alle 00.11, resoconto del Cdm del 28 ottobre.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "politica-acquaroli-inchiesta-ricostruzione-sisma-marche",
-      "eventKey": "acquaroli-inchiesta-ricostruzione-sisma-marche",
-      "category": "Politica",
-      "status": "verified",
-      "title": "Acquaroli interviene sull'inchiesta legata alla ricostruzione nelle Marche",
-      "summary": "Il presidente delle Marche Francesco Acquaroli ha dichiarato di considerarsi, insieme alle comunità colpite dal terremoto, danneggiato dalla vicenda al centro dell'inchiesta.",
-      "body": [
-        "Il presidente delle Marche Francesco Acquaroli ha dichiarato di considerarsi, insieme alle comunità colpite dal terremoto, danneggiato dalla vicenda al centro dell'inchiesta.",
-        "Intervenendo a Muccia, ha sostenuto che avrebbe denunciato eventuali irregolarità se ne fosse stato a conoscenza e ha ricordato iniziative già trasmesse alle autorità."
-      ],
-      "publishedAt": "2026-10-28T16:34:00+01:00",
-      "verifiedAt": "2026-10-30T06:06:39+01:00",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/marche/notizie/2026/10/28/inchiesta-sisma-acquaroli-sono-una-vittima-insieme-ai-marchigiani_a9b0cc69-bded-4c9f-8b27-db54969b8f16.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T06:06:39+01:00",
-        "dateEvidence": "Dateline ANSA MUCCIA, 28 ottobre 2026, 16:34; notizia entro 72 ore.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "politica-csm-richiesta-tutela-gip-landoni",
-      "eventKey": "csm-richiesta-tutela-gip-landoni",
-      "category": "Politica",
-      "status": "verified",
-      "title": "Il Csm riceve una richiesta di tutela per la giudice del caso Siher",
-      "summary": "Un gruppo di consiglieri del Consiglio superiore della magistratura ha chiesto l'apertura di una pratica a tutela della gip milanese Tiziana Landoni.",
-      "body": [
-        "Un gruppo di consiglieri del Consiglio superiore della magistratura ha chiesto l'apertura di una pratica a tutela della gip milanese Tiziana Landoni.",
-        "L'iniziativa riguarda le critiche pubbliche alla decisione di non convalidare il fermo di Youssef Siher. La richiesta non equivale all'avvenuta apertura della pratica."
-      ],
-      "publishedAt": "2026-10-29T13:55:00+01:00",
-      "verifiedAt": "2026-10-30T06:06:39+01:00",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/csm-chiesta-apertura-pratica-a-tutela-per-gip-di-milano_615fc0f5-0451-4a25-a5d7-060d3c00af26.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-30T06:06:39+01:00",
-        "dateEvidence": "Dateline ANSA ROMA, 29 ottobre 2026, 13:55; richiesta pratica a tutela.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    }
-  ]
+  "reserveArticles": []
 }
