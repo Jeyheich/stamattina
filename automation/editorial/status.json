@@ -1,7 +1,7 @@
 {
   "editionDate": "2026-10-30",
-  "checkedAt": "2026-10-30T06:11:42.027Z",
-  "ready": false,
+  "checkedAt": "2026-10-30T06:12:35.445Z",
+  "ready": true,
   "editorialComplete": false,
   "reserveMissing": [
     "roma",
@@ -12,14 +12,13 @@
     "esteri",
     "economia",
     "cronaca",
+    "roma",
+    "cultura",
     "tecnologia",
     "sport"
   ],
   "inProgress": [],
-  "missing": [
-    "roma",
-    "cultura"
-  ],
+  "missing": [],
   "invalid": [],
   "stories": [
     {
@@ -141,6 +140,66 @@
       "category": "Cronaca",
       "title": "Furti di rame e metalli nel Nordest, sette misure cautelari",
       "eventKey": "padova-indagine-furti-rame-metalli-sette-misure-2026"
+    },
+    {
+      "id": "roma-raccordo-incidente-cassia",
+      "category": "Roma",
+      "title": "Incidente mortale sul Raccordo, code vicino all'uscita Cassia",
+      "eventKey": "roma-gra-incidente-mortale-uscita-cassia-29-ottobre-2026"
+    },
+    {
+      "id": "roma-trasporti-sciopero-rinviato",
+      "category": "Roma",
+      "title": "Trasporti romani regolari il 30 ottobre dopo il rinvio dello sciopero",
+      "eventKey": "roma-sciopero-trasporti-30-ottobre-differito"
+    },
+    {
+      "id": "roma-monte-mario-pratone-tar",
+      "category": "Roma",
+      "title": "Monte Mario, il Tar blocca il progetto sul Pratone",
+      "eventKey": "roma-tar-lazio-annulla-decreto-pratone-monte-mario"
+    },
+    {
+      "id": "roma-iacopini-risveglio-san-camillo",
+      "category": "Roma",
+      "title": "L'attore Davide Iacopini riprende conoscenza dopo l'aggressione",
+      "eventKey": "roma-attore-iacopini-ripresa-conoscenza-san-camillo"
+    },
+    {
+      "id": "roma-ostia-donna-38-anni-inchiesta",
+      "category": "Roma",
+      "title": "Morte di una donna di 38 anni, la Procura di Roma apre accertamenti",
+      "eventKey": "roma-procura-inchiesta-morte-donna-38-anni-ostia"
+    },
+    {
+      "id": "cultura-patrick-stewart-scomparsa",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Addio a Patrick Stewart, interprete di Picard e del Professor Xavier",
+      "eventKey": "attore-patrick-stewart-morte-29-ottobre-2026"
+    },
+    {
+      "id": "cultura-u2-tour-san-siro-2027",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "U2, annunciate due date a San Siro per luglio 2027",
+      "eventKey": "u2-concerti-milano-5-6-luglio-2027"
+    },
+    {
+      "id": "cultura-mccurry-spirituality-perugia",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Steve McCurry presenta trenta fotografie inedite sull'Umbria",
+      "eventKey": "mccurry-spirituality-trenta-foto-perugia-2026"
+    },
+    {
+      "id": "cultura-euro-balkan-festival-magris",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Euro Balkan Film Festival, premio a Claudio Magris e cinema dei Balcani",
+      "eventKey": "euro-balkan-film-festival-2026-premio-magris"
+    },
+    {
+      "id": "cultura-amara-premio-gabriella-ferri",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Amara riceve il Premio Gabriella Ferri 2026",
+      "eventKey": "amara-premio-gabriella-ferri-2026-ottobrata"
     },
     {
       "id": "tecnologia-mistral-large4-versione-finale-cyber-2026",
@@ -404,9 +463,24 @@
       "id": "cronaca-milano-terrorismo-arresto",
       "category": "Cronaca",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_159_Carabinieri.jpg"
+    },
+    {
+      "id": "roma-monte-mario-pratone-tar",
+      "category": "Roma",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roma,_panorama_dal_terrazzo_della_villa_Mellini.jpg"
+    },
+    {
+      "id": "cultura-patrick-stewart-scomparsa",
+      "category": "Cultura · Teatro · Cinema",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Patrick_Stewart_by_Gage_Skidmore_2.jpg"
+    },
+    {
+      "id": "sport-atp-vienna-cobolli-ritiro-berrettini-quarti-2026",
+      "category": "Sport",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Matteo_Berrettini_at_2025_Miami_Open_02.jpg"
     }
   ],
-  "photosAvailable": 2,
+  "photosAvailable": 5,
   "categoryProgress": {
     "politica": {
       "base": 5,
@@ -433,13 +507,13 @@
       "complete": true
     },
     "roma": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cultura": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
@@ -457,5 +531,6 @@
       "complete": true
     }
   },
-  "needsPublication": false
+  "editionId": "2026-10-30-batches-87ea25b2f9f9",
+  "needsPublication": true
 }
