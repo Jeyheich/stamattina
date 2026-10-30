@@ -3,7 +3,7 @@
   "editionDate": "2026-10-30",
   "collectionId": "2026-10-30-pomeriggio",
   "category": "Economia",
-  "completedAt": "2026-10-30T15:14:48.616Z",
+  "completedAt": "2026-10-30T15:15:26.979Z",
   "articles": [
     {
       "id": "economia-pil-terzo-trimestre",
@@ -124,6 +124,117 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
         "caption": "Repertorio · Sede della BCE a Francoforte nel 2014; non documenta la riunione del 29 ottobre 2026.",
         "reuseApproved": true
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "economia-inflazione-ottobre",
+      "eventKey": "italia-inflazione-ottobre-2026-5-4-percento",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Inflazione italiana al 5,4% a ottobre, il dato discusso a Sky TG24",
+      "summary": "La trasmissione economica del 30 ottobre dedica un approfondimento a inflazione e Pil italiani ed europei.",
+      "body": [
+        "Sky TG24 Business ha presentato il dato dell'inflazione italiana di ottobre al 5,4% e ha discusso con economisti le prospettive per l'Italia e l'Eurozona."
+      ],
+      "publishedAt": "2026-10-30T15:33:00+01:00",
+      "verifiedAt": "2026-10-30T15:15:26.534Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/video/2026/10/30/sky-tg24-business-italia-inflazione-sale-1135884",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T15:15:26.534Z",
+        "dateEvidence": "Sky TG24, pubblicazione originale del 2026-10-30 alle 15:33 Europe/Rome, articolo o scheda video letti il 30 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-panetta-risparmio",
+      "eventKey": "panetta-giornata-risparmio-inflazione-tensioni-30-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Panetta: il risparmio è esposto a inflazione e tensioni internazionali",
+      "summary": "Il governatore di Bankitalia richiama anche crisi energetica e intelligenza artificiale.",
+      "body": [
+        "Alla Giornata mondiale del risparmio il governatore della Banca d'Italia Fabio Panetta ha descritto il risparmio come un patto con il futuro.",
+        "Secondo l'intervento riportato da Sky TG24, inflazione, tensioni internazionali, crisi energetica e trasformazioni legate all'intelligenza artificiale ne mettono alla prova la tenuta."
+      ],
+      "publishedAt": "2026-10-30T12:10:00+01:00",
+      "verifiedAt": "2026-10-30T15:15:26.534Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/video/2026/10/30/panetta-risparmio-messo-alla-prova-da-inflazione-e-tensioni-1135837",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T15:15:26.534Z",
+        "dateEvidence": "Sky TG24, pubblicazione originale del 2026-10-30 alle 12:10 Europe/Rome, articolo o scheda video letti il 30 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-volkswagen-perdita",
+      "eventKey": "volkswagen-perdita-terzo-trimestre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Volkswagen, perdita trimestrale di 5,82 miliardi",
+      "summary": "I risultati di luglio-settembre risentono delle difficoltà in Cina e dei costi di riorganizzazione.",
+      "body": [
+        "Volkswagen ha comunicato una perdita consolidata netta di circa 5,82 miliardi di euro nel terzo trimestre 2026.",
+        "Il gruppo attribuisce il risultato al contesto di mercato sfavorevole in Cina, alla pressione sui prezzi, alla concorrenza globale e ai costi della riorganizzazione. Il dato è stato pubblicato il 29 ottobre e riletto per l'edizione pomeridiana."
+      ],
+      "publishedAt": "2026-10-29T08:32:00+01:00",
+      "verifiedAt": "2026-10-30T15:15:26.534Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/29/volkswagen-crisi-perdite",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T15:15:26.534Z",
+        "dateEvidence": "Sky TG24, pubblicazione originale del 2026-10-29 alle 08:32 Europe/Rome, articolo o scheda video letti il 30 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-riscaldamento-ue",
+      "eventKey": "ue-jorgensen-rischio-riscaldamento-50-milioni-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Energia, allarme europeo sul riscaldamento di 50 milioni di persone",
+      "summary": "Il commissario Jørgensen teme una crisi di accessibilità economica più che di approvvigionamento.",
+      "body": [
+        "Il commissario europeo all'Energia Dan Jørgensen ha avvertito che oltre 50 milioni di cittadini potrebbero non riuscire a riscaldare adeguatamente le abitazioni per il costo dell'energia.",
+        "L'allarme, diffuso il 29 ottobre, riguarda soprattutto la sostenibilità dei prezzi. La Commissione invita ad accelerare efficienza, elettrificazione e investimenti nelle rinnovabili."
+      ],
+      "publishedAt": "2026-10-29T14:19:00+01:00",
+      "verifiedAt": "2026-10-30T15:15:26.534Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/29/energia-ue-riscaldamento-rischio",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T15:15:26.534Z",
+        "dateEvidence": "Sky TG24, pubblicazione originale del 2026-10-29 alle 14:19 Europe/Rome, articolo o scheda video letti il 30 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-patuelli-banche",
+      "eventKey": "patuelli-abi-critica-contributo-banche-manovra-30-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Patuelli critica il contributo richiesto alle banche nella manovra",
+      "summary": "Il presidente dell'Abi esprime preoccupazione alla Giornata mondiale del risparmio.",
+      "body": [
+        "Antonio Patuelli, presidente dell'Associazione bancaria italiana, ha definito preoccupante il quadro che emerge dalle misure della manovra 2027 per il settore bancario.",
+        "L'intervento del 30 ottobre alla Giornata mondiale del risparmio riguarda il contributo chiesto agli istituti di credito; la valutazione è quella dell'Abi, non un effetto economico già accertato."
+      ],
+      "publishedAt": "2026-10-30T12:10:00+01:00",
+      "verifiedAt": "2026-10-30T15:15:26.534Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/video/2026/10/30/manovra-patuelli-emerge-mosaico-preoccupante-per-banche-1135838",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T15:15:26.534Z",
+        "dateEvidence": "Sky TG24, pubblicazione originale del 2026-10-30 alle 12:10 Europe/Rome, articolo o scheda video letti il 30 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ]
