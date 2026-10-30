@@ -1,10 +1,9 @@
 {
   "editionDate": "2026-10-30",
-  "checkedAt": "2026-10-30T05:07:20.425Z",
+  "checkedAt": "2026-10-30T05:07:55.023Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
-    "esteri",
     "economia",
     "cronaca",
     "roma",
@@ -116,12 +115,42 @@
       "category": "Politica",
       "title": "Il Csm riceve una richiesta di tutela per la giudice del caso Siher",
       "eventKey": "csm-richiesta-tutela-gip-landoni"
+    },
+    {
+      "id": "esteri-ecuador-estradizione-salcedo-usa-villavicencio",
+      "category": "Esteri",
+      "title": "Ecuador, estradato negli Stati Uniti un indagato per l'omicidio Villavicencio",
+      "eventKey": "ecuador-estradizione-salcedo-usa-villavicencio"
+    },
+    {
+      "id": "esteri-venezuela-oliver-blanco-nuovo-ministro-esteri",
+      "category": "Esteri",
+      "title": "Venezuela, Oliver Blanco nominato ministro degli Esteri",
+      "eventKey": "venezuela-oliver-blanco-nuovo-ministro-esteri"
+    },
+    {
+      "id": "esteri-unione-europea-canada-costa-relazioni-dirette",
+      "category": "Esteri",
+      "title": "Costa ribadisce l'autonomia dei rapporti tra Unione europea e Canada",
+      "eventKey": "unione-europea-canada-costa-relazioni-dirette"
+    },
+    {
+      "id": "esteri-afghanistan-produzione-oppio-2026-unodc",
+      "category": "Esteri",
+      "title": "Afghanistan, la produzione di oppio torna a crescere secondo l'Onu",
+      "eventKey": "afghanistan-produzione-oppio-2026-unodc"
+    },
+    {
+      "id": "esteri-egitto-convoglio-aiuti-farina-gaza",
+      "category": "Esteri",
+      "title": "Dall'Egitto un convoglio di aiuti alimentari diretto a Gaza",
+      "eventKey": "egitto-convoglio-aiuti-farina-gaza"
     }
   ],
   "collectionId": "2026-10-30-mattina",
   "reserveCounts": {
     "Politica": 5,
-    "Esteri": 0,
+    "Esteri": 5,
     "Economia": 0,
     "Cronaca": 0,
     "Roma": 0,
@@ -140,9 +169,9 @@
     },
     "esteri": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "economia": {
       "base": 0,
