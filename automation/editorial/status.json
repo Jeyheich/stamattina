@@ -1,9 +1,13 @@
 {
   "editionDate": "2026-10-30",
-  "checkedAt": "2026-10-30T16:13:23.063Z",
-  "ready": false,
+  "checkedAt": "2026-10-30T16:16:00.906Z",
+  "ready": true,
   "editorialComplete": false,
   "reserveMissing": [
+    "roma",
+    "cultura"
+  ],
+  "completed": [
     "politica",
     "esteri",
     "economia",
@@ -13,15 +17,520 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [],
   "inProgress": [],
   "missing": [],
-  "invalid": [
+  "invalid": [],
+  "stories": [
     {
-      "slug": "edition",
-      "reason": "Cicli editoriali differenti"
+      "id": "politica-campo-largo-programma-primarie-ottobre",
+      "category": "Politica",
+      "title": "Il campo progressista fissa le tappe: programma a novembre e primarie entro febbraio",
+      "eventKey": "campo-largo-confronto-manovra-roadmap"
+    },
+    {
+      "id": "politica-meloni-esclude-vannacci-alleanza",
+      "category": "Politica",
+      "title": "Meloni prende le distanze da un'alleanza con Vannacci",
+      "eventKey": "meloni-rifiuta-alleanza-vannacci-2026"
+    },
+    {
+      "id": "politica-meloni-sostegno-ucraina-costo-politico",
+      "category": "Politica",
+      "title": "Meloni conferma il sostegno a Kiev nonostante il possibile costo elettorale",
+      "eventKey": "meloni-conferma-sostegno-ucraina-costo-politico"
+    },
+    {
+      "id": "politica-consulta-francesco-vigano-presidente",
+      "category": "Politica",
+      "title": "Francesco Viganò eletto alla presidenza della Corte costituzionale",
+      "eventKey": "consulta-francesco-vigano-eletto-presidente-2026"
+    },
+    {
+      "id": "politica-craxi-modifiche-norma-medici-radiati",
+      "category": "Politica",
+      "title": "Forza Italia chiede modifiche al Senato sulla riammissione dei medici radiati",
+      "eventKey": "craxi-forza-italia-modifiche-reintegro-medici-radiati"
+    },
+    {
+      "id": "esteri-spagna-toledo-italiana-ritrovata",
+      "category": "Esteri",
+      "title": "Spagna, ritrovata viva una delle italiane disperse dopo lo scontro ferroviario",
+      "eventKey": "spagna-treni-toledo-italiana-ritrovata-29-ottobre"
+    },
+    {
+      "id": "esteri-israele-arresti-corruzione-elettorale",
+      "category": "Esteri",
+      "title": "Israele, arresti e verifiche per presunte irregolarità elettorali",
+      "eventKey": "israele-indagine-presunta-corruzione-elettorale-2026"
+    },
+    {
+      "id": "esteri-oleshky-evacuazione-avviata",
+      "category": "Esteri",
+      "title": "Ucraina, iniziata l'evacuazione umanitaria da Oleshky",
+      "eventKey": "oleshky-evacuazione-umanitaria-avviata-30-ottobre"
+    },
+    {
+      "id": "esteri-novaya-gazeta-chiusura-russia",
+      "category": "Esteri",
+      "title": "Russia, Novaya Gazeta annuncia la chiusura delle attività nel Paese",
+      "eventKey": "novaya-gazeta-annuncia-chiusura-russia-9-novembre-2026"
+    },
+    {
+      "id": "esteri-scozia-balmoral-epstein-indagine",
+      "category": "Esteri",
+      "title": "Scozia, indagine sulle visite di Epstein nella tenuta reale di Balmoral",
+      "eventKey": "scozia-polizia-indaga-visite-epstein-balmoral-2026"
+    },
+    {
+      "id": "economia-pil-terzo-trimestre",
+      "category": "Economia",
+      "title": "Pil italiano fermo nel terzo trimestre, +0,8% su base annua",
+      "eventKey": "italia-istat-pil-terzo-trimestre-2026-stagnazione"
+    },
+    {
+      "id": "economia-delfin-offerta-strnad",
+      "category": "Economia",
+      "title": "Delfin, proposta d'acquisto da 30 miliardi dell'imprenditore Strnad",
+      "eventKey": "delfin-offerta-michal-strnad-30-miliardi-2026"
+    },
+    {
+      "id": "economia-fondo-sanitario-regioni",
+      "category": "Economia",
+      "title": "Fondo sanitario, le Regioni contestano l'aumento di 3,4 miliardi",
+      "eventKey": "manovra-2027-fondo-sanitario-regioni-3-4-miliardi"
+    },
+    {
+      "id": "economia-flat-tax-100mila",
+      "category": "Economia",
+      "title": "Partite Iva, nella manovra ipotesi di flat tax fino a 100mila euro",
+      "eventKey": "manovra-2027-regime-forfettario-100mila-doppio-binario"
+    },
+    {
+      "id": "economia-bce-tassi-29",
+      "category": "Economia",
+      "title": "Bce, confermati i tassi: depositi al 2,50%",
+      "eventKey": "bce-tassi-fermi-29-ottobre-2026"
+    },
+    {
+      "id": "cronaca-parma-monossido",
+      "category": "Cronaca",
+      "title": "Parma, due vittime e una neonata grave per monossido",
+      "eventKey": "parma-mezzani-monossido-due-morti-neonata-grave-2026"
+    },
+    {
+      "id": "cronaca-ascoli-tribunale",
+      "category": "Cronaca",
+      "title": "Ascoli Piceno, il tribunale deve lasciare la sede storica",
+      "eventKey": "ascoli-corte-appello-sfratto-tribunale-2026"
+    },
+    {
+      "id": "cronaca-san-severino-incidente",
+      "category": "Cronaca",
+      "title": "San Severino Marche, muore un automobilista di 21 anni",
+      "eventKey": "san-severino-marche-incidente-stefano-fiori-29-ottobre-2026"
+    },
+    {
+      "id": "cronaca-barete-terremoto",
+      "category": "Cronaca",
+      "title": "Scossa di magnitudo 3 nella notte vicino all'Aquila",
+      "eventKey": "barete-laquila-scossa-magnitudo-tre-30-ottobre-2026"
+    },
+    {
+      "id": "cronaca-bologna-scontri",
+      "category": "Cronaca",
+      "title": "Bologna, scontri tra manifestanti e polizia durante il corteo",
+      "eventKey": "bologna-sciopero-scontri-via-stalingrado-30-ottobre-2026"
+    },
+    {
+      "id": "roma-colosseo-tensioni-corteo-30-ottobre",
+      "category": "Roma",
+      "title": "Corteo a Roma, tensioni e barricate vicino al Colosseo",
+      "eventKey": "roma-colosseo-lanci-oggetti-barricate-corteo-30-ottobre-2026"
+    },
+    {
+      "id": "roma-bus-882-corsa-scuole",
+      "category": "Roma",
+      "title": "Bus 882, aggiunta una corsa pomeridiana per gli studenti",
+      "eventKey": "roma-bus-882-corsa-aggiuntiva-studenti-29-ottobre-2026"
+    },
+    {
+      "id": "roma-monte-mario-pratone-tar",
+      "category": "Roma",
+      "title": "Monte Mario, il Tar blocca il progetto sul Pratone",
+      "eventKey": "roma-tar-lazio-annulla-decreto-pratone-monte-mario"
+    },
+    {
+      "id": "roma-iacopini-risveglio-san-camillo",
+      "category": "Roma",
+      "title": "L'attore Davide Iacopini riprende conoscenza dopo l'aggressione",
+      "eventKey": "roma-attore-iacopini-ripresa-conoscenza-san-camillo"
+    },
+    {
+      "id": "roma-ostia-donna-38-anni-inchiesta",
+      "category": "Roma",
+      "title": "Morte di una donna di 38 anni, la Procura di Roma apre accertamenti",
+      "eventKey": "roma-procura-inchiesta-morte-donna-38-anni-ostia"
+    },
+    {
+      "id": "cultura-patrick-stewart-scomparsa",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Addio a Patrick Stewart, interprete di Picard e del Professor Xavier",
+      "eventKey": "attore-patrick-stewart-morte-29-ottobre-2026"
+    },
+    {
+      "id": "cultura-u2-tour-san-siro-2027",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "U2, annunciate due date a San Siro per luglio 2027",
+      "eventKey": "u2-concerti-milano-5-6-luglio-2027"
+    },
+    {
+      "id": "cultura-mccurry-spirituality-perugia",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Steve McCurry presenta trenta fotografie inedite sull'Umbria",
+      "eventKey": "mccurry-spirituality-trenta-foto-perugia-2026"
+    },
+    {
+      "id": "cultura-euro-balkan-festival-magris",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Euro Balkan Film Festival, premio a Claudio Magris e cinema dei Balcani",
+      "eventKey": "euro-balkan-film-festival-2026-premio-magris"
+    },
+    {
+      "id": "cultura-amara-premio-gabriella-ferri",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Amara riceve il Premio Gabriella Ferri 2026",
+      "eventKey": "amara-premio-gabriella-ferri-2026-ottobrata"
+    },
+    {
+      "id": "tecnologia-reddit-login-contro-scraping-ai-2026",
+      "category": "Tecnologia · AI",
+      "title": "Reddit prepara l'accesso con account per frenare lo scraping AI",
+      "eventKey": "reddit-login-contro-scraping-ai-2026"
+    },
+    {
+      "id": "tecnologia-gemini-modifica-documenti-direttamente-chat-2026",
+      "category": "Tecnologia · AI",
+      "title": "Gemini porta l'editing di documenti dentro la conversazione",
+      "eventKey": "gemini-modifica-documenti-direttamente-chat-2026"
+    },
+    {
+      "id": "tecnologia-google-home-consumi-prese-matter-2026",
+      "category": "Tecnologia · AI",
+      "title": "Google Home visualizza l'energia consumata dalle prese Matter",
+      "eventKey": "google-home-consumi-prese-matter-2026"
+    },
+    {
+      "id": "tecnologia-petit-planet-uscita-4-dicembre-2026",
+      "category": "Tecnologia · AI",
+      "title": "Petit Planet ha una data: debutto gratuito il 4 dicembre",
+      "eventKey": "petit-planet-uscita-4-dicembre-2026"
+    },
+    {
+      "id": "tecnologia-gta6-mappa-aperta-dopo-tutorial-2026",
+      "category": "Tecnologia · AI",
+      "title": "GTA 6: esplorazione della mappa dopo un breve tutorial",
+      "eventKey": "gta6-mappa-aperta-dopo-tutorial-2026"
+    },
+    {
+      "id": "sport-figc-malago-quorum-undici-club-30-ottobre-2026",
+      "category": "Sport",
+      "title": "FIGC, Malagò ottiene le firme necessarie dalla Serie A",
+      "eventKey": "figc-malago-quorum-undici-club-30-ottobre-2026"
+    },
+    {
+      "id": "sport-milan-tomori-lesione-coscia-stop-un-mese-2026",
+      "category": "Sport",
+      "title": "Milan senza Tomori per il derby: lesione muscolare",
+      "eventKey": "milan-tomori-lesione-coscia-stop-un-mese-2026"
+    },
+    {
+      "id": "sport-milan-cardinale-fiducia-amorim-scudetto-2026",
+      "category": "Sport",
+      "title": "Cardinale conferma Amorim e rilancia le ambizioni del Milan",
+      "eventKey": "milan-cardinale-fiducia-amorim-scudetto-2026"
+    },
+    {
+      "id": "sport-f1-messico-tre-italiani-fp1-dal-2011-2026",
+      "category": "Sport",
+      "title": "F1 in Messico, tre italiani nella prima sessione di libere",
+      "eventKey": "f1-messico-tre-italiani-fp1-dal-2011-2026"
+    },
+    {
+      "id": "sport-sinner-norman-montecarlo-preparazione-2027",
+      "category": "Sport",
+      "title": "Sinner lavora a Monte-Carlo, presente anche Magnus Norman",
+      "eventKey": "sinner-norman-montecarlo-preparazione-2027"
+    },
+    {
+      "id": "politica-mattarella-risparmio-protezione-cittadini",
+      "category": "Politica",
+      "title": "Mattarella richiama la tutela del risparmio contro inflazione e speculazione",
+      "eventKey": "mattarella-giornata-risparmio-tutela-cittadini-2026"
+    },
+    {
+      "id": "politica-borghi-convegno-senato-vaccini",
+      "category": "Politica",
+      "title": "Convegno sui vaccini in Senato, polemica tra Borghi e il Pd",
+      "eventKey": "borghi-convegno-senato-danneggiati-vaccini-28-ottobre"
+    },
+    {
+      "id": "politica-de-luca-alleanza-sindaci-centrodestra",
+      "category": "Politica",
+      "title": "De Luca presenta la lista dei sindaci e l'intesa con il centrodestra",
+      "eventKey": "de-luca-sud-chiama-nord-sindaci-italia-centrodestra-2026"
+    },
+    {
+      "id": "politica-piantedosi-prevenzione-cortei-30-ottobre",
+      "category": "Politica",
+      "title": "Piantedosi annuncia un coordinamento nazionale in vista dei cortei",
+      "eventKey": "piantedosi-coordinamento-prefetti-cortei-30-ottobre-2026"
+    },
+    {
+      "id": "politica-anm-milano-denuncia-attacchi-magistrate",
+      "category": "Politica",
+      "title": "L'Anm di Milano denuncia attacchi sessisti contro due magistrate",
+      "eventKey": "anm-milano-denuncia-attacchi-sessisti-magistrate-siher-2026"
+    },
+    {
+      "id": "esteri-cina-espulsioni-partito-plenum",
+      "category": "Esteri",
+      "title": "Cina, 33 espulsioni dal Partito comunista durante il plenum",
+      "eventKey": "cina-plenum-espulsione-33-dirigenti-2026"
+    },
+    {
+      "id": "esteri-papua-nuova-guinea-siccita-el-nino",
+      "category": "Esteri",
+      "title": "Papua Nuova Guinea, la siccità colpisce milioni di persone",
+      "eventKey": "papua-nuova-guinea-siccita-el-nino-crisi-2026"
+    },
+    {
+      "id": "esteri-sudan-nusseibeh-onu-critiche-candidatura",
+      "category": "Esteri",
+      "title": "Sudan, associazioni contestano la candidatura emiratina alla guida dell'Onu",
+      "eventKey": "sudan-attivisti-criticano-candidatura-nusseibeh-onu-2026"
+    },
+    {
+      "id": "esteri-iran-reazione-elezioni-israele",
+      "category": "Esteri",
+      "title": "Iran, Teheran non si aspetta un cambio di linea da Israele",
+      "eventKey": "iran-reazione-elezioni-israele-2026"
+    },
+    {
+      "id": "esteri-egitto-lina-attalah-rilascio",
+      "category": "Esteri",
+      "title": "Egitto, liberata la giornalista Lina Attalah dopo il pagamento di una multa",
+      "eventKey": "egitto-lina-attalah-rilasciata-multa-mada-masr-2026"
+    },
+    {
+      "id": "economia-inflazione-ottobre",
+      "category": "Economia",
+      "title": "Inflazione italiana al 5,4% a ottobre, il dato discusso a Sky TG24",
+      "eventKey": "italia-inflazione-ottobre-2026-5-4-percento"
+    },
+    {
+      "id": "economia-panetta-risparmio",
+      "category": "Economia",
+      "title": "Panetta: il risparmio è esposto a inflazione e tensioni internazionali",
+      "eventKey": "panetta-giornata-risparmio-inflazione-tensioni-30-ottobre-2026"
+    },
+    {
+      "id": "economia-volkswagen-perdita",
+      "category": "Economia",
+      "title": "Volkswagen, perdita trimestrale di 5,82 miliardi",
+      "eventKey": "volkswagen-perdita-terzo-trimestre-2026"
+    },
+    {
+      "id": "economia-riscaldamento-ue",
+      "category": "Economia",
+      "title": "Energia, allarme europeo sul riscaldamento di 50 milioni di persone",
+      "eventKey": "ue-jorgensen-rischio-riscaldamento-50-milioni-2026"
+    },
+    {
+      "id": "economia-patuelli-banche",
+      "category": "Economia",
+      "title": "Patuelli critica il contributo richiesto alle banche nella manovra",
+      "eventKey": "patuelli-abi-critica-contributo-banche-manovra-30-ottobre-2026"
+    },
+    {
+      "id": "cronaca-aeroitalia-sardegna",
+      "category": "Cronaca",
+      "title": "Aeroitalia avverte: collegamenti con la Sardegna a rischio",
+      "eventKey": "aeroitalia-minaccia-risoluzione-continuita-sardegna-30-ottobre-2026"
+    },
+    {
+      "id": "cronaca-milano-tangenziale",
+      "category": "Cronaca",
+      "title": "Milano, manifestanti dello sciopero bloccano la Tangenziale Est",
+      "eventKey": "milano-manifestanti-blocco-tangenziale-est-30-ottobre-2026"
+    },
+    {
+      "id": "cronaca-torino-idranti",
+      "category": "Cronaca",
+      "title": "Torino, cariche e idranti davanti alla Prefettura",
+      "eventKey": "torino-piazza-castello-cariche-idranti-30-ottobre-2026"
+    },
+    {
+      "id": "cronaca-padova-foto-valditara",
+      "category": "Cronaca",
+      "title": "Padova, studenti bruciano una fotografia del ministro Valditara",
+      "eventKey": "padova-studenti-bruciano-foto-valditara-corteo-30-ottobre-2026"
+    },
+    {
+      "id": "cronaca-ricostruzione-umbria",
+      "category": "Cronaca",
+      "title": "Sisma 2016, in Umbria conclusi 2.625 cantieri privati",
+      "eventKey": "umbria-ricostruzione-2016-2625-cantieri-30-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-whatsapp-quattro-funzioni-gruppi-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "title": "WhatsApp aggiorna i gruppi con filtri, messaggi fissati e stati",
+      "eventKey": "whatsapp-quattro-funzioni-gruppi-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-meta-style-sketch-armadio-ai-asia-2026",
+      "category": "Tecnologia · AI",
+      "title": "Meta sperimenta Style Sketch, guardaroba virtuale con AI",
+      "eventKey": "meta-style-sketch-armadio-ai-asia-2026"
+    },
+    {
+      "id": "tecnologia-anthropic-claude-test-vulnerabilita-browser-2026",
+      "category": "Tecnologia · AI",
+      "title": "Un Claude sperimentale trova catene di vulnerabilità nei test di sicurezza",
+      "eventKey": "anthropic-claude-test-vulnerabilita-browser-2026"
+    },
+    {
+      "id": "tecnologia-clair-obscur-doppiatori-italiani-video-fan-2026",
+      "category": "Tecnologia · AI",
+      "title": "Due doppiatori italiani reinterpretano una scena di Clair Obscur",
+      "eventKey": "clair-obscur-doppiatori-italiani-video-fan-2026"
+    },
+    {
+      "id": "tecnologia-resident-evil-outbreak-progetto-fan-browser-2026",
+      "category": "Tecnologia · AI",
+      "title": "Un progetto amatoriale porta Resident Evil Outbreak nel browser",
+      "eventKey": "resident-evil-outbreak-progetto-fan-browser-2026"
+    },
+    {
+      "id": "sport-milan-pulisic-rinnovo-contratto-2031-ottobre-2026",
+      "category": "Sport",
+      "title": "Pulisic prolunga con il Milan fino al 2031",
+      "eventKey": "milan-pulisic-rinnovo-contratto-2031-ottobre-2026"
+    },
+    {
+      "id": "sport-serie-a-designazioni-guida-derby-sozza-juve-napoli-2026",
+      "category": "Sport",
+      "title": "Serie A, Guida designato per Milan-Inter e Sozza per Juventus-Napoli",
+      "eventKey": "serie-a-designazioni-guida-derby-sozza-juve-napoli-2026"
+    },
+    {
+      "id": "sport-san-siro-derby-riaperti-terzo-anello-2350-posti-2026",
+      "category": "Sport",
+      "title": "Derby di Milano, San Siro riapre settori del terzo anello",
+      "eventKey": "san-siro-derby-riaperti-terzo-anello-2350-posti-2026"
+    },
+    {
+      "id": "sport-antonelli-rientro-fp1-dopo-indisposizione-messico-2026",
+      "category": "Sport",
+      "title": "Antonelli torna in pista dopo l'indisposizione della vigilia",
+      "eventKey": "antonelli-rientro-fp1-dopo-indisposizione-messico-2026"
+    },
+    {
+      "id": "sport-berrettini-de-minaur-quarti-vienna-programma-2026",
+      "category": "Sport",
+      "title": "Berrettini atteso contro De Minaur nei quarti a Vienna",
+      "eventKey": "berrettini-de-minaur-quarti-vienna-programma-2026"
     }
   ],
-  "stories": [],
-  "needsPublication": false
+  "collectionId": "2026-10-30-pomeriggio",
+  "reserveCounts": {
+    "Politica": 5,
+    "Esteri": 5,
+    "Economia": 5,
+    "Cronaca": 5,
+    "Roma": 0,
+    "Cultura · Teatro · Cinema": 0,
+    "Tecnologia · AI": 5,
+    "Sport": 5
+  },
+  "photoCandidates": [
+    {
+      "id": "politica-meloni-esclude-vannacci-alleanza",
+      "category": "Politica",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Chigi_Roma_giugno_2024.jpg"
+    },
+    {
+      "id": "economia-bce-tassi-29",
+      "category": "Economia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ECB_headquarters,_Frankfurt_140827_1.jpg"
+    },
+    {
+      "id": "cronaca-san-severino-incidente",
+      "category": "Cronaca",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panorama_San_Severino_Marche_3.jpg"
+    },
+    {
+      "id": "roma-monte-mario-pratone-tar",
+      "category": "Roma",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roma,_panorama_dal_terrazzo_della_villa_Mellini.jpg"
+    },
+    {
+      "id": "cultura-patrick-stewart-scomparsa",
+      "category": "Cultura · Teatro · Cinema",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Patrick_Stewart_by_Gage_Skidmore_2.jpg"
+    }
+  ],
+  "photosAvailable": 5,
+  "categoryProgress": {
+    "politica": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "esteri": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "economia": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "cronaca": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "roma": {
+      "base": 5,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "cultura": {
+      "base": 5,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "tecnologia": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "sport": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    }
+  },
+  "editionId": "2026-10-30-batches-a903a2056e6a",
+  "needsPublication": true
 }
