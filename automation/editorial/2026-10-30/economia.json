@@ -3,7 +3,7 @@
   "editionDate": "2026-10-30",
   "collectionId": "2026-10-30-mattina",
   "category": "Economia",
-  "completedAt": "2026-10-30T05:15:55.866Z",
+  "completedAt": "2026-10-30T05:16:21.876Z",
   "articles": [
     {
       "id": "economia-bce-tassi-29-ottobre",
@@ -123,6 +123,118 @@
         "access": "free",
         "accessCheckedAt": "2026-10-30T05:15:55.866Z",
         "dateEvidence": "Sky TG24, pagina originale del 29 ottobre 2026, orario di pubblicazione 14:31 Europe/Rome; testo e data riletti il 30 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "economia-europa-riscaldamento-prezzi",
+      "eventKey": "ue-jorgensen-rischio-riscaldamento-50-milioni-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Energia, per 50 milioni di europei riscaldarsi potrebbe diventare proibitivo",
+      "summary": "Il commissario Ue Jørgensen avverte che la crisi riguarda soprattutto i prezzi.",
+      "body": [
+        "Il commissario europeo all'Energia Dan Jørgensen ha avvertito che oltre 50 milioni di persone nell'Unione potrebbero incontrare difficoltà a riscaldare adeguatamente la propria casa per via dei costi.",
+        "La Commissione invita gli Stati a ridurre la dipendenza dai combustibili fossili, puntando su efficienza energetica, elettrificazione e pompe di calore."
+      ],
+      "publishedAt": "2026-10-29T14:19:00+01:00",
+      "verifiedAt": "2026-10-30T05:16:21.876Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/29/energia-ue-riscaldamento-rischio",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T05:16:21.876Z",
+        "dateEvidence": "Sky TG24, pubblicazione originale del 29 ottobre 2026 alle 14:19 Europe/Rome, data e testo della fonte letti e verificati il 30 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-greenpeace-extra-profitti",
+      "eventKey": "greenpeace-extra-profitti-petrolio-ue-36-miliardi-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Greenpeace stima 36 miliardi di extraprofitti petroliferi nell'Ue",
+      "summary": "L'analisi dell'associazione riguarda i margini del settore dopo l'inizio del conflitto in Iran.",
+      "body": [
+        "Un'analisi diffusa da Greenpeace attribuisce all'industria petrolifera europea circa 36 miliardi di euro di extraprofitti tra il primo marzo e il 19 ottobre 2026.",
+        "Secondo la stima dell'organizzazione, la media giornaliera sarebbe di 154 milioni di euro nell'Ue e oltre 21 milioni in Italia. Si tratta di dati elaborati dall'associazione, non di una valutazione contabile indipendente."
+      ],
+      "publishedAt": "2026-10-29T12:10:00+01:00",
+      "verifiedAt": "2026-10-30T05:16:21.876Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/29/aumento-prezzi-benzina-guerra-iran-extra-profitti",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T05:16:21.876Z",
+        "dateEvidence": "Sky TG24, pubblicazione originale del 29 ottobre 2026 alle 12:10 Europe/Rome, data e testo della fonte letti e verificati il 30 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-halloween-coupon-cioccolato",
+      "eventKey": "osservatorio-savi-halloween-coupon-cioccolato-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Halloween, il cioccolato domina i buoni sconto",
+      "summary": "Secondo l'Osservatorio Savi, due terzi dei coupon per dolciumi riguardano il cioccolato.",
+      "body": [
+        "Le campagne promozionali legate a Halloween registrano una quota del 67% di buoni sconto destinati al cioccolato, secondo l'Osservatorio Savi.",
+        "L'analisi segnala oltre due milioni di coupon per i prodotti dolciari pianificati per la ricorrenza, in crescita del 5,5% rispetto all'anno precedente."
+      ],
+      "publishedAt": "2026-10-29T15:20:00+01:00",
+      "verifiedAt": "2026-10-30T05:16:21.876Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/29/halloween-cioccolato-dolci",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T05:16:21.876Z",
+        "dateEvidence": "Sky TG24, pubblicazione originale del 29 ottobre 2026 alle 15:20 Europe/Rome, data e testo della fonte letti e verificati il 30 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-pensioni-rivalutazione-simulazioni",
+      "eventKey": "simulazioni-rivalutazione-pensioni-2027-enac",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Pensioni 2027, tre simulazioni sugli aumenti da inflazione",
+      "summary": "Gli scenari del 2,5%, 3% e 3,5% sono ipotesi, non rivalutazioni ufficiali.",
+      "body": [
+        "In attesa del dato definitivo sull'inflazione e del decreto, sono state diffuse simulazioni della rivalutazione delle pensioni per il 2027 con incrementi ipotetici del 2,5%, 3% e 3,5%.",
+        "Per un assegno lordo mensile di 1.000 euro gli scenari comporterebbero aumenti rispettivamente di 25, 30 o 35 euro. Restano possibili modifiche del meccanismo nella manovra, perciò non si tratta di importi già approvati."
+      ],
+      "publishedAt": "2026-10-29T11:23:00+01:00",
+      "verifiedAt": "2026-10-30T05:16:21.876Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/29/calcolo-rivalutazione-pensione-2027-simulazioni",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T05:16:21.876Z",
+        "dateEvidence": "Sky TG24, pubblicazione originale del 29 ottobre 2026 alle 11:23 Europe/Rome, data e testo della fonte letti e verificati il 30 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-fed-tassi-ottobre",
+      "eventKey": "fed-tassi-invariati-28-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Federal Reserve, tassi fermi tra il 3,75% e il 4%",
+      "summary": "La banca centrale statunitense non modifica il costo del denaro; due membri avrebbero preferito un rialzo.",
+      "body": [
+        "La Federal Reserve il 28 ottobre ha lasciato invariato l'intervallo dei tassi al 3,75–4%, dopo il rialzo di settembre.",
+        "La decisione del Fomc è passata con dieci voti a favore e due contrari, espressi da componenti favorevoli a un aumento di un quarto di punto. La Fed ha ribadito la necessità di contenere l'inflazione."
+      ],
+      "publishedAt": "2026-10-28T19:30:00+01:00",
+      "verifiedAt": "2026-10-30T05:16:21.876Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/28/federal-reserve-tassi-interesse",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T05:16:21.876Z",
+        "dateEvidence": "Sky TG24, pubblicazione originale del 28 ottobre 2026 alle 19:30 Europe/Rome, data e testo della fonte letti e verificati il 30 ottobre 2026.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
