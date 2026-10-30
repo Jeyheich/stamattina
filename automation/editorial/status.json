@@ -1,12 +1,9 @@
 {
   "editionDate": "2026-10-30",
-  "checkedAt": "2026-10-30T16:16:32.459Z",
+  "checkedAt": "2026-10-30T16:16:51.549Z",
   "ready": true,
-  "editorialComplete": false,
-  "reserveMissing": [
-    "roma",
-    "cultura"
-  ],
+  "editorialComplete": true,
+  "reserveMissing": [],
   "completed": [
     "politica",
     "esteri",
@@ -382,6 +379,66 @@
       "eventKey": "umbria-ricostruzione-2016-2625-cantieri-30-ottobre-2026"
     },
     {
+      "id": "roma-sapienza-lettere-occupazione",
+      "category": "Roma",
+      "title": "Sapienza, occupata la facoltà di Lettere e Filosofia",
+      "eventKey": "roma-sapienza-occupazione-lettere-filosofia-28-ottobre"
+    },
+    {
+      "id": "roma-oasis-rivendita-antitrust",
+      "category": "Roma",
+      "title": "Oasis, accertamenti sulla rivendita dei biglietti dei concerti romani",
+      "eventKey": "oasis-biglietti-roma-antitrust-secondary-ticketing-2026"
+    },
+    {
+      "id": "roma-adinolfi-domiciliari",
+      "category": "Roma",
+      "title": "Mario Adinolfi torna ai domiciliari dopo la decisione del gip",
+      "eventKey": "roma-mario-adinolfi-torna-domiciliari-gip-28-ottobre"
+    },
+    {
+      "id": "roma-annia-regilla-linea-663",
+      "category": "Roma",
+      "title": "Via Annia Regilla, deviata la linea 663 per lavori",
+      "eventKey": "roma-linea-663-deviazione-annia-regilla-29-ottobre"
+    },
+    {
+      "id": "roma-cerveteri-reperti-restituiti",
+      "category": "Roma",
+      "title": "Cerveteri, restituiti allo Stato 54 reperti archeologici",
+      "eventKey": "cerveteri-restituzione-54-reperti-archeologici-stato"
+    },
+    {
+      "id": "cultura-preziosi-orfeo-arezzo",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Alessandro Preziosi porta il mito di Orfeo al Teatro Petrarca",
+      "eventKey": "orfeo-alessandro-preziosi-teatro-petrarca-30-ottobre"
+    },
+    {
+      "id": "cultura-film-unaltra-me-social-avatar",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Un'altra me, una commedia sul doppio digitale e sull'identità",
+      "eventKey": "film-unaltra-me-brignone-uscita-5-novembre-2026"
+    },
+    {
+      "id": "cultura-tamaki-yoshida-unfolding",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "A Pordenone la prima grande mostra europea di Tamaki Yoshida",
+      "eventKey": "tamaki-yoshida-unfolding-pordenone-mostra-2026"
+    },
+    {
+      "id": "cultura-medfilm-festival-2026-roma",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "MedFilm Festival, a Roma 67 film da 33 Paesi",
+      "eventKey": "medfilm-festival-roma-2026-67-film-33-paesi"
+    },
+    {
+      "id": "cultura-abramovic-confession-arco-giano",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Marina Abramović prepara Confession sotto l'Arco di Giano",
+      "eventKey": "marina-abramovic-confession-arco-di-giano-2026"
+    },
+    {
       "id": "tecnologia-whatsapp-quattro-funzioni-gruppi-ottobre-2026",
       "category": "Tecnologia · AI",
       "title": "WhatsApp aggiorna i gruppi con filtri, messaggi fissati e stati",
@@ -448,8 +505,8 @@
     "Esteri": 5,
     "Economia": 5,
     "Cronaca": 5,
-    "Roma": 0,
-    "Cultura · Teatro · Cinema": 0,
+    "Roma": 5,
+    "Cultura · Teatro · Cinema": 5,
     "Tecnologia · AI": 5,
     "Sport": 5
   },
@@ -508,15 +565,15 @@
     },
     "roma": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "cultura": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "tecnologia": {
       "base": 5,
@@ -531,9 +588,6 @@
       "complete": true
     }
   },
-  "editionId": "2026-10-30-batches-a903a2056e6a",
-  "needsPublication": false,
-  "publicEditionId": "2026-10-30-batches-a903a2056e6a",
-  "publicVerifiedAt": "2026-10-30T16:16:34.167126+00:00",
-  "publication": "verified"
+  "editionId": "2026-10-30-batches-963e1adbd3e6",
+  "needsPublication": true
 }

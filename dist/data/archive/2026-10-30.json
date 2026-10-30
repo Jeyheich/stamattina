@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "collectionId": "2026-10-30-pomeriggio",
-  "id": "2026-10-30-batches-a903a2056e6a",
+  "id": "2026-10-30-batches-963e1adbd3e6",
   "mode": "live",
   "editionDate": "2026-10-30",
-  "generatedAt": "2026-10-30T16:16:00.906Z",
+  "generatedAt": "2026-10-30T16:16:51.549Z",
   "timezone": "Europe/Rome",
   "scheduledFor": "2026-10-30T19:00:00+01:00",
   "essentialIds": [
@@ -1443,6 +1443,226 @@
       }
     },
     {
+      "id": "roma-sapienza-lettere-occupazione",
+      "eventKey": "roma-sapienza-occupazione-lettere-filosofia-28-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Sapienza, occupata la facoltà di Lettere e Filosofia",
+      "summary": "Gli attivisti di Cambiare Rotta annunciano iniziative e assemblee contro le spese militari.",
+      "body": [
+        "Alla Sapienza di Roma gli studenti del collettivo Cambiare Rotta hanno occupato la facoltà di Lettere e Filosofia dopo un'assemblea partecipata.",
+        "Nel comunicato, riportato il 28 ottobre da TGR Lazio, il movimento collega la protesta alle mobilitazioni giovanili europee e critica le spese militari. Sono annunciati ulteriori incontri e manifestazioni."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-30T16:16:34.496Z",
+      "source": {
+        "name": "RaiNews TGR Lazio",
+        "url": "https://www.rainews.it/tgr/lazio/articoli/2026/10/gli-studenti-occupano-la-facolta-di-lettere-e-filosofia-a3c7c729-1c66-426f-b207-954aee6481e7.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:16:34.496Z",
+        "dateEvidence": "RaiNews TGR Lazio, pubblicazione originale 28 ottobre 2026, senza ora indicata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-oasis-rivendita-antitrust",
+      "eventKey": "oasis-biglietti-roma-antitrust-secondary-ticketing-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Oasis, accertamenti sulla rivendita dei biglietti dei concerti romani",
+      "summary": "L'Autorità avvia approfondimenti dopo la segnalazione di prezzi fino a quasi 10mila euro.",
+      "body": [
+        "L'Antitrust ha avviato approfondimenti preliminari sul secondary ticketing denunciato dal Codacons per i concerti degli Oasis allo Stadio Olimpico, previsti il 26, 29 e 30 luglio 2027.",
+        "L'associazione ha segnalato offerte sui siti di rivendita fra 5mila e 7mila euro, in alcuni casi vicine a 10mila. Gli accertamenti non equivalgono a un illecito già accertato né a sanzioni già applicate."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-30T16:16:34.496Z",
+      "source": {
+        "name": "RaiNews TGR Lazio",
+        "url": "https://www.rainews.it/amp/tgr/lazio/articoli/2026/10/oasis-a-roma-biglietti-a-10mila-euro-lantitrust-avvia-gli-accertamenti-b5dd2291-daf9-420b-a876-ab427a01180e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:16:34.496Z",
+        "dateEvidence": "RaiNews TGR Lazio, articolo del 28 ottobre 2026, data originale riportata nell'indice e pagina.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-adinolfi-domiciliari",
+      "eventKey": "roma-mario-adinolfi-torna-domiciliari-gip-28-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Mario Adinolfi torna ai domiciliari dopo la decisione del gip",
+      "summary": "Accolta l'istanza dei difensori dell'ex parlamentare, indagato per truffa aggravata e reati fiscali.",
+      "body": [
+        "Il giudice per le indagini preliminari di Roma ha accolto la richiesta della difesa di Mario Adinolfi, disponendo il passaggio dal carcere agli arresti domiciliari.",
+        "L'ex parlamentare era stato trasferito in carcere a settembre per presunte violazioni delle prescrizioni, fra cui l'utilizzo frequente dei social. L'indagine per truffa aggravata e reati fiscali resta distinta dalla misura cautelare."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-30T16:16:34.496Z",
+      "source": {
+        "name": "RaiNews TGR Lazio",
+        "url": "https://www.rainews.it/tgr/lazio/articoli/2026/10/adinolfi-lascia-il-carcere-accolta-istanza-della-difesa--7cafe1a5-a71a-4662-8345-45b41f0542c3.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:16:34.496Z",
+        "dateEvidence": "RaiNews TGR Lazio, articolo originale del 28/10/2026, nessuna ora dichiarata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-annia-regilla-linea-663",
+      "eventKey": "roma-linea-663-deviazione-annia-regilla-29-ottobre",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Via Annia Regilla, deviata la linea 663 per lavori",
+      "summary": "La modifica riguarda il tragitto verso largo Cirò e comporta la sospensione temporanea di alcune fermate.",
+      "body": [
+        "Roma Servizi per la Mobilità segnala che una seconda fase dei lavori in via Annia Regilla, tra via Appia Nuova e via Vallericcia, comporta la deviazione della linea 663 in direzione di largo Cirò.",
+        "I bus proseguono sull'Appia Nuova fino a via Appia Pignatelli prima di riprendere il percorso ordinario. Diverse fermate in zona Annia Regilla e Quarto Miglio sono temporaneamente disattivate."
+      ],
+      "publishedAt": "2026-10-29",
+      "verifiedAt": "2026-10-30T16:16:34.496Z",
+      "source": {
+        "name": "Roma Servizi per la Mobilità",
+        "url": "https://romamobilita.it/infomobilita/lavori-in-via-annia-regilla-deviata-linea-663/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:16:34.496Z",
+        "dateEvidence": "Roma Mobilità: avviso pubblicato e aggiornato 29/10/2026; validità dal 29/10 ore 12:16, non necessariamente orario di pubblicazione.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-cerveteri-reperti-restituiti",
+      "eventKey": "cerveteri-restituzione-54-reperti-archeologici-stato",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Cerveteri, restituiti allo Stato 54 reperti archeologici",
+      "summary": "I beni sequestrati a Marina di Cerveteri sono stati assegnati alla Soprintendenza competente.",
+      "body": [
+        "I Carabinieri della Stazione di Campo di Mare hanno formalizzato la restituzione allo Stato di 54 reperti archeologici sequestrati a Marina di Cerveteri durante indagini coordinate dalla Procura di Civitavecchia.",
+        "Secondo la comunicazione riportata il 28 ottobre, i beni coprono un arco cronologico dal VII secolo avanti Cristo all'età imperiale romana e sono stati destinati alla Soprintendenza dell'Etruria meridionale. Il corpo del comunicato indica 54 oggetti, benché il titolo del sito riporti per errore 57."
+      ],
+      "publishedAt": "2026-10-28T10:29:00+01:00",
+      "verifiedAt": "2026-10-30T16:16:34.496Z",
+      "source": {
+        "name": "Il Metropolitano (comunicato Carabinieri)",
+        "url": "https://www.ilmetropolitano.it/2026/10/28/cerveteri-restituiti-allo-stato-57-reperti-archeologici/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:16:34.496Z",
+        "dateEvidence": "Comunicato Carabinieri ripreso da Il Metropolitano: Cerveteri 28/10/2026 ore 10:29, testo indica 54 reperti; titolo della pagina erroneamente 57.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-preziosi-orfeo-arezzo",
+      "eventKey": "orfeo-alessandro-preziosi-teatro-petrarca-30-ottobre",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Alessandro Preziosi porta il mito di Orfeo al Teatro Petrarca",
+      "summary": "Il melologo contemporaneo di Silvia Colasanti combina recitazione e musica al Youth Music Festival di Arezzo.",
+      "body": [
+        "Venerdì 30 ottobre alle 20, al Teatro Petrarca di Arezzo, Alessandro Preziosi interpreta Orfeo, melologo contemporaneo composto da Silvia Colasanti.",
+        "La produzione è stata ideata per la settima edizione dello Youth Music Festival e affianca la voce dell'attore al Quartetto Eos e a giovani musicisti, con l'obiettivo di rileggere il mito attraverso parola e musica."
+      ],
+      "publishedAt": "2026-10-29",
+      "verifiedAt": "2026-10-30T16:16:38.426Z",
+      "source": {
+        "name": "La Nazione",
+        "url": "https://www.lanazione.it/arezzo/cultura/ad-arezzo-alessandro-preziosi-nel-melologo-contemporaneo-orfeo-bxz7tbtk",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:16:38.426Z",
+        "dateEvidence": "La Nazione, articolo datato 29 ottobre 2026; data originale verificata, orario non indicato.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-film-unaltra-me-social-avatar",
+      "eventKey": "film-unaltra-me-brignone-uscita-5-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Un'altra me, una commedia sul doppio digitale e sull'identità",
+      "summary": "Il film di Luca Brignone con Margot Sikabonyi arriverà al cinema il 5 novembre.",
+      "body": [
+        "Un'altra me, diretto da Luca Brignone, racconta la storia di Anna, assistente di produzione che crea sui social una versione idealizzata di sé, chiamata LaBenni.",
+        "La commedia, interpretata da Margot Sikabonyi e prodotta da Luca Barbareschi con Rai Cinema, mescola fantasia e riflessione sull'immagine pubblica. La distribuzione in sala è prevista dal 5 novembre 2026."
+      ],
+      "publishedAt": "2026-10-29T16:15:00+01:00",
+      "verifiedAt": "2026-10-30T16:16:38.426Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/29/unaltra-me-essere-belli-come-lavatar-dei-social_ee93eacb-a5af-4d58-a630-61d8abeb163c.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:16:38.426Z",
+        "dateEvidence": "ANSA Cinema, pubblicazione 29 ottobre 2026 alle 16:15 ora italiana riportata nella pagina.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-tamaki-yoshida-unfolding",
+      "eventKey": "tamaki-yoshida-unfolding-pordenone-mostra-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "A Pordenone la prima grande mostra europea di Tamaki Yoshida",
+      "summary": "Unfolding indaga le conseguenze dell'azione umana sugli ecosistemi con due serie fotografiche.",
+      "body": [
+        "Dal 31 ottobre al 13 dicembre lo spazio Die Gelbe Wand dei Mercati Culturali Pordenone ospita Unfolding, prima grande mostra europea della fotografa giapponese Tamaki Yoshida.",
+        "Curata da Marco Minuz, l'esposizione presenta Negative Ecology e Himizu, due progetti sul rapporto tra essere umano, ambiente e trasformazione della materia fotografica. L'iniziativa rientra nel percorso di Pordenone Capitale italiana della Cultura 2027."
+      ],
+      "publishedAt": "2026-10-29T15:37:00+01:00",
+      "verifiedAt": "2026-10-30T16:16:38.426Z",
+      "source": {
+        "name": "Il Popolo",
+        "url": "https://ilpopolopordenone.it/2026/10/ai-mercati-culturali-la-mostra-fotografica-di-tamaki-ushida/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:16:38.426Z",
+        "dateEvidence": "Il Popolo, articolo del 29 ottobre 2026 alle 15:37, titolo URL usa 'Ushida' ma testo e mostra identificano l'artista Tamaki Yoshida.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-medfilm-festival-2026-roma",
+      "eventKey": "medfilm-festival-roma-2026-67-film-33-paesi",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "MedFilm Festival, a Roma 67 film da 33 Paesi",
+      "summary": "Dal 5 al 15 novembre il festival del cinema mediterraneo assegnerà un premio alla carriera al regista palestinese Rashid Masharawi.",
+      "body": [
+        "La 32ª edizione del MedFilm Festival si svolgerà a Roma dal 5 al 15 novembre, con 67 film provenienti da 33 Paesi e una selezione di anteprime internazionali e italiane.",
+        "Il programma comprende incontri e masterclass in diverse sedi, fra cui The Space Cinema Moderno e Casa del Cinema. Il 9 novembre è previsto un riconoscimento alla carriera per il regista palestinese Rashid Masharawi."
+      ],
+      "publishedAt": "2026-10-28T16:39:00+01:00",
+      "verifiedAt": "2026-10-30T16:16:38.426Z",
+      "source": {
+        "name": "La Capitale",
+        "url": "https://www.lacapitale.it/articolo/medfilm-festival-2026-a-roma-67-film-da-33-paesi-premio-alla-carriera-al-regista-palestinese-rashid-masharawi",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:16:38.426Z",
+        "dateEvidence": "La Capitale, Edoardo Iacolucci, pubblicato il 28 ottobre 2026 alle 16:39, data e orario espliciti nella pagina letta.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-abramovic-confession-arco-giano",
+      "eventKey": "marina-abramovic-confession-arco-di-giano-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Marina Abramović prepara Confession sotto l'Arco di Giano",
+      "summary": "Dal 19 novembre un'installazione con un asino dorato e una panchina inviterà il pubblico all'ascolto.",
+      "body": [
+        "Dal 19 novembre 2026 al 19 maggio 2027 l'Arco di Giano a Roma ospiterà Confession, 2026, progetto di Marina Abramović realizzato con la Fondazione Alda Fendi – Esperimenti.",
+        "L'installazione prevede una scultura in bronzo dorato raffigurante un asino, una panchina per i visitatori e un'opera video. L'invito è a fermarsi e condividere, anche in silenzio, una riflessione personale."
+      ],
+      "publishedAt": "2026-10-28T12:44:00+01:00",
+      "verifiedAt": "2026-10-30T16:16:38.426Z",
+      "source": {
+        "name": "La Capitale",
+        "url": "https://www.lacapitale.it/articolo/marina-abramovi%C4%87-a-roma-un-asino-doro-sotto-larco-di-giano-il-pubblico-diventa-protagonista-dellopera",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:16:38.426Z",
+        "dateEvidence": "La Capitale, articolo pubblicato 28 ottobre 2026 alle 12:44, data e orario visibili nella fonte originale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
       "id": "tecnologia-whatsapp-quattro-funzioni-gruppi-ottobre-2026",
       "eventKey": "whatsapp-quattro-funzioni-gruppi-ottobre-2026",
       "category": "Tecnologia · AI",
@@ -1684,6 +1904,16 @@
     "cronaca-torino-idranti",
     "cronaca-padova-foto-valditara",
     "cronaca-ricostruzione-umbria",
+    "roma-sapienza-lettere-occupazione",
+    "roma-oasis-rivendita-antitrust",
+    "roma-adinolfi-domiciliari",
+    "roma-annia-regilla-linea-663",
+    "roma-cerveteri-reperti-restituiti",
+    "cultura-preziosi-orfeo-arezzo",
+    "cultura-film-unaltra-me-social-avatar",
+    "cultura-tamaki-yoshida-unfolding",
+    "cultura-medfilm-festival-2026-roma",
+    "cultura-abramovic-confession-arco-giano",
     "tecnologia-whatsapp-quattro-funzioni-gruppi-ottobre-2026",
     "tecnologia-meta-style-sketch-armadio-ai-asia-2026",
     "tecnologia-anthropic-claude-test-vulnerabilita-browser-2026",
