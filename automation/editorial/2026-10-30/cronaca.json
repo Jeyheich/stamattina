@@ -3,7 +3,7 @@
   "editionDate": "2026-10-30",
   "collectionId": "2026-10-30-pomeriggio",
   "category": "Cronaca",
-  "completedAt": "2026-10-30T15:14:58.604Z",
+  "completedAt": "2026-10-30T15:15:32.651Z",
   "articles": [
     {
       "id": "cronaca-parma-monossido",
@@ -123,6 +123,118 @@
         "access": "free",
         "accessCheckedAt": "2026-10-30T15:14:48.266Z",
         "dateEvidence": "Sky TG24, pagina originale datata 2026-10-30 alle 14:25 Europe/Rome, testo e data letti il 30 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "cronaca-aeroitalia-sardegna",
+      "eventKey": "aeroitalia-minaccia-risoluzione-continuita-sardegna-30-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Aeroitalia avverte: collegamenti con la Sardegna a rischio",
+      "summary": "La compagnia contesta il costo del carburante e le condizioni della continuità territoriale.",
+      "body": [
+        "L'amministratore delegato di Aeroitalia Gaetano Intrieri ha dichiarato che il servizio di continuità territoriale con la Sardegna non è più sostenibile alle condizioni attuali.",
+        "La compagnia riferisce di aver già cancellato uno dei quattro voli giornalieri Olbia-Roma e minaccia di chiedere la risoluzione del contratto in mancanza di risposte dalla Regione. Si tratta di un'ipotesi, non di una cessazione già decisa."
+      ],
+      "publishedAt": "2026-10-30T14:00:00+01:00",
+      "verifiedAt": "2026-10-30T15:15:26.534Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/30/aeroitalia-sardegna-continuita-territoriale",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T15:15:26.534Z",
+        "dateEvidence": "Sky TG24, pubblicazione originale del 2026-10-30 alle 14:00 Europe/Rome, articolo o scheda video letti il 30 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-milano-tangenziale",
+      "eventKey": "milano-manifestanti-blocco-tangenziale-est-30-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Milano, manifestanti dello sciopero bloccano la Tangenziale Est",
+      "summary": "Il corteo ha percorso il tratto tra Cascina Gobba e Lambrate.",
+      "body": [
+        "Circa 30mila manifestanti, secondo il resoconto di Sky TG24, hanno occupato la Tangenziale Est di Milano durante la mobilitazione nazionale del 30 ottobre.",
+        "Il corteo si è spostato dallo svincolo di Cascina Gobba verso Lambrate, con slogan contro il governo e a sostegno della Palestina. La cifra è quella riportata dalla fonte e non una verifica indipendente degli organizzatori."
+      ],
+      "publishedAt": "2026-10-30T15:30:00+01:00",
+      "verifiedAt": "2026-10-30T15:15:26.534Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/video/2026/10/30/sciopero-milano-tangenziale-est-1135893",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T15:15:26.534Z",
+        "dateEvidence": "Sky TG24, pubblicazione originale del 2026-10-30 alle 15:30 Europe/Rome, articolo o scheda video letti il 30 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-torino-idranti",
+      "eventKey": "torino-piazza-castello-cariche-idranti-30-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Torino, cariche e idranti davanti alla Prefettura",
+      "summary": "Le forze dell'ordine hanno respinto una parte del corteo in piazza Castello.",
+      "body": [
+        "A Torino, durante la giornata di sciopero del 30 ottobre, si sono verificate brevi cariche delle forze dell'ordine contro manifestanti in piazza Castello.",
+        "La polizia ha utilizzato anche un idrante per allontanare persone avvicinatesi ai cordoni posti a protezione della Prefettura. La fonte descrive interventi durati pochi secondi."
+      ],
+      "publishedAt": "2026-10-30T13:56:00+01:00",
+      "verifiedAt": "2026-10-30T15:15:26.534Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/video/2026/10/30/sciopero-torino-cariche-idranti-polizia-manifestanti-1135868",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T15:15:26.534Z",
+        "dateEvidence": "Sky TG24, pubblicazione originale del 2026-10-30 alle 13:56 Europe/Rome, articolo o scheda video letti il 30 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-padova-foto-valditara",
+      "eventKey": "padova-studenti-bruciano-foto-valditara-corteo-30-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Padova, studenti bruciano una fotografia del ministro Valditara",
+      "summary": "L'episodio è avvenuto durante il corteo scolastico che chiedeva maggiori fondi per l'istruzione.",
+      "body": [
+        "Migliaia di studenti hanno attraversato il centro di Padova durante la mobilitazione nazionale della scuola del 30 ottobre, dal palazzo del Bo verso la Basilica di Sant'Antonio.",
+        "Nel corso della protesta alcuni partecipanti hanno incendiato una fotografia del ministro dell'Istruzione Giuseppe Valditara. La manifestazione chiedeva interventi sulle condizioni degli istituti e maggiori finanziamenti."
+      ],
+      "publishedAt": "2026-10-30T11:55:00+01:00",
+      "verifiedAt": "2026-10-30T15:15:26.534Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/video/2026/10/30/corteo-padova-studenti-foto-valditara-1135836",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T15:15:26.534Z",
+        "dateEvidence": "Sky TG24, pubblicazione originale del 2026-10-30 alle 11:55 Europe/Rome, articolo o scheda video letti il 30 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-ricostruzione-umbria",
+      "eventKey": "umbria-ricostruzione-2016-2625-cantieri-30-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Sisma 2016, in Umbria conclusi 2.625 cantieri privati",
+      "summary": "Il bilancio a dieci anni dagli eventi sismici fotografa progressi e lavori ancora aperti.",
+      "body": [
+        "A dieci anni dai terremoti del Centro Italia, l'Ufficio speciale ricostruzione Umbria riferisce 2.625 cantieri privati conclusi su 4.054 avviati.",
+        "I contributi concessi per la ricostruzione privata ammontano a 1,64 miliardi di euro, dei quali 1,09 miliardi liquidati. Sul fronte pubblico risultano finanziati 574 interventi per oltre 830 milioni di euro."
+      ],
+      "publishedAt": "2026-10-30T08:22:00+01:00",
+      "verifiedAt": "2026-10-30T15:15:26.534Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/30/terremoto-centro-italia-10-anni",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T15:15:26.534Z",
+        "dateEvidence": "Sky TG24, pubblicazione originale del 2026-10-30 alle 08:22 Europe/Rome, articolo o scheda video letti il 30 ottobre 2026.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
