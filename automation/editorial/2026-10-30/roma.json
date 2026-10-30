@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-10-30",
+  "collectionId": "2026-10-30-mattina",
+  "category": "Roma",
+  "completedAt": "2026-10-30T06:12:03.141Z",
+  "articles": [
+    {
+      "id": "roma-raccordo-incidente-cassia",
+      "eventKey": "roma-gra-incidente-mortale-uscita-cassia-29-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Incidente mortale sul Raccordo, code vicino all'uscita Cassia",
+      "summary": "Una persona è morta in un incidente sulla carreggiata esterna del Gra; sul posto Anas e soccorsi.",
+      "body": [
+        "L'Anas ha comunicato il 29 ottobre un incidente mortale sul Grande raccordo anulare, al chilometro 14,500 della carreggiata esterna, in corrispondenza dell'uscita Cassia.",
+        "L'intervento dei soccorritori e delle forze dell'ordine ha provocato rallentamenti e code durante le operazioni di rilievo e ripristino. La fonte non specifica la dinamica né l'identità della vittima."
+      ],
+      "publishedAt": "2026-10-29T17:18:00+01:00",
+      "verifiedAt": "2026-10-30T06:12:03.141Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/29/incidente-sul-grande-raccordo-anulare-un-morto_3dd79855-bebc-4af5-a780-3adbd600a2d3.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:12:03.141Z",
+        "dateEvidence": "ANSA Lazio, articolo pubblicato il 29 ottobre 2026 alle 17:18 (Roma), ora riportata nella pagina.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-trasporti-sciopero-rinviato",
+      "eventKey": "roma-sciopero-trasporti-30-ottobre-differito",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Trasporti romani regolari il 30 ottobre dopo il rinvio dello sciopero",
+      "summary": "Roma Mobilità conferma il servizio ordinario su Atac, Cotral e operatori privati.",
+      "body": [
+        "Il ministero dei Trasporti ha disposto il differimento dello sciopero di 24 ore inizialmente previsto per venerdì 30 ottobre. Roma Servizi per la Mobilità segnala che Atac, Cotral, operatori privati e Trenitalia svolgeranno il servizio regolare.",
+        "L'avviso ufficiale è stato aggiornato il 29 ottobre: le precedenti comunicazioni sui possibili blocchi dei mezzi non rappresentano quindi l'assetto aggiornato del servizio. Le manifestazioni in piazza restano un tema separato."
+      ],
+      "publishedAt": "2026-10-29",
+      "verifiedAt": "2026-10-30T06:12:03.141Z",
+      "source": {
+        "name": "Roma Servizi per la Mobilità",
+        "url": "https://romamobilita.it/primo-piano/scioperi-il-30-ottobre-agitazione-nazionale-indetta-da-usb-trasporto-pubblico-a-rischio/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:12:03.141Z",
+        "dateEvidence": "Roma Mobilità: pubblicazione iniziale 25 ottobre 2026, aggiornamento del 29 ottobre 2026; ora dell'aggiornamento non indicata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-monte-mario-pratone-tar",
+      "eventKey": "roma-tar-lazio-annulla-decreto-pratone-monte-mario",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Monte Mario, il Tar blocca il progetto sul Pratone",
+      "summary": "Accolto il ricorso contro il decreto regionale che consentiva l'ampliamento della città giudiziaria di piazzale Clodio.",
+      "body": [
+        "Il Tar del Lazio ha accolto il ricorso promosso dai comitati locali contro il decreto del 6 maggio 2025 che avrebbe consentito di derogare alle tutele della riserva naturale di Monte Mario per ampliare la città giudiziaria.",
+        "I ricorrenti sottolineano il valore ambientale e sociale del Pratone, spazio verde utilizzato dai residenti di Prati, Trionfale e Della Vittoria. La decisione riguarda il provvedimento contestato, non un piano alternativo già approvato."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-30T06:12:03.141Z",
+      "source": {
+        "name": "RaiNews TGR Lazio",
+        "url": "https://www.rainews.it/amp/tgr/lazio/articoli/2026/10/il-tar-del-lazio-salva-il-pratone-di-monte-mario--b3f28054-62f7-438f-9f4f-dc2665ec829e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:12:03.141Z",
+        "dateEvidence": "RaiNews TGR Lazio riporta 28/10/2026 come data originale, senza orario di pubblicazione.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Roma%2C_panorama_dal_terrazzo_della_villa_Mellini.jpg",
+        "alt": "Panorama di Roma visto dall'osservatorio di Monte Mario, con Prati e Vaticano",
+        "credit": "Carolina Marconi",
+        "rights": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roma,_panorama_dal_terrazzo_della_villa_Mellini.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "caption": "Repertorio · Panorama dal terrazzo di Villa Mellini a Monte Mario nel 2016; non raffigura direttamente il Pratone oggetto del ricorso.",
+        "reuseApproved": true
+      },
+      "leadPriority": 86
+    },
+    {
+      "id": "roma-iacopini-risveglio-san-camillo",
+      "eventKey": "roma-attore-iacopini-ripresa-conoscenza-san-camillo",
+      "category": "Roma",
+      "status": "verified",
+      "title": "L'attore Davide Iacopini riprende conoscenza dopo l'aggressione",
+      "summary": "Dopo 23 giorni di terapia intensiva è vigile e può proseguire il percorso di riabilitazione.",
+      "body": [
+        "Fonti ospedaliere riferiscono che Davide Iacopini, ricoverato al San Camillo-Forlanini dopo l'aggressione in minicar a Monteverde del 5 ottobre, ha ripreso conoscenza ed è in grado di interagire con familiari e medici.",
+        "La stabilità delle condizioni ha consentito il trasferimento in Neurochirurgia e lo scioglimento della prognosi secondo l'aggiornamento TGR Lazio del 28 ottobre. Il percorso di cura e riabilitazione prosegue."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-30T06:12:03.141Z",
+      "source": {
+        "name": "RaiNews TGR Lazio",
+        "url": "https://www.rainews.it/tgr/lazio/articoli/2026/10/davide-iacopini-ha-ripreso-conoscenza-e-vigile-e-interagisce-coi-medici-5fc8ce6c-9258-46ae-b36f-5e939979b0b4.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:12:03.141Z",
+        "dateEvidence": "RaiNews TGR Lazio, data originale 28/10/2026 visibile nell'articolo; nessun orario pubblicato.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-ostia-donna-38-anni-inchiesta",
+      "eventKey": "roma-procura-inchiesta-morte-donna-38-anni-ostia",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Morte di una donna di 38 anni, la Procura di Roma apre accertamenti",
+      "summary": "L'autopsia dovrà chiarire le cause del decesso dopo diversi accessi in ospedale.",
+      "body": [
+        "La Procura di Roma ha aperto un'indagine dopo la morte il 25 ottobre di una donna di 38 anni, madre di due figli, che secondo i familiari aveva avuto problemi di salute iniziati dopo una presunta puntura d'insetto.",
+        "La ricostruzione dei familiari menziona più accessi ospedalieri e un rapido aggravamento. L'ipotesi di una puntura di ragno violino e quella di eventuali responsabilità sanitarie non sono accertate: sarà l'autopsia a contribuire a chiarire le cause."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-10-30T06:12:03.141Z",
+      "source": {
+        "name": "RaiNews TGR Lazio",
+        "url": "https://www.rainews.it/tgr/lazio/articoli/2026/10/morta-a-38-anni-dopo-presunta-puntura-dinsetto-la-procura-di-roma-apre-uninchiesta-42a6dfd2-93d5-471c-b61f-7b1de2174ae1.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:12:03.141Z",
+        "dateEvidence": "RaiNews TGR Lazio, pubblicazione 28/10/2026, orario non specificato nella pagina.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
+}
