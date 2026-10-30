@@ -3,7 +3,7 @@
   "editionDate": "2026-10-30",
   "collectionId": "2026-10-30-pomeriggio",
   "category": "Politica",
-  "completedAt": "2026-10-30T16:10:24+01:00",
+  "completedAt": "2026-10-30T16:11:17+01:00",
   "articles": [
     {
       "id": "politica-campo-largo-programma-primarie-ottobre",
@@ -121,5 +121,116 @@
       "leadPriority": 75
     }
   ],
-  "reserveArticles": []
+  "reserveArticles": [
+    {
+      "id": "politica-mattarella-risparmio-protezione-cittadini",
+      "eventKey": "mattarella-giornata-risparmio-tutela-cittadini-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Mattarella richiama la tutela del risparmio contro inflazione e speculazione",
+      "summary": "Nel messaggio per la Giornata del Risparmio, il presidente della Repubblica invoca regole di protezione anche per i nuovi strumenti finanziari.",
+      "body": [
+        "Sergio Mattarella ha osservato che inflazione, conflitti internazionali e salari deboli incidono sul tenore di vita delle famiglie.",
+        "Il Capo dello Stato ha richiamato l'articolo 47 della Costituzione e la necessità di applicare le garanzie sul risparmio anche agli strumenti finanziari innovativi."
+      ],
+      "publishedAt": "2026-10-30T15:39:00+01:00",
+      "verifiedAt": "2026-10-30T16:11:17+01:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/30/mattarella-il-tenore-di-vita-dei-cittadini-aggredito-da-inflazione-e-salari-che-non_fbf81388-8261-49c1-b8fb-51bac0327c85.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:11:17+01:00",
+        "dateEvidence": "ROMA, 30 ottobre 2026, 15:39, ANSA; messaggio alla Giornata del Risparmio.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-borghi-convegno-senato-vaccini",
+      "eventKey": "borghi-convegno-senato-danneggiati-vaccini-28-ottobre",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Convegno sui vaccini in Senato, polemica tra Borghi e il Pd",
+      "summary": "Il senatore leghista Claudio Borghi ospita un incontro di associazioni che denunciano danni da vaccini; il Pd critica l'iniziativa.",
+      "body": [
+        "Al Senato si è tenuto un convegno promosso a titolo personale da Claudio Borghi con la partecipazione di associazioni di persone che riferiscono presunti danni da vaccinazioni.",
+        "Esponenti del Pd hanno contestato l'iniziativa. Le affermazioni dei partecipanti non sono qui trattate come prova scientifica di nessi causali tra vaccini e singoli eventi."
+      ],
+      "publishedAt": "2026-10-28T19:56:00+01:00",
+      "verifiedAt": "2026-10-30T16:11:17+01:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/il-leghista-borghi-chiama-no-vax-e-vittime-dei-vaccini-al-senato-scontro-col_dd738e56-052d-48e2-8391-3c96641b6bff.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:11:17+01:00",
+        "dateEvidence": "ROMA, 28 ottobre 2026, 19:56, reportage ANSA.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-de-luca-alleanza-sindaci-centrodestra",
+      "eventKey": "de-luca-sud-chiama-nord-sindaci-italia-centrodestra-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "De Luca presenta la lista dei sindaci e l'intesa con il centrodestra",
+      "summary": "Cateno De Luca punta a portare la nuova formazione civica oltre il 3%; Meloni saluta il progetto con un videomessaggio.",
+      "body": [
+        "Alla convention romana, Cateno De Luca ha presentato il progetto Sud chiama Nord-Sindaci d'Italia e la collaborazione con il centrodestra.",
+        "Il leader ha ipotizzato elezioni il 9 e 10 maggio 2027: si tratta di una sua previsione, non di una data elettorale ufficialmente fissata."
+      ],
+      "publishedAt": "2026-10-29T19:58:00+01:00",
+      "verifiedAt": "2026-10-30T16:11:17+01:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/ansacateno-de-luca-vuol-contare-nel-centrodestra-voto-a-maggio_1d932b47-d181-4679-82c8-62b8f04bf021.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:11:17+01:00",
+        "dateEvidence": "ROMA, 29 ottobre 2026, 19:58, reportage ANSA.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-piantedosi-prevenzione-cortei-30-ottobre",
+      "eventKey": "piantedosi-coordinamento-prefetti-cortei-30-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Piantedosi annuncia un coordinamento nazionale in vista dei cortei",
+      "summary": "Il ministro dell'Interno segnala attenzione per possibili tensioni ma esprime fiducia nella gestione delle autorità territoriali.",
+      "body": [
+        "Alla vigilia delle manifestazioni del 30 ottobre, Matteo Piantedosi ha riferito che avrebbe incontrato in videocollegamento prefetti e questori delle città interessate.",
+        "Il ministro ha dichiarato che i rischi esistono ma sono gestibili con l'esperienza già maturata dalle forze di polizia, senza presentare nuovi allarmi specifici."
+      ],
+      "publishedAt": "2026-10-29T11:54:00+01:00",
+      "verifiedAt": "2026-10-30T16:11:17+01:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/cortei-piantedosi-gli-allarmi-ci-sono-ma-nulla-di-diverso-a-quanto-trattato-finora_ab6c62d9-05a4-4625-aa44-5c8f03882e43.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:11:17+01:00",
+        "dateEvidence": "29 ottobre 2026, 11:54, articolo ANSA; dichiarazioni alla vigilia dei cortei.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-anm-milano-denuncia-attacchi-magistrate",
+      "eventKey": "anm-milano-denuncia-attacchi-sessisti-magistrate-siher-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "L'Anm di Milano denuncia attacchi sessisti contro due magistrate",
+      "summary": "L'associazione dei magistrati segnala insulti e immagini diffuse online contro la gip e una pm coinvolte nel caso Siher.",
+      "body": [
+        "L'Anm milanese ha denunciato la diffusione di immagini di magistrate accompagnate da commenti che definisce diffamatori e sessisti.",
+        "La nota si riferisce alla gip Tiziana Landoni, intervenuta nel caso Youssef Siher, e alla pm Francesca Crupi, la cui fotografia sarebbe stata scambiata per quella della giudice."
+      ],
+      "publishedAt": "2026-10-30T13:40:00+01:00",
+      "verifiedAt": "2026-10-30T16:11:17+01:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/caso-siher-anm-milano-inauditi-attacchi-sessisti-a-giudice-e-pm_919da537-8173-420c-8273-6609f05a8636.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:11:17+01:00",
+        "dateEvidence": "MILANO, 30 ottobre 2026, 13:40, dichiarazione ANM riportata da ANSA.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
 }
