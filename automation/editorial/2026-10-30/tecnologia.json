@@ -3,7 +3,7 @@
   "editionDate": "2026-10-30",
   "collectionId": "2026-10-30-pomeriggio",
   "category": "Tecnologia · AI",
-  "completedAt": "2026-10-30T16:12:52.573Z",
+  "completedAt": "2026-10-30T16:12:57.795Z",
   "articles": [
     {
       "id": "tecnologia-reddit-login-contro-scraping-ai-2026",
@@ -112,6 +112,118 @@
         "access": "free",
         "accessCheckedAt": "2026-10-30T16:12:51.836Z",
         "dateEvidence": "Everyeye: intestazione «30/10/2026, ore 11:02»; dettagli dell'intervista EDGE.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "tecnologia-whatsapp-quattro-funzioni-gruppi-ottobre-2026",
+      "eventKey": "whatsapp-quattro-funzioni-gruppi-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "WhatsApp aggiorna i gruppi con filtri, messaggi fissati e stati",
+      "summary": "Le novità includono risposte e menzioni evidenziate, messaggi recenti per i nuovi membri e stati riservati al gruppo.",
+      "body": [
+        "WhatsApp annuncia quattro interventi dedicati alle chat collettive: filtro per menzioni e risposte, messaggi fissati senza il precedente limite di durata e condivisione di alcuni messaggi precedenti con chi entra nel gruppo.",
+        "Arrivano anche stati visibili soltanto ai partecipanti di uno specifico gruppo, con scadenza dopo 24 ore. Il rilascio è progressivo e le funzioni potrebbero non comparire subito su tutti i dispositivi."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-10-30T16:12:51.836Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/whatsapp-quattro-novita-chat-gruppo/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:12:51.836Z",
+        "dateEvidence": "Punto Informatico: «Pubblicato il 30 ott 2026»; quattro funzioni WhatsApp e rollout.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-meta-style-sketch-armadio-ai-asia-2026",
+      "eventKey": "meta-style-sketch-armadio-ai-asia-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Meta sperimenta Style Sketch, guardaroba virtuale con AI",
+      "summary": "L'app propone abbinamenti usando foto dei vestiti e, facoltativamente, immagini collegate a Instagram.",
+      "body": [
+        "Style Sketch è una nuova applicazione di Meta che costruisce un inventario dei capi dell'utente da immagini e video, oppure da foto già condivise su Instagram. Il sistema propone outfit basati su indumenti posseduti.",
+        "La funzione per preparare la valigia combina destinazione, durata e attività del viaggio. Al lancio l'app è segnalata soltanto in Indonesia, Singapore e Thailandia: non è confermata una distribuzione in Italia."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-10-30T16:12:51.836Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/style-sketch-app-ai-meta-crea-outfit-propri-vestiti/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:12:51.836Z",
+        "dateEvidence": "Punto Informatico: «Pubblicato il 30 ott 2026»; disponibilità limitata nel Sud-est asiatico.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-anthropic-claude-test-vulnerabilita-browser-2026",
+      "eventKey": "anthropic-claude-test-vulnerabilita-browser-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Un Claude sperimentale trova catene di vulnerabilità nei test di sicurezza",
+      "summary": "Anthropic riferisce prove su browser e sistemi operativi; le falle individuate sono state segnalate e corrette.",
+      "body": [
+        "Un rapporto Anthropic del 27 ottobre descrive l'uso di un modello sperimentale e di più agenti per individuare e concatenare vulnerabilità. Tra i sistemi esaminati figurano Chrome, Safari, Android, Windows e Linux.",
+        "Punto Informatico riferisce di 62 vulnerabilità di Chrome segnalate a Google, poi corrette. Si tratta di esperimenti controllati e di capacità dichiarate dal produttore: non di attacchi malevoli documentati né di una versione pubblica del modello."
+      ],
+      "publishedAt": "2026-10-29",
+      "verifiedAt": "2026-10-30T16:12:51.836Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/claude-ha-hackerato-chrome-safari-android-pochi-secondi/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:12:51.836Z",
+        "dateEvidence": "Punto Informatico: «Pubblicato il 29 ott 2026»; rapporto Anthropic diffuso il 27 ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-clair-obscur-doppiatori-italiani-video-fan-2026",
+      "eventKey": "clair-obscur-doppiatori-italiani-video-fan-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Due doppiatori italiani reinterpretano una scena di Clair Obscur",
+      "summary": "Alessandro Campaiola e Andrea Ward hanno registrato un video non ufficiale: non è un annuncio di localizzazione del gioco.",
+      "body": [
+        "Alessandro Campaiola ha pubblicato nella propria rubrica social una scena doppiata in italiano di Clair Obscur: Expedition 33, insieme ad Andrea Ward. I due interpretano Renoir e Verso.",
+        "L'iniziativa è indipendente dagli sviluppatori e non equivale all'arrivo di un doppiaggio ufficiale italiano. La sequenza scelta è avanzata nella storia e può anticipare elementi narrativi a chi non ha completato il gioco."
+      ],
+      "publishedAt": "2026-10-30T11:59:00+01:00",
+      "verifiedAt": "2026-10-30T16:12:51.836Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/clair-obscur-expedition-33-doppiato-italiano-video-alessandro-campaiola-sognare-fan-908855.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:12:51.836Z",
+        "dateEvidence": "Everyeye: intestazione «30/10/2026, ore 11:59»; video social dei doppiatori.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-resident-evil-outbreak-progetto-fan-browser-2026",
+      "eventKey": "resident-evil-outbreak-progetto-fan-browser-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Un progetto amatoriale porta Resident Evil Outbreak nel browser",
+      "summary": "Un appassionato ha mostrato versioni sperimentali dei due titoli cooperativi, con prestazioni variabili.",
+      "body": [
+        "Everyeye segnala un progetto non ufficiale che tenta di rendere giocabili dal browser Resident Evil Outbreak e il seguito, originariamente pubblicati su PlayStation 2. L'iniziativa è stata condivisa da un appassionato online.",
+        "Le prestazioni dipendono dal browser e dall'accelerazione hardware. Il progetto non è una rimasterizzazione autorizzata da Capcom; l'articolo non documenta una verifica indipendente dei diritti di distribuzione."
+      ],
+      "publishedAt": "2026-10-30T13:04:00+01:00",
+      "verifiedAt": "2026-10-30T16:12:51.836Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/resident-evil-outbreak-giocabili-gratis-browser-scaricare-nulla-908869.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T16:12:51.836Z",
+        "dateEvidence": "Everyeye: intestazione «30/10/2026, ore 13:04»; progetto fan condiviso originariamente il 21 ottobre.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
