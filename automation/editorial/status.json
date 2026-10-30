@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-30",
-  "checkedAt": "2026-10-30T05:07:55.023Z",
+  "checkedAt": "2026-10-30T05:16:07.816Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,12 +13,12 @@
   ],
   "completed": [
     "politica",
-    "esteri"
+    "esteri",
+    "economia",
+    "cronaca"
   ],
   "inProgress": [],
   "missing": [
-    "economia",
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -85,6 +85,66 @@
       "category": "Esteri",
       "title": "Brasile, azione giudiziaria contro Meta per post di pressione elettorale",
       "eventKey": "brasile-meta-causa-coercizione-elettorale"
+    },
+    {
+      "id": "economia-bce-tassi-29-ottobre",
+      "category": "Economia",
+      "title": "Bce, tassi fermi: depositi al 2,50%",
+      "eventKey": "bce-tassi-fermi-29-ottobre-2026"
+    },
+    {
+      "id": "economia-lagarde-uscita-bce",
+      "category": "Economia",
+      "title": "Lagarde annuncia l'uscita anticipata dalla guida della Bce",
+      "eventKey": "lagarde-annuncia-dimissioni-bce-29-ottobre-2026"
+    },
+    {
+      "id": "economia-ex-ilva-area-caldo",
+      "category": "Economia",
+      "title": "Ex Ilva, confermato lo stop all'area a caldo di Taranto",
+      "eventKey": "ex-ilva-cassazione-stop-area-caldo-29-ottobre-2026"
+    },
+    {
+      "id": "economia-volkswagen-perdita-trimestre",
+      "category": "Economia",
+      "title": "Volkswagen chiude il trimestre con una perdita di 5,82 miliardi",
+      "eventKey": "volkswagen-perdita-terzo-trimestre-2026"
+    },
+    {
+      "id": "economia-italiani-risparmi-bunq",
+      "category": "Economia",
+      "title": "Sondaggio bunq: il 73% degli intervistati ha usato i risparmi",
+      "eventKey": "sondaggio-bunq-risparmi-italiani-73-percento-2026"
+    },
+    {
+      "id": "cronaca-bosnia-elicottero-italiani",
+      "category": "Cronaca",
+      "title": "Bosnia, precipita un elicottero italiano: quattro vittime",
+      "eventKey": "bosnia-elicottero-eufor-quattro-italiani-morti-2026"
+    },
+    {
+      "id": "cronaca-verona-arresto-insulina",
+      "category": "Cronaca",
+      "title": "Verona, infermiere arrestato per la morte della moglie",
+      "eventKey": "verona-infermiere-arrestato-morte-moglie-insulina-2026"
+    },
+    {
+      "id": "cronaca-milano-terrorismo-arresto",
+      "category": "Cronaca",
+      "title": "Milano, arrestato un 22enne indagato per terrorismo",
+      "eventKey": "milano-arresto-22enne-progetti-attentati-luoghi-culto-2026"
+    },
+    {
+      "id": "cronaca-salerno-escavatore-cavalcavia",
+      "category": "Cronaca",
+      "title": "Salerno, escavatore urta un cavalcavia: strada chiusa",
+      "eventKey": "salerno-escavatore-cavalcavia-detriti-auto-29-ottobre-2026"
+    },
+    {
+      "id": "cronaca-nordest-furti-metalli",
+      "category": "Cronaca",
+      "title": "Furti di rame e metalli nel Nordest, sette misure cautelari",
+      "eventKey": "padova-indagine-furti-rame-metalli-sette-misure-2026"
     },
     {
       "id": "politica-meloni-trump-vicinanza-interesse-nazionale",
@@ -158,8 +218,19 @@
     "Tecnologia · AI": 0,
     "Sport": 0
   },
-  "photoCandidates": [],
-  "photosAvailable": 0,
+  "photoCandidates": [
+    {
+      "id": "economia-bce-tassi-29-ottobre",
+      "category": "Economia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ECB_headquarters,_Frankfurt_140827_1.jpg"
+    },
+    {
+      "id": "cronaca-milano-terrorismo-arresto",
+      "category": "Cronaca",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_159_Carabinieri.jpg"
+    }
+  ],
+  "photosAvailable": 2,
   "categoryProgress": {
     "politica": {
       "base": 5,
@@ -174,13 +245,13 @@
       "complete": true
     },
     "economia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cronaca": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
