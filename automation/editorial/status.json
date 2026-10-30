@@ -1,10 +1,9 @@
 {
   "editionDate": "2026-10-30",
-  "checkedAt": "2026-10-30T05:06:48.105Z",
+  "checkedAt": "2026-10-30T05:07:20.425Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
-    "politica",
     "esteri",
     "economia",
     "cronaca",
@@ -87,11 +86,41 @@
       "category": "Esteri",
       "title": "Brasile, azione giudiziaria contro Meta per post di pressione elettorale",
       "eventKey": "brasile-meta-causa-coercizione-elettorale"
+    },
+    {
+      "id": "politica-meloni-trump-vicinanza-interesse-nazionale",
+      "category": "Politica",
+      "title": "Meloni rivendica la scelta di mantenere un rapporto stretto con Trump",
+      "eventKey": "meloni-trump-vicinanza-interesse-nazionale"
+    },
+    {
+      "id": "politica-piantedosi-piano-sicurezza-cortei-30-ottobre",
+      "category": "Politica",
+      "title": "Piantedosi prepara il coordinamento delle forze di polizia per i cortei",
+      "eventKey": "piantedosi-piano-sicurezza-cortei-30-ottobre"
+    },
+    {
+      "id": "politica-consiglio-ministri-manovra-26-miliardi",
+      "category": "Politica",
+      "title": "Il governo approva una legge di bilancio da circa 26 miliardi",
+      "eventKey": "consiglio-ministri-manovra-26-miliardi"
+    },
+    {
+      "id": "politica-acquaroli-inchiesta-ricostruzione-sisma-marche",
+      "category": "Politica",
+      "title": "Acquaroli interviene sull'inchiesta legata alla ricostruzione nelle Marche",
+      "eventKey": "acquaroli-inchiesta-ricostruzione-sisma-marche"
+    },
+    {
+      "id": "politica-csm-richiesta-tutela-gip-landoni",
+      "category": "Politica",
+      "title": "Il Csm riceve una richiesta di tutela per la giudice del caso Siher",
+      "eventKey": "csm-richiesta-tutela-gip-landoni"
     }
   ],
   "collectionId": "2026-10-30-mattina",
   "reserveCounts": {
-    "Politica": 0,
+    "Politica": 5,
     "Esteri": 0,
     "Economia": 0,
     "Cronaca": 0,
@@ -105,9 +134,9 @@
   "categoryProgress": {
     "politica": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "esteri": {
       "base": 5,
