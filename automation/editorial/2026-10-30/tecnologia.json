@@ -120,5 +120,117 @@
       },
       "leadPriority": 88
     }
+  ],
+  "reserveArticles": [
+    {
+      "id": "tecnologia-skynet-llmjacking-agente-cryptominer-2026",
+      "eventKey": "skynet-llmjacking-agente-cryptominer-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Un agente automatizzato sfrutta modelli AI esposti per furti e mining",
+      "summary": "Symantec descrive un sistema che cerca servizi non protetti e ne abusa per azioni malevole.",
+      "body": [
+        "Secondo l'analisi di Symantec ripresa da Punto Informatico, una modalità chiamata Skynet automatizza la ricerca di modelli di intelligenza artificiale accessibili senza protezioni.",
+        "L'abuso può comportare sottrazione di credenziali, installazione di cryptominer e costi di calcolo a carico dei proprietari dei modelli esposti. La notizia riguarda una campagna osservata dagli analisti, non un difetto universale di tutti i chatbot."
+      ],
+      "publishedAt": "2026-10-29",
+      "verifiedAt": "2026-10-30T06:10:27Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/agente-skynet-installa-cryptominer-ruba-credenziali/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:10:27Z",
+        "dateEvidence": "Punto Informatico, «Pubblicato il 29 ott 2026», ricerca Symantec e dettagli LLMjacking.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-chrome-gemini-gmail-compilazione-moduli-2026",
+      "eventKey": "chrome-gemini-gmail-compilazione-moduli-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Chrome usa Gemini per recuperare da Gmail dati utili ai moduli",
+      "summary": "La funzione inizialmente statunitense propone informazioni di ordini, viaggi e spedizioni.",
+      "body": [
+        "Google ha presentato un'evoluzione della compilazione automatica di Chrome che può usare Gemini con Personal Intelligence per ricavare dalla posta dettagli come codici di prenotazione o numeri di spedizione.",
+        "Secondo l'articolo, la funzione parte dagli Stati Uniti e richiede l'attivazione di Personal Intelligence. Gli utenti possono regolare o disabilitare gli accessi nelle impostazioni del browser."
+      ],
+      "publishedAt": "2026-10-29",
+      "verifiedAt": "2026-10-30T06:10:27Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/chrome-usa-gemini-compilare-moduli-dati-gmail/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:10:27Z",
+        "dateEvidence": "Punto Informatico, «Pubblicato il 29 ott 2026», lancio statunitense descritto nella pagina.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-sony-elf-mn1-display-3d-senza-occhiali-2026",
+      "eventKey": "sony-elf-mn1-display-3d-senza-occhiali-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Sony mostra un piccolo display 3D senza occhiali da scrivania",
+      "summary": "Il modello ELF-MN1 da sei pollici è destinato inizialmente al mercato giapponese.",
+      "body": [
+        "Sony ha presentato in Giappone il display ELF-MN1, con microlenti e tracciamento degli occhi per creare un effetto tridimensionale senza occhiali. Il dispositivo è pensato per la visione da parte di una persona a distanza ravvicinata.",
+        "L'uscita giapponese è indicata per l'11 dicembre 2026, con prezzo di 53.900 yen. Non è stata annunciata una distribuzione italiana."
+      ],
+      "publishedAt": "2026-10-29",
+      "verifiedAt": "2026-10-30T06:10:27Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/sony-rilancia-3d-senza-occhiali-sulla-scrivania/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:10:27Z",
+        "dateEvidence": "Punto Informatico, «Pubblicato il 29 ott 2026»; presentazione Sony del 28 ottobre e uscita prevista a dicembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-gta6-scooter-brothers-app-veicoli-2026",
+      "eventKey": "gta6-scooter-brothers-app-veicoli-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "GTA 6 cita un vecchio meme con un'app per richiamare veicoli",
+      "summary": "Un dettaglio di gameplay descritto da Everyeye richiama la gag Scooter Brothers di GTA IV.",
+      "body": [
+        "Un approfondimento citato da Everyeye descrive un'app di Grand Theft Auto VI che consentirebbe di richiedere la consegna di un veicolo sul posto. Il nome Scooter Brothers richiama un meme nato intorno a GTA IV.",
+        "La pagina distingue il dettaglio riportato dalla speculazione su come avverrà materialmente la consegna: quest'ultima non è confermata. La notizia riguarda una singola meccanica, non una nuova data di uscita."
+      ],
+      "publishedAt": "2026-10-30T00:03:00+01:00",
+      "verifiedAt": "2026-10-30T06:10:27Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/meccanica-gta-6-ispirata-leggendario-meme-908789.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:10:27Z",
+        "dateEvidence": "Everyeye, pubblicato il 30/10/2026 alle 00:03; riferisce un articolo di EDGE sul gioco.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-super-mario64-progetto-mixed-reality-lucas-martinic-2026",
+      "eventKey": "super-mario64-progetto-mixed-reality-lucas-martinic-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Un progetto amatoriale porta Super Mario 64 nella realtà mista",
+      "summary": "Lo sviluppatore Lucas Martinic mostra Mario su una scrivania attraverso un visore PICO.",
+      "body": [
+        "Lucas Martinic ha mostrato una dimostrazione indipendente di Super Mario 64 in realtà mista, con un ambiente 3D che sembra fluttuare nella stanza e un personaggio che può essere spostato fuori dalla finestra di gioco.",
+        "Il prototipo, dichiarato a 90 fotogrammi al secondo, non è un prodotto ufficiale Nintendo o PICO. Al momento non è stata annunciata una distribuzione pubblica."
+      ],
+      "publishedAt": "2026-10-29T23:14:00+01:00",
+      "verifiedAt": "2026-10-30T06:10:27Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/super-mario-64-giocabile-realta-visore-vr-908786.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-30T06:10:27Z",
+        "dateEvidence": "Everyeye, pubblicato il 29/10/2026 alle 23:14; video sviluppatore citato e limiti del progetto.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
   ]
 }
