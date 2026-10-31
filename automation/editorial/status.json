@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-31",
-  "checkedAt": "2026-10-31T05:11:22.037Z",
+  "checkedAt": "2026-10-31T05:11:34.913Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,11 +14,11 @@
     "sport"
   ],
   "completed": [
-    "politica"
+    "politica",
+    "esteri"
   ],
   "inProgress": [],
   "missing": [
-    "esteri",
     "economia",
     "cronaca",
     "roma",
@@ -57,6 +57,36 @@
       "category": "Politica",
       "title": "Liberaldemocratici, confronto interno sulla linea di Marattin",
       "eventKey": "partito-liberaldemocratico-marattin-tensioni-direzione-3-novembre"
+    },
+    {
+      "id": "esteri-polonia-corte-costituzionale-proteste",
+      "category": "Esteri",
+      "title": "Polonia, proteste davanti alla Corte costituzionale",
+      "eventKey": "polonia-sospensione-presidente-corte-costituzionale-proteste-2026"
+    },
+    {
+      "id": "esteri-g20-lavrov-foto-gruppo-annullata",
+      "category": "Esteri",
+      "title": "G20, annullata la foto dei ministri per la presenza di Lavrov",
+      "eventKey": "g20-atlanta-lavrov-foto-gruppo-annullata-boicottaggio-2026"
+    },
+    {
+      "id": "esteri-usa-patriot-ucraina-2-1-miliardi",
+      "category": "Esteri",
+      "title": "Washington approva una possibile fornitura di Patriot a Kiev",
+      "eventKey": "usa-approvazione-potenziale-vendita-patriot-ucraina-2-1-miliardi-2026"
+    },
+    {
+      "id": "esteri-etiopia-campo-sfollati-attacco",
+      "category": "Esteri",
+      "title": "Etiopia, attacchi contro un campo di sfollati nell'Amhara",
+      "eventKey": "etiopia-amhara-attacco-droni-campo-jari-sfollati-ottobre-2026"
+    },
+    {
+      "id": "esteri-ue-tranche-45-miliardi-kiev",
+      "category": "Esteri",
+      "title": "Commissione europea, proposta una tranche da 45 miliardi per l'Ucraina",
+      "eventKey": "commissione-europea-proposta-tranche-45-miliardi-ucraina-2027"
     }
   ],
   "collectionId": "2026-10-31-mattina",
@@ -80,7 +110,7 @@
       "complete": false
     },
     "esteri": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
