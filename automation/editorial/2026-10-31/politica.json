@@ -3,7 +3,7 @@
   "editionDate": "2026-10-31",
   "collectionId": "2026-10-31-pomeriggio",
   "category": "Politica",
-  "completedAt": "2026-10-31T15:04:00.522Z",
+  "completedAt": "2026-10-31T15:04:40.818Z",
   "articles": [
     {
       "id": "politica-bilancio-2027-autorizzazione-colle",
@@ -131,5 +131,116 @@
       "leadPriority": 75
     }
   ],
-  "reserveArticles": []
+  "reserveArticles": [
+    {
+      "id": "politica-mattarella-risparmio-salari",
+      "eventKey": "mattarella-messaggio-giornata-risparmio-salari-inflazione-30-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Mattarella richiama il peso di inflazione e salari sulle famiglie",
+      "summary": "Nel messaggio per la Giornata del Risparmio il capo dello Stato invita a proteggere risparmi e potere d'acquisto.",
+      "body": [
+        "Sergio Mattarella ha segnalato che l'aumento dei prezzi e la debolezza dei salari erodono il tenore di vita, richiamando la tutela costituzionale del risparmio.",
+        "Il messaggio mette in guardia anche sui nuovi strumenti finanziari e sulla necessità di indirizzare il risparmio verso investimenti sicuri e produttivi."
+      ],
+      "publishedAt": "2026-10-30T17:50:00+01:00",
+      "verifiedAt": "2026-10-31T15:04:40.818Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/30/mattarella-il-tenore-di-vita-dei-cittadini-aggredito-da-inflazione-e-salari-che-non_fbf81388-8261-49c1-b8fb-51bac0327c85.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T15:04:40.818Z",
+        "dateEvidence": "Pagina ANSA con data originale 2026-10-30 ore 17:50 (Europe/Rome), testo e data riletti il 31 ottobre pomeriggio.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-carabinieri-ausiliari-manovra",
+      "eventKey": "manovra-2027-reintroduce-carabinieri-ausiliari-riserva-volontaria",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Nel disegno di legge di bilancio torna la figura dei carabinieri ausiliari",
+      "summary": "La proposta prevede fino a 600 arruolamenti nel 2027 e mille l'anno dal 2028.",
+      "body": [
+        "L'articolo 93 della manovra istituisce una riserva volontaria con ferma iniziale di dodici mesi per candidati fino a 26 anni.",
+        "Il testo, ancora da approvare in Parlamento, prevede formazione iniziale e una possibile quota riservata nei successivi concorsi per l'Arma."
+      ],
+      "publishedAt": "2026-10-31T11:18:00+01:00",
+      "verifiedAt": "2026-10-31T15:04:40.818Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/manovra-tornano-i-carabinieri-ausiliari-600-nel-2027-e-1000-lanno-dal_b86e422d-3483-48cb-8360-a8c1e43e74e0.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T15:04:40.818Z",
+        "dateEvidence": "Pagina ANSA con data originale 2026-10-31 ore 11:18 (Europe/Rome), testo e data riletti il 31 ottobre pomeriggio.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-gcap-finanziamento-manovra",
+      "eventKey": "manovra-2027-2028-risorse-gigo-gcap-48-milioni",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Gcap, il bilancio prevede 48 milioni in più per il coordinamento",
+      "summary": "Le risorse aggiuntive servirebbero al funzionamento dell'organizzazione del programma aereo con Regno Unito e Giappone.",
+      "body": [
+        "L'articolo 95 del disegno di legge di bilancio stanzia circa 32,3 milioni nel 2027 e 15,6 nel 2028 per la struttura intergovernativa Gigo.",
+        "Il finanziamento non riguarda direttamente la costruzione dei caccia, ma i costi di gestione e coordinamento del programma internazionale."
+      ],
+      "publishedAt": "2026-10-31T10:50:00+01:00",
+      "verifiedAt": "2026-10-31T15:04:40.818Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/manovra-48-milioni-in-piu-per-il-gcap-il-caccia-con-londra-e-tokyo_a897b0de-b689-4987-a06e-c6ebe71b5579.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T15:04:40.818Z",
+        "dateEvidence": "Pagina ANSA con data originale 2026-10-31 ore 10:50 (Europe/Rome), testo e data riletti il 31 ottobre pomeriggio.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-meloni-omaggio-militari-bosnia",
+      "eventKey": "meloni-crosetto-omaggio-quattro-militari-bosnia-30-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Meloni e Crosetto ricordano i quattro militari morti in Bosnia",
+      "summary": "La premier invita a lasciare un fiore al Villaggio della Difesa allestito al Circo Massimo.",
+      "body": [
+        "Il 30 ottobre Giorgia Meloni ha comunicato di avere deposto con il ministro Guido Crosetto un mazzo di rose per le quattro vittime italiane dell'incidente in Bosnia.",
+        "Il Villaggio della Difesa a Roma è stato indicato come luogo pubblico di raccoglimento e solidarietà con le famiglie e i feriti."
+      ],
+      "publishedAt": "2026-10-30T10:10:00+01:00",
+      "verifiedAt": "2026-10-31T15:04:40.818Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/30/meloni-ricorda-militari-morti-in-bosnia-4-vite-spezzate-mentre-servivano-litalia_9ff1cc3a-9684-4367-802a-3f98f705fce4.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T15:04:40.818Z",
+        "dateEvidence": "Pagina ANSA con data originale 2026-10-30 ore 10:10 (Europe/Rome), testo e data riletti il 31 ottobre pomeriggio.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-viminale-piano-cortei",
+      "eventKey": "viminale-coordinamento-prefetti-dispositivo-cortei-29-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Il Viminale coordina prefetti e questori per la gestione dei cortei",
+      "summary": "Piantedosi ha annunciato un dispositivo di sicurezza per tutelare le manifestazioni e contenere gli episodi violenti.",
+      "body": [
+        "Il ministro dell'Interno ha riunito in videoconferenza i vertici territoriali della sicurezza il 29 ottobre, alla vigilia dello sciopero generale.",
+        "L'obiettivo dichiarato è presidiare le aree sensibili delle città e garantire il diritto a manifestare pacificamente, isolando eventuali responsabili di violenze."
+      ],
+      "publishedAt": "2026-10-29T15:20:00+01:00",
+      "verifiedAt": "2026-10-31T15:04:40.818Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://videoembed.ansa.it/sito/notizie/cronaca/2026/10/29/il-viminale-in-campo-dispositivo-per-isolare-i-violenti-nei-cortei_1272a9ff-36d1-493f-9619-f221cfe216ff.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T15:04:40.818Z",
+        "dateEvidence": "Pagina ANSA con data originale 2026-10-29 ore 15:20 (Europe/Rome), testo e data riletti il 31 ottobre pomeriggio.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
 }
