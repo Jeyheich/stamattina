@@ -3,7 +3,7 @@
   "editionDate": "2026-10-31",
   "collectionId": "2026-10-31-pomeriggio",
   "category": "Esteri",
-  "completedAt": "2026-10-31T15:04:19.552Z",
+  "completedAt": "2026-10-31T15:05:16.870Z",
   "articles": [
     {
       "id": "esteri-oleshky-tregua-evacuazione",
@@ -121,5 +121,116 @@
       "leadPriority": 86
     }
   ],
-  "reserveArticles": []
+  "reserveArticles": [
+    {
+      "id": "esteri-zelensky-patriot-tempi-consegna",
+      "eventKey": "zelensky-chiede-patriot-urgenti-inverno-consegne-anni-31-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Zelensky chiede Patriot subito, non tra alcuni anni",
+      "summary": "Kiev sollecita forniture immediate per proteggere le infrastrutture energetiche durante l'inverno.",
+      "body": [
+        "Il presidente ucraino ha accolto con favore l'autorizzazione statunitense all'acquisto di nuovi sistemi e intercettori Patriot, ma ha segnalato che le consegne programmate potrebbero iniziare soltanto fra anni.",
+        "Zelensky propone di usare le scorte degli alleati e reintegrarle in seguito, indicando come obiettivo cento intercettori al mese. Si tratta di una richiesta, non di un accordo di consegna immediata."
+      ],
+      "publishedAt": "2026-10-31T07:47:00+01:00",
+      "verifiedAt": "2026-10-31T15:05:16.870Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/31/zelensky-i-500-patriot-usa-fra-anni-ma-dobbiamo-difenderci-questo-inverno_c67716a2-d755-40de-913d-341bb36cc898.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T15:05:16.870Z",
+        "dateEvidence": "ANSA Mondo: pubblicato 2026-10-31 alle 07:47 ora di Roma, fonte originale riletta il 31 ottobre pomeriggio.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-panama-canale-priorita-transiti",
+      "eventKey": "panama-canale-nuove-regole-prenotazione-netzero-31-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Canale di Panama, nuove priorità per le prenotazioni",
+      "summary": "L'autorità del canale cambia le regole di assegnazione dei passaggi e amplia le procedure del programma NetZero.",
+      "body": [
+        "Le chiuse neopanamax daranno priorità ad alcune categorie di navi, tra cui portacontainer e trasporti di gas e veicoli, attraverso una procedura competitiva.",
+        "La scarsità di piogge continua a pesare sulla navigazione. Dal primo novembre sono previste ispezioni preliminari all'estero per alcune navi interessate al programma ambientale."
+      ],
+      "publishedAt": "2026-10-31T04:39:00+01:00",
+      "verifiedAt": "2026-10-31T15:05:16.870Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/31/nuove-regole-per-i-transiti-e-incentivi-verdi-al-canale-di-panama_cd3a040a-1aec-433d-b956-9245190cd77b.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T15:05:16.870Z",
+        "dateEvidence": "ANSA Mondo: pubblicato 2026-10-31 alle 04:39 ora di Roma, fonte originale riletta il 31 ottobre pomeriggio.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-cile-kast-rimuove-silva",
+      "eventKey": "cile-kast-rimuove-sottosegretario-silva-sconti-pena-abusi-minori-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Cile, sostituito il sottosegretario alla Giustizia dopo le polemiche sulle pene",
+      "summary": "Il presidente Kast rimuove Luis Silva dopo le riduzioni di pena concesse a decine di condannati per abusi.",
+      "body": [
+        "José Antonio Kast ha destituito il sottosegretario Luis Silva mentre cresce la polemica per i provvedimenti di riduzione delle condanne a 56 persone giudicate colpevoli di abusi sessuali su minori.",
+        "Al suo posto è stata nominata Josefina Soto Larreátegui; il ministro della Giustizia Fernando Rabat resta in carica."
+      ],
+      "publishedAt": "2026-10-31T01:45:00+01:00",
+      "verifiedAt": "2026-10-31T15:05:16.870Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/31/cile-kast-rimuove-il-sottosegretario-alla-giustizia-silva-per-il-caso-pedofilia_2c44569a-ffa2-4f4e-bc94-ac098e75da75.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T15:05:16.870Z",
+        "dateEvidence": "ANSA Mondo: pubblicato 2026-10-31 alle 01:45 ora di Roma, fonte originale riletta il 31 ottobre pomeriggio.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-ue-canada-alleanza-futuro",
+      "eventKey": "ue-canada-alleanza-per-futuro-montreal-30-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Unione europea e Canada rafforzano la cooperazione politica",
+      "summary": "La nuova Alleanza per il futuro prevede più coordinamento su commercio, ricerca e sostegno all'Ucraina.",
+      "body": [
+        "A Montreal i vertici dell'Unione europea e il premier canadese Mark Carney hanno presentato una cooperazione che punta a integrare programmi e governance su più dossier.",
+        "La possibile qualifica del Canada come membro associato è ancora oggetto di discussione: non si tratta di adesione all'Unione europea."
+      ],
+      "publishedAt": "2026-10-30T23:59:00+01:00",
+      "verifiedAt": "2026-10-31T15:05:16.870Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/30/il-patto-di-ferro-ue-canada-uniti-in-un-mondo-sempre-piu-diviso_472b0ee5-816f-40e9-874f-b6795063e6f6.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T15:05:16.870Z",
+        "dateEvidence": "ANSA Mondo: pubblicato 2026-10-30 alle 23:59 ora di Roma, fonte originale riletta il 31 ottobre pomeriggio.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-g20-kallas-lavrov-colloqui",
+      "eventKey": "g20-atlanta-kallas-nessuna-apertura-lavrov-30-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "G20, Kallas non vede segnali di apertura da Lavrov",
+      "summary": "L'Alta rappresentante europea riferisce di non avere rilevato disponibilità russa a negoziare durante il vertice.",
+      "body": [
+        "Interpellata dall'Afp ad Atlanta, Kaja Kallas ha affermato che il ministro degli Esteri russo Serghei Lavrov non ha dato indicazioni di una volontà di apertura nei colloqui del G20.",
+        "Il giudizio è una valutazione diplomatica attribuita a Kallas, non una dichiarazione ufficiale della delegazione russa."
+      ],
+      "publishedAt": "2026-10-30T23:08:00+01:00",
+      "verifiedAt": "2026-10-31T15:05:16.870Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/30/kallas-da-lavrov-menzogne-al-g20-nessun-segnale-di-apertura_1486eea4-38b4-4568-8825-e8cb62eccb9c.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T15:05:16.870Z",
+        "dateEvidence": "ANSA Mondo: pubblicato 2026-10-30 alle 23:08 ora di Roma, fonte originale riletta il 31 ottobre pomeriggio.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
 }
