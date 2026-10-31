@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-31",
-  "checkedAt": "2026-10-31T05:12:36.821Z",
+  "checkedAt": "2026-10-31T05:13:51.689Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,12 +13,12 @@
   ],
   "completed": [
     "politica",
-    "esteri"
+    "esteri",
+    "economia",
+    "cronaca"
   ],
   "inProgress": [],
   "missing": [
-    "economia",
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -85,6 +85,66 @@
       "category": "Esteri",
       "title": "Commissione europea, proposta una tranche da 45 miliardi per l'Ucraina",
       "eventKey": "commissione-europea-proposta-tranche-45-miliardi-ucraina-2027"
+    },
+    {
+      "id": "economia-inflazione-ottobre-54",
+      "category": "Economia",
+      "title": "L'inflazione italiana accelera al 5,4% in ottobre",
+      "eventKey": "istat-inflazione-ottobre-2026-5-4"
+    },
+    {
+      "id": "economia-pil-terzo-trimestre-fermo",
+      "category": "Economia",
+      "title": "Il Pil italiano resta fermo nel terzo trimestre",
+      "eventKey": "istat-pil-italia-terzo-trimestre-2026-stagnazione"
+    },
+    {
+      "id": "economia-salari-settembre-sotto-inflazione",
+      "category": "Economia",
+      "title": "Retribuzioni contrattuali a +2,5%, sotto l'inflazione",
+      "eventKey": "istat-retribuzioni-contrattuali-settembre-2026-2-5"
+    },
+    {
+      "id": "economia-banche-contributo-manovra",
+      "category": "Economia",
+      "title": "Contributo delle banche alla manovra, confronto acceso",
+      "eventKey": "governo-banche-scontro-contributo-fiscale-manovra-2027"
+    },
+    {
+      "id": "economia-borsa-milano-chiude-meno-uno",
+      "category": "Economia",
+      "title": "Piazza Affari chiude in ribasso dell'1%",
+      "eventKey": "borsa-milano-ftse-mib-chiusura-30-ottobre-2026"
+    },
+    {
+      "id": "cronaca-sciopero-30-ottobre-cortei",
+      "category": "Cronaca",
+      "title": "Sciopero generale, cortei e tensioni a Roma e Torino",
+      "eventKey": "sciopero-usb-30-ottobre-2026-cortei-e-tensioni"
+    },
+    {
+      "id": "cronaca-elicottero-bosnia-vittime",
+      "category": "Cronaca",
+      "title": "Bosnia, ricostruite le storie delle quattro vittime dell'elicottero",
+      "eventKey": "bosnia-elicottero-italiani-quattro-vittime-ottobre-2026"
+    },
+    {
+      "id": "cronaca-castel-dazzano-tre-carabinieri-indagati",
+      "category": "Cronaca",
+      "title": "Castel D'Azzano, indagati tre comandanti dei Carabinieri",
+      "eventKey": "castel-dazzano-inchiesta-comandanti-carabinieri-omicidio-colposo-2026"
+    },
+    {
+      "id": "cronaca-milano-urbanistica-assoluzioni",
+      "category": "Cronaca",
+      "title": "Urbanistica a Milano, nuove assoluzioni nel caso di via Fauché",
+      "eventKey": "milano-urbanistica-via-fauche-assoluzioni-30-ottobre-2026"
+    },
+    {
+      "id": "cronaca-crans-montana-foto-vittime",
+      "category": "Cronaca",
+      "title": "Crans-Montana, le famiglie contestano lo spostamento delle foto delle vittime",
+      "eventKey": "crans-montana-famiglie-contestano-spostamento-ritratti-vittime-2026"
     },
     {
       "id": "politica-vigano-consulta-presidente",
@@ -163,9 +223,19 @@
       "id": "politica-bilancio-2027-autorizzazione-colle",
       "category": "Politica",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Chigi_Roma_giugno_2024.jpg"
+    },
+    {
+      "id": "economia-borsa-milano-chiude-meno-uno",
+      "category": "Economia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palais_Mezzanotte_-_Milan_(IT25)_-_2022-09-03_-_3.jpg"
+    },
+    {
+      "id": "cronaca-castel-dazzano-tre-carabinieri-indagati",
+      "category": "Cronaca",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_159_Carabinieri.jpg"
     }
   ],
-  "photosAvailable": 1,
+  "photosAvailable": 3,
   "categoryProgress": {
     "politica": {
       "base": 5,
@@ -180,13 +250,13 @@
       "complete": true
     },
     "economia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cronaca": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
