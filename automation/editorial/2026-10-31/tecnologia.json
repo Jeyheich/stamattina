@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-10-31",
+  "collectionId": "2026-10-31-mattina",
+  "category": "Tecnologia · AI",
+  "completedAt": "2026-10-31T06:08:29.202Z",
+  "articles": [
+    {
+      "id": "tecnologia-google-home-consumi-matter",
+      "eventKey": "google-home-visualizza-consumi-prese-matter-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Google Home mostra i consumi energetici delle prese Matter",
+      "summary": "L'app integra i dati di potenza e consumo delle prese intelligenti compatibili, inizialmente su Android.",
+      "body": [
+        "L'aggiornamento annunciato il 29 ottobre consente di vedere in Google Home potenza istantanea e consumo accumulato delle prese e dei contatori che espongono questi dati attraverso Matter.",
+        "La funzione non trasforma l'app in un misuratore autonomo: servono dispositivi con capacità di rilevazione. Il rilascio è graduale e per ora non è annunciato su iOS."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-10-31T06:08:29.202Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/google-home-svela-quali-dispositivi-consumano-piu-energia/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:08:29.202Z",
+        "dateEvidence": "Punto Informatico, pagina integrale: 'Pubblicato il 30 ott 2026'; aggiornamento Google Home annunciato il 29 ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 92
+    },
+    {
+      "id": "tecnologia-reddit-login-scraping-ai",
+      "eventKey": "reddit-annuncia-test-login-obbligatorio-contro-scraping-ai-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Reddit prepara l'accesso con login per limitare i crawler AI",
+      "summary": "Il social avvierà test di accesso autenticato in alcuni paesi, lasciando visibili i post aperti da link e ricerca.",
+      "body": [
+        "Il CEO Steve Huffman ha annunciato, commentando i risultati del terzo trimestre 2026, la sperimentazione di un accesso con account per contrastare la raccolta non autorizzata dei contenuti da parte dei sistemi di intelligenza artificiale.",
+        "La prova è prevista in alcuni paesi fuori dagli Stati Uniti. I collegamenti diretti e i risultati dei motori di ricerca continueranno a consentire l'apertura dei post secondo quanto comunicato."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-10-31T06:08:29.202Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/reddit-login-obbligatorio-bloccare-scraping-ai/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:08:29.202Z",
+        "dateEvidence": "Punto Informatico, testo integrale e indicazione 'Pubblicato il 30 ott 2026'; annuncio riferito ai risultati del terzo trimestre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 90
+    },
+    {
+      "id": "tecnologia-gemini-editing-file-chat",
+      "eventKey": "gemini-editing-file-anteprima-pdf-docs-fogli-chat-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Gemini introduce l'editing dei documenti nella conversazione",
+      "summary": "Si possono creare, visualizzare e modificare documenti direttamente dalla chat; su mobile il supporto è più ristretto.",
+      "body": [
+        "Google ha annunciato l'integrazione dell'anteprima e della modifica dei file nella conversazione con Gemini, comprendendo PDF, Docs, Fogli, presentazioni, testo Markdown e codice.",
+        "La modifica dei PDF è disponibile anche da mobile; per le altre tipologie di file, al momento della notizia, la funzionalità è limitata al web."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-10-31T06:08:29.202Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/gemini-modifica-file-chat-pdf-docs-fogli-slide/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:08:29.202Z",
+        "dateEvidence": "Punto Informatico, articolo integrale datato 'Pubblicato il 30 ott 2026', con rimando all'annuncio Google.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 88
+    },
+    {
+      "id": "tecnologia-dark-souls-server-stop",
+      "eventKey": "fromsoftware-dark-souls-2-3-server-multiplayer-stop-30-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Dark Souls II e III: multiplayer temporaneamente sospeso",
+      "summary": "FromSoftware ha comunicato un'interruzione dei servizi online per un problema tecnico, senza indicare il ripristino.",
+      "body": [
+        "L'assistenza ufficiale di FromSoftware ha segnalato il 30 ottobre l'indisponibilità temporanea dei server multiplayer di Dark Souls II e Dark Souls III sulle piattaforme interessate.",
+        "Lo studio non ha indicato un orario di ripristino. Le operazioni di manutenzione del 21 e 28 ottobre sono precedenti al problema comunicato."
+      ],
+      "publishedAt": "2026-10-30T19:30:00+01:00",
+      "verifiedAt": "2026-10-31T06:08:29.202Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/dark-souls-2-3-succede-fromsoftware-spegne-server-problema-tecnico-908956.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:08:29.202Z",
+        "dateEvidence": "Everyeye, pagina integrale: 'di Michele Galluzzi 30/10/2026, ore 19:30'; include comunicazione ufficiale FromSoftware.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 85
+    },
+    {
+      "id": "tecnologia-turn10-greenawalt-uscita",
+      "eventKey": "turn10-playground-games-redmond-greenawalt-lascia-microsoft-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Turn 10 cambia identità e saluta il fondatore Dan Greenawalt",
+      "summary": "Lo storico studio di Forza Motorsport passa a Playground Games Redmond; Greenawalt lascia Microsoft dopo 27 anni.",
+      "body": [
+        "La riorganizzazione della divisione Xbox porta al nuovo nome Playground Games Redmond per Turn 10. Il fondatore e dirigente Dan Greenawalt ha deciso di lasciare Microsoft dopo oltre 27 anni.",
+        "Secondo la ricostruzione citata da Everyeye, la struttura sarà più orientata a sostenere lo sviluppo dei progetti Playground Games, fra cui Forza e Fable."
+      ],
+      "publishedAt": "2026-10-30T19:02:00+01:00",
+      "verifiedAt": "2026-10-31T06:08:29.202Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/turn-10-cambia-perde-dan-greenawalt-direttore-motorsport-lascia-microsoft-908952.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:08:29.202Z",
+        "dateEvidence": "Everyeye, articolo originale 'di Michele Galluzzi 30/10/2026, ore 19:02'; fonte secondaria The Verge.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 84
+    }
+  ]
+}
