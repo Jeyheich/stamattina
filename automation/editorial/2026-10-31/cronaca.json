@@ -3,7 +3,7 @@
   "editionDate": "2026-10-31",
   "collectionId": "2026-10-31-pomeriggio",
   "category": "Cronaca",
-  "completedAt": "2026-10-31T15:20:16.762Z",
+  "completedAt": "2026-10-31T15:20:45.215Z",
   "articles": [
     {
       "id": "cronaca-perquisizioni-cortei-23-citta",
@@ -124,6 +124,118 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
         "caption": "Repertorio · Autovettura dei Carabinieri fotografata nel 2015; immagine non collegata all'inchiesta di Castel D'Azzano.",
         "reuseApproved": true
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "cronaca-catania-turista-molestata",
+      "eventKey": "catania-stazione-turista-33enne-molestata-79enne-fermo-31-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Catania, turista molestata in stazione: fermato un 79enne",
+      "summary": "Le immagini di videosorveglianza confermano la denuncia della donna; disposto l'allontanamento temporaneo dalla stazione.",
+      "body": [
+        "Una turista di 33 anni ha denunciato di essere stata palpeggiata mentre attendeva di acquistare un biglietto nella stazione di Catania. La Polfer ha individuato un uomo di 79 anni.",
+        "Secondo la ricostruzione, le immagini delle telecamere hanno confermato la versione della donna. Per l'uomo sono stati disposti l'allontanamento dall'area ferroviaria per 48 ore e una sanzione amministrativa."
+      ],
+      "publishedAt": "2026-10-31T12:53:00+01:00",
+      "verifiedAt": "2026-10-31T15:20:45.215Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/31/catania-violenza-sessuale-turista",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T15:20:45.215Z",
+        "dateEvidence": "Fonte originale Sky TG24, articolo integralmente letto il 31 ottobre 2026; data originale esposta: 2026-10-31 12:53:00 Europe/Rome.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-imperia-incidente-sedicenne",
+      "eventKey": "molini-triora-auto-burrone-morto-sedicenne-31-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Imperia, auto in un burrone: muore un sedicenne",
+      "summary": "Il ragazzo viaggiava con il padre, ricoverato in gravi condizioni dopo l'incidente sulla provinciale 81.",
+      "body": [
+        "Un sedicenne è morto dopo che l'auto sulla quale viaggiava è precipitata per decine di metri lungo la provinciale 81, nel territorio di Molini di Triora, in provincia di Imperia.",
+        "Il padre è stato trasportato in ospedale in condizioni critiche. I Carabinieri stanno ricostruendo le cause dell'uscita di strada e la dinamica dell'incidente."
+      ],
+      "publishedAt": "2026-10-31T13:44:00+01:00",
+      "verifiedAt": "2026-10-31T15:20:45.215Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/31/molini-di-triora-incidente-morto-ragazzo",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T15:20:45.215Z",
+        "dateEvidence": "Fonte originale Sky TG24, articolo integralmente letto il 31 ottobre 2026; data originale esposta: 2026-10-31 13:44:00 Europe/Rome.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-torino-no-vax-proscioglimenti",
+      "eventKey": "torino-guerrieri-no-vax-motivazioni-proscioglimenti-sette-31-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Torino, prosciolti sette imputati del gruppo «Guerrieri» No Vax",
+      "summary": "Nelle motivazioni il giudice distingue l'ideologia del gruppo dalle responsabilità per singoli atti contestati.",
+      "body": [
+        "Un giudice torinese ha motivato il proscioglimento di sette imputati dall'accusa di associazione per delinquere, nell'inchiesta sul gruppo No Vax noto come «Guerrieri».",
+        "Secondo la decisione, gli atti vandalici attribuiti a singole persone non bastano a dimostrare la responsabilità associativa del gruppo. La notizia riguarda le motivazioni di una sentenza pronunciata a giugno."
+      ],
+      "publishedAt": "2026-10-31T12:10:00+01:00",
+      "verifiedAt": "2026-10-31T15:20:45.215Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/giudice-i-guerrieri-no-vax-sono-anacronistici-ma-non-pericolosi_f2be7743-a860-4b1d-94b7-f12f682dde1e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T15:20:45.215Z",
+        "dateEvidence": "Fonte originale ANSA, articolo integralmente letto il 31 ottobre 2026; data originale esposta: 2026-10-31 12:10:00 Europe/Rome.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-bologna-parto-bus",
+      "eventKey": "bologna-bus-linea-39-parto-assistito-autista-30-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Bologna, parto a bordo del bus 39: mamma e neonato stanno bene",
+      "summary": "La conducente e altre passeggere hanno aiutato la donna prima dell'arrivo dell'ambulanza.",
+      "body": [
+        "Una donna ha partorito a bordo dell'autobus della linea 39 a Bologna, assistita dalla conducente Niurka Roman e da altre persone presenti.",
+        "I soccorritori hanno accompagnato madre e bambino all'Ospedale Maggiore per i controlli: secondo la notizia pubblicata il 30 ottobre entrambi stanno bene."
+      ],
+      "publishedAt": "2026-10-30T18:29:00+01:00",
+      "verifiedAt": "2026-10-31T15:20:45.215Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/30/parto-bus-bologna",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T15:20:45.215Z",
+        "dateEvidence": "Fonte originale Sky TG24, articolo integralmente letto il 31 ottobre 2026; data originale esposta: 2026-10-30 18:29:00 Europe/Rome.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-frosinone-operaio-morto",
+      "eventKey": "frosinone-operaio-morto-caduta-tetto-palestra-scuola-31-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Frosinone, morto operaio caduto dal tetto di una scuola",
+      "summary": "Il trentottenne era ricoverato da due giorni; indagini aperte sulla sicurezza del cantiere.",
+      "body": [
+        "Un operaio edile di 38 anni, originario di Ischia e residente a Itri, è morto nell'ospedale di Frosinone per le ferite riportate cadendo dal tetto della palestra della scuola Maiuri.",
+        "L'incidente era avvenuto due giorni prima durante lavori di manutenzione. Polizia e servizi di prevenzione sul lavoro stanno accertando la dinamica e il rispetto delle norme di sicurezza."
+      ],
+      "publishedAt": "2026-10-31T15:08:00+01:00",
+      "verifiedAt": "2026-10-31T15:20:45.215Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/morto-dopo-due-giorni-operaio-edile-di-itri-caduto-dal-tetto_d18cc73c-1359-4b7b-ba99-2257fefcc58d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T15:20:45.215Z",
+        "dateEvidence": "Fonte originale ANSA, articolo integralmente letto il 31 ottobre 2026; data originale esposta: 2026-10-31 15:08:00 Europe/Rome.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ]
