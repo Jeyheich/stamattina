@@ -3,7 +3,7 @@
   "editionDate": "2026-10-31",
   "collectionId": "2026-10-31-mattina",
   "category": "Economia",
-  "completedAt": "2026-10-31T05:13:40.509Z",
+  "completedAt": "2026-10-31T05:14:05.981Z",
   "articles": [
     {
       "id": "economia-inflazione-ottobre-54",
@@ -124,6 +124,118 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
         "caption": "Repertorio · Palazzo Mezzanotte, sede della Borsa italiana, fotografato nel 2022; non ritrae la seduta del 30 ottobre.",
         "reuseApproved": true
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "economia-gas-amsterdam-103",
+      "eventKey": "gas-amsterdam-future-dicembre-103-euro-30-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Gas europeo oltre 103 euro al MWh",
+      "summary": "Il future di dicembre ad Amsterdam sale del 5,4%, toccando un massimo da quattro anni.",
+      "body": [
+        "Le quotazioni del gas naturale sul mercato di Amsterdam sono aumentate dopo la chiusura delle Borse europee il 30 ottobre.",
+        "Il contratto con consegna a dicembre ha raggiunto 103,2 euro per Megawattora, in rialzo del 5,4%: si tratta di un prezzo del mercato all'ingrosso, non di una tariffa già applicata alle bollette."
+      ],
+      "publishedAt": "2026-10-30T18:06:00+01:00",
+      "verifiedAt": "2026-10-31T05:14:05.981Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/il-gas-in-forte-aumento-5-a-103-euro-al-megawattora_a9866a2d-6c9b-47dc-aa8a-84d072130d02.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T05:14:05.981Z",
+        "dateEvidence": "Fonte ANSA, pagina originale datata 30 ottobre 2026 alle 18:06 Europe/Rome, contenuto letto il 31 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-eurozona-pil-04",
+      "eventKey": "eurostat-eurozona-pil-terzo-trimestre-2026-0-4",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Eurozona, Pil in crescita dello 0,4% nel terzo trimestre",
+      "summary": "La stima preliminare Eurostat indica un rallentamento rispetto al +0,6% del trimestre precedente.",
+      "body": [
+        "Tra luglio e settembre 2026 il Pil dell'area euro è aumentato dello 0,4% sul trimestre, mentre l'Unione europea ha segnato +0,5%.",
+        "L'Italia è rimasta ferma, la Germania è cresciuta dello 0,2%, la Spagna dello 0,6% e la Francia ha registrato una lieve contrazione dello 0,1%."
+      ],
+      "publishedAt": "2026-10-30T11:38:00+01:00",
+      "verifiedAt": "2026-10-31T05:14:05.981Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://videoembed.ansa.it/europa/notizie/rubriche/altrenews/2026/10/30/eurozona-il-pil-cresce-dello-04-nel-terzo-trimestre_50b54b6d-ba24-461f-8fa9-d1a22569fb9a.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T05:14:05.981Z",
+        "dateEvidence": "Fonte ANSA, pagina originale datata 30 ottobre 2026 alle 11:38 Europe/Rome, contenuto letto il 31 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-spread-118-punti",
+      "eventKey": "spread-btp-bund-chiusura-118-30-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Spread Btp-Bund a 118 punti base in chiusura",
+      "summary": "Il differenziale tra i titoli decennali italiani e tedeschi aumenta di un punto dall'apertura.",
+      "body": [
+        "Alla chiusura del 30 ottobre lo spread fra Btp e Bund decennali si è attestato a 118 punti base, contro 117 punti all'avvio della seduta.",
+        "Il rendimento del titolo di Stato italiano decennale indicato nella rilevazione è del 4,51%."
+      ],
+      "publishedAt": "2026-10-30T18:04:00+01:00",
+      "verifiedAt": "2026-10-31T05:14:05.981Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/lo-spread-tra-btp-e-bund-chiude-in-lieve-rialzo-a-118-punti-base_2299e571-821e-4ca5-b848-75a2df309bcd.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T05:14:05.981Z",
+        "dateEvidence": "Fonte ANSA, pagina originale datata 30 ottobre 2026 alle 18:04 Europe/Rome, contenuto letto il 31 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-webuild-trevi-opa",
+      "eventKey": "webuild-supera-34-percento-trevi-opa-obbligatoria-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Webuild supera il 34% di Trevi e avvia l'Opa obbligatoria",
+      "summary": "L'aumento della partecipazione al 34,58% comporta l'offerta sulle azioni ancora non possedute.",
+      "body": [
+        "Webuild ha raggiunto circa il 34,58% del capitale di Trevi dopo ulteriori acquisti azionari.",
+        "Il superamento della soglia comporta l'obbligo di promuovere un'offerta pubblica di acquisto sulle azioni residue. Il corrispettivo indicato è 5,165 euro per azione, con esborso massimo stimato intorno a 221,6 milioni di euro."
+      ],
+      "publishedAt": "2026-10-30T19:42:00+01:00",
+      "verifiedAt": "2026-10-31T05:14:05.981Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/webuild-sale-al-3458-di-tevi-scatta-lopa-obbligatoria_93029d92-2bf5-49aa-a962-db0bbcc6f17c.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T05:14:05.981Z",
+        "dateEvidence": "Fonte ANSA, pagina originale datata 30 ottobre 2026 alle 19:42 Europe/Rome, contenuto letto il 31 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-ex-ilva-spegnimento-area-caldo",
+      "eventKey": "taranto-ex-ilva-preparazione-spegnimento-altiforni-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Ex Ilva, verso lo spegnimento degli altiforni a Taranto",
+      "summary": "La transizione dell'area a caldo apre interrogativi sul futuro produttivo e sull'occupazione.",
+      "body": [
+        "A Taranto si prepara lo spegnimento degli altiforni dell'ex Ilva, in un passaggio che secondo il servizio di Sky TG24 chiuderebbe la produzione di acciaio a partire dal minerale di ferro nell'impianto.",
+        "Restano aperte le prospettive per possibili produzioni decarbonizzate e il futuro industriale dello stabilimento. La notizia riguarda una fase preparatoria, non la certificazione che tutti gli impianti siano già spenti."
+      ],
+      "publishedAt": "2026-10-30T19:40:00+01:00",
+      "verifiedAt": "2026-10-31T05:14:05.981Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/video/2026/10/30/ex-ilva-chiude-area-a-caldo-1135988",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T05:14:05.981Z",
+        "dateEvidence": "Fonte Sky TG24, pagina originale datata 30 ottobre 2026 alle 19:40 Europe/Rome, contenuto letto il 31 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ]
