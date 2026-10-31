@@ -120,5 +120,117 @@
       },
       "leadPriority": 84
     }
+  ],
+  "reserveArticles": [
+    {
+      "id": "tecnologia-ue-stop-divieti-social-minori",
+      "eventKey": "commissione-ue-sospensione-disegni-legge-social-minori-kids-act-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "UE, pausa alle nuove leggi nazionali sui social per minori",
+      "summary": "Bruxelles ha disposto uno stop temporaneo a diverse proposte nazionali per coordinare le norme con il futuro KIDS Act.",
+      "body": [
+        "La Commissione europea ha annunciato una sospensione di dodici mesi per alcune proposte nazionali che limitano l'accesso dei minori ai social network, per evitare norme frammentate in attesa del KIDS Act.",
+        "Secondo la ricostruzione, la misura riguarda proposte notificate dopo la presentazione del progetto europeo; Grecia e Francia sono indicate come casi distinti. Il testo UE deve ancora seguire il suo iter."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-10-31T06:09:01.178Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/social-media-stop-leggi-nazionali-divieti-minori/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:09:01.178Z",
+        "dateEvidence": "Punto Informatico, pagina integrale pubblicata il 30 ott 2026; decisione Commissione e chiarimenti del portavoce Thomas Regnier.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-causa-ai-consigli-medici",
+      "eventKey": "causa-san-francisco-chatbot-consigli-terapia-epilessia-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Chatbot e salute, una causa riapre il tema della responsabilità",
+      "summary": "La famiglia di una donna deceduta ha avviato un procedimento, contestando presunti consigli per sospendere una terapia.",
+      "body": [
+        "Il 27 ottobre i genitori di Bowen hanno presentato una causa civile a San Francisco, sostenendo che un chatbot avrebbe suggerito alla figlia di ridurre e interrompere farmaci anticonvulsivanti.",
+        "Si tratta di accuse contenute in un atto giudiziario, non di responsabilità accertate. Il caso evidenzia i rischi dell'uso dei chatbot per decisioni cliniche senza supervisione medica."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-10-31T06:09:01.178Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/quando-ai-sbaglia-di-chi-e-colpa/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:09:01.178Z",
+        "dateEvidence": "Punto Informatico, articolo completo pubblicato il 30 ott 2026; la causa viene datata 27 ottobre nel testo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-meta-style-sketch-outfit",
+      "eventKey": "meta-style-sketch-app-ai-outfit-asia-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Meta sperimenta Style Sketch, l'app che suggerisce abbinamenti con l'AI",
+      "summary": "Il servizio crea un guardaroba digitale da foto e propone outfit; per ora è disponibile soltanto in tre paesi asiatici.",
+      "body": [
+        "Style Sketch può importare immagini da Instagram o dalla galleria per catalogare gli abiti posseduti e suggerire abbinamenti e combinazioni per un viaggio.",
+        "Secondo la notizia, l'app è disponibile in Indonesia, Singapore e Thailandia su iOS e Android. Non è stato annunciato un lancio in Italia."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-10-31T06:09:01.178Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/style-sketch-app-ai-meta-crea-outfit-propri-vestiti/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:09:01.178Z",
+        "dateEvidence": "Punto Informatico, articolo integrale pubblicato il 30 ott 2026; disponibilità geografica specificata nel testo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-xbox-strategia-analista",
+      "eventKey": "xbox-piscatella-critica-risultati-strategia-asha-sharma-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Xbox, un analista critica i risultati delle nuove strategie",
+      "summary": "Secondo Mat Piscatella, alcune iniziative accolte dai fan non hanno ancora prodotto una ripresa delle vendite.",
+      "body": [
+        "Intervistato da The Game Business, l'analista Circana Mat Piscatella ha espresso dubbi sull'efficacia commerciale di alcune scelte della nuova direzione Xbox.",
+        "Ha citato il programma Disc-to-Digital, le vendite hardware e il coinvolgimento degli utenti, distinguendo il gradimento dei fan dai risultati misurabili. Si tratta di una valutazione dell'analista, non di un bilancio definitivo."
+      ],
+      "publishedAt": "2026-10-30T22:18:00+01:00",
+      "verifiedAt": "2026-10-31T06:09:01.178Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/xbox-mosse-asha-sharma-compiacciono-fan-non-migliorano-business-dicono-analisti-908976.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:09:01.178Z",
+        "dateEvidence": "Everyeye, articolo di Mario Cariati del 30/10/2026 ore 22:18; riporta dichiarazioni di Mat Piscatella.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-zelda-aonuma-remake-ansia",
+      "eventKey": "zelda-ocarina-time-remake-aonuma-dichiarazioni-afp-30-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Zelda Ocarina of Time, Aonuma racconta l'attesa del remake",
+      "summary": "Il produttore Nintendo dice di essere preoccupato per l'accoglienza del rifacimento del celebre gioco del 1998.",
+      "body": [
+        "Eiji Aonuma ha spiegato in un incontro a Parigi, ripreso dall'AFP, di attendere con apprensione il debutto del remake di Ocarina of Time.",
+        "Il progetto rilegge uno dei capitoli più importanti della saga; Aonuma ha ricordato il lavoro con Shigeru Miyamoto e il contributo di membri del team che non avevano giocato l'originale."
+      ],
+      "publishedAt": "2026-10-30T22:07:00+01:00",
+      "verifiedAt": "2026-10-31T06:09:01.178Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/zelda-ocarina-of-time-aonuma-ammette-sono-ansia-non-so-come-verra-accolto-908975.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:09:01.178Z",
+        "dateEvidence": "Everyeye, articolo di Mario Cariati del 30/10/2026 ore 22:07; cita intervista AFP a Parigi.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
   ]
 }
