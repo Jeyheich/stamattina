@@ -127,5 +127,116 @@
       }
     }
   ],
-  "reserveArticles": []
+  "reserveArticles": [
+    {
+      "id": "roma-finta-dirigente-entrate-truffa",
+      "eventKey": "roma-castelverde-falsa-dirigente-agenzia-entrate-truffa-30-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Castelverde, denunciata una falsa dirigente dell'Agenzia delle Entrate",
+      "summary": "Una donna avrebbe promesso di cancellare debiti fiscali chiedendo denaro; la Guardia di Finanza ha sequestrato falsi tesserini e contanti.",
+      "body": [
+        "La Guardia di Finanza di Roma ha denunciato una donna che si presentava come dirigente dell'Agenzia delle Entrate, pur non avendo incarichi nell'amministrazione. Secondo gli investigatori, prometteva ai contribuenti la cancellazione di cartelle e debiti in cambio di versamenti in contanti o bonifici.",
+        "L'intervento è avvenuto a Castelverde durante una consegna di denaro. I militari hanno sequestrato tesserini contraffatti con loghi istituzionali e somme in contanti; le ipotesi di reato sono truffa e usurpazione di funzioni pubbliche, ancora da accertare in sede giudiziaria."
+      ],
+      "publishedAt": "2026-10-30T08:02:00+01:00",
+      "verifiedAt": "2026-10-31T16:15:10.103Z",
+      "source": {
+        "name": "La Capitale",
+        "url": "https://www.lacapitale.it/articolo/si-finge-dirigente-dellagenzia-delle-entrate-e-promette-di-cancellare-i-debiti-denunciata",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T16:15:10.103Z",
+        "dateEvidence": "La Capitale, 30 ottobre 2026 ore 08:02, testo originale letto integralmente il 31 ottobre nel pomeriggio.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-pratone-monte-mario-tar",
+      "eventKey": "roma-pratone-via-teulada-tar-annulla-deroga-regione-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Pratone di Monte Mario, il Tar annulla la deroga per gli uffici giudiziari",
+      "summary": "La sentenza ferma per ora l'ampliamento previsto vicino a piazzale Clodio, ma non esclude un nuovo progetto.",
+      "body": [
+        "Il Tar del Lazio ha annullato il decreto regionale che autorizzava una deroga alle tutele ambientali per realizzare nuovi uffici giudiziari sul pratone di via Teulada, nella Riserva di Monte Mario. Il ricorso era stato promosso da comitati e associazioni del quartiere.",
+        "La decisione, pubblicata il 28 ottobre e analizzata dalla stampa locale il 29, non dichiara in assoluto incompatibile l'edificazione: le amministrazioni potrebbero ripresentare un progetto con istruttoria ambientale adeguata oppure valutare soluzioni alternative."
+      ],
+      "publishedAt": "2026-10-29T17:37:00+01:00",
+      "verifiedAt": "2026-10-31T16:15:10.103Z",
+      "source": {
+        "name": "La Capitale",
+        "url": "https://www.lacapitale.it/articolo/pratone-via-teulada-tar-futuro-roma-capitale-luparelli",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T16:15:10.103Z",
+        "dateEvidence": "La Capitale, 29 ottobre 2026 ore 17:37, analisi originale Fonte originale riletta il 31 ottobre 2026 nel pomeriggio; data editoriale mantenuta.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-case-prezzi-pressione-abitativa",
+      "eventKey": "roma-fiaip-report-mercato-immobiliare-pressione-abitativa-29-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Case a Roma, prezzi in aumento e accessibilità sempre più difficile",
+      "summary": "Il rapporto Fiaip fotografa un mercato con domanda in crescita, offerta ridotta e forti differenze fra quartieri.",
+      "body": [
+        "Secondo i dati del rapporto Fiaip Monitora presentato il 29 ottobre, nel primo semestre 2026 i prezzi delle abitazioni a Roma sono aumentati del 6,4%, mentre la domanda è cresciuta del 15,6% e l'offerta di immobili in vendita è diminuita del 6%.",
+        "L'indagine segnala una forte pressione sull'accessibilità: con un reddito singolo si può acquistare meno del 9% delle case in vendita. Il prezzo medio richiesto nella capitale è indicato intorno a 3.784 euro al metro quadrato, con variazioni molto ampie tra centro e periferia."
+      ],
+      "publishedAt": "2026-10-29",
+      "verifiedAt": "2026-10-31T16:15:10.103Z",
+      "source": {
+        "name": "Canale Dieci",
+        "url": "https://canaledieci.it/2026/10/29/roma-ha-la-pressione-abitativa-piu-alta-in-italia-ecco-i-quartieri-dove-il-green-aumenta-il-valore-immobiliare/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T16:15:10.103Z",
+        "dateEvidence": "Canale Dieci, pubblicato giovedì 29 ottobre 2026; l'ora non è indicata dall'editore e non è stata inventata. Fonte originale riletta il 31 ottobre 2026 nel pomeriggio; data editoriale mantenuta.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-golf-club-cassaforte-arresti",
+      "eventKey": "roma-cassia-golf-club-cassaforte-tre-arresti-30-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Cassia, furto in un golf club: tre arresti e denaro recuperato",
+      "summary": "Gli investigatori hanno ricostruito l'intrusione negli uffici e il tentativo di nascondersi per ore nella proprietà.",
+      "body": [
+        "Tre persone sono state arrestate dopo un'incursione in un golf club di Roma Nord, lungo via Cassia. Secondo la ricostruzione della polizia, sarebbero entrate negli uffici e avrebbero forzato una cassaforte, sottraendo circa 2.500 euro.",
+        "Le ricerche condotte dagli agenti con la vigilanza privata hanno portato a individuare i sospettati nascosti nella vegetazione del comprensorio. Il denaro è stato recuperato; le accuse sono ancora nella fase processuale in cui vale la presunzione di innocenza."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-10-31T16:15:10.103Z",
+      "source": {
+        "name": "Canale Dieci",
+        "url": "https://canaledieci.it/2026/10/30/rubano-cassaforte-golf-club-e-si-nascondono-per-ore-tre-kosoavari-arrestati-dalla-polizia-di-stato/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T16:15:10.103Z",
+        "dateEvidence": "Canale Dieci, articolo pubblicato venerdì 30 ottobre 2026, testo originale Fonte originale riletta il 31 ottobre 2026 nel pomeriggio; data editoriale mantenuta.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-flaminio-finto-carabiniere",
+      "eventKey": "roma-flaminio-finto-carabiniere-truffa-anziano-30-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Flaminio, anziano riconosce la truffa e fa arrestare un falso carabiniere",
+      "summary": "Il residente ha avvisato i veri militari dopo una telefonata che chiedeva oro e contanti per un presunto controllo.",
+      "body": [
+        "Un anziano del quartiere Flaminio ha contattato i Carabinieri dopo una telefonata di una persona che si spacciava per militare e chiedeva di consegnare gioielli e contanti per verifiche legate a una presunta rapina.",
+        "I Carabinieri hanno predisposto un appostamento e fermato sul pianerottolo un uomo di 31 anni arrivato per ritirare i beni. Secondo la ricostruzione riportata dalla stampa locale, il denaro e i preziosi sono stati restituiti al proprietario."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-10-31T16:15:10.103Z",
+      "source": {
+        "name": "Canale Dieci",
+        "url": "https://canaledieci.it/2026/10/30/anziano-smaschera-la-truffa-della-rapina-al-flaminio-finto-carabiniere-bloccato-sul-pianerottolo-video/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T16:15:10.103Z",
+        "dateEvidence": "Canale Dieci, pubblicato venerdì 30 ottobre 2026, articolo originale Fonte originale riletta il 31 ottobre 2026 nel pomeriggio; data editoriale mantenuta.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
 }
