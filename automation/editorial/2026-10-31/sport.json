@@ -120,5 +120,117 @@
       },
       "leadPriority": 90
     }
+  ],
+  "reserveArticles": [
+    {
+      "id": "sport-milan-inter-probabili-formazioni",
+      "eventKey": "milan-inter-derby-31-ottobre-2026-probabili-formazioni-amorim-chivu",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Derby Milan-Inter, le scelte previste di Amorim e Chivu",
+      "summary": "In vista della sfida di sabato sera, i due tecnici valutano diversi assetti per centrocampo e fasce.",
+      "body": [
+        "Il derby Milan-Inter è in programma sabato 31 ottobre alle 20:45. Sky Sport riferisce che Amorim ha provato Diawara in difesa e Pulisic sulla fascia, con un possibile 4-4-1-1.",
+        "Chivu valuta il centrocampo Barella-Calhanoglu-Mkhitaryan. Le indicazioni sono probabili formazioni alla vigilia, non schieramenti ufficiali."
+      ],
+      "publishedAt": "2026-10-30T23:00:00+01:00",
+      "verifiedAt": "2026-10-31T06:09:14.124Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/30/milan-inter-probabili-formazioni-10-giornata",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:09:14.124Z",
+        "dateEvidence": "Sky Sport, notizia sulle probabili formazioni Milan-Inter del 30 ott 2026 alle 23:00; gara del 31 ottobre alle 20:45.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-pallone-oro-voti-kane-mbappe",
+      "eventKey": "pallone-oro-2026-dettaglio-voti-kane-mbappe-distacco-28",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Pallone d'Oro, Kane ha superato Mbappé di 28 punti",
+      "summary": "France Football pubblica il dettaglio del voto: 1.055 punti all'inglese, 1.027 al francese.",
+      "body": [
+        "Il dettaglio ufficiale dei voti del Pallone d'Oro 2026, diffuso da France Football, mostra un margine di appena 28 punti tra il vincitore Harry Kane e Kylian Mbappé.",
+        "Kane ha totalizzato 1.055 punti, Mbappé 1.027 e Lamine Yamal 881. La notizia riguarda la pubblicazione dei punteggi, distinta dall'assegnazione del premio."
+      ],
+      "publishedAt": "2026-10-30T21:23:00+01:00",
+      "verifiedAt": "2026-10-31T06:09:14.124Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/2026/10/30/pallone-d-oro-2026-voti-classifica",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:09:14.124Z",
+        "dateEvidence": "Sky Sport, fotogallery del 30 ott 2026 alle 21:23, con classifica numerica e scarto di 28 punti.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-cardinale-cena-milan-derby",
+      "eventKey": "cardinale-cena-ex-milan-dirigenti-vigilia-derby-30-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Cardinale riunisce dirigenti ed ex rossoneri prima del derby",
+      "summary": "Il proprietario del Milan ha organizzato una cena con figure del club e del calcio italiano, ribadendo fiducia nella squadra.",
+      "body": [
+        "Alla vigilia di Milan-Inter, Gerry Cardinale ha incontrato la squadra a Milanello e ha organizzato una cena-evento con dirigenti, rappresentanti delle istituzioni sportive ed ex giocatori rossoneri.",
+        "Tra i presenti citati da Sky Sport figurano Kaká, Desailly, Albertini e Tassotti. Cardinale ha espresso fiducia nella preparazione della squadra, senza anticipare un risultato."
+      ],
+      "publishedAt": "2026-10-30T17:20:00+01:00",
+      "verifiedAt": "2026-10-31T06:09:14.124Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/30/gerry-cardinale-milan-inter-derby",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:09:14.124Z",
+        "dateEvidence": "Sky Sport, servizio del 30 ott 2026 ore 17:20, aggiornato con cena-evento alla vigilia del derby.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-hamilton-stop-fp2-messico",
+      "eventKey": "f1-messico-hamilton-stop-tecnico-fp2-30-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Hamilton fermato da un problema tecnico nelle libere del Messico",
+      "summary": "La Ferrari del britannico si è arrestata prima del termine delle FP2; il team esaminerà la causa.",
+      "body": [
+        "Lewis Hamilton ha interrotto in anticipo la seconda sessione di prove libere del GP del Messico a causa di un problema alla vettura.",
+        "Il pilota ha dichiarato di aver percepito una monoposto veloce, ma di dover analizzare il guasto con la squadra in vista delle sessioni successive. L'origine del problema non è stata ancora confermata."
+      ],
+      "publishedAt": "2026-10-31T02:04:00+01:00",
+      "verifiedAt": "2026-10-31T06:09:14.124Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/formula-1/2026/10/30/hamilton-f1-gp-messico-intervista",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:09:14.124Z",
+        "dateEvidence": "Sky Sport, intervista sul venerdì di prove in Messico pubblicata nella sezione F1 il 31 ott 2026 ore 02:04.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-cobolli-risentimento-parigi",
+      "eventKey": "cobolli-risentimento-muscolare-obiettivo-masters-parigi-30-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Cobolli aggiorna sulle condizioni dopo il ritiro a Vienna",
+      "summary": "Il tennista romano segnala un lieve risentimento muscolare e punta a giocare il Masters di Parigi.",
+      "body": [
+        "Dopo il ritiro agli ottavi di Vienna contro Berrettini, Flavio Cobolli ha comunicato che gli esami hanno evidenziato un piccolo risentimento muscolare.",
+        "Il giocatore prevede di recarsi a Parigi e tentare di partecipare al Masters 1000 dal 2 all'8 novembre. La presenza in tabellone resta subordinata al recupero."
+      ],
+      "publishedAt": "2026-10-30T18:53:00+01:00",
+      "verifiedAt": "2026-10-31T06:09:14.124Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/2026/10/30/cobolli-infortunio-news",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:09:14.124Z",
+        "dateEvidence": "Sky Sport, articolo del 30 ott 2026 ore 18:53, dichiarazione social di Cobolli ed esito degli esami.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
   ]
 }
