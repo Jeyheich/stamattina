@@ -1,11 +1,9 @@
 {
   "editionDate": "2026-10-31",
-  "checkedAt": "2026-10-31T05:14:04.241Z",
+  "checkedAt": "2026-10-31T05:14:20.013Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
-    "economia",
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -205,14 +203,74 @@
       "category": "Esteri",
       "title": "Israele, il voto delle donne beduine pesa sul risultato dei partiti arabi",
       "eventKey": "israele-elezioni-2026-affluenza-donne-beduine-partiti-arabi-19-seggi"
+    },
+    {
+      "id": "economia-gas-amsterdam-103",
+      "category": "Economia",
+      "title": "Gas europeo oltre 103 euro al MWh",
+      "eventKey": "gas-amsterdam-future-dicembre-103-euro-30-ottobre-2026"
+    },
+    {
+      "id": "economia-eurozona-pil-04",
+      "category": "Economia",
+      "title": "Eurozona, Pil in crescita dello 0,4% nel terzo trimestre",
+      "eventKey": "eurostat-eurozona-pil-terzo-trimestre-2026-0-4"
+    },
+    {
+      "id": "economia-spread-118-punti",
+      "category": "Economia",
+      "title": "Spread Btp-Bund a 118 punti base in chiusura",
+      "eventKey": "spread-btp-bund-chiusura-118-30-ottobre-2026"
+    },
+    {
+      "id": "economia-webuild-trevi-opa",
+      "category": "Economia",
+      "title": "Webuild supera il 34% di Trevi e avvia l'Opa obbligatoria",
+      "eventKey": "webuild-supera-34-percento-trevi-opa-obbligatoria-ottobre-2026"
+    },
+    {
+      "id": "economia-ex-ilva-spegnimento-area-caldo",
+      "category": "Economia",
+      "title": "Ex Ilva, verso lo spegnimento degli altiforni a Taranto",
+      "eventKey": "taranto-ex-ilva-preparazione-spegnimento-altiforni-ottobre-2026"
+    },
+    {
+      "id": "cronaca-calabria-funerali-sibarelli",
+      "category": "Cronaca",
+      "title": "Sibari, folla ai funerali della donna uccisa in un agguato",
+      "eventKey": "sibari-funerali-silvana-sibarelli-uccisa-agguato-2026"
+    },
+    {
+      "id": "cronaca-siher-minacce-gip",
+      "category": "Cronaca",
+      "title": "Caso Siher, il Tribunale valuta la tutela della gip",
+      "eventKey": "milano-caso-siher-minacce-gip-verifica-protezione-ottobre-2026"
+    },
+    {
+      "id": "cronaca-a14-operaio-investito",
+      "category": "Cronaca",
+      "title": "A14, operaio investito durante un cantiere: indagini su un'auto in fuga",
+      "eventKey": "a14-grottammare-operaio-investito-auto-pirata-30-ottobre-2026"
+    },
+    {
+      "id": "cronaca-bordighera-ciclista-morto",
+      "category": "Cronaca",
+      "title": "Bordighera, ciclista muore dopo uno scontro con un tir",
+      "eventKey": "bordighera-aurelia-tir-ciclista-tedesco-morto-moglie-ferita-2026"
+    },
+    {
+      "id": "cronaca-cercenasco-scontro-auto",
+      "category": "Cronaca",
+      "title": "Torinese, muore un uomo di 72 anni nello scontro fra due auto",
+      "eventKey": "cercenasco-provinciale-138-scontro-auto-morto-72enne-2026"
     }
   ],
   "collectionId": "2026-10-31-mattina",
   "reserveCounts": {
     "Politica": 5,
     "Esteri": 5,
-    "Economia": 0,
-    "Cronaca": 0,
+    "Economia": 5,
+    "Cronaca": 5,
     "Roma": 0,
     "Cultura · Teatro · Cinema": 0,
     "Tecnologia · AI": 0,
@@ -251,15 +309,15 @@
     },
     "economia": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "cronaca": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "roma": {
       "base": 0,
