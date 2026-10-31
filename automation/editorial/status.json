@@ -1,7 +1,7 @@
 {
   "editionDate": "2026-10-31",
-  "checkedAt": "2026-10-31T06:10:29.667Z",
-  "ready": false,
+  "checkedAt": "2026-10-31T06:16:55.792Z",
+  "ready": true,
   "editorialComplete": false,
   "reserveMissing": [
     "roma",
@@ -12,14 +12,13 @@
     "esteri",
     "economia",
     "cronaca",
+    "roma",
+    "cultura",
     "tecnologia",
     "sport"
   ],
   "inProgress": [],
-  "missing": [
-    "roma",
-    "cultura"
-  ],
+  "missing": [],
   "invalid": [],
   "stories": [
     {
@@ -141,6 +140,66 @@
       "category": "Cronaca",
       "title": "Crans-Montana, le famiglie contestano lo spostamento delle foto delle vittime",
       "eventKey": "crans-montana-famiglie-contestano-spostamento-ritratti-vittime-2026"
+    },
+    {
+      "id": "roma-sapienza-carcaterra-rettore",
+      "category": "Roma",
+      "title": "Sapienza, Antonio Carcaterra eletto nuovo rettore",
+      "eventKey": "sapienza-roma-carcaterra-eletto-rettore-30-ottobre-2026"
+    },
+    {
+      "id": "roma-corsa-santi-1-novembre",
+      "category": "Roma",
+      "title": "Corsa dei Santi, domenica chiusure e deviazioni in centro",
+      "eventKey": "roma-corsa-dei-santi-1-novembre-2026-chiusure"
+    },
+    {
+      "id": "roma-its-200-borse-studio",
+      "category": "Roma",
+      "title": "ITS Academy, a Roma 200 borse da mille euro",
+      "eventKey": "camera-commercio-roma-its-200-borse-1000-euro-2026"
+    },
+    {
+      "id": "roma-finta-dirigente-entrate-truffa",
+      "category": "Roma",
+      "title": "Roma, denunciata una donna che si spacciava per dirigente del Fisco",
+      "eventKey": "roma-castelverde-falsa-dirigente-agenzia-entrate-truffa-30-ottobre-2026"
+    },
+    {
+      "id": "roma-fascia-verde-riscaldamento-ordinanze",
+      "category": "Roma",
+      "title": "Fascia Verde e riscaldamenti, Roma definisce le regole invernali",
+      "eventKey": "roma-ordinanze-144-145-fascia-verde-riscaldamenti-29-ottobre-2026"
+    },
+    {
+      "id": "cultura-the-jackal-primafestival-sanremo",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "The Jackal alla conduzione del PrimaFestival di Sanremo",
+      "eventKey": "the-jackal-condurranno-primafestival-sanremo-2027"
+    },
+    {
+      "id": "cultura-un-altro-passo-parioli",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Al Parioli teatro e moda raccontano la ricerca oncologica",
+      "eventKey": "teatro-parioli-un-altro-passo-fondazione-incontradonna-5-novembre-2026"
+    },
+    {
+      "id": "cultura-percy-jackson-terza-stagione-lucca",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Percy Jackson, a Lucca il cast anticipa la terza stagione",
+      "eventKey": "percy-jackson-terza-stagione-panel-lucca-comics-30-ottobre-2026"
+    },
+    {
+      "id": "cultura-jean-reno-libro-evasione",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Jean Reno presenta il suo romanzo «Evasione» a Radio2",
+      "eventKey": "jean-reno-presenta-romanzo-evasione-radio2-30-ottobre-2026"
+    },
+    {
+      "id": "cultura-venezia-festival-qualificazione-oscar",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Venezia tra i festival che aprono una nuova strada verso gli Oscar",
+      "eventKey": "academy-sei-festival-accesso-oscar-film-internazionale-venezia-2026"
     },
     {
       "id": "tecnologia-google-home-consumi-matter",
@@ -411,12 +470,17 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_159_Carabinieri.jpg"
     },
     {
+      "id": "roma-sapienza-carcaterra-rettore",
+      "category": "Roma",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sede_Sapienza.jpeg"
+    },
+    {
       "id": "sport-berrettini-eliminato-vienna",
       "category": "Sport",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Matteo_Berrettini_at_2025_Miami_Open_04.jpg"
     }
   ],
-  "photosAvailable": 4,
+  "photosAvailable": 5,
   "categoryProgress": {
     "politica": {
       "base": 5,
@@ -443,13 +507,13 @@
       "complete": true
     },
     "roma": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cultura": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
@@ -467,5 +531,6 @@
       "complete": true
     }
   },
-  "needsPublication": false
+  "editionId": "2026-10-31-batches-af7447ea962e",
+  "needsPublication": true
 }
