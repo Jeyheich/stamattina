@@ -1,32 +1,22 @@
 {
   "editionDate": "2026-10-31",
-  "checkedAt": "2026-10-31T16:15:01.495Z",
-  "ready": false,
-  "editorialComplete": false,
-  "reserveMissing": [
-    "roma",
-    "cultura"
-  ],
+  "checkedAt": "2026-10-31T16:15:24.017Z",
+  "ready": true,
+  "editorialComplete": true,
+  "reserveMissing": [],
   "completed": [
     "politica",
     "esteri",
     "economia",
     "cronaca",
+    "roma",
+    "cultura",
     "tecnologia",
     "sport"
   ],
   "inProgress": [],
   "missing": [],
-  "invalid": [
-    {
-      "slug": "roma",
-      "reason": "Il blocco completo deve contenere 5 notizie distinte"
-    },
-    {
-      "slug": "cultura",
-      "reason": "Il blocco completo deve contenere 5 notizie distinte"
-    }
-  ],
+  "invalid": [],
   "stories": [
     {
       "id": "politica-bilancio-2027-autorizzazione-colle",
@@ -147,6 +137,66 @@
       "category": "Cronaca",
       "title": "Castel D'Azzano, tre comandanti indagati dopo l'esplosione",
       "eventKey": "castel-dazzano-inchiesta-comandanti-carabinieri-omicidio-colposo-2026"
+    },
+    {
+      "id": "roma-sapienza-carcaterra-rettore",
+      "category": "Roma",
+      "title": "Sapienza, Antonio Carcaterra eletto nuovo rettore",
+      "eventKey": "sapienza-roma-carcaterra-eletto-rettore-30-ottobre-2026"
+    },
+    {
+      "id": "roma-corsa-santi-1-novembre",
+      "category": "Roma",
+      "title": "Corsa dei Santi, domenica chiusure e deviazioni in centro",
+      "eventKey": "roma-corsa-dei-santi-1-novembre-2026-chiusure"
+    },
+    {
+      "id": "roma-its-200-borse-studio",
+      "category": "Roma",
+      "title": "ITS Academy, a Roma 200 borse da mille euro",
+      "eventKey": "camera-commercio-roma-its-200-borse-1000-euro-2026"
+    },
+    {
+      "id": "roma-antidroga-20-arresti-31-ottobre",
+      "category": "Roma",
+      "title": "Roma, venti arresti in un'operazione antidroga tra quartieri e litorale",
+      "eventKey": "roma-carabinieri-operazione-antidroga-20-arresti-31-ottobre-2026"
+    },
+    {
+      "id": "roma-fascia-verde-riscaldamento-ordinanze",
+      "category": "Roma",
+      "title": "Fascia Verde e riscaldamenti, Roma definisce le regole invernali",
+      "eventKey": "roma-ordinanze-144-145-fascia-verde-riscaldamenti-29-ottobre-2026"
+    },
+    {
+      "id": "cultura-the-jackal-primafestival-sanremo",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "The Jackal alla conduzione del PrimaFestival di Sanremo",
+      "eventKey": "the-jackal-condurranno-primafestival-sanremo-2027"
+    },
+    {
+      "id": "cultura-un-altro-passo-parioli",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Al Parioli teatro e moda raccontano la ricerca oncologica",
+      "eventKey": "teatro-parioli-un-altro-passo-fondazione-incontradonna-5-novembre-2026"
+    },
+    {
+      "id": "cultura-percy-jackson-terza-stagione-lucca",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Percy Jackson, a Lucca il cast anticipa la terza stagione",
+      "eventKey": "percy-jackson-terza-stagione-panel-lucca-comics-30-ottobre-2026"
+    },
+    {
+      "id": "cultura-jean-reno-libro-evasione",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Jean Reno presenta il suo romanzo «Evasione» a Radio2",
+      "eventKey": "jean-reno-presenta-romanzo-evasione-radio2-30-ottobre-2026"
+    },
+    {
+      "id": "cultura-venezia-festival-qualificazione-oscar",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Venezia tra i festival che aprono una nuova strada verso gli Oscar",
+      "eventKey": "academy-sei-festival-accesso-oscar-film-internazionale-venezia-2026"
     },
     {
       "id": "tecnologia-chatgpt-tutele-minori",
@@ -329,6 +379,66 @@
       "eventKey": "frosinone-operaio-morto-caduta-tetto-palestra-scuola-31-ottobre-2026"
     },
     {
+      "id": "roma-finta-dirigente-entrate-truffa",
+      "category": "Roma",
+      "title": "Castelverde, denunciata una falsa dirigente dell'Agenzia delle Entrate",
+      "eventKey": "roma-castelverde-falsa-dirigente-agenzia-entrate-truffa-30-ottobre-2026"
+    },
+    {
+      "id": "roma-pratone-monte-mario-tar",
+      "category": "Roma",
+      "title": "Pratone di Monte Mario, il Tar annulla la deroga per gli uffici giudiziari",
+      "eventKey": "roma-pratone-via-teulada-tar-annulla-deroga-regione-2026"
+    },
+    {
+      "id": "roma-case-prezzi-pressione-abitativa",
+      "category": "Roma",
+      "title": "Case a Roma, prezzi in aumento e accessibilità sempre più difficile",
+      "eventKey": "roma-fiaip-report-mercato-immobiliare-pressione-abitativa-29-ottobre-2026"
+    },
+    {
+      "id": "roma-golf-club-cassaforte-arresti",
+      "category": "Roma",
+      "title": "Cassia, furto in un golf club: tre arresti e denaro recuperato",
+      "eventKey": "roma-cassia-golf-club-cassaforte-tre-arresti-30-ottobre-2026"
+    },
+    {
+      "id": "roma-flaminio-finto-carabiniere",
+      "category": "Roma",
+      "title": "Flaminio, anziano riconosce la truffa e fa arrestare un falso carabiniere",
+      "eventKey": "roma-flaminio-finto-carabiniere-truffa-anziano-30-ottobre-2026"
+    },
+    {
+      "id": "cultura-flautissimo-2026-roma",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Flautissimo apre a Roma: concerti e teatro fino all'8 dicembre",
+      "eventKey": "roma-flautissimo-festival-31-ottobre-8-dicembre-2026"
+    },
+    {
+      "id": "cultura-roma-jazz-festival-fresu-miles",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Roma Jazz Festival, Paolo Fresu apre l'omaggio a Miles Davis",
+      "eventKey": "roma-jazz-festival-2026-paolo-fresu-miles-davis-apertura"
+    },
+    {
+      "id": "cultura-godzilla-minus-zero-lucca-anteprima",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Godzilla Minus Zero, anteprima nazionale a Lucca nella notte di Halloween",
+      "eventKey": "lucca-comics-2026-godzilla-minus-zero-anteprima-31-ottobre"
+    },
+    {
+      "id": "cultura-trieste-science-fiction-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Trieste Science+Fiction torna dal 3 all'8 novembre",
+      "eventKey": "trieste-science-fiction-festival-2026-3-8-novembre"
+    },
+    {
+      "id": "cultura-hunger-games-alba-mietitura",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Hunger Games, il nuovo prequel arriva a Lucca prima dell'uscita in sala",
+      "eventKey": "hunger-games-alba-sulla-mietitura-nuovo-film-lucca-19-novembre-2026"
+    },
+    {
       "id": "tecnologia-temu-ue-rimedi-dsa",
       "category": "Tecnologia · AI",
       "title": "Temu, Bruxelles accetta un piano contro i prodotti illegali",
@@ -395,8 +505,8 @@
     "Esteri": 5,
     "Economia": 5,
     "Cronaca": 5,
-    "Roma": 0,
-    "Cultura · Teatro · Cinema": 0,
+    "Roma": 5,
+    "Cultura · Teatro · Cinema": 5,
     "Tecnologia · AI": 5,
     "Sport": 5
   },
@@ -417,6 +527,11 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_159_Carabinieri.jpg"
     },
     {
+      "id": "roma-sapienza-carcaterra-rettore",
+      "category": "Roma",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sede_Sapienza.jpeg"
+    },
+    {
       "id": "sport-berrettini-de-minaur-vienna",
       "category": "Sport",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Matteo_Berrettini_at_2025_Miami_Open_04.jpg"
@@ -427,7 +542,7 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sara_Errani_-_Roland-Garros_-_28.05.2024_(cropped).jpg"
     }
   ],
-  "photosAvailable": 5,
+  "photosAvailable": 6,
   "categoryProgress": {
     "politica": {
       "base": 5,
@@ -454,16 +569,16 @@
       "complete": true
     },
     "roma": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "cultura": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "tecnologia": {
       "base": 5,
@@ -478,5 +593,6 @@
       "complete": true
     }
   },
-  "needsPublication": false
+  "editionId": "2026-10-31-batches-7ac7b9e2c117",
+  "needsPublication": true
 }
