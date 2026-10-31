@@ -1,10 +1,9 @@
 {
   "editionDate": "2026-10-31",
-  "checkedAt": "2026-10-31T06:16:55.792Z",
+  "checkedAt": "2026-10-31T06:17:27.374Z",
   "ready": true,
   "editorialComplete": false,
   "reserveMissing": [
-    "roma",
     "cultura"
   ],
   "completed": [
@@ -382,6 +381,36 @@
       "eventKey": "bologna-bus-linea-39-parto-assistito-autista-30-ottobre-2026"
     },
     {
+      "id": "roma-cie-open-day-31-ottobre",
+      "category": "Roma",
+      "title": "Carta d'identità elettronica, sabato open day nei Municipi XI e XIII",
+      "eventKey": "roma-open-day-cie-municipi-xi-xiii-31-ottobre-2026"
+    },
+    {
+      "id": "roma-pratone-monte-mario-tar",
+      "category": "Roma",
+      "title": "Pratone di Monte Mario, il Tar annulla la deroga per gli uffici giudiziari",
+      "eventKey": "roma-pratone-via-teulada-tar-annulla-deroga-regione-2026"
+    },
+    {
+      "id": "roma-case-prezzi-pressione-abitativa",
+      "category": "Roma",
+      "title": "Case a Roma, prezzi in aumento e accessibilità sempre più difficile",
+      "eventKey": "roma-fiaip-report-mercato-immobiliare-pressione-abitativa-29-ottobre-2026"
+    },
+    {
+      "id": "roma-golf-club-cassaforte-arresti",
+      "category": "Roma",
+      "title": "Cassia, furto in un golf club: tre arresti e denaro recuperato",
+      "eventKey": "roma-cassia-golf-club-cassaforte-tre-arresti-30-ottobre-2026"
+    },
+    {
+      "id": "roma-flaminio-finto-carabiniere",
+      "category": "Roma",
+      "title": "Flaminio, anziano riconosce la truffa e fa arrestare un falso carabiniere",
+      "eventKey": "roma-flaminio-finto-carabiniere-truffa-anziano-30-ottobre-2026"
+    },
+    {
       "id": "tecnologia-ue-stop-divieti-social-minori",
       "category": "Tecnologia · AI",
       "title": "UE, pausa alle nuove leggi nazionali sui social per minori",
@@ -448,7 +477,7 @@
     "Esteri": 5,
     "Economia": 5,
     "Cronaca": 5,
-    "Roma": 0,
+    "Roma": 5,
     "Cultura · Teatro · Cinema": 0,
     "Tecnologia · AI": 5,
     "Sport": 5
@@ -508,9 +537,9 @@
     },
     "roma": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "cultura": {
       "base": 5,
@@ -531,9 +560,6 @@
       "complete": true
     }
   },
-  "editionId": "2026-10-31-batches-af7447ea962e",
-  "needsPublication": false,
-  "publicVerifiedAt": "2026-10-31T06:17:15.818619+00:00",
-  "publicEditionId": "2026-10-31-batches-af7447ea962e",
-  "publication": "verified"
+  "editionId": "2026-10-31-batches-735e9ca222f3",
+  "needsPublication": true
 }
