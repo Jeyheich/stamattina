@@ -3,7 +3,7 @@
   "editionDate": "2026-10-31",
   "collectionId": "2026-10-31-pomeriggio",
   "category": "Tecnologia · AI",
-  "completedAt": "2026-10-31T16:05:56.827Z",
+  "completedAt": "2026-10-31T16:06:47.718Z",
   "articles": [
     {
       "id": "tecnologia-chatgpt-tutele-minori",
@@ -119,6 +119,118 @@
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
       "leadPriority": 84
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "tecnologia-temu-ue-rimedi-dsa",
+      "eventKey": "commissione-europea-accetta-rimedi-temu-prodotti-illegali-dsa-30-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Temu, Bruxelles accetta un piano contro i prodotti illegali",
+      "summary": "La piattaforma dovrà applicare misure di gestione dei rischi previste dal Digital Services Act.",
+      "body": [
+        "La Commissione europea ha accettato cinque misure correttive presentate da Temu per ridurre la diffusione di prodotti illegali sul marketplace.",
+        "Tra gli impegni figurano controlli sul sistema di raccomandazione, valutazioni dei rischi e verifiche dell'efficacia della moderazione. L'attuazione è prevista entro quattro mesi; restano aperte altre contestazioni."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-10-31T16:06:47.718Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/prodotti-illegali-commissione-ue-accetta-rimedi-temu/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T16:06:47.718Z",
+        "dateEvidence": "Punto Informatico, articolo integrale 'Pubblicato il 30 ott 2026', riporta i cinque impegni accettati dalla Commissione.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-meta-cma-termini-commerciali",
+      "eventKey": "cma-regno-unito-indagine-meta-condizioni-contenuti-ai-30-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Regno Unito, indagine antitrust sulle nuove condizioni di Meta",
+      "summary": "L'autorità CMA esamina clausole commerciali poi sospese dall'azienda.",
+      "body": [
+        "La Competition and Markets Authority ha aperto un'indagine per valutare se le condizioni proposte da Meta per i contenuti promossi su Facebook, Instagram e altri servizi siano compatibili con le regole sulla concorrenza.",
+        "Le clausole avrebbero consentito impieghi più ampi dei contenuti anche per sistemi AI. Meta ne ha sospeso l'entrata in vigore; l'apertura dell'indagine non equivale all'accertamento di una violazione."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-10-31T16:06:47.718Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/nuove-condizioni-commerciali-indagine-meta-uk/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T16:06:47.718Z",
+        "dateEvidence": "Punto Informatico, pagina completa datata 30 ott 2026, con dichiarazioni della CMA e sospensione delle condizioni Meta.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-nvidia-huggingface-antitrust",
+      "eventKey": "doj-usa-indagine-acquisizione-hugging-face-nvidia-29-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Nvidia e Hugging Face, esame antitrust negli Stati Uniti",
+      "summary": "Il Dipartimento di Giustizia valuta l'impatto concorrenziale dell'acquisizione annunciata.",
+      "body": [
+        "Il Dipartimento di Giustizia statunitense ha avviato un esame dell'operazione con cui Nvidia intende acquisire Hugging Face per circa 12,9 miliardi di dollari.",
+        "Le autorità vogliono capire se l'accordo possa limitare l'accesso ai modelli ospitati sulla piattaforma. L'operazione non è ancora conclusa e richiede il via libera regolatorio."
+      ],
+      "publishedAt": "2026-10-29",
+      "verifiedAt": "2026-10-31T16:06:47.718Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/acquisizione-hugging-face-indagine-nvidia-usa/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T16:06:47.718Z",
+        "dateEvidence": "Punto Informatico, articolo completo 'Pubblicato il 29 ott 2026', con cifre e indagine del DOJ.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-assassins-creed-destiny-report",
+      "eventKey": "report-assassins-creed-destiny-progetto-cinese-cancellato-31-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Assassin's Creed Destiny, un report parla di un progetto cancellato",
+      "summary": "Materiali trapelati descrivono uno spin-off ambientato in Cina, mai annunciato ufficialmente.",
+      "body": [
+        "Secondo il report ripreso da Everyeye, TiMi Studio Group avrebbe sviluppato un prototipo di Assassin's Creed Destiny ambientato durante la dinastia Qin, con azioni stealth e parkour.",
+        "Il progetto sarebbe stato interrotto in seguito a una riorganizzazione interna. Ubisoft non ha confermato ufficialmente né il titolo né la cancellazione: la notizia resta basata su fonti indirette."
+      ],
+      "publishedAt": "2026-10-31T00:32:00+01:00",
+      "verifiedAt": "2026-10-31T16:06:47.718Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/assassin-s-creed-destiny-misterioso-gioco-cinese-non-vedremo-mai-906324.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T16:06:47.718Z",
+        "dateEvidence": "Everyeye, articolo integrale di Davide Leoni del 31/10/2026 ore 00:32, attribuisce le informazioni a MP1st.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-playstation-plus-novembre-giochi",
+      "eventKey": "playstation-plus-essential-novembre-2026-giochi-disponibili-3-novembre",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "PlayStation Plus, i titoli di novembre disponibili dal 3",
+      "summary": "Dead Island 2, Tomb Raider IV–VI Remastered e Monster Train 2 sono i giochi mensili per gli abbonati.",
+      "body": [
+        "I giochi mensili di PlayStation Plus per novembre 2026 saranno riscattabili dal 3 novembre per gli utenti dei piani Essential, Extra e Premium.",
+        "La selezione comprende Dead Island 2, Tomb Raider IV–VI Remastered e Monster Train 2. Il riscatto è previsto fino al 30 novembre e l'accesso successivo dipende dal mantenimento dell'abbonamento."
+      ],
+      "publishedAt": "2026-10-31T09:07:00+01:00",
+      "verifiedAt": "2026-10-31T16:06:47.718Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/playstation-plus-quando-escono-giochi-gratis-novembre-data-orario-908990.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T16:06:47.718Z",
+        "dateEvidence": "Everyeye, pagina integrale firmata Antonio Izzo, 31/10/2026 ore 09:07, con titoli e data del 3 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
   ]
 }
