@@ -195,46 +195,46 @@
       }
     },
     {
-      "id": "cronaca-bordighera-ciclista-morto",
-      "eventKey": "bordighera-aurelia-tir-ciclista-tedesco-morto-moglie-ferita-2026",
+      "id": "cronaca-parma-monossido",
+      "eventKey": "parma-mezzani-monossido-due-adulti-morti-neonata-grave-2026",
       "category": "Cronaca",
       "status": "verified",
-      "title": "Bordighera, ciclista muore dopo uno scontro con un tir",
-      "summary": "L'incidente sull'Aurelia coinvolge una coppia di turisti in bicicletta; grave la donna.",
+      "title": "Parma, due morti per monossido: neonata in gravi condizioni",
+      "summary": "In un casolare a Bocca d'Enza di Mezzani sono morti due adulti; un bambino di sei anni è illeso.",
       "body": [
-        "Un ciclista tedesco è morto il 30 ottobre in un incidente sulla via Aurelia a Bordighera, nella zona Madonna della Ruota.",
-        "La moglie, che pedalava con lui, è rimasta gravemente ferita. La dinamica è ancora oggetto degli accertamenti della polizia stradale."
+        "Un uomo di 35 anni e una donna di 32 sono morti a Bocca d'Enza di Mezzani, nel Parmense, per una sospetta intossicazione da monossido di carbonio. La loro figlia di sette mesi è stata trasportata in gravi condizioni all'ospedale Maggiore di Parma.",
+        "Un altro bambino di sei anni è uscito illeso. Gli accertamenti sulle cause sono in corso: tra le ipotesi c'è il malfunzionamento di una stufa, non ancora accertato."
       ],
-      "publishedAt": "2026-10-30T18:35:00+01:00",
-      "verifiedAt": "2026-10-31T05:14:08.632Z",
+      "publishedAt": "2026-10-30T12:45:00+01:00",
+      "verifiedAt": "2026-10-31T05:14:25.642Z",
       "source": {
-        "name": "La Stampa",
-        "url": "https://www.lastampa.it/imperia-sanremo/2026/10/30/news/tir_travolge_coppia_bordighera_turista_morto-15783370/",
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/30/nossido-carbonio-morti-parma",
         "access": "free",
-        "accessCheckedAt": "2026-10-31T05:14:08.632Z",
-        "dateEvidence": "Fonte La Stampa, pagina originale datata 30 ottobre 2026 alle 18:35 Europe/Rome, contenuto letto il 31 ottobre 2026.",
+        "accessCheckedAt": "2026-10-31T05:14:25.642Z",
+        "dateEvidence": "Sky TG24, testo integrale e data originale 30 ottobre 2026 ore 12:45 Europe/Rome, riletti il 31 ottobre 2026.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "cronaca-cercenasco-scontro-auto",
-      "eventKey": "cercenasco-provinciale-138-scontro-auto-morto-72enne-2026",
+      "id": "cronaca-bologna-parto-bus",
+      "eventKey": "bologna-bus-linea-39-parto-assistito-autista-30-ottobre-2026",
       "category": "Cronaca",
       "status": "verified",
-      "title": "Torinese, muore un uomo di 72 anni nello scontro fra due auto",
-      "summary": "L'incidente è avvenuto sulla provinciale 138 a Cercenasco; ferito lievemente un 23enne.",
+      "title": "Bologna, partorisce su un autobus con l'aiuto della conducente",
+      "summary": "Una donna ha dato alla luce un bambino sulla linea 39; madre e neonato stanno bene.",
       "body": [
-        "Un uomo di 72 anni è morto nella mattina del 30 ottobre in un incidente stradale sulla provinciale 138 a Cercenasco, in provincia di Torino.",
-        "Il conducente di 23 anni dell'altra vettura è stato trasportato in ospedale con ferite lievi. I soccorritori hanno tentato a lungo di rianimare la vittima."
+        "Una passeggera ha partorito sul bus 39 di Bologna, aiutata dalla conducente Niurka Roman e da altre persone a bordo mentre attendevano i soccorsi.",
+        "La conducente ha avvolto il neonato nel proprio foulard. Madre e figlio sono stati accompagnati all'Ospedale Maggiore per gli accertamenti e risultano entrambi in buone condizioni."
       ],
-      "publishedAt": "2026-10-30T13:00:00+01:00",
-      "verifiedAt": "2026-10-31T05:14:08.632Z",
+      "publishedAt": "2026-10-30T18:29:00+01:00",
+      "verifiedAt": "2026-10-31T05:14:25.642Z",
       "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/amp/piemonte/notizie/2026/10/30/scontro-tra-due-auto-nel-torinese-morto-un-uomo-di-72-anni_0e115fb0-67f8-419f-939a-600bfa8e1389.html",
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/30/parto-bus-bologna",
         "access": "free",
-        "accessCheckedAt": "2026-10-31T05:14:08.632Z",
-        "dateEvidence": "ANSA, articolo originale datato 30 ottobre 2026; ora non esplicitata nella pagina, 13:00 è un riferimento tecnico convenzionale, non orario attestato.",
+        "accessCheckedAt": "2026-10-31T05:14:25.642Z",
+        "dateEvidence": "Sky TG24, testo integrale e data originale 30 ottobre 2026 ore 18:29 Europe/Rome, riletti il 31 ottobre 2026.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
