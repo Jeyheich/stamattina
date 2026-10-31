@@ -3,7 +3,7 @@
   "editionDate": "2026-10-31",
   "collectionId": "2026-10-31-pomeriggio",
   "category": "Economia",
-  "completedAt": "2026-10-31T15:20:16.762Z",
+  "completedAt": "2026-10-31T15:20:45.215Z",
   "articles": [
     {
       "id": "economia-inflazione-ottobre-54",
@@ -124,6 +124,118 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
         "caption": "Repertorio · Palazzo Mezzanotte, Milano, fotografia del 2022; non documenta la seduta di venerdì 30 ottobre 2026.",
         "reuseApproved": true
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "economia-eurostat-reddito-reale-01",
+      "eventKey": "eurostat-reddito-reale-famiglie-eurozona-secondo-trimestre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Eurostat, reddito reale delle famiglie quasi fermo",
+      "summary": "Nel secondo trimestre il reddito reale pro capite dell'eurozona cresce dello 0,1%, mentre i consumi avanzano dello 0,3%.",
+      "body": [
+        "I dati Eurostat riportati da Sky TG24 indicano un aumento dello 0,1% del reddito reale pro capite delle famiglie dell'area euro nel secondo trimestre 2026.",
+        "Nello stesso periodo i consumi reali pro capite aumentano dello 0,3% e il tasso di risparmio dell'eurozona cala di 0,2 punti percentuali. In Italia la contrazione del risparmio è più marcata."
+      ],
+      "publishedAt": "2026-10-31T15:12:00+01:00",
+      "verifiedAt": "2026-10-31T15:20:45.215Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/31/reddito-reale-famiglie-ue-prezzi-eurostat",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T15:20:45.215Z",
+        "dateEvidence": "Fonte originale Sky TG24, articolo integralmente letto il 31 ottobre 2026; data originale esposta: 2026-10-31 15:12:00 Europe/Rome.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-argentina-rischio-paese",
+      "eventKey": "argentina-rischio-paese-787-punti-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Argentina, rischio Paese ai massimi dell'anno",
+      "summary": "L'indicatore raggiunge 787 punti dopo un ottobre difficile per titoli azionari e obbligazionari.",
+      "body": [
+        "Il rischio Paese argentino è salito a 787 punti, dopo un aumento mensile di 180 unità e del 6,2%. Azioni e obbligazioni registrano il terzo mese consecutivo di perdite.",
+        "Tra i fattori citati dagli analisti figurano il rallentamento economico, i dubbi sulle riserve e l'incertezza politica in vista delle elezioni del 2027."
+      ],
+      "publishedAt": "2026-10-31T12:09:00+01:00",
+      "verifiedAt": "2026-10-31T15:20:45.215Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/31/titoli-argentina-rischio-bond-news",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T15:20:45.215Z",
+        "dateEvidence": "Fonte originale Sky TG24, articolo integralmente letto il 31 ottobre 2026; data originale esposta: 2026-10-31 12:09:00 Europe/Rome.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-valentino-presidio-venezia",
+      "eventKey": "valentino-valdagno-83-esuberi-presidio-venezia-31-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Valentino, presidio a Venezia contro il trasferimento del magazzino",
+      "summary": "Lavoratori della logistica di Valdagno manifestano davanti alla boutique veneziana contro il progetto di spostare le attività a Trecate.",
+      "body": [
+        "Una ventina di addetti del magazzino Valentino di Valdagno ha protestato davanti al negozio di campo San Moisè a Venezia, indossando maschere di Halloween.",
+        "I lavoratori contestano il previsto trasferimento della logistica in provincia di Novara, che secondo quanto riportato potrebbe comportare 83 licenziamenti su 109 addetti."
+      ],
+      "publishedAt": "2026-10-31T14:03:00+01:00",
+      "verifiedAt": "2026-10-31T15:20:45.215Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/lavoratori-vestiti-da-halloween-davanti-alla-boutique-di-valentino-a-venezia_58674634-88cd-4f98-8d9d-3ab63cd208e6.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T15:20:45.215Z",
+        "dateEvidence": "Fonte originale ANSA, articolo integralmente letto il 31 ottobre 2026; data originale esposta: 2026-10-31 14:03:00 Europe/Rome.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-pemex-conti-trimestre",
+      "eventKey": "pemex-perdita-605-milioni-terzo-trimestre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Pemex riduce le perdite trimestrali a 605 milioni di dollari",
+      "summary": "La compagnia petrolifera messicana registra una flessione produttiva dello 0,4% e un debito sceso a 77,6 miliardi.",
+      "body": [
+        "Nel terzo trimestre Pemex ha registrato perdite per circa 605 milioni di dollari, inferiori ai 3,43 miliardi dello stesso periodo del 2025.",
+        "La produzione di idrocarburi liquidi cala dello 0,4%, mentre il debito si riduce dell'8,9% a 77,6 miliardi di dollari. L'azienda segnala anche maggiori vendite e un aumento dei volumi raffinati."
+      ],
+      "publishedAt": "2026-10-31T01:51:00+01:00",
+      "verifiedAt": "2026-10-31T15:20:45.215Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/pemex-perde-605-milioni-nel-terzo-trimestre-produzione-in-calo-dello_8c1ac00b-9031-4584-ac63-d3a03f7f7ec1.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T15:20:45.215Z",
+        "dateEvidence": "Fonte originale ANSA, articolo integralmente letto il 31 ottobre 2026; data originale esposta: 2026-10-31 01:51:00 Europe/Rome.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-pensioni-rivalutazione-manovra",
+      "eventKey": "pensioni-indicizzazione-ridotta-risparmio-14-2-miliardi-2027-2036",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Pensioni, la rivalutazione ridotta vale 14,2 miliardi di risparmi lordi",
+      "summary": "La relazione tecnica della manovra stima gli effetti della stretta nell'arco di dieci anni.",
+      "body": [
+        "Il disegno di legge di bilancio prevede il ritorno dal 2027 a un meccanismo di indicizzazione piena soltanto per pensioni fino a quattro volte il minimo Inps.",
+        "La relazione tecnica stima minori spese lorde per 14,2 miliardi in dieci anni, 8,5 miliardi al netto degli effetti fiscali. Si tratta di una misura prevista nella manovra, non ancora di un effetto realizzato."
+      ],
+      "publishedAt": "2026-10-31T15:45:00+01:00",
+      "verifiedAt": "2026-10-31T15:20:45.215Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/dalla-stretta-su-rivalutazione-delle-pensioni-risparmi-lordi-per-142-miliardi_b41b464e-adae-4c42-b4ed-7b13351edd81.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T15:20:45.215Z",
+        "dateEvidence": "Fonte originale ANSA, articolo integralmente letto il 31 ottobre 2026; data originale esposta: 2026-10-31 15:45:00 Europe/Rome.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ]
