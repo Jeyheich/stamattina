@@ -1,231 +1,125 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-31",
-  "collectionId": "2026-10-31-mattina",
+  "collectionId": "2026-10-31-pomeriggio",
   "category": "Esteri",
-  "completedAt": "2026-10-31T05:12:11Z",
+  "completedAt": "2026-10-31T15:04:19.552Z",
   "articles": [
     {
-      "id": "esteri-polonia-corte-costituzionale-proteste",
-      "eventKey": "polonia-sospensione-presidente-corte-costituzionale-proteste-2026",
+      "id": "esteri-oleshky-tregua-evacuazione",
+      "eventKey": "oleshky-missione-umanitaria-completata-tregua-fino-primo-novembre-2026",
       "category": "Esteri",
       "status": "verified",
-      "title": "Polonia, proteste davanti alla Corte costituzionale",
-      "summary": "La sospensione del presidente della Corte costituzionale polacca provoca una crisi istituzionale e l'intervento degli agenti antisommossa.",
+      "title": "Oleshky, evacuazione completata durante una tregua concordata",
+      "summary": "Il commissario ucraino per i diritti umani annuncia il passaggio del confine da parte degli evacuati e una tregua fino al 1° novembre.",
       "body": [
-        "A Varsavia le forze antisommossa sono state schierate davanti alla sede della Corte costituzionale dopo la sospensione del suo presidente.",
-        "Il presidente Karol Nawrocki ha interrotto un viaggio in Africa. La vicenda si inserisce nel lungo conflitto sulla legittimità e sulla guida della Corte."
+        "Dmytro Lubinets ha comunicato il completamento della missione per i residenti di Oleshky, resa possibile da un accordo temporaneo tra le parti e da coordinamenti umanitari.",
+        "Secondo Kiev, la tregua resterà in vigore fino alle 22:59 del 1° novembre; Lubinets la definisce la più lunga rispettata dalle parti dal 2022. L'affermazione è attribuita alle autorità ucraine."
       ],
-      "publishedAt": "2026-10-31T00:30:00+01:00",
-      "verifiedAt": "2026-10-31T05:11:19Z",
+      "publishedAt": "2026-10-31T14:56:00+01:00",
+      "verifiedAt": "2026-10-31T15:04:19.552Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/31/tensioni-e-proteste-in-polonia-dopo-la-sospensione-del-presidente-corte-costituzionale_630b4c01-47af-4b69-b140-f20f02ecdc20.html",
+        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/31/kiev-quella-di-oleshky-la-piu-lunga-tregua-tra-russi-e-ucraini-dal_04dac3ac-26a7-49bb-8bab-92f87405e90c.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-31T05:11:19Z",
-        "dateEvidence": "ANSA: 31 ottobre 2026, ore 00:30, notizia sulle proteste davanti alla Corte.",
+        "accessCheckedAt": "2026-10-31T15:04:19.552Z",
+        "dateEvidence": "ANSA, pagina Mondo del 31 ottobre 2026, ore 14:56 Europe/Rome; data e testo letti direttamente nel pomeriggio.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 98
+      "leadPriority": 96
     },
     {
-      "id": "esteri-g20-lavrov-foto-gruppo-annullata",
-      "eventKey": "g20-atlanta-lavrov-foto-gruppo-annullata-boicottaggio-2026",
+      "id": "esteri-usa-trump-sondaggio-emerson",
+      "eventKey": "sondaggio-emerson-trump-approvazione-37-midterm-2026",
       "category": "Esteri",
       "status": "verified",
-      "title": "G20, annullata la foto dei ministri per la presenza di Lavrov",
-      "summary": "La foto ufficiale del vertice degli Esteri negli Stati Uniti è stata cancellata dopo le obiezioni di vari Paesi alla presenza russa.",
+      "title": "Midterm Usa, un sondaggio indica Trump al 37% di gradimento",
+      "summary": "Emerson College rileva un calo di due punti rispetto a settembre e un vantaggio democratico nelle intenzioni di voto.",
       "body": [
-        "La tradizionale foto di gruppo del G20 è stata annullata dopo che diverse delegazioni, tra cui Australia e Regno Unito, hanno segnalato che non avrebbero posato con il ministro degli Esteri russo Sergei Lavrov.",
-        "Il segretario di Stato statunitense Marco Rubio ha rinunciato allo scatto. La scelta evidenzia le tensioni diplomatiche ancora aperte sulla guerra in Ucraina."
+        "A tre giorni dalle elezioni di metà mandato statunitensi, la rilevazione Emerson College riportata da ANSA colloca il tasso di approvazione di Donald Trump al 37%, contro il 39% del mese precedente.",
+        "Lo stesso sondaggio segnala un vantaggio di dieci punti per i democratici. Sono stime demoscopiche, non risultati elettorali."
       ],
-      "publishedAt": "2026-10-31T01:29:00+01:00",
-      "verifiedAt": "2026-10-31T05:11:19Z",
-      "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia",
-        "access": "free",
-        "accessCheckedAt": "2026-10-31T05:11:19Z",
-        "dateEvidence": "The Guardian: Fri 30 Oct 2026 20.29 EDT, corrispondenti alle 01:29 del 31 ottobre a Roma.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 95
-    },
-    {
-      "id": "esteri-usa-patriot-ucraina-2-1-miliardi",
-      "eventKey": "usa-approvazione-potenziale-vendita-patriot-ucraina-2-1-miliardi-2026",
-      "category": "Esteri",
-      "status": "verified",
-      "title": "Washington approva una possibile fornitura di Patriot a Kiev",
-      "summary": "Il Dipartimento di Stato statunitense ha autorizzato una potenziale vendita di missili Patriot all'Ucraina per 2,1 miliardi di dollari.",
-      "body": [
-        "Secondo Bloomberg, citata da ANSA, gli Stati Uniti hanno dato il via libera alla possibile vendita di missili per la difesa aerea Patriot a Kiev.",
-        "Il valore indicato è di 2,1 miliardi di dollari, finanziati da alleati e partner. L'autorizzazione non equivale a una consegna già effettuata."
-      ],
-      "publishedAt": "2026-10-30T20:11:00+01:00",
-      "verifiedAt": "2026-10-31T05:11:19Z",
+      "publishedAt": "2026-10-31T13:38:00+01:00",
+      "verifiedAt": "2026-10-31T15:04:19.552Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/30/gli-usa-approvano-la-possibile-vendita-di-patriot-allucraina-per-21-miliardi_b9e0a25a-ba74-4f98-b3e8-97d449eaaf61.html",
+        "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/31/trump-in-calo-nei-sondaggi-il-tasso-di-approvazione-scende-al-37_f55a1b15-8da3-456a-b953-0796acb2f022.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-31T05:11:19Z",
-        "dateEvidence": "ANSA: WASHINGTON, 30 ottobre 2026, ore 20:11, citazione del Dipartimento di Stato via Bloomberg.",
+        "accessCheckedAt": "2026-10-31T15:04:19.552Z",
+        "dateEvidence": "ANSA, pagina Mondo del 31 ottobre 2026, ore 13:38 Europe/Rome; data e testo letti direttamente nel pomeriggio.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 93
+      "leadPriority": 94
     },
     {
-      "id": "esteri-etiopia-campo-sfollati-attacco",
-      "eventKey": "etiopia-amhara-attacco-droni-campo-jari-sfollati-ottobre-2026",
+      "id": "esteri-iran-khamenei-minacce-usa",
+      "eventKey": "iran-mojtaba-khamenei-avverte-usa-risposta-minacce-31-ottobre-2026",
       "category": "Esteri",
       "status": "verified",
-      "title": "Etiopia, attacchi contro un campo di sfollati nell'Amhara",
-      "summary": "Almeno 16 persone sarebbero morte negli attacchi con droni e artiglieria al campo di Jari, secondo testimonianze raccolte dai media locali.",
+      "title": "Iran, Khamenei avverte Washington contro nuovi attacchi",
+      "summary": "La Guida suprema iraniana annuncia una risposta immediata a eventuali nuove operazioni militari statunitensi.",
       "body": [
-        "Nella regione etiope dell'Amhara, il campo per sfollati noto come Turkey Camp, presso Jari e Hayq, è stato colpito il 29 ottobre.",
-        "Testimoni parlano di almeno 16 vittime e 22 feriti; ACLED ha confermato ad ANSA l'episodio ma non ha attribuito la responsabilità degli attacchi. Le cifre rimangono basate sulle informazioni disponibili."
+        "Durante un incontro con i comandanti delle forze armate, Mojtaba Khamenei ha dichiarato che Teheran risponderebbe a eventuali nuove minacce e attacchi degli Stati Uniti.",
+        "Il messaggio diffuso sul sito ufficiale della Guida suprema non costituisce un annuncio di un'azione già avvenuta: è una minaccia condizionata a futuri attacchi."
       ],
-      "publishedAt": "2026-10-30T10:37:00+01:00",
-      "verifiedAt": "2026-10-31T05:11:19Z",
+      "publishedAt": "2026-10-31T12:07:00+01:00",
+      "verifiedAt": "2026-10-31T15:04:19.552Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/30/attacchi-con-droni-a-campo-sfollati-in-etiopia-almeno-16-morti_f9861e7d-ce26-413d-99f8-a0624b77f1e8.html",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/31/layatollah-khamenei-agli-usa-risponderemo-a-ogni-minaccia_15e28fd5-2ee9-4469-bcbe-0a4e0b0b4104.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-31T05:11:19Z",
-        "dateEvidence": "ANSA: ADDIS ABEBA, 30 ottobre 2026, ore 10:37; attacchi descritti come avvenuti il giorno prima.",
+        "accessCheckedAt": "2026-10-31T15:04:19.552Z",
+        "dateEvidence": "ANSA, pagina Mondo del 31 ottobre 2026, ore 12:07 Europe/Rome; data e testo letti direttamente nel pomeriggio.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 91
+    },
+    {
+      "id": "esteri-polonia-nawrocki-colloqui-crisi",
+      "eventKey": "polonia-nawrocki-convoca-partiti-crisi-corte-costituzionale-31-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Polonia, Nawrocki convoca i partiti per la crisi della Consulta",
+      "summary": "Il presidente rientra a Varsavia e apre colloqui dopo la sospensione del vertice della Corte costituzionale.",
+      "body": [
+        "Karol Nawrocki ha interrotto il viaggio verso il Senegal per tornare in Polonia e convocare consultazioni urgenti sulla sospensione del presidente della Corte, Bogdan Święczkowski.",
+        "Le proteste e il presidio della polizia attorno alla sede della Corte proseguono; il presidente dice di voler ridurre il rischio di escalation istituzionale."
+      ],
+      "publishedAt": "2026-10-31T11:25:00+01:00",
+      "verifiedAt": "2026-10-31T15:04:19.552Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/31/presidente-polacco-convoca-colloqui-per-calmare-crisi-su-corte-costituzionale_dfc968c7-d201-475f-b89e-a0e21a6a2625.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T15:04:19.552Z",
+        "dateEvidence": "ANSA, pagina Mondo del 31 ottobre 2026, ore 11:25 Europe/Rome; data e testo letti direttamente nel pomeriggio.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
       "leadPriority": 89
     },
     {
-      "id": "esteri-ue-tranche-45-miliardi-kiev",
-      "eventKey": "commissione-europea-proposta-tranche-45-miliardi-ucraina-2027",
+      "id": "esteri-francia-bastiglia-consiglio-stato",
+      "eventKey": "francia-consiglio-stato-divieto-corteo-bastiglia-31-ottobre-2026",
       "category": "Esteri",
       "status": "verified",
-      "title": "Commissione europea, proposta una tranche da 45 miliardi per l'Ucraina",
-      "summary": "Bruxelles ha approvato la proposta per destinare a Kiev i restanti 45 miliardi del prestito europeo da 90 miliardi.",
+      "title": "Parigi, il Consiglio di Stato conferma il divieto di corteo alla Bastiglia",
+      "summary": "Il massimo giudice amministrativo francese ribalta il via libera precedente e sposta la manifestazione lontano dal centro.",
       "body": [
-        "La Commissione europea ha adottato una proposta di decisione destinata al Consiglio per finanziare il sostegno all'Ucraina nel 2027.",
-        "Il pacchetto prevede fino a 13,3 miliardi per il bilancio e 31,7 miliardi per capacità industriali di difesa. La proposta deve ancora seguire il percorso di approvazione degli Stati membri."
+        "Il Consiglio di Stato ha accolto il ricorso delle autorità contro la decisione del tribunale amministrativo che aveva consentito un corteo da Bastiglia a Nation.",
+        "Il percorso alternativo indicato dal prefetto è tra Porte de Bagnolet e Porte de Charenton. La misura viene motivata con il timore di nuovi disordini dopo le proteste del 17 ottobre."
       ],
-      "publishedAt": "2026-10-30T16:11:00+01:00",
-      "verifiedAt": "2026-10-31T05:11:19Z",
+      "publishedAt": "2026-10-31T11:24:00+01:00",
+      "verifiedAt": "2026-10-31T15:04:19.552Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/30/via-libera-della-commissione-ue-a-tranche-da-45-miliardi-per-kiev_2290ba0d-12fb-4616-aee8-69ed62e51bc8.html",
+        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/31/francia-il-consiglio-di-stato-smentisce-il-tar-niente-bastiglia-per-i-manifestanti_2763b858-d6df-45a1-8289-e7a03a8c6c2b.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-31T05:11:19Z",
-        "dateEvidence": "ANSA: BRUXELLES, 30 ottobre 2026, ore 16:11, proposta Commissione UE al Consiglio.",
+        "accessCheckedAt": "2026-10-31T15:04:19.552Z",
+        "dateEvidence": "ANSA, pagina Mondo del 31 ottobre 2026, ore 11:24 Europe/Rome; data e testo letti direttamente nel pomeriggio.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 85
+      "leadPriority": 86
     }
   ],
-  "reserveArticles": [
-    {
-      "id": "esteri-brasile-impeachment-sindaco-san-paolo",
-      "eventKey": "brasile-san-paolo-commissione-impeachment-sindaco-ricardo-nunes-2026",
-      "category": "Esteri",
-      "status": "verified",
-      "title": "San Paolo, commissione valuta la richiesta di impeachment del sindaco",
-      "summary": "Il consiglio comunale ha nominato una commissione che esaminerà le accuse rivolte a Ricardo Nunes.",
-      "body": [
-        "Tre consiglieri del Psol contestano il mancato impiego dell'intera flotta di autobus durante il ballottaggio presidenziale del 25 ottobre. La commissione avrà dieci giorni per decidere sull'ammissibilità della denuncia, senza che l'impeachment sia stato già approvato."
-      ],
-      "publishedAt": "2026-10-30T21:24:00+01:00",
-      "verifiedAt": "2026-10-31T05:12:11Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/amp/sito/notizie/mondo/americalatina/2026/10/30/brasile-nominata-commissione-per-esaminare-impeachment-del-sindaco-di-san-paolo_a786688f-0a8d-4bf8-aa88-f83c57a5b83a.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-31T05:12:11Z",
-        "dateEvidence": "ANSA Mondo: 30 ottobre 2026, ore 21:24; pagina America Latina e testo integrale.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "esteri-panama-proposta-dialogo-usa-cuba",
-      "eventKey": "panama-proposta-onu-dialogo-washington-avana-ottobre-2026",
-      "category": "Esteri",
-      "status": "verified",
-      "title": "Panama propone un tavolo di dialogo fra Stati Uniti e Cuba",
-      "summary": "Il governo panamense offre una sede neutrale per eventuali colloqui, chiedendo all'Avana garanzie sui diritti.",
-      "body": [
-        "Il ministro degli Esteri Javier Martínez-Acha ha rilanciato la proposta di Panama di ospitare un confronto fra Washington e L'Avana. L'iniziativa è condizionata alla disponibilità delle due parti e segue un voto Onu sull'embargo a Cuba."
-      ],
-      "publishedAt": "2026-10-30T21:00:00+01:00",
-      "verifiedAt": "2026-10-31T05:12:11Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/amp/sito/notizie/mondo/americalatina/2026/10/30/cuba-panama-si-offre-come-sede-per-un-dialogo-tra-washington-e-lavana_72be61d3-2100-4889-a9d7-b0e1b79c0e5b.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-31T05:12:11Z",
-        "dateEvidence": "ANSA Mondo: 30 ottobre 2026, ore 21:00; pagina America Latina e testo dell'annuncio.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "esteri-ucraina-oleshky-civili-evacuati",
-      "eventKey": "oleshky-evacuazione-civili-convoglio-russia-bielorussia-30-ottobre-2026",
-      "category": "Esteri",
-      "status": "verified",
-      "title": "Oleshky, partiti i civili evacuati dalla città occupata",
-      "summary": "Kiev riferisce l'avvio del trasferimento dei residenti di Oleshky attraverso Russia e Bielorussia per evitare il fronte.",
-      "body": [
-        "Il deputato ucraino David Arakhamia ha comunicato la partenza della delegazione con gli evacuati verso Anapa. Il percorso concordato prevede un volo in Bielorussia e il successivo rientro in autobus in Ucraina. Il numero effettivo delle persone partite non è stato precisato nell'annuncio."
-      ],
-      "publishedAt": "2026-10-30T16:31:00+01:00",
-      "verifiedAt": "2026-10-31T05:12:11Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://videoembed.ansa.it/sito/notizie/topnews/2026/10/30/kiev-partiti-i-civili-evacuati-da-oleshky_069a5887-605f-4256-902d-ddd02d6246ac.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-31T05:12:11Z",
-        "dateEvidence": "ANSA: ROMA, 30 ottobre 2026, ore 16:31, annuncio della partenza del convoglio.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "esteri-taiwan-raid-locale-lgbt",
-      "eventKey": "taiwan-taipei-raid-polizia-bar-lgbt-pride-ottobre-2026",
-      "category": "Esteri",
-      "status": "verified",
-      "title": "Taiwan, perquisizione in un locale LGBT suscita proteste",
-      "summary": "Il fermo e l'interrogatorio di clienti in un bar di Taipei riaccendono il dibattito sul trattamento delle persone LGBT.",
-      "body": [
-        "Un'operazione di polizia in un locale di Taipei ha portato 51 clienti a essere accompagnati per accertamenti su presunte violazioni delle norme di decoro pubblico. Attivisti e frequentatori contestano il trattamento ricevuto, a ridosso del Pride."
-      ],
-      "publishedAt": "2026-10-31T01:05:00+01:00",
-      "verifiedAt": "2026-10-31T05:12:11Z",
-      "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/oct/31/taiwan-gay-bar-police-raid-lgbt-pride-parade",
-        "access": "free",
-        "accessCheckedAt": "2026-10-31T05:12:11Z",
-        "dateEvidence": "The Guardian: Fri 30 Oct 2026 20.05 EDT, equivalenti alle 01:05 del 31 ottobre a Roma.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "esteri-israele-voto-donne-beduine",
-      "eventKey": "israele-elezioni-2026-affluenza-donne-beduine-partiti-arabi-19-seggi",
-      "category": "Esteri",
-      "status": "verified",
-      "title": "Israele, il voto delle donne beduine pesa sul risultato dei partiti arabi",
-      "summary": "La mobilitazione nelle comunità beduine ha contribuito all'elezione di 19 parlamentari delle liste a guida palestinese.",
-      "body": [
-        "Il reportage del Guardian descrive la partecipazione delle donne beduine al voto israeliano e le campagne contro le demolizioni di case nei villaggi del Negev. Le liste guidate da rappresentanti palestinesi hanno ottenuto 19 seggi, un risultato senza precedenti secondo la ricostruzione del giornale."
-      ],
-      "publishedAt": "2026-10-31T06:00:00+01:00",
-      "verifiedAt": "2026-10-31T05:12:11Z",
-      "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/oct/31/bedouin-women-success-arab-parties-israel-election",
-        "access": "free",
-        "accessCheckedAt": "2026-10-31T05:12:11Z",
-        "dateEvidence": "The Guardian: Sat 31 Oct 2026 06.00 CET, data e ora esplicite nel reportage.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    }
-  ]
+  "reserveArticles": []
 }
