@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-10-31",
+  "collectionId": "2026-10-31-mattina",
+  "category": "Roma",
+  "completedAt": "2026-10-31T06:16:44.853Z",
+  "articles": [
+    {
+      "id": "roma-sapienza-carcaterra-rettore",
+      "eventKey": "sapienza-roma-carcaterra-eletto-rettore-30-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Sapienza, Antonio Carcaterra eletto nuovo rettore",
+      "summary": "Il docente di Meccanica applicata alle macchine succede ad Antonella Polimeni dopo il ballottaggio con Fabio Lucidi.",
+      "body": [
+        "Antonio Carcaterra, professore ordinario di Meccanica applicata alle macchine nella facoltà di Ingegneria, è stato eletto rettore della Sapienza di Roma il 30 ottobre. Ha superato Fabio Lucidi, docente di psicologia, nella votazione conclusiva.",
+        "Secondo i risultati riportati da ANSA, Carcaterra ha raccolto 1.920 preferenze tra i docenti e 304 tra gli studenti. Subentra ad Antonella Polimeni alla guida dell'ateneo."
+      ],
+      "publishedAt": "2026-10-30T16:04:00+01:00",
+      "verifiedAt": "2026-10-31T06:16:44.853Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/30/il-professor-antonio-carcaterra-e-il-nuovo-rettore-della-sapienza-di-roma_f870953c-9727-4b39-bc41-915846197016.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:16:44.853Z",
+        "dateEvidence": "ANSA Lazio, 30 ottobre 2026 ore 16:04, data e testo completo letti il 31 ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 86,
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Sede_Sapienza.jpeg",
+        "alt": "Sede centrale dell'Università La Sapienza a Roma, in piazzale Aldo Moro",
+        "credit": "Carlo Dani / Wikimedia Commons",
+        "rights": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sede_Sapienza.jpeg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "caption": "Repertorio · La sede della Sapienza fotografata nel 2016; non è una fotografia dell'elezione del rettore.",
+        "reuseApproved": true
+      }
+    },
+    {
+      "id": "roma-corsa-santi-1-novembre",
+      "eventKey": "roma-corsa-dei-santi-1-novembre-2026-chiusure",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Corsa dei Santi, domenica chiusure e deviazioni in centro",
+      "summary": "La gara del 1° novembre coinvolgerà Vaticano, Prati e centro storico, con le prime chiusure dalle sei.",
+      "body": [
+        "La Corsa dei Santi è in programma domenica 1° novembre dalle 8:15 alle 10, con partenza e arrivo in piazza Pio XII. Il percorso attraversa via della Conciliazione, corso Vittorio, via dei Fori Imperiali, piazza Venezia e piazza del Popolo.",
+        "Secondo l'Agenzia per la mobilità di Roma, alcune chiusure inizieranno già alle 6, soprattutto nell'area del Vaticano e di Borgo. Previste deviazioni per gli autobus: chi deve spostarsi può consultare gli aggiornamenti ufficiali."
+      ],
+      "publishedAt": "2026-10-30T18:46:00+01:00",
+      "verifiedAt": "2026-10-31T06:16:44.853Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/30/domenica-a-roma-la-corsa-dei-santi-prime-chiusure-dalle-6_ea97ce01-dd0c-4f31-8204-e41d6c76b298.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:16:44.853Z",
+        "dateEvidence": "ANSA Lazio, 30 ottobre 2026 ore 18:46, articolo letto integralmente il 31 ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-its-200-borse-studio",
+      "eventKey": "camera-commercio-roma-its-200-borse-1000-euro-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "ITS Academy, a Roma 200 borse da mille euro",
+      "summary": "La Camera di commercio raddoppia il numero dei contributi per gli iscritti al primo anno degli ITS della provincia.",
+      "body": [
+        "Il bando ITS Academy 2026 mette a disposizione 200 borse di studio da 1.000 euro ciascuna per studenti iscritti e frequentanti il primo anno di corsi ITS organizzati nella provincia di Roma.",
+        "Le domande sono aperte dalle 9 del 30 ottobre alle 14 del 18 dicembre e devono essere inviate via PEC. Le borse saranno assegnate in ordine di arrivo delle domande ammissibili, fino a esaurimento delle risorse."
+      ],
+      "publishedAt": "2026-10-30T09:04:00+01:00",
+      "verifiedAt": "2026-10-31T06:16:44.853Z",
+      "source": {
+        "name": "Unioncamere",
+        "url": "https://unioncamere.gov.it/sistema-camerale/news-dal-sistema-camerale/roma-bando-its-academy-2026-dalla-camera-di-commercio-200-borse-di-studio",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:16:44.853Z",
+        "dateEvidence": "Unioncamere, aggiornamento 30/10/2026 ore 09:04 indicato nella pagina originale letta il 31 ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-finta-dirigente-entrate-truffa",
+      "eventKey": "roma-castelverde-falsa-dirigente-agenzia-entrate-truffa-30-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Roma, denunciata una donna che si spacciava per dirigente del Fisco",
+      "summary": "La Guardia di finanza ha sequestrato tesserini falsi dopo un'indagine su presunte promesse di cancellare cartelle esattoriali.",
+      "body": [
+        "La Guardia di finanza di Roma ha denunciato una persona che si presentava come dirigente generale dell'Agenzia delle Entrate, pur non facendo parte dell'amministrazione. Secondo gli investigatori prometteva ai contribuenti l'eliminazione di debiti fiscali dietro pagamenti.",
+        "I militari della Compagnia di Monterotondo sono intervenuti a Castelverde durante uno scambio di denaro. L'ipotesi di reato resta oggetto di indagine; sono stati sequestrati falsi tesserini e contanti."
+      ],
+      "publishedAt": "2026-10-30T07:51:00+01:00",
+      "verifiedAt": "2026-10-31T06:16:44.853Z",
+      "source": {
+        "name": "Agenzia Opinione / comunicato Guardia di Finanza",
+        "url": "https://www.agenziagiornalisticaopinione.it/opinionmix/gdf-guardia-di-finanza-roma-scoperta-finta-dirigente-dellagenzia-delle-entrate-sequestrati-falsi-tesserini-e-denaro-contante/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:16:44.853Z",
+        "dateEvidence": "Comunicato della Guardia di Finanza pubblicato da Agenzia Opinione venerdì 30 ottobre 2026 alle 07:51, letto integralmente.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-fascia-verde-riscaldamento-ordinanze",
+      "eventKey": "roma-ordinanze-144-145-fascia-verde-riscaldamenti-29-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Fascia Verde e riscaldamenti, Roma definisce le regole invernali",
+      "summary": "Le ordinanze del 29 ottobre confermano le restrizioni per i veicoli più inquinanti e fissano il calendario degli impianti termici.",
+      "body": [
+        "Il sindaco Roberto Gualtieri ha firmato il 29 ottobre due ordinanze sulla qualità dell'aria: la n. 144 riguarda la circolazione dei mezzi più inquinanti nella Fascia Verde, confermando le limitazioni già in vigore senza introdurre nuove categorie vietate.",
+        "La n. 145 stabilisce l'accensione ordinaria degli impianti termici dal 15 novembre 2026 all'8 aprile 2027, per un massimo di 11 ore giornaliere, con regole specifiche per gli uffici comunali."
+      ],
+      "publishedAt": "2026-10-29",
+      "verifiedAt": "2026-10-31T06:16:44.853Z",
+      "source": {
+        "name": "Canale Dieci",
+        "url": "https://canaledieci.it/2026/10/29/al-via-le-nuove-misure-di-gualtieri-per-la-qualita-dellaria-stop-alle-auto-inquinanti-in-fascia-verde-e-riscaldamenti-contingentati/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:16:44.853Z",
+        "dateEvidence": "Canale Dieci, pagina originale datata giovedì 29 ottobre 2026; l'editore non indica l'ora, quindi publishedAt conserva solo la data.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
+}
