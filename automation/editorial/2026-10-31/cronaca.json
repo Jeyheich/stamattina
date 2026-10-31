@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-10-31",
+  "collectionId": "2026-10-31-mattina",
+  "category": "Cronaca",
+  "completedAt": "2026-10-31T05:13:40.509Z",
+  "articles": [
+    {
+      "id": "cronaca-sciopero-30-ottobre-cortei",
+      "eventKey": "sciopero-usb-30-ottobre-2026-cortei-e-tensioni",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Sciopero generale, cortei e tensioni a Roma e Torino",
+      "summary": "La mobilitazione del 30 ottobre ha interessato decine di città; in serata si sono registrati scontri e interventi delle forze dell'ordine.",
+      "body": [
+        "Studenti e lavoratori hanno partecipato allo sciopero generale indetto dall'Usb contro carovita e riarmo, con manifestazioni in oltre sessanta città.",
+        "Nelle ore serali sono emerse tensioni a Roma e Torino, con lanci di oggetti, cariche e idranti. Le stime della partecipazione diffuse da organizzatori e autorità non coincidono."
+      ],
+      "publishedAt": "2026-10-30T23:59:00+01:00",
+      "verifiedAt": "2026-10-31T05:13:40.509Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/30/sciopero-oggi-30-ottobre-diretta",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T05:13:40.509Z",
+        "dateEvidence": "Pagina originale Sky TG24 del 30 ottobre 2026, pubblicata alle 23:59 (Europe/Rome); testo integrale e data letti il 31 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-elicottero-bosnia-vittime",
+      "eventKey": "bosnia-elicottero-italiani-quattro-vittime-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Bosnia, ricostruite le storie delle quattro vittime dell'elicottero",
+      "summary": "Tra i morti nello schianto figurano due militari e due operatori della Croce Rossa italiana.",
+      "body": [
+        "Dopo l'incidente aereo in Bosnia, emergono i profili delle quattro persone italiane decedute: Laura Procacci, Adriano Zecchillo, Simone Ruggia e Claudio Marchesi.",
+        "Procacci era impegnata anche negli studi di medicina; Zecchillo aveva una lunga esperienza nella Croce Rossa. Restano distinti il ricordo delle vittime e gli accertamenti sulle cause dello schianto."
+      ],
+      "publishedAt": "2026-10-30T18:44:00+01:00",
+      "verifiedAt": "2026-10-31T05:13:40.509Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/elicottero-caduto-in-bosnia-le-vittime-_2ac7350e-580d-4c75-b386-2c0d63e279c6.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T05:13:40.509Z",
+        "dateEvidence": "Pagina originale ANSA del 30 ottobre 2026, pubblicata alle 18:44 (Europe/Rome); testo integrale e data letti il 31 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-castel-dazzano-tre-carabinieri-indagati",
+      "eventKey": "castel-dazzano-inchiesta-comandanti-carabinieri-omicidio-colposo-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Castel D'Azzano, indagati tre comandanti dei Carabinieri",
+      "summary": "La Procura di Verona apre un fascicolo sulla pianificazione dello sgombero in cui morirono tre militari nel 2025.",
+      "body": [
+        "Tre comandanti dei Carabinieri risultano indagati per omicidio colposo plurimo nell'inchiesta sull'esplosione del 14 ottobre 2025 a Castel D'Azzano, avvenuta durante uno sgombero.",
+        "La Procura di Verona esamina la gestione dell'operazione. Essere indagati non equivale a una responsabilità accertata; è inoltre aperto un procedimento disciplinare distinto."
+      ],
+      "publishedAt": "2026-10-30T17:39:00+01:00",
+      "verifiedAt": "2026-10-31T05:13:40.509Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/strage-di-castel-dazzano-tre-carabinieri-indagati-per-omicidio-colposo_d5bcdaa5-d2d1-4763-86c0-c5150e144f46.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T05:13:40.509Z",
+        "dateEvidence": "Pagina originale ANSA del 30 ottobre 2026, pubblicata alle 17:39 (Europe/Rome); testo integrale e data letti il 31 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 88,
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Alfa_Romeo_159_Carabinieri.jpg",
+        "alt": "Autovettura dei Carabinieri fotografata nel 2015",
+        "credit": "SkeLeBon / Wikimedia Commons",
+        "rights": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_159_Carabinieri.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "caption": "Repertorio · Autovettura dei Carabinieri (2015), non collegata all'operazione di Castel D'Azzano né all'inchiesta.",
+        "reuseApproved": true
+      }
+    },
+    {
+      "id": "cronaca-milano-urbanistica-assoluzioni",
+      "eventKey": "milano-urbanistica-via-fauche-assoluzioni-30-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Urbanistica a Milano, nuove assoluzioni nel caso di via Fauché",
+      "summary": "Il tribunale assolve i tre imputati nel procedimento relativo a una palazzina residenziale.",
+      "body": [
+        "Il Tribunale di Milano ha assolto costruttori e progettista nel processo per il cantiere di via Fauché 9, con contestazioni che comprendevano abuso edilizio e lottizzazione abusiva.",
+        "Il verdetto penale è distinto dalle precedenti pronunce amministrative sull'intervento urbanistico: il Comune aveva ordinato la demolizione dopo decisioni del Tar e del Consiglio di Stato."
+      ],
+      "publishedAt": "2026-10-30T17:35:00+01:00",
+      "verifiedAt": "2026-10-31T05:13:40.509Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/urbanistica-milano-arriva-unaltra-sentenza-con-tutti-gli-imputati-assolti_b8b4c79a-21dc-4486-bfa8-6af34b5f67ff.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T05:13:40.509Z",
+        "dateEvidence": "Pagina originale ANSA del 30 ottobre 2026, pubblicata alle 17:35 (Europe/Rome); testo integrale e data letti il 31 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-crans-montana-foto-vittime",
+      "eventKey": "crans-montana-famiglie-contestano-spostamento-ritratti-vittime-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Crans-Montana, le famiglie contestano lo spostamento delle foto delle vittime",
+      "summary": "I parenti delle persone morte nell'incendio del Constellation chiedono che i ritratti rimangano sul luogo della tragedia.",
+      "body": [
+        "Le famiglie delle vittime dell'incendio di Capodanno al Constellation si oppongono al progetto di coprire l'edificio con una struttura provvisoria e trasferire le fotografie dei ragazzi.",
+        "La proposta del Comune prevede di mantenere i nomi sul posto e collocare le immagini altrove. I parenti chiedono invece che i volti rimangano nel luogo in cui è avvenuta la tragedia."
+      ],
+      "publishedAt": "2026-10-30T18:55:00+01:00",
+      "verifiedAt": "2026-10-31T05:13:40.509Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/le-famiglie-delle-vittime-contro-crans-non-toccate-le-foto-dei-nostri_e1197174-40e7-48c4-aba1-1ef184a90553.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T05:13:40.509Z",
+        "dateEvidence": "Pagina originale ANSA del 30 ottobre 2026, pubblicata alle 18:55 (Europe/Rome); testo integrale e data letti il 31 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
+}
