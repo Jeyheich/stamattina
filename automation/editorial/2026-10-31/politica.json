@@ -26,7 +26,17 @@
         "dateEvidence": "ANSA: ROMA, 30 ottobre 2026, ore 19:50, nella pagina dell'autorizzazione del Quirinale.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 96
+      "leadPriority": 96,
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Palazzo_Chigi_Roma_giugno_2024.jpg",
+        "alt": "Facciata di Palazzo Chigi a Roma, sede del Governo",
+        "credit": "Sergio D’Afflitto / Wikimedia Commons",
+        "rights": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Chigi_Roma_giugno_2024.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "caption": "Palazzo Chigi, sede della Presidenza del Consiglio, in una fotografia di repertorio del 23 giugno 2024. Non ritrae la presentazione della manovra 2027.",
+        "reuseApproved": true
+      }
     },
     {
       "id": "politica-campo-largo-primarie-febbraio",
