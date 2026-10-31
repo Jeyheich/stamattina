@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-31",
-  "checkedAt": "2026-10-31T06:08:47.613Z",
+  "checkedAt": "2026-10-31T06:09:00.926Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,13 +14,13 @@
     "esteri",
     "economia",
     "cronaca",
-    "tecnologia"
+    "tecnologia",
+    "sport"
   ],
   "inProgress": [],
   "missing": [
     "roma",
-    "cultura",
-    "sport"
+    "cultura"
   ],
   "invalid": [],
   "stories": [
@@ -173,6 +173,36 @@
       "category": "Tecnologia · AI",
       "title": "Turn 10 cambia identità e saluta il fondatore Dan Greenawalt",
       "eventKey": "turn10-playground-games-redmond-greenawalt-lascia-microsoft-2026"
+    },
+    {
+      "id": "sport-pulisic-rinnovo-milan-2031",
+      "category": "Sport",
+      "title": "Pulisic rinnova con il Milan fino al 2031",
+      "eventKey": "milan-ufficiale-rinnovo-pulisic-fino-2031-30-ottobre-2026"
+    },
+    {
+      "id": "sport-juve-ekhator-rientro",
+      "category": "Sport",
+      "title": "Juventus, Ekhator torna ad allenarsi con i compagni",
+      "eventKey": "juventus-ekhator-rientro-allenamento-gruppo-30-ottobre-2026"
+    },
+    {
+      "id": "sport-leao-primo-gol-galatasaray",
+      "category": "Sport",
+      "title": "Leão trova il primo gol con il Galatasaray",
+      "eventKey": "leao-prima-rete-galatasaray-konyaspor-rigore-30-ottobre-2026"
+    },
+    {
+      "id": "sport-f1-leclerc-fp2-messico",
+      "category": "Sport",
+      "title": "GP del Messico, Leclerc il più rapido nelle seconde libere",
+      "eventKey": "formula-1-messico-fp2-leclerc-primo-norris-russell-30-ottobre-2026"
+    },
+    {
+      "id": "sport-berrettini-eliminato-vienna",
+      "category": "Sport",
+      "title": "Berrettini eliminato ai quarti di Vienna da De Minaur",
+      "eventKey": "atp-vienna-berrettini-de-minaur-quarti-7-6-6-2-30-ottobre-2026"
     },
     {
       "id": "politica-vigano-consulta-presidente",
@@ -368,7 +398,7 @@
       "complete": false
     },
     "sport": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
