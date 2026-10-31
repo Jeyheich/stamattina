@@ -3,7 +3,7 @@
   "editionDate": "2026-10-31",
   "collectionId": "2026-10-31-mattina",
   "category": "Esteri",
-  "completedAt": "2026-10-31T05:11:19Z",
+  "completedAt": "2026-10-31T05:12:11Z",
   "articles": [
     {
       "id": "esteri-polonia-corte-costituzionale-proteste",
@@ -119,6 +119,113 @@
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
       "leadPriority": 85
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "esteri-brasile-impeachment-sindaco-san-paolo",
+      "eventKey": "brasile-san-paolo-commissione-impeachment-sindaco-ricardo-nunes-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "San Paolo, commissione valuta la richiesta di impeachment del sindaco",
+      "summary": "Il consiglio comunale ha nominato una commissione che esaminerà le accuse rivolte a Ricardo Nunes.",
+      "body": [
+        "Tre consiglieri del Psol contestano il mancato impiego dell'intera flotta di autobus durante il ballottaggio presidenziale del 25 ottobre. La commissione avrà dieci giorni per decidere sull'ammissibilità della denuncia, senza che l'impeachment sia stato già approvato."
+      ],
+      "publishedAt": "2026-10-30T21:24:00+01:00",
+      "verifiedAt": "2026-10-31T05:12:11Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/amp/sito/notizie/mondo/americalatina/2026/10/30/brasile-nominata-commissione-per-esaminare-impeachment-del-sindaco-di-san-paolo_a786688f-0a8d-4bf8-aa88-f83c57a5b83a.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T05:12:11Z",
+        "dateEvidence": "ANSA Mondo: 30 ottobre 2026, ore 21:24; pagina America Latina e testo integrale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-panama-proposta-dialogo-usa-cuba",
+      "eventKey": "panama-proposta-onu-dialogo-washington-avana-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Panama propone un tavolo di dialogo fra Stati Uniti e Cuba",
+      "summary": "Il governo panamense offre una sede neutrale per eventuali colloqui, chiedendo all'Avana garanzie sui diritti.",
+      "body": [
+        "Il ministro degli Esteri Javier Martínez-Acha ha rilanciato la proposta di Panama di ospitare un confronto fra Washington e L'Avana. L'iniziativa è condizionata alla disponibilità delle due parti e segue un voto Onu sull'embargo a Cuba."
+      ],
+      "publishedAt": "2026-10-30T21:00:00+01:00",
+      "verifiedAt": "2026-10-31T05:12:11Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/amp/sito/notizie/mondo/americalatina/2026/10/30/cuba-panama-si-offre-come-sede-per-un-dialogo-tra-washington-e-lavana_72be61d3-2100-4889-a9d7-b0e1b79c0e5b.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T05:12:11Z",
+        "dateEvidence": "ANSA Mondo: 30 ottobre 2026, ore 21:00; pagina America Latina e testo dell'annuncio.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-ucraina-oleshky-civili-evacuati",
+      "eventKey": "oleshky-evacuazione-civili-convoglio-russia-bielorussia-30-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Oleshky, partiti i civili evacuati dalla città occupata",
+      "summary": "Kiev riferisce l'avvio del trasferimento dei residenti di Oleshky attraverso Russia e Bielorussia per evitare il fronte.",
+      "body": [
+        "Il deputato ucraino David Arakhamia ha comunicato la partenza della delegazione con gli evacuati verso Anapa. Il percorso concordato prevede un volo in Bielorussia e il successivo rientro in autobus in Ucraina. Il numero effettivo delle persone partite non è stato precisato nell'annuncio."
+      ],
+      "publishedAt": "2026-10-30T16:31:00+01:00",
+      "verifiedAt": "2026-10-31T05:12:11Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://videoembed.ansa.it/sito/notizie/topnews/2026/10/30/kiev-partiti-i-civili-evacuati-da-oleshky_069a5887-605f-4256-902d-ddd02d6246ac.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T05:12:11Z",
+        "dateEvidence": "ANSA: ROMA, 30 ottobre 2026, ore 16:31, annuncio della partenza del convoglio.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-taiwan-raid-locale-lgbt",
+      "eventKey": "taiwan-taipei-raid-polizia-bar-lgbt-pride-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Taiwan, perquisizione in un locale LGBT suscita proteste",
+      "summary": "Il fermo e l'interrogatorio di clienti in un bar di Taipei riaccendono il dibattito sul trattamento delle persone LGBT.",
+      "body": [
+        "Un'operazione di polizia in un locale di Taipei ha portato 51 clienti a essere accompagnati per accertamenti su presunte violazioni delle norme di decoro pubblico. Attivisti e frequentatori contestano il trattamento ricevuto, a ridosso del Pride."
+      ],
+      "publishedAt": "2026-10-31T01:05:00+01:00",
+      "verifiedAt": "2026-10-31T05:12:11Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/31/taiwan-gay-bar-police-raid-lgbt-pride-parade",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T05:12:11Z",
+        "dateEvidence": "The Guardian: Fri 30 Oct 2026 20.05 EDT, equivalenti alle 01:05 del 31 ottobre a Roma.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-israele-voto-donne-beduine",
+      "eventKey": "israele-elezioni-2026-affluenza-donne-beduine-partiti-arabi-19-seggi",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Israele, il voto delle donne beduine pesa sul risultato dei partiti arabi",
+      "summary": "La mobilitazione nelle comunità beduine ha contribuito all'elezione di 19 parlamentari delle liste a guida palestinese.",
+      "body": [
+        "Il reportage del Guardian descrive la partecipazione delle donne beduine al voto israeliano e le campagne contro le demolizioni di case nei villaggi del Negev. Le liste guidate da rappresentanti palestinesi hanno ottenuto 19 seggi, un risultato senza precedenti secondo la ricostruzione del giornale."
+      ],
+      "publishedAt": "2026-10-31T06:00:00+01:00",
+      "verifiedAt": "2026-10-31T05:12:11Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/31/bedouin-women-success-arab-parties-israel-election",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T05:12:11Z",
+        "dateEvidence": "The Guardian: Sat 31 Oct 2026 06.00 CET, data e ora esplicite nel reportage.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
   ]
 }
