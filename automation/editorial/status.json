@@ -1,10 +1,9 @@
 {
   "editionDate": "2026-10-31",
-  "checkedAt": "2026-10-31T05:11:34.913Z",
+  "checkedAt": "2026-10-31T05:12:04.245Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
-    "politica",
     "esteri",
     "economia",
     "cronaca",
@@ -87,11 +86,41 @@
       "category": "Esteri",
       "title": "Commissione europea, proposta una tranche da 45 miliardi per l'Ucraina",
       "eventKey": "commissione-europea-proposta-tranche-45-miliardi-ucraina-2027"
+    },
+    {
+      "id": "politica-vigano-consulta-presidente",
+      "category": "Politica",
+      "title": "Francesco Viganò eletto presidente della Consulta",
+      "eventKey": "consulta-francesco-vigano-eletto-presidente-2026"
+    },
+    {
+      "id": "politica-craxi-medici-radiati-senato",
+      "category": "Politica",
+      "title": "Craxi chiede di modificare la norma sui medici radiati",
+      "eventKey": "craxi-forza-italia-modifiche-reintegro-medici-radiati-2026"
+    },
+    {
+      "id": "politica-piantedosi-piano-cortei",
+      "category": "Politica",
+      "title": "Il Viminale coordina i prefetti in vista delle manifestazioni",
+      "eventKey": "viminale-coordinamento-prefetti-dispositivo-cortei-29-ottobre-2026"
+    },
+    {
+      "id": "politica-youtrend-sondaggio-proteste",
+      "category": "Politica",
+      "title": "Sondaggio Sky TG24, opinioni trasversali su proteste e sicurezza",
+      "eventKey": "sondaggio-youtrend-sky-30-ottobre-2026-sicurezza-proteste"
+    },
+    {
+      "id": "politica-meloni-omaggio-militari-bosnia",
+      "category": "Politica",
+      "title": "Meloni e Crosetto rendono omaggio ai militari caduti in Bosnia",
+      "eventKey": "meloni-crosetto-omaggio-quattro-militari-bosnia-30-ottobre-2026"
     }
   ],
   "collectionId": "2026-10-31-mattina",
   "reserveCounts": {
-    "Politica": 0,
+    "Politica": 5,
     "Esteri": 0,
     "Economia": 0,
     "Cronaca": 0,
@@ -105,9 +134,9 @@
   "categoryProgress": {
     "politica": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "esteri": {
       "base": 5,
