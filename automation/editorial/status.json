@@ -1,12 +1,11 @@
 {
   "editionDate": "2026-10-31",
-  "checkedAt": "2026-10-31T06:09:16.446Z",
+  "checkedAt": "2026-10-31T06:09:32.615Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
     "roma",
-    "cultura",
-    "sport"
+    "cultura"
   ],
   "completed": [
     "politica",
@@ -352,6 +351,36 @@
       "category": "Tecnologia · AI",
       "title": "Zelda Ocarina of Time, Aonuma racconta l'attesa del remake",
       "eventKey": "zelda-ocarina-time-remake-aonuma-dichiarazioni-afp-30-ottobre-2026"
+    },
+    {
+      "id": "sport-milan-inter-probabili-formazioni",
+      "category": "Sport",
+      "title": "Derby Milan-Inter, le scelte previste di Amorim e Chivu",
+      "eventKey": "milan-inter-derby-31-ottobre-2026-probabili-formazioni-amorim-chivu"
+    },
+    {
+      "id": "sport-pallone-oro-voti-kane-mbappe",
+      "category": "Sport",
+      "title": "Pallone d'Oro, Kane ha superato Mbappé di 28 punti",
+      "eventKey": "pallone-oro-2026-dettaglio-voti-kane-mbappe-distacco-28"
+    },
+    {
+      "id": "sport-cardinale-cena-milan-derby",
+      "category": "Sport",
+      "title": "Cardinale riunisce dirigenti ed ex rossoneri prima del derby",
+      "eventKey": "cardinale-cena-ex-milan-dirigenti-vigilia-derby-30-ottobre-2026"
+    },
+    {
+      "id": "sport-hamilton-stop-fp2-messico",
+      "category": "Sport",
+      "title": "Hamilton fermato da un problema tecnico nelle libere del Messico",
+      "eventKey": "f1-messico-hamilton-stop-tecnico-fp2-30-ottobre-2026"
+    },
+    {
+      "id": "sport-cobolli-risentimento-parigi",
+      "category": "Sport",
+      "title": "Cobolli aggiorna sulle condizioni dopo il ritiro a Vienna",
+      "eventKey": "cobolli-risentimento-muscolare-obiettivo-masters-parigi-30-ottobre-2026"
     }
   ],
   "collectionId": "2026-10-31-mattina",
@@ -363,7 +392,7 @@
     "Roma": 0,
     "Cultura · Teatro · Cinema": 0,
     "Tecnologia · AI": 5,
-    "Sport": 0
+    "Sport": 5
   },
   "photoCandidates": [
     {
@@ -428,9 +457,9 @@
     },
     "sport": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     }
   },
   "needsPublication": false
