@@ -1,11 +1,9 @@
 {
   "editionDate": "2026-10-31",
-  "checkedAt": "2026-10-31T06:17:27.374Z",
+  "checkedAt": "2026-10-31T06:18:02.978Z",
   "ready": true,
-  "editorialComplete": false,
-  "reserveMissing": [
-    "cultura"
-  ],
+  "editorialComplete": true,
+  "reserveMissing": [],
   "completed": [
     "politica",
     "esteri",
@@ -411,6 +409,36 @@
       "eventKey": "roma-flaminio-finto-carabiniere-truffa-anziano-30-ottobre-2026"
     },
     {
+      "id": "cultura-flautissimo-2026-roma",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Flautissimo apre a Roma: concerti e teatro fino all'8 dicembre",
+      "eventKey": "roma-flautissimo-festival-31-ottobre-8-dicembre-2026"
+    },
+    {
+      "id": "cultura-roma-jazz-festival-fresu-miles",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Roma Jazz Festival, Paolo Fresu apre l'omaggio a Miles Davis",
+      "eventKey": "roma-jazz-festival-2026-paolo-fresu-miles-davis-apertura"
+    },
+    {
+      "id": "cultura-antonio-ballista-concerto-90-anni",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Antonio Ballista festeggia 90 anni con un concerto benefico alla Sapienza",
+      "eventKey": "antonio-ballista-90-anni-concerto-benefico-sapienza-31-ottobre-2026"
+    },
+    {
+      "id": "cultura-trieste-science-fiction-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Trieste Science+Fiction torna dal 3 all'8 novembre",
+      "eventKey": "trieste-science-fiction-festival-2026-3-8-novembre"
+    },
+    {
+      "id": "cultura-hunger-games-alba-mietitura",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Hunger Games, il nuovo prequel arriva a Lucca prima dell'uscita in sala",
+      "eventKey": "hunger-games-alba-sulla-mietitura-nuovo-film-lucca-19-novembre-2026"
+    },
+    {
       "id": "tecnologia-ue-stop-divieti-social-minori",
       "category": "Tecnologia · AI",
       "title": "UE, pausa alle nuove leggi nazionali sui social per minori",
@@ -478,7 +506,7 @@
     "Economia": 5,
     "Cronaca": 5,
     "Roma": 5,
-    "Cultura · Teatro · Cinema": 0,
+    "Cultura · Teatro · Cinema": 5,
     "Tecnologia · AI": 5,
     "Sport": 5
   },
@@ -543,9 +571,9 @@
     },
     "cultura": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "tecnologia": {
       "base": 5,
@@ -560,9 +588,6 @@
       "complete": true
     }
   },
-  "editionId": "2026-10-31-batches-735e9ca222f3",
-  "needsPublication": false,
-  "publicVerifiedAt": "2026-10-31T06:17:51.165765+00:00",
-  "publicEditionId": "2026-10-31-batches-735e9ca222f3",
-  "publication": "verified"
+  "editionId": "2026-10-31-batches-9ec0f4d77cdc",
+  "needsPublication": true
 }
