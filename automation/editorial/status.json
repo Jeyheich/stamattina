@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-31",
-  "checkedAt": "2026-10-31T05:14:48.728Z",
+  "checkedAt": "2026-10-31T06:08:47.613Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,13 +13,13 @@
     "politica",
     "esteri",
     "economia",
-    "cronaca"
+    "cronaca",
+    "tecnologia"
   ],
   "inProgress": [],
   "missing": [
     "roma",
     "cultura",
-    "tecnologia",
     "sport"
   ],
   "invalid": [],
@@ -143,6 +143,36 @@
       "category": "Cronaca",
       "title": "Crans-Montana, le famiglie contestano lo spostamento delle foto delle vittime",
       "eventKey": "crans-montana-famiglie-contestano-spostamento-ritratti-vittime-2026"
+    },
+    {
+      "id": "tecnologia-google-home-consumi-matter",
+      "category": "Tecnologia · AI",
+      "title": "Google Home mostra i consumi energetici delle prese Matter",
+      "eventKey": "google-home-visualizza-consumi-prese-matter-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-reddit-login-scraping-ai",
+      "category": "Tecnologia · AI",
+      "title": "Reddit prepara l'accesso con login per limitare i crawler AI",
+      "eventKey": "reddit-annuncia-test-login-obbligatorio-contro-scraping-ai-2026"
+    },
+    {
+      "id": "tecnologia-gemini-editing-file-chat",
+      "category": "Tecnologia · AI",
+      "title": "Gemini introduce l'editing dei documenti nella conversazione",
+      "eventKey": "gemini-editing-file-anteprima-pdf-docs-fogli-chat-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-dark-souls-server-stop",
+      "category": "Tecnologia · AI",
+      "title": "Dark Souls II e III: multiplayer temporaneamente sospeso",
+      "eventKey": "fromsoftware-dark-souls-2-3-server-multiplayer-stop-30-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-turn10-greenawalt-uscita",
+      "category": "Tecnologia · AI",
+      "title": "Turn 10 cambia identità e saluta il fondatore Dan Greenawalt",
+      "eventKey": "turn10-playground-games-redmond-greenawalt-lascia-microsoft-2026"
     },
     {
       "id": "politica-vigano-consulta-presidente",
@@ -332,7 +362,7 @@
       "complete": false
     },
     "tecnologia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
