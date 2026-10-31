@@ -3,7 +3,7 @@
   "editionDate": "2026-10-31",
   "collectionId": "2026-10-31-mattina",
   "category": "Roma",
-  "completedAt": "2026-10-31T06:16:44.853Z",
+  "completedAt": "2026-10-31T06:17:23.344Z",
   "articles": [
     {
       "id": "roma-sapienza-carcaterra-rettore",
@@ -123,6 +123,118 @@
         "access": "free",
         "accessCheckedAt": "2026-10-31T06:16:44.853Z",
         "dateEvidence": "Canale Dieci, pagina originale datata giovedì 29 ottobre 2026; l'editore non indica l'ora, quindi publishedAt conserva solo la data.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "roma-cie-open-day-31-ottobre",
+      "eventKey": "roma-open-day-cie-municipi-xi-xiii-31-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Carta d'identità elettronica, sabato open day nei Municipi XI e XIII",
+      "summary": "Aperture straordinarie anche negli sportelli centrali, ma la prenotazione resta obbligatoria.",
+      "body": [
+        "Sabato 31 ottobre Roma organizza un open day per richiedere la Carta d'Identità Elettronica. Sono previste aperture nei Municipi XI e XIII, in via Petroselli e negli ex Punti di Informazione Turistica.",
+        "Il Municipio XI riceve dalle 8 alle 14, il XIII dalle 8:30 alle 13:30, mentre gli sportelli di piazza delle Cinque Lune, piazza Sonnino, Santa Maria Maggiore e via Petroselli operano dalle 8:30 alle 16:30. Serve una prenotazione tramite Agenda CIE, oltre a fototessera, vecchio documento e carta di pagamento."
+      ],
+      "publishedAt": "2026-10-29T17:04:00+01:00",
+      "verifiedAt": "2026-10-31T06:17:23.344Z",
+      "source": {
+        "name": "Gold TV",
+        "url": "https://goldtv.it/roma/carta-di-identita-elettronica-open-day-sabato-31-ottobre/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:17:23.344Z",
+        "dateEvidence": "Gold TV, 29 ottobre 2026 ore 17:04; articolo letto e orari confrontati il 31 ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-pratone-monte-mario-tar",
+      "eventKey": "roma-pratone-via-teulada-tar-annulla-deroga-regione-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Pratone di Monte Mario, il Tar annulla la deroga per gli uffici giudiziari",
+      "summary": "La sentenza ferma per ora l'ampliamento previsto vicino a piazzale Clodio, ma non esclude un nuovo progetto.",
+      "body": [
+        "Il Tar del Lazio ha annullato il decreto regionale che autorizzava una deroga alle tutele ambientali per realizzare nuovi uffici giudiziari sul pratone di via Teulada, nella Riserva di Monte Mario. Il ricorso era stato promosso da comitati e associazioni del quartiere.",
+        "La decisione, pubblicata il 28 ottobre e analizzata dalla stampa locale il 29, non dichiara in assoluto incompatibile l'edificazione: le amministrazioni potrebbero ripresentare un progetto con istruttoria ambientale adeguata oppure valutare soluzioni alternative."
+      ],
+      "publishedAt": "2026-10-29T17:37:00+01:00",
+      "verifiedAt": "2026-10-31T06:17:23.344Z",
+      "source": {
+        "name": "La Capitale",
+        "url": "https://www.lacapitale.it/articolo/pratone-via-teulada-tar-futuro-roma-capitale-luparelli",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:17:23.344Z",
+        "dateEvidence": "La Capitale, 29 ottobre 2026 ore 17:37, analisi originale letta integralmente il 31 ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-case-prezzi-pressione-abitativa",
+      "eventKey": "roma-fiaip-report-mercato-immobiliare-pressione-abitativa-29-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Case a Roma, prezzi in aumento e accessibilità sempre più difficile",
+      "summary": "Il rapporto Fiaip fotografa un mercato con domanda in crescita, offerta ridotta e forti differenze fra quartieri.",
+      "body": [
+        "Secondo i dati del rapporto Fiaip Monitora presentato il 29 ottobre, nel primo semestre 2026 i prezzi delle abitazioni a Roma sono aumentati del 6,4%, mentre la domanda è cresciuta del 15,6% e l'offerta di immobili in vendita è diminuita del 6%.",
+        "L'indagine segnala una forte pressione sull'accessibilità: con un reddito singolo si può acquistare meno del 9% delle case in vendita. Il prezzo medio richiesto nella capitale è indicato intorno a 3.784 euro al metro quadrato, con variazioni molto ampie tra centro e periferia."
+      ],
+      "publishedAt": "2026-10-29",
+      "verifiedAt": "2026-10-31T06:17:23.344Z",
+      "source": {
+        "name": "Canale Dieci",
+        "url": "https://canaledieci.it/2026/10/29/roma-ha-la-pressione-abitativa-piu-alta-in-italia-ecco-i-quartieri-dove-il-green-aumenta-il-valore-immobiliare/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:17:23.344Z",
+        "dateEvidence": "Canale Dieci, pubblicato giovedì 29 ottobre 2026; l'ora non è indicata dall'editore e non è stata inventata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-golf-club-cassaforte-arresti",
+      "eventKey": "roma-cassia-golf-club-cassaforte-tre-arresti-30-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Cassia, furto in un golf club: tre arresti e denaro recuperato",
+      "summary": "Gli investigatori hanno ricostruito l'intrusione negli uffici e il tentativo di nascondersi per ore nella proprietà.",
+      "body": [
+        "Tre persone sono state arrestate dopo un'incursione in un golf club di Roma Nord, lungo via Cassia. Secondo la ricostruzione della polizia, sarebbero entrate negli uffici e avrebbero forzato una cassaforte, sottraendo circa 2.500 euro.",
+        "Le ricerche condotte dagli agenti con la vigilanza privata hanno portato a individuare i sospettati nascosti nella vegetazione del comprensorio. Il denaro è stato recuperato; le accuse sono ancora nella fase processuale in cui vale la presunzione di innocenza."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-10-31T06:17:23.344Z",
+      "source": {
+        "name": "Canale Dieci",
+        "url": "https://canaledieci.it/2026/10/30/rubano-cassaforte-golf-club-e-si-nascondono-per-ore-tre-kosoavari-arrestati-dalla-polizia-di-stato/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:17:23.344Z",
+        "dateEvidence": "Canale Dieci, articolo pubblicato venerdì 30 ottobre 2026, testo originale letto il 31 ottobre; nessuna ora editoriale disponibile.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-flaminio-finto-carabiniere",
+      "eventKey": "roma-flaminio-finto-carabiniere-truffa-anziano-30-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Flaminio, anziano riconosce la truffa e fa arrestare un falso carabiniere",
+      "summary": "Il residente ha avvisato i veri militari dopo una telefonata che chiedeva oro e contanti per un presunto controllo.",
+      "body": [
+        "Un anziano del quartiere Flaminio ha contattato i Carabinieri dopo una telefonata di una persona che si spacciava per militare e chiedeva di consegnare gioielli e contanti per verifiche legate a una presunta rapina.",
+        "I Carabinieri hanno predisposto un appostamento e fermato sul pianerottolo un uomo di 31 anni arrivato per ritirare i beni. Secondo la ricostruzione riportata dalla stampa locale, il denaro e i preziosi sono stati restituiti al proprietario."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-10-31T06:17:23.344Z",
+      "source": {
+        "name": "Canale Dieci",
+        "url": "https://canaledieci.it/2026/10/30/anziano-smaschera-la-truffa-della-rapina-al-flaminio-finto-carabiniere-bloccato-sul-pianerottolo-video/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T06:17:23.344Z",
+        "dateEvidence": "Canale Dieci, pubblicato venerdì 30 ottobre 2026, articolo originale letto il 31 ottobre; ora non indicata.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
