@@ -1,95 +1,95 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-31",
-  "collectionId": "2026-10-31-mattina",
+  "collectionId": "2026-10-31-pomeriggio",
   "category": "Economia",
-  "completedAt": "2026-10-31T05:14:05.981Z",
+  "completedAt": "2026-10-31T15:20:16.762Z",
   "articles": [
     {
       "id": "economia-inflazione-ottobre-54",
       "eventKey": "istat-inflazione-ottobre-2026-5-4",
       "category": "Economia",
       "status": "verified",
-      "title": "L'inflazione italiana accelera al 5,4% in ottobre",
-      "summary": "La stima preliminare Istat indica un aumento dei prezzi dello 0,9% sul mese; decisivo il rincaro dell'energia.",
+      "title": "Prezzi italiani in accelerazione: inflazione al 5,4%",
+      "summary": "La stima Istat per ottobre registra un aumento annuo del 5,4%, trainato soprattutto dall'energia.",
       "body": [
-        "L'indice nazionale dei prezzi al consumo sale del 5,4% rispetto a ottobre 2025, contro il 4,2% di settembre. È il livello più alto dall'agosto 2023, secondo le stime preliminari diffuse il 30 ottobre.",
-        "L'energia registra un incremento annuo del 31,4%, mentre i prodotti alimentari freschi aumentano del 7,5%. Il dato è provvisorio e sarà seguito dalla diffusione definitiva dell'Istat."
+        "La stima preliminare dell'Istat colloca l'inflazione annua di ottobre al 5,4%, dal 4,2% di settembre. I prezzi energetici aumentano del 31,4% e quelli del cibo fresco del 7,5%.",
+        "La crescita del Pil si è fermata nel terzo trimestre e i salari contrattuali crescono meno dei prezzi: un quadro che mette sotto pressione il potere d'acquisto delle famiglie."
       ],
       "publishedAt": "2026-10-30T21:03:00+01:00",
-      "verifiedAt": "2026-10-31T05:13:40.509Z",
+      "verifiedAt": "2026-10-31T15:20:16.762Z",
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/il-caro-energia-fa-danni-vola-linflazione-e-la-crescita-si-ferma_6ea6c523-9671-4e3d-b1df-e2cfbfa1e6fd.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-31T05:13:40.509Z",
-        "dateEvidence": "Pagina originale ANSA del 30 ottobre 2026, pubblicata alle 21:03 (Europe/Rome); testo integrale e data letti il 31 ottobre 2026.",
+        "accessCheckedAt": "2026-10-31T15:20:16.762Z",
+        "dateEvidence": "Pagina originale ANSA letta integralmente il 31 ottobre 2026; data di pubblicazione esposta dall'editore: 2026-10-30 21:03:00 Europe/Rome.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "economia-pil-terzo-trimestre-fermo",
-      "eventKey": "istat-pil-italia-terzo-trimestre-2026-stagnazione",
+      "id": "economia-ita-226-esuberi",
+      "eventKey": "ita-airways-procedura-226-esuberi-31-ottobre-2026",
       "category": "Economia",
       "status": "verified",
-      "title": "Il Pil italiano resta fermo nel terzo trimestre",
-      "summary": "Istat: crescita congiunturale nulla e +0,8% rispetto a un anno prima, con l'industria in calo.",
+      "title": "Ita Airways apre una procedura per 226 esuberi",
+      "summary": "La compagnia indica 10 piloti, 90 assistenti di volo e 126 addetti a terra; il confronto con i sindacati deve ancora definire le uscite.",
       "body": [
-        "Nel periodo luglio-settembre 2026 il Pil italiano non è cresciuto rispetto al trimestre precedente, secondo la prima stima dell'Istat.",
-        "Su base annua l'aumento è dello 0,8%. I servizi e l'agricoltura contribuiscono positivamente, mentre il valore aggiunto dell'industria arretra; il saldo estero ha un contributo negativo."
+        "Ita Airways ha comunicato ai ministeri competenti e ai sindacati l'avvio della procedura per 226 esuberi strutturali, pari al 4,3% dell'organico. Le prime uscite sono previste entro dicembre 2026.",
+        "La compagnia cita l'aumento dei costi del carburante, le modifiche alle rotte e l'automazione di alcune mansioni. L'avvio della procedura non equivale a licenziamenti già eseguiti."
       ],
-      "publishedAt": "2026-10-30T10:37:00+01:00",
-      "verifiedAt": "2026-10-31T05:13:40.509Z",
+      "publishedAt": "2026-10-31T06:30:00+01:00",
+      "verifiedAt": "2026-10-31T15:20:16.762Z",
       "source": {
         "name": "Sky TG24",
-        "url": "https://tg24.sky.it/economia/2026/10/30/pil-italia-terzo-trimestre-2026-istat",
+        "url": "https://tg24.sky.it/economia/2026/10/31/ita-airways-licenziamenti-esuberi",
         "access": "free",
-        "accessCheckedAt": "2026-10-31T05:13:40.509Z",
-        "dateEvidence": "Pagina originale Sky TG24 del 30 ottobre 2026, pubblicata alle 10:37 (Europe/Rome); testo integrale e data letti il 31 ottobre 2026.",
+        "accessCheckedAt": "2026-10-31T15:20:16.762Z",
+        "dateEvidence": "Pagina originale Sky TG24 letta integralmente il 31 ottobre 2026; data di pubblicazione esposta dall'editore: 2026-10-31 06:30:00 Europe/Rome.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "economia-salari-settembre-sotto-inflazione",
-      "eventKey": "istat-retribuzioni-contrattuali-settembre-2026-2-5",
+      "id": "economia-eurocontrol-jet-fuel",
+      "eventKey": "eurocontrol-jet-fuel-ottobre-2026-4-84-gallone",
       "category": "Economia",
       "status": "verified",
-      "title": "Retribuzioni contrattuali a +2,5%, sotto l'inflazione",
-      "summary": "La crescita annua delle paghe contrattuali resta inferiore ai prezzi per il secondo trimestre consecutivo.",
+      "title": "Carburante aereo, Eurocontrol segnala un rincaro del 114%",
+      "summary": "Il prezzo medio europeo di ottobre raggiunge 4,84 dollari al gallone, più del doppio rispetto al periodo precedente alla crisi mediorientale.",
       "body": [
-        "Le retribuzioni contrattuali orarie di settembre risultano invariate rispetto ad agosto e aumentano del 2,5% rispetto a settembre 2025, secondo l'Istat.",
-        "Il settore privato segna +2,3%, la pubblica amministrazione +3,2%. Per il secondo trimestre consecutivo l'aumento tendenziale delle retribuzioni è inferiore a quello dell'inflazione."
+        "Secondo Eurocontrol il carburante per aerei in Europa ha toccato a ottobre una media di 4,84 dollari al gallone, contro 2,26 dollari nel periodo gennaio-febbraio: un aumento del 114%.",
+        "Il 27 ottobre la quotazione era arrivata a 4,93 dollari. L'organizzazione segnala il massimo mensile dall'inizio della crisi in Medio Oriente."
       ],
-      "publishedAt": "2026-10-30T12:23:00+01:00",
-      "verifiedAt": "2026-10-31T05:13:40.509Z",
+      "publishedAt": "2026-10-31T10:58:00+01:00",
+      "verifiedAt": "2026-10-31T15:20:16.762Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/istat-a-settembre-retribuzioni-25-crescita-inferiore-a-inflazione_606797b8-f757-4c9e-88fb-eb2b4a6b55d5.html",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/eurocontrol-prezzo-medio-del-carburante-per-aerei-a-484-dollari-al-gallone_e1046041-cc8e-43fa-8d75-4fc69f314ebf.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-31T05:13:40.509Z",
-        "dateEvidence": "Pagina originale ANSA del 30 ottobre 2026, pubblicata alle 12:23 (Europe/Rome); testo integrale e data letti il 31 ottobre 2026.",
+        "accessCheckedAt": "2026-10-31T15:20:16.762Z",
+        "dateEvidence": "Pagina originale ANSA letta integralmente il 31 ottobre 2026; data di pubblicazione esposta dall'editore: 2026-10-31 10:58:00 Europe/Rome.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "economia-banche-contributo-manovra",
-      "eventKey": "governo-banche-scontro-contributo-fiscale-manovra-2027",
+      "id": "economia-caro-voli-natale",
+      "eventKey": "codacons-tariffe-voli-natale-2026-milano-reggio-427",
       "category": "Economia",
       "status": "verified",
-      "title": "Contributo delle banche alla manovra, confronto acceso",
-      "summary": "All'incontro Acri Patuelli contesta la concentrazione del carico fiscale; Giorgetti richiama gli aiuti pubblici passati.",
+      "title": "Natale, voli nazionali già costosi: fino a 427 euro sulla Milano-Reggio",
+      "summary": "Un monitoraggio Codacons sulle partenze natalizie registra tariffe elevate per chi torna al Sud.",
       "body": [
-        "Il confronto sulla manovra 2027 tra governo e banche è diventato esplicito durante la Giornata mondiale del risparmio organizzata dall'Acri.",
-        "Il presidente Abi Antonio Patuelli e rappresentanti degli istituti hanno contestato il peso delle misure sul comparto. Il ministro Giancarlo Giorgetti ha replicato ricordando le garanzie e gli strumenti pubblici utilizzati in passato a sostegno del sistema finanziario."
+        "Per un volo di andata e ritorno Milano-Reggio Calabria con partenza il 23 o 24 dicembre e ritorno il 6 gennaio, il Codacons rileva una tariffa minima di 427 euro. Milano-Trapani parte da 383 euro.",
+        "Secondo un'analisi citata dall'ANSA, itinerari con scalo possono ridurre il costo in alcuni casi, ma aumentano il rischio di disagi e allungano i tempi di viaggio."
       ],
-      "publishedAt": "2026-10-30T19:23:00+01:00",
-      "verifiedAt": "2026-10-31T05:13:40.509Z",
+      "publishedAt": "2026-10-31T14:29:00+01:00",
+      "verifiedAt": "2026-10-31T15:20:16.762Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/scontro-aperto-fra-governo-e-banche-sulle-tasse-in-manovra_b8e528d1-757f-407a-a8e6-28d1bea461ad.html",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/e-gia-caro-voli-di-natale-430-euro-per-volare-da-milano-a-reggio_46a93fbe-b91c-4b50-9e06-1eab612d0808.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-31T05:13:40.509Z",
-        "dateEvidence": "Pagina originale ANSA del 30 ottobre 2026, pubblicata alle 19:23 (Europe/Rome); testo integrale e data letti il 31 ottobre 2026.",
+        "accessCheckedAt": "2026-10-31T15:20:16.762Z",
+        "dateEvidence": "Pagina originale ANSA letta integralmente il 31 ottobre 2026; data di pubblicazione esposta dall'editore: 2026-10-31 14:29:00 Europe/Rome.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -98,144 +98,32 @@
       "eventKey": "borsa-milano-ftse-mib-chiusura-30-ottobre-2026",
       "category": "Economia",
       "status": "verified",
-      "title": "Piazza Affari chiude in ribasso dell'1%",
-      "summary": "L'indice Ftse Mib termina la seduta di venerdì a 49.500 punti.",
+      "title": "Piazza Affari, ultimo venerdì di ottobre in calo dell'1%",
+      "summary": "Il Ftse Mib ha terminato la seduta del 30 ottobre a 49.500 punti, in ribasso dell'1%.",
       "body": [
-        "La Borsa di Milano ha chiuso la seduta del 30 ottobre in territorio negativo: il Ftse Mib ha perso l'1%, fermandosi a 49.500 punti.",
-        "Il dato fotografa la chiusura del mercato di venerdì e non rappresenta un andamento già registrato per la giornata di sabato."
+        "La Borsa di Milano ha chiuso venerdì 30 ottobre con il Ftse Mib in calo dell'1%, a quota 49.500 punti.",
+        "Il dato si riferisce all'ultima seduta prima del fine settimana: non rappresenta una quotazione di sabato 31 ottobre."
       ],
       "publishedAt": "2026-10-30T17:39:00+01:00",
-      "verifiedAt": "2026-10-31T05:13:40.509Z",
+      "verifiedAt": "2026-10-31T15:20:16.762Z",
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/borsa-milano-chiude-in-calo-ftse-mib-1_7a5244d8-18d8-477f-a5b6-e9adeada0120.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-31T05:13:40.509Z",
-        "dateEvidence": "Pagina originale ANSA del 30 ottobre 2026, pubblicata alle 17:39 (Europe/Rome); testo integrale e data letti il 31 ottobre 2026.",
+        "accessCheckedAt": "2026-10-31T15:20:16.762Z",
+        "dateEvidence": "Pagina originale ANSA letta integralmente il 31 ottobre 2026; data di pubblicazione esposta dall'editore: 2026-10-30 17:39:00 Europe/Rome.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 88,
+      "leadPriority": 85,
       "image": {
         "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Palais_Mezzanotte_-_Milan_%28IT25%29_-_2022-09-03_-_3.jpg/960px-Palais_Mezzanotte_-_Milan_%28IT25%29_-_2022-09-03_-_3.jpg",
-        "alt": "Facciata di Palazzo Mezzanotte a Milano, sede della Borsa italiana",
+        "alt": "Palazzo Mezzanotte, sede della Borsa italiana a Milano",
         "credit": "Chabe01 / Wikimedia Commons",
         "rights": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palais_Mezzanotte_-_Milan_(IT25)_-_2022-09-03_-_3.jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "caption": "Repertorio · Palazzo Mezzanotte, sede della Borsa italiana, fotografato nel 2022; non ritrae la seduta del 30 ottobre.",
+        "caption": "Repertorio · Palazzo Mezzanotte, Milano, fotografia del 2022; non documenta la seduta di venerdì 30 ottobre 2026.",
         "reuseApproved": true
-      }
-    }
-  ],
-  "reserveArticles": [
-    {
-      "id": "economia-gas-amsterdam-103",
-      "eventKey": "gas-amsterdam-future-dicembre-103-euro-30-ottobre-2026",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Gas europeo oltre 103 euro al MWh",
-      "summary": "Il future di dicembre ad Amsterdam sale del 5,4%, toccando un massimo da quattro anni.",
-      "body": [
-        "Le quotazioni del gas naturale sul mercato di Amsterdam sono aumentate dopo la chiusura delle Borse europee il 30 ottobre.",
-        "Il contratto con consegna a dicembre ha raggiunto 103,2 euro per Megawattora, in rialzo del 5,4%: si tratta di un prezzo del mercato all'ingrosso, non di una tariffa già applicata alle bollette."
-      ],
-      "publishedAt": "2026-10-30T18:06:00+01:00",
-      "verifiedAt": "2026-10-31T05:14:05.981Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/il-gas-in-forte-aumento-5-a-103-euro-al-megawattora_a9866a2d-6c9b-47dc-aa8a-84d072130d02.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-31T05:14:05.981Z",
-        "dateEvidence": "Fonte ANSA, pagina originale datata 30 ottobre 2026 alle 18:06 Europe/Rome, contenuto letto il 31 ottobre 2026.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "economia-eurozona-pil-04",
-      "eventKey": "eurostat-eurozona-pil-terzo-trimestre-2026-0-4",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Eurozona, Pil in crescita dello 0,4% nel terzo trimestre",
-      "summary": "La stima preliminare Eurostat indica un rallentamento rispetto al +0,6% del trimestre precedente.",
-      "body": [
-        "Tra luglio e settembre 2026 il Pil dell'area euro è aumentato dello 0,4% sul trimestre, mentre l'Unione europea ha segnato +0,5%.",
-        "L'Italia è rimasta ferma, la Germania è cresciuta dello 0,2%, la Spagna dello 0,6% e la Francia ha registrato una lieve contrazione dello 0,1%."
-      ],
-      "publishedAt": "2026-10-30T11:38:00+01:00",
-      "verifiedAt": "2026-10-31T05:14:05.981Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://videoembed.ansa.it/europa/notizie/rubriche/altrenews/2026/10/30/eurozona-il-pil-cresce-dello-04-nel-terzo-trimestre_50b54b6d-ba24-461f-8fa9-d1a22569fb9a.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-31T05:14:05.981Z",
-        "dateEvidence": "Fonte ANSA, pagina originale datata 30 ottobre 2026 alle 11:38 Europe/Rome, contenuto letto il 31 ottobre 2026.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "economia-spread-118-punti",
-      "eventKey": "spread-btp-bund-chiusura-118-30-ottobre-2026",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Spread Btp-Bund a 118 punti base in chiusura",
-      "summary": "Il differenziale tra i titoli decennali italiani e tedeschi aumenta di un punto dall'apertura.",
-      "body": [
-        "Alla chiusura del 30 ottobre lo spread fra Btp e Bund decennali si è attestato a 118 punti base, contro 117 punti all'avvio della seduta.",
-        "Il rendimento del titolo di Stato italiano decennale indicato nella rilevazione è del 4,51%."
-      ],
-      "publishedAt": "2026-10-30T18:04:00+01:00",
-      "verifiedAt": "2026-10-31T05:14:05.981Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/lo-spread-tra-btp-e-bund-chiude-in-lieve-rialzo-a-118-punti-base_2299e571-821e-4ca5-b848-75a2df309bcd.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-31T05:14:05.981Z",
-        "dateEvidence": "Fonte ANSA, pagina originale datata 30 ottobre 2026 alle 18:04 Europe/Rome, contenuto letto il 31 ottobre 2026.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "economia-webuild-trevi-opa",
-      "eventKey": "webuild-supera-34-percento-trevi-opa-obbligatoria-ottobre-2026",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Webuild supera il 34% di Trevi e avvia l'Opa obbligatoria",
-      "summary": "L'aumento della partecipazione al 34,58% comporta l'offerta sulle azioni ancora non possedute.",
-      "body": [
-        "Webuild ha raggiunto circa il 34,58% del capitale di Trevi dopo ulteriori acquisti azionari.",
-        "Il superamento della soglia comporta l'obbligo di promuovere un'offerta pubblica di acquisto sulle azioni residue. Il corrispettivo indicato è 5,165 euro per azione, con esborso massimo stimato intorno a 221,6 milioni di euro."
-      ],
-      "publishedAt": "2026-10-30T19:42:00+01:00",
-      "verifiedAt": "2026-10-31T05:14:05.981Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/webuild-sale-al-3458-di-tevi-scatta-lopa-obbligatoria_93029d92-2bf5-49aa-a962-db0bbcc6f17c.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-31T05:14:05.981Z",
-        "dateEvidence": "Fonte ANSA, pagina originale datata 30 ottobre 2026 alle 19:42 Europe/Rome, contenuto letto il 31 ottobre 2026.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "economia-ex-ilva-spegnimento-area-caldo",
-      "eventKey": "taranto-ex-ilva-preparazione-spegnimento-altiforni-ottobre-2026",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Ex Ilva, verso lo spegnimento degli altiforni a Taranto",
-      "summary": "La transizione dell'area a caldo apre interrogativi sul futuro produttivo e sull'occupazione.",
-      "body": [
-        "A Taranto si prepara lo spegnimento degli altiforni dell'ex Ilva, in un passaggio che secondo il servizio di Sky TG24 chiuderebbe la produzione di acciaio a partire dal minerale di ferro nell'impianto.",
-        "Restano aperte le prospettive per possibili produzioni decarbonizzate e il futuro industriale dello stabilimento. La notizia riguarda una fase preparatoria, non la certificazione che tutti gli impianti siano già spenti."
-      ],
-      "publishedAt": "2026-10-30T19:40:00+01:00",
-      "verifiedAt": "2026-10-31T05:14:05.981Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/economia/video/2026/10/30/ex-ilva-chiude-area-a-caldo-1135988",
-        "access": "free",
-        "accessCheckedAt": "2026-10-31T05:14:05.981Z",
-        "dateEvidence": "Fonte Sky TG24, pagina originale datata 30 ottobre 2026 alle 19:40 Europe/Rome, contenuto letto il 31 ottobre 2026.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ]
