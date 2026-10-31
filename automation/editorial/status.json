@@ -1,12 +1,11 @@
 {
   "editionDate": "2026-10-31",
-  "checkedAt": "2026-10-31T06:09:00.926Z",
+  "checkedAt": "2026-10-31T06:09:16.446Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
     "roma",
     "cultura",
-    "tecnologia",
     "sport"
   ],
   "completed": [
@@ -323,6 +322,36 @@
       "category": "Cronaca",
       "title": "Bologna, partorisce su un autobus con l'aiuto della conducente",
       "eventKey": "bologna-bus-linea-39-parto-assistito-autista-30-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-ue-stop-divieti-social-minori",
+      "category": "Tecnologia · AI",
+      "title": "UE, pausa alle nuove leggi nazionali sui social per minori",
+      "eventKey": "commissione-ue-sospensione-disegni-legge-social-minori-kids-act-2026"
+    },
+    {
+      "id": "tecnologia-causa-ai-consigli-medici",
+      "category": "Tecnologia · AI",
+      "title": "Chatbot e salute, una causa riapre il tema della responsabilità",
+      "eventKey": "causa-san-francisco-chatbot-consigli-terapia-epilessia-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-meta-style-sketch-outfit",
+      "category": "Tecnologia · AI",
+      "title": "Meta sperimenta Style Sketch, l'app che suggerisce abbinamenti con l'AI",
+      "eventKey": "meta-style-sketch-app-ai-outfit-asia-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-xbox-strategia-analista",
+      "category": "Tecnologia · AI",
+      "title": "Xbox, un analista critica i risultati delle nuove strategie",
+      "eventKey": "xbox-piscatella-critica-risultati-strategia-asha-sharma-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-zelda-aonuma-remake-ansia",
+      "category": "Tecnologia · AI",
+      "title": "Zelda Ocarina of Time, Aonuma racconta l'attesa del remake",
+      "eventKey": "zelda-ocarina-time-remake-aonuma-dichiarazioni-afp-30-ottobre-2026"
     }
   ],
   "collectionId": "2026-10-31-mattina",
@@ -333,7 +362,7 @@
     "Cronaca": 5,
     "Roma": 0,
     "Cultura · Teatro · Cinema": 0,
-    "Tecnologia · AI": 0,
+    "Tecnologia · AI": 5,
     "Sport": 0
   },
   "photoCandidates": [
@@ -393,9 +422,9 @@
     },
     "tecnologia": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "sport": {
       "base": 5,
