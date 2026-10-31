@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-31",
-  "checkedAt": "2026-10-31T06:09:32.615Z",
+  "checkedAt": "2026-10-31T06:10:29.667Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -409,9 +409,14 @@
       "id": "cronaca-castel-dazzano-tre-carabinieri-indagati",
       "category": "Cronaca",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_159_Carabinieri.jpg"
+    },
+    {
+      "id": "sport-berrettini-eliminato-vienna",
+      "category": "Sport",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Matteo_Berrettini_at_2025_Miami_Open_04.jpg"
     }
   ],
-  "photosAvailable": 3,
+  "photosAvailable": 4,
   "categoryProgress": {
     "politica": {
       "base": 5,
