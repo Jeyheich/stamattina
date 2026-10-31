@@ -3,7 +3,7 @@
   "editionDate": "2026-10-31",
   "collectionId": "2026-10-31-pomeriggio",
   "category": "Sport",
-  "completedAt": "2026-10-31T16:06:22.994Z",
+  "completedAt": "2026-10-31T16:07:11.003Z",
   "articles": [
     {
       "id": "sport-haas-hirakawa-sostituisce-ocon",
@@ -129,6 +129,118 @@
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
       "leadPriority": 92
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "sport-milan-inter-derby-formazioni",
+      "eventKey": "milan-inter-31-ottobre-2026-assetti-amorim-chivu-vigilia",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Milan-Inter, Amorim e Chivu preparano il derby di San Siro",
+      "summary": "Le indicazioni della vigilia vedono Diawara e Pulisic tra le scelte rossonere, con dubbi in casa nerazzurra.",
+      "body": [
+        "Il derby della decima giornata è in programma sabato 31 ottobre alle 20:45. Sky Sport descrive le opzioni tattiche valutate da Ruben Amorim e Cristian Chivu.",
+        "Nel Milan sono indicati Diawara terzino e Pulisic fra gli esterni; nell'Inter Mkhitaryan è in vantaggio su Zielinski a centrocampo. Si tratta di probabili formazioni, non di risultati o schieramenti ufficiali."
+      ],
+      "publishedAt": "2026-10-30T23:00:00+01:00",
+      "verifiedAt": "2026-10-31T16:07:11.003Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/30/milan-inter-probabili-formazioni-10-giornata",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T16:07:11.003Z",
+        "dateEvidence": "Sky Sport, articolo sulle probabili formazioni del derby pubblicato il 30 ott 2026 alle 23:00; gara 31 ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-udinese-roma-mora-tridente",
+      "eventKey": "udinese-roma-31-ottobre-2026-gasperini-mora-tridente-assenze",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Roma a Udine con Mora nel tridente, secondo le indicazioni della vigilia",
+      "summary": "Gasperini valuta cambi in difesa e l'impiego del giovane insieme a Soulé e Malen.",
+      "body": [
+        "In vista della partita Udinese-Roma delle 18 del 31 ottobre, Sky Sport indica Rodrigo Mora tra i possibili titolari del reparto offensivo giallorosso, accanto a Soulé e Malen.",
+        "La Roma deve fare i conti con le assenze di Dybala e Pellegrini; l'Udinese valuta Zaniolo alle spalle di Davis. Le scelte riportate sono previsioni e possono cambiare con le formazioni ufficiali."
+      ],
+      "publishedAt": "2026-10-30T13:50:00+01:00",
+      "verifiedAt": "2026-10-31T16:07:11.003Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/30/udinese-roma-probabili-formazioni-10-giornata",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T16:07:11.003Z",
+        "dateEvidence": "Sky Sport, pagina completa del 30 ott 2026 ore 13:50, con ipotesi tattiche e indisponibili prima del match.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-lazio-cagliari-tridente",
+      "eventKey": "lazio-cagliari-1-novembre-2026-probabili-formazioni-gattuso-pisacane",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Lazio-Cagliari, Gattuso valuta il tridente Isaksen-Noslin-Zaccagni",
+      "summary": "Per la sfida di domenica restano dubbi difensivi e scelte aperte nell'attacco sardo.",
+      "body": [
+        "Lazio e Cagliari si affronteranno domenica 1 novembre alle 15. Le indicazioni della vigilia suggeriscono un attacco biancoceleste formato da Isaksen, Noslin e Zaccagni.",
+        "In difesa Gattuso deve scegliere tra più soluzioni; Pisacane valuta l'impiego di Mendy al centro dell'attacco cagliaritano. Non sono ancora formazioni ufficiali."
+      ],
+      "publishedAt": "2026-10-31T11:45:00+01:00",
+      "verifiedAt": "2026-10-31T16:07:11.003Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/31/lazio-cagliari-probabili-formazioni-10-giornata",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T16:07:11.003Z",
+        "dateEvidence": "Sky Sport, probabili formazioni Lazio-Cagliari pubblicate il 31 ott 2026 ore 11:45, match del 1 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-antonelli-mondiale-messico",
+      "eventKey": "formula-1-antonelli-secondo-match-point-titolo-messico-1-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "F1, Antonelli può conquistare il Mondiale già in Messico",
+      "summary": "Il pilota Mercedes ha un margine di 123 punti su Russell prima del Gran Premio di domenica.",
+      "body": [
+        "Kimi Antonelli arriva al GP del Messico con 365 punti, 123 più del compagno George Russell. Con cinque gare ancora da disputare, il pilota italiano ha un secondo match point iridato.",
+        "Secondo le combinazioni pubblicate da Sky Sport, due punti in gara gli garantirebbero matematicamente il titolo, indipendentemente dagli inseguitori. La corsa è in programma domenica 1 novembre."
+      ],
+      "publishedAt": "2026-10-30T14:00:00+01:00",
+      "verifiedAt": "2026-10-31T16:07:11.003Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/formula-1/antonelli-campione-f1-2026-se-combinazioni",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T16:07:11.003Z",
+        "dateEvidence": "Sky Sport, fotogallery delle combinazioni titolo pubblicata il 30 ott 2026 ore 14:00, con distacchi e punti residui.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-atp-vienna-semifinali-programma",
+      "eventKey": "atp-vienna-31-ottobre-2026-semifinali-alcaraz-medvedev-zverev-de-minaur",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Vienna, semifinali Alcaraz-Medvedev e Zverev-De Minaur",
+      "summary": "Il torneo ATP 500 propone due incontri per definire la finale di domenica.",
+      "body": [
+        "Il programma di sabato 31 ottobre a Vienna prevede Carlos Alcaraz contro Daniil Medvedev dalle 15 e Alexander Zverev contro Alex De Minaur non prima delle 16:30.",
+        "L'articolo pubblicato al mattino descrive gli accoppiamenti e i precedenti; non certifica l'esito delle semifinali. A Basilea sono previste anche Vacherot-Fritz e Lehecka-Struff."
+      ],
+      "publishedAt": "2026-10-31T08:00:00+01:00",
+      "verifiedAt": "2026-10-31T16:07:11.003Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/2026/10/31/atp-vienna-basilea-2026-partite-oggi-31-ottobre",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T16:07:11.003Z",
+        "dateEvidence": "Sky Sport, programma tennis del 31 ott 2026 ore 08:00 con orari delle semifinali di Vienna e Basilea.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
   ]
 }
