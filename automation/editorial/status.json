@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-10-31",
-  "checkedAt": "2026-10-31T05:12:24.700Z",
+  "checkedAt": "2026-10-31T05:12:36.821Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -158,8 +158,14 @@
     "Tecnologia · AI": 0,
     "Sport": 0
   },
-  "photoCandidates": [],
-  "photosAvailable": 0,
+  "photoCandidates": [
+    {
+      "id": "politica-bilancio-2027-autorizzazione-colle",
+      "category": "Politica",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Chigi_Roma_giugno_2024.jpg"
+    }
+  ],
+  "photosAvailable": 1,
   "categoryProgress": {
     "politica": {
       "base": 5,
