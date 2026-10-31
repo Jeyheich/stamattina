@@ -1,246 +1,134 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-31",
-  "collectionId": "2026-10-31-mattina",
+  "collectionId": "2026-10-31-pomeriggio",
   "category": "Sport",
-  "completedAt": "2026-10-31T06:08:47.846Z",
+  "completedAt": "2026-10-31T16:06:22.994Z",
   "articles": [
     {
-      "id": "sport-pulisic-rinnovo-milan-2031",
-      "eventKey": "milan-ufficiale-rinnovo-pulisic-fino-2031-30-ottobre-2026",
+      "id": "sport-haas-hirakawa-sostituisce-ocon",
+      "eventKey": "f1-haas-hirakawa-sostituisce-ocon-gp-messico-31-ottobre-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "Pulisic rinnova con il Milan fino al 2031",
-      "summary": "Il club rossonero ha ufficializzato il nuovo contratto dell'attaccante statunitense, firmato il giorno precedente.",
+      "title": "F1, Haas cambia pilota: Hirakawa prende il posto di Ocon in Messico",
+      "summary": "La scuderia schiera il giapponese per le sessioni restanti e la gara, senza spiegare la decisione.",
       "body": [
-        "Christian Pulisic resterà al Milan fino al 30 giugno 2031. La firma è avvenuta il 29 ottobre nella sede rossonera, mentre l'annuncio ufficiale è arrivato il 30.",
-        "L'attaccante, arrivato nel 2023, ha totalizzato 142 presenze e 44 reti secondo i dati riportati da Sky Sport al momento dell'ufficialità."
+        "La Haas ha comunicato sabato 31 ottobre che il pilota di riserva Ryo Hirakawa sostituirà Esteban Ocon per il resto del Gran Premio del Messico: ultime libere, qualifiche e gara.",
+        "Per Hirakawa, già vincitore a Le Mans e campione endurance, si tratta dell'esordio in una gara di Formula 1. La scuderia non ha fornito motivazioni ufficiali: attribuire la scelta a ragioni fisiche o contrattuali sarebbe una congettura."
       ],
-      "publishedAt": "2026-10-30T15:23:00+01:00",
-      "verifiedAt": "2026-10-31T06:08:47.846Z",
+      "publishedAt": "2026-10-31T15:42:00+01:00",
+      "verifiedAt": "2026-10-31T16:06:22.994Z",
       "source": {
         "name": "Sky Sport",
-        "url": "https://sport.sky.it/calciomercato/calciomercato-ultimi-rinnovi-ufficiali",
+        "url": "https://sport.sky.it/formula-1/2026/10/31/f1-gp-messico-haas-ocon-sostituito-hirakawa-news",
         "access": "free",
-        "accessCheckedAt": "2026-10-31T06:08:47.846Z",
-        "dateEvidence": "Sky Sport, fotogallery aggiornata il 30 ott 2026 alle 15:23; prima scheda dedicata all'ufficialità di Pulisic.",
+        "accessCheckedAt": "2026-10-31T16:06:22.994Z",
+        "dateEvidence": "Sky Sport, articolo completo del 31 ott 2026 ore 15:42 con comunicato Haas e assenza di motivazioni ufficiali.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 93
+      "leadPriority": 96
     },
     {
-      "id": "sport-juve-ekhator-rientro",
-      "eventKey": "juventus-ekhator-rientro-allenamento-gruppo-30-ottobre-2026",
+      "id": "sport-juve-napoli-allegri-conferenza",
+      "eventKey": "allegri-conferenza-juventus-napoli-scontro-diretto-31-ottobre-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "Juventus, Ekhator torna ad allenarsi con i compagni",
-      "summary": "Dopo due mesi di stop, il giovane attaccante rientra in gruppo prima della partita contro il Napoli.",
+      "title": "Allegri presenta Juventus-Napoli: «Due squadre indietro in classifica»",
+      "summary": "L'allenatore del Napoli invita a non ridurre la stagione al big match di domenica.",
       "body": [
-        "Jeff Ekhator, attaccante della Juventus classe 2006, ha ripreso ad allenarsi con il gruppo dopo la lesione muscolare che lo aveva fermato il 30 agosto.",
-        "Luciano Spalletti può valutare il suo impiego per la sfida contro il Napoli, prevista domenica 1 novembre alle 20:45. Il rientro in allenamento non equivale alla certezza della convocazione."
+        "Nella conferenza stampa del 31 ottobre, Massimiliano Allegri ha descritto Juventus-Napoli come uno scontro diretto tra due squadre chiamate a recuperare terreno, sottolineando la capacità della Juve di reagire ai momenti difficili.",
+        "Il tecnico, squalificato per la partita, ha indicato De Bruyne o Gilmour tra le alternative a Lobotka. Ha anche ricordato che l'obiettivo stagionale del Napoli va oltre il singolo risultato."
       ],
-      "publishedAt": "2026-10-30T16:23:00+01:00",
-      "verifiedAt": "2026-10-31T06:08:47.846Z",
+      "publishedAt": "2026-10-31T12:00:00+01:00",
+      "verifiedAt": "2026-10-31T16:06:22.994Z",
       "source": {
         "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/2026/10/30/juventus-napoli-ekhator-news",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/31/juventus-napoli-allegri-conferenza-video",
         "access": "free",
-        "accessCheckedAt": "2026-10-31T06:08:47.846Z",
-        "dateEvidence": "Sky Sport, pagina Juventus-Ekhator datata 30 ott 2026 ore 16:23, con rientro e calendario della gara.",
+        "accessCheckedAt": "2026-10-31T16:06:22.994Z",
+        "dateEvidence": "Sky Sport, diretta della conferenza di Allegri del 31 ott 2026, pubblicata alle 12:00 con dichiarazioni fino alle 12:41.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 88
+      "leadPriority": 94
     },
     {
-      "id": "sport-leao-primo-gol-galatasaray",
-      "eventKey": "leao-prima-rete-galatasaray-konyaspor-rigore-30-ottobre-2026",
+      "id": "sport-motogp-acosta-sprint-sepang",
+      "eventKey": "motogp-malesia-sprint-acosta-vince-marquez-secondo-bezzecchi-terzo-31-ottobre-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "Leão trova il primo gol con il Galatasaray",
-      "summary": "L'ex milanista segna su rigore nella vittoria contro il Konyaspor, dopo otto partite senza reti con la nuova squadra.",
+      "title": "MotoGP, Acosta vince la Sprint in Malesia davanti a Marc Márquez",
+      "summary": "Terzo Bezzecchi; la pioggia arriva sul finale e Marc Márquez allunga in classifica.",
       "body": [
-        "Rafael Leão ha segnato il suo primo gol per il Galatasaray nel 4-0 al Konyaspor, alla decima giornata del campionato turco.",
-        "Il portoghese ha conquistato il rigore dopo una discesa sulla sinistra; Victor Osimhen gli ha ceduto il tiro dal dischetto, trasformato al 55° minuto."
+        "Pedro Acosta su KTM ha conquistato la Sprint Race di Sepang, precedendo Marc Márquez e Marco Bezzecchi. Alex Márquez, partito dalla pole, è caduto nella fase iniziale.",
+        "La corsa si è svolta con condizioni meteo in peggioramento. Con il secondo posto, Marc Márquez porta a 19 punti il margine sul rivale Jorge Martín, assente per problemi fisici."
       ],
-      "publishedAt": "2026-10-30T22:30:00+01:00",
-      "verifiedAt": "2026-10-31T06:08:47.846Z",
+      "publishedAt": "2026-10-31T09:26:00+01:00",
+      "verifiedAt": "2026-10-31T16:06:22.994Z",
       "source": {
         "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/2026/10/30/leao-primo-gol-galatasaray-video",
+        "url": "https://sport.sky.it/motogp/2026/10/31/motogp-sprint-race-gp-malesia-sepang-highlights-video",
         "access": "free",
-        "accessCheckedAt": "2026-10-31T06:08:47.846Z",
-        "dateEvidence": "Sky Sport, articolo del 30 ott 2026 ore 22:30, con cronaca del rigore e risultato finale.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 87
-    },
-    {
-      "id": "sport-f1-leclerc-fp2-messico",
-      "eventKey": "formula-1-messico-fp2-leclerc-primo-norris-russell-30-ottobre-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "GP del Messico, Leclerc il più rapido nelle seconde libere",
-      "summary": "Il ferrarista chiude davanti a Norris e Russell; Antonelli è quarto e Hamilton si ferma per un guasto.",
-      "body": [
-        "Charles Leclerc ha ottenuto il miglior tempo nella seconda sessione di prove libere del Gran Premio del Messico con 1:17.827, davanti a Lando Norris e George Russell.",
-        "Andrea Kimi Antonelli ha concluso quarto. Le qualifiche sono previste sabato 31 ottobre; la sessione ha visto anche uno stop tecnico per Lewis Hamilton."
-      ],
-      "publishedAt": "2026-10-30T21:30:00+01:00",
-      "verifiedAt": "2026-10-31T06:08:47.846Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/formula-1/gp/2026/granpremio-messico/diretta/prove-libere-2",
-        "access": "free",
-        "accessCheckedAt": "2026-10-31T06:08:47.846Z",
-        "dateEvidence": "Sky Sport, resoconto delle FP2 di venerdì 30 ott 2026 alle 21:30, con classifica e tempo 1:17.827.",
+        "accessCheckedAt": "2026-10-31T16:06:22.994Z",
+        "dateEvidence": "Sky Sport, cronaca e highlights del 31 ott 2026 ore 09:26: Acosta primo, Márquez secondo, Bezzecchi terzo.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
       "leadPriority": 91
     },
     {
-      "id": "sport-berrettini-eliminato-vienna",
+      "id": "sport-berrettini-de-minaur-vienna",
       "eventKey": "atp-vienna-berrettini-de-minaur-quarti-7-6-6-2-30-ottobre-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "Berrettini eliminato ai quarti di Vienna da De Minaur",
-      "summary": "L'australiano vince 7-6, 6-2 e raggiunge la semifinale dell'ATP 500.",
+      "title": "Vienna, Berrettini si ferma ai quarti contro De Minaur",
+      "summary": "Il romano perde 7-6, 6-2 dopo aver mancato un set point nel primo parziale.",
       "body": [
-        "Matteo Berrettini è uscito ai quarti dell'ATP 500 di Vienna, sconfitto da Alex De Minaur con il punteggio di 7-6, 6-2.",
-        "Il romano ha mancato occasioni importanti nel primo set, incluso un set point; De Minaur affronterà Alexander Zverev in semifinale."
+        "Matteo Berrettini ha chiuso il torneo ATP 500 di Vienna ai quarti, battuto da Alex De Minaur con il punteggio di 7-6, 6-2. Nel primo set l'azzurro ha avuto tre palle break e un set point, senza convertirli.",
+        "De Minaur ha vinto il tie-break e ha preso il controllo del secondo set, guadagnando la semifinale contro Alexander Zverev. La partita si è conclusa il 30 ottobre; il risultato viene ripreso come contesto sportivo ancora attuale."
       ],
       "publishedAt": "2026-10-30T22:03:00+01:00",
-      "verifiedAt": "2026-10-31T06:08:47.846Z",
+      "verifiedAt": "2026-10-31T16:06:22.994Z",
       "source": {
         "name": "Sky Sport",
         "url": "https://sport.sky.it/tennis/2026/10/30/berrettini-de-minaur-atp-vienna-risultato",
         "access": "free",
-        "accessCheckedAt": "2026-10-31T06:08:47.846Z",
-        "dateEvidence": "Sky Sport, cronaca del 30 ott 2026 ore 22:03, risultato 7-6 6-2 e dettagli dei quarti a Vienna.",
+        "accessCheckedAt": "2026-10-31T16:06:22.994Z",
+        "dateEvidence": "Sky Sport, resoconto integrale del 30 ott 2026 ore 22:03, punteggio e cronaca delle occasioni mancate.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 94,
+      "leadPriority": 88,
       "image": {
         "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Matteo_Berrettini_at_2025_Miami_Open_04.jpg",
-        "alt": "Matteo Berrettini in campo durante il Miami Open 2025",
+        "alt": "Matteo Berrettini in campo al Miami Open del 2025",
         "credit": "Vbrunophotog / Wikimedia Commons",
         "rights": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Matteo_Berrettini_at_2025_Miami_Open_04.jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "caption": "Matteo Berrettini durante il Miami Open 2025, foto di repertorio. Non ritrae la partita di Vienna del 30 ottobre 2026.",
+        "caption": "Matteo Berrettini al Miami Open 2025, fotografia di repertorio: non ritrae la partita di Vienna.",
         "reuseApproved": true
       }
-    }
-  ],
-  "reserveArticles": [
-    {
-      "id": "sport-milan-inter-probabili-formazioni",
-      "eventKey": "milan-inter-derby-31-ottobre-2026-probabili-formazioni-amorim-chivu",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Derby Milan-Inter, le scelte previste di Amorim e Chivu",
-      "summary": "In vista della sfida di sabato sera, i due tecnici valutano diversi assetti per centrocampo e fasce.",
-      "body": [
-        "Il derby Milan-Inter è in programma sabato 31 ottobre alle 20:45. Sky Sport riferisce che Amorim ha provato Diawara in difesa e Pulisic sulla fascia, con un possibile 4-4-1-1.",
-        "Chivu valuta il centrocampo Barella-Calhanoglu-Mkhitaryan. Le indicazioni sono probabili formazioni alla vigilia, non schieramenti ufficiali."
-      ],
-      "publishedAt": "2026-10-30T23:00:00+01:00",
-      "verifiedAt": "2026-10-31T06:09:14.124Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/2026/10/30/milan-inter-probabili-formazioni-10-giornata",
-        "access": "free",
-        "accessCheckedAt": "2026-10-31T06:09:14.124Z",
-        "dateEvidence": "Sky Sport, notizia sulle probabili formazioni Milan-Inter del 30 ott 2026 alle 23:00; gara del 31 ottobre alle 20:45.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
     },
     {
-      "id": "sport-pallone-oro-voti-kane-mbappe",
-      "eventKey": "pallone-oro-2026-dettaglio-voti-kane-mbappe-distacco-28",
+      "id": "sport-errani-paolini-finals-tokyo",
+      "eventKey": "errani-paolini-finale-tokyo-qualificate-wta-finals-31-ottobre-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "Pallone d'Oro, Kane ha superato Mbappé di 28 punti",
-      "summary": "France Football pubblica il dettaglio del voto: 1.055 punti all'inglese, 1.027 al francese.",
+      "title": "Errani e Paolini conquistano la finale di Tokyo e il pass per le WTA Finals",
+      "summary": "Le azzurre superano Mihalikova e Nicholls 6-4, 6-0 e si qualificano al torneo di fine stagione.",
       "body": [
-        "Il dettaglio ufficiale dei voti del Pallone d'Oro 2026, diffuso da France Football, mostra un margine di appena 28 punti tra il vincitore Harry Kane e Kylian Mbappé.",
-        "Kane ha totalizzato 1.055 punti, Mbappé 1.027 e Lamine Yamal 881. La notizia riguarda la pubblicazione dei punteggi, distinta dall'assegnazione del premio."
+        "Sara Errani e Jasmine Paolini hanno battuto Tereza Mihalikova e Olivia Nicholls nella semifinale del doppio a Tokyo, imponendosi 6-4, 6-0 in un'ora e 16 minuti.",
+        "La vittoria assegna alla coppia italiana un posto alle WTA Finals di Indian Wells e la finale del torneo giapponese, dove affronterà Dabrowski e Stefani. È la loro terza qualificazione consecutiva alle Finals."
       ],
-      "publishedAt": "2026-10-30T21:23:00+01:00",
-      "verifiedAt": "2026-10-31T06:09:14.124Z",
+      "publishedAt": "2026-10-31T11:45:00+01:00",
+      "verifiedAt": "2026-10-31T16:06:22.994Z",
       "source": {
         "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/2026/10/30/pallone-d-oro-2026-voti-classifica",
+        "url": "https://sport.sky.it/tennis/2026/10/31/errani-paolini-wta-tokyo-doppio-risultato-oggi",
         "access": "free",
-        "accessCheckedAt": "2026-10-31T06:09:14.124Z",
-        "dateEvidence": "Sky Sport, fotogallery del 30 ott 2026 alle 21:23, con classifica numerica e scarto di 28 punti.",
+        "accessCheckedAt": "2026-10-31T16:06:22.994Z",
+        "dateEvidence": "Sky Sport, articolo del 31 ott 2026 ore 11:45: vittoria 6-4 6-0 e accesso alle WTA Finals.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "sport-cardinale-cena-milan-derby",
-      "eventKey": "cardinale-cena-ex-milan-dirigenti-vigilia-derby-30-ottobre-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Cardinale riunisce dirigenti ed ex rossoneri prima del derby",
-      "summary": "Il proprietario del Milan ha organizzato una cena con figure del club e del calcio italiano, ribadendo fiducia nella squadra.",
-      "body": [
-        "Alla vigilia di Milan-Inter, Gerry Cardinale ha incontrato la squadra a Milanello e ha organizzato una cena-evento con dirigenti, rappresentanti delle istituzioni sportive ed ex giocatori rossoneri.",
-        "Tra i presenti citati da Sky Sport figurano Kaká, Desailly, Albertini e Tassotti. Cardinale ha espresso fiducia nella preparazione della squadra, senza anticipare un risultato."
-      ],
-      "publishedAt": "2026-10-30T17:20:00+01:00",
-      "verifiedAt": "2026-10-31T06:09:14.124Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/2026/10/30/gerry-cardinale-milan-inter-derby",
-        "access": "free",
-        "accessCheckedAt": "2026-10-31T06:09:14.124Z",
-        "dateEvidence": "Sky Sport, servizio del 30 ott 2026 ore 17:20, aggiornato con cena-evento alla vigilia del derby.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "sport-hamilton-stop-fp2-messico",
-      "eventKey": "f1-messico-hamilton-stop-tecnico-fp2-30-ottobre-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Hamilton fermato da un problema tecnico nelle libere del Messico",
-      "summary": "La Ferrari del britannico si è arrestata prima del termine delle FP2; il team esaminerà la causa.",
-      "body": [
-        "Lewis Hamilton ha interrotto in anticipo la seconda sessione di prove libere del GP del Messico a causa di un problema alla vettura.",
-        "Il pilota ha dichiarato di aver percepito una monoposto veloce, ma di dover analizzare il guasto con la squadra in vista delle sessioni successive. L'origine del problema non è stata ancora confermata."
-      ],
-      "publishedAt": "2026-10-31T02:04:00+01:00",
-      "verifiedAt": "2026-10-31T06:09:14.124Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/formula-1/2026/10/30/hamilton-f1-gp-messico-intervista",
-        "access": "free",
-        "accessCheckedAt": "2026-10-31T06:09:14.124Z",
-        "dateEvidence": "Sky Sport, intervista sul venerdì di prove in Messico pubblicata nella sezione F1 il 31 ott 2026 ore 02:04.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "sport-cobolli-risentimento-parigi",
-      "eventKey": "cobolli-risentimento-muscolare-obiettivo-masters-parigi-30-ottobre-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Cobolli aggiorna sulle condizioni dopo il ritiro a Vienna",
-      "summary": "Il tennista romano segnala un lieve risentimento muscolare e punta a giocare il Masters di Parigi.",
-      "body": [
-        "Dopo il ritiro agli ottavi di Vienna contro Berrettini, Flavio Cobolli ha comunicato che gli esami hanno evidenziato un piccolo risentimento muscolare.",
-        "Il giocatore prevede di recarsi a Parigi e tentare di partecipare al Masters 1000 dal 2 all'8 novembre. La presenza in tabellone resta subordinata al recupero."
-      ],
-      "publishedAt": "2026-10-30T18:53:00+01:00",
-      "verifiedAt": "2026-10-31T06:09:14.124Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/tennis/2026/10/30/cobolli-infortunio-news",
-        "access": "free",
-        "accessCheckedAt": "2026-10-31T06:09:14.124Z",
-        "dateEvidence": "Sky Sport, articolo del 30 ott 2026 ore 18:53, dichiarazione social di Cobolli ed esito degli esami.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
+      },
+      "leadPriority": 92
     }
   ]
 }
