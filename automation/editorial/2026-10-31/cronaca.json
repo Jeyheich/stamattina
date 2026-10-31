@@ -3,7 +3,7 @@
   "editionDate": "2026-10-31",
   "collectionId": "2026-10-31-mattina",
   "category": "Cronaca",
-  "completedAt": "2026-10-31T05:13:40.509Z",
+  "completedAt": "2026-10-31T05:14:08.632Z",
   "articles": [
     {
       "id": "cronaca-sciopero-30-ottobre-cortei",
@@ -123,6 +123,118 @@
         "access": "free",
         "accessCheckedAt": "2026-10-31T05:13:40.509Z",
         "dateEvidence": "Pagina originale ANSA del 30 ottobre 2026, pubblicata alle 18:55 (Europe/Rome); testo integrale e data letti il 31 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "cronaca-calabria-funerali-sibarelli",
+      "eventKey": "sibari-funerali-silvana-sibarelli-uccisa-agguato-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Sibari, folla ai funerali della donna uccisa in un agguato",
+      "summary": "La comunità si è raccolta per salutare Silvana Sibarelli, 64 anni, morta a Lattughelle.",
+      "body": [
+        "Centinaia di persone hanno partecipato a Sibari ai funerali di Silvana Sibarelli, uccisa una settimana prima in un agguato a Lattughelle, nel Cosentino.",
+        "Nell'attacco era rimasto ferito il compagno. Durante l'omelia il parroco ha invitato a interrompere la spirale della violenza; all'uscita del feretro sono stati lanciati palloncini bianchi."
+      ],
+      "publishedAt": "2026-10-30T17:57:00+01:00",
+      "verifiedAt": "2026-10-31T05:14:08.632Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/uccisa-in-un-agguato-in-calabria-in-centinaia-ai-funerali_680a2af1-35dc-4e87-ae62-effb6d97a6b5.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T05:14:08.632Z",
+        "dateEvidence": "Fonte ANSA, pagina originale datata 30 ottobre 2026 alle 17:57 Europe/Rome, contenuto letto il 31 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-siher-minacce-gip",
+      "eventKey": "milano-caso-siher-minacce-gip-verifica-protezione-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Caso Siher, il Tribunale valuta la tutela della gip",
+      "summary": "Dopo minacce sui social, il presidente del Tribunale di Milano chiede una verifica sulla sicurezza della magistrata.",
+      "body": [
+        "Fabio Roia, presidente del Tribunale di Milano, ha scritto alle autorità competenti per verificare se servano misure di protezione per la gip Tiziana Landoni.",
+        "La richiesta segue messaggi minatori apparsi sui social dopo la decisione della magistrata di scarcerare Youssef Siher. L'eventuale adozione delle misure non risulta ancora decisa nella notizia."
+      ],
+      "publishedAt": "2026-10-30T16:59:00+01:00",
+      "verifiedAt": "2026-10-31T05:14:08.632Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/caso-siher-tribunale-chiede-di-verificare-se-serve-tutela-per-gip_e375234e-1d2f-4fc1-aeb3-902d29c454fa.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T05:14:08.632Z",
+        "dateEvidence": "Fonte ANSA, pagina originale datata 30 ottobre 2026 alle 16:59 Europe/Rome, contenuto letto il 31 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-a14-operaio-investito",
+      "eventKey": "a14-grottammare-operaio-investito-auto-pirata-30-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "A14, operaio investito durante un cantiere: indagini su un'auto in fuga",
+      "summary": "La Stradale analizza i filmati per individuare il conducente; il giovane ferito è stato operato.",
+      "body": [
+        "Un operaio di 24 anni è stato investito nella notte sull'A14 in direzione nord, tra Grottammare e Pedaso, mentre rimuoveva segnaletica da un cantiere.",
+        "L'auto coinvolta si è allontanata. Il giovane ha riportato fratture ed è stato operato ad Ancona; la Polizia Stradale sta esaminando i video di sorveglianza per ricostruire l'accaduto."
+      ],
+      "publishedAt": "2026-10-30T16:14:00+01:00",
+      "verifiedAt": "2026-10-31T05:14:08.632Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/operaio-investito-in-a14-da-auto-pirata-i-filmati-al-vaglio-della-stradale_a8f20432-71d7-4940-af5a-88abc66c28f8.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T05:14:08.632Z",
+        "dateEvidence": "Fonte ANSA, pagina originale datata 30 ottobre 2026 alle 16:14 Europe/Rome, contenuto letto il 31 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-bordighera-ciclista-morto",
+      "eventKey": "bordighera-aurelia-tir-ciclista-tedesco-morto-moglie-ferita-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Bordighera, ciclista muore dopo uno scontro con un tir",
+      "summary": "L'incidente sull'Aurelia coinvolge una coppia di turisti in bicicletta; grave la donna.",
+      "body": [
+        "Un ciclista tedesco è morto il 30 ottobre in un incidente sulla via Aurelia a Bordighera, nella zona Madonna della Ruota.",
+        "La moglie, che pedalava con lui, è rimasta gravemente ferita. La dinamica è ancora oggetto degli accertamenti della polizia stradale."
+      ],
+      "publishedAt": "2026-10-30T18:35:00+01:00",
+      "verifiedAt": "2026-10-31T05:14:08.632Z",
+      "source": {
+        "name": "La Stampa",
+        "url": "https://www.lastampa.it/imperia-sanremo/2026/10/30/news/tir_travolge_coppia_bordighera_turista_morto-15783370/",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T05:14:08.632Z",
+        "dateEvidence": "Fonte La Stampa, pagina originale datata 30 ottobre 2026 alle 18:35 Europe/Rome, contenuto letto il 31 ottobre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-cercenasco-scontro-auto",
+      "eventKey": "cercenasco-provinciale-138-scontro-auto-morto-72enne-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Torinese, muore un uomo di 72 anni nello scontro fra due auto",
+      "summary": "L'incidente è avvenuto sulla provinciale 138 a Cercenasco; ferito lievemente un 23enne.",
+      "body": [
+        "Un uomo di 72 anni è morto nella mattina del 30 ottobre in un incidente stradale sulla provinciale 138 a Cercenasco, in provincia di Torino.",
+        "Il conducente di 23 anni dell'altra vettura è stato trasportato in ospedale con ferite lievi. I soccorritori hanno tentato a lungo di rianimare la vittima."
+      ],
+      "publishedAt": "2026-10-30T13:00:00+01:00",
+      "verifiedAt": "2026-10-31T05:14:08.632Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/amp/piemonte/notizie/2026/10/30/scontro-tra-due-auto-nel-torinese-morto-un-uomo-di-72-anni_0e115fb0-67f8-419f-939a-600bfa8e1389.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T05:14:08.632Z",
+        "dateEvidence": "ANSA, articolo originale datato 30 ottobre 2026; ora non esplicitata nella pagina, 13:00 è un riferimento tecnico convenzionale, non orario attestato.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
