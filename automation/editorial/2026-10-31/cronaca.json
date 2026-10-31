@@ -1,51 +1,95 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-10-31",
-  "collectionId": "2026-10-31-mattina",
+  "collectionId": "2026-10-31-pomeriggio",
   "category": "Cronaca",
-  "completedAt": "2026-10-31T05:14:08.632Z",
+  "completedAt": "2026-10-31T15:20:16.762Z",
   "articles": [
     {
-      "id": "cronaca-sciopero-30-ottobre-cortei",
-      "eventKey": "sciopero-usb-30-ottobre-2026-cortei-e-tensioni",
+      "id": "cronaca-perquisizioni-cortei-23-citta",
+      "eventKey": "polizia-60-perquisizioni-23-citta-incitamenti-violenza-31-ottobre-2026",
       "category": "Cronaca",
       "status": "verified",
-      "title": "Sciopero generale, cortei e tensioni a Roma e Torino",
-      "summary": "La mobilitazione del 30 ottobre ha interessato decine di città; in serata si sono registrati scontri e interventi delle forze dell'ordine.",
+      "title": "Dopo i cortei, 60 perquisizioni in 23 città",
+      "summary": "Polizia postale e Digos intervengono nell'ambito di accertamenti su messaggi online che avrebbero incitato alla violenza.",
       "body": [
-        "Studenti e lavoratori hanno partecipato allo sciopero generale indetto dall'Usb contro carovita e riarmo, con manifestazioni in oltre sessanta città.",
-        "Nelle ore serali sono emerse tensioni a Roma e Torino, con lanci di oggetti, cariche e idranti. Le stime della partecipazione diffuse da organizzatori e autorità non coincidono."
+        "La polizia comunica 60 perquisizioni in 23 città nei confronti di persone sospettate di avere incitato sui social e nelle chat a violenze durante le recenti manifestazioni.",
+        "L'operazione segue lo sciopero generale del 30 ottobre. A Roma le autorità riferiscono inoltre sette denunce e 369 persone identificate per episodi avvenuti a margine dei cortei."
       ],
-      "publishedAt": "2026-10-30T23:59:00+01:00",
-      "verifiedAt": "2026-10-31T05:13:40.509Z",
+      "publishedAt": "2026-10-31T15:37:00+01:00",
+      "verifiedAt": "2026-10-31T15:20:16.762Z",
       "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/10/30/sciopero-oggi-30-ottobre-diretta",
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/cortei-60-perquisizioni-in-23-citta-_449404aa-1c37-4c96-aa63-5089df5221ae.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-31T05:13:40.509Z",
-        "dateEvidence": "Pagina originale Sky TG24 del 30 ottobre 2026, pubblicata alle 23:59 (Europe/Rome); testo integrale e data letti il 31 ottobre 2026.",
+        "accessCheckedAt": "2026-10-31T15:20:16.762Z",
+        "dateEvidence": "Pagina originale ANSA letta integralmente il 31 ottobre 2026; data di pubblicazione esposta dall'editore: 2026-10-31 15:37:00 Europe/Rome.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "cronaca-elicottero-bosnia-vittime",
-      "eventKey": "bosnia-elicottero-italiani-quattro-vittime-ottobre-2026",
+      "id": "cronaca-lucca-monossido-famiglia",
+      "eventKey": "lucca-ponte-moriano-famiglia-quattro-intossicati-monossido-31-ottobre-2026",
       "category": "Cronaca",
       "status": "verified",
-      "title": "Bosnia, ricostruite le storie delle quattro vittime dell'elicottero",
-      "summary": "Tra i morti nello schianto figurano due militari e due operatori della Croce Rossa italiana.",
+      "title": "Lucca, famiglia con due bambini intossicata da monossido",
+      "summary": "Genitori e figli di uno e tre anni sono stati trasferiti a Pisa per il trattamento in camera iperbarica.",
       "body": [
-        "Dopo l'incidente aereo in Bosnia, emergono i profili delle quattro persone italiane decedute: Laura Procacci, Adriano Zecchillo, Simone Ruggia e Claudio Marchesi.",
-        "Procacci era impegnata anche negli studi di medicina; Zecchillo aveva una lunga esperienza nella Croce Rossa. Restano distinti il ricordo delle vittime e gli accertamenti sulle cause dello schianto."
+        "Una famiglia di quattro persone è stata soccorsa nella notte a Ponte a Moriano, nel comune di Lucca, per un'intossicazione da monossido di carbonio. I due bambini hanno uno e tre anni.",
+        "Dopo una prima valutazione all'ospedale San Luca, tutti sono stati trasferiti alla camera iperbarica di Pisa. I vigili del fuoco indagano sull'origine del gas nell'abitazione."
       ],
-      "publishedAt": "2026-10-30T18:44:00+01:00",
-      "verifiedAt": "2026-10-31T05:13:40.509Z",
+      "publishedAt": "2026-10-31T11:41:00+01:00",
+      "verifiedAt": "2026-10-31T15:20:16.762Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/elicottero-caduto-in-bosnia-le-vittime-_2ac7350e-580d-4c75-b386-2c0d63e279c6.html",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/famiglia-con-bimbi-di-1-e-3-anni-intossicata-da-monossido-di-carbonio-a-lucca_4cc063c2-10b8-409b-a44f-befb8a6370f3.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-31T05:13:40.509Z",
-        "dateEvidence": "Pagina originale ANSA del 30 ottobre 2026, pubblicata alle 18:44 (Europe/Rome); testo integrale e data letti il 31 ottobre 2026.",
+        "accessCheckedAt": "2026-10-31T15:20:16.762Z",
+        "dateEvidence": "Pagina originale ANSA letta integralmente il 31 ottobre 2026; data di pubblicazione esposta dall'editore: 2026-10-31 11:41:00 Europe/Rome.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-san-giuliano-commemorazione",
+      "eventKey": "molise-san-giuliano-commemorazione-scuola-jovine-31-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "San Giuliano ricorda i 28 morti nel crollo della scuola",
+      "summary": "Nel ventiquattresimo anniversario del terremoto del 2002, il Consiglio regionale del Molise rinnova l'appello alla prevenzione.",
+      "body": [
+        "Il Consiglio regionale del Molise ha commemorato i 27 bambini e la maestra morti nel crollo della scuola Jovine a San Giuliano di Puglia, il 31 ottobre 2002.",
+        "L'appello dei nomi è stato accompagnato dalla risposta «Presente» ripetuta 28 volte. Il presidente regionale ha richiamato la necessità di investire nella sicurezza degli edifici scolastici."
+      ],
+      "publishedAt": "2026-10-31T15:09:00+01:00",
+      "verifiedAt": "2026-10-31T15:20:16.762Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/san-giuliano-di-puglia-consiglio-molise-commemora-vittime-crollo-scuola_104540e2-a5c7-4c86-bc39-0bae05fc63a8.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T15:20:16.762Z",
+        "dateEvidence": "Pagina originale ANSA letta integralmente il 31 ottobre 2026; data di pubblicazione esposta dall'editore: 2026-10-31 15:09:00 Europe/Rome.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-morta-nonna-silvi",
+      "eventKey": "silvana-bini-nonna-silvi-morte-31-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "È morta Nonna Silvi, volto della cucina toscana sui social",
+      "summary": "Silvana Bini aveva 85 anni; la famiglia ha annunciato la scomparsa sui canali della cuoca.",
+      "body": [
+        "Silvana Bini, conosciuta online come Nonna Silvi, è morta nella sua casa di Montespertoli, nel Fiorentino. La notizia è stata comunicata dai nipoti attraverso la pagina social ufficiale.",
+        "I video di ricette tradizionali, realizzati con i nipoti dal 2022, avevano raggiunto milioni di follower. I funerali sono previsti lunedì a Montespertoli."
+      ],
+      "publishedAt": "2026-10-31T14:41:00+01:00",
+      "verifiedAt": "2026-10-31T15:20:16.762Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/morta-nonna-silvi-influencer-della-cucina-da-4-milioni-di-follower_8d85fe1d-8a2d-4c50-8469-968ba88c1689.html",
+        "access": "free",
+        "accessCheckedAt": "2026-10-31T15:20:16.762Z",
+        "dateEvidence": "Pagina originale ANSA letta integralmente il 31 ottobre 2026; data di pubblicazione esposta dall'editore: 2026-10-31 14:41:00 Europe/Rome.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -54,188 +98,32 @@
       "eventKey": "castel-dazzano-inchiesta-comandanti-carabinieri-omicidio-colposo-2026",
       "category": "Cronaca",
       "status": "verified",
-      "title": "Castel D'Azzano, indagati tre comandanti dei Carabinieri",
-      "summary": "La Procura di Verona apre un fascicolo sulla pianificazione dello sgombero in cui morirono tre militari nel 2025.",
+      "title": "Castel D'Azzano, tre comandanti indagati dopo l'esplosione",
+      "summary": "La Procura di Verona esamina le responsabilità nella pianificazione del blitz in cui morirono tre carabinieri.",
       "body": [
-        "Tre comandanti dei Carabinieri risultano indagati per omicidio colposo plurimo nell'inchiesta sull'esplosione del 14 ottobre 2025 a Castel D'Azzano, avvenuta durante uno sgombero.",
-        "La Procura di Verona esamina la gestione dell'operazione. Essere indagati non equivale a una responsabilità accertata; è inoltre aperto un procedimento disciplinare distinto."
+        "Tre comandanti dei Carabinieri risultano indagati per omicidio colposo plurimo nell'inchiesta sull'esplosione del 14 ottobre 2025 a Castel D'Azzano, nel Veronese, durante un'operazione di sgombero.",
+        "Il procedimento penale è distinto dal processo per strage a carico dei fratelli Ramponi e da quello disciplinare sulla gestione dell'intervento. L'iscrizione nel registro degli indagati non equivale a una condanna."
       ],
       "publishedAt": "2026-10-30T17:39:00+01:00",
-      "verifiedAt": "2026-10-31T05:13:40.509Z",
+      "verifiedAt": "2026-10-31T15:20:16.762Z",
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/strage-di-castel-dazzano-tre-carabinieri-indagati-per-omicidio-colposo_d5bcdaa5-d2d1-4763-86c0-c5150e144f46.html",
         "access": "free",
-        "accessCheckedAt": "2026-10-31T05:13:40.509Z",
-        "dateEvidence": "Pagina originale ANSA del 30 ottobre 2026, pubblicata alle 17:39 (Europe/Rome); testo integrale e data letti il 31 ottobre 2026.",
+        "accessCheckedAt": "2026-10-31T15:20:16.762Z",
+        "dateEvidence": "Pagina originale ANSA letta integralmente il 31 ottobre 2026; data di pubblicazione esposta dall'editore: 2026-10-30 17:39:00 Europe/Rome.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 88,
+      "leadPriority": 85,
       "image": {
         "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Alfa_Romeo_159_Carabinieri.jpg",
-        "alt": "Autovettura dei Carabinieri fotografata nel 2015",
+        "alt": "Automobile del Nucleo Operativo Radiomobile dei Carabinieri",
         "credit": "SkeLeBon / Wikimedia Commons",
         "rights": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_159_Carabinieri.jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "caption": "Repertorio · Autovettura dei Carabinieri (2015), non collegata all'operazione di Castel D'Azzano né all'inchiesta.",
+        "caption": "Repertorio · Autovettura dei Carabinieri fotografata nel 2015; immagine non collegata all'inchiesta di Castel D'Azzano.",
         "reuseApproved": true
-      }
-    },
-    {
-      "id": "cronaca-milano-urbanistica-assoluzioni",
-      "eventKey": "milano-urbanistica-via-fauche-assoluzioni-30-ottobre-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Urbanistica a Milano, nuove assoluzioni nel caso di via Fauché",
-      "summary": "Il tribunale assolve i tre imputati nel procedimento relativo a una palazzina residenziale.",
-      "body": [
-        "Il Tribunale di Milano ha assolto costruttori e progettista nel processo per il cantiere di via Fauché 9, con contestazioni che comprendevano abuso edilizio e lottizzazione abusiva.",
-        "Il verdetto penale è distinto dalle precedenti pronunce amministrative sull'intervento urbanistico: il Comune aveva ordinato la demolizione dopo decisioni del Tar e del Consiglio di Stato."
-      ],
-      "publishedAt": "2026-10-30T17:35:00+01:00",
-      "verifiedAt": "2026-10-31T05:13:40.509Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/urbanistica-milano-arriva-unaltra-sentenza-con-tutti-gli-imputati-assolti_b8b4c79a-21dc-4486-bfa8-6af34b5f67ff.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-31T05:13:40.509Z",
-        "dateEvidence": "Pagina originale ANSA del 30 ottobre 2026, pubblicata alle 17:35 (Europe/Rome); testo integrale e data letti il 31 ottobre 2026.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-crans-montana-foto-vittime",
-      "eventKey": "crans-montana-famiglie-contestano-spostamento-ritratti-vittime-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Crans-Montana, le famiglie contestano lo spostamento delle foto delle vittime",
-      "summary": "I parenti delle persone morte nell'incendio del Constellation chiedono che i ritratti rimangano sul luogo della tragedia.",
-      "body": [
-        "Le famiglie delle vittime dell'incendio di Capodanno al Constellation si oppongono al progetto di coprire l'edificio con una struttura provvisoria e trasferire le fotografie dei ragazzi.",
-        "La proposta del Comune prevede di mantenere i nomi sul posto e collocare le immagini altrove. I parenti chiedono invece che i volti rimangano nel luogo in cui è avvenuta la tragedia."
-      ],
-      "publishedAt": "2026-10-30T18:55:00+01:00",
-      "verifiedAt": "2026-10-31T05:13:40.509Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/le-famiglie-delle-vittime-contro-crans-non-toccate-le-foto-dei-nostri_e1197174-40e7-48c4-aba1-1ef184a90553.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-31T05:13:40.509Z",
-        "dateEvidence": "Pagina originale ANSA del 30 ottobre 2026, pubblicata alle 18:55 (Europe/Rome); testo integrale e data letti il 31 ottobre 2026.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    }
-  ],
-  "reserveArticles": [
-    {
-      "id": "cronaca-calabria-funerali-sibarelli",
-      "eventKey": "sibari-funerali-silvana-sibarelli-uccisa-agguato-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Sibari, folla ai funerali della donna uccisa in un agguato",
-      "summary": "La comunità si è raccolta per salutare Silvana Sibarelli, 64 anni, morta a Lattughelle.",
-      "body": [
-        "Centinaia di persone hanno partecipato a Sibari ai funerali di Silvana Sibarelli, uccisa una settimana prima in un agguato a Lattughelle, nel Cosentino.",
-        "Nell'attacco era rimasto ferito il compagno. Durante l'omelia il parroco ha invitato a interrompere la spirale della violenza; all'uscita del feretro sono stati lanciati palloncini bianchi."
-      ],
-      "publishedAt": "2026-10-30T17:57:00+01:00",
-      "verifiedAt": "2026-10-31T05:14:08.632Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/uccisa-in-un-agguato-in-calabria-in-centinaia-ai-funerali_680a2af1-35dc-4e87-ae62-effb6d97a6b5.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-31T05:14:08.632Z",
-        "dateEvidence": "Fonte ANSA, pagina originale datata 30 ottobre 2026 alle 17:57 Europe/Rome, contenuto letto il 31 ottobre 2026.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-siher-minacce-gip",
-      "eventKey": "milano-caso-siher-minacce-gip-verifica-protezione-ottobre-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Caso Siher, il Tribunale valuta la tutela della gip",
-      "summary": "Dopo minacce sui social, il presidente del Tribunale di Milano chiede una verifica sulla sicurezza della magistrata.",
-      "body": [
-        "Fabio Roia, presidente del Tribunale di Milano, ha scritto alle autorità competenti per verificare se servano misure di protezione per la gip Tiziana Landoni.",
-        "La richiesta segue messaggi minatori apparsi sui social dopo la decisione della magistrata di scarcerare Youssef Siher. L'eventuale adozione delle misure non risulta ancora decisa nella notizia."
-      ],
-      "publishedAt": "2026-10-30T16:59:00+01:00",
-      "verifiedAt": "2026-10-31T05:14:08.632Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/caso-siher-tribunale-chiede-di-verificare-se-serve-tutela-per-gip_e375234e-1d2f-4fc1-aeb3-902d29c454fa.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-31T05:14:08.632Z",
-        "dateEvidence": "Fonte ANSA, pagina originale datata 30 ottobre 2026 alle 16:59 Europe/Rome, contenuto letto il 31 ottobre 2026.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-a14-operaio-investito",
-      "eventKey": "a14-grottammare-operaio-investito-auto-pirata-30-ottobre-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "A14, operaio investito durante un cantiere: indagini su un'auto in fuga",
-      "summary": "La Stradale analizza i filmati per individuare il conducente; il giovane ferito è stato operato.",
-      "body": [
-        "Un operaio di 24 anni è stato investito nella notte sull'A14 in direzione nord, tra Grottammare e Pedaso, mentre rimuoveva segnaletica da un cantiere.",
-        "L'auto coinvolta si è allontanata. Il giovane ha riportato fratture ed è stato operato ad Ancona; la Polizia Stradale sta esaminando i video di sorveglianza per ricostruire l'accaduto."
-      ],
-      "publishedAt": "2026-10-30T16:14:00+01:00",
-      "verifiedAt": "2026-10-31T05:14:08.632Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/operaio-investito-in-a14-da-auto-pirata-i-filmati-al-vaglio-della-stradale_a8f20432-71d7-4940-af5a-88abc66c28f8.html",
-        "access": "free",
-        "accessCheckedAt": "2026-10-31T05:14:08.632Z",
-        "dateEvidence": "Fonte ANSA, pagina originale datata 30 ottobre 2026 alle 16:14 Europe/Rome, contenuto letto il 31 ottobre 2026.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-parma-monossido",
-      "eventKey": "parma-mezzani-monossido-due-adulti-morti-neonata-grave-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Parma, due morti per monossido: neonata in gravi condizioni",
-      "summary": "In un casolare a Bocca d'Enza di Mezzani sono morti due adulti; un bambino di sei anni è illeso.",
-      "body": [
-        "Un uomo di 35 anni e una donna di 32 sono morti a Bocca d'Enza di Mezzani, nel Parmense, per una sospetta intossicazione da monossido di carbonio. La loro figlia di sette mesi è stata trasportata in gravi condizioni all'ospedale Maggiore di Parma.",
-        "Un altro bambino di sei anni è uscito illeso. Gli accertamenti sulle cause sono in corso: tra le ipotesi c'è il malfunzionamento di una stufa, non ancora accertato."
-      ],
-      "publishedAt": "2026-10-30T12:45:00+01:00",
-      "verifiedAt": "2026-10-31T05:14:25.642Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/10/30/nossido-carbonio-morti-parma",
-        "access": "free",
-        "accessCheckedAt": "2026-10-31T05:14:25.642Z",
-        "dateEvidence": "Sky TG24, testo integrale e data originale 30 ottobre 2026 ore 12:45 Europe/Rome, riletti il 31 ottobre 2026.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-bologna-parto-bus",
-      "eventKey": "bologna-bus-linea-39-parto-assistito-autista-30-ottobre-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Bologna, partorisce su un autobus con l'aiuto della conducente",
-      "summary": "Una donna ha dato alla luce un bambino sulla linea 39; madre e neonato stanno bene.",
-      "body": [
-        "Una passeggera ha partorito sul bus 39 di Bologna, aiutata dalla conducente Niurka Roman e da altre persone a bordo mentre attendevano i soccorsi.",
-        "La conducente ha avvolto il neonato nel proprio foulard. Madre e figlio sono stati accompagnati all'Ospedale Maggiore per gli accertamenti e risultano entrambi in buone condizioni."
-      ],
-      "publishedAt": "2026-10-30T18:29:00+01:00",
-      "verifiedAt": "2026-10-31T05:14:25.642Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/10/30/parto-bus-bologna",
-        "access": "free",
-        "accessCheckedAt": "2026-10-31T05:14:25.642Z",
-        "dateEvidence": "Sky TG24, testo integrale e data originale 30 ottobre 2026 ore 18:29 Europe/Rome, riletti il 31 ottobre 2026.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ]
