@@ -7,113 +7,118 @@
   "articles": [
     {
       "id": "politica-bilancio-2027-autorizzazione-colle",
-      "eventKey": "Mattarella autorizza l'invio della manovra alle Camere",
+      "eventKey": "mattarella-autorizza-presentazione-bilancio-2027-2029",
       "category": "Politica",
       "status": "verified",
-      "title": "Il Quirinale ha autorizzato la presentazione del disegno di legge di bilancio 2027-2029: l'esame parlamentare comincerà a Montecitorio.",
-      "summary": [
+      "title": "Mattarella autorizza l'invio della manovra alle Camere",
+      "summary": "Il Quirinale ha autorizzato la presentazione del disegno di legge di bilancio 2027-2029: l'esame parlamentare comincerà a Montecitorio.",
+      "body": [
         "Il Presidente della Repubblica Sergio Mattarella ha autorizzato il 30 ottobre la presentazione del disegno di legge sul bilancio dello Stato per il 2027 e il triennio 2027-2029.",
         "Il primo passaggio parlamentare è previsto alla Camera dei deputati. L'autorizzazione apre l'iter delle Camere, non equivale all'approvazione definitiva della manovra."
       ],
-      "body": "2026-10-30T19:50:00+01:00",
-      "publishedAt": "ANSA",
+      "publishedAt": "2026-10-30T19:50:00+01:00",
       "verifiedAt": "2026-10-31T05:10:56Z",
       "source": {
-        "name": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/mattarella-autorizza-la-presentazione-alle-camere-della-legge-di-bilancio_aa3e9b23-a0fd-4a54-abe2-89eb562b16ab.html",
-        "url": "ANSA: ROMA, 30 ottobre 2026, ore 19:50, nella pagina dell'autorizzazione del Quirinale.",
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/mattarella-autorizza-la-presentazione-alle-camere-della-legge-di-bilancio_aa3e9b23-a0fd-4a54-abe2-89eb562b16ab.html",
         "access": "free",
         "accessCheckedAt": "2026-10-31T05:10:56Z",
-        "dateEvidence": 96,
+        "dateEvidence": "ANSA: ROMA, 30 ottobre 2026, ore 19:50, nella pagina dell'autorizzazione del Quirinale.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
+      },
+      "leadPriority": 96
     },
     {
       "id": "politica-campo-largo-primarie-febbraio",
-      "eventKey": "Opposizioni, programma entro novembre e primarie entro febbraio",
+      "eventKey": "campo-largo-programma-novembre-primarie-febbraio-2027",
       "category": "Politica",
       "status": "verified",
-      "title": "Pd, M5S e Avs hanno concordato un percorso comune verso le politiche: tavoli programmatici a novembre e primarie entro febbraio.",
-      "summary": [
+      "title": "Opposizioni, programma entro novembre e primarie entro febbraio",
+      "summary": "Pd, M5S e Avs hanno concordato un percorso comune verso le politiche: tavoli programmatici a novembre e primarie entro febbraio.",
+      "body": [
         "Una videocall tra Elly Schlein, Giuseppe Conte, Angelo Bonelli e Nicola Fratoianni ha definito tempi e perimetro di un confronto tra le forze progressiste.",
         "L'accordo indica la preparazione del programma entro novembre, primarie entro febbraio e una mobilitazione nazionale a dicembre contro la manovra. Tra gli interlocutori centristi figurano Italia Viva, Più Europa, Più Uno e Progetto Civico."
       ],
-      "body": "2026-10-31T00:11:00+01:00",
-      "publishedAt": "ANSA",
+      "publishedAt": "2026-10-31T00:11:00+01:00",
       "verifiedAt": "2026-10-31T05:10:56Z",
       "source": {
-        "name": "https://www.ansa.it/sito/notizie/politica/2026/10/31/il-campo-largo-accelera-subito-il-programma-e-primarie-entro-febbraio_2e10ed14-2959-47b6-8f4d-4c06f9726eee.html",
-        "url": "ANSA: ROMA, 31 ottobre 2026, ore 00:11, aggiornamento dell'accordo politico.",
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/il-campo-largo-accelera-subito-il-programma-e-primarie-entro-febbraio_2e10ed14-2959-47b6-8f4d-4c06f9726eee.html",
         "access": "free",
         "accessCheckedAt": "2026-10-31T05:10:56Z",
-        "dateEvidence": 94,
+        "dateEvidence": "ANSA: ROMA, 31 ottobre 2026, ore 00:11, aggiornamento dell'accordo politico.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
+      },
+      "leadPriority": 94
     },
     {
       "id": "politica-meloni-vannacci-no-alleanza",
-      "eventKey": "Meloni esclude un'intesa elettorale con Vannacci",
+      "eventKey": "meloni-ribadisce-no-alleanza-vannacci-30-ottobre",
       "category": "Politica",
       "status": "verified",
-      "title": "La presidente del Consiglio dice di voler riproporre l'attuale centrodestra e non accettare condizionamenti per una nuova alleanza.",
-      "summary": [
+      "title": "Meloni esclude un'intesa elettorale con Vannacci",
+      "summary": "La presidente del Consiglio dice di voler riproporre l'attuale centrodestra e non accettare condizionamenti per una nuova alleanza.",
+      "body": [
         "In un'intervista contenuta nel libro di Bruno Vespa, Giorgia Meloni afferma di voler tornare al governo con la coalizione di centrodestra conosciuta, eventualmente ampliata da movimenti civici.",
         "Roberto Vannacci contesta la chiusura della premier. Nello stesso intervento Meloni ribadisce il sostegno all'Ucraina anche a fronte di possibili costi elettorali."
       ],
-      "body": "2026-10-30T19:34:00+01:00",
-      "publishedAt": "ANSA",
+      "publishedAt": "2026-10-30T19:34:00+01:00",
       "verifiedAt": "2026-10-31T05:10:56Z",
       "source": {
-        "name": "https://www.ansa.it/sito/notizie/politica/2026/10/30/meloni-chiude-a-vannacci-chiedero-agli-italiani-di-governare-senza-ricatti_56e01653-b4ce-40aa-a3f8-78a42410105a.html",
-        "url": "ANSA: ROMA, 30 ottobre 2026, ore 19:34, servizio sulle dichiarazioni della premier.",
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/30/meloni-chiude-a-vannacci-chiedero-agli-italiani-di-governare-senza-ricatti_56e01653-b4ce-40aa-a3f8-78a42410105a.html",
         "access": "free",
         "accessCheckedAt": "2026-10-31T05:10:56Z",
-        "dateEvidence": 92,
+        "dateEvidence": "ANSA: ROMA, 30 ottobre 2026, ore 19:34, servizio sulle dichiarazioni della premier.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
+      },
+      "leadPriority": 92
     },
     {
       "id": "politica-redditi-parlamentari-2025",
-      "eventKey": "Pubblicate le dichiarazioni dei redditi di deputati e senatori",
+      "eventKey": "dichiarazioni-redditi-parlamentari-di-giuseppe-bongiorno-tremonti-2025",
       "category": "Politica",
       "status": "verified",
-      "title": "Tra i redditi più elevati dichiarati per il 2025 figurano quelli di Andrea Di Giuseppe, Giulia Bongiorno e Giulio Tremonti.",
-      "summary": [
+      "title": "Pubblicate le dichiarazioni dei redditi di deputati e senatori",
+      "summary": "Tra i redditi più elevati dichiarati per il 2025 figurano quelli di Andrea Di Giuseppe, Giulia Bongiorno e Giulio Tremonti.",
+      "body": [
         "L'aggiornamento annuale della documentazione patrimoniale dei parlamentari mostra oltre 3,5 milioni di euro di reddito complessivo per Andrea Di Giuseppe e 2,6 milioni per Giulia Bongiorno.",
         "Secondo i documenti esaminati da ANSA, Giulio Tremonti supera i due milioni. I valori si riferiscono al reddito dichiarato per il 2025, non a stipendi parlamentari."
       ],
-      "body": "2026-10-30T18:25:00+01:00",
-      "publishedAt": "ANSA",
+      "publishedAt": "2026-10-30T18:25:00+01:00",
       "verifiedAt": "2026-10-31T05:10:56Z",
       "source": {
-        "name": "https://www.ansa.it/sito/notizie/politica/2026/10/30/di-giuseppe-bongiorno-e-tremonti-i-paperoni-in-parlamento_c60dd174-5133-47d3-824f-df67f6bcb681.html",
-        "url": "ANSA: ROMA, 30 ottobre 2026, ore 18:25, dati sulle dichiarazioni annuali.",
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/30/di-giuseppe-bongiorno-e-tremonti-i-paperoni-in-parlamento_c60dd174-5133-47d3-824f-df67f6bcb681.html",
         "access": "free",
         "accessCheckedAt": "2026-10-31T05:10:56Z",
-        "dateEvidence": 78,
+        "dateEvidence": "ANSA: ROMA, 30 ottobre 2026, ore 18:25, dati sulle dichiarazioni annuali.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
+      },
+      "leadPriority": 78
     },
     {
       "id": "politica-marattin-pld-direzione-novembre",
-      "eventKey": "Liberaldemocratici, confronto interno sulla linea di Marattin",
+      "eventKey": "partito-liberaldemocratico-marattin-tensioni-direzione-3-novembre",
       "category": "Politica",
       "status": "verified",
-      "title": "La prospettiva di un avvicinamento al centrodestra divide il Partito liberaldemocratico; una direzione è prevista il 3 novembre.",
-      "summary": [
+      "title": "Liberaldemocratici, confronto interno sulla linea di Marattin",
+      "summary": "La prospettiva di un avvicinamento al centrodestra divide il Partito liberaldemocratico; una direzione è prevista il 3 novembre.",
+      "body": [
         "Secondo la ricostruzione di Open, la possibilità di intese con il centrodestra ventilata da Luigi Marattin incontra opposizioni nel suo partito.",
         "Il presidente Andrea Marcucci sarebbe tra i promotori del confronto interno, in programma il 3 novembre. La possibile scissione è un rischio prospettato dal giornale, non un fatto già avvenuto."
       ],
-      "body": "2026-10-30T20:27:00+01:00",
-      "publishedAt": "Open",
+      "publishedAt": "2026-10-30T20:27:00+01:00",
       "verifiedAt": "2026-10-31T05:10:56Z",
       "source": {
-        "name": "https://www.open.online/2026/10/30/luigi-marattin-centrodestra-pld-scissione-cosa-succede/",
-        "url": "Open: 30 Ottobre 2026, ore 20:27, firma Luca Graziani.",
+        "name": "Open",
+        "url": "https://www.open.online/2026/10/30/luigi-marattin-centrodestra-pld-scissione-cosa-succede/",
         "access": "free",
         "accessCheckedAt": "2026-10-31T05:10:56Z",
-        "dateEvidence": 75,
+        "dateEvidence": "Open: 30 Ottobre 2026, ore 20:27, firma Luca Graziani.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
+      },
+      "leadPriority": 75
     }
   ]
 }
