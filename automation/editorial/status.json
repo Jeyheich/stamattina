@@ -1,27 +1,482 @@
 {
   "editionDate": "2026-10-31",
-  "checkedAt": "2026-10-31T16:08:43.691Z",
+  "checkedAt": "2026-10-31T16:14:48.117Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
+    "roma",
+    "cultura"
+  ],
+  "completed": [
     "politica",
     "esteri",
     "economia",
     "cronaca",
-    "roma",
-    "cultura",
     "tecnologia",
     "sport"
   ],
-  "completed": [],
   "inProgress": [],
   "missing": [],
   "invalid": [
     {
-      "slug": "edition",
-      "reason": "Cicli editoriali differenti"
+      "slug": "roma",
+      "reason": "Il blocco completo deve contenere 5 notizie distinte"
+    },
+    {
+      "slug": "cultura",
+      "reason": "Il blocco completo deve contenere 5 notizie distinte"
     }
   ],
-  "stories": [],
+  "stories": [
+    {
+      "id": "politica-bilancio-2027-autorizzazione-colle",
+      "category": "Politica",
+      "title": "Mattarella autorizza l'invio della manovra alle Camere",
+      "eventKey": "mattarella-autorizza-presentazione-bilancio-2027-2029"
+    },
+    {
+      "id": "politica-campo-largo-primarie-febbraio",
+      "category": "Politica",
+      "title": "Opposizioni, programma entro novembre e primarie entro febbraio",
+      "eventKey": "campo-largo-programma-novembre-primarie-febbraio-2027"
+    },
+    {
+      "id": "politica-meloni-vannacci-no-alleanza",
+      "category": "Politica",
+      "title": "Meloni esclude un'intesa elettorale con Vannacci",
+      "eventKey": "meloni-ribadisce-no-alleanza-vannacci-30-ottobre"
+    },
+    {
+      "id": "politica-redditi-parlamentari-2025",
+      "category": "Politica",
+      "title": "Pubblicate le dichiarazioni dei redditi di deputati e senatori",
+      "eventKey": "dichiarazioni-redditi-parlamentari-di-giuseppe-bongiorno-tremonti-2025"
+    },
+    {
+      "id": "politica-marattin-pld-direzione-novembre",
+      "category": "Politica",
+      "title": "Liberaldemocratici, confronto interno sulla linea di Marattin",
+      "eventKey": "partito-liberaldemocratico-marattin-tensioni-direzione-3-novembre"
+    },
+    {
+      "id": "esteri-oleshky-tregua-evacuazione",
+      "category": "Esteri",
+      "title": "Oleshky, evacuazione completata durante una tregua concordata",
+      "eventKey": "oleshky-missione-umanitaria-completata-tregua-fino-primo-novembre-2026"
+    },
+    {
+      "id": "esteri-usa-trump-sondaggio-emerson",
+      "category": "Esteri",
+      "title": "Midterm Usa, un sondaggio indica Trump al 37% di gradimento",
+      "eventKey": "sondaggio-emerson-trump-approvazione-37-midterm-2026"
+    },
+    {
+      "id": "esteri-iran-khamenei-minacce-usa",
+      "category": "Esteri",
+      "title": "Iran, Khamenei avverte Washington contro nuovi attacchi",
+      "eventKey": "iran-mojtaba-khamenei-avverte-usa-risposta-minacce-31-ottobre-2026"
+    },
+    {
+      "id": "esteri-polonia-nawrocki-colloqui-crisi",
+      "category": "Esteri",
+      "title": "Polonia, Nawrocki convoca i partiti per la crisi della Consulta",
+      "eventKey": "polonia-nawrocki-convoca-partiti-crisi-corte-costituzionale-31-ottobre-2026"
+    },
+    {
+      "id": "esteri-francia-bastiglia-consiglio-stato",
+      "category": "Esteri",
+      "title": "Parigi, il Consiglio di Stato conferma il divieto di corteo alla Bastiglia",
+      "eventKey": "francia-consiglio-stato-divieto-corteo-bastiglia-31-ottobre-2026"
+    },
+    {
+      "id": "economia-inflazione-ottobre-54",
+      "category": "Economia",
+      "title": "Prezzi italiani in accelerazione: inflazione al 5,4%",
+      "eventKey": "istat-inflazione-ottobre-2026-5-4"
+    },
+    {
+      "id": "economia-ita-226-esuberi",
+      "category": "Economia",
+      "title": "Ita Airways apre una procedura per 226 esuberi",
+      "eventKey": "ita-airways-procedura-226-esuberi-31-ottobre-2026"
+    },
+    {
+      "id": "economia-eurocontrol-jet-fuel",
+      "category": "Economia",
+      "title": "Carburante aereo, Eurocontrol segnala un rincaro del 114%",
+      "eventKey": "eurocontrol-jet-fuel-ottobre-2026-4-84-gallone"
+    },
+    {
+      "id": "economia-caro-voli-natale",
+      "category": "Economia",
+      "title": "Natale, voli nazionali già costosi: fino a 427 euro sulla Milano-Reggio",
+      "eventKey": "codacons-tariffe-voli-natale-2026-milano-reggio-427"
+    },
+    {
+      "id": "economia-borsa-milano-chiude-meno-uno",
+      "category": "Economia",
+      "title": "Piazza Affari, ultimo venerdì di ottobre in calo dell'1%",
+      "eventKey": "borsa-milano-ftse-mib-chiusura-30-ottobre-2026"
+    },
+    {
+      "id": "cronaca-perquisizioni-cortei-23-citta",
+      "category": "Cronaca",
+      "title": "Dopo i cortei, 60 perquisizioni in 23 città",
+      "eventKey": "polizia-60-perquisizioni-23-citta-incitamenti-violenza-31-ottobre-2026"
+    },
+    {
+      "id": "cronaca-lucca-monossido-famiglia",
+      "category": "Cronaca",
+      "title": "Lucca, famiglia con due bambini intossicata da monossido",
+      "eventKey": "lucca-ponte-moriano-famiglia-quattro-intossicati-monossido-31-ottobre-2026"
+    },
+    {
+      "id": "cronaca-san-giuliano-commemorazione",
+      "category": "Cronaca",
+      "title": "San Giuliano ricorda i 28 morti nel crollo della scuola",
+      "eventKey": "molise-san-giuliano-commemorazione-scuola-jovine-31-ottobre-2026"
+    },
+    {
+      "id": "cronaca-morta-nonna-silvi",
+      "category": "Cronaca",
+      "title": "È morta Nonna Silvi, volto della cucina toscana sui social",
+      "eventKey": "silvana-bini-nonna-silvi-morte-31-ottobre-2026"
+    },
+    {
+      "id": "cronaca-castel-dazzano-tre-carabinieri-indagati",
+      "category": "Cronaca",
+      "title": "Castel D'Azzano, tre comandanti indagati dopo l'esplosione",
+      "eventKey": "castel-dazzano-inchiesta-comandanti-carabinieri-omicidio-colposo-2026"
+    },
+    {
+      "id": "tecnologia-chatgpt-tutele-minori",
+      "category": "Tecnologia · AI",
+      "title": "ChatGPT, nuove restrizioni e controlli per gli utenti minorenni",
+      "eventKey": "openai-chatgpt-nuove-protezioni-minori-31-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-whatsapp-gruppi-novita",
+      "category": "Tecnologia · AI",
+      "title": "WhatsApp aggiorna i gruppi: menzioni, messaggi fissati e stati dedicati",
+      "eventKey": "whatsapp-quattro-funzioni-chat-gruppo-30-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-mistral-large4-disponibile",
+      "category": "Tecnologia · AI",
+      "title": "Mistral Large 4 arriva in versione finale con nuove capacità di programmazione",
+      "eventKey": "mistral-large-4-versione-finale-open-weight-cyber-29-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-fortnite-pirati-onepiece",
+      "category": "Tecnologia · AI",
+      "title": "Fortnite prepara la mini-stagione piratesca con One Piece",
+      "eventKey": "fortnite-mini-stagione-pirati-one-piece-update-43-1-novembre-2026"
+    },
+    {
+      "id": "tecnologia-insomniac-xmen-annunci-lavoro",
+      "category": "Tecnologia · AI",
+      "title": "Annunci di lavoro Insomniac alimentano le ipotesi su un gioco degli X-Men",
+      "eventKey": "insomniac-annunci-lavoro-rumor-xmen-multipli-personaggi-31-ottobre-2026"
+    },
+    {
+      "id": "sport-haas-hirakawa-sostituisce-ocon",
+      "category": "Sport",
+      "title": "F1, Haas cambia pilota: Hirakawa prende il posto di Ocon in Messico",
+      "eventKey": "f1-haas-hirakawa-sostituisce-ocon-gp-messico-31-ottobre-2026"
+    },
+    {
+      "id": "sport-juve-napoli-allegri-conferenza",
+      "category": "Sport",
+      "title": "Allegri presenta Juventus-Napoli: «Due squadre indietro in classifica»",
+      "eventKey": "allegri-conferenza-juventus-napoli-scontro-diretto-31-ottobre-2026"
+    },
+    {
+      "id": "sport-motogp-acosta-sprint-sepang",
+      "category": "Sport",
+      "title": "MotoGP, Acosta vince la Sprint in Malesia davanti a Marc Márquez",
+      "eventKey": "motogp-malesia-sprint-acosta-vince-marquez-secondo-bezzecchi-terzo-31-ottobre-2026"
+    },
+    {
+      "id": "sport-berrettini-de-minaur-vienna",
+      "category": "Sport",
+      "title": "Vienna, Berrettini si ferma ai quarti contro De Minaur",
+      "eventKey": "atp-vienna-berrettini-de-minaur-quarti-7-6-6-2-30-ottobre-2026"
+    },
+    {
+      "id": "sport-errani-paolini-finals-tokyo",
+      "category": "Sport",
+      "title": "Errani e Paolini conquistano la finale di Tokyo e il pass per le WTA Finals",
+      "eventKey": "errani-paolini-finale-tokyo-qualificate-wta-finals-31-ottobre-2026"
+    },
+    {
+      "id": "politica-mattarella-risparmio-salari",
+      "category": "Politica",
+      "title": "Mattarella richiama il peso di inflazione e salari sulle famiglie",
+      "eventKey": "mattarella-messaggio-giornata-risparmio-salari-inflazione-30-ottobre-2026"
+    },
+    {
+      "id": "politica-carabinieri-ausiliari-manovra",
+      "category": "Politica",
+      "title": "Nel disegno di legge di bilancio torna la figura dei carabinieri ausiliari",
+      "eventKey": "manovra-2027-reintroduce-carabinieri-ausiliari-riserva-volontaria"
+    },
+    {
+      "id": "politica-gcap-finanziamento-manovra",
+      "category": "Politica",
+      "title": "Gcap, il bilancio prevede 48 milioni in più per il coordinamento",
+      "eventKey": "manovra-2027-2028-risorse-gigo-gcap-48-milioni"
+    },
+    {
+      "id": "politica-meloni-omaggio-militari-bosnia",
+      "category": "Politica",
+      "title": "Meloni e Crosetto ricordano i quattro militari morti in Bosnia",
+      "eventKey": "meloni-crosetto-omaggio-quattro-militari-bosnia-30-ottobre-2026"
+    },
+    {
+      "id": "politica-viminale-piano-cortei",
+      "category": "Politica",
+      "title": "Il Viminale coordina prefetti e questori per la gestione dei cortei",
+      "eventKey": "viminale-coordinamento-prefetti-dispositivo-cortei-29-ottobre-2026"
+    },
+    {
+      "id": "esteri-zelensky-patriot-tempi-consegna",
+      "category": "Esteri",
+      "title": "Zelensky chiede Patriot subito, non tra alcuni anni",
+      "eventKey": "zelensky-chiede-patriot-urgenti-inverno-consegne-anni-31-ottobre-2026"
+    },
+    {
+      "id": "esteri-panama-canale-priorita-transiti",
+      "category": "Esteri",
+      "title": "Canale di Panama, nuove priorità per le prenotazioni",
+      "eventKey": "panama-canale-nuove-regole-prenotazione-netzero-31-ottobre-2026"
+    },
+    {
+      "id": "esteri-cile-kast-rimuove-silva",
+      "category": "Esteri",
+      "title": "Cile, sostituito il sottosegretario alla Giustizia dopo le polemiche sulle pene",
+      "eventKey": "cile-kast-rimuove-sottosegretario-silva-sconti-pena-abusi-minori-2026"
+    },
+    {
+      "id": "esteri-ue-canada-alleanza-futuro",
+      "category": "Esteri",
+      "title": "Unione europea e Canada rafforzano la cooperazione politica",
+      "eventKey": "ue-canada-alleanza-per-futuro-montreal-30-ottobre-2026"
+    },
+    {
+      "id": "esteri-g20-kallas-lavrov-colloqui",
+      "category": "Esteri",
+      "title": "G20, Kallas non vede segnali di apertura da Lavrov",
+      "eventKey": "g20-atlanta-kallas-nessuna-apertura-lavrov-30-ottobre-2026"
+    },
+    {
+      "id": "economia-eurostat-reddito-reale-01",
+      "category": "Economia",
+      "title": "Eurostat, reddito reale delle famiglie quasi fermo",
+      "eventKey": "eurostat-reddito-reale-famiglie-eurozona-secondo-trimestre-2026"
+    },
+    {
+      "id": "economia-argentina-rischio-paese",
+      "category": "Economia",
+      "title": "Argentina, rischio Paese ai massimi dell'anno",
+      "eventKey": "argentina-rischio-paese-787-punti-ottobre-2026"
+    },
+    {
+      "id": "economia-valentino-presidio-venezia",
+      "category": "Economia",
+      "title": "Valentino, presidio a Venezia contro il trasferimento del magazzino",
+      "eventKey": "valentino-valdagno-83-esuberi-presidio-venezia-31-ottobre-2026"
+    },
+    {
+      "id": "economia-pemex-conti-trimestre",
+      "category": "Economia",
+      "title": "Pemex riduce le perdite trimestrali a 605 milioni di dollari",
+      "eventKey": "pemex-perdita-605-milioni-terzo-trimestre-2026"
+    },
+    {
+      "id": "economia-pensioni-rivalutazione-manovra",
+      "category": "Economia",
+      "title": "Pensioni, la rivalutazione ridotta vale 14,2 miliardi di risparmi lordi",
+      "eventKey": "pensioni-indicizzazione-ridotta-risparmio-14-2-miliardi-2027-2036"
+    },
+    {
+      "id": "cronaca-catania-turista-molestata",
+      "category": "Cronaca",
+      "title": "Catania, turista molestata in stazione: fermato un 79enne",
+      "eventKey": "catania-stazione-turista-33enne-molestata-79enne-fermo-31-ottobre-2026"
+    },
+    {
+      "id": "cronaca-imperia-incidente-sedicenne",
+      "category": "Cronaca",
+      "title": "Imperia, auto in un burrone: muore un sedicenne",
+      "eventKey": "molini-triora-auto-burrone-morto-sedicenne-31-ottobre-2026"
+    },
+    {
+      "id": "cronaca-torino-no-vax-proscioglimenti",
+      "category": "Cronaca",
+      "title": "Torino, prosciolti sette imputati del gruppo «Guerrieri» No Vax",
+      "eventKey": "torino-guerrieri-no-vax-motivazioni-proscioglimenti-sette-31-ottobre-2026"
+    },
+    {
+      "id": "cronaca-bologna-parto-bus",
+      "category": "Cronaca",
+      "title": "Bologna, parto a bordo del bus 39: mamma e neonato stanno bene",
+      "eventKey": "bologna-bus-linea-39-parto-assistito-autista-30-ottobre-2026"
+    },
+    {
+      "id": "cronaca-frosinone-operaio-morto",
+      "category": "Cronaca",
+      "title": "Frosinone, morto operaio caduto dal tetto di una scuola",
+      "eventKey": "frosinone-operaio-morto-caduta-tetto-palestra-scuola-31-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-temu-ue-rimedi-dsa",
+      "category": "Tecnologia · AI",
+      "title": "Temu, Bruxelles accetta un piano contro i prodotti illegali",
+      "eventKey": "commissione-europea-accetta-rimedi-temu-prodotti-illegali-dsa-30-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-meta-cma-termini-commerciali",
+      "category": "Tecnologia · AI",
+      "title": "Regno Unito, indagine antitrust sulle nuove condizioni di Meta",
+      "eventKey": "cma-regno-unito-indagine-meta-condizioni-contenuti-ai-30-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-nvidia-huggingface-antitrust",
+      "category": "Tecnologia · AI",
+      "title": "Nvidia e Hugging Face, esame antitrust negli Stati Uniti",
+      "eventKey": "doj-usa-indagine-acquisizione-hugging-face-nvidia-29-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-assassins-creed-destiny-report",
+      "category": "Tecnologia · AI",
+      "title": "Assassin's Creed Destiny, un report parla di un progetto cancellato",
+      "eventKey": "report-assassins-creed-destiny-progetto-cinese-cancellato-31-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-playstation-plus-novembre-giochi",
+      "category": "Tecnologia · AI",
+      "title": "PlayStation Plus, i titoli di novembre disponibili dal 3",
+      "eventKey": "playstation-plus-essential-novembre-2026-giochi-disponibili-3-novembre"
+    },
+    {
+      "id": "sport-milan-inter-derby-formazioni",
+      "category": "Sport",
+      "title": "Milan-Inter, Amorim e Chivu preparano il derby di San Siro",
+      "eventKey": "milan-inter-31-ottobre-2026-assetti-amorim-chivu-vigilia"
+    },
+    {
+      "id": "sport-udinese-roma-mora-tridente",
+      "category": "Sport",
+      "title": "Roma a Udine con Mora nel tridente, secondo le indicazioni della vigilia",
+      "eventKey": "udinese-roma-31-ottobre-2026-gasperini-mora-tridente-assenze"
+    },
+    {
+      "id": "sport-lazio-cagliari-tridente",
+      "category": "Sport",
+      "title": "Lazio-Cagliari, Gattuso valuta il tridente Isaksen-Noslin-Zaccagni",
+      "eventKey": "lazio-cagliari-1-novembre-2026-probabili-formazioni-gattuso-pisacane"
+    },
+    {
+      "id": "sport-antonelli-mondiale-messico",
+      "category": "Sport",
+      "title": "F1, Antonelli può conquistare il Mondiale già in Messico",
+      "eventKey": "formula-1-antonelli-secondo-match-point-titolo-messico-1-novembre-2026"
+    },
+    {
+      "id": "sport-atp-vienna-semifinali-programma",
+      "category": "Sport",
+      "title": "Vienna, semifinali Alcaraz-Medvedev e Zverev-De Minaur",
+      "eventKey": "atp-vienna-31-ottobre-2026-semifinali-alcaraz-medvedev-zverev-de-minaur"
+    }
+  ],
+  "collectionId": "2026-10-31-pomeriggio",
+  "reserveCounts": {
+    "Politica": 5,
+    "Esteri": 5,
+    "Economia": 5,
+    "Cronaca": 5,
+    "Roma": 0,
+    "Cultura · Teatro · Cinema": 0,
+    "Tecnologia · AI": 5,
+    "Sport": 5
+  },
+  "photoCandidates": [
+    {
+      "id": "politica-bilancio-2027-autorizzazione-colle",
+      "category": "Politica",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Chigi_Roma_giugno_2024.jpg"
+    },
+    {
+      "id": "economia-borsa-milano-chiude-meno-uno",
+      "category": "Economia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palais_Mezzanotte_-_Milan_(IT25)_-_2022-09-03_-_3.jpg"
+    },
+    {
+      "id": "cronaca-castel-dazzano-tre-carabinieri-indagati",
+      "category": "Cronaca",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_159_Carabinieri.jpg"
+    },
+    {
+      "id": "sport-berrettini-de-minaur-vienna",
+      "category": "Sport",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Matteo_Berrettini_at_2025_Miami_Open_04.jpg"
+    },
+    {
+      "id": "sport-errani-paolini-finals-tokyo",
+      "category": "Sport",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sara_Errani_-_Roland-Garros_-_28.05.2024_(cropped).jpg"
+    }
+  ],
+  "photosAvailable": 5,
+  "categoryProgress": {
+    "politica": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "esteri": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "economia": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "cronaca": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "roma": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "cultura": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "tecnologia": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "sport": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    }
+  },
   "needsPublication": false
 }
