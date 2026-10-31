@@ -1,10 +1,9 @@
 {
   "editionDate": "2026-10-31",
-  "checkedAt": "2026-10-31T05:12:04.245Z",
+  "checkedAt": "2026-10-31T05:12:24.700Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
-    "esteri",
     "economia",
     "cronaca",
     "roma",
@@ -116,12 +115,42 @@
       "category": "Politica",
       "title": "Meloni e Crosetto rendono omaggio ai militari caduti in Bosnia",
       "eventKey": "meloni-crosetto-omaggio-quattro-militari-bosnia-30-ottobre-2026"
+    },
+    {
+      "id": "esteri-brasile-impeachment-sindaco-san-paolo",
+      "category": "Esteri",
+      "title": "San Paolo, commissione valuta la richiesta di impeachment del sindaco",
+      "eventKey": "brasile-san-paolo-commissione-impeachment-sindaco-ricardo-nunes-2026"
+    },
+    {
+      "id": "esteri-panama-proposta-dialogo-usa-cuba",
+      "category": "Esteri",
+      "title": "Panama propone un tavolo di dialogo fra Stati Uniti e Cuba",
+      "eventKey": "panama-proposta-onu-dialogo-washington-avana-ottobre-2026"
+    },
+    {
+      "id": "esteri-ucraina-oleshky-civili-evacuati",
+      "category": "Esteri",
+      "title": "Oleshky, partiti i civili evacuati dalla città occupata",
+      "eventKey": "oleshky-evacuazione-civili-convoglio-russia-bielorussia-30-ottobre-2026"
+    },
+    {
+      "id": "esteri-taiwan-raid-locale-lgbt",
+      "category": "Esteri",
+      "title": "Taiwan, perquisizione in un locale LGBT suscita proteste",
+      "eventKey": "taiwan-taipei-raid-polizia-bar-lgbt-pride-ottobre-2026"
+    },
+    {
+      "id": "esteri-israele-voto-donne-beduine",
+      "category": "Esteri",
+      "title": "Israele, il voto delle donne beduine pesa sul risultato dei partiti arabi",
+      "eventKey": "israele-elezioni-2026-affluenza-donne-beduine-partiti-arabi-19-seggi"
     }
   ],
   "collectionId": "2026-10-31-mattina",
   "reserveCounts": {
     "Politica": 5,
-    "Esteri": 0,
+    "Esteri": 5,
     "Economia": 0,
     "Cronaca": 0,
     "Roma": 0,
@@ -140,9 +169,9 @@
     },
     "esteri": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "economia": {
       "base": 0,
