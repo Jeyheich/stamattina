@@ -3,8 +3,6 @@
   "editionDate": "2026-11-01",
   "collectionId": "2026-11-01-pomeriggio",
   "category": "Politica",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-01T15:08:57.695Z",
   "articles": [
     {
       "id": "politica-meloni-riforma-rai-novembre",
@@ -130,5 +128,118 @@
       },
       "leadPriority": 87
     }
-  ]
+  ],
+  "reserveArticles": [
+    {
+      "id": "politica-meloni-quirinale-altro-mandato",
+      "eventKey": "meloni-esclude-corsa-quirinale-punta-altro-mandato-1-novembre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Meloni esclude una candidatura al Quirinale e punta a un altro mandato",
+      "summary": "La premier dichiara di voler chiedere agli elettori altri cinque anni di governo, senza ambire alla Presidenza della Repubblica.",
+      "body": [
+        "Giorgia Meloni ha affermato di essere concentrata sulla conclusione dell'attuale mandato e di voler chiedere agli italiani di confermarle la fiducia per altri cinque anni.",
+        "Nelle dichiarazioni anticipate dal libro di Bruno Vespa, pubblicate il 1° novembre da ANSA, la premier ha detto che il Quirinale non rientra nei suoi piani e ha contestato l'idea che un conservatore non possa aspirare a quella carica."
+      ],
+      "publishedAt": "2026-11-01T09:34:00+01:00",
+      "verifiedAt": "2026-11-01T15:09:31.779Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/01/meloni-concentrata-a-chiedere-altro-mandato.-il-quirinale-non-e-nei-miei-piani_a0038a28-b000-402c-8b26-b6dd6250e11e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T15:09:31.779Z",
+        "dateEvidence": "ANSA, Roma, 1 novembre 2026 ore 09:34, dichiarazioni Meloni in anticipazione del libro di Bruno Vespa; articolo letto nel pomeriggio, accesso ANSA soggetto a limite mensile.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-salvini-banche-contributo",
+      "eventKey": "salvini-parlamento-contributo-banche-oltre-cinque-miliardi-31-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Salvini apre a un contributo bancario maggiore deciso dal Parlamento",
+      "summary": "Il vicepremier sostiene che le Camere potrebbero incrementare le somme richieste agli istituti nella legge di bilancio.",
+      "body": [
+        "A un gazebo della Lega a Ponte Milvio, Matteo Salvini ha ricordato che il disegno di bilancio già prevede un contributo del settore bancario superiore a cinque miliardi di euro.",
+        "Il vicepremier ha affermato che il Parlamento potrebbe scegliere di chiedere ulteriori risorse, da destinare secondo la sua posizione a famiglie, lavoratori e pensionati. Non si tratta di un emendamento già approvato."
+      ],
+      "publishedAt": "2026-10-31T18:30:00+01:00",
+      "verifiedAt": "2026-11-01T15:09:31.779Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/salvini-se-il-parlamento-vuole-un-contributo-maggiore-dalle-banche-e-sovrano_9639469c-8c6e-405c-9c2e-0d1b50371871.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T15:09:31.779Z",
+        "dateEvidence": "ANSA, Roma, 31 ottobre 2026 ore 18:30, dichiarazioni a Ponte Milvio; articolo originale letto integralmente il 1 novembre 2026 alle 06:08 Europe/Rome; ANSA consente un numero limitato di letture gratuite. Rilettura integrale della fonte originale il 1 novembre 2026 nel pomeriggio (Europe/Rome); mantenuta la data di pubblicazione originale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-guerini-aiuti-kiev",
+      "eventKey": "guerini-pd-propone-maggiori-aiuti-militari-ucraina-31-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Guerini propone più sostegno militare all'Ucraina in caso di governo Pd",
+      "summary": "L'ex ministro della Difesa critica le forniture dell'esecutivo e indica la necessità di rafforzare la capacità militare europea.",
+      "body": [
+        "Lorenzo Guerini, presidente del Copasir ed esponente del Pd, ha sostenuto che un eventuale futuro governo del suo schieramento dovrebbe inviare più aiuti militari all'Ucraina.",
+        "L'ex ministro ha criticato la politica di forniture dell'esecutivo Meloni e richiamato gli investimenti pluriennali nella difesa. Le sue affermazioni sono posizioni politiche, non nuovi stanziamenti approvati."
+      ],
+      "publishedAt": "2026-10-31T16:09:00+01:00",
+      "verifiedAt": "2026-11-01T15:09:31.779Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/guerini-pdse-al-governo-dovremmo-dare-piu-aiuti-militari-a-kiev-di-quelli_ab200e1d-f6af-498f-9d8e-cf5c8d150444.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T15:09:31.779Z",
+        "dateEvidence": "ANSA, Roma, 31 ottobre 2026 ore 16:09, dichiarazioni nel libro di Vespa; pagina originale letta il 1 novembre 2026 in mattinata, data di pubblicazione non alterata. Lettura gratuita ANSA limitata mensilmente. Rilettura integrale della fonte originale il 1 novembre 2026 nel pomeriggio (Europe/Rome); mantenuta la data di pubblicazione originale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-schlein-establishment",
+      "eventKey": "schlein-establishment-autonomia-pd-intervista-vespa-31-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Schlein rivendica l'autonomia del Pd e critica parte dell'establishment",
+      "summary": "La segretaria dem sostiene che il partito abbia recuperato un profilo progressista indipendente da pressioni esterne.",
+      "body": [
+        "In un'anticipazione del libro di Bruno Vespa, Elly Schlein ha affermato che una parte dell'establishment italiano non desidera la sinistra al governo.",
+        "Ha rivendicato l'autonomia politica del Partito democratico e la crescita elettorale registrata dopo il suo arrivo alla segreteria. Sono dichiarazioni politiche attribuite alla leader."
+      ],
+      "publishedAt": "2026-10-31T16:06:00+01:00",
+      "verifiedAt": "2026-11-01T15:09:31.779Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/schlein-parte-dellestablishment-non-vuole-la-sinistra-al-governo_08f75907-7083-4b48-8b49-86de1594dbfd.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T15:09:31.779Z",
+        "dateEvidence": "ANSA, Roma, 31 ottobre 2026 ore 16:06, anticipazione libro Vespa; pagina originale letta il 1 novembre 2026 in mattinata, data di pubblicazione non alterata. Lettura gratuita ANSA limitata mensilmente. Rilettura integrale della fonte originale il 1 novembre 2026 nel pomeriggio (Europe/Rome); mantenuta la data di pubblicazione originale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-redditi-parlamentari",
+      "eventKey": "dichiarazioni-redditi-parlamentari-di-giuseppe-lupi-tajani-30-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Redditi dei parlamentari, pubblicati nuovi dati sulle dichiarazioni",
+      "summary": "Tra i deputati emergono le cifre di Andrea Di Giuseppe, Maurizio Lupi, Antonio Tajani e altri esponenti.",
+      "body": [
+        "Le dichiarazioni fiscali pubblicate sui siti parlamentari riportano per Andrea Di Giuseppe oltre 3,5 milioni di euro di reddito imponibile, secondo la ricostruzione di Adnkronos.",
+        "La testata confronta anche le cifre comunicate da Lupi, Tajani, Schlein e Fratoianni. Si tratta di redditi dichiarati e non del solo compenso per l'attività parlamentare."
+      ],
+      "publishedAt": "2026-10-30T17:41:00+01:00",
+      "verifiedAt": "2026-11-01T15:09:31.779Z",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/politica/parlamento-redditi-deputati-meloni-schlein-conte_6FX8T4brFASJtrvsrG3UGg",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T15:09:31.779Z",
+        "dateEvidence": "Adnkronos, 30 ottobre 2026 ore 17:41, dati dichiarazioni pubblicate sul sito della Camera; pagina originale letta il 1 novembre 2026 in mattinata, data di pubblicazione non alterata. Rilettura integrale della fonte originale il 1 novembre 2026 nel pomeriggio (Europe/Rome); mantenuta la data di pubblicazione originale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "completedAt": "2026-11-01T15:09:31.779Z"
 }
