@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-01",
+  "collectionId": "2026-11-01-mattina",
+  "category": "Tecnologia · AI",
+  "completedAt": "2026-11-01T06:02:20.105Z",
+  "articles": [
+    {
+      "id": "tecnologia-ue-social-minori-stop",
+      "eventKey": "commissione-ue-sospende-ddl-nazionali-social-minori-kids-act-30-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Social e minori, Bruxelles sospende per un anno le nuove proposte nazionali",
+      "summary": "La Commissione UE chiede una pausa di dodici mesi ai disegni di legge notificati dopo il KIDS Act, per evitare regole nazionali divergenti.",
+      "body": [
+        "La Commissione europea ha annunciato una sospensione di dodici mesi per le nuove proposte nazionali che limitano l'accesso dei minori ai social network. Il provvedimento riguarda i testi notificati dopo la presentazione del KIDS Act.",
+        "Grecia e Francia costituiscono casi distinti per la tempistica delle notifiche. La sospensione non equivale a un'approvazione definitiva delle loro normative."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-11-01T06:02:20.105Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/social-media-stop-leggi-nazionali-divieti-minori/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
+        "dateEvidence": "Articolo integrale Punto Informatico: 'Pubblicato il 30 ott 2026', dichiarazioni del portavoce Thomas Regnier e distinzione delle eccezioni.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 84
+    },
+    {
+      "id": "tecnologia-google-home-matter-energia",
+      "eventKey": "google-home-aggiornamento-monitoraggio-consumi-prese-matter-29-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Google Home mostra i consumi elettrici delle prese Matter compatibili",
+      "summary": "L'aggiornamento visualizza potenza istantanea e kilowattora per dispositivi che supportano la misurazione; per ora la novità riguarda Android.",
+      "body": [
+        "Google Home integra i dati energetici comunicati dalle prese e dai contatori Matter compatibili, senza misurare direttamente i consumi. L'app mostra la potenza corrente e l'energia accumulata; il rilascio è progressivo e la funzione non è ancora annunciata per iOS."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-11-01T06:02:20.105Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/google-home-svela-quali-dispositivi-consumano-piu-energia/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
+        "dateEvidence": "Punto Informatico: 'Pubblicato il 30 ott 2026'; testo cita aggiornamento Google del 29 ottobre e disponibilità iniziale Android.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 72
+    },
+    {
+      "id": "tecnologia-reddit-login-scraping",
+      "eventKey": "reddit-annuncia-test-login-obbligatorio-contro-scraping-ai-30-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Reddit prepara test di accesso obbligatorio per limitare lo scraping AI",
+      "summary": "L'azienda intende sperimentare il login richiesto in alcuni paesi fuori dagli Stati Uniti, lasciando accessibili i link condivisi e i risultati di ricerca.",
+      "body": [
+        "Il CEO Steve Huffman ha illustrato l'intenzione di limitare l'accesso anonimo alla piattaforma per contrastare la raccolta automatizzata non autorizzata di contenuti destinati all'AI. I test sono previsti in alcuni mercati nel quarto trimestre, senza un'immediata estensione mondiale."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-11-01T06:02:20.105Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/reddit-login-obbligatorio-bloccare-scraping-ai/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
+        "dateEvidence": "Punto Informatico: 'Pubblicato il 30 ott 2026', resoconto delle dichiarazioni CEO Reddit dopo trimestrale e dei test futuri.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 78
+    },
+    {
+      "id": "tecnologia-sony-brevetti-vr-meta",
+      "eventKey": "sony-trasferimento-brevetti-realta-virtuale-meta-1-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Sony trasferisce brevetti VR a Meta: dubbi sul futuro dei visori PlayStation",
+      "summary": "Secondo un rapporto citato da Everyeye, il trasferimento comprende brevetti statunitensi già ceduti a Meta; la notizia non conferma la chiusura di PlayStation VR.",
+      "body": [
+        "Everyeye riferisce, citando ZDNet Korea e Road to VR, un piano di trasferimento di 419 brevetti internazionali di Sony nel settore della realtà virtuale. Tra giugno e settembre sarebbero già passati a Meta 43 brevetti negli Stati Uniti. L'articolo interpreta l'operazione come un segnale di ridimensionamento, non come annuncio ufficiale della fine di PSVR."
+      ],
+      "publishedAt": "2026-11-01T00:22:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:20.105Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/sony-cede-brevetti-vr-meta-davvero-playstation-vr-904757.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
+        "dateEvidence": "Everyeye, pagina completa firmata Mario Cariati, 1/11/2026 ore 00:22; dati 419 brevetti e 43 USA attribuiti a ZDNet Korea.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 82
+    },
+    {
+      "id": "tecnologia-rocket-league-one-piece-evento",
+      "eventKey": "rocket-league-evento-one-piece-1-23-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Rocket League annuncia un evento dedicato a One Piece dal 1° novembre",
+      "summary": "Sfide e ricompense ispirate alla serie saranno disponibili fino al 23 novembre; l'evento parte alle 18 italiane.",
+      "body": [
+        "Psyonix ha annunciato una collaborazione temporanea tra Rocket League e One Piece. Dal 1° al 23 novembre i giocatori potranno ottenere oggetti a tema completando sfide, tra cui un topper ispirato al cappello di Rufy e altri accessori. Alcuni elementi cosmetici saranno invece acquistabili nel negozio del gioco."
+      ],
+      "publishedAt": "2026-10-31T19:02:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:20.105Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/one-piece-arriva-rocket-league-data-orario-sblocco-evento-piratesco-909088.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
+        "dateEvidence": "Everyeye, Michele Galluzzi, 31/10/2026 ore 19:02; articolo riporta orari 1 e 23 novembre e ricompense dal sito ufficiale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 75
+    }
+  ]
+}
