@@ -1,236 +1,125 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-11-01",
-  "collectionId": "2026-11-01-mattina",
+  "collectionId": "2026-11-01-pomeriggio",
   "category": "Sport",
-  "completedAt": "2026-11-01T06:02:58.716Z",
+  "completedAt": "2026-11-01T16:09:49.732Z",
   "articles": [
     {
-      "id": "sport-milan-inter-derby-3-1",
-      "eventKey": "milan-batte-inter-3-1-derby-31-ottobre-2026",
+      "id": "sport-lazio-cagliari-2-1",
+      "eventKey": "lazio-cagliari-2-1-isaksen-pinamonti-primo-posto-1-novembre-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "Il Milan batte l'Inter 3-1 e vince il quarto derby consecutivo",
-      "summary": "Pulisic e Rabiot portano avanti i rossoneri; Bastoni accorcia e Moreira firma la rete decisiva su punizione.",
+      "title": "Lazio in vetta da sola: rimonta il Cagliari e vince 2-1",
+      "summary": "All'Olimpico Nzola apre per i sardi; Isaksen pareggia e Pinamonti completa la rimonta.",
       "body": [
-        "Il Milan ha superato l'Inter per 3-1 nel derby della decima giornata di Serie A. Pulisic ha segnato al quarto minuto, Rabiot al decimo e Moreira al 43°; per i nerazzurri rete di Bastoni al 22°. La squadra di Amorim ha poi controllato il vantaggio nella ripresa."
+        "La Lazio di Gattuso ha battuto il Cagliari 2-1 nel turno di Serie A del 1° novembre. Dopo il vantaggio ospite di Nzola, Isaksen ha pareggiato con un tiro a giro; nella ripresa Pinamonti ha segnato il gol decisivo. Per i biancocelesti è la sesta vittoria consecutiva e il primo posto solitario."
       ],
-      "publishedAt": "2026-10-31T23:05:00+01:00",
-      "verifiedAt": "2026-11-01T06:02:20.105Z",
+      "publishedAt": "2026-11-01",
+      "verifiedAt": "2026-11-01T16:09:37.880Z",
       "source": {
         "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-10/milan-inter/risultato-gol",
+        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-10/lazio-cagliari/risultato-gol",
         "access": "free",
-        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
-        "dateEvidence": "Sky Sport, cronaca e tabellino completo derby 31 ottobre 2026, riepilogo e pagelle pubblicate alle 23:05.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 92
-    },
-    {
-      "id": "sport-udinese-roma-cinque-due",
-      "eventKey": "roma-vince-udinese-5-2-31-ottobre-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Roma travolgente a Udine: cinque gol e successo per 5-2",
-      "summary": "I giallorossi segnano quattro reti nel primo tempo, subiscono la reazione friulana e chiudono nel recupero con Ghilardi.",
-      "body": [
-        "La Roma di Gasperini ha vinto 5-2 in trasferta contro l'Udinese. Cristante, Rodrigo Mora, Malen e Ndicka hanno portato il punteggio sul 4-0; Zaniolo e Palma hanno accorciato per i padroni di casa prima del quinto gol di Ghilardi nel recupero."
-      ],
-      "publishedAt": "2026-10-31",
-      "verifiedAt": "2026-11-01T06:02:20.105Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-10/udinese-roma/risultato-gol",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
-        "dateEvidence": "Sky Sport, live testuale del 31 ottobre 2026, fischio finale alle 19:52 e riepilogo alle 19:59; orario qui arrotondato alle 20:00 non attribuito come ora editoriale.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 88
-    },
-    {
-      "id": "sport-bologna-monza-rimonta",
-      "eventKey": "bologna-batte-monza-2-1-rimonta-31-ottobre-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Bologna, terza vittoria di fila: Monza battuto 2-1 in rimonta",
-      "summary": "Al rigore iniziale di Varela rispondono Pobega e Bernardeschi, quest'ultimo dal dischetto.",
-      "body": [
-        "Il Bologna di Palladino ha rimontato il Monza nella decima giornata: ospiti avanti con il rigore di Gustavo Varela, poi reti di Tommaso Pobega e Federico Bernardeschi, anch'egli su rigore. Per i rossoblù è il terzo successo consecutivo in campionato."
-      ],
-      "publishedAt": "2026-10-31T17:04:00+01:00",
-      "verifiedAt": "2026-11-01T06:02:20.105Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/2026/10/31/bologna-monza-pagelle",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
-        "dateEvidence": "Sky Sport, articolo completo del 31 ott 2026 ore 17:04, con risultato 2-1, marcatori e terzo successo consecutivo.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 79
-    },
-    {
-      "id": "sport-hamilton-pole-messico",
-      "eventKey": "hamilton-pole-ferrari-gp-messico-qualifiche-31-ottobre-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "F1, Hamilton conquista la pole in Messico davanti a Russell e Leclerc",
-      "summary": "Il pilota Ferrari torna in prima posizione in qualifica dopo tre anni; Antonelli guadagna la quarta casella per la penalità di Verstappen.",
-      "body": [
-        "Lewis Hamilton ha ottenuto la pole position del Gran Premio del Messico. La griglia vede Russell secondo e Leclerc terzo; Kimi Antonelli scatterà quarto, grazie alla retrocessione di una posizione inflitta a Verstappen. La gara è in programma domenica 1° novembre alle 21 italiane."
-      ],
-      "publishedAt": "2026-10-31T23:20:00+01:00",
-      "verifiedAt": "2026-11-01T06:02:20.105Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/formula-1/2026/10/31/formula-1-griglia-di-partenza-gp-messico-2026",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
-        "dateEvidence": "Sky Sport, fotogallery della griglia GP Messico pubblicata il 31 ottobre 2026 alle 23:20; pole Hamilton e ordine di partenza.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 95
-    },
-    {
-      "id": "sport-errani-paolini-finals-tokyo-2026",
-      "eventKey": "errani-paolini-qualificate-wta-finals-semifinale-tokyo-31-ottobre-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Errani e Paolini conquistano le WTA Finals con la finale a Tokyo",
-      "summary": "La coppia italiana supera Mihalikova e Nicholls 6-4, 6-0, ottenendo il pass per il torneo di fine stagione.",
-      "body": [
-        "Sara Errani e Jasmine Paolini hanno raggiunto la finale del torneo di doppio WTA 500 di Tokyo battendo Tereza Mihalikova e Olivia Nicholls per 6-4, 6-0. Il successo ha garantito alle azzurre la qualificazione alle WTA Finals.",
-        "Per la coppia si tratta della terza partecipazione consecutiva al torneo conclusivo della stagione. A Tokyo affronteranno Dabrowski e Stefani nella finale di domenica; il risultato non era ancora noto al momento della verifica."
-      ],
-      "publishedAt": "2026-10-31T11:45:00+01:00",
-      "verifiedAt": "2026-11-01T06:02:20.105Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/tennis/2026/10/31/errani-paolini-wta-tokyo-doppio-risultato-oggi",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
-        "dateEvidence": "Sky Sport, articolo del 31 ott 2026 ore 11:45, con punteggio semifinale e qualificazione alle WTA Finals.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 90,
-      "image": {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sara_Errani_-_Roland-Garros_-_28.05.2024_%28cropped%29.jpg",
-        "alt": "Sara Errani esegue un rovescio al Roland Garros del 2024",
-        "credit": "Kuberzog / Wikimedia Commons",
-        "rights": "CC BY 4.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sara_Errani_-_Roland-Garros_-_28.05.2024_(cropped).jpg",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-        "caption": "Sara Errani al Roland Garros 2024, immagine di repertorio: non ritrae il torneo di Tokyo 2026.",
-        "reuseApproved": true
-      }
-    }
-  ],
-  "reserveArticles": [
-    {
-      "id": "sport-juve-spalletti-vigilia-napoli",
-      "eventKey": "spalletti-chiede-reazione-juventus-vigilia-napoli-31-ottobre-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Spalletti chiede una reazione alla Juventus prima della sfida col Napoli",
-      "summary": "Dopo la sconfitta di Genova, l'allenatore richiama la squadra alla compattezza e difende la scelta del ritiro.",
-      "body": [
-        "Luciano Spalletti, nella conferenza stampa di vigilia di Juventus-Napoli, ha invitato la squadra a ritrovare convinzione e risultati. Ha spiegato che il ritiro può aiutare a ricompattare il gruppo dopo le difficoltà e che preferisce concentrarsi sulla reazione dei giocatori anziché sulle rassicurazioni societarie."
-      ],
-      "publishedAt": "2026-10-31T16:30:00+01:00",
-      "verifiedAt": "2026-11-01T06:02:55.781Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/2026/10/31/juventus-napoli-spalletti-conferenza-video",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
-        "dateEvidence": "Sky Sport, diretta conferenza Spalletti del 31 ottobre 2026 avviata alle 16:30 e aggiornata fino alle 17:33; testo completo.",
+        "accessCheckedAt": "2026-11-01T16:09:37.880Z",
+        "dateEvidence": "Sky Sport, cronaca integrale e tabellino del 1 novembre 2026: 2-1 finale, reti Nzola 20', Isaksen 36', Pinamonti 83'.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "sport-san-siro-striscione-tifosi-inter",
-      "eventKey": "tifosi-inter-striscione-contro-demolizione-san-siro-derby-31-ottobre-2026",
+      "id": "sport-como-venezia-1-0",
+      "eventKey": "como-venezia-1-0-rigore-da-cunha-1-novembre-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "A San Siro protesta dei tifosi dell'Inter contro la demolizione dello stadio",
-      "summary": "Durante il derby uno striscione ha ribadito la contrarietà al progetto di abbattimento del Meazza.",
+      "title": "Il Como supera il Venezia con un rigore e sale al quarto posto",
+      "summary": "Da Cunha decide nel primo tempo, mentre il Venezia resta a secco di reti.",
       "body": [
-        "Una parte della tifoseria organizzata interista ha esposto durante Milan-Inter uno striscione contrario alla demolizione dello stadio di San Siro. L'iniziativa segue la contestazione organizzata al Castello Sforzesco nei giorni precedenti, durante la presentazione del nuovo impianto."
+        "Il Como ha conquistato la quarta vittoria consecutiva in campionato battendo 1-0 il Venezia. Lucas Da Cunha ha trasformato il rigore procurato da Douvikas al 43'. Un precedente penalty assegnato agli ospiti era stato revocato dopo la revisione VAR; nella ripresa il Como ha difeso il vantaggio."
       ],
-      "publishedAt": "2026-10-31T21:47:00+01:00",
-      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "publishedAt": "2026-11-01",
+      "verifiedAt": "2026-11-01T16:09:37.880Z",
       "source": {
-        "name": "Sport Mediaset",
-        "url": "https://www.sportmediaset.mediaset.it/calcio/striscione-tifosi-inter-contro-la-demolizione-di-san-siro-non-abbattiamo-la-scala-del-calcio_118406912-202602k.shtml",
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-10/como-venezia/risultato-gol",
         "access": "free",
-        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
-        "dateEvidence": "Sport Mediaset, notizia integrale del 31 ott 2026 ore 21:47, descrive striscione durante il derby e protesta precedente.",
+        "accessCheckedAt": "2026-11-01T16:09:37.880Z",
+        "dateEvidence": "Sky Sport, cronaca finale Como-Venezia del 1 novembre 2026, risultato 1-0 e rigore di Da Cunha al 43'.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "sport-figc-malago-galliani-elezioni",
-      "eventKey": "figc-sfida-malago-galliani-firme-serie-a-voti-leghe-31-ottobre-2026",
+      "id": "sport-juventus-napoli-vigilia",
+      "eventKey": "juventus-napoli-formazioni-spalletti-allegri-1-novembre-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "FIGC, la sfida Malagò-Galliani passa ai voti delle leghe",
-      "summary": "Malagò raccoglie le firme necessarie in Serie A, mentre Galliani cerca sostegno tra allenatori e calciatori; altre componenti restano decisive.",
+      "title": "Juventus-Napoli, Spalletti valuta Koopmeiners e Woltemade dal primo minuto",
+      "summary": "Per il posticipo delle 20:45 restano dubbi di formazione, soprattutto nel reparto difensivo azzurro.",
       "body": [
-        "Nella corsa alla presidenza della FIGC, Giovanni Malagò ha raccolto undici firme di club di Serie A per la candidatura. Adriano Galliani conta sull'appoggio delle componenti tecniche, mentre Serie B, Lega Pro e dilettanti devono ancora definire la propria posizione. La scelta finale è prevista a dicembre."
+        "Juventus e Napoli si affrontano domenica sera alle 20:45. Secondo le probabili formazioni pubblicate da Sky Sport, Spalletti valuta Koopmeiners a centrocampo e Woltemade con Kolo Muani in attacco; il Napoli deve verificare le condizioni di Rrahmani. Si tratta di ipotesi prima delle formazioni ufficiali."
       ],
-      "publishedAt": "2026-10-31",
-      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "publishedAt": "2026-11-01T07:23:00+01:00",
+      "verifiedAt": "2026-11-01T16:09:37.880Z",
       "source": {
-        "name": "La Gazzetta dello Sport",
-        "url": "https://www.gazzetta.it/Calcio/31-10-2026/elezioni-figc-sfida-malago-galliani-chi-sara-decisivo.shtml",
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/30/juventus-napoli-probabili-formazioni-10-giornata",
         "access": "free",
-        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
-        "dateEvidence": "Gazzetta dello Sport, articolo completo del 31 ottobre 2026 (modificato alle 10:00), dettaglia 11 firme di Serie A e voti delle altre leghe.",
+        "accessCheckedAt": "2026-11-01T16:09:37.880Z",
+        "dateEvidence": "Sky Sport, probabili formazioni aggiornate il 1 novembre 2026 alle 07:23; match previsto alle 20:45.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
       "id": "sport-antonelli-matchpoint-messico",
-      "eventKey": "kimi-antonelli-secondo-match-point-mondiale-messico-1-novembre-2026",
+      "eventKey": "kimi-antonelli-gp-messico-secondo-matchpoint-titolo-1-novembre-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "Antonelli può conquistare il Mondiale F1 già nel GP del Messico",
-      "summary": "Il pilota Mercedes arriva alla gara con 123 punti di vantaggio su Russell e la possibilità matematica di chiudere il campionato.",
+      "title": "Antonelli può laurearsi campione di F1 in Messico: parte quarto",
+      "summary": "Il pilota Mercedes ha un secondo match point mondiale nella gara delle 21; il titolo non è ancora assegnato.",
       "body": [
-        "Kimi Antonelli affronta il Gran Premio del Messico con 123 punti di vantaggio su George Russell. Secondo le combinazioni pubblicate alla vigilia, l'italiano può assicurarsi matematicamente il titolo già nella gara di domenica 1° novembre. La notizia riguarda le possibilità di classifica, non un titolo già conquistato."
+        "Kimi Antonelli affronta il GP del Messico con la possibilità matematica di conquistare il Mondiale. Il ventenne partirà dalla quarta casella, dopo la penalità di Verstappen, e secondo Sky Sport gli basterebbero due punti per chiudere il campionato. Il via è previsto alle 21 italiane."
       ],
-      "publishedAt": "2026-10-31T12:30:00+01:00",
-      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "publishedAt": "2026-11-01T06:30:00+01:00",
+      "verifiedAt": "2026-11-01T16:09:37.880Z",
       "source": {
         "name": "Sky Sport",
-        "url": "https://sport.sky.it/formula-1/antonelli-campione-f1-2026-se-combinazioni",
+        "url": "https://sport.sky.it/formula-1/2026/11/01/f1-oggi-gp-messico-2026-ultime-news",
         "access": "free",
-        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
-        "dateEvidence": "Sky Sport, approfondimento del 31 ott 2026 ore 12:30 sul secondo match point di Antonelli e distacco di 123 punti.",
+        "accessCheckedAt": "2026-11-01T16:09:37.880Z",
+        "dateEvidence": "Sky Sport, fotogallery del 1 novembre 2026 alle 06:30, descrive secondo match point Antonelli e partenza dalla quarta posizione.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "sport-alcaraz-finale-vienna",
-      "eventKey": "alcaraz-supera-medvedev-finale-vienna-de-minaur-31-ottobre-2026",
+      "id": "sport-errani-paolini-vittoria-tokyo",
+      "eventKey": "errani-paolini-vincono-finale-doppio-tokyo-6-2-6-2-1-novembre-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "Alcaraz raggiunge la finale a Vienna: sfiderà De Minaur",
-      "summary": "Lo spagnolo supera Medvedev in due set; l'australiano elimina Zverev dopo tre set combattuti.",
+      "title": "Errani e Paolini conquistano il titolo di doppio a Tokyo",
+      "summary": "Le azzurre superano Dabrowski e Stefani 6-2, 6-2 e ottengono il decimo trofeo insieme.",
       "body": [
-        "Carlos Alcaraz ha battuto Daniil Medvedev 6-4, 7-6 nella semifinale dell'ATP 500 di Vienna. In finale affronterà Alex De Minaur, che ha sconfitto Alexander Zverev 6-4, 1-6, 7-6. La finale è prevista per domenica; al momento della verifica non è ancora stato disputato l'incontro decisivo."
+        "Sara Errani e Jasmine Paolini hanno vinto il WTA 500 di Tokyo in doppio, battendo Gabriela Dabrowski e Luisa Stefani con un doppio 6-2. Le italiane hanno chiuso il torneo senza perdere set e tornano al successo dopo oltre un anno.",
+        "Il titolo arriva dopo la qualificazione alle WTA Finals, ottenuta nella stessa settimana. La fotografia allegata è di repertorio e ritrae Errani al Roland Garros 2024."
       ],
-      "publishedAt": "2026-10-31T19:45:00+01:00",
-      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "publishedAt": "2026-11-01T08:06:00+01:00",
+      "verifiedAt": "2026-11-01T16:09:37.880Z",
       "source": {
         "name": "Sky Sport",
-        "url": "https://sport.sky.it/tennis/2026/10/31/alcaraz-medvedev-atp-vienna-risultato",
+        "url": "https://sport.sky.it/tennis/2026/11/01/errani-paolini-wta-tokyo-risultato-oggi-doppio",
         "access": "free",
-        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
-        "dateEvidence": "Sky Sport, articolo del 31 ottobre 2026 ore 19:45, con punteggi delle due semifinali e finale prevista domenica.",
+        "accessCheckedAt": "2026-11-01T16:09:37.880Z",
+        "dateEvidence": "Sky Sport, articolo completo del 1 novembre 2026 alle 08:06, risultato finale 6-2 6-2 e decimo titolo di coppia.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 92,
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sara_Errani_-_Roland-Garros_-_28.05.2024_%28cropped%29.jpg",
+        "alt": "Sara Errani colpisce un rovescio al Roland Garros del 2024",
+        "credit": "Kuberzog / Wikimedia Commons",
+        "rights": "CC BY 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sara_Errani_-_Roland-Garros_-_28.05.2024_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "caption": "Sara Errani al Roland Garros 2024: immagine di repertorio, non scattata a Tokyo.",
+        "reuseApproved": true
       }
     }
   ]
