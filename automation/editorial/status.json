@@ -1,10 +1,9 @@
 {
   "editionDate": "2026-11-01",
-  "checkedAt": "2026-11-01T05:08:56.633Z",
+  "checkedAt": "2026-11-01T05:09:14.600Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
-    "esteri",
     "economia",
     "cronaca",
     "roma",
@@ -116,12 +115,42 @@
       "category": "Politica",
       "title": "Redditi dei parlamentari, pubblicati nuovi dati sulle dichiarazioni",
       "eventKey": "dichiarazioni-redditi-parlamentari-di-giuseppe-lupi-tajani-30-ottobre-2026"
+    },
+    {
+      "id": "esteri-francia-proteste-carovita",
+      "category": "Esteri",
+      "title": "Francia, proteste contro il carovita e centinaia di fermi",
+      "eventKey": "francia-proteste-carovita-31-ottobre-2026-320mila-565-fermi"
+    },
+    {
+      "id": "esteri-rubio-lavrov-apec",
+      "category": "Esteri",
+      "title": "Rubio riferisce di colloqui su un possibile incontro Trump-Putin",
+      "eventKey": "rubio-lavrov-discutono-possibile-incontro-putin-trump-apec-31-ottobre-2026"
+    },
+    {
+      "id": "esteri-mosca-museo-tsaritsyno-allerta",
+      "category": "Esteri",
+      "title": "Mosca, l'ambasciata USA segnala una minaccia al museo Tsaritsyno",
+      "eventKey": "ambasciata-usa-mosca-allerta-minaccia-museo-tsaritsyno-31-ottobre-2026"
+    },
+    {
+      "id": "esteri-venezuela-la-guaira-riapertura",
+      "category": "Esteri",
+      "title": "Venezuela, La Guaira riapre parzialmente le spiagge dopo il sisma",
+      "eventKey": "venezuela-la-guaira-riaprono-spiagge-weekend-dopo-sisma-31-ottobre-2026"
+    },
+    {
+      "id": "esteri-ucraina-oleshky-evacuati",
+      "category": "Esteri",
+      "title": "Oleshky, Zelensky annuncia il rientro degli evacuati in Ucraina",
+      "eventKey": "oleshky-evacuati-ucraini-rientrano-chernihiv-31-ottobre-2026"
     }
   ],
   "collectionId": "2026-11-01-mattina",
   "reserveCounts": {
     "Politica": 5,
-    "Esteri": 0,
+    "Esteri": 5,
     "Economia": 0,
     "Cronaca": 0,
     "Roma": 0,
@@ -146,9 +175,9 @@
     },
     "esteri": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "economia": {
       "base": 0,
