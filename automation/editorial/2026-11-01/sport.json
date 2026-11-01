@@ -3,7 +3,7 @@
   "editionDate": "2026-11-01",
   "collectionId": "2026-11-01-mattina",
   "category": "Sport",
-  "completedAt": "2026-11-01T06:02:22.410Z",
+  "completedAt": "2026-11-01T06:02:58.716Z",
   "articles": [
     {
       "id": "sport-milan-inter-derby-3-1",
@@ -37,7 +37,7 @@
       "body": [
         "La Roma di Gasperini ha vinto 5-2 in trasferta contro l'Udinese. Cristante, Rodrigo Mora, Malen e Ndicka hanno portato il punteggio sul 4-0; Zaniolo e Palma hanno accorciato per i padroni di casa prima del quinto gol di Ghilardi nel recupero."
       ],
-      "publishedAt": "2026-10-31T20:00:00+01:00",
+      "publishedAt": "2026-10-31",
       "verifiedAt": "2026-11-01T06:02:20.105Z",
       "source": {
         "name": "Sky Sport",
@@ -124,6 +124,113 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
         "caption": "Sara Errani al Roland Garros 2024, immagine di repertorio: non ritrae il torneo di Tokyo 2026.",
         "reuseApproved": true
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "sport-juve-spalletti-vigilia-napoli",
+      "eventKey": "spalletti-chiede-reazione-juventus-vigilia-napoli-31-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Spalletti chiede una reazione alla Juventus prima della sfida col Napoli",
+      "summary": "Dopo la sconfitta di Genova, l'allenatore richiama la squadra alla compattezza e difende la scelta del ritiro.",
+      "body": [
+        "Luciano Spalletti, nella conferenza stampa di vigilia di Juventus-Napoli, ha invitato la squadra a ritrovare convinzione e risultati. Ha spiegato che il ritiro può aiutare a ricompattare il gruppo dopo le difficoltà e che preferisce concentrarsi sulla reazione dei giocatori anziché sulle rassicurazioni societarie."
+      ],
+      "publishedAt": "2026-10-31T16:30:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/31/juventus-napoli-spalletti-conferenza-video",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
+        "dateEvidence": "Sky Sport, diretta conferenza Spalletti del 31 ottobre 2026 avviata alle 16:30 e aggiornata fino alle 17:33; testo completo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-san-siro-striscione-tifosi-inter",
+      "eventKey": "tifosi-inter-striscione-contro-demolizione-san-siro-derby-31-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "A San Siro protesta dei tifosi dell'Inter contro la demolizione dello stadio",
+      "summary": "Durante il derby uno striscione ha ribadito la contrarietà al progetto di abbattimento del Meazza.",
+      "body": [
+        "Una parte della tifoseria organizzata interista ha esposto durante Milan-Inter uno striscione contrario alla demolizione dello stadio di San Siro. L'iniziativa segue la contestazione organizzata al Castello Sforzesco nei giorni precedenti, durante la presentazione del nuovo impianto."
+      ],
+      "publishedAt": "2026-10-31T21:47:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "source": {
+        "name": "Sport Mediaset",
+        "url": "https://www.sportmediaset.mediaset.it/calcio/striscione-tifosi-inter-contro-la-demolizione-di-san-siro-non-abbattiamo-la-scala-del-calcio_118406912-202602k.shtml",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
+        "dateEvidence": "Sport Mediaset, notizia integrale del 31 ott 2026 ore 21:47, descrive striscione durante il derby e protesta precedente.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-figc-malago-galliani-elezioni",
+      "eventKey": "figc-sfida-malago-galliani-firme-serie-a-voti-leghe-31-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "FIGC, la sfida Malagò-Galliani passa ai voti delle leghe",
+      "summary": "Malagò raccoglie le firme necessarie in Serie A, mentre Galliani cerca sostegno tra allenatori e calciatori; altre componenti restano decisive.",
+      "body": [
+        "Nella corsa alla presidenza della FIGC, Giovanni Malagò ha raccolto undici firme di club di Serie A per la candidatura. Adriano Galliani conta sull'appoggio delle componenti tecniche, mentre Serie B, Lega Pro e dilettanti devono ancora definire la propria posizione. La scelta finale è prevista a dicembre."
+      ],
+      "publishedAt": "2026-10-31",
+      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "source": {
+        "name": "La Gazzetta dello Sport",
+        "url": "https://www.gazzetta.it/Calcio/31-10-2026/elezioni-figc-sfida-malago-galliani-chi-sara-decisivo.shtml",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
+        "dateEvidence": "Gazzetta dello Sport, articolo completo del 31 ottobre 2026 (modificato alle 10:00), dettaglia 11 firme di Serie A e voti delle altre leghe.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-antonelli-matchpoint-messico",
+      "eventKey": "kimi-antonelli-secondo-match-point-mondiale-messico-1-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Antonelli può conquistare il Mondiale F1 già nel GP del Messico",
+      "summary": "Il pilota Mercedes arriva alla gara con 123 punti di vantaggio su Russell e la possibilità matematica di chiudere il campionato.",
+      "body": [
+        "Kimi Antonelli affronta il Gran Premio del Messico con 123 punti di vantaggio su George Russell. Secondo le combinazioni pubblicate alla vigilia, l'italiano può assicurarsi matematicamente il titolo già nella gara di domenica 1° novembre. La notizia riguarda le possibilità di classifica, non un titolo già conquistato."
+      ],
+      "publishedAt": "2026-10-31T12:30:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/formula-1/antonelli-campione-f1-2026-se-combinazioni",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
+        "dateEvidence": "Sky Sport, approfondimento del 31 ott 2026 ore 12:30 sul secondo match point di Antonelli e distacco di 123 punti.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-alcaraz-finale-vienna",
+      "eventKey": "alcaraz-supera-medvedev-finale-vienna-de-minaur-31-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Alcaraz raggiunge la finale a Vienna: sfiderà De Minaur",
+      "summary": "Lo spagnolo supera Medvedev in due set; l'australiano elimina Zverev dopo tre set combattuti.",
+      "body": [
+        "Carlos Alcaraz ha battuto Daniil Medvedev 6-4, 7-6 nella semifinale dell'ATP 500 di Vienna. In finale affronterà Alex De Minaur, che ha sconfitto Alexander Zverev 6-4, 1-6, 7-6. La finale è prevista per domenica; al momento della verifica non è ancora stato disputato l'incontro decisivo."
+      ],
+      "publishedAt": "2026-10-31T19:45:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/2026/10/31/alcaraz-medvedev-atp-vienna-risultato",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
+        "dateEvidence": "Sky Sport, articolo del 31 ottobre 2026 ore 19:45, con punteggi delle due semifinali e finale prevista domenica.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ]
