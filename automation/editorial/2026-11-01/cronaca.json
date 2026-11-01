@@ -3,7 +3,7 @@
   "editionDate": "2026-11-01",
   "collectionId": "2026-11-01-mattina",
   "category": "Cronaca",
-  "completedAt": "2026-11-01T05:17:30.409Z",
+  "completedAt": "2026-11-01T05:17:54.209Z",
   "articles": [
     {
       "id": "cronaca-castro-volsci-accoltellamento",
@@ -112,6 +112,118 @@
         "access": "free",
         "accessCheckedAt": "2026-11-01T05:17:30.409Z",
         "dateEvidence": "Articolo originale Sky TG24 consultato integralmente il 1 novembre 2026; la pagina indica la pubblicazione 2026-10-31T09:11:00+01:00, mantenuta senza aggiornamenti fittizi.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "cronaca-nonna-silvi-scomparsa",
+      "eventKey": "silvia-bini-nonna-silvi-morta-montespertoli-31-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Morta Nonna Silvi, volto della cucina toscana sui social",
+      "summary": "Silvia Bini aveva 85 anni; i familiari hanno comunicato la notizia attraverso i suoi canali.",
+      "body": [
+        "È morta a Montespertoli, in provincia di Firenze, Silvia Bini, conosciuta come Nonna Silvi per i video dedicati alla cucina tradizionale toscana.",
+        "I nipoti hanno annunciato la scomparsa sui social, spiegando che era stata colpita da una malattia rapida. L'attività digitale aveva raggiunto milioni di follower."
+      ],
+      "publishedAt": "2026-10-31T11:21:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:54.209Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/31/nonna-silvi-morta",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
+        "dateEvidence": "Fonte originale Sky TG24 letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T11:21:00+01:00. Data di pubblicazione originale, non modificata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-milano-paracadutisti-proroga",
+      "eventKey": "milano-500-paracadutisti-proroga-31-marzo-2027-manovra",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Milano, prevista la permanenza di 500 militari fino a marzo",
+      "summary": "La proroga della presenza dei paracadutisti dopo gli scontri di ottobre compare nella manovra.",
+      "body": [
+        "I 500 militari arrivati a Milano dopo gli scontri del 17 e 18 ottobre dovrebbero rimanere in città fino al 31 marzo 2027.",
+        "La proroga è contenuta in un articolo della manovra finanziaria 2027, ancora all'esame parlamentare: non è una misura già definitivamente approvata."
+      ],
+      "publishedAt": "2026-10-31T17:36:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:54.209Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/video/2026/10/31/scontri-milano-manovra-i-500-para-saranno-in-citta-fino-a-313-1136213",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
+        "dateEvidence": "Fonte originale Sky TG24 letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T17:36:00+01:00. Data di pubblicazione originale, non modificata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-parma-monossido-coppia",
+      "eventKey": "mezzani-parma-monossido-due-genitori-morti-neonata-grave-30-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Parmense, due genitori morti per monossido e neonata grave",
+      "summary": "La tragedia è avvenuta in un'abitazione a Mezzani; il figlio adolescente è sopravvissuto.",
+      "body": [
+        "Due genitori sono morti per esalazioni di monossido di carbonio in una casa nella zona di Mezzani, in provincia di Parma. La figlia di sette mesi è stata ricoverata in gravi condizioni.",
+        "Secondo la ricostruzione pubblicata dall'ANSA, le esalazioni sarebbero provenute da un braciere acceso per riscaldarsi. Il figlio di 14 anni ha dato l'allarme insieme ai familiari."
+      ],
+      "publishedAt": "2026-10-30T18:49:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:54.209Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/due-morti-per-monossido-e-una-neonata-grave-nel-parmense_2c7b7cee-2629-40ef-b76b-7e338f20334b.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
+        "dateEvidence": "Fonte originale ANSA letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-30T18:49:00+01:00. Data di pubblicazione originale, non modificata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-rovigo-badante-arrestata",
+      "eventKey": "rovescio-rovigo-badante-arrestata-maltrattamenti-87enne-31-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Rovigo, arrestata una badante sospettata di maltrattamenti",
+      "summary": "La donna, 48 anni, è stata posta ai domiciliari nell'ambito di un'indagine su una 87enne.",
+      "body": [
+        "I carabinieri di Arquà Polesine hanno arrestato una badante italiana di 48 anni, posta ai domiciliari su disposizione della Procura di Rovigo.",
+        "L'accusa riguarda maltrattamenti fisici e verbali a un'anziana di 87 anni non autosufficiente. La responsabilità penale dovrà essere accertata nel procedimento."
+      ],
+      "publishedAt": "2026-10-31T14:04:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:54.209Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/veneto/notizie/2026/10/31/badante-arrestata-per-maltrattamenti-ad-unanziana_17a165ab-d32d-4b76-92b7-114efb03e9d4.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
+        "dateEvidence": "Fonte originale ANSA letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T14:04:00+01:00. Data di pubblicazione originale, non modificata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-polesine-sequestro-halloween",
+      "eventKey": "rovigo-polesine-sequestro-8500-prodotti-halloween-31-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Polesine, sequestrati 8.500 prodotti di Halloween non sicuri",
+      "summary": "La Guardia di finanza ha rilevato carenze nelle etichette di sicurezza e nei pittogrammi.",
+      "body": [
+        "Nei controlli in esercizi commerciali di Rovigo, Adria e Occhiobello, la Guardia di finanza ha sequestrato circa 8.500 articoli ritenuti non conformi alle regole di sicurezza.",
+        "Tra i prodotti figurano oggetti a tema Halloween, bigiotteria e bombolette spray. Le irregolarità riguardano soprattutto informazioni obbligatorie e simboli di pericolo mancanti."
+      ],
+      "publishedAt": "2026-10-31T10:49:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:54.209Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/veneto/notizie/2026/10/31/sequestrati-8.500-prodotti-di-halloween-non-sicuri-in-polesine_f6a5704d-0a4d-428e-a3a4-b84a199e5781.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
+        "dateEvidence": "Fonte originale ANSA letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T10:49:00+01:00. Data di pubblicazione originale, non modificata.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
