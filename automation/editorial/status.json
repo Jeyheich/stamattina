@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-01",
-  "checkedAt": "2026-11-01T05:09:44.591Z",
+  "checkedAt": "2026-11-01T05:17:43.548Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,12 +13,12 @@
   ],
   "completed": [
     "politica",
-    "esteri"
+    "esteri",
+    "economia",
+    "cronaca"
   ],
   "inProgress": [],
   "missing": [
-    "economia",
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -85,6 +85,66 @@
       "category": "Esteri",
       "title": "Midterm USA, in Texas 7,5 milioni di voti anticipati",
       "eventKey": "texas-voto-anticipato-7-milioni-500mila-midterm-2026"
+    },
+    {
+      "id": "economia-binance-ripristino-90",
+      "category": "Economia",
+      "title": "Binance ripristina il 90% degli asset dopo l'attacco",
+      "eventKey": "binance-ripristina-90-percento-fondi-attacco-31-ottobre-2026"
+    },
+    {
+      "id": "economia-ita-esuberi-226",
+      "category": "Economia",
+      "title": "Ita Airways avvia la procedura per 226 esuberi",
+      "eventKey": "ita-airways-procedura-226-esuberi-31-ottobre-2026"
+    },
+    {
+      "id": "economia-benzina-mimit-2011",
+      "category": "Economia",
+      "title": "Carburanti, il Mimit segnala una lieve discesa dei prezzi",
+      "eventKey": "mimit-benzina-self-2-011-gasolio-2-242-31-ottobre-2026"
+    },
+    {
+      "id": "economia-inflazione-ottobre-54",
+      "category": "Economia",
+      "title": "Inflazione italiana al 5,4% nella stima di ottobre",
+      "eventKey": "istat-inflazione-ottobre-2026-5-4"
+    },
+    {
+      "id": "economia-borsa-milano-30-ottobre",
+      "category": "Economia",
+      "title": "Piazza Affari chiude l'ultima seduta di ottobre in calo dell'1%",
+      "eventKey": "borsa-milano-ftse-mib-chiusura-30-ottobre-2026"
+    },
+    {
+      "id": "cronaca-castro-volsci-accoltellamento",
+      "category": "Cronaca",
+      "title": "Lite vicino alla stazione nel Frusinate: morto un uomo di 48 anni",
+      "eventKey": "castro-dei-volsci-lite-stazione-uomo-morto-31-ottobre-2026"
+    },
+    {
+      "id": "cronaca-acri-bambino-balcone",
+      "category": "Cronaca",
+      "title": "Acri, bambino di cinque anni cade dal secondo piano",
+      "eventKey": "acri-cosenza-bambino-cinque-anni-caduta-balcone-31-ottobre-2026"
+    },
+    {
+      "id": "cronaca-digos-perquisizioni-cortei",
+      "category": "Cronaca",
+      "title": "Cortei, 60 perquisizioni in 23 città dopo gli appelli alla violenza",
+      "eventKey": "digos-polizia-postale-60-perquisizioni-23-citta-31-ottobre-2026"
+    },
+    {
+      "id": "cronaca-lucca-monossido-famiglia",
+      "category": "Cronaca",
+      "title": "Lucca, quattro familiari ricoverati per monossido di carbonio",
+      "eventKey": "ponte-a-moriano-famiglia-intossicata-monossido-31-ottobre-2026"
+    },
+    {
+      "id": "cronaca-torremaggiore-esplosione-ticket",
+      "category": "Cronaca",
+      "title": "Torremaggiore, esplosione danneggia il presidio sanitario",
+      "eventKey": "torremaggiore-esplosione-cassa-ticket-sanitari-31-ottobre-2026"
     },
     {
       "id": "politica-meloni-vannacci-replica",
@@ -168,9 +228,14 @@
       "id": "esteri-trump-iran-pickaxe",
       "category": "Esteri",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg"
+    },
+    {
+      "id": "economia-borsa-milano-30-ottobre",
+      "category": "Economia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palais_Mezzanotte_-_Milan_(IT25)_-_2022-09-03_-_3.jpg"
     }
   ],
-  "photosAvailable": 2,
+  "photosAvailable": 3,
   "categoryProgress": {
     "politica": {
       "base": 5,
@@ -185,13 +250,13 @@
       "complete": true
     },
     "economia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cronaca": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
