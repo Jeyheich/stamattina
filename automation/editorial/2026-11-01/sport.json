@@ -3,7 +3,7 @@
   "editionDate": "2026-11-01",
   "collectionId": "2026-11-01-pomeriggio",
   "category": "Sport",
-  "completedAt": "2026-11-01T16:09:49.732Z",
+  "completedAt": "2026-11-01T16:10:18.706Z",
   "articles": [
     {
       "id": "sport-lazio-cagliari-2-1",
@@ -120,6 +120,113 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
         "caption": "Sara Errani al Roland Garros 2024: immagine di repertorio, non scattata a Tokyo.",
         "reuseApproved": true
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "sport-frosinone-torino-2-0",
+      "eventKey": "frosinone-torino-2-0-ghedjemis-calo-1-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Il Frosinone batte il Torino 2-0 con Ghedjemis e Calò",
+      "summary": "I ciociari sbloccano a inizio ripresa e chiudono la partita nel recupero.",
+      "body": [
+        "Il Frosinone ha superato 2-0 il Torino allo Stirpe. Ghedjemis ha aperto le marcature al 48', su assist di Kvernadze; Calò ha raddoppiato al 90'+2' con una conclusione dalla distanza. La squadra di Alvini raggiunge così quota venti punti dopo dieci gare."
+      ],
+      "publishedAt": "2026-11-01T16:59:00+01:00",
+      "verifiedAt": "2026-11-01T16:10:15.983Z",
+      "source": {
+        "name": "TuttoFrosinone",
+        "url": "https://www.tuttofrosinone.com/news/tabellino-cronaca-frosinone-torino-a-b-76260",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T16:10:15.983Z",
+        "dateEvidence": "TuttoFrosinone, cronaca e tabellino completi pubblicati il 1 novembre 2026 alle 16:59, con marcatori 48' e 90'+2'.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-milan-inter-derby",
+      "eventKey": "milan-batte-inter-3-1-derby-31-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Il Milan vince il derby 3-1: Moreira protagonista",
+      "summary": "I rossoneri costruiscono il vantaggio nel primo tempo e resistono al tentativo di rimonta dell'Inter.",
+      "body": [
+        "Il Milan ha battuto l'Inter 3-1 nel derby del 31 ottobre. Pulisic e Rabiot hanno segnato nei primi dieci minuti, Bastoni ha accorciato, poi Moreira ha ristabilito il doppio vantaggio su punizione. Il Milan ha così conquistato il quarto derby consecutivo."
+      ],
+      "publishedAt": "2026-10-31",
+      "verifiedAt": "2026-11-01T16:10:15.983Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-10/milan-inter/risultato-gol",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T16:10:15.983Z",
+        "dateEvidence": "Sky Sport, cronaca finale Milan-Inter del 31 ottobre 2026, tabellino 3-1 con marcatori e minuti.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-udinese-roma-2-5",
+      "eventKey": "roma-vince-udinese-5-2-31-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Cinque reti della Roma a Udine: successo per 5-2",
+      "summary": "La squadra di Gasperini dilaga nel primo tempo e chiude con Ghilardi nel recupero.",
+      "body": [
+        "La Roma ha battuto l'Udinese 5-2 in trasferta. Cristante, Rodrigo Mora, Malen e Ndicka hanno segnato nel primo tempo; Zaniolo e Palma hanno ridotto lo svantaggio friulano nella ripresa, prima del quinto gol firmato da Ghilardi."
+      ],
+      "publishedAt": "2026-10-31",
+      "verifiedAt": "2026-11-01T16:10:15.983Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-10/udinese-roma/risultato-gol",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T16:10:15.983Z",
+        "dateEvidence": "Sky Sport, cronaca integrale e tabellino Udinese-Roma 2-5 del 31 ottobre 2026, finale alle 19:51.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-hamilton-pole-messico",
+      "eventKey": "hamilton-pole-ferrari-gp-messico-qualifiche-31-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Hamilton torna in pole in Messico, Antonelli scatterà quarto",
+      "summary": "Russell e Leclerc seguono la Ferrari in griglia; penalità per Verstappen e squalifica di Lawson.",
+      "body": [
+        "Lewis Hamilton ha conquistato la pole del GP del Messico, davanti a George Russell e Charles Leclerc. Kimi Antonelli partirà quarto, dopo la penalità inflitta a Verstappen; Liam Lawson è stato squalificato per una violazione tecnica legata all'MGU-K."
+      ],
+      "publishedAt": "2026-10-31",
+      "verifiedAt": "2026-11-01T16:10:15.983Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/formula-1/2026/10/31/formula-1-griglia-di-partenza-gp-messico-2026",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T16:10:15.983Z",
+        "dateEvidence": "Sky Sport, griglia pubblicata il 1 novembre 2026 alle 02:00 sui risultati delle qualifiche del 31 ottobre; Hamilton in pole.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-alcaraz-trionfa-vienna",
+      "eventKey": "alcaraz-batte-de-minaur-finale-vienna-6-1-6-4-1-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Alcaraz conquista Vienna battendo De Minaur in due set",
+      "summary": "Lo spagnolo chiude 6-1, 6-4 e porta a quattro i titoli stagionali.",
+      "body": [
+        "Carlos Alcaraz ha vinto l'ATP 500 di Vienna superando Alex De Minaur 6-1, 6-4 in un'ora e ventisette minuti. Il successo è il suo quarto titolo del 2026 e il ventottesimo in carriera, secondo il resoconto pubblicato da Sky Sport."
+      ],
+      "publishedAt": "2026-11-01T15:40:00+01:00",
+      "verifiedAt": "2026-11-01T16:10:15.983Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/2026/11/01/alcaraz-de-minaur-atp-vienna-risultato",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T16:10:15.983Z",
+        "dateEvidence": "Sky Sport, articolo completo del 1 novembre 2026 alle 15:40, finale Alcaraz-De Minaur 6-1 6-4.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ]
