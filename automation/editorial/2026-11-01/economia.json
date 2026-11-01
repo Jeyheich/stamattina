@@ -3,7 +3,7 @@
   "editionDate": "2026-11-01",
   "collectionId": "2026-11-01-pomeriggio",
   "category": "Economia",
-  "completedAt": "2026-11-01T15:20:40.411Z",
+  "completedAt": "2026-11-01T15:21:13.153Z",
   "articles": [
     {
       "id": "economia-ue-commissione-pacchi-ecommerce",
@@ -124,6 +124,118 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
         "caption": "Immagine di repertorio: Palazzo Mezzanotte a Milano, fotografato nel settembre 2022; non documenta la seduta del 30 ottobre 2026.",
         "reuseApproved": true
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "economia-magistrati-stipendi-manovra",
+      "eventKey": "manovra-2027-calcolo-aumenti-magistrati-media-ponderata-arretrati",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Magistrati, la manovra cambia il calcolo degli adeguamenti",
+      "summary": "Previsti nuovi criteri Istat dal 2027 e l'esclusione degli arretrati.",
+      "body": [
+        "La proposta di bilancio modifica il meccanismo degli aumenti per magistrati, avvocati e procuratori dello Stato, dopo le sentenze che hanno contestato i criteri precedenti. Il calcolo userà una media ponderata secondo il numero dei dipendenti.",
+        "Gli arretrati dei rinnovi contrattuali saranno esclusi dal conteggio per evitare duplicazioni. Le disposizioni entreranno in vigore solo con l'approvazione e la pubblicazione della legge."
+      ],
+      "publishedAt": "2026-11-01T15:33:00+01:00",
+      "verifiedAt": "2026-11-01T15:21:13.153Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-stretta-sugli-aumenti-degli-stipendi-dei-magistrati-rivisti-i-criteri_92f8d3d9-313d-4e9f-8c48-8fedb07ba2b3.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T15:21:13.153Z",
+        "dateEvidence": "ANSA, fonte originale letta integralmente il 1 novembre 2026. Data/ora originale visibile nella pagina: 2026-11-01T15:33:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-banche-piccole-ires",
+      "eventKey": "piccole-banche-soglia-ires-6-7-milioni-manovra-2027",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Piccole banche, dubbi sull'esenzione dall'aumento Ires",
+      "summary": "La soglia di imponibile di 6,7 milioni escluderebbe soltanto istituti molto piccoli.",
+      "body": [
+        "La manovra prevede un aumento dell'Ires di tre punti per il comparto bancario, con esenzione per gli istituti con imponibile inferiore a 6,7 milioni di euro.",
+        "Secondo diversi operatori del credito, la soglia lascia fuori anche numerose banche di credito cooperativo. Preoccupano inoltre le nuove regole sulla deducibilità Irap; si attendono eventuali correzioni parlamentari."
+      ],
+      "publishedAt": "2026-11-01T13:45:00+01:00",
+      "verifiedAt": "2026-11-01T15:21:13.153Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/anche-fra-piccole-banche-timori-su-impatto-manovra-soglia-e-bassa_016d5765-b524-4baa-b253-53e9dc02ae32.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T15:21:13.153Z",
+        "dateEvidence": "ANSA, fonte originale letta integralmente il 1 novembre 2026. Data/ora originale visibile nella pagina: 2026-11-01T13:45:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-assoutenti-rincari-ortaggi",
+      "eventKey": "assoutenti-ottobre-2026-rincari-ortaggi-tecnologia-energia",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Prezzi al consumo, Assoutenti segnala forti rincari a ottobre",
+      "summary": "Ortaggi a frutto quasi +31% e supporti digitali oltre +100% su base annua.",
+      "body": [
+        "Assoutenti ha analizzato i dati Istat di ottobre rilevando aumenti marcati in diversi comparti. Gli ortaggi a frutto crescono di quasi il 31% rispetto all'anno precedente; alcuni supporti per registrazioni segnano +107,8%.",
+        "L'associazione collega la pressione sui listini alla crisi in Medio Oriente e segnala incrementi anche per energia, trasporti e dispositivi elettronici. Si tratta di elaborazioni dell'associazione su dati Istat."
+      ],
+      "publishedAt": "2026-11-01T11:18:00+01:00",
+      "verifiedAt": "2026-11-01T15:21:13.153Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/assoutenti-la-guerra-fa-schizzare-i-prezzi-zucchine-31-a-ottobre_7b2133da-31b8-4378-9111-9db270ef23d7.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T15:21:13.153Z",
+        "dateEvidence": "ANSA, fonte originale letta integralmente il 1 novembre 2026. Data/ora originale visibile nella pagina: 2026-11-01T11:18:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-superbonus-crediti-dieci-rate",
+      "eventKey": "manovra-2027-superbonus-crediti-2023-compensazioni-dieci-rate",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Superbonus, ipotesi di rinvio delle compensazioni in dieci anni",
+      "summary": "La manovra diluirebbe i crediti maturati per le spese del 2023.",
+      "body": [
+        "La legge di bilancio proposta ripartisce in dieci quote annuali i crediti Superbonus ceduti o scontati in fattura per spese del 2023, se non già oggetto di analoga opzione.",
+        "La relazione tecnica quantifica in circa 20,5 miliardi di euro le compensazioni interessate. La disposizione rinvierebbe parte dell'utilizzo dei crediti agli anni successivi, senza mutare il trattamento contabile del 2023."
+      ],
+      "publishedAt": "2026-11-01T11:43:00+01:00",
+      "verifiedAt": "2026-11-01T15:21:13.153Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-rinvio-per-le-compensazioni-del-superbonus-spalmate-su-10-anni_bc3f2d8b-0070-4d02-ba7a-ecdf5dda2a42.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T15:21:13.153Z",
+        "dateEvidence": "ANSA, fonte originale letta integralmente il 1 novembre 2026. Data/ora originale visibile nella pagina: 2026-11-01T11:43:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-mimit-carburanti-primo-novembre",
+      "eventKey": "mimit-prezzi-carburanti-self-1-novembre-2026-benzina-2010-gasolio-2241",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Carburanti, il Mimit pubblica i prezzi medi del 1° novembre",
+      "summary": "Benzina self a 2,010 euro e gasolio a 2,241 euro al litro sulla rete nazionale.",
+      "body": [
+        "Secondo l'Osservatorio prezzi del ministero delle Imprese, il 1° novembre la benzina self costa in media 2,010 euro al litro e il gasolio 2,241 euro.",
+        "Sulla rete autostradale i valori medi sono rispettivamente 2,036 e 2,287 euro. Il ministero conta 16.336 impianti con benzina sotto due euro e 8.432 con gasolio sotto 2,20 euro."
+      ],
+      "publishedAt": "2026-11-01T11:22:00+01:00",
+      "verifiedAt": "2026-11-01T15:21:13.153Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/mimit-carburanti-in-calo-prezzo-medio-self-benzina-a-2010-euro-gasolio_0881de2f-b3ea-44f3-a6c5-41710f016229.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T15:21:13.153Z",
+        "dateEvidence": "ANSA, fonte originale letta integralmente il 1 novembre 2026. Data/ora originale visibile nella pagina: 2026-11-01T11:22:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ]
