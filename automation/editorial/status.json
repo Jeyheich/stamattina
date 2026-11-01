@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-01",
-  "checkedAt": "2026-11-01T05:18:09.676Z",
+  "checkedAt": "2026-11-01T06:02:36.949Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,14 +13,14 @@
     "politica",
     "esteri",
     "economia",
-    "cronaca"
+    "cronaca",
+    "tecnologia",
+    "sport"
   ],
   "inProgress": [],
   "missing": [
     "roma",
-    "cultura",
-    "tecnologia",
-    "sport"
+    "cultura"
   ],
   "invalid": [],
   "stories": [
@@ -143,6 +143,66 @@
       "category": "Cronaca",
       "title": "Torremaggiore, esplosione danneggia il presidio sanitario",
       "eventKey": "torremaggiore-esplosione-cassa-ticket-sanitari-31-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-ue-social-minori-stop",
+      "category": "Tecnologia · AI",
+      "title": "Social e minori, Bruxelles sospende per un anno le nuove proposte nazionali",
+      "eventKey": "commissione-ue-sospende-ddl-nazionali-social-minori-kids-act-30-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-google-home-matter-energia",
+      "category": "Tecnologia · AI",
+      "title": "Google Home mostra i consumi elettrici delle prese Matter compatibili",
+      "eventKey": "google-home-aggiornamento-monitoraggio-consumi-prese-matter-29-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-reddit-login-scraping",
+      "category": "Tecnologia · AI",
+      "title": "Reddit prepara test di accesso obbligatorio per limitare lo scraping AI",
+      "eventKey": "reddit-annuncia-test-login-obbligatorio-contro-scraping-ai-30-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-sony-brevetti-vr-meta",
+      "category": "Tecnologia · AI",
+      "title": "Sony trasferisce brevetti VR a Meta: dubbi sul futuro dei visori PlayStation",
+      "eventKey": "sony-trasferimento-brevetti-realta-virtuale-meta-1-novembre-2026"
+    },
+    {
+      "id": "tecnologia-rocket-league-one-piece-evento",
+      "category": "Tecnologia · AI",
+      "title": "Rocket League annuncia un evento dedicato a One Piece dal 1° novembre",
+      "eventKey": "rocket-league-evento-one-piece-1-23-novembre-2026"
+    },
+    {
+      "id": "sport-milan-inter-derby-3-1",
+      "category": "Sport",
+      "title": "Il Milan batte l'Inter 3-1 e vince il quarto derby consecutivo",
+      "eventKey": "milan-batte-inter-3-1-derby-31-ottobre-2026"
+    },
+    {
+      "id": "sport-udinese-roma-cinque-due",
+      "category": "Sport",
+      "title": "Roma travolgente a Udine: cinque gol e successo per 5-2",
+      "eventKey": "roma-vince-udinese-5-2-31-ottobre-2026"
+    },
+    {
+      "id": "sport-bologna-monza-rimonta",
+      "category": "Sport",
+      "title": "Bologna, terza vittoria di fila: Monza battuto 2-1 in rimonta",
+      "eventKey": "bologna-batte-monza-2-1-rimonta-31-ottobre-2026"
+    },
+    {
+      "id": "sport-hamilton-pole-messico",
+      "category": "Sport",
+      "title": "F1, Hamilton conquista la pole in Messico davanti a Russell e Leclerc",
+      "eventKey": "hamilton-pole-ferrari-gp-messico-qualifiche-31-ottobre-2026"
+    },
+    {
+      "id": "sport-errani-paolini-finals-tokyo-2026",
+      "category": "Sport",
+      "title": "Errani e Paolini conquistano le WTA Finals con la finale a Tokyo",
+      "eventKey": "errani-paolini-qualificate-wta-finals-semifinale-tokyo-31-ottobre-2026"
     },
     {
       "id": "politica-meloni-vannacci-replica",
@@ -291,9 +351,14 @@
       "id": "economia-borsa-milano-30-ottobre",
       "category": "Economia",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palais_Mezzanotte_-_Milan_(IT25)_-_2022-09-03_-_3.jpg"
+    },
+    {
+      "id": "sport-errani-paolini-finals-tokyo-2026",
+      "category": "Sport",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sara_Errani_-_Roland-Garros_-_28.05.2024_(cropped).jpg"
     }
   ],
-  "photosAvailable": 3,
+  "photosAvailable": 4,
   "categoryProgress": {
     "politica": {
       "base": 5,
@@ -332,13 +397,13 @@
       "complete": false
     },
     "tecnologia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "sport": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
