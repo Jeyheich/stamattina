@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "collectionId": "2026-11-01-mattina",
-  "id": "2026-11-01-batches-ffd2eadc2bd6",
+  "id": "2026-11-01-batches-5319b202875b",
   "mode": "live",
   "editionDate": "2026-11-01",
-  "generatedAt": "2026-11-01T06:17:42.739Z",
+  "generatedAt": "2026-11-01T06:18:23.430Z",
   "timezone": "Europe/Rome",
   "scheduledFor": "2026-11-01T09:00:00+01:00",
   "essentialIds": [
@@ -1444,6 +1444,226 @@
       }
     },
     {
+      "id": "roma-bernini-elefante-condanna",
+      "eventKey": "elefantino-bernini-danneggiamento-condanna-29-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Elefantino del Bernini, condanna per il danneggiamento",
+      "summary": "Il giovane identificato grazie alle telecamere dovrà svolgere lavori di pubblica utilità.",
+      "body": [
+        "Il Gup di Roma ha condannato a 10 mesi e 20 giorni un venticinquenne per il danneggiamento dell'Elefante del Bernini in piazza della Minerva. La pena è subordinata ad attività a favore della collettività.",
+        "Il danno risale al 15 febbraio, quando una parte della zanna sinistra si staccò dopo che il giovane era salito sul monumento. Le indagini hanno utilizzato registrazioni di videosorveglianza e testimonianze."
+      ],
+      "publishedAt": "2026-10-30T12:27:00+01:00",
+      "verifiedAt": "2026-11-01T06:17:35Z",
+      "source": {
+        "name": "La Capitale",
+        "url": "https://www.lacapitale.it/articolo/elefante-del-bernini-danneggiato-a-piazza-della-minerva-condannato-a-10-mesi-un-25enne",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:17:35Z",
+        "dateEvidence": "La Capitale: pubblicato 30 ottobre 2026 ore 12:27; sentenza 29 ottobre; pagina originale consultata il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-riscaldamenti-calendario",
+      "eventKey": "roma-ordinanza-riscaldamenti-15-novembre-8-aprile-2027",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Roma, riscaldamenti dal 15 novembre all'8 aprile",
+      "summary": "Il Comune fissa un massimo ordinario di undici ore giornaliere e temperature di riferimento.",
+      "body": [
+        "L'ordinanza sindacale 145 del 29 ottobre disciplina la stagione termica 2026-2027: accensione dal 15 novembre all'8 aprile, fino a undici ore al giorno.",
+        "Per gli edifici non industriali è indicata una temperatura di 19 gradi con tolleranza di due gradi. Le condizioni e le eccezioni sono precisate nel provvedimento comunale."
+      ],
+      "publishedAt": "2026-10-29T18:28:00+01:00",
+      "verifiedAt": "2026-11-01T06:17:35Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/29/a-roma-riscaldamenti-accesi-dal-15-novembre-all8-aprile-2027_b3de9ccf-a8db-4bad-b293-80c7aad118d0.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:17:35Z",
+        "dateEvidence": "ANSA Lazio: 29 ottobre 2026 ore 18:28, testo dell'ordinanza n.145; pagina originale consultata il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-fascia-verde-ordinanza",
+      "eventKey": "roma-fascia-verde-ordinanza-144-divieti-1-novembre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Fascia Verde, confermati i divieti già in vigore",
+      "summary": "Dal 1° novembre al 31 ottobre 2027 restano le restrizioni ai veicoli più inquinanti.",
+      "body": [
+        "L'ordinanza 144 del Comune di Roma conferma, senza nuove categorie di veicoli vietati, le limitazioni nella Ztl Fascia Verde dal 1° novembre 2026 al 31 ottobre 2027.",
+        "Le regole riguardano soprattutto auto a benzina fino a Euro 2, diesel fino a Euro 3 e ciclomotori o motocicli fino a Euro 1, con deroghe indicate nel testo del provvedimento."
+      ],
+      "publishedAt": "2026-10-29T19:06:00+01:00",
+      "verifiedAt": "2026-11-01T06:17:35Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/29/ztl-fascia-verde-confermate-le-limitazioni-al-traffico-gia-in-vigore_d8a3e851-8084-436c-a9ad-7e4f28d709fc.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:17:35Z",
+        "dateEvidence": "ANSA Lazio: 29 ottobre 2026 ore 19:06, ordinanza comunale n.144; pagina originale consultata il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-passeggiata-barberini",
+      "eventKey": "roma-passeggiata-barberini-popolo-1-novembre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Domenica sera passeggiata da Barberini a piazza del Popolo",
+      "summary": "Possibili rallentamenti nel centro storico per una manifestazione pedonale.",
+      "body": [
+        "Roma Servizi per la Mobilità segnala per domenica 1° novembre una passeggiata con partenza da piazza Barberini e arrivo a piazza del Popolo, attraverso via Sistina e Trinità dei Monti.",
+        "La partecipazione prevista è di circa cinquecento persone; l'avviso indica possibili rallentamenti sulla viabilità nell'area interessata."
+      ],
+      "publishedAt": "2026-10-29",
+      "verifiedAt": "2026-11-01T06:17:35Z",
+      "source": {
+        "name": "Roma Servizi per la Mobilità",
+        "url": "https://romamobilita.it/infomobilita/domenica-passeggiata-piazza-barberini-piazza-del-popolo-possibili-rallentamenti/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:17:35Z",
+        "dateEvidence": "Roma Mobilità: pubblicato e aggiornato 29 ottobre 2026, evento 1 novembre; pagina originale consultata il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-fonte-nuova-nomentana",
+      "eventKey": "fonte-nuova-halloween-chiusura-nomentana-31-ottobre-1-novembre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Fonte Nuova, deviazioni sulla Nomentana per l'evento di Halloween",
+      "summary": "Un tratto di strada chiuso e la linea 337 deviata nel fine settimana.",
+      "body": [
+        "Nel comune metropolitano di Fonte Nuova, un evento organizzato per Halloween comporta la chiusura di via Nomentana tra via I Maggio e via Giovanni Boccaccio.",
+        "Roma Servizi per la Mobilità comunica che la linea 337 è deviata in entrambe le direzioni attraverso via Nomentana Bis e via Tor Sant'Antonio; l'avviso resta valido fino al 1° novembre."
+      ],
+      "publishedAt": "2026-10-31",
+      "verifiedAt": "2026-11-01T06:17:35Z",
+      "source": {
+        "name": "Roma Servizi per la Mobilità",
+        "url": "https://romamobilita.it/infomobilita/nel-week-end-evento-a-fonte-nuova-chiuso-un-tratto-di-via-nomentana/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:17:35Z",
+        "dateEvidence": "Roma Mobilità: pubblicato e aggiornato 31 ottobre 2026; validità fino al 1 novembre; pagina originale consultata il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-criminal-minds-finale",
+      "eventKey": "criminal-minds-evolution-ventesima-stagione-ultima-2027",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Criminal Minds si concluderà con la ventesima stagione",
+      "summary": "La serie investigativa saluterà il pubblico nel 2027 su Paramount+.",
+      "body": [
+        "La produzione di Criminal Minds: Evolution ha annunciato che la ventesima stagione complessiva, quinta della nuova fase su Paramount+, sarà l'ultima.",
+        "La showrunner Erica Messer ha ringraziato interpreti, troupe e spettatori per la lunga storia della serie, nata nel 2005 sulla CBS e proseguita con il rilancio streaming."
+      ],
+      "publishedAt": "2026-10-31T18:40:00+01:00",
+      "verifiedAt": "2026-11-01T06:17:50Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/10/31/criminal-minds-la-serie-chiude-con-la-ventesima-stagione-su-paramount_e9149261-1001-4e86-a3f6-98989cab620e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:17:50Z",
+        "dateEvidence": "ANSA TV: 31 ottobre 2026 ore 18:40; articolo originale consultato il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-cotugno-clima-libro",
+      "eventKey": "ferdinando-cotugno-chi-paga-conto-clima-saggio-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Un saggio indaga chi sostiene i costi della crisi climatica",
+      "summary": "Ferdinando Cotugno collega responsabilità ambientali, disuguaglianze e movimenti sociali.",
+      "body": [
+        "Nel libro Chi paga il conto del clima?, pubblicato da Einaudi, il giornalista Ferdinando Cotugno affronta il rapporto fra crisi ambientale e squilibri economici.",
+        "Il saggio sostiene che la transizione richiede scelte politiche e finanziarie capaci di affrontare i danni climatici, soprattutto nei Paesi che hanno contribuito meno alle emissioni."
+      ],
+      "publishedAt": "2026-10-31T16:40:00+01:00",
+      "verifiedAt": "2026-11-01T06:17:50Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/libri/2026/10/31/questione-climatica-capitalismo-predatorio-e-nuovi-movimenti-nel-saggio-di-cotugno_f891ab5d-1706-49fe-8f08-fd9ee5901332.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:17:50Z",
+        "dateEvidence": "ANSA Libri: 31 ottobre 2026 ore 16:40; articolo originale consultato il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-corto-maltese-orchidee",
+      "eventKey": "corto-maltese-casa-orchidee-bianche-igort-steiner-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Corto Maltese torna con La casa delle orchidee bianche",
+      "summary": "Igort e Marco Steiner firmano la nuova avventura del marinaio di Hugo Pratt.",
+      "body": [
+        "La casa delle orchidee bianche, in uscita il 3 novembre per Cong e Oblomov, è una nuova storia di Corto Maltese disegnata da Igort e scritta da Marco Steiner.",
+        "Il racconto prende le mosse da una domanda lasciata aperta da Hugo Pratt e riporta il protagonista nella Hong Kong del 1920, tra ricordi personali e intrecci di spionaggio."
+      ],
+      "publishedAt": "2026-10-31",
+      "verifiedAt": "2026-11-01T06:17:50Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/amp/sito/notizie/cultura/libri/altre_proposte/2026/10/31/la-casa-delle-orchidee-bianche-nuova-avventura-di-corto-maltese_81b079a2-af53-48d3-8852-d587f2fc6523.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:17:50Z",
+        "dateEvidence": "ANSA Libri: 31 ottobre 2026, pagina AMP con data senza ora; articolo originale consultato il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-maraini-novanta-libro",
+      "eventKey": "dacia-maraini-novanta-anni-agro-e-dolce-libro-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Dacia Maraini racconta la propria vita alla vigilia dei novant'anni",
+      "summary": "Il nuovo volume autobiografico è atteso il 3 novembre, prima del compleanno del 13.",
+      "body": [
+        "Dacia Maraini, nata il 13 novembre 1936, si prepara ai novant'anni con Agro e dolce. Una vita in parole e immagini, in uscita il 3 novembre per Rizzoli.",
+        "Nel colloquio con ANSA la scrittrice ricorda il rapporto con Alberto Moravia e Pier Paolo Pasolini, l'infanzia in Giappone e la centralità dei libri nel suo percorso."
+      ],
+      "publishedAt": "2026-10-31T16:15:00+01:00",
+      "verifiedAt": "2026-11-01T06:17:50Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://videoembed.ansa.it/sito/notizie/cultura/libri/2026/10/31/i-90-anni-di-dacia-maraini-moravia-e-pasolini-le-persone-della-mia-vita_bb93fa11-7764-40e8-b8d1-0ce8ff0f5525.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:17:50Z",
+        "dateEvidence": "ANSA Libri: 31 ottobre 2026 ore 16:15, intervista completa; articolo originale consultato il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-eduardo-san-carlo",
+      "eventKey": "teatro-san-carlo-ricorda-eduardo-de-filippo-31-ottobre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Il San Carlo ricorda Eduardo De Filippo a 42 anni dalla morte",
+      "summary": "Il teatro napoletano ripercorre il rapporto con il drammaturgo e la sua storia.",
+      "body": [
+        "Nel quarantaduesimo anniversario della scomparsa di Eduardo De Filippo, avvenuta il 31 ottobre 1984, il Teatro di San Carlo ha pubblicato un ricordo della sua figura.",
+        "Il teatro richiama il debutto di Napoli milionaria! al Lirico nel marzo 1945 e fotografie del gennaio 1954 conservate nell'archivio Riccardo Carbone."
+      ],
+      "publishedAt": "2026-10-31T12:03:00+01:00",
+      "verifiedAt": "2026-11-01T06:17:50Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://videoembed.ansa.it/campania/notizie/2026/10/31/il-san-carlo-ricorda-eduardo-de-filippo-nellanniversario-della-morte_b41bec9b-924f-4bf7-a963-14cc2ceb7357.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:17:50Z",
+        "dateEvidence": "ANSA Campania: 31 ottobre 2026 ore 12:03; articolo originale consultato il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
       "id": "tecnologia-chatbot-causa-salute",
       "eventKey": "causa-san-francisco-chatbot-ai-consigli-terapia-epilessia-27-ottobre-2026",
       "category": "Tecnologia · AI",
@@ -1676,6 +1896,16 @@
     "cronaca-parma-monossido-coppia",
     "cronaca-rovigo-badante-arrestata",
     "cronaca-polesine-sequestro-halloween",
+    "roma-bernini-elefante-condanna",
+    "roma-riscaldamenti-calendario",
+    "roma-fascia-verde-ordinanza",
+    "roma-passeggiata-barberini",
+    "roma-fonte-nuova-nomentana",
+    "cultura-criminal-minds-finale",
+    "cultura-cotugno-clima-libro",
+    "cultura-corto-maltese-orchidee",
+    "cultura-maraini-novanta-libro",
+    "cultura-eduardo-san-carlo",
     "tecnologia-chatbot-causa-salute",
     "tecnologia-whatsapp-quattro-novita-gruppi",
     "tecnologia-meta-style-sketch-ai",

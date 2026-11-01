@@ -1,12 +1,9 @@
 {
   "editionDate": "2026-11-01",
-  "checkedAt": "2026-11-01T06:17:42.739Z",
+  "checkedAt": "2026-11-01T06:18:23.430Z",
   "ready": true,
-  "editorialComplete": false,
-  "reserveMissing": [
-    "roma",
-    "cultura"
-  ],
+  "editorialComplete": true,
+  "reserveMissing": [],
   "completed": [
     "politica",
     "esteri",
@@ -382,6 +379,66 @@
       "eventKey": "rovigo-polesine-sequestro-8500-prodotti-halloween-31-ottobre-2026"
     },
     {
+      "id": "roma-bernini-elefante-condanna",
+      "category": "Roma",
+      "title": "Elefantino del Bernini, condanna per il danneggiamento",
+      "eventKey": "elefantino-bernini-danneggiamento-condanna-29-ottobre-2026"
+    },
+    {
+      "id": "roma-riscaldamenti-calendario",
+      "category": "Roma",
+      "title": "Roma, riscaldamenti dal 15 novembre all'8 aprile",
+      "eventKey": "roma-ordinanza-riscaldamenti-15-novembre-8-aprile-2027"
+    },
+    {
+      "id": "roma-fascia-verde-ordinanza",
+      "category": "Roma",
+      "title": "Fascia Verde, confermati i divieti già in vigore",
+      "eventKey": "roma-fascia-verde-ordinanza-144-divieti-1-novembre-2026"
+    },
+    {
+      "id": "roma-passeggiata-barberini",
+      "category": "Roma",
+      "title": "Domenica sera passeggiata da Barberini a piazza del Popolo",
+      "eventKey": "roma-passeggiata-barberini-popolo-1-novembre-2026"
+    },
+    {
+      "id": "roma-fonte-nuova-nomentana",
+      "category": "Roma",
+      "title": "Fonte Nuova, deviazioni sulla Nomentana per l'evento di Halloween",
+      "eventKey": "fonte-nuova-halloween-chiusura-nomentana-31-ottobre-1-novembre-2026"
+    },
+    {
+      "id": "cultura-criminal-minds-finale",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Criminal Minds si concluderà con la ventesima stagione",
+      "eventKey": "criminal-minds-evolution-ventesima-stagione-ultima-2027"
+    },
+    {
+      "id": "cultura-cotugno-clima-libro",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Un saggio indaga chi sostiene i costi della crisi climatica",
+      "eventKey": "ferdinando-cotugno-chi-paga-conto-clima-saggio-2026"
+    },
+    {
+      "id": "cultura-corto-maltese-orchidee",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Corto Maltese torna con La casa delle orchidee bianche",
+      "eventKey": "corto-maltese-casa-orchidee-bianche-igort-steiner-novembre-2026"
+    },
+    {
+      "id": "cultura-maraini-novanta-libro",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Dacia Maraini racconta la propria vita alla vigilia dei novant'anni",
+      "eventKey": "dacia-maraini-novanta-anni-agro-e-dolce-libro-2026"
+    },
+    {
+      "id": "cultura-eduardo-san-carlo",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Il San Carlo ricorda Eduardo De Filippo a 42 anni dalla morte",
+      "eventKey": "teatro-san-carlo-ricorda-eduardo-de-filippo-31-ottobre-2026"
+    },
+    {
       "id": "tecnologia-chatbot-causa-salute",
       "category": "Tecnologia · AI",
       "title": "Una causa negli USA riapre il dibattito sui consigli sanitari dei chatbot",
@@ -448,8 +505,8 @@
     "Esteri": 5,
     "Economia": 5,
     "Cronaca": 5,
-    "Roma": 0,
-    "Cultura · Teatro · Cinema": 0,
+    "Roma": 5,
+    "Cultura · Teatro · Cinema": 5,
     "Tecnologia · AI": 5,
     "Sport": 5
   },
@@ -508,15 +565,15 @@
     },
     "roma": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "cultura": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "tecnologia": {
       "base": 5,
@@ -531,9 +588,6 @@
       "complete": true
     }
   },
-  "editionId": "2026-11-01-batches-ffd2eadc2bd6",
-  "needsPublication": false,
-  "publicVerifiedAt": "2026-11-01T06:18:09.348533+00:00",
-  "publicEditionId": "2026-11-01-batches-ffd2eadc2bd6",
-  "publication": "verified"
+  "editionId": "2026-11-01-batches-5319b202875b",
+  "needsPublication": true
 }
