@@ -3,7 +3,7 @@
   "editionDate": "2026-11-01",
   "collectionId": "2026-11-01-pomeriggio",
   "category": "Tecnologia · AI",
-  "completedAt": "2026-11-01T16:09:38.198Z",
+  "completedAt": "2026-11-01T16:10:16.246Z",
   "articles": [
     {
       "id": "tecnologia-wikimedia-fair-use-ai",
@@ -107,6 +107,113 @@
         "access": "free",
         "accessCheckedAt": "2026-11-01T16:09:37.880Z",
         "dateEvidence": "Everyeye, Antonio Izzo, articolo completo del 1 novembre 2026 alle 10:09; esamina annuncio di lavoro Sony e Smart Pricing.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "tecnologia-protezione-minori-chatgpt",
+      "eventKey": "openai-chatgpt-nuove-protezioni-minori-31-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Nuovi controlli per gli adolescenti che usano ChatGPT",
+      "summary": "Annunciati filtri più prudenti, verifica dell'età e avvisi per i genitori in situazioni critiche.",
+      "body": [
+        "OpenAI ha illustrato ulteriori misure di protezione per gli utenti minorenni, con restrizioni sulle informazioni relative ad armi e violenza anche quando le richieste appaiono innocue. Previsti miglioramenti nella stima dell'età e negli avvisi di sicurezza per gli account familiari collegati."
+      ],
+      "publishedAt": "2026-10-31",
+      "verifiedAt": "2026-11-01T16:10:15.983Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/chatgpt-openai-annuncia-nuove-protezioni-minori/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T16:10:15.983Z",
+        "dateEvidence": "Punto Informatico, articolo completo del 31 ottobre 2026, riporta le misure annunciate per ChatGPT for Teens.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-meta-antitrust-uk",
+      "eventKey": "cma-indagine-meta-condizioni-commerciali-uk-30-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "L'antitrust britannico indaga sulle condizioni commerciali di Meta",
+      "summary": "La CMA esamina le clausole sull'uso dei contenuti delle aziende, anche dopo la sospensione delle modifiche.",
+      "body": [
+        "La Competition and Markets Authority ha avviato un'indagine sulle condizioni previste da Meta per le aziende che promuovono contenuti sulle sue piattaforme. Le clausole aggiornate prevedevano un uso più ampio dei materiali pubblicati, anche in relazione all'AI. Meta ne ha sospeso l'entrata in vigore, ma l'autorità continua a verificare i profili concorrenziali."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-11-01T16:10:15.983Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/nuove-condizioni-commerciali-indagine-meta-uk/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T16:10:15.983Z",
+        "dateEvidence": "Punto Informatico, testo integrale del 30 ottobre 2026, descrive indagine CMA, sospensione delle clausole e calendario.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-gemini-editing-chat",
+      "eventKey": "google-gemini-modifica-pdf-documenti-nella-chat-30-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Gemini permette di correggere i file direttamente nella conversazione",
+      "summary": "PDF modificabili anche su mobile; per documenti, fogli e presentazioni la funzione completa resta sul web.",
+      "body": [
+        "Google ha introdotto nella chat di Gemini la generazione, l'anteprima e la modifica di diversi tipi di file. L'utente può selezionare una parte del documento e chiedere modifiche, senza passare a un editor esterno. Per ora l'editing mobile è limitato ai PDF, mentre gli altri formati sono gestiti dall'interfaccia web."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-11-01T16:10:15.983Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/gemini-modifica-file-chat-pdf-docs-fogli-slide/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T16:10:15.983Z",
+        "dateEvidence": "Punto Informatico, articolo integrale del 30 ottobre 2026, specifica formati supportati e limiti dell'interfaccia mobile.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-persona-remake-rumor",
+      "eventKey": "persona-primo-capitolo-presunto-remake-video-non-confermato-1-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Un video alimenta le voci su un remake del primo Persona",
+      "summary": "Il filmato diffuso online mostra presunte sequenze di gioco, ma Atlus non ha annunciato alcun progetto.",
+      "body": [
+        "Un filmato pubblicato online e ripreso dalla stampa specializzata sembra mostrare esplorazione, combattimenti e scene narrative di un possibile remake di Revelations: Persona. Il materiale non è stato autenticato dagli sviluppatori; non esistono conferme ufficiali di Atlus o Sega."
+      ],
+      "publishedAt": "2026-11-01T11:05:00+01:00",
+      "verifiedAt": "2026-11-01T16:10:15.983Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/persona-spunta-online-video-svela-possibile-remake-capitolo-909124.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T16:10:15.983Z",
+        "dateEvidence": "Everyeye, Antonio Izzo, articolo completo del 1 novembre 2026 alle 11:05; sottolinea espressamente che si tratta di indiscrezioni.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-ocarina-remake-27gb",
+      "eventKey": "zelda-ocarina-time-remake-switch2-dimensione-27gb-1-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Il remake di Ocarina of Time dovrebbe occupare 27 GB su Switch 2",
+      "summary": "La dimensione compare sulle schede download fotografate in Giappone, prima dell'uscita del 5 novembre.",
+      "body": [
+        "Secondo le immagini di schede di download giapponesi riprese da Everyeye, il remake di The Legend of Zelda: Ocarina of Time richiederà circa 27 GB di memoria. Il dato, non presentato come misurazione indipendente, supera i 24 GB riportati per Breath of the Wild su Switch 2."
+      ],
+      "publishedAt": "2026-11-01T08:32:00+01:00",
+      "verifiedAt": "2026-11-01T16:10:15.983Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/ocarina-of-time-remake-pesa-800-originale-supera-breath-of-the-wild-907098.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T16:10:15.983Z",
+        "dateEvidence": "Everyeye, Francesco Mustacchio, articolo completo del 1 novembre 2026 alle 08:32, cita le schede download e il dato di 27 GB.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
