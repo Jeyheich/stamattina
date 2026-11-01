@@ -1,41 +1,64 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-11-01",
-  "collectionId": "2026-11-01-mattina",
+  "collectionId": "2026-11-01-pomeriggio",
   "category": "Politica",
-  "completedAt": "2026-11-01T05:08:08.175Z",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-01T15:08:57.695Z",
   "articles": [
     {
-      "id": "politica-difesa-manovra-riserva-caccia",
-      "eventKey": "governo-manovra-difesa-riserva-militare-caccia-sesta-generazione-31-ottobre-2026",
+      "id": "politica-meloni-riforma-rai-novembre",
+      "eventKey": "meloni-riforma-rai-parlamento-buon-punto-dichiarazioni-1-novembre-2026",
       "category": "Politica",
       "status": "verified",
-      "title": "Difesa, nella manovra risorse per missioni e caccia di nuova generazione",
-      "summary": "La maggioranza cerca una linea comune sulla sicurezza: il disegno di bilancio prevede investimenti militari e una riserva da costituire.",
+      "title": "Meloni sostiene che la riforma della Rai sia in fase avanzata",
+      "summary": "La premier parla della revisione della governance Rai, ancora all'esame del Parlamento, in un'anticipazione del libro di Bruno Vespa.",
       "body": [
-        "Il progetto di legge di bilancio del governo comprende il rafforzamento degli organici, una riserva militare e fondi per tecnologie di difesa, incluso il programma del caccia di sesta generazione con Regno Unito e Giappone.",
-        "Secondo la ricostruzione pubblicata il 31 ottobre, la manovra aggiunge oltre 1,3 miliardi per le missioni all'estero. Le misure sono ancora nell'iter parlamentare e non sono leggi già approvate."
+        "Giorgia Meloni ha dichiarato che la riforma della Rai, attualmente seguita dal Parlamento, le sembra arrivata a buon punto. La presidente del Consiglio ha contestato le critiche dell'opposizione alla legge vigente sulla governance del servizio pubblico.",
+        "Le dichiarazioni sono riportate da ANSA il 1° novembre e provengono da un'intervista per il libro di Bruno Vespa in uscita il 2 novembre. Non costituiscono l'annuncio di una legge già approvata."
       ],
-      "publishedAt": "2026-10-31T20:10:00+01:00",
-      "verifiedAt": "2026-11-01T05:08:08.175Z",
+      "publishedAt": "2026-11-01T12:47:00+01:00",
+      "verifiedAt": "2026-11-01T15:08:57.695Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/su-difesa-e-sicurezza-linea-comune-nella-manovra-i-para-a-milano-fino-a-marzo_468492f1-e0c1-45a9-a32b-d93c7fec981f.html",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/01/meloni-riforma-rai-mi-sembra-a-buon-punto.-toglieremo-argomento-a-sinistra-ridicola_abd4f31d-b1ee-47c9-ac62-916883f96c8e.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-01T05:08:08.175Z",
-        "dateEvidence": "ANSA, Roma, 31 ottobre 2026 ore 20:10, firma Valentina Brini; articolo originale letto integralmente il 1 novembre 2026 alle 06:08 Europe/Rome; ANSA consente un numero limitato di letture gratuite.",
+        "accessCheckedAt": "2026-11-01T15:08:57.695Z",
+        "dateEvidence": "ANSA, Roma, 1 novembre 2026 ore 12:47, anticipazione delle dichiarazioni sulla riforma Rai; articolo originale letto il 1 novembre 2026 nel pomeriggio, accesso gratuito con limite mensile ANSA.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 98,
+      "leadPriority": 94,
       "image": {
         "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Palazzo_Chigi_Roma_giugno_2024.jpg",
-        "alt": "Facciata di Palazzo Chigi a Roma, sede del governo",
+        "alt": "Facciata di Palazzo Chigi a Roma",
         "credit": "Sergio D’Afflitto / Wikimedia Commons",
         "rights": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Chigi_Roma_giugno_2024.jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "caption": "Palazzo Chigi a Roma in una fotografia di repertorio del 23 giugno 2024: non documenta l'annuncio delle misure sulla Difesa.",
+        "caption": "Palazzo Chigi, sede della Presidenza del Consiglio, in una fotografia di repertorio del giugno 2024: non documenta le dichiarazioni sulla Rai.",
         "reuseApproved": true
+      }
+    },
+    {
+      "id": "politica-conte-critica-manovra-scuola",
+      "eventKey": "conte-critica-manovra-2027-tagli-scuola-e-spese-difesa-1-novembre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Conte contesta la manovra su scuola, pensioni e difesa",
+      "summary": "Il presidente del M5S critica la distribuzione delle risorse nella legge di bilancio e indica i tagli al personale scolastico.",
+      "body": [
+        "Giuseppe Conte ha attaccato sui social la manovra economica del governo, sostenendo che aumenti gli stanziamenti per difesa e armamenti mentre riduce risorse per scuola e pensioni.",
+        "Nell'intervento del 1° novembre il leader M5S cita anche la sanità e il personale scolastico. I numeri e le valutazioni sono sue affermazioni politiche, non verifiche indipendenti dei saldi di bilancio."
+      ],
+      "publishedAt": "2026-11-01T12:46:00+01:00",
+      "verifiedAt": "2026-11-01T15:08:57.695Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/01/conte-e-proprio-la-manovra-di-halloween-soldi-per-armi-e-tagli-su-tutto.-da-brividi_5b5f4e70-670c-4518-84ba-c6adb1b7681b.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T15:08:57.695Z",
+        "dateEvidence": "ANSA, Roma, 1 novembre 2026 ore 12:46, post social di Giuseppe Conte sulla manovra; articolo originale letto il 1 novembre 2026 nel pomeriggio, accesso gratuito con limite mensile ANSA.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
@@ -50,13 +73,13 @@
         "Ha annunciato che il Movimento porterà ai tavoli del centrosinistra anche il reddito di cittadinanza e proposte sulla fiscalità. Le primarie restano previste entro febbraio, senza un candidato unico già definito."
       ],
       "publishedAt": "2026-10-31T20:15:00+01:00",
-      "verifiedAt": "2026-11-01T05:08:08.175Z",
+      "verifiedAt": "2026-11-01T15:08:57.695Z",
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com/politica/conte-schlein-centrosinistra-campo-largo-ultime-news_4pVZ9L4Key11m7agPmSr4g",
         "access": "free",
-        "accessCheckedAt": "2026-11-01T05:08:08.175Z",
-        "dateEvidence": "Adnkronos, 31 ottobre 2026 ore 20:15, firma Giuseppe Greco; articolo originale letto integralmente il 1 novembre 2026 alle 06:08 Europe/Rome; ANSA consente un numero limitato di letture gratuite.",
+        "accessCheckedAt": "2026-11-01T15:08:57.695Z",
+        "dateEvidence": "Adnkronos, 31 ottobre 2026 ore 20:15, firma Giuseppe Greco; articolo originale letto integralmente il 1 novembre 2026 alle 06:08 Europe/Rome; ANSA consente un numero limitato di letture gratuite. Rilettura integrale della fonte originale il 1 novembre 2026 nel pomeriggio (Europe/Rome), data originaria conservata.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
       "leadPriority": 96
@@ -73,13 +96,13 @@
         "Il Partito democratico è stimato al 19,9% e il Movimento 5 Stelle al 14,9%. Sono intenzioni di voto rilevate da un sondaggio, non risultati elettorali."
       ],
       "publishedAt": "2026-10-31T16:23:00+01:00",
-      "verifiedAt": "2026-11-01T05:08:08.175Z",
+      "verifiedAt": "2026-11-01T15:08:57.695Z",
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com/politica/sondaggio-politico-oggi-ipsos-corsera-vannacci_3iGXD1zqrvb1HqUJow2HNn",
         "access": "free",
-        "accessCheckedAt": "2026-11-01T05:08:08.175Z",
-        "dateEvidence": "Adnkronos, 31 ottobre 2026 ore 16:23; sondaggio Ipsos Doxa per Corriere della Sera; articolo originale letto integralmente il 1 novembre 2026 alle 06:08 Europe/Rome; ANSA consente un numero limitato di letture gratuite.",
+        "accessCheckedAt": "2026-11-01T15:08:57.695Z",
+        "dateEvidence": "Adnkronos, 31 ottobre 2026 ore 16:23; sondaggio Ipsos Doxa per Corriere della Sera; articolo originale letto integralmente il 1 novembre 2026 alle 06:08 Europe/Rome; ANSA consente un numero limitato di letture gratuite. Rilettura integrale della fonte originale il 1 novembre 2026 nel pomeriggio (Europe/Rome), data originaria conservata.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
       "leadPriority": 92
@@ -96,151 +119,16 @@
         "Il presidente ha insistito sulla possibilità di costruire il futuro attraverso le scelte collettive e sul valore concreto della solidarietà e del senso di comunità."
       ],
       "publishedAt": "2026-10-31T17:56:00+01:00",
-      "verifiedAt": "2026-11-01T05:08:08.175Z",
+      "verifiedAt": "2026-11-01T15:08:57.695Z",
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/mattarella-in-tempi-non-facili-il-futuro-va-disegnato-dai-giovani_15b6b292-fbc5-4699-ab1f-95d53ebd6047.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-01T05:08:08.175Z",
-        "dateEvidence": "ANSA, Roma, 31 ottobre 2026 ore 17:56, incontro al Quirinale con Villa Nazareth; articolo originale letto integralmente il 1 novembre 2026 alle 06:08 Europe/Rome; ANSA consente un numero limitato di letture gratuite.",
+        "accessCheckedAt": "2026-11-01T15:08:57.695Z",
+        "dateEvidence": "ANSA, Roma, 31 ottobre 2026 ore 17:56, incontro al Quirinale con Villa Nazareth; articolo originale letto integralmente il 1 novembre 2026 alle 06:08 Europe/Rome; ANSA consente un numero limitato di letture gratuite. Rilettura integrale della fonte originale il 1 novembre 2026 nel pomeriggio (Europe/Rome), data originaria conservata.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
       "leadPriority": 87
-    },
-    {
-      "id": "politica-salvini-banche-contributo",
-      "eventKey": "salvini-parlamento-contributo-banche-oltre-cinque-miliardi-31-ottobre-2026",
-      "category": "Politica",
-      "status": "verified",
-      "title": "Salvini apre a un contributo bancario maggiore deciso dal Parlamento",
-      "summary": "Il vicepremier sostiene che le Camere potrebbero incrementare le somme richieste agli istituti nella legge di bilancio.",
-      "body": [
-        "A un gazebo della Lega a Ponte Milvio, Matteo Salvini ha ricordato che il disegno di bilancio già prevede un contributo del settore bancario superiore a cinque miliardi di euro.",
-        "Il vicepremier ha affermato che il Parlamento potrebbe scegliere di chiedere ulteriori risorse, da destinare secondo la sua posizione a famiglie, lavoratori e pensionati. Non si tratta di un emendamento già approvato."
-      ],
-      "publishedAt": "2026-10-31T18:30:00+01:00",
-      "verifiedAt": "2026-11-01T05:08:08.175Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/salvini-se-il-parlamento-vuole-un-contributo-maggiore-dalle-banche-e-sovrano_9639469c-8c6e-405c-9c2e-0d1b50371871.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T05:08:08.175Z",
-        "dateEvidence": "ANSA, Roma, 31 ottobre 2026 ore 18:30, dichiarazioni a Ponte Milvio; articolo originale letto integralmente il 1 novembre 2026 alle 06:08 Europe/Rome; ANSA consente un numero limitato di letture gratuite.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 83
-    }
-  ],
-  "reserveArticles": [
-    {
-      "id": "politica-meloni-vannacci-replica",
-      "eventKey": "meloni-vannacci-contrasto-alleanza-replica-30-ottobre-2026",
-      "category": "Politica",
-      "status": "verified",
-      "title": "Meloni e Vannacci si scontrano sull'ipotesi di un'alleanza",
-      "summary": "La premier esclude intese elettorali, mentre il leader di Futuro nazionale replica e lascia aperta una possibilità condizionata.",
-      "body": [
-        "In dichiarazioni anticipate dal libro di Bruno Vespa, Giorgia Meloni ha affermato di voler riproporre l'attuale centrodestra senza alleanze con Roberto Vannacci.",
-        "Vannacci ha risposto criticando la premier e sostenendo che una futura intesa resterebbe possibile soltanto entro le condizioni del suo movimento. Non è stato raggiunto alcun accordo."
-      ],
-      "publishedAt": "2026-10-30T14:31:00+01:00",
-      "verifiedAt": "2026-11-01T05:08:39.798Z",
-      "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com/politica/meloni-vannacci-botta-e-risposta-ultime-notizie_1w1ZZ5jODhfnrc1GQADFHX",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T05:08:39.798Z",
-        "dateEvidence": "Adnkronos, 30 ottobre 2026 ore 14:31, anticipazioni libro Vespa e replica di Vannacci; pagina originale letta il 1 novembre 2026 in mattinata, data di pubblicazione non alterata.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "politica-guerini-aiuti-kiev",
-      "eventKey": "guerini-pd-propone-maggiori-aiuti-militari-ucraina-31-ottobre-2026",
-      "category": "Politica",
-      "status": "verified",
-      "title": "Guerini propone più sostegno militare all'Ucraina in caso di governo Pd",
-      "summary": "L'ex ministro della Difesa critica le forniture dell'esecutivo e indica la necessità di rafforzare la capacità militare europea.",
-      "body": [
-        "Lorenzo Guerini, presidente del Copasir ed esponente del Pd, ha sostenuto che un eventuale futuro governo del suo schieramento dovrebbe inviare più aiuti militari all'Ucraina.",
-        "L'ex ministro ha criticato la politica di forniture dell'esecutivo Meloni e richiamato gli investimenti pluriennali nella difesa. Le sue affermazioni sono posizioni politiche, non nuovi stanziamenti approvati."
-      ],
-      "publishedAt": "2026-10-31T16:09:00+01:00",
-      "verifiedAt": "2026-11-01T05:08:39.798Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/guerini-pdse-al-governo-dovremmo-dare-piu-aiuti-militari-a-kiev-di-quelli_ab200e1d-f6af-498f-9d8e-cf5c8d150444.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T05:08:39.798Z",
-        "dateEvidence": "ANSA, Roma, 31 ottobre 2026 ore 16:09, dichiarazioni nel libro di Vespa; pagina originale letta il 1 novembre 2026 in mattinata, data di pubblicazione non alterata. Lettura gratuita ANSA limitata mensilmente.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "politica-schlein-establishment",
-      "eventKey": "schlein-establishment-autonomia-pd-intervista-vespa-31-ottobre-2026",
-      "category": "Politica",
-      "status": "verified",
-      "title": "Schlein rivendica l'autonomia del Pd e critica parte dell'establishment",
-      "summary": "La segretaria dem sostiene che il partito abbia recuperato un profilo progressista indipendente da pressioni esterne.",
-      "body": [
-        "In un'anticipazione del libro di Bruno Vespa, Elly Schlein ha affermato che una parte dell'establishment italiano non desidera la sinistra al governo.",
-        "Ha rivendicato l'autonomia politica del Partito democratico e la crescita elettorale registrata dopo il suo arrivo alla segreteria. Sono dichiarazioni politiche attribuite alla leader."
-      ],
-      "publishedAt": "2026-10-31T16:06:00+01:00",
-      "verifiedAt": "2026-11-01T05:08:39.798Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/schlein-parte-dellestablishment-non-vuole-la-sinistra-al-governo_08f75907-7083-4b48-8b49-86de1594dbfd.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T05:08:39.798Z",
-        "dateEvidence": "ANSA, Roma, 31 ottobre 2026 ore 16:06, anticipazione libro Vespa; pagina originale letta il 1 novembre 2026 in mattinata, data di pubblicazione non alterata. Lettura gratuita ANSA limitata mensilmente.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "politica-meloni-omaggio-bosnia",
-      "eventKey": "meloni-crosetto-omaggio-quattro-militari-bosnia-circo-massimo-30-ottobre-2026",
-      "category": "Politica",
-      "status": "verified",
-      "title": "Meloni rende omaggio ai quattro militari morti in Bosnia",
-      "summary": "La premier e il ministro Crosetto depongono fiori al Circo Massimo; la Procura militare apre accertamenti sull'incidente.",
-      "body": [
-        "Dopo la caduta di un elicottero militare italiano in Bosnia, Giorgia Meloni e Guido Crosetto hanno reso omaggio ai quattro caduti presso il Villaggio della Difesa a Roma.",
-        "La Procura militare di Roma ha aperto un procedimento conoscitivo per approfondire le circostanze dell'incidente. L'omaggio pubblico è distinto dalle indagini ancora in corso."
-      ],
-      "publishedAt": "2026-10-30T11:06:00+01:00",
-      "verifiedAt": "2026-11-01T05:08:39.798Z",
-      "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com/politica/elicottero-caduto-bosnia-meloni-ricorda-quattro-militari-morti_3R3MlEXFFmcnNrK1vZwaPi",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T05:08:39.798Z",
-        "dateEvidence": "Adnkronos, 30 ottobre 2026 ore 11:06, omaggio a Roma e indagine Procura militare; pagina originale letta il 1 novembre 2026 in mattinata, data di pubblicazione non alterata.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "politica-redditi-parlamentari",
-      "eventKey": "dichiarazioni-redditi-parlamentari-di-giuseppe-lupi-tajani-30-ottobre-2026",
-      "category": "Politica",
-      "status": "verified",
-      "title": "Redditi dei parlamentari, pubblicati nuovi dati sulle dichiarazioni",
-      "summary": "Tra i deputati emergono le cifre di Andrea Di Giuseppe, Maurizio Lupi, Antonio Tajani e altri esponenti.",
-      "body": [
-        "Le dichiarazioni fiscali pubblicate sui siti parlamentari riportano per Andrea Di Giuseppe oltre 3,5 milioni di euro di reddito imponibile, secondo la ricostruzione di Adnkronos.",
-        "La testata confronta anche le cifre comunicate da Lupi, Tajani, Schlein e Fratoianni. Si tratta di redditi dichiarati e non del solo compenso per l'attività parlamentare."
-      ],
-      "publishedAt": "2026-10-30T17:41:00+01:00",
-      "verifiedAt": "2026-11-01T05:08:39.798Z",
-      "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com/politica/parlamento-redditi-deputati-meloni-schlein-conte_6FX8T4brFASJtrvsrG3UGg",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T05:08:39.798Z",
-        "dateEvidence": "Adnkronos, 30 ottobre 2026 ore 17:41, dati dichiarazioni pubblicate sul sito della Camera; pagina originale letta il 1 novembre 2026 in mattinata, data di pubblicazione non alterata.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
     }
   ]
 }
