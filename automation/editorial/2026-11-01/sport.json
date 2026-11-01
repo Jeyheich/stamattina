@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-01",
+  "collectionId": "2026-11-01-mattina",
+  "category": "Sport",
+  "completedAt": "2026-11-01T06:02:22.410Z",
+  "articles": [
+    {
+      "id": "sport-milan-inter-derby-3-1",
+      "eventKey": "milan-batte-inter-3-1-derby-31-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Il Milan batte l'Inter 3-1 e vince il quarto derby consecutivo",
+      "summary": "Pulisic e Rabiot portano avanti i rossoneri; Bastoni accorcia e Moreira firma la rete decisiva su punizione.",
+      "body": [
+        "Il Milan ha superato l'Inter per 3-1 nel derby della decima giornata di Serie A. Pulisic ha segnato al quarto minuto, Rabiot al decimo e Moreira al 43°; per i nerazzurri rete di Bastoni al 22°. La squadra di Amorim ha poi controllato il vantaggio nella ripresa."
+      ],
+      "publishedAt": "2026-10-31T23:05:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:20.105Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-10/milan-inter/risultato-gol",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
+        "dateEvidence": "Sky Sport, cronaca e tabellino completo derby 31 ottobre 2026, riepilogo e pagelle pubblicate alle 23:05.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 92
+    },
+    {
+      "id": "sport-udinese-roma-cinque-due",
+      "eventKey": "roma-vince-udinese-5-2-31-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Roma travolgente a Udine: cinque gol e successo per 5-2",
+      "summary": "I giallorossi segnano quattro reti nel primo tempo, subiscono la reazione friulana e chiudono nel recupero con Ghilardi.",
+      "body": [
+        "La Roma di Gasperini ha vinto 5-2 in trasferta contro l'Udinese. Cristante, Rodrigo Mora, Malen e Ndicka hanno portato il punteggio sul 4-0; Zaniolo e Palma hanno accorciato per i padroni di casa prima del quinto gol di Ghilardi nel recupero."
+      ],
+      "publishedAt": "2026-10-31T20:00:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:20.105Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-10/udinese-roma/risultato-gol",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
+        "dateEvidence": "Sky Sport, live testuale del 31 ottobre 2026, fischio finale alle 19:52 e riepilogo alle 19:59; orario qui arrotondato alle 20:00 non attribuito come ora editoriale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 88
+    },
+    {
+      "id": "sport-bologna-monza-rimonta",
+      "eventKey": "bologna-batte-monza-2-1-rimonta-31-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Bologna, terza vittoria di fila: Monza battuto 2-1 in rimonta",
+      "summary": "Al rigore iniziale di Varela rispondono Pobega e Bernardeschi, quest'ultimo dal dischetto.",
+      "body": [
+        "Il Bologna di Palladino ha rimontato il Monza nella decima giornata: ospiti avanti con il rigore di Gustavo Varela, poi reti di Tommaso Pobega e Federico Bernardeschi, anch'egli su rigore. Per i rossoblù è il terzo successo consecutivo in campionato."
+      ],
+      "publishedAt": "2026-10-31T17:04:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:20.105Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/31/bologna-monza-pagelle",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
+        "dateEvidence": "Sky Sport, articolo completo del 31 ott 2026 ore 17:04, con risultato 2-1, marcatori e terzo successo consecutivo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 79
+    },
+    {
+      "id": "sport-hamilton-pole-messico",
+      "eventKey": "hamilton-pole-ferrari-gp-messico-qualifiche-31-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "F1, Hamilton conquista la pole in Messico davanti a Russell e Leclerc",
+      "summary": "Il pilota Ferrari torna in prima posizione in qualifica dopo tre anni; Antonelli guadagna la quarta casella per la penalità di Verstappen.",
+      "body": [
+        "Lewis Hamilton ha ottenuto la pole position del Gran Premio del Messico. La griglia vede Russell secondo e Leclerc terzo; Kimi Antonelli scatterà quarto, grazie alla retrocessione di una posizione inflitta a Verstappen. La gara è in programma domenica 1° novembre alle 21 italiane."
+      ],
+      "publishedAt": "2026-10-31T23:20:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:20.105Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/formula-1/2026/10/31/formula-1-griglia-di-partenza-gp-messico-2026",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
+        "dateEvidence": "Sky Sport, fotogallery della griglia GP Messico pubblicata il 31 ottobre 2026 alle 23:20; pole Hamilton e ordine di partenza.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 95
+    },
+    {
+      "id": "sport-errani-paolini-finals-tokyo-2026",
+      "eventKey": "errani-paolini-qualificate-wta-finals-semifinale-tokyo-31-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Errani e Paolini conquistano le WTA Finals con la finale a Tokyo",
+      "summary": "La coppia italiana supera Mihalikova e Nicholls 6-4, 6-0, ottenendo il pass per il torneo di fine stagione.",
+      "body": [
+        "Sara Errani e Jasmine Paolini hanno raggiunto la finale del torneo di doppio WTA 500 di Tokyo battendo Tereza Mihalikova e Olivia Nicholls per 6-4, 6-0. Il successo ha garantito alle azzurre la qualificazione alle WTA Finals.",
+        "Per la coppia si tratta della terza partecipazione consecutiva al torneo conclusivo della stagione. A Tokyo affronteranno Dabrowski e Stefani nella finale di domenica; il risultato non era ancora noto al momento della verifica."
+      ],
+      "publishedAt": "2026-10-31T11:45:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:20.105Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/2026/10/31/errani-paolini-wta-tokyo-doppio-risultato-oggi",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
+        "dateEvidence": "Sky Sport, articolo del 31 ott 2026 ore 11:45, con punteggio semifinale e qualificazione alle WTA Finals.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 90,
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sara_Errani_-_Roland-Garros_-_28.05.2024_%28cropped%29.jpg",
+        "alt": "Sara Errani esegue un rovescio al Roland Garros del 2024",
+        "credit": "Kuberzog / Wikimedia Commons",
+        "rights": "CC BY 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sara_Errani_-_Roland-Garros_-_28.05.2024_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "caption": "Sara Errani al Roland Garros 2024, immagine di repertorio: non ritrae il torneo di Tokyo 2026.",
+        "reuseApproved": true
+      }
+    }
+  ]
+}
