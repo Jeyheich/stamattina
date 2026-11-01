@@ -49,7 +49,17 @@
         "dateEvidence": "ANSA, Washington, 1 novembre 2026 ore 01:21, dichiarazioni di Trump riprese da Bloomberg; articolo originale consultato il 1 novembre 2026 alle 06:08-06:09 Europe/Rome; lettura gratuita ANSA soggetta a limite mensile.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 96
+      "leadPriority": 96,
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg",
+        "alt": "Ritratto ufficiale del presidente degli Stati Uniti Donald Trump del gennaio 2025",
+        "credit": "Daniel Torok / Wikimedia Commons",
+        "rights": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "caption": "Donald Trump nel ritratto presidenziale ufficiale del gennaio 2025, immagine di repertorio: non documenta le dichiarazioni del 1° novembre 2026 sull'Iran.",
+        "reuseApproved": true
+      }
     },
     {
       "id": "esteri-polonia-ue-giudici",
