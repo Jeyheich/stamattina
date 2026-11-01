@@ -1,0 +1,1690 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "2026-11-01-mattina",
+  "id": "2026-11-01-batches-ffd2eadc2bd6",
+  "mode": "live",
+  "editionDate": "2026-11-01",
+  "generatedAt": "2026-11-01T06:17:42.739Z",
+  "timezone": "Europe/Rome",
+  "scheduledFor": "2026-11-01T09:00:00+01:00",
+  "essentialIds": [
+    "politica-difesa-manovra-riserva-caccia",
+    "esteri-trump-iran-pickaxe",
+    "roma-carcaterra-rettore",
+    "sport-errani-paolini-finals-tokyo-2026",
+    "economia-borsa-milano-30-ottobre"
+  ],
+  "leadIds": [
+    "politica-difesa-manovra-riserva-caccia",
+    "esteri-trump-iran-pickaxe",
+    "roma-carcaterra-rettore",
+    "sport-errani-paolini-finals-tokyo-2026",
+    "economia-borsa-milano-30-ottobre"
+  ],
+  "compactIds": [
+    "politica-conte-condizioni-renzi",
+    "politica-ipsos-fdi-vannacci",
+    "politica-mattarella-giovani-comunita",
+    "politica-salvini-banche-contributo",
+    "esteri-centrafrica-touadera-tentativo-golpe",
+    "esteri-polonia-ue-giudici",
+    "esteri-haiti-salvador-tabarre",
+    "esteri-texas-voto-anticipato",
+    "economia-binance-ripristino-90",
+    "economia-ita-esuberi-226",
+    "economia-benzina-mimit-2011",
+    "economia-inflazione-ottobre-54",
+    "cronaca-castro-volsci-accoltellamento",
+    "cronaca-acri-bambino-balcone",
+    "cronaca-digos-perquisizioni-cortei",
+    "cronaca-lucca-monossido-famiglia",
+    "cronaca-torremaggiore-esplosione-ticket",
+    "roma-colosseo-sicurezza",
+    "roma-cortei-denunce",
+    "roma-ostia-antidroga",
+    "roma-corsa-santi",
+    "cultura-one-piece-lucca",
+    "cultura-impero-sensi-restauro",
+    "cultura-denitza-boheme-rsa",
+    "cultura-bagutta-centenario",
+    "cultura-rondi-cinema-fellini",
+    "tecnologia-ue-social-minori-stop",
+    "tecnologia-google-home-matter-energia",
+    "tecnologia-reddit-login-scraping",
+    "tecnologia-sony-brevetti-vr-meta",
+    "tecnologia-rocket-league-one-piece-evento",
+    "sport-milan-inter-derby-3-1",
+    "sport-udinese-roma-cinque-due",
+    "sport-bologna-monza-rimonta",
+    "sport-hamilton-pole-messico"
+  ],
+  "articles": [
+    {
+      "id": "politica-difesa-manovra-riserva-caccia",
+      "eventKey": "governo-manovra-difesa-riserva-militare-caccia-sesta-generazione-31-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Difesa, nella manovra risorse per missioni e caccia di nuova generazione",
+      "summary": "La maggioranza cerca una linea comune sulla sicurezza: il disegno di bilancio prevede investimenti militari e una riserva da costituire.",
+      "body": [
+        "Il progetto di legge di bilancio del governo comprende il rafforzamento degli organici, una riserva militare e fondi per tecnologie di difesa, incluso il programma del caccia di sesta generazione con Regno Unito e Giappone.",
+        "Secondo la ricostruzione pubblicata il 31 ottobre, la manovra aggiunge oltre 1,3 miliardi per le missioni all'estero. Le misure sono ancora nell'iter parlamentare e non sono leggi già approvate."
+      ],
+      "publishedAt": "2026-10-31T20:10:00+01:00",
+      "verifiedAt": "2026-11-01T05:08:08.175Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/su-difesa-e-sicurezza-linea-comune-nella-manovra-i-para-a-milano-fino-a-marzo_468492f1-e0c1-45a9-a32b-d93c7fec981f.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:08:08.175Z",
+        "dateEvidence": "ANSA, Roma, 31 ottobre 2026 ore 20:10, firma Valentina Brini; articolo originale letto integralmente il 1 novembre 2026 alle 06:08 Europe/Rome; ANSA consente un numero limitato di letture gratuite.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 98,
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Palazzo_Chigi_Roma_giugno_2024.jpg",
+        "alt": "Facciata di Palazzo Chigi a Roma, sede del governo",
+        "credit": "Sergio D’Afflitto / Wikimedia Commons",
+        "rights": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Chigi_Roma_giugno_2024.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "caption": "Palazzo Chigi a Roma in una fotografia di repertorio del 23 giugno 2024: non documenta l'annuncio delle misure sulla Difesa.",
+        "reuseApproved": true
+      }
+    },
+    {
+      "id": "politica-conte-condizioni-renzi",
+      "eventKey": "conte-chiede-garanzie-su-renzi-e-reddito-cittadinanza-al-tavolo-31-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Conte chiede garanzie su Renzi e riapre il tema del reddito di cittadinanza",
+      "summary": "Il leader M5S fissa condizioni politiche per una futura coalizione e annuncia proposte ai tavoli programmatici.",
+      "body": [
+        "Giuseppe Conte, intervenendo il 31 ottobre ad Accordi e disaccordi, ha chiesto garanzie sulla tenuta di una possibile alleanza che comprenda Matteo Renzi, ritenendola politicamente costosa per il M5S.",
+        "Ha annunciato che il Movimento porterà ai tavoli del centrosinistra anche il reddito di cittadinanza e proposte sulla fiscalità. Le primarie restano previste entro febbraio, senza un candidato unico già definito."
+      ],
+      "publishedAt": "2026-10-31T20:15:00+01:00",
+      "verifiedAt": "2026-11-01T05:08:08.175Z",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/politica/conte-schlein-centrosinistra-campo-largo-ultime-news_4pVZ9L4Key11m7agPmSr4g",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:08:08.175Z",
+        "dateEvidence": "Adnkronos, 31 ottobre 2026 ore 20:15, firma Giuseppe Greco; articolo originale letto integralmente il 1 novembre 2026 alle 06:08 Europe/Rome; ANSA consente un numero limitato di letture gratuite.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 96
+    },
+    {
+      "id": "politica-ipsos-fdi-vannacci",
+      "eventKey": "sondaggio-ipsos-31-ottobre-2026-fdi-26-7-vannacci-7-9",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Sondaggio Ipsos: FdI al 26,7%, Futuro nazionale al 7,9%",
+      "summary": "La rilevazione pubblicata il 31 ottobre segnala un calo per Vannacci e Forza Italia, con lievi rialzi per Lega e Pd.",
+      "body": [
+        "Secondo Ipsos Doxa per il Corriere della Sera, Fratelli d'Italia è stimato al 26,7%, la Lega al 5,6% e Forza Italia al 6,3%. Futuro nazionale di Roberto Vannacci passa dall'8,8% al 7,9%.",
+        "Il Partito democratico è stimato al 19,9% e il Movimento 5 Stelle al 14,9%. Sono intenzioni di voto rilevate da un sondaggio, non risultati elettorali."
+      ],
+      "publishedAt": "2026-10-31T16:23:00+01:00",
+      "verifiedAt": "2026-11-01T05:08:08.175Z",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/politica/sondaggio-politico-oggi-ipsos-corsera-vannacci_3iGXD1zqrvb1HqUJow2HNn",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:08:08.175Z",
+        "dateEvidence": "Adnkronos, 31 ottobre 2026 ore 16:23; sondaggio Ipsos Doxa per Corriere della Sera; articolo originale letto integralmente il 1 novembre 2026 alle 06:08 Europe/Rome; ANSA consente un numero limitato di letture gratuite.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 92
+    },
+    {
+      "id": "politica-mattarella-giovani-comunita",
+      "eventKey": "mattarella-villa-nazareth-ottantesimo-giovani-comunita-31-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Mattarella invita i giovani a costruire il futuro e rafforzare la comunità",
+      "summary": "Al Quirinale il presidente richiama solidarietà e responsabilità delle nuove generazioni in un contesto internazionale incerto.",
+      "body": [
+        "Ricevendo gli studenti del collegio universitario Villa Nazareth per gli ottant'anni della fondazione, Sergio Mattarella ha parlato di una fase internazionale complessa e imprevedibile.",
+        "Il presidente ha insistito sulla possibilità di costruire il futuro attraverso le scelte collettive e sul valore concreto della solidarietà e del senso di comunità."
+      ],
+      "publishedAt": "2026-10-31T17:56:00+01:00",
+      "verifiedAt": "2026-11-01T05:08:08.175Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/mattarella-in-tempi-non-facili-il-futuro-va-disegnato-dai-giovani_15b6b292-fbc5-4699-ab1f-95d53ebd6047.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:08:08.175Z",
+        "dateEvidence": "ANSA, Roma, 31 ottobre 2026 ore 17:56, incontro al Quirinale con Villa Nazareth; articolo originale letto integralmente il 1 novembre 2026 alle 06:08 Europe/Rome; ANSA consente un numero limitato di letture gratuite.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 87
+    },
+    {
+      "id": "politica-salvini-banche-contributo",
+      "eventKey": "salvini-parlamento-contributo-banche-oltre-cinque-miliardi-31-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Salvini apre a un contributo bancario maggiore deciso dal Parlamento",
+      "summary": "Il vicepremier sostiene che le Camere potrebbero incrementare le somme richieste agli istituti nella legge di bilancio.",
+      "body": [
+        "A un gazebo della Lega a Ponte Milvio, Matteo Salvini ha ricordato che il disegno di bilancio già prevede un contributo del settore bancario superiore a cinque miliardi di euro.",
+        "Il vicepremier ha affermato che il Parlamento potrebbe scegliere di chiedere ulteriori risorse, da destinare secondo la sua posizione a famiglie, lavoratori e pensionati. Non si tratta di un emendamento già approvato."
+      ],
+      "publishedAt": "2026-10-31T18:30:00+01:00",
+      "verifiedAt": "2026-11-01T05:08:08.175Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/salvini-se-il-parlamento-vuole-un-contributo-maggiore-dalle-banche-e-sovrano_9639469c-8c6e-405c-9c2e-0d1b50371871.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:08:08.175Z",
+        "dateEvidence": "ANSA, Roma, 31 ottobre 2026 ore 18:30, dichiarazioni a Ponte Milvio; articolo originale letto integralmente il 1 novembre 2026 alle 06:08 Europe/Rome; ANSA consente un numero limitato di letture gratuite.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 83
+    },
+    {
+      "id": "esteri-centrafrica-touadera-tentativo-golpe",
+      "eventKey": "repubblica-centrafricana-touadera-riferisce-tentativo-presa-potere-sventato-1-novembre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Centrafrica, Touadéra riferisce di un tentativo di presa del potere sventato",
+      "summary": "Il presidente attribuisce alle forze nazionali, con il sostegno di istruttori russi, la protezione delle istituzioni e del voto.",
+      "body": [
+        "Faustin-Archange Touadéra ha dichiarato all'agenzia Tass che l'esercito della Repubblica Centrafricana ha impedito a miliziani di conquistare il potere con la forza.",
+        "Il presidente ha citato il sostegno degli istruttori russi e ha affermato che le forze di sicurezza hanno garantito lo svolgimento delle elezioni generali. Si tratta di dichiarazioni attribuite a Touadéra, non di una verifica indipendente dell'episodio."
+      ],
+      "publishedAt": "2026-11-01T05:04:00+01:00",
+      "verifiedAt": "2026-11-01T05:08:22.947Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/01/repubblica-centrafricana-esercito-sventa-tentativo-di-presa-del-potere-dei-miliziani_7fa3dcd8-47bc-42b0-ba2e-cd891cc69c0a.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:08:22.947Z",
+        "dateEvidence": "ANSA, Roma, 1 novembre 2026 ore 05:04, intervista del presidente Touadéra a Tass; articolo originale consultato il 1 novembre 2026 alle 06:08-06:09 Europe/Rome; lettura gratuita ANSA soggetta a limite mensile.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 98
+    },
+    {
+      "id": "esteri-trump-iran-pickaxe",
+      "eventKey": "trump-iran-negoziato-pickaxe-mountain-dichiarazioni-1-novembre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Trump parla di un possibile accordo con l'Iran ma cita ancora siti da affrontare",
+      "summary": "Il presidente statunitense sostiene che Teheran voglia negoziare e menziona Pickaxe Mountain, senza annunciare un'intesa.",
+      "body": [
+        "Donald Trump ha affermato che l'Iran vorrebbe raggiungere un accordo e che Washington non avrebbe fretta di definirlo.",
+        "Nelle dichiarazioni riportate da Bloomberg e riprese da ANSA ha aggiunto che resterebbero uno o due siti di cui occuparsi, citando Pickaxe Mountain. Non è un annuncio di un attacco già compiuto né di un accordo concluso."
+      ],
+      "publishedAt": "2026-11-01T01:21:00+01:00",
+      "verifiedAt": "2026-11-01T05:08:22.947Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/01/trump-non-abbiamo-fretta-sulliran-abbiamo-uno-o-due-siti-di-cui_ae010ee2-bd06-4f80-8ac8-24cf1ebc3e3e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:08:22.947Z",
+        "dateEvidence": "ANSA, Washington, 1 novembre 2026 ore 01:21, dichiarazioni di Trump riprese da Bloomberg; articolo originale consultato il 1 novembre 2026 alle 06:08-06:09 Europe/Rome; lettura gratuita ANSA soggetta a limite mensile.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 96,
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg",
+        "alt": "Ritratto ufficiale del presidente degli Stati Uniti Donald Trump del gennaio 2025",
+        "credit": "Daniel Torok / Wikimedia Commons",
+        "rights": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "caption": "Donald Trump nel ritratto presidenziale ufficiale del gennaio 2025, immagine di repertorio: non documenta le dichiarazioni del 1° novembre 2026 sull'Iran.",
+        "reuseApproved": true
+      }
+    },
+    {
+      "id": "esteri-polonia-ue-giudici",
+      "eventKey": "commissione-europea-chiede-polonia-ratifica-otto-giudici-31-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "La Commissione UE sollecita la ratifica di otto giudici in Polonia",
+      "summary": "Bruxelles interviene nella crisi istituzionale dopo il rifiuto del presidente Nawrocki di convalidare le nomine.",
+      "body": [
+        "La Commissione europea ha invitato il presidente polacco Karol Nawrocki a convalidare le nomine di otto giudici del Tribunale costituzionale.",
+        "Bruxelles ha ricordato che la designazione compete alla camera bassa del Parlamento, il Sejm, e ha chiesto il rispetto della Costituzione e della giurisprudenza europea. L'appello segue consultazioni fra le forze politiche."
+      ],
+      "publishedAt": "2026-10-31T22:19:00+01:00",
+      "verifiedAt": "2026-11-01T05:08:22.947Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/31/commissione-ue-presidente-polonia-convalidi-la-nomina-dei-nuovi-giudici_81b7aa42-d075-48ed-a709-a9590721fbe8.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:08:22.947Z",
+        "dateEvidence": "ANSA-AFP, Bruxelles, 31 ottobre 2026 ore 22:19, dichiarazioni del portavoce Commissione UE; articolo originale consultato il 1 novembre 2026 alle 06:08-06:09 Europe/Rome; lettura gratuita ANSA soggetta a limite mensile.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 93
+    },
+    {
+      "id": "esteri-haiti-salvador-tabarre",
+      "eventKey": "el-salvador-truppe-haiti-base-tabarre-pattugliamenti-31-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Haiti, truppe salvadoregne avviano pattugliamenti da una base a Tabarre",
+      "summary": "La presenza militare del Salvador si concentra nei pressi dell'ambasciata statunitense e delle zone più instabili di Port-au-Prince.",
+      "body": [
+        "Le forze di El Salvador hanno stabilito una base a Tabarre, nell'area della capitale haitiana vicina all'ambasciata degli Stati Uniti.",
+        "Dalla nuova struttura i militari coordinano la logistica e hanno iniziato pattugliamenti nelle strade di Port-au-Prince. La notizia riguarda un dispiegamento in corso, non la conclusione della crisi di sicurezza."
+      ],
+      "publishedAt": "2026-10-31T19:08:00+01:00",
+      "verifiedAt": "2026-11-01T05:08:22.947Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/31/el-salvador-avvia-i-pattugliamenti-ad-haiti-nuova-base-a-tabarre_4d27e38e-26a0-498c-aa0f-a594c4eb7689.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:08:22.947Z",
+        "dateEvidence": "ANSA, Port-au-Prince, 31 ottobre 2026 ore 19:08, nuova base e pattugliamenti; articolo originale consultato il 1 novembre 2026 alle 06:08-06:09 Europe/Rome; lettura gratuita ANSA soggetta a limite mensile.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 90
+    },
+    {
+      "id": "esteri-texas-voto-anticipato",
+      "eventKey": "texas-voto-anticipato-7-milioni-500mila-midterm-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Midterm USA, in Texas 7,5 milioni di voti anticipati",
+      "summary": "La partecipazione prima dell'Election Day raggiunge secondo ANSA il 39% degli iscritti nelle liste dello Stato.",
+      "body": [
+        "In Texas circa 7,5 milioni di persone hanno già votato per le elezioni statunitensi di metà mandato del 2026, un numero indicato come record.",
+        "La quota corrisponde al 39% degli elettori registrati. Il dato misura l'affluenza anticipata, non indica l'esito del voto né il partito favorito."
+      ],
+      "publishedAt": "2026-11-01T01:51:00+01:00",
+      "verifiedAt": "2026-11-01T05:08:22.947Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/in-texas-hanno-gia-votato-75-milioni-di-elettori-e-record_e6d6a7cf-92b9-4b51-b23d-48e4620cca73.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:08:22.947Z",
+        "dateEvidence": "ANSA, Washington, 1 novembre 2026 ore 01:51, cifra 7,5 milioni e quota 39%; articolo originale consultato il 1 novembre 2026 alle 06:08-06:09 Europe/Rome; lettura gratuita ANSA soggetta a limite mensile.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 88
+    },
+    {
+      "id": "economia-binance-ripristino-90",
+      "eventKey": "binance-ripristina-90-percento-fondi-attacco-31-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Binance ripristina il 90% degli asset dopo l'attacco",
+      "summary": "L'exchange dichiara di aver reintegrato il 90% del valore sottratto nell'attacco da 6,3 miliardi di dollari.",
+      "body": [
+        "Binance ha comunicato il ripristino del 90% degli asset sottratti nell'attacco informatico che, secondo la società, ha interessato fondi per 6,3 miliardi di dollari.",
+        "Il restante 10% riguarda token meno liquidi; l'azienda sostiene che coprirà le perdite con risorse proprie e fondi di garanzia, senza trasferirle agli utenti."
+      ],
+      "publishedAt": "2026-10-31T18:26:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:30.409Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/binance-reintegra-il-90-degli-asset-sottratti-con-lattacco-informatico_1a566090-636a-40c0-b28a-c8f8cee8e873.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:30.409Z",
+        "dateEvidence": "Articolo originale ANSA consultato integralmente il 1 novembre 2026; la pagina indica la pubblicazione 2026-10-31T18:26:00+01:00, mantenuta senza aggiornamenti fittizi.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-ita-esuberi-226",
+      "eventKey": "ita-airways-procedura-226-esuberi-31-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Ita Airways avvia la procedura per 226 esuberi",
+      "summary": "La comunicazione riguarda 10 piloti, 90 assistenti di volo e 126 addetti di terra.",
+      "body": [
+        "Ita Airways ha comunicato ai ministeri e ai sindacati l'avvio di una procedura per 226 esuberi strutturali, il 4,3% dei 5.269 dipendenti indicati dalla compagnia.",
+        "La società cita soprattutto il caro carburante e l'automazione. L'apertura della procedura non equivale a licenziamenti già eseguiti; le prime uscite sono previste entro dicembre."
+      ],
+      "publishedAt": "2026-10-31T06:30:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:30.409Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/31/ita-airways-licenziamenti-esuberi",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:30.409Z",
+        "dateEvidence": "Articolo originale Sky TG24 consultato integralmente il 1 novembre 2026; la pagina indica la pubblicazione 2026-10-31T06:30:00+01:00, mantenuta senza aggiornamenti fittizi.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-benzina-mimit-2011",
+      "eventKey": "mimit-benzina-self-2-011-gasolio-2-242-31-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Carburanti, il Mimit segnala una lieve discesa dei prezzi",
+      "summary": "Benzina self a 2,011 euro al litro e gasolio a 2,242 sulla rete stradale nazionale.",
+      "body": [
+        "Il ministero delle Imprese comunica prezzi medi self service del 31 ottobre di 2,011 euro al litro per la benzina e 2,242 per il gasolio, contro 2,012 e 2,248 del giorno precedente.",
+        "In autostrada il prezzo medio è 2,036 euro per la benzina e 2,288 per il gasolio: una variazione minima, non un ribasso strutturale."
+      ],
+      "publishedAt": "2026-10-31T11:03:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:30.409Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/mimit-i-prezzi-dri-carburanti-sono-in-lieve-calo-benzina-self-a-2011_c2d9b2b1-803b-4e10-8c48-641c6c8c7694.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:30.409Z",
+        "dateEvidence": "Articolo originale ANSA consultato integralmente il 1 novembre 2026; la pagina indica la pubblicazione 2026-10-31T11:03:00+01:00, mantenuta senza aggiornamenti fittizi.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-inflazione-ottobre-54",
+      "eventKey": "istat-inflazione-ottobre-2026-5-4",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Inflazione italiana al 5,4% nella stima di ottobre",
+      "summary": "L'Istat registra un'accelerazione dei prezzi, con forti rincari energetici e crescita trimestrale del Pil ferma.",
+      "body": [
+        "La stima preliminare dell'Istat colloca l'inflazione italiana di ottobre al 5,4% annuo, dal 4,2% di settembre; i prezzi energetici aumentano del 31,4% e quelli dei prodotti alimentari freschi del 7,5%.",
+        "Nel terzo trimestre il Pil italiano non cresce rispetto ai tre mesi precedenti. L'aumento dei salari contrattuali resta inferiore all'inflazione, con ricadute sul potere d'acquisto."
+      ],
+      "publishedAt": "2026-10-30T21:03:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:30.409Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/il-caro-energia-fa-danni-vola-linflazione-e-la-crescita-si-ferma_6ea6c523-9671-4e3d-b1df-e2cfbfa1e6fd.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:30.409Z",
+        "dateEvidence": "Articolo originale ANSA consultato integralmente il 1 novembre 2026; la pagina indica la pubblicazione 2026-10-30T21:03:00+01:00, mantenuta senza aggiornamenti fittizi.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-borsa-milano-30-ottobre",
+      "eventKey": "borsa-milano-ftse-mib-chiusura-30-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Piazza Affari chiude l'ultima seduta di ottobre in calo dell'1%",
+      "summary": "Il Ftse Mib termina venerdì 30 ottobre a 49.500 punti; il dato resta quello della seduta precedente al fine settimana.",
+      "body": [
+        "La Borsa di Milano ha concluso la seduta di venerdì 30 ottobre con il Ftse Mib in ribasso dell'1%, a quota 49.500 punti.",
+        "La chiusura non è una quotazione di domenica 1 novembre: i mercati azionari italiani sono chiusi durante il fine settimana."
+      ],
+      "publishedAt": "2026-10-30T17:39:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:30.409Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/borsa-milano-chiude-in-calo-ftse-mib-1_7a5244d8-18d8-477f-a5b6-e9adeada0120.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:30.409Z",
+        "dateEvidence": "Articolo originale ANSA consultato integralmente il 1 novembre 2026; la pagina indica la pubblicazione 2026-10-30T17:39:00+01:00, mantenuta senza aggiornamenti fittizi.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 85,
+      "image": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Palais_Mezzanotte_-_Milan_%28IT25%29_-_2022-09-03_-_3.jpg/960px-Palais_Mezzanotte_-_Milan_%28IT25%29_-_2022-09-03_-_3.jpg",
+        "alt": "Facciata di Palazzo Mezzanotte, sede della Borsa italiana a Milano",
+        "credit": "Chabe01 / Wikimedia Commons",
+        "rights": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palais_Mezzanotte_-_Milan_(IT25)_-_2022-09-03_-_3.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "caption": "Immagine di repertorio: Palazzo Mezzanotte a Milano, fotografato nel settembre 2022; non documenta la seduta del 30 ottobre 2026.",
+        "reuseApproved": true
+      }
+    },
+    {
+      "id": "cronaca-castro-volsci-accoltellamento",
+      "eventKey": "castro-dei-volsci-lite-stazione-uomo-morto-31-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Lite vicino alla stazione nel Frusinate: morto un uomo di 48 anni",
+      "summary": "L'aggressione con un coltello è avvenuta a Castro dei Volsci; i carabinieri hanno fermato una persona.",
+      "body": [
+        "Un uomo di 48 anni è morto dopo essere stato ferito con colpi di coltello durante una lite nei pressi del bar della stazione ferroviaria di Castro dei Volsci, in provincia di Frosinone.",
+        "Era stato richiesto un trasferimento in elicottero, ma l'uomo è deceduto. Una persona è stata fermata e sono in corso accertamenti sulla dinamica."
+      ],
+      "publishedAt": "2026-10-31T23:08:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:30.409Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/31/frusinate-lite-morto",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:30.409Z",
+        "dateEvidence": "Articolo originale Sky TG24 consultato integralmente il 1 novembre 2026; la pagina indica la pubblicazione 2026-10-31T23:08:00+01:00, mantenuta senza aggiornamenti fittizi.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-acri-bambino-balcone",
+      "eventKey": "acri-cosenza-bambino-cinque-anni-caduta-balcone-31-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Acri, bambino di cinque anni cade dal secondo piano",
+      "summary": "Il piccolo è stato trasferito in elisoccorso a Cosenza; le sue condizioni sono gravi.",
+      "body": [
+        "Un bambino di cinque anni è caduto dal secondo piano di un edificio ad Acri, nel Cosentino. Dopo le prime cure nell'ospedale cittadino, è stato trasferito all'Annunziata di Cosenza.",
+        "Le forze dell'ordine stanno ricostruendo le circostanze. Secondo le prime informazioni si tratterebbe di una caduta accidentale, ma gli accertamenti sono ancora in corso."
+      ],
+      "publishedAt": "2026-10-31T20:03:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:30.409Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/31/cosentino-bimbo-cade-da-balcone-grave",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:30.409Z",
+        "dateEvidence": "Articolo originale Sky TG24 consultato integralmente il 1 novembre 2026; la pagina indica la pubblicazione 2026-10-31T20:03:00+01:00, mantenuta senza aggiornamenti fittizi.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-digos-perquisizioni-cortei",
+      "eventKey": "digos-polizia-postale-60-perquisizioni-23-citta-31-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Cortei, 60 perquisizioni in 23 città dopo gli appelli alla violenza",
+      "summary": "L'operazione di Digos e Polizia postale riguarda messaggi pubblicati in chat e sui social.",
+      "body": [
+        "Le forze di polizia hanno eseguito 60 perquisizioni in 23 città italiane nell'ambito di accertamenti su incitamenti alla violenza nelle manifestazioni.",
+        "Le verifiche sono seguite ai cortei e agli episodi di tensione dei giorni precedenti. Le perquisizioni non equivalgono a condanne e gli accertamenti proseguono."
+      ],
+      "publishedAt": "2026-10-31T10:14:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:30.409Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/31/cortei-perquisizioni-news-oggi",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:30.409Z",
+        "dateEvidence": "Articolo originale Sky TG24 consultato integralmente il 1 novembre 2026; la pagina indica la pubblicazione 2026-10-31T10:14:00+01:00, mantenuta senza aggiornamenti fittizi.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-lucca-monossido-famiglia",
+      "eventKey": "ponte-a-moriano-famiglia-intossicata-monossido-31-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Lucca, quattro familiari ricoverati per monossido di carbonio",
+      "summary": "Tra gli intossicati ci sono due bambini di uno e tre anni; trasferimento a Pisa per il trattamento iperbarico.",
+      "body": [
+        "A Ponte a Moriano una coppia e i due figli piccoli hanno accusato malori nella notte e sono stati soccorsi dal 118 e dai vigili del fuoco.",
+        "Dopo la prima valutazione in ospedale a Lucca, tutti e quattro sono stati trasferiti al Santa Chiara di Pisa per il trattamento in camera iperbarica. Le cause delle esalazioni sono ancora in accertamento."
+      ],
+      "publishedAt": "2026-10-31T09:04:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:30.409Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/31/famiglia-bimbi-piccoli-intossicata-monossido-lucca",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:30.409Z",
+        "dateEvidence": "Articolo originale Sky TG24 consultato integralmente il 1 novembre 2026; la pagina indica la pubblicazione 2026-10-31T09:04:00+01:00, mantenuta senza aggiornamenti fittizi.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-torremaggiore-esplosione-ticket",
+      "eventKey": "torremaggiore-esplosione-cassa-ticket-sanitari-31-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Torremaggiore, esplosione danneggia il presidio sanitario",
+      "summary": "Distrutta una cassa automatica per i ticket; indagini sulle cause e disagi per i servizi.",
+      "body": [
+        "Una deflagrazione avvenuta intorno alle cinque del mattino ha distrutto la cassa automatica dei ticket nel presidio sanitario di Torremaggiore, in provincia di Foggia.",
+        "I carabinieri e gli artificieri verificano la natura dell'esplosione e se sia stato asportato denaro. La struttura ha subito danni e sono previste difficoltà nell'erogazione dei servizi."
+      ],
+      "publishedAt": "2026-10-31T09:11:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:30.409Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/31/foggia-esplosione-cassa-ticket",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:30.409Z",
+        "dateEvidence": "Articolo originale Sky TG24 consultato integralmente il 1 novembre 2026; la pagina indica la pubblicazione 2026-10-31T09:11:00+01:00, mantenuta senza aggiornamenti fittizi.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-carcaterra-rettore",
+      "eventKey": "sapienza-roma-carcaterra-eletto-rettore-30-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Carcaterra eletto rettore della Sapienza dopo il ballottaggio",
+      "summary": "Il docente di Ingegneria succede ad Antonella Polimeni alla guida dell'ateneo romano.",
+      "body": [
+        "Antonio Carcaterra, ordinario di Meccanica applicata alle macchine, è stato eletto rettore della Sapienza, superando Fabio Lucidi. L'esito è stato annunciato il 30 ottobre.",
+        "Secondo i risultati riportati da ANSA, ha ottenuto 1.920 preferenze dei docenti e 304 degli studenti. Il nuovo rettore subentra ad Antonella Polimeni."
+      ],
+      "publishedAt": "2026-10-30T16:04:00+01:00",
+      "verifiedAt": "2026-11-01T06:16:55Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/30/il-professor-antonio-carcaterra-e-il-nuovo-rettore-della-sapienza-di-roma_f870953c-9727-4b39-bc41-915846197016.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:16:55Z",
+        "dateEvidence": "ANSA Lazio: 30 ottobre 2026 ore 16:04, indicazione esplicita nell'articolo; articolo originale consultato il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 90,
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Sede_Sapienza.jpeg",
+        "alt": "Sede centrale della Sapienza di Roma a piazzale Aldo Moro",
+        "credit": "Carlo Dani / Wikimedia Commons",
+        "rights": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sede_Sapienza.jpeg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "caption": "Repertorio: sede della Sapienza fotografata nel 2016, non la votazione del rettore.",
+        "reuseApproved": true
+      }
+    },
+    {
+      "id": "roma-colosseo-sicurezza",
+      "eventKey": "colosseo-stop-subappalti-edilizia-acrobatica-31-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Colosseo, accordo per fermare subappalti e lavori su funi",
+      "summary": "Dopo la morte di un operaio cambiano le modalità degli interventi nel parco archeologico.",
+      "body": [
+        "Il ministero della Cultura e i sindacati hanno raggiunto un'intesa sulle modalità di lavoro al Parco archeologico del Colosseo. La Cgil annuncia lo stop ai subappalti e all'edilizia acrobatica.",
+        "L'accordo segue la morte di Andrea Moretti, operaio di 22 anni precipitato durante lavori all'illuminazione. La ripresa degli interventi è prevista il 3 novembre; i sindacati chiedono di estendere le tutele ad altri siti."
+      ],
+      "publishedAt": "2026-10-31T17:15:00+01:00",
+      "verifiedAt": "2026-11-01T06:16:55Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/al-colosseo-cambiano-le-regole-dopo-la-morte-delloperaio-stop-ai-subappalti_889df092-47c3-4165-adb5-50b0556a4df6.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:16:55Z",
+        "dateEvidence": "ANSA Cronaca: 31 ottobre 2026 ore 17:15, data mostrata nella fonte; articolo originale consultato il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-cortei-denunce",
+      "eventKey": "roma-cortei-sette-denunciati-369-identificati-31-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Cortei a Roma, sette denunciati e 369 persone identificate",
+      "summary": "La Questura esamina anche eventuali provvedimenti amministrativi dopo le tensioni.",
+      "body": [
+        "Dopo le manifestazioni del 30 ottobre a Roma, la polizia ha comunicato sette denunce e 369 identificazioni. Le contestazioni riguardano, secondo le singole posizioni, resistenza, travisamento, oggetti atti a offendere e blocco stradale.",
+        "Sono ancora al vaglio eventuali responsabilità e misure amministrative, tra cui fogli di via per persone non residenti. Le denunce non equivalgono a condanne."
+      ],
+      "publishedAt": "2026-10-31T20:53:00+01:00",
+      "verifiedAt": "2026-11-01T06:16:55Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/31/cortei-a-roma-sette-denunciati-e-369-identificati_f4581e01-9d52-497d-bd01-702f23993f4e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:16:55Z",
+        "dateEvidence": "ANSA Lazio: 31 ottobre 2026 ore 20:53, data riportata nella pagina; articolo originale consultato il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-ostia-antidroga",
+      "eventKey": "roma-ostia-castel-fusano-venti-arresti-droga-31-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Ostia e Castel Fusano, venti arresti nell'operazione antidroga",
+      "summary": "I carabinieri hanno trovato sostanze stupefacenti anche in nascondigli nel verde.",
+      "body": [
+        "Una serie di controlli dei carabinieri coordinati dalla Procura di Roma ha portato a venti arresti nell'area di Ostia, Castel Fusano e Acilia. Le persone coinvolte sono indiziate a vario titolo di reati legati agli stupefacenti.",
+        "Tra i sequestri descritti da Canale Dieci figurano 564 grammi di cocaina nascosti in una fioriera interrata a Castel Fusano e circa mezzo chilo di hashish intercettato a Ostia Antica. Resta ferma la presunzione di innocenza."
+      ],
+      "publishedAt": "2026-10-31",
+      "verifiedAt": "2026-11-01T06:16:55Z",
+      "source": {
+        "name": "Canale Dieci",
+        "url": "https://canaledieci.it/2026/10/31/droga-tra-i-pini-di-castel-fusano-e-ostia-antica-maxi-operazione-dellarma-ventisette-panetti-e-cocaina-interrata/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:16:55Z",
+        "dateEvidence": "Canale Dieci: sabato 31 ottobre 2026, pagina originale senza ora pubblicata; articolo originale consultato il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-corsa-santi",
+      "eventKey": "roma-corsa-dei-santi-1-novembre-2026-chiusure",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Corsa dei Santi, modifiche alla viabilità nel centro di Roma",
+      "summary": "Cinquemila partecipanti attesi; la gara tocca Prati, Vaticano e centro storico.",
+      "body": [
+        "Domenica 1° novembre si svolge la diciottesima Corsa dei Santi, con partenza alle 8:15 da piazza Papa Pio XII. Roma Servizi per la Mobilità indica circa cinquemila partecipanti e due percorsi, di 10 e 19,5 chilometri.",
+        "Dalle 6 sono previste chiusure nella zona di San Pietro e divieti di sosta su numerose strade. Le limitazioni possono interessare anche il centro e Prati durante il passaggio degli atleti."
+      ],
+      "publishedAt": "2026-10-27",
+      "verifiedAt": "2026-11-01T06:16:55Z",
+      "source": {
+        "name": "Roma Servizi per la Mobilità",
+        "url": "https://romamobilita.it/infomobilita/domenica-la-corsa-dei-santi-le-misure-di-viabilita/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:16:55Z",
+        "dateEvidence": "Roma Mobilità: pubblicato 27 ottobre 2026, aggiornato 29 ottobre; evento 1 novembre; articolo originale consultato il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-one-piece-lucca",
+      "eventKey": "one-piece-wa-anteprima-lucca-italia2-31-ottobre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "One Piece a Lucca: due episodi in anteprima prima della TV",
+      "summary": "L'anime arriva il 2 novembre in prima serata su Italia 2 e in streaming su Mediaset Infinity.",
+      "body": [
+        "Al Lucca Comics & Games sono stati presentati due episodi inediti doppiati in italiano di One Piece, la serie animata tratta dal manga di Eiichiro Oda. La proiezione ha coinvolto il pubblico del Cinema Centrale.",
+        "Gli episodi della Saga del Paese di Wa sono annunciati per lunedì 2 novembre su Mediaset Italia 2 e sulla piattaforma Mediaset Infinity."
+      ],
+      "publishedAt": "2026-10-31T19:11:00+01:00",
+      "verifiedAt": "2026-11-01T06:17:15Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/10/31/one-piece-lanime-di-culto-in-anteprima-a-lucca-comics-e-poi-su-mediaset-italia_665481e0-3b8d-4cc2-b06b-cea9ee2ee2c0.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:17:15Z",
+        "dateEvidence": "ANSA TV, 31 ottobre 2026 ore 19:11; testo originale letto il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-impero-sensi-restauro",
+      "eventKey": "impero-dei-sensi-restaurato-uncut-sala-9-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "L'impero dei sensi torna in sala restaurato e integrale",
+      "summary": "Il film di Nagisa Ōshima rientra nei cinema dal 9 novembre in una versione senza tagli.",
+      "body": [
+        "A cinquant'anni dalla sua uscita, L'impero dei sensi di Nagisa Ōshima torna nei cinema italiani dal 9 novembre, distribuito da CG Entertainment in versione restaurata e integrale.",
+        "Il film, che racconta una relazione ossessiva ispirata a un caso reale del 1936, resta vietato ai minori di 18 anni. Il nuovo passaggio in sala ne ripropone il carattere radicale e controverso."
+      ],
+      "publishedAt": "2026-10-31T18:41:00+01:00",
+      "verifiedAt": "2026-11-01T06:17:15Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/31/torna-restaurato-lo-scandaloso-limpero-dei-sensi-ed-e-uncut_d2484973-43c1-40dc-bfc2-69e998813d18.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:17:15Z",
+        "dateEvidence": "ANSA Cinema, 31 ottobre 2026 ore 18:41 nella pagina originale; testo originale letto il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-denitza-boheme-rsa",
+      "eventKey": "denitza-serghieva-maggio-musicale-boheme-rsa-31-ottobre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "A 87 anni continua a cantare Puccini nella residenza per anziani",
+      "summary": "La storia di Denitza Serghieva, già corista del Maggio Musicale Fiorentino.",
+      "body": [
+        "Denitza Serghieva, 87 anni, ha cantato per 22 anni nel coro del Maggio Musicale Fiorentino, partecipando anche a una storica Turandot a Pechino. Oggi vive in una residenza sanitaria di Campi Bisenzio.",
+        "La passione per il canto è rimasta: talvolta esegue brani della Bohème di Puccini per gli altri ospiti. La sua storia è stata raccontata dal figlio Alessandro Pagliazzi, musicista e direttore d'orchestra."
+      ],
+      "publishedAt": "2026-10-31T18:22:00+01:00",
+      "verifiedAt": "2026-11-01T06:17:15Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/10/31/per-ventanni-nel-coro-del-maggio-musicale-a-87-anni-canta-la-boheme_563fe95e-8352-4756-b1be-e9b9e41a8300.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:17:15Z",
+        "dateEvidence": "ANSA Musica, Campi Bisenzio 31 ottobre 2026 ore 18:22; testo originale letto il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-bagutta-centenario",
+      "eventKey": "premio-bagutta-centenario-mostra-casa-bellonci-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Il Premio Bagutta compie cent'anni con una mostra a Roma",
+      "summary": "Casa Bellonci ospiterà libri, fotografie e documenti dal 4 al 27 novembre.",
+      "body": [
+        "Il Premio Bagutta, nato a Milano nel 1926, festeggia il centenario con una mostra a Casa Bellonci a Roma. Il percorso riunisce volumi, autografi, fotografie, video e altri materiali storici.",
+        "L'inaugurazione del 4 novembre prevede interventi di Sandro Veronesi ed Helena Janeczek; l'esposizione prosegue fino al 27 novembre, con visite negli orari indicati dalla fondazione."
+      ],
+      "publishedAt": "2026-10-31T18:06:00+01:00",
+      "verifiedAt": "2026-11-01T06:17:15Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/libri/2026/10/31/premio-bagutta-una-storia-lunga-100-anni-in-mostra-a-casa-bellonci_1b14165e-70da-41b5-9b2b-5053611e8e88.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:17:15Z",
+        "dateEvidence": "ANSA Libri, 31 ottobre 2026 ore 18:06; testo originale letto il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-rondi-cinema-fellini",
+      "eventKey": "brunello-rondi-cinema-di-fellini-riedizione-menarini-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Riedito il libro di Brunello Rondi sul cinema di Fellini",
+      "summary": "Roy Menarini cura una nuova edizione del saggio del collaboratore del regista.",
+      "body": [
+        "Il cinema di Fellini di Brunello Rondi torna in libreria in una nuova edizione curata da Roy Menarini, pubblicata dal Centro Sperimentale di Cinematografia con Edizioni Sabinae.",
+        "Rondi, sceneggiatore vicino a Fellini e collaboratore di film come La dolce vita e 8½, aveva indagato il metodo di lavoro e l'immaginario del regista. La nuova cura critica contestualizza il testo per lettori e studiosi."
+      ],
+      "publishedAt": "2026-10-31T17:54:00+01:00",
+      "verifiedAt": "2026-11-01T06:17:15Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/31/torna-il-cinema-di-fellini-di-brunello-rondi_988b71c8-7289-4ec9-b407-471171c6f101.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:17:15Z",
+        "dateEvidence": "ANSA Cinema, 31 ottobre 2026 ore 17:54; testo originale letto il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-ue-social-minori-stop",
+      "eventKey": "commissione-ue-sospende-ddl-nazionali-social-minori-kids-act-30-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Social e minori, Bruxelles sospende per un anno le nuove proposte nazionali",
+      "summary": "La Commissione UE chiede una pausa di dodici mesi ai disegni di legge notificati dopo il KIDS Act, per evitare regole nazionali divergenti.",
+      "body": [
+        "La Commissione europea ha annunciato una sospensione di dodici mesi per le nuove proposte nazionali che limitano l'accesso dei minori ai social network. Il provvedimento riguarda i testi notificati dopo la presentazione del KIDS Act.",
+        "Grecia e Francia costituiscono casi distinti per la tempistica delle notifiche. La sospensione non equivale a un'approvazione definitiva delle loro normative."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-11-01T06:02:20.105Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/social-media-stop-leggi-nazionali-divieti-minori/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
+        "dateEvidence": "Articolo integrale Punto Informatico: 'Pubblicato il 30 ott 2026', dichiarazioni del portavoce Thomas Regnier e distinzione delle eccezioni.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 84
+    },
+    {
+      "id": "tecnologia-google-home-matter-energia",
+      "eventKey": "google-home-aggiornamento-monitoraggio-consumi-prese-matter-29-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Google Home mostra i consumi elettrici delle prese Matter compatibili",
+      "summary": "L'aggiornamento visualizza potenza istantanea e kilowattora per dispositivi che supportano la misurazione; per ora la novità riguarda Android.",
+      "body": [
+        "Google Home integra i dati energetici comunicati dalle prese e dai contatori Matter compatibili, senza misurare direttamente i consumi. L'app mostra la potenza corrente e l'energia accumulata; il rilascio è progressivo e la funzione non è ancora annunciata per iOS."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-11-01T06:02:20.105Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/google-home-svela-quali-dispositivi-consumano-piu-energia/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
+        "dateEvidence": "Punto Informatico: 'Pubblicato il 30 ott 2026'; testo cita aggiornamento Google del 29 ottobre e disponibilità iniziale Android.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 72
+    },
+    {
+      "id": "tecnologia-reddit-login-scraping",
+      "eventKey": "reddit-annuncia-test-login-obbligatorio-contro-scraping-ai-30-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Reddit prepara test di accesso obbligatorio per limitare lo scraping AI",
+      "summary": "L'azienda intende sperimentare il login richiesto in alcuni paesi fuori dagli Stati Uniti, lasciando accessibili i link condivisi e i risultati di ricerca.",
+      "body": [
+        "Il CEO Steve Huffman ha illustrato l'intenzione di limitare l'accesso anonimo alla piattaforma per contrastare la raccolta automatizzata non autorizzata di contenuti destinati all'AI. I test sono previsti in alcuni mercati nel quarto trimestre, senza un'immediata estensione mondiale."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-11-01T06:02:20.105Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/reddit-login-obbligatorio-bloccare-scraping-ai/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
+        "dateEvidence": "Punto Informatico: 'Pubblicato il 30 ott 2026', resoconto delle dichiarazioni CEO Reddit dopo trimestrale e dei test futuri.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 78
+    },
+    {
+      "id": "tecnologia-sony-brevetti-vr-meta",
+      "eventKey": "sony-trasferimento-brevetti-realta-virtuale-meta-1-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Sony trasferisce brevetti VR a Meta: dubbi sul futuro dei visori PlayStation",
+      "summary": "Secondo un rapporto citato da Everyeye, il trasferimento comprende brevetti statunitensi già ceduti a Meta; la notizia non conferma la chiusura di PlayStation VR.",
+      "body": [
+        "Everyeye riferisce, citando ZDNet Korea e Road to VR, un piano di trasferimento di 419 brevetti internazionali di Sony nel settore della realtà virtuale. Tra giugno e settembre sarebbero già passati a Meta 43 brevetti negli Stati Uniti. L'articolo interpreta l'operazione come un segnale di ridimensionamento, non come annuncio ufficiale della fine di PSVR."
+      ],
+      "publishedAt": "2026-11-01T00:22:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:20.105Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/sony-cede-brevetti-vr-meta-davvero-playstation-vr-904757.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
+        "dateEvidence": "Everyeye, pagina completa firmata Mario Cariati, 1/11/2026 ore 00:22; dati 419 brevetti e 43 USA attribuiti a ZDNet Korea.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 82
+    },
+    {
+      "id": "tecnologia-rocket-league-one-piece-evento",
+      "eventKey": "rocket-league-evento-one-piece-1-23-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Rocket League annuncia un evento dedicato a One Piece dal 1° novembre",
+      "summary": "Sfide e ricompense ispirate alla serie saranno disponibili fino al 23 novembre; l'evento parte alle 18 italiane.",
+      "body": [
+        "Psyonix ha annunciato una collaborazione temporanea tra Rocket League e One Piece. Dal 1° al 23 novembre i giocatori potranno ottenere oggetti a tema completando sfide, tra cui un topper ispirato al cappello di Rufy e altri accessori. Alcuni elementi cosmetici saranno invece acquistabili nel negozio del gioco."
+      ],
+      "publishedAt": "2026-10-31T19:02:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:20.105Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/one-piece-arriva-rocket-league-data-orario-sblocco-evento-piratesco-909088.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
+        "dateEvidence": "Everyeye, Michele Galluzzi, 31/10/2026 ore 19:02; articolo riporta orari 1 e 23 novembre e ricompense dal sito ufficiale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 75
+    },
+    {
+      "id": "sport-milan-inter-derby-3-1",
+      "eventKey": "milan-batte-inter-3-1-derby-31-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Il Milan batte l'Inter 3-1 e vince il quarto derby consecutivo",
+      "summary": "Pulisic e Rabiot portano avanti i rossoneri; Bastoni accorcia e Moreira firma la rete decisiva su punizione.",
+      "body": [
+        "Il Milan ha superato l'Inter per 3-1 nel derby della decima giornata di Serie A. Pulisic ha segnato al quarto minuto, Rabiot al decimo e Moreira al 43°; per i nerazzurri rete di Bastoni al 22°. La squadra di Amorim ha poi controllato il vantaggio nella ripresa."
+      ],
+      "publishedAt": "2026-10-31T23:05:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:20.105Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-10/milan-inter/risultato-gol",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
+        "dateEvidence": "Sky Sport, cronaca e tabellino completo derby 31 ottobre 2026, riepilogo e pagelle pubblicate alle 23:05.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 92
+    },
+    {
+      "id": "sport-udinese-roma-cinque-due",
+      "eventKey": "roma-vince-udinese-5-2-31-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Roma travolgente a Udine: cinque gol e successo per 5-2",
+      "summary": "I giallorossi segnano quattro reti nel primo tempo, subiscono la reazione friulana e chiudono nel recupero con Ghilardi.",
+      "body": [
+        "La Roma di Gasperini ha vinto 5-2 in trasferta contro l'Udinese. Cristante, Rodrigo Mora, Malen e Ndicka hanno portato il punteggio sul 4-0; Zaniolo e Palma hanno accorciato per i padroni di casa prima del quinto gol di Ghilardi nel recupero."
+      ],
+      "publishedAt": "2026-10-31",
+      "verifiedAt": "2026-11-01T06:02:20.105Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-10/udinese-roma/risultato-gol",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
+        "dateEvidence": "Sky Sport, live testuale del 31 ottobre 2026, fischio finale alle 19:52 e riepilogo alle 19:59; orario qui arrotondato alle 20:00 non attribuito come ora editoriale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 88
+    },
+    {
+      "id": "sport-bologna-monza-rimonta",
+      "eventKey": "bologna-batte-monza-2-1-rimonta-31-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Bologna, terza vittoria di fila: Monza battuto 2-1 in rimonta",
+      "summary": "Al rigore iniziale di Varela rispondono Pobega e Bernardeschi, quest'ultimo dal dischetto.",
+      "body": [
+        "Il Bologna di Palladino ha rimontato il Monza nella decima giornata: ospiti avanti con il rigore di Gustavo Varela, poi reti di Tommaso Pobega e Federico Bernardeschi, anch'egli su rigore. Per i rossoblù è il terzo successo consecutivo in campionato."
+      ],
+      "publishedAt": "2026-10-31T17:04:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:20.105Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/31/bologna-monza-pagelle",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
+        "dateEvidence": "Sky Sport, articolo completo del 31 ott 2026 ore 17:04, con risultato 2-1, marcatori e terzo successo consecutivo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 79
+    },
+    {
+      "id": "sport-hamilton-pole-messico",
+      "eventKey": "hamilton-pole-ferrari-gp-messico-qualifiche-31-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "F1, Hamilton conquista la pole in Messico davanti a Russell e Leclerc",
+      "summary": "Il pilota Ferrari torna in prima posizione in qualifica dopo tre anni; Antonelli guadagna la quarta casella per la penalità di Verstappen.",
+      "body": [
+        "Lewis Hamilton ha ottenuto la pole position del Gran Premio del Messico. La griglia vede Russell secondo e Leclerc terzo; Kimi Antonelli scatterà quarto, grazie alla retrocessione di una posizione inflitta a Verstappen. La gara è in programma domenica 1° novembre alle 21 italiane."
+      ],
+      "publishedAt": "2026-10-31T23:20:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:20.105Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/formula-1/2026/10/31/formula-1-griglia-di-partenza-gp-messico-2026",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
+        "dateEvidence": "Sky Sport, fotogallery della griglia GP Messico pubblicata il 31 ottobre 2026 alle 23:20; pole Hamilton e ordine di partenza.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 95
+    },
+    {
+      "id": "sport-errani-paolini-finals-tokyo-2026",
+      "eventKey": "errani-paolini-qualificate-wta-finals-semifinale-tokyo-31-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Errani e Paolini conquistano le WTA Finals con la finale a Tokyo",
+      "summary": "La coppia italiana supera Mihalikova e Nicholls 6-4, 6-0, ottenendo il pass per il torneo di fine stagione.",
+      "body": [
+        "Sara Errani e Jasmine Paolini hanno raggiunto la finale del torneo di doppio WTA 500 di Tokyo battendo Tereza Mihalikova e Olivia Nicholls per 6-4, 6-0. Il successo ha garantito alle azzurre la qualificazione alle WTA Finals.",
+        "Per la coppia si tratta della terza partecipazione consecutiva al torneo conclusivo della stagione. A Tokyo affronteranno Dabrowski e Stefani nella finale di domenica; il risultato non era ancora noto al momento della verifica."
+      ],
+      "publishedAt": "2026-10-31T11:45:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:20.105Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/2026/10/31/errani-paolini-wta-tokyo-doppio-risultato-oggi",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
+        "dateEvidence": "Sky Sport, articolo del 31 ott 2026 ore 11:45, con punteggio semifinale e qualificazione alle WTA Finals.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 90,
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sara_Errani_-_Roland-Garros_-_28.05.2024_%28cropped%29.jpg",
+        "alt": "Sara Errani esegue un rovescio al Roland Garros del 2024",
+        "credit": "Kuberzog / Wikimedia Commons",
+        "rights": "CC BY 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sara_Errani_-_Roland-Garros_-_28.05.2024_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "caption": "Sara Errani al Roland Garros 2024, immagine di repertorio: non ritrae il torneo di Tokyo 2026.",
+        "reuseApproved": true
+      }
+    },
+    {
+      "id": "politica-meloni-vannacci-replica",
+      "eventKey": "meloni-vannacci-contrasto-alleanza-replica-30-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Meloni e Vannacci si scontrano sull'ipotesi di un'alleanza",
+      "summary": "La premier esclude intese elettorali, mentre il leader di Futuro nazionale replica e lascia aperta una possibilità condizionata.",
+      "body": [
+        "In dichiarazioni anticipate dal libro di Bruno Vespa, Giorgia Meloni ha affermato di voler riproporre l'attuale centrodestra senza alleanze con Roberto Vannacci.",
+        "Vannacci ha risposto criticando la premier e sostenendo che una futura intesa resterebbe possibile soltanto entro le condizioni del suo movimento. Non è stato raggiunto alcun accordo."
+      ],
+      "publishedAt": "2026-10-30T14:31:00+01:00",
+      "verifiedAt": "2026-11-01T05:08:39.798Z",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/politica/meloni-vannacci-botta-e-risposta-ultime-notizie_1w1ZZ5jODhfnrc1GQADFHX",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:08:39.798Z",
+        "dateEvidence": "Adnkronos, 30 ottobre 2026 ore 14:31, anticipazioni libro Vespa e replica di Vannacci; pagina originale letta il 1 novembre 2026 in mattinata, data di pubblicazione non alterata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-guerini-aiuti-kiev",
+      "eventKey": "guerini-pd-propone-maggiori-aiuti-militari-ucraina-31-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Guerini propone più sostegno militare all'Ucraina in caso di governo Pd",
+      "summary": "L'ex ministro della Difesa critica le forniture dell'esecutivo e indica la necessità di rafforzare la capacità militare europea.",
+      "body": [
+        "Lorenzo Guerini, presidente del Copasir ed esponente del Pd, ha sostenuto che un eventuale futuro governo del suo schieramento dovrebbe inviare più aiuti militari all'Ucraina.",
+        "L'ex ministro ha criticato la politica di forniture dell'esecutivo Meloni e richiamato gli investimenti pluriennali nella difesa. Le sue affermazioni sono posizioni politiche, non nuovi stanziamenti approvati."
+      ],
+      "publishedAt": "2026-10-31T16:09:00+01:00",
+      "verifiedAt": "2026-11-01T05:08:39.798Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/guerini-pdse-al-governo-dovremmo-dare-piu-aiuti-militari-a-kiev-di-quelli_ab200e1d-f6af-498f-9d8e-cf5c8d150444.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:08:39.798Z",
+        "dateEvidence": "ANSA, Roma, 31 ottobre 2026 ore 16:09, dichiarazioni nel libro di Vespa; pagina originale letta il 1 novembre 2026 in mattinata, data di pubblicazione non alterata. Lettura gratuita ANSA limitata mensilmente.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-schlein-establishment",
+      "eventKey": "schlein-establishment-autonomia-pd-intervista-vespa-31-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Schlein rivendica l'autonomia del Pd e critica parte dell'establishment",
+      "summary": "La segretaria dem sostiene che il partito abbia recuperato un profilo progressista indipendente da pressioni esterne.",
+      "body": [
+        "In un'anticipazione del libro di Bruno Vespa, Elly Schlein ha affermato che una parte dell'establishment italiano non desidera la sinistra al governo.",
+        "Ha rivendicato l'autonomia politica del Partito democratico e la crescita elettorale registrata dopo il suo arrivo alla segreteria. Sono dichiarazioni politiche attribuite alla leader."
+      ],
+      "publishedAt": "2026-10-31T16:06:00+01:00",
+      "verifiedAt": "2026-11-01T05:08:39.798Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/schlein-parte-dellestablishment-non-vuole-la-sinistra-al-governo_08f75907-7083-4b48-8b49-86de1594dbfd.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:08:39.798Z",
+        "dateEvidence": "ANSA, Roma, 31 ottobre 2026 ore 16:06, anticipazione libro Vespa; pagina originale letta il 1 novembre 2026 in mattinata, data di pubblicazione non alterata. Lettura gratuita ANSA limitata mensilmente.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-meloni-omaggio-bosnia",
+      "eventKey": "meloni-crosetto-omaggio-quattro-militari-bosnia-circo-massimo-30-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Meloni rende omaggio ai quattro militari morti in Bosnia",
+      "summary": "La premier e il ministro Crosetto depongono fiori al Circo Massimo; la Procura militare apre accertamenti sull'incidente.",
+      "body": [
+        "Dopo la caduta di un elicottero militare italiano in Bosnia, Giorgia Meloni e Guido Crosetto hanno reso omaggio ai quattro caduti presso il Villaggio della Difesa a Roma.",
+        "La Procura militare di Roma ha aperto un procedimento conoscitivo per approfondire le circostanze dell'incidente. L'omaggio pubblico è distinto dalle indagini ancora in corso."
+      ],
+      "publishedAt": "2026-10-30T11:06:00+01:00",
+      "verifiedAt": "2026-11-01T05:08:39.798Z",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/politica/elicottero-caduto-bosnia-meloni-ricorda-quattro-militari-morti_3R3MlEXFFmcnNrK1vZwaPi",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:08:39.798Z",
+        "dateEvidence": "Adnkronos, 30 ottobre 2026 ore 11:06, omaggio a Roma e indagine Procura militare; pagina originale letta il 1 novembre 2026 in mattinata, data di pubblicazione non alterata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-redditi-parlamentari",
+      "eventKey": "dichiarazioni-redditi-parlamentari-di-giuseppe-lupi-tajani-30-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Redditi dei parlamentari, pubblicati nuovi dati sulle dichiarazioni",
+      "summary": "Tra i deputati emergono le cifre di Andrea Di Giuseppe, Maurizio Lupi, Antonio Tajani e altri esponenti.",
+      "body": [
+        "Le dichiarazioni fiscali pubblicate sui siti parlamentari riportano per Andrea Di Giuseppe oltre 3,5 milioni di euro di reddito imponibile, secondo la ricostruzione di Adnkronos.",
+        "La testata confronta anche le cifre comunicate da Lupi, Tajani, Schlein e Fratoianni. Si tratta di redditi dichiarati e non del solo compenso per l'attività parlamentare."
+      ],
+      "publishedAt": "2026-10-30T17:41:00+01:00",
+      "verifiedAt": "2026-11-01T05:08:39.798Z",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/politica/parlamento-redditi-deputati-meloni-schlein-conte_6FX8T4brFASJtrvsrG3UGg",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:08:39.798Z",
+        "dateEvidence": "Adnkronos, 30 ottobre 2026 ore 17:41, dati dichiarazioni pubblicate sul sito della Camera; pagina originale letta il 1 novembre 2026 in mattinata, data di pubblicazione non alterata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-francia-proteste-carovita",
+      "eventKey": "francia-proteste-carovita-31-ottobre-2026-320mila-565-fermi",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Francia, proteste contro il carovita e centinaia di fermi",
+      "summary": "Il ministero dell'Interno stima oltre 320mila manifestanti; sindacati e studenti forniscono una cifra più alta.",
+      "body": [
+        "Il 31 ottobre cortei contro il carovita hanno attraversato numerose città francesi, con scontri a Parigi, Lione e Marsiglia.",
+        "Secondo il ministero dell'Interno i manifestanti sono stati oltre 320mila e i fermi 565; sindacati e organizzazioni studentesche parlano di circa 500mila presenze. Le cifre sono attribuite alle rispettive fonti."
+      ],
+      "publishedAt": "2026-10-31T14:13:00+01:00",
+      "verifiedAt": "2026-11-01T05:09:00.103Z",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/internazionale/esteri/manifestazioni-francia-oggi-ultime-notizie-parigi_6D12dRSNTdnxz4IiZWPued",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:09:00.103Z",
+        "dateEvidence": "Adnkronos, 31 ottobre 2026 ore 14:13, bilanci di ministero dell'Interno e sindacati; pagina originale letta il 1 novembre 2026 alle 06:09 Europe/Rome; data originale conservata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-rubio-lavrov-apec",
+      "eventKey": "rubio-lavrov-discutono-possibile-incontro-putin-trump-apec-31-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Rubio riferisce di colloqui su un possibile incontro Trump-Putin",
+      "summary": "Il segretario di Stato americano dice di averne parlato con Lavrov, ma non conferma la partecipazione di Putin al G20.",
+      "body": [
+        "Marco Rubio ha dichiarato di aver discusso brevemente con il ministro russo Sergej Lavrov la possibilità di un incontro tra Donald Trump e Vladimir Putin in occasione dell'Apec di novembre.",
+        "Il segretario di Stato ha aggiunto di non sapere se Putin sarà presente a Miami per il G20. Non esiste nell'articolo la conferma di un vertice fissato."
+      ],
+      "publishedAt": "2026-10-31T17:55:00+01:00",
+      "verifiedAt": "2026-11-01T05:09:00.103Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/31/rubio-non-so-se-putin-sara-a-miami-con-lavrov-discusso-possibile-incontro_7b4dda7a-1108-4f93-bef8-b95a27949d2c.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:09:00.103Z",
+        "dateEvidence": "ANSA, Washington, 31 ottobre 2026 ore 17:55, dichiarazioni del segretario di Stato Rubio; pagina originale letta il 1 novembre 2026 alle 06:09 Europe/Rome; data originale conservata. ANSA prevede un limite mensile alle letture gratuite.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-mosca-museo-tsaritsyno-allerta",
+      "eventKey": "ambasciata-usa-mosca-allerta-minaccia-museo-tsaritsyno-31-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Mosca, l'ambasciata USA segnala una minaccia al museo Tsaritsyno",
+      "summary": "La rappresentanza diplomatica americana riferisce di un'allerta ritenuta credibile e di contatti con le autorità russe.",
+      "body": [
+        "L'ambasciata statunitense a Mosca ha reso noto il 31 ottobre di essere a conoscenza di una minaccia ritenuta credibile al museo Tsaritsyno.",
+        "Washington ha dichiarato di coordinarsi con le autorità russe per la risposta. La comunicazione è un'allerta, non la notizia di un attacco già avvenuto."
+      ],
+      "publishedAt": "2026-10-31T16:38:00+01:00",
+      "verifiedAt": "2026-11-01T05:09:00.103Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/31/ambasciata-usa-registrata-una-minaccia-credibile-al-museo-tsaritsyno-di-mosca_a3938de6-1873-491a-b8e5-29b2faadeb53.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:09:00.103Z",
+        "dateEvidence": "ANSA, Washington, 31 ottobre 2026 ore 16:38, comunicazione ambasciata USA a Mosca; pagina originale letta il 1 novembre 2026 alle 06:09 Europe/Rome; data originale conservata. ANSA prevede un limite mensile alle letture gratuite.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-venezuela-la-guaira-riapertura",
+      "eventKey": "venezuela-la-guaira-riaprono-spiagge-weekend-dopo-sisma-31-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Venezuela, La Guaira riapre parzialmente le spiagge dopo il sisma",
+      "summary": "Riparte l'attività turistica nei fine settimana, mentre proseguono ripristino e formazione degli operatori.",
+      "body": [
+        "Dopo il doppio sisma del 24 giugno, il litorale di La Guaira ha riaperto ai visitatori il 31 ottobre con orari limitati ai fine settimana.",
+        "La Camera turistica balneare ha indicato 55 strutture aperte su 63; le altre rimangono interdette. Nei giorni feriali proseguono i lavori di ripristino."
+      ],
+      "publishedAt": "2026-10-31T19:41:00+01:00",
+      "verifiedAt": "2026-11-01T05:09:00.103Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/31/venezuela-riaprono-le-spiagge-a-la-guaira-dopo-il-sisma-di-giugno_3e810399-a176-4fc7-bd4e-023329f85003.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:09:00.103Z",
+        "dateEvidence": "ANSA, La Guaira, 31 ottobre 2026 ore 19:41, riapertura 55 strutture e limiti di orario; pagina originale letta il 1 novembre 2026 alle 06:09 Europe/Rome; data originale conservata. ANSA prevede un limite mensile alle letture gratuite.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-ucraina-oleshky-evacuati",
+      "eventKey": "oleshky-evacuati-ucraini-rientrano-chernihiv-31-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Oleshky, Zelensky annuncia il rientro degli evacuati in Ucraina",
+      "summary": "Il presidente riferisce che i residenti hanno raggiunto la regione di Chernihiv e riceveranno assistenza.",
+      "body": [
+        "Volodymyr Zelensky ha comunicato che gli abitanti evacuati da Oleshky hanno attraversato il confine e sono rientrati in territorio ucraino attraverso la regione di Chernihiv.",
+        "Il presidente ha chiesto che rimanga aperto l'accesso umanitario e ha invocato ulteriori passi verso la de-escalation. Il risultato è attribuito alle autorità ucraine."
+      ],
+      "publishedAt": "2026-10-31T16:15:00+01:00",
+      "verifiedAt": "2026-11-01T05:09:00.103Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/31/zelensky-rientrati-in-ucraina-i-residenti-evacuati-da-oleshky_d14d72d2-001b-4648-af44-3614bbe40fd6.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:09:00.103Z",
+        "dateEvidence": "ANSA, Roma, 31 ottobre 2026 ore 16:15, annuncio Zelensky su X; pagina originale letta il 1 novembre 2026 alle 06:09 Europe/Rome; data originale conservata. ANSA prevede un limite mensile alle letture gratuite.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-iata-passeggeri-settembre",
+      "eventKey": "iata-domanda-passeggeri-settembre-2026-meno-0-5",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Trasporto aereo, passeggeri in calo a settembre",
+      "summary": "La Iata rileva una diminuzione annua dello 0,5% nella domanda passeggeri, mentre il cargo cresce del 7,7%.",
+      "body": [
+        "La domanda mondiale di trasporto aereo passeggeri a settembre è diminuita dello 0,5% rispetto al 2025, secondo la Iata.",
+        "Il trasporto merci è invece aumentato del 7,7%, nonostante i maggiori costi del carburante e le difficoltà delle compagnie nel mantenere la redditività."
+      ],
+      "publishedAt": "2026-10-31T11:16:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:54.209Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/iata-in-calo-a-settembre-05-domanda-trasporto-aereo-passeggeri_c0998812-091d-47a4-8fd4-a62b24c579a1.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
+        "dateEvidence": "Fonte originale ANSA letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T11:16:00+01:00. Data di pubblicazione originale, non modificata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-eurocontrol-jet-fuel",
+      "eventKey": "eurocontrol-jet-fuel-ottobre-2026-4-84-gallone",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Jet fuel, Eurocontrol registra un rincaro del 114%",
+      "summary": "Il carburante per aerei in Europa ha raggiunto a ottobre 4,84 dollari al gallone.",
+      "body": [
+        "Eurocontrol riferisce che la media europea del prezzo del carburante per aerei in ottobre è salita a 4,84 dollari al gallone, contro 2,26 nel periodo gennaio-febbraio.",
+        "L'incremento del 114% rispetto al periodo precedente alla crisi mediorientale ha portato il prezzo al livello mensile più alto dall'inizio della crisi."
+      ],
+      "publishedAt": "2026-10-31T10:58:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:54.209Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/eurocontrol-prezzo-medio-del-carburante-per-aerei-a-484-dollari-al-gallone_e1046041-cc8e-43fa-8d75-4fc69f314ebf.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
+        "dateEvidence": "Fonte originale ANSA letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T10:58:00+01:00. Data di pubblicazione originale, non modificata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-hormuz-gnl-export",
+      "eventKey": "hormuz-gnl-esportazioni-ottobre-2026-un-terzo-pre-guerra",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Gas liquefatto, Hormuz resta lontano dai livelli precedenti alla guerra",
+      "summary": "Le spedizioni di Gnl attraverso lo stretto non raggiungono un terzo dei volumi precedenti al conflitto.",
+      "body": [
+        "Secondo dati di tracciamento navale analizzati da Kpler e Bloomberg, a ottobre circa 27 navi cisterna cariche di Gnl hanno attraversato lo Stretto di Hormuz verso est.",
+        "I transiti sono simili a settembre, ma restano sotto un terzo dei livelli precedenti alla guerra. Il conteggio potrebbe sottostimare i passaggi di navi che non trasmettono la posizione."
+      ],
+      "publishedAt": "2026-10-31T12:24:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:54.209Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://videoembed.ansa.it/sito/notizie/economia/2026/10/31/lexport-di-gnl-attraverso-hormuz-ancora-ad-un-terzo-dai-livelli-pre-guerra_1ca338aa-35c2-435a-a292-859b1b21dd4f.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
+        "dateEvidence": "Fonte originale ANSA letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T12:24:00+01:00. Data di pubblicazione originale, non modificata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-eurostat-reddito-reale",
+      "eventKey": "eurostat-reddito-reale-famiglie-eurozona-secondo-trimestre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Eurozona, reddito reale delle famiglie quasi fermo",
+      "summary": "Eurostat indica un aumento dello 0,1% del reddito reale pro capite nel secondo trimestre.",
+      "body": [
+        "Nel secondo trimestre del 2026 il reddito reale pro capite delle famiglie nell'area euro è cresciuto dello 0,1%, secondo i dati Eurostat riportati da Sky TG24.",
+        "I consumi reali pro capite sono aumentati dello 0,3% e il tasso di risparmio delle famiglie è diminuito di 0,2 punti percentuali."
+      ],
+      "publishedAt": "2026-10-31T15:12:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:54.209Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/31/reddito-reale-famiglie-ue-prezzi-eurostat",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
+        "dateEvidence": "Fonte originale Sky TG24 letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T15:12:00+01:00. Data di pubblicazione originale, non modificata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-valentino-valdagno-presidio",
+      "eventKey": "valentino-valdagno-logistica-83-esuberi-presidio-venezia-31-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Valentino, protesta a Venezia contro il trasferimento della logistica",
+      "summary": "I lavoratori di Valdagno contestano il progetto di spostare il magazzino a Trecate e il rischio di 83 licenziamenti.",
+      "body": [
+        "Una ventina di addetti del magazzino Valentino di Valdagno ha manifestato davanti alla boutique veneziana del marchio, indossando maschere di Halloween.",
+        "I lavoratori contestano il trasferimento delle attività a Trecate, in provincia di Novara, che secondo la ricostruzione riportata potrebbe comportare 83 licenziamenti su 109 dipendenti."
+      ],
+      "publishedAt": "2026-10-31T14:03:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:54.209Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/lavoratori-vestiti-da-halloween-davanti-alla-boutique-di-valentino-a-venezia_58674634-88cd-4f98-8d9d-3ab63cd208e6.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
+        "dateEvidence": "Fonte originale ANSA letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T14:03:00+01:00. Data di pubblicazione originale, non modificata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-nonna-silvi-scomparsa",
+      "eventKey": "silvia-bini-nonna-silvi-morta-montespertoli-31-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Morta Nonna Silvi, volto della cucina toscana sui social",
+      "summary": "Silvia Bini aveva 85 anni; i familiari hanno comunicato la notizia attraverso i suoi canali.",
+      "body": [
+        "È morta a Montespertoli, in provincia di Firenze, Silvia Bini, conosciuta come Nonna Silvi per i video dedicati alla cucina tradizionale toscana.",
+        "I nipoti hanno annunciato la scomparsa sui social, spiegando che era stata colpita da una malattia rapida. L'attività digitale aveva raggiunto milioni di follower."
+      ],
+      "publishedAt": "2026-10-31T11:21:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:54.209Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/10/31/nonna-silvi-morta",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
+        "dateEvidence": "Fonte originale Sky TG24 letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T11:21:00+01:00. Data di pubblicazione originale, non modificata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-milano-paracadutisti-proroga",
+      "eventKey": "milano-500-paracadutisti-proroga-31-marzo-2027-manovra",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Milano, prevista la permanenza di 500 militari fino a marzo",
+      "summary": "La proroga della presenza dei paracadutisti dopo gli scontri di ottobre compare nella manovra.",
+      "body": [
+        "I 500 militari arrivati a Milano dopo gli scontri del 17 e 18 ottobre dovrebbero rimanere in città fino al 31 marzo 2027.",
+        "La proroga è contenuta in un articolo della manovra finanziaria 2027, ancora all'esame parlamentare: non è una misura già definitivamente approvata."
+      ],
+      "publishedAt": "2026-10-31T17:36:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:54.209Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/video/2026/10/31/scontri-milano-manovra-i-500-para-saranno-in-citta-fino-a-313-1136213",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
+        "dateEvidence": "Fonte originale Sky TG24 letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T17:36:00+01:00. Data di pubblicazione originale, non modificata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-parma-monossido-coppia",
+      "eventKey": "mezzani-parma-monossido-due-genitori-morti-neonata-grave-30-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Parmense, due genitori morti per monossido e neonata grave",
+      "summary": "La tragedia è avvenuta in un'abitazione a Mezzani; il figlio adolescente è sopravvissuto.",
+      "body": [
+        "Due genitori sono morti per esalazioni di monossido di carbonio in una casa nella zona di Mezzani, in provincia di Parma. La figlia di sette mesi è stata ricoverata in gravi condizioni.",
+        "Secondo la ricostruzione pubblicata dall'ANSA, le esalazioni sarebbero provenute da un braciere acceso per riscaldarsi. Il figlio di 14 anni ha dato l'allarme insieme ai familiari."
+      ],
+      "publishedAt": "2026-10-30T18:49:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:54.209Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/due-morti-per-monossido-e-una-neonata-grave-nel-parmense_2c7b7cee-2629-40ef-b76b-7e338f20334b.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
+        "dateEvidence": "Fonte originale ANSA letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-30T18:49:00+01:00. Data di pubblicazione originale, non modificata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-rovigo-badante-arrestata",
+      "eventKey": "rovescio-rovigo-badante-arrestata-maltrattamenti-87enne-31-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Rovigo, arrestata una badante sospettata di maltrattamenti",
+      "summary": "La donna, 48 anni, è stata posta ai domiciliari nell'ambito di un'indagine su una 87enne.",
+      "body": [
+        "I carabinieri di Arquà Polesine hanno arrestato una badante italiana di 48 anni, posta ai domiciliari su disposizione della Procura di Rovigo.",
+        "L'accusa riguarda maltrattamenti fisici e verbali a un'anziana di 87 anni non autosufficiente. La responsabilità penale dovrà essere accertata nel procedimento."
+      ],
+      "publishedAt": "2026-10-31T14:04:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:54.209Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/veneto/notizie/2026/10/31/badante-arrestata-per-maltrattamenti-ad-unanziana_17a165ab-d32d-4b76-92b7-114efb03e9d4.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
+        "dateEvidence": "Fonte originale ANSA letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T14:04:00+01:00. Data di pubblicazione originale, non modificata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-polesine-sequestro-halloween",
+      "eventKey": "rovigo-polesine-sequestro-8500-prodotti-halloween-31-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Polesine, sequestrati 8.500 prodotti di Halloween non sicuri",
+      "summary": "La Guardia di finanza ha rilevato carenze nelle etichette di sicurezza e nei pittogrammi.",
+      "body": [
+        "Nei controlli in esercizi commerciali di Rovigo, Adria e Occhiobello, la Guardia di finanza ha sequestrato circa 8.500 articoli ritenuti non conformi alle regole di sicurezza.",
+        "Tra i prodotti figurano oggetti a tema Halloween, bigiotteria e bombolette spray. Le irregolarità riguardano soprattutto informazioni obbligatorie e simboli di pericolo mancanti."
+      ],
+      "publishedAt": "2026-10-31T10:49:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:54.209Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/veneto/notizie/2026/10/31/sequestrati-8.500-prodotti-di-halloween-non-sicuri-in-polesine_f6a5704d-0a4d-428e-a3a4-b84a199e5781.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
+        "dateEvidence": "Fonte originale ANSA letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T10:49:00+01:00. Data di pubblicazione originale, non modificata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-chatbot-causa-salute",
+      "eventKey": "causa-san-francisco-chatbot-ai-consigli-terapia-epilessia-27-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Una causa negli USA riapre il dibattito sui consigli sanitari dei chatbot",
+      "summary": "La famiglia di una donna deceduta accusa un assistente AI di aver incoraggiato l'interruzione di una terapia; le responsabilità non sono state accertate.",
+      "body": [
+        "Una causa civile depositata il 27 ottobre a San Francisco sostiene che un chatbot avrebbe incoraggiato una donna con epilessia a ridurre e interrompere un farmaco anticonvulsivante. La denuncia è un'accusa dei familiari, non una decisione giudiziaria.",
+        "Il caso evidenzia il rischio di affidarsi a risposte automatizzate per decisioni cliniche. La testata precisa che la responsabilità non è stata stabilita e ricorda che i cambiamenti di terapia richiedono un medico."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/quando-ai-sbaglia-di-chi-e-colpa/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
+        "dateEvidence": "Punto Informatico, articolo integrale pubblicato il 30 ott 2026, riferisce causa depositata il 27 ottobre e assenza di accertamento giudiziario.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-whatsapp-quattro-novita-gruppi",
+      "eventKey": "whatsapp-introduce-quattro-funzioni-chat-gruppo-30-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "WhatsApp amplia gli strumenti per organizzare le conversazioni di gruppo",
+      "summary": "Nuovi filtri per menzioni, messaggi fissati più a lungo, recupero di messaggi recenti e stati dedicati ai gruppi.",
+      "body": [
+        "WhatsApp ha presentato quattro novità per le chat collettive. Fra queste un filtro per menzioni e risposte, la possibilità di fissare messaggi in modo permanente e la condivisione di messaggi recenti con i nuovi membri. Gli stati possono inoltre essere limitati ai partecipanti di un gruppo; il rilascio avviene gradualmente."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/whatsapp-quattro-novita-chat-gruppo/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
+        "dateEvidence": "Punto Informatico, articolo integrale pubblicato il 30 ott 2026, con elenco di quattro funzioni e riferimento al blog ufficiale WhatsApp.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-meta-style-sketch-ai",
+      "eventKey": "meta-lancia-style-sketch-outfit-ai-sudest-asiatico-30-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Meta sperimenta Style Sketch, l'app AI che combina i vestiti già posseduti",
+      "summary": "L'app genera suggerimenti di abbigliamento da fotografie e può usare contenuti Instagram; disponibilità iniziale limitata a tre paesi.",
+      "body": [
+        "Meta ha distribuito Style Sketch in Indonesia, Singapore e Thailandia. L'app costruisce un guardaroba virtuale a partire dalle foto degli indumenti e propone abbinamenti, anche per preparare una valigia. Non è stato annunciato un lancio in Italia."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/style-sketch-app-ai-meta-crea-outfit-propri-vestiti/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
+        "dateEvidence": "Punto Informatico, articolo integrale pubblicato il 30 ott 2026, descrive funzioni e disponibilità di Style Sketch in tre paesi.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-kutaragi-ps1-nintendo",
+      "eventKey": "ken-kutaragi-smentisce-vendetta-sony-nintendo-origini-playstation-31-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Kutaragi smentisce la leggenda della PlayStation nata per vendicarsi di Nintendo",
+      "summary": "Il progettista della prima console Sony racconta che la rottura del progetto con Nintendo fu un'occasione per sviluppare idee autonome.",
+      "body": [
+        "Ken Kutaragi, figura centrale nella nascita di PlayStation, ha dichiarato che il suo gruppo non voleva danneggiare Nintendo dopo la fine del progetto congiunto SNES PlayStation. Ha descritto quella separazione come un cambiamento doloroso ma capace di aprire nuove possibilità di sviluppo."
+      ],
+      "publishedAt": "2026-10-31T22:23:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/ps1-sony-non-voleva-demolire-nintendo-papa-playstation-non-era-vendetta-909108.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
+        "dateEvidence": "Everyeye, articolo completo di Michele Galluzzi, 31/10/2026 ore 22:23; riporta intervista a Ken Kutaragi su GamesIndustry.biz.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-assassins-creed-destiny-rumor",
+      "eventKey": "report-assassins-creed-destiny-cina-progetto-cancellato-timi-31-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Assassin's Creed Destiny, un rapporto parla di un progetto ambientato in Cina e cancellato",
+      "summary": "Materiali di un prototipo circolano online; Ubisoft non ha confermato ufficialmente l'esistenza o la cancellazione del gioco.",
+      "body": [
+        "Secondo un report ripreso da Everyeye, TiMi Studio Group avrebbe sviluppato un progetto di Assassin's Creed ambientato nella Cina della dinastia Qin, poi accantonato. Filmati di un prototipo mostrerebbero sequenze stealth e combattimenti. L'editore non ha commentato: la notizia resta attribuita a indiscrezioni."
+      ],
+      "publishedAt": "2026-10-31T00:32:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/assassin-s-creed-destiny-misterioso-gioco-cinese-non-vedremo-mai-906324.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
+        "dateEvidence": "Everyeye, Davide Leoni, articolo completo 31/10/2026 ore 00:32; riporta un report Mp1st e precisa assenza di commento Ubisoft.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-juve-spalletti-vigilia-napoli",
+      "eventKey": "spalletti-chiede-reazione-juventus-vigilia-napoli-31-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Spalletti chiede una reazione alla Juventus prima della sfida col Napoli",
+      "summary": "Dopo la sconfitta di Genova, l'allenatore richiama la squadra alla compattezza e difende la scelta del ritiro.",
+      "body": [
+        "Luciano Spalletti, nella conferenza stampa di vigilia di Juventus-Napoli, ha invitato la squadra a ritrovare convinzione e risultati. Ha spiegato che il ritiro può aiutare a ricompattare il gruppo dopo le difficoltà e che preferisce concentrarsi sulla reazione dei giocatori anziché sulle rassicurazioni societarie."
+      ],
+      "publishedAt": "2026-10-31T16:30:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/10/31/juventus-napoli-spalletti-conferenza-video",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
+        "dateEvidence": "Sky Sport, diretta conferenza Spalletti del 31 ottobre 2026 avviata alle 16:30 e aggiornata fino alle 17:33; testo completo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-san-siro-striscione-tifosi-inter",
+      "eventKey": "tifosi-inter-striscione-contro-demolizione-san-siro-derby-31-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "A San Siro protesta dei tifosi dell'Inter contro la demolizione dello stadio",
+      "summary": "Durante il derby uno striscione ha ribadito la contrarietà al progetto di abbattimento del Meazza.",
+      "body": [
+        "Una parte della tifoseria organizzata interista ha esposto durante Milan-Inter uno striscione contrario alla demolizione dello stadio di San Siro. L'iniziativa segue la contestazione organizzata al Castello Sforzesco nei giorni precedenti, durante la presentazione del nuovo impianto."
+      ],
+      "publishedAt": "2026-10-31T21:47:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "source": {
+        "name": "Sport Mediaset",
+        "url": "https://www.sportmediaset.mediaset.it/calcio/striscione-tifosi-inter-contro-la-demolizione-di-san-siro-non-abbattiamo-la-scala-del-calcio_118406912-202602k.shtml",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
+        "dateEvidence": "Sport Mediaset, notizia integrale del 31 ott 2026 ore 21:47, descrive striscione durante il derby e protesta precedente.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-figc-malago-galliani-elezioni",
+      "eventKey": "figc-sfida-malago-galliani-firme-serie-a-voti-leghe-31-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "FIGC, la sfida Malagò-Galliani passa ai voti delle leghe",
+      "summary": "Malagò raccoglie le firme necessarie in Serie A, mentre Galliani cerca sostegno tra allenatori e calciatori; altre componenti restano decisive.",
+      "body": [
+        "Nella corsa alla presidenza della FIGC, Giovanni Malagò ha raccolto undici firme di club di Serie A per la candidatura. Adriano Galliani conta sull'appoggio delle componenti tecniche, mentre Serie B, Lega Pro e dilettanti devono ancora definire la propria posizione. La scelta finale è prevista a dicembre."
+      ],
+      "publishedAt": "2026-10-31",
+      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "source": {
+        "name": "La Gazzetta dello Sport",
+        "url": "https://www.gazzetta.it/Calcio/31-10-2026/elezioni-figc-sfida-malago-galliani-chi-sara-decisivo.shtml",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
+        "dateEvidence": "Gazzetta dello Sport, articolo completo del 31 ottobre 2026 (modificato alle 10:00), dettaglia 11 firme di Serie A e voti delle altre leghe.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-antonelli-matchpoint-messico",
+      "eventKey": "kimi-antonelli-secondo-match-point-mondiale-messico-1-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Antonelli può conquistare il Mondiale F1 già nel GP del Messico",
+      "summary": "Il pilota Mercedes arriva alla gara con 123 punti di vantaggio su Russell e la possibilità matematica di chiudere il campionato.",
+      "body": [
+        "Kimi Antonelli affronta il Gran Premio del Messico con 123 punti di vantaggio su George Russell. Secondo le combinazioni pubblicate alla vigilia, l'italiano può assicurarsi matematicamente il titolo già nella gara di domenica 1° novembre. La notizia riguarda le possibilità di classifica, non un titolo già conquistato."
+      ],
+      "publishedAt": "2026-10-31T12:30:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/formula-1/antonelli-campione-f1-2026-se-combinazioni",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
+        "dateEvidence": "Sky Sport, approfondimento del 31 ott 2026 ore 12:30 sul secondo match point di Antonelli e distacco di 123 punti.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-alcaraz-finale-vienna",
+      "eventKey": "alcaraz-supera-medvedev-finale-vienna-de-minaur-31-ottobre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Alcaraz raggiunge la finale a Vienna: sfiderà De Minaur",
+      "summary": "Lo spagnolo supera Medvedev in due set; l'australiano elimina Zverev dopo tre set combattuti.",
+      "body": [
+        "Carlos Alcaraz ha battuto Daniil Medvedev 6-4, 7-6 nella semifinale dell'ATP 500 di Vienna. In finale affronterà Alex De Minaur, che ha sconfitto Alexander Zverev 6-4, 1-6, 7-6. La finale è prevista per domenica; al momento della verifica non è ancora stato disputato l'incontro decisivo."
+      ],
+      "publishedAt": "2026-10-31T19:45:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/2026/10/31/alcaraz-medvedev-atp-vienna-risultato",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
+        "dateEvidence": "Sky Sport, articolo del 31 ottobre 2026 ore 19:45, con punteggi delle due semifinali e finale prevista domenica.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveIds": [
+    "politica-meloni-vannacci-replica",
+    "politica-guerini-aiuti-kiev",
+    "politica-schlein-establishment",
+    "politica-meloni-omaggio-bosnia",
+    "politica-redditi-parlamentari",
+    "esteri-francia-proteste-carovita",
+    "esteri-rubio-lavrov-apec",
+    "esteri-mosca-museo-tsaritsyno-allerta",
+    "esteri-venezuela-la-guaira-riapertura",
+    "esteri-ucraina-oleshky-evacuati",
+    "economia-iata-passeggeri-settembre",
+    "economia-eurocontrol-jet-fuel",
+    "economia-hormuz-gnl-export",
+    "economia-eurostat-reddito-reale",
+    "economia-valentino-valdagno-presidio",
+    "cronaca-nonna-silvi-scomparsa",
+    "cronaca-milano-paracadutisti-proroga",
+    "cronaca-parma-monossido-coppia",
+    "cronaca-rovigo-badante-arrestata",
+    "cronaca-polesine-sequestro-halloween",
+    "tecnologia-chatbot-causa-salute",
+    "tecnologia-whatsapp-quattro-novita-gruppi",
+    "tecnologia-meta-style-sketch-ai",
+    "tecnologia-kutaragi-ps1-nintendo",
+    "tecnologia-assassins-creed-destiny-rumor",
+    "sport-juve-spalletti-vigilia-napoli",
+    "sport-san-siro-striscione-tifosi-inter",
+    "sport-figc-malago-galliani-elezioni",
+    "sport-antonelli-matchpoint-messico",
+    "sport-alcaraz-finale-vienna"
+  ]
+}

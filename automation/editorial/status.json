@@ -1,7 +1,7 @@
 {
   "editionDate": "2026-11-01",
-  "checkedAt": "2026-11-01T06:17:27.775Z",
-  "ready": false,
+  "checkedAt": "2026-11-01T06:17:42.739Z",
+  "ready": true,
   "editorialComplete": false,
   "reserveMissing": [
     "roma",
@@ -13,13 +13,12 @@
     "economia",
     "cronaca",
     "roma",
+    "cultura",
     "tecnologia",
     "sport"
   ],
   "inProgress": [],
-  "missing": [
-    "cultura"
-  ],
+  "missing": [],
   "invalid": [],
   "stories": [
     {
@@ -171,6 +170,36 @@
       "category": "Roma",
       "title": "Corsa dei Santi, modifiche alla viabilità nel centro di Roma",
       "eventKey": "roma-corsa-dei-santi-1-novembre-2026-chiusure"
+    },
+    {
+      "id": "cultura-one-piece-lucca",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "One Piece a Lucca: due episodi in anteprima prima della TV",
+      "eventKey": "one-piece-wa-anteprima-lucca-italia2-31-ottobre-2026"
+    },
+    {
+      "id": "cultura-impero-sensi-restauro",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "L'impero dei sensi torna in sala restaurato e integrale",
+      "eventKey": "impero-dei-sensi-restaurato-uncut-sala-9-novembre-2026"
+    },
+    {
+      "id": "cultura-denitza-boheme-rsa",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "A 87 anni continua a cantare Puccini nella residenza per anziani",
+      "eventKey": "denitza-serghieva-maggio-musicale-boheme-rsa-31-ottobre-2026"
+    },
+    {
+      "id": "cultura-bagutta-centenario",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Il Premio Bagutta compie cent'anni con una mostra a Roma",
+      "eventKey": "premio-bagutta-centenario-mostra-casa-bellonci-novembre-2026"
+    },
+    {
+      "id": "cultura-rondi-cinema-fellini",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Riedito il libro di Brunello Rondi sul cinema di Fellini",
+      "eventKey": "brunello-rondi-cinema-di-fellini-riedizione-menarini-2026"
     },
     {
       "id": "tecnologia-ue-social-minori-stop",
@@ -484,7 +513,7 @@
       "complete": false
     },
     "cultura": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
@@ -502,5 +531,6 @@
       "complete": true
     }
   },
-  "needsPublication": false
+  "editionId": "2026-11-01-batches-ffd2eadc2bd6",
+  "needsPublication": true
 }
