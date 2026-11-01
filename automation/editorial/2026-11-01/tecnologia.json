@@ -1,226 +1,112 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-11-01",
-  "collectionId": "2026-11-01-mattina",
+  "collectionId": "2026-11-01-pomeriggio",
   "category": "Tecnologia · AI",
-  "completedAt": "2026-11-01T06:02:56.104Z",
+  "completedAt": "2026-11-01T16:09:38.198Z",
   "articles": [
     {
-      "id": "tecnologia-ue-social-minori-stop",
-      "eventKey": "commissione-ue-sospende-ddl-nazionali-social-minori-kids-act-30-ottobre-2026",
+      "id": "tecnologia-wikimedia-fair-use-ai",
+      "eventKey": "wikimedia-amicus-brief-nyt-openai-conoscenza-aperta-1-novembre-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "Social e minori, Bruxelles sospende per un anno le nuove proposte nazionali",
-      "summary": "La Commissione UE chiede una pausa di dodici mesi ai disegni di legge notificati dopo il KIDS Act, per evitare regole nazionali divergenti.",
+      "title": "Wikimedia interviene nella causa sul copyright tra New York Times e OpenAI",
+      "summary": "La fondazione chiede al tribunale di distinguere l'addestramento dei modelli dalla riproduzione di articoli nelle risposte.",
       "body": [
-        "La Commissione europea ha annunciato una sospensione di dodici mesi per le nuove proposte nazionali che limitano l'accesso dei minori ai social network. Il provvedimento riguarda i testi notificati dopo la presentazione del KIDS Act.",
-        "Grecia e Francia costituiscono casi distinti per la tempistica delle notifiche. La sospensione non equivale a un'approvazione definitiva delle loro normative."
+        "La Wikimedia Foundation ha presentato un amicus brief nella controversia sul copyright tra New York Times, OpenAI e Microsoft. Teme che un'interpretazione troppo restrittiva del fair use ostacoli progetti di conoscenza aperta, mentre una lettura troppo permissiva potrebbe favorire contenuti riprodotti senza autorizzazione. Propone di distinguere gli usi trasformativi dalla restituzione di copie degli originali."
       ],
-      "publishedAt": "2026-10-30",
-      "verifiedAt": "2026-11-01T06:02:20.105Z",
+      "publishedAt": "2026-11-01",
+      "verifiedAt": "2026-11-01T16:09:37.880Z",
       "source": {
         "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/social-media-stop-leggi-nazionali-divieti-minori/",
+        "url": "https://www.punto-informatico.it/the-new-york-times-vs-openai-avvertimento-wikimedia/",
         "access": "free",
-        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
-        "dateEvidence": "Articolo integrale Punto Informatico: 'Pubblicato il 30 ott 2026', dichiarazioni del portavoce Thomas Regnier e distinzione delle eccezioni.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 84
-    },
-    {
-      "id": "tecnologia-google-home-matter-energia",
-      "eventKey": "google-home-aggiornamento-monitoraggio-consumi-prese-matter-29-ottobre-2026",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "Google Home mostra i consumi elettrici delle prese Matter compatibili",
-      "summary": "L'aggiornamento visualizza potenza istantanea e kilowattora per dispositivi che supportano la misurazione; per ora la novità riguarda Android.",
-      "body": [
-        "Google Home integra i dati energetici comunicati dalle prese e dai contatori Matter compatibili, senza misurare direttamente i consumi. L'app mostra la potenza corrente e l'energia accumulata; il rilascio è progressivo e la funzione non è ancora annunciata per iOS."
-      ],
-      "publishedAt": "2026-10-30",
-      "verifiedAt": "2026-11-01T06:02:20.105Z",
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/google-home-svela-quali-dispositivi-consumano-piu-energia/",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
-        "dateEvidence": "Punto Informatico: 'Pubblicato il 30 ott 2026'; testo cita aggiornamento Google del 29 ottobre e disponibilità iniziale Android.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 72
-    },
-    {
-      "id": "tecnologia-reddit-login-scraping",
-      "eventKey": "reddit-annuncia-test-login-obbligatorio-contro-scraping-ai-30-ottobre-2026",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "Reddit prepara test di accesso obbligatorio per limitare lo scraping AI",
-      "summary": "L'azienda intende sperimentare il login richiesto in alcuni paesi fuori dagli Stati Uniti, lasciando accessibili i link condivisi e i risultati di ricerca.",
-      "body": [
-        "Il CEO Steve Huffman ha illustrato l'intenzione di limitare l'accesso anonimo alla piattaforma per contrastare la raccolta automatizzata non autorizzata di contenuti destinati all'AI. I test sono previsti in alcuni mercati nel quarto trimestre, senza un'immediata estensione mondiale."
-      ],
-      "publishedAt": "2026-10-30",
-      "verifiedAt": "2026-11-01T06:02:20.105Z",
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/reddit-login-obbligatorio-bloccare-scraping-ai/",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
-        "dateEvidence": "Punto Informatico: 'Pubblicato il 30 ott 2026', resoconto delle dichiarazioni CEO Reddit dopo trimestrale e dei test futuri.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 78
-    },
-    {
-      "id": "tecnologia-sony-brevetti-vr-meta",
-      "eventKey": "sony-trasferimento-brevetti-realta-virtuale-meta-1-novembre-2026",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "Sony trasferisce brevetti VR a Meta: dubbi sul futuro dei visori PlayStation",
-      "summary": "Secondo un rapporto citato da Everyeye, il trasferimento comprende brevetti statunitensi già ceduti a Meta; la notizia non conferma la chiusura di PlayStation VR.",
-      "body": [
-        "Everyeye riferisce, citando ZDNet Korea e Road to VR, un piano di trasferimento di 419 brevetti internazionali di Sony nel settore della realtà virtuale. Tra giugno e settembre sarebbero già passati a Meta 43 brevetti negli Stati Uniti. L'articolo interpreta l'operazione come un segnale di ridimensionamento, non come annuncio ufficiale della fine di PSVR."
-      ],
-      "publishedAt": "2026-11-01T00:22:00+01:00",
-      "verifiedAt": "2026-11-01T06:02:20.105Z",
-      "source": {
-        "name": "Everyeye",
-        "url": "https://www.everyeye.it/notizie/sony-cede-brevetti-vr-meta-davvero-playstation-vr-904757.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
-        "dateEvidence": "Everyeye, pagina completa firmata Mario Cariati, 1/11/2026 ore 00:22; dati 419 brevetti e 43 USA attribuiti a ZDNet Korea.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 82
-    },
-    {
-      "id": "tecnologia-rocket-league-one-piece-evento",
-      "eventKey": "rocket-league-evento-one-piece-1-23-novembre-2026",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "Rocket League annuncia un evento dedicato a One Piece dal 1° novembre",
-      "summary": "Sfide e ricompense ispirate alla serie saranno disponibili fino al 23 novembre; l'evento parte alle 18 italiane.",
-      "body": [
-        "Psyonix ha annunciato una collaborazione temporanea tra Rocket League e One Piece. Dal 1° al 23 novembre i giocatori potranno ottenere oggetti a tema completando sfide, tra cui un topper ispirato al cappello di Rufy e altri accessori. Alcuni elementi cosmetici saranno invece acquistabili nel negozio del gioco."
-      ],
-      "publishedAt": "2026-10-31T19:02:00+01:00",
-      "verifiedAt": "2026-11-01T06:02:20.105Z",
-      "source": {
-        "name": "Everyeye",
-        "url": "https://www.everyeye.it/notizie/one-piece-arriva-rocket-league-data-orario-sblocco-evento-piratesco-909088.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T06:02:20.105Z",
-        "dateEvidence": "Everyeye, Michele Galluzzi, 31/10/2026 ore 19:02; articolo riporta orari 1 e 23 novembre e ricompense dal sito ufficiale.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 75
-    }
-  ],
-  "reserveArticles": [
-    {
-      "id": "tecnologia-chatbot-causa-salute",
-      "eventKey": "causa-san-francisco-chatbot-ai-consigli-terapia-epilessia-27-ottobre-2026",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "Una causa negli USA riapre il dibattito sui consigli sanitari dei chatbot",
-      "summary": "La famiglia di una donna deceduta accusa un assistente AI di aver incoraggiato l'interruzione di una terapia; le responsabilità non sono state accertate.",
-      "body": [
-        "Una causa civile depositata il 27 ottobre a San Francisco sostiene che un chatbot avrebbe incoraggiato una donna con epilessia a ridurre e interrompere un farmaco anticonvulsivante. La denuncia è un'accusa dei familiari, non una decisione giudiziaria.",
-        "Il caso evidenzia il rischio di affidarsi a risposte automatizzate per decisioni cliniche. La testata precisa che la responsabilità non è stata stabilita e ricorda che i cambiamenti di terapia richiedono un medico."
-      ],
-      "publishedAt": "2026-10-30",
-      "verifiedAt": "2026-11-01T06:02:55.781Z",
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/quando-ai-sbaglia-di-chi-e-colpa/",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
-        "dateEvidence": "Punto Informatico, articolo integrale pubblicato il 30 ott 2026, riferisce causa depositata il 27 ottobre e assenza di accertamento giudiziario.",
+        "accessCheckedAt": "2026-11-01T16:09:37.880Z",
+        "dateEvidence": "Punto Informatico, testo integrale pubblicato il 1 novembre 2026; riporta l'amicus brief di Wikimedia e le due conseguenze giuridiche possibili.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "tecnologia-whatsapp-quattro-novita-gruppi",
-      "eventKey": "whatsapp-introduce-quattro-funzioni-chat-gruppo-30-ottobre-2026",
+      "id": "tecnologia-standard-crawler-ai",
+      "eventKey": "ietf-proposta-robots-usage-ai-training-anthropic-31-ottobre-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "WhatsApp amplia gli strumenti per organizzare le conversazioni di gruppo",
-      "summary": "Nuovi filtri per menzioni, messaggi fissati più a lungo, recupero di messaggi recenti e stati dedicati ai gruppi.",
+      "title": "Proposto un comando unico per escludere i crawler usati nell'addestramento AI",
+      "summary": "La bozza presentata alla IETF permetterebbe ai siti di indicare una sola regola per diversi operatori, ma il rispetto non è garantito.",
       "body": [
-        "WhatsApp ha presentato quattro novità per le chat collettive. Fra queste un filtro per menzioni e risposte, la possibilità di fissare messaggi in modo permanente e la condivisione di messaggi recenti con i nuovi membri. Gli stati possono inoltre essere limitati ai partecipanti di un gruppo; il rilascio avviene gradualmente."
+        "Kevin Kelley di Anthropic ha proposto uno standard per robots.txt con lo user-agent __usage_ai-training. L'obiettivo è consentire agli editori di esprimere un divieto generale per la raccolta destinata all'addestramento, senza mantenere una regola per ciascun crawler. Il sostegno di altri operatori è annunciato, ma l'adozione è graduale e la conformità non è automatica."
       ],
-      "publishedAt": "2026-10-30",
-      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "publishedAt": "2026-10-31",
+      "verifiedAt": "2026-11-01T16:09:37.880Z",
       "source": {
         "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/whatsapp-quattro-novita-chat-gruppo/",
+        "url": "https://www.punto-informatico.it/proposto-nuovo-standard-bloccare-tutti-crawler-ai/",
         "access": "free",
-        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
-        "dateEvidence": "Punto Informatico, articolo integrale pubblicato il 30 ott 2026, con elenco di quattro funzioni e riferimento al blog ufficiale WhatsApp.",
+        "accessCheckedAt": "2026-11-01T16:09:37.880Z",
+        "dateEvidence": "Punto Informatico, articolo completo pubblicato il 31 ottobre 2026, descrive proposta IETF e istruzioni robots.txt.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "tecnologia-meta-style-sketch-ai",
-      "eventKey": "meta-lancia-style-sketch-outfit-ai-sudest-asiatico-30-ottobre-2026",
+      "id": "tecnologia-binance-attacco-multichain",
+      "eventKey": "binance-furto-63-miliardi-criptovalute-tradertraitor-30-ottobre-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "Meta sperimenta Style Sketch, l'app AI che combina i vestiti già posseduti",
-      "summary": "L'app genera suggerimenti di abbigliamento da fotografie e può usare contenuti Instagram; disponibilità iniziale limitata a tre paesi.",
+      "title": "Binance conferma un attacco ai wallet: gli investigatori seguono dieci blockchain",
+      "summary": "Un'analisi attribuisce a un gruppo nordcoreano un furto multimiliardario avvenuto in circa venti minuti; le indagini restano aperte.",
       "body": [
-        "Meta ha distribuito Style Sketch in Indonesia, Singapore e Thailandia. L'app costruisce un guardaroba virtuale a partire dalle foto degli indumenti e propone abbinamenti, anche per preparare una valigia. Non è stato annunciato un lancio in Italia."
+        "Binance ha confermato la compromissione di hot wallet e la sospensione dei prelievi dopo un attacco. Secondo TRM Labs, il gruppo TraderTraitor avrebbe sottratto criptovalute per circa 6,3 miliardi di dollari su dieci blockchain nell'arco di venti minuti. La piattaforma afferma di voler coprire le perdite; attribuzione e ricostruzione tecnica sono quelle degli investigatori."
       ],
       "publishedAt": "2026-10-30",
-      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "verifiedAt": "2026-11-01T16:09:37.880Z",
       "source": {
         "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/style-sketch-app-ai-meta-crea-outfit-propri-vestiti/",
+        "url": "https://www.punto-informatico.it/fintech/criptovalute/binance-furto-criptovalute-10-blockchain-20-minuti/",
         "access": "free",
-        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
-        "dateEvidence": "Punto Informatico, articolo integrale pubblicato il 30 ott 2026, descrive funzioni e disponibilità di Style Sketch in tre paesi.",
+        "accessCheckedAt": "2026-11-01T16:09:37.880Z",
+        "dateEvidence": "Punto Informatico, articolo del 30 ottobre 2026 aggiornato il 31 ottobre con conferma Binance della compromissione degli hot wallet.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "tecnologia-kutaragi-ps1-nintendo",
-      "eventKey": "ken-kutaragi-smentisce-vendetta-sony-nintendo-origini-playstation-31-ottobre-2026",
+      "id": "tecnologia-petit-planet-switch2",
+      "eventKey": "hoyoverse-petit-planet-switch-2-2027-lancio-4-dicembre-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "Kutaragi smentisce la leggenda della PlayStation nata per vendicarsi di Nintendo",
-      "summary": "Il progettista della prima console Sony racconta che la rottura del progetto con Nintendo fu un'occasione per sviluppare idee autonome.",
+      "title": "Petit Planet arriverà anche su Switch 2, ma non al lancio di dicembre",
+      "summary": "HoYoverse conferma la versione Nintendo per il 2027 e illustra le differenze rispetto alle beta.",
       "body": [
-        "Ken Kutaragi, figura centrale nella nascita di PlayStation, ha dichiarato che il suo gruppo non voleva danneggiare Nintendo dopo la fine del progetto congiunto SNES PlayStation. Ha descritto quella separazione come un cambiamento doloroso ma capace di aprire nuove possibilità di sviluppo."
+        "Durante una diretta dedicata a Petit Planet, HoYoverse ha confermato che il gioco free-to-play uscirà il 4 dicembre 2026 su dispositivi mobili e PC. La versione per Nintendo Switch 2 arriverà nel 2027. Il team promette una personalizzazione più rifinita, nuovi abitanti e ricompense per il lancio."
       ],
-      "publishedAt": "2026-10-31T22:23:00+01:00",
-      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "publishedAt": "2026-11-01T16:12:00+01:00",
+      "verifiedAt": "2026-11-01T16:09:37.880Z",
       "source": {
         "name": "Everyeye",
-        "url": "https://www.everyeye.it/notizie/ps1-sony-non-voleva-demolire-nintendo-papa-playstation-non-era-vendetta-909108.html",
+        "url": "https://www.everyeye.it/notizie/petit-planet-cosa-cambiera-ultima-beta-versione-switch-2-ufficiale-909149.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
-        "dateEvidence": "Everyeye, articolo completo di Michele Galluzzi, 31/10/2026 ore 22:23; riporta intervista a Ken Kutaragi su GamesIndustry.biz.",
+        "accessCheckedAt": "2026-11-01T16:09:37.880Z",
+        "dateEvidence": "Everyeye, Giovanni Panzano, articolo integrale del 1 novembre 2026 alle 16:12; descrive diretta HoYoverse e piattaforme.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "tecnologia-assassins-creed-destiny-rumor",
-      "eventKey": "report-assassins-creed-destiny-cina-progetto-cancellato-timi-31-ottobre-2026",
+      "id": "tecnologia-sony-prezzi-dinamici",
+      "eventKey": "sony-playstation-store-smart-pricing-annuncio-lavoro-1-novembre-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "Assassin's Creed Destiny, un rapporto parla di un progetto ambientato in Cina e cancellato",
-      "summary": "Materiali di un prototipo circolano online; Ubisoft non ha confermato ufficialmente l'esistenza o la cancellazione del gioco.",
+      "title": "Un annuncio di lavoro segnala nuovi test sui prezzi variabili del PlayStation Store",
+      "summary": "Sony cerca un dirigente per ampliare i programmi di monetizzazione digitale; non è confermato un nuovo listino per tutti.",
       "body": [
-        "Secondo un report ripreso da Everyeye, TiMi Studio Group avrebbe sviluppato un progetto di Assassin's Creed ambientato nella Cina della dinastia Qin, poi accantonato. Filmati di un prototipo mostrerebbero sequenze stealth e combattimenti. L'editore non ha commentato: la notizia resta attribuita a indiscrezioni."
+        "Un annuncio per la posizione di Senior Director of Digital Games Monetisation cita la strategia Smart Pricing e le offerte mirate del PlayStation Store. Il riferimento suggerisce che Sony voglia proseguire gli esperimenti di prezzi o sconti differenti per utenti diversi, tema che ha già sollevato domande sulla trasparenza."
       ],
-      "publishedAt": "2026-10-31T00:32:00+01:00",
-      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "publishedAt": "2026-11-01T10:09:00+01:00",
+      "verifiedAt": "2026-11-01T16:09:37.880Z",
       "source": {
         "name": "Everyeye",
-        "url": "https://www.everyeye.it/notizie/assassin-s-creed-destiny-misterioso-gioco-cinese-non-vedremo-mai-906324.html",
+        "url": "https://www.everyeye.it/notizie/vista-svolta-digitale-sony-continua-sperimentare-prezzi-dinamici-909117.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
-        "dateEvidence": "Everyeye, Davide Leoni, articolo completo 31/10/2026 ore 00:32; riporta un report Mp1st e precisa assenza di commento Ubisoft.",
+        "accessCheckedAt": "2026-11-01T16:09:37.880Z",
+        "dateEvidence": "Everyeye, Antonio Izzo, articolo completo del 1 novembre 2026 alle 10:09; esamina annuncio di lavoro Sony e Smart Pricing.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
