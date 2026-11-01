@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-01",
+  "collectionId": "2026-11-01-mattina",
+  "category": "Roma",
+  "completedAt": "2026-11-01T06:16:55Z",
+  "articles": [
+    {
+      "id": "roma-carcaterra-rettore",
+      "eventKey": "sapienza-roma-carcaterra-eletto-rettore-30-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Carcaterra eletto rettore della Sapienza dopo il ballottaggio",
+      "summary": "Il docente di Ingegneria succede ad Antonella Polimeni alla guida dell'ateneo romano.",
+      "body": [
+        "Antonio Carcaterra, ordinario di Meccanica applicata alle macchine, è stato eletto rettore della Sapienza, superando Fabio Lucidi. L'esito è stato annunciato il 30 ottobre.",
+        "Secondo i risultati riportati da ANSA, ha ottenuto 1.920 preferenze dei docenti e 304 degli studenti. Il nuovo rettore subentra ad Antonella Polimeni."
+      ],
+      "publishedAt": "2026-10-30T16:04:00+01:00",
+      "verifiedAt": "2026-11-01T06:16:55Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/30/il-professor-antonio-carcaterra-e-il-nuovo-rettore-della-sapienza-di-roma_f870953c-9727-4b39-bc41-915846197016.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:16:55Z",
+        "dateEvidence": "ANSA Lazio: 30 ottobre 2026 ore 16:04, indicazione esplicita nell'articolo; articolo originale consultato il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 90,
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Sede_Sapienza.jpeg",
+        "alt": "Sede centrale della Sapienza di Roma a piazzale Aldo Moro",
+        "credit": "Carlo Dani / Wikimedia Commons",
+        "rights": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sede_Sapienza.jpeg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "caption": "Repertorio: sede della Sapienza fotografata nel 2016, non la votazione del rettore.",
+        "reuseApproved": true
+      }
+    },
+    {
+      "id": "roma-colosseo-sicurezza",
+      "eventKey": "colosseo-stop-subappalti-edilizia-acrobatica-31-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Colosseo, accordo per fermare subappalti e lavori su funi",
+      "summary": "Dopo la morte di un operaio cambiano le modalità degli interventi nel parco archeologico.",
+      "body": [
+        "Il ministero della Cultura e i sindacati hanno raggiunto un'intesa sulle modalità di lavoro al Parco archeologico del Colosseo. La Cgil annuncia lo stop ai subappalti e all'edilizia acrobatica.",
+        "L'accordo segue la morte di Andrea Moretti, operaio di 22 anni precipitato durante lavori all'illuminazione. La ripresa degli interventi è prevista il 3 novembre; i sindacati chiedono di estendere le tutele ad altri siti."
+      ],
+      "publishedAt": "2026-10-31T17:15:00+01:00",
+      "verifiedAt": "2026-11-01T06:16:55Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/al-colosseo-cambiano-le-regole-dopo-la-morte-delloperaio-stop-ai-subappalti_889df092-47c3-4165-adb5-50b0556a4df6.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:16:55Z",
+        "dateEvidence": "ANSA Cronaca: 31 ottobre 2026 ore 17:15, data mostrata nella fonte; articolo originale consultato il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-cortei-denunce",
+      "eventKey": "roma-cortei-sette-denunciati-369-identificati-31-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Cortei a Roma, sette denunciati e 369 persone identificate",
+      "summary": "La Questura esamina anche eventuali provvedimenti amministrativi dopo le tensioni.",
+      "body": [
+        "Dopo le manifestazioni del 30 ottobre a Roma, la polizia ha comunicato sette denunce e 369 identificazioni. Le contestazioni riguardano, secondo le singole posizioni, resistenza, travisamento, oggetti atti a offendere e blocco stradale.",
+        "Sono ancora al vaglio eventuali responsabilità e misure amministrative, tra cui fogli di via per persone non residenti. Le denunce non equivalgono a condanne."
+      ],
+      "publishedAt": "2026-10-31T20:53:00+01:00",
+      "verifiedAt": "2026-11-01T06:16:55Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/10/31/cortei-a-roma-sette-denunciati-e-369-identificati_f4581e01-9d52-497d-bd01-702f23993f4e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:16:55Z",
+        "dateEvidence": "ANSA Lazio: 31 ottobre 2026 ore 20:53, data riportata nella pagina; articolo originale consultato il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-ostia-antidroga",
+      "eventKey": "roma-ostia-castel-fusano-venti-arresti-droga-31-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Ostia e Castel Fusano, venti arresti nell'operazione antidroga",
+      "summary": "I carabinieri hanno trovato sostanze stupefacenti anche in nascondigli nel verde.",
+      "body": [
+        "Una serie di controlli dei carabinieri coordinati dalla Procura di Roma ha portato a venti arresti nell'area di Ostia, Castel Fusano e Acilia. Le persone coinvolte sono indiziate a vario titolo di reati legati agli stupefacenti.",
+        "Tra i sequestri descritti da Canale Dieci figurano 564 grammi di cocaina nascosti in una fioriera interrata a Castel Fusano e circa mezzo chilo di hashish intercettato a Ostia Antica. Resta ferma la presunzione di innocenza."
+      ],
+      "publishedAt": "2026-10-31",
+      "verifiedAt": "2026-11-01T06:16:55Z",
+      "source": {
+        "name": "Canale Dieci",
+        "url": "https://canaledieci.it/2026/10/31/droga-tra-i-pini-di-castel-fusano-e-ostia-antica-maxi-operazione-dellarma-ventisette-panetti-e-cocaina-interrata/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:16:55Z",
+        "dateEvidence": "Canale Dieci: sabato 31 ottobre 2026, pagina originale senza ora pubblicata; articolo originale consultato il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-corsa-santi",
+      "eventKey": "roma-corsa-dei-santi-1-novembre-2026-chiusure",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Corsa dei Santi, modifiche alla viabilità nel centro di Roma",
+      "summary": "Cinquemila partecipanti attesi; la gara tocca Prati, Vaticano e centro storico.",
+      "body": [
+        "Domenica 1° novembre si svolge la diciottesima Corsa dei Santi, con partenza alle 8:15 da piazza Papa Pio XII. Roma Servizi per la Mobilità indica circa cinquemila partecipanti e due percorsi, di 10 e 19,5 chilometri.",
+        "Dalle 6 sono previste chiusure nella zona di San Pietro e divieti di sosta su numerose strade. Le limitazioni possono interessare anche il centro e Prati durante il passaggio degli atleti."
+      ],
+      "publishedAt": "2026-10-27",
+      "verifiedAt": "2026-11-01T06:16:55Z",
+      "source": {
+        "name": "Roma Servizi per la Mobilità",
+        "url": "https://romamobilita.it/infomobilita/domenica-la-corsa-dei-santi-le-misure-di-viabilita/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:16:55Z",
+        "dateEvidence": "Roma Mobilità: pubblicato 27 ottobre 2026, aggiornato 29 ottobre; evento 1 novembre; articolo originale consultato il 1 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
+}
