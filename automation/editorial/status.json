@@ -1,11 +1,9 @@
 {
   "editionDate": "2026-11-01",
-  "checkedAt": "2026-11-01T05:17:57.048Z",
+  "checkedAt": "2026-11-01T05:18:09.676Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
-    "economia",
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -205,14 +203,74 @@
       "category": "Esteri",
       "title": "Oleshky, Zelensky annuncia il rientro degli evacuati in Ucraina",
       "eventKey": "oleshky-evacuati-ucraini-rientrano-chernihiv-31-ottobre-2026"
+    },
+    {
+      "id": "economia-iata-passeggeri-settembre",
+      "category": "Economia",
+      "title": "Trasporto aereo, passeggeri in calo a settembre",
+      "eventKey": "iata-domanda-passeggeri-settembre-2026-meno-0-5"
+    },
+    {
+      "id": "economia-eurocontrol-jet-fuel",
+      "category": "Economia",
+      "title": "Jet fuel, Eurocontrol registra un rincaro del 114%",
+      "eventKey": "eurocontrol-jet-fuel-ottobre-2026-4-84-gallone"
+    },
+    {
+      "id": "economia-hormuz-gnl-export",
+      "category": "Economia",
+      "title": "Gas liquefatto, Hormuz resta lontano dai livelli precedenti alla guerra",
+      "eventKey": "hormuz-gnl-esportazioni-ottobre-2026-un-terzo-pre-guerra"
+    },
+    {
+      "id": "economia-eurostat-reddito-reale",
+      "category": "Economia",
+      "title": "Eurozona, reddito reale delle famiglie quasi fermo",
+      "eventKey": "eurostat-reddito-reale-famiglie-eurozona-secondo-trimestre-2026"
+    },
+    {
+      "id": "economia-valentino-valdagno-presidio",
+      "category": "Economia",
+      "title": "Valentino, protesta a Venezia contro il trasferimento della logistica",
+      "eventKey": "valentino-valdagno-logistica-83-esuberi-presidio-venezia-31-ottobre-2026"
+    },
+    {
+      "id": "cronaca-nonna-silvi-scomparsa",
+      "category": "Cronaca",
+      "title": "Morta Nonna Silvi, volto della cucina toscana sui social",
+      "eventKey": "silvia-bini-nonna-silvi-morta-montespertoli-31-ottobre-2026"
+    },
+    {
+      "id": "cronaca-milano-paracadutisti-proroga",
+      "category": "Cronaca",
+      "title": "Milano, prevista la permanenza di 500 militari fino a marzo",
+      "eventKey": "milano-500-paracadutisti-proroga-31-marzo-2027-manovra"
+    },
+    {
+      "id": "cronaca-parma-monossido-coppia",
+      "category": "Cronaca",
+      "title": "Parmense, due genitori morti per monossido e neonata grave",
+      "eventKey": "mezzani-parma-monossido-due-genitori-morti-neonata-grave-30-ottobre-2026"
+    },
+    {
+      "id": "cronaca-rovigo-badante-arrestata",
+      "category": "Cronaca",
+      "title": "Rovigo, arrestata una badante sospettata di maltrattamenti",
+      "eventKey": "rovescio-rovigo-badante-arrestata-maltrattamenti-87enne-31-ottobre-2026"
+    },
+    {
+      "id": "cronaca-polesine-sequestro-halloween",
+      "category": "Cronaca",
+      "title": "Polesine, sequestrati 8.500 prodotti di Halloween non sicuri",
+      "eventKey": "rovigo-polesine-sequestro-8500-prodotti-halloween-31-ottobre-2026"
     }
   ],
   "collectionId": "2026-11-01-mattina",
   "reserveCounts": {
     "Politica": 5,
     "Esteri": 5,
-    "Economia": 0,
-    "Cronaca": 0,
+    "Economia": 5,
+    "Cronaca": 5,
     "Roma": 0,
     "Cultura · Teatro · Cinema": 0,
     "Tecnologia · AI": 0,
@@ -251,15 +309,15 @@
     },
     "economia": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "cronaca": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "roma": {
       "base": 0,
