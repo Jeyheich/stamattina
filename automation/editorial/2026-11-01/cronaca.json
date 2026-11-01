@@ -1,229 +1,117 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-11-01",
-  "collectionId": "2026-11-01-mattina",
+  "collectionId": "2026-11-01-pomeriggio",
   "category": "Cronaca",
-  "completedAt": "2026-11-01T05:17:54.209Z",
+  "completedAt": "2026-11-01T15:20:55.773Z",
   "articles": [
     {
-      "id": "cronaca-castro-volsci-accoltellamento",
-      "eventKey": "castro-dei-volsci-lite-stazione-uomo-morto-31-ottobre-2026",
+      "id": "cronaca-ancona-poliziotta-ferita",
+      "eventKey": "ancona-questura-colpo-pistola-poliziotta-ferita-1-novembre-2026",
       "category": "Cronaca",
       "status": "verified",
-      "title": "Lite vicino alla stazione nel Frusinate: morto un uomo di 48 anni",
-      "summary": "L'aggressione con un coltello è avvenuta a Castro dei Volsci; i carabinieri hanno fermato una persona.",
+      "title": "Ancona, agente ferita da uno sparo all'interno della questura",
+      "summary": "La poliziotta è stata operata; la dinamica del colpo è ancora in corso di accertamento.",
       "body": [
-        "Un uomo di 48 anni è morto dopo essere stato ferito con colpi di coltello durante una lite nei pressi del bar della stazione ferroviaria di Castro dei Volsci, in provincia di Frosinone.",
-        "Era stato richiesto un trasferimento in elicottero, ma l'uomo è deceduto. Una persona è stata fermata e sono in corso accertamenti sulla dinamica."
+        "Una giovane agente è rimasta ferita all'addome da un colpo di pistola partito nella zona delle camerate della questura di Ancona, vicino ai bagni comuni.",
+        "Trasportata d'urgenza all'ospedale di Torrette, è stata sottoposta a intervento chirurgico ed è in prognosi riservata. Gli investigatori verificano se lo sparo sia stato accidentale."
       ],
-      "publishedAt": "2026-10-31T23:08:00+01:00",
-      "verifiedAt": "2026-11-01T05:17:30.409Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/10/31/frusinate-lite-morto",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T05:17:30.409Z",
-        "dateEvidence": "Articolo originale Sky TG24 consultato integralmente il 1 novembre 2026; la pagina indica la pubblicazione 2026-10-31T23:08:00+01:00, mantenuta senza aggiornamenti fittizi.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-acri-bambino-balcone",
-      "eventKey": "acri-cosenza-bambino-cinque-anni-caduta-balcone-31-ottobre-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Acri, bambino di cinque anni cade dal secondo piano",
-      "summary": "Il piccolo è stato trasferito in elisoccorso a Cosenza; le sue condizioni sono gravi.",
-      "body": [
-        "Un bambino di cinque anni è caduto dal secondo piano di un edificio ad Acri, nel Cosentino. Dopo le prime cure nell'ospedale cittadino, è stato trasferito all'Annunziata di Cosenza.",
-        "Le forze dell'ordine stanno ricostruendo le circostanze. Secondo le prime informazioni si tratterebbe di una caduta accidentale, ma gli accertamenti sono ancora in corso."
-      ],
-      "publishedAt": "2026-10-31T20:03:00+01:00",
-      "verifiedAt": "2026-11-01T05:17:30.409Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/10/31/cosentino-bimbo-cade-da-balcone-grave",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T05:17:30.409Z",
-        "dateEvidence": "Articolo originale Sky TG24 consultato integralmente il 1 novembre 2026; la pagina indica la pubblicazione 2026-10-31T20:03:00+01:00, mantenuta senza aggiornamenti fittizi.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-digos-perquisizioni-cortei",
-      "eventKey": "digos-polizia-postale-60-perquisizioni-23-citta-31-ottobre-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Cortei, 60 perquisizioni in 23 città dopo gli appelli alla violenza",
-      "summary": "L'operazione di Digos e Polizia postale riguarda messaggi pubblicati in chat e sui social.",
-      "body": [
-        "Le forze di polizia hanno eseguito 60 perquisizioni in 23 città italiane nell'ambito di accertamenti su incitamenti alla violenza nelle manifestazioni.",
-        "Le verifiche sono seguite ai cortei e agli episodi di tensione dei giorni precedenti. Le perquisizioni non equivalgono a condanne e gli accertamenti proseguono."
-      ],
-      "publishedAt": "2026-10-31T10:14:00+01:00",
-      "verifiedAt": "2026-11-01T05:17:30.409Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/10/31/cortei-perquisizioni-news-oggi",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T05:17:30.409Z",
-        "dateEvidence": "Articolo originale Sky TG24 consultato integralmente il 1 novembre 2026; la pagina indica la pubblicazione 2026-10-31T10:14:00+01:00, mantenuta senza aggiornamenti fittizi.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-lucca-monossido-famiglia",
-      "eventKey": "ponte-a-moriano-famiglia-intossicata-monossido-31-ottobre-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Lucca, quattro familiari ricoverati per monossido di carbonio",
-      "summary": "Tra gli intossicati ci sono due bambini di uno e tre anni; trasferimento a Pisa per il trattamento iperbarico.",
-      "body": [
-        "A Ponte a Moriano una coppia e i due figli piccoli hanno accusato malori nella notte e sono stati soccorsi dal 118 e dai vigili del fuoco.",
-        "Dopo la prima valutazione in ospedale a Lucca, tutti e quattro sono stati trasferiti al Santa Chiara di Pisa per il trattamento in camera iperbarica. Le cause delle esalazioni sono ancora in accertamento."
-      ],
-      "publishedAt": "2026-10-31T09:04:00+01:00",
-      "verifiedAt": "2026-11-01T05:17:30.409Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/10/31/famiglia-bimbi-piccoli-intossicata-monossido-lucca",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T05:17:30.409Z",
-        "dateEvidence": "Articolo originale Sky TG24 consultato integralmente il 1 novembre 2026; la pagina indica la pubblicazione 2026-10-31T09:04:00+01:00, mantenuta senza aggiornamenti fittizi.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-torremaggiore-esplosione-ticket",
-      "eventKey": "torremaggiore-esplosione-cassa-ticket-sanitari-31-ottobre-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Torremaggiore, esplosione danneggia il presidio sanitario",
-      "summary": "Distrutta una cassa automatica per i ticket; indagini sulle cause e disagi per i servizi.",
-      "body": [
-        "Una deflagrazione avvenuta intorno alle cinque del mattino ha distrutto la cassa automatica dei ticket nel presidio sanitario di Torremaggiore, in provincia di Foggia.",
-        "I carabinieri e gli artificieri verificano la natura dell'esplosione e se sia stato asportato denaro. La struttura ha subito danni e sono previste difficoltà nell'erogazione dei servizi."
-      ],
-      "publishedAt": "2026-10-31T09:11:00+01:00",
-      "verifiedAt": "2026-11-01T05:17:30.409Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/10/31/foggia-esplosione-cassa-ticket",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T05:17:30.409Z",
-        "dateEvidence": "Articolo originale Sky TG24 consultato integralmente il 1 novembre 2026; la pagina indica la pubblicazione 2026-10-31T09:11:00+01:00, mantenuta senza aggiornamenti fittizi.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    }
-  ],
-  "reserveArticles": [
-    {
-      "id": "cronaca-nonna-silvi-scomparsa",
-      "eventKey": "silvia-bini-nonna-silvi-morta-montespertoli-31-ottobre-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Morta Nonna Silvi, volto della cucina toscana sui social",
-      "summary": "Silvia Bini aveva 85 anni; i familiari hanno comunicato la notizia attraverso i suoi canali.",
-      "body": [
-        "È morta a Montespertoli, in provincia di Firenze, Silvia Bini, conosciuta come Nonna Silvi per i video dedicati alla cucina tradizionale toscana.",
-        "I nipoti hanno annunciato la scomparsa sui social, spiegando che era stata colpita da una malattia rapida. L'attività digitale aveva raggiunto milioni di follower."
-      ],
-      "publishedAt": "2026-10-31T11:21:00+01:00",
-      "verifiedAt": "2026-11-01T05:17:54.209Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/10/31/nonna-silvi-morta",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
-        "dateEvidence": "Fonte originale Sky TG24 letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T11:21:00+01:00. Data di pubblicazione originale, non modificata.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-milano-paracadutisti-proroga",
-      "eventKey": "milano-500-paracadutisti-proroga-31-marzo-2027-manovra",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Milano, prevista la permanenza di 500 militari fino a marzo",
-      "summary": "La proroga della presenza dei paracadutisti dopo gli scontri di ottobre compare nella manovra.",
-      "body": [
-        "I 500 militari arrivati a Milano dopo gli scontri del 17 e 18 ottobre dovrebbero rimanere in città fino al 31 marzo 2027.",
-        "La proroga è contenuta in un articolo della manovra finanziaria 2027, ancora all'esame parlamentare: non è una misura già definitivamente approvata."
-      ],
-      "publishedAt": "2026-10-31T17:36:00+01:00",
-      "verifiedAt": "2026-11-01T05:17:54.209Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/video/2026/10/31/scontri-milano-manovra-i-500-para-saranno-in-citta-fino-a-313-1136213",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
-        "dateEvidence": "Fonte originale Sky TG24 letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T17:36:00+01:00. Data di pubblicazione originale, non modificata.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-parma-monossido-coppia",
-      "eventKey": "mezzani-parma-monossido-due-genitori-morti-neonata-grave-30-ottobre-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Parmense, due genitori morti per monossido e neonata grave",
-      "summary": "La tragedia è avvenuta in un'abitazione a Mezzani; il figlio adolescente è sopravvissuto.",
-      "body": [
-        "Due genitori sono morti per esalazioni di monossido di carbonio in una casa nella zona di Mezzani, in provincia di Parma. La figlia di sette mesi è stata ricoverata in gravi condizioni.",
-        "Secondo la ricostruzione pubblicata dall'ANSA, le esalazioni sarebbero provenute da un braciere acceso per riscaldarsi. Il figlio di 14 anni ha dato l'allarme insieme ai familiari."
-      ],
-      "publishedAt": "2026-10-30T18:49:00+01:00",
-      "verifiedAt": "2026-11-01T05:17:54.209Z",
+      "publishedAt": "2026-11-01T13:34:00+01:00",
+      "verifiedAt": "2026-11-01T15:20:55.773Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/due-morti-per-monossido-e-una-neonata-grave-nel-parmense_2c7b7cee-2629-40ef-b76b-7e338f20334b.html",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/01/parte-un-colpo-di-pistola-poliziotta-ferita-in-questura-ad-ancona_b374b0a2-f2d7-47cc-af90-a788734a0bf0.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
-        "dateEvidence": "Fonte originale ANSA letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-30T18:49:00+01:00. Data di pubblicazione originale, non modificata.",
+        "accessCheckedAt": "2026-11-01T15:20:55.773Z",
+        "dateEvidence": "Articolo originale ANSA consultato integralmente il 1 novembre 2026; data e ora riportate nella pagina: 2026-11-01T13:34:00+01:00.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "cronaca-rovigo-badante-arrestata",
-      "eventKey": "rovescio-rovigo-badante-arrestata-maltrattamenti-87enne-31-ottobre-2026",
+      "id": "cronaca-bosnia-rientro-salme",
+      "eventKey": "bosnia-elicottero-militare-rientro-salme-ciampino-2-novembre-2026",
       "category": "Cronaca",
       "status": "verified",
-      "title": "Rovigo, arrestata una badante sospettata di maltrattamenti",
-      "summary": "La donna, 48 anni, è stata posta ai domiciliari nell'ambito di un'indagine su una 87enne.",
+      "title": "Elicottero caduto in Bosnia, previsto lunedì il rientro delle salme",
+      "summary": "Il volo militare con i corpi delle quattro vittime è atteso all'aeroporto di Ciampino.",
       "body": [
-        "I carabinieri di Arquà Polesine hanno arrestato una badante italiana di 48 anni, posta ai domiciliari su disposizione della Procura di Rovigo.",
-        "L'accusa riguarda maltrattamenti fisici e verbali a un'anziana di 87 anni non autosufficiente. La responsabilità penale dovrà essere accertata nel procedimento."
+        "È previsto per la mattina del 2 novembre l'arrivo in Italia delle salme dei quattro militari morti nello schianto di un elicottero in Bosnia.",
+        "A bordo del volo militare diretto a Ciampino saranno i corpi di Simone Ruggia, Claudio Marchesi, Franco Adriano Zecchillo e Laura Procacci, appartenenti alle componenti militari coinvolte nell'incidente."
       ],
-      "publishedAt": "2026-10-31T14:04:00+01:00",
-      "verifiedAt": "2026-11-01T05:17:54.209Z",
+      "publishedAt": "2026-11-01T15:40:00+01:00",
+      "verifiedAt": "2026-11-01T15:20:55.773Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/veneto/notizie/2026/10/31/badante-arrestata-per-maltrattamenti-ad-unanziana_17a165ab-d32d-4b76-92b7-114efb03e9d4.html",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/01/elicottero-caduto-in-bosnia-domani-il-rientro-delle-salme-in-italia_5d34d699-5dfe-4198-bff4-b4a4c9e4c0a9.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
-        "dateEvidence": "Fonte originale ANSA letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T14:04:00+01:00. Data di pubblicazione originale, non modificata.",
+        "accessCheckedAt": "2026-11-01T15:20:55.773Z",
+        "dateEvidence": "Articolo originale ANSA consultato integralmente il 1 novembre 2026; data e ora riportate nella pagina: 2026-11-01T15:40:00+01:00.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "cronaca-polesine-sequestro-halloween",
-      "eventKey": "rovigo-polesine-sequestro-8500-prodotti-halloween-31-ottobre-2026",
+      "id": "cronaca-arezzo-broker-fermo",
+      "eventKey": "arezzo-broker-luciano-bonfiglio-morto-fermo-29enne-1-novembre-2026",
       "category": "Cronaca",
       "status": "verified",
-      "title": "Polesine, sequestrati 8.500 prodotti di Halloween non sicuri",
-      "summary": "La Guardia di finanza ha rilevato carenze nelle etichette di sicurezza e nei pittogrammi.",
+      "title": "Arezzo, broker trovato morto: fermato un uomo di 29 anni",
+      "summary": "La vittima è stata trovata vicino all'auto con una ferita alla testa; proseguono le indagini.",
       "body": [
-        "Nei controlli in esercizi commerciali di Rovigo, Adria e Occhiobello, la Guardia di finanza ha sequestrato circa 8.500 articoli ritenuti non conformi alle regole di sicurezza.",
-        "Tra i prodotti figurano oggetti a tema Halloween, bigiotteria e bombolette spray. Le irregolarità riguardano soprattutto informazioni obbligatorie e simboli di pericolo mancanti."
+        "La polizia ha fermato un cittadino colombiano di 29 anni nell'inchiesta sulla morte di Luciano Bonfiglio, broker sessantunenne trovato la sera del 31 ottobre vicino a un'auto nella zona di San Zeno, ad Arezzo.",
+        "L'intervento è seguito alla segnalazione di una lite all'interno di una vettura. Gli investigatori hanno esaminato telecamere e testimonianze; il fermato si è avvalso della facoltà di non rispondere. La sua responsabilità deve essere accertata."
       ],
-      "publishedAt": "2026-10-31T10:49:00+01:00",
-      "verifiedAt": "2026-11-01T05:17:54.209Z",
+      "publishedAt": "2026-11-01T15:10:00+01:00",
+      "verifiedAt": "2026-11-01T15:20:55.773Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/veneto/notizie/2026/10/31/sequestrati-8.500-prodotti-di-halloween-non-sicuri-in-polesine_f6a5704d-0a4d-428e-a3a4-b84a199e5781.html",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/01/broker-di-61-anni-trovato-morto-vicino-la-sua-auto-fermato-un-29enne_391c5158-866b-42b5-8df9-4b9911851a11.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
-        "dateEvidence": "Fonte originale ANSA letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T10:49:00+01:00. Data di pubblicazione originale, non modificata.",
+        "accessCheckedAt": "2026-11-01T15:20:55.773Z",
+        "dateEvidence": "Articolo originale ANSA consultato integralmente il 1 novembre 2026; data e ora riportate nella pagina: 2026-11-01T15:10:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-torino-controlli-halloween",
+      "eventKey": "torino-weekend-halloween-otto-arresti-diciotto-denunce-1-novembre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Torino, otto arresti e diciotto denunce nei controlli di Halloween",
+      "summary": "Identificate circa 1.400 persone e controllati oltre 280 veicoli.",
+      "body": [
+        "I servizi ordinari e straordinari della questura durante il weekend di Halloween a Torino hanno portato a otto arresti e diciotto denunce, con circa 1.400 persone identificate.",
+        "Le verifiche hanno riguardato anche dodici locali della movida, con sanzioni amministrative superiori a 16.500 euro per irregolarità riscontrate in cinque esercizi."
+      ],
+      "publishedAt": "2026-11-01T12:42:00+01:00",
+      "verifiedAt": "2026-11-01T15:20:55.773Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/01/a-torino-otto-arresti-e-18-denunce-nei-controlli-del-weekend-di-halloween_c8600aa9-83cd-44d5-a221-d27555b78623.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T15:20:55.773Z",
+        "dateEvidence": "Articolo originale ANSA consultato integralmente il 1 novembre 2026; data e ora riportate nella pagina: 2026-11-01T12:42:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-positano-auto-in-bilico",
+      "eventKey": "positano-auto-sfonda-ringhiera-precipizio-conducente-salvo-31-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Positano, auto sfonda una ringhiera e rimane sospesa sul vuoto",
+      "summary": "Il conducente è riuscito a uscire illeso da gravi conseguenze.",
+      "body": [
+        "Un'automobile ha sfondato una ringhiera lungo via Guglielmo Marconi, a Positano, nella serata del 31 ottobre, fermandosi in bilico su un precipizio.",
+        "Il conducente è riuscito a lasciare l'abitacolo senza conseguenze gravi. I vigili del fuoco di Maiori hanno messo in sicurezza l'area e recuperato il mezzo con un'autogru."
+      ],
+      "publishedAt": "2026-11-01T11:52:00+01:00",
+      "verifiedAt": "2026-11-01T15:20:55.773Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/01/auto-sfonda-la-ringhiera-e-resta-in-bilico-nel-vuoto-tragedia-sfiorata_e72c8aa6-81a7-468a-baff-cae32ee610d4.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T15:20:55.773Z",
+        "dateEvidence": "Articolo originale ANSA consultato integralmente il 1 novembre 2026; data e ora riportate nella pagina: 2026-11-01T11:52:00+01:00.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
