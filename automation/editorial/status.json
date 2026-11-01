@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-01",
-  "checkedAt": "2026-11-01T05:09:14.600Z",
+  "checkedAt": "2026-11-01T05:09:44.591Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -163,9 +163,14 @@
       "id": "politica-difesa-manovra-riserva-caccia",
       "category": "Politica",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Chigi_Roma_giugno_2024.jpg"
+    },
+    {
+      "id": "esteri-trump-iran-pickaxe",
+      "category": "Esteri",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg"
     }
   ],
-  "photosAvailable": 1,
+  "photosAvailable": 2,
   "categoryProgress": {
     "politica": {
       "base": 5,
