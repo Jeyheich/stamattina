@@ -3,8 +3,6 @@
   "editionDate": "2026-11-01",
   "collectionId": "2026-11-01-pomeriggio",
   "category": "Esteri",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-01T15:09:15.874Z",
   "articles": [
     {
       "id": "esteri-zelensky-bilancio-fronte-ottobre",
@@ -128,5 +126,118 @@
       },
       "leadPriority": 88
     }
-  ]
+  ],
+  "reserveArticles": [
+    {
+      "id": "esteri-barcellona-blitz-halloween",
+      "eventKey": "barcellona-polizia-blitz-halloween-blocus-3-arresti-1-novembre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Barcellona, operazione di polizia contro i disordini annunciati per Halloween",
+      "summary": "Le autorità catalane riferiscono tre arresti, 127 denunce e oltre 1.400 identificazioni.",
+      "body": [
+        "La polizia catalana ha schierato un ampio dispositivo di sicurezza a Barcellona per prevenire i saccheggi annunciati sui social per la notte di Halloween.",
+        "Secondo il bilancio diffuso il 1° novembre, sono state identificate 1.440 persone, con tre arresti e 127 denunce. Le autorità riferiscono che l'operazione ha impedito nuovi gravi incidenti."
+      ],
+      "publishedAt": "2026-11-01T13:02:00+01:00",
+      "verifiedAt": "2026-11-01T15:09:42.792Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/01/a-barcellona-3-arresti-127-denunciati-e-1440-identificati-in-blitz-anti-disordini_9573d12d-1c40-465c-8a83-655485ab685a.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T15:09:42.792Z",
+        "dateEvidence": "ANSA, Madrid, 1 novembre 2026 ore 13:02, comunicato dei Mossos d'Esquadra su operazione anti-disordini; fonte letta nel pomeriggio, ANSA soggetta a limite mensile.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-polonia-ue-giudici",
+      "eventKey": "commissione-europea-chiede-polonia-ratifica-otto-giudici-31-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "La Commissione UE sollecita la ratifica di otto giudici in Polonia",
+      "summary": "Bruxelles interviene nella crisi istituzionale dopo il rifiuto del presidente Nawrocki di convalidare le nomine.",
+      "body": [
+        "La Commissione europea ha invitato il presidente polacco Karol Nawrocki a convalidare le nomine di otto giudici del Tribunale costituzionale.",
+        "Bruxelles ha ricordato che la designazione compete alla camera bassa del Parlamento, il Sejm, e ha chiesto il rispetto della Costituzione e della giurisprudenza europea. L'appello segue consultazioni fra le forze politiche."
+      ],
+      "publishedAt": "2026-10-31T22:19:00+01:00",
+      "verifiedAt": "2026-11-01T15:09:42.792Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/31/commissione-ue-presidente-polonia-convalidi-la-nomina-dei-nuovi-giudici_81b7aa42-d075-48ed-a709-a9590721fbe8.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T15:09:42.792Z",
+        "dateEvidence": "ANSA-AFP, Bruxelles, 31 ottobre 2026 ore 22:19, dichiarazioni del portavoce Commissione UE; articolo originale consultato il 1 novembre 2026 alle 06:08-06:09 Europe/Rome; lettura gratuita ANSA soggetta a limite mensile. Pagina originale riletta integralmente il 1 novembre 2026 nel pomeriggio (Europe/Rome), data originale conservata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-francia-proteste-carovita",
+      "eventKey": "francia-proteste-carovita-31-ottobre-2026-320mila-565-fermi",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Francia, proteste contro il carovita e centinaia di fermi",
+      "summary": "Il ministero dell'Interno stima oltre 320mila manifestanti; sindacati e studenti forniscono una cifra più alta.",
+      "body": [
+        "Il 31 ottobre cortei contro il carovita hanno attraversato numerose città francesi, con scontri a Parigi, Lione e Marsiglia.",
+        "Secondo il ministero dell'Interno i manifestanti sono stati oltre 320mila e i fermi 565; sindacati e organizzazioni studentesche parlano di circa 500mila presenze. Le cifre sono attribuite alle rispettive fonti."
+      ],
+      "publishedAt": "2026-10-31T14:13:00+01:00",
+      "verifiedAt": "2026-11-01T15:09:42.792Z",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/internazionale/esteri/manifestazioni-francia-oggi-ultime-notizie-parigi_6D12dRSNTdnxz4IiZWPued",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T15:09:42.792Z",
+        "dateEvidence": "Adnkronos, 31 ottobre 2026 ore 14:13, bilanci di ministero dell'Interno e sindacati; pagina originale letta il 1 novembre 2026 alle 06:09 Europe/Rome; data originale conservata. Pagina originale riletta integralmente il 1 novembre 2026 nel pomeriggio (Europe/Rome), data originale conservata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-rubio-lavrov-apec",
+      "eventKey": "rubio-lavrov-discutono-possibile-incontro-putin-trump-apec-31-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Rubio riferisce di colloqui su un possibile incontro Trump-Putin",
+      "summary": "Il segretario di Stato americano dice di averne parlato con Lavrov, ma non conferma la partecipazione di Putin al G20.",
+      "body": [
+        "Marco Rubio ha dichiarato di aver discusso brevemente con il ministro russo Sergej Lavrov la possibilità di un incontro tra Donald Trump e Vladimir Putin in occasione dell'Apec di novembre.",
+        "Il segretario di Stato ha aggiunto di non sapere se Putin sarà presente a Miami per il G20. Non esiste nell'articolo la conferma di un vertice fissato."
+      ],
+      "publishedAt": "2026-10-31T17:55:00+01:00",
+      "verifiedAt": "2026-11-01T15:09:42.792Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/31/rubio-non-so-se-putin-sara-a-miami-con-lavrov-discusso-possibile-incontro_7b4dda7a-1108-4f93-bef8-b95a27949d2c.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T15:09:42.792Z",
+        "dateEvidence": "ANSA, Washington, 31 ottobre 2026 ore 17:55, dichiarazioni del segretario di Stato Rubio; pagina originale letta il 1 novembre 2026 alle 06:09 Europe/Rome; data originale conservata. ANSA prevede un limite mensile alle letture gratuite. Pagina originale riletta integralmente il 1 novembre 2026 nel pomeriggio (Europe/Rome), data originale conservata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-ucraina-oleshky-evacuati",
+      "eventKey": "oleshky-evacuati-ucraini-rientrano-chernihiv-31-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Oleshky, Zelensky annuncia il rientro degli evacuati in Ucraina",
+      "summary": "Il presidente riferisce che i residenti hanno raggiunto la regione di Chernihiv e riceveranno assistenza.",
+      "body": [
+        "Volodymyr Zelensky ha comunicato che gli abitanti evacuati da Oleshky hanno attraversato il confine e sono rientrati in territorio ucraino attraverso la regione di Chernihiv.",
+        "Il presidente ha chiesto che rimanga aperto l'accesso umanitario e ha invocato ulteriori passi verso la de-escalation. Il risultato è attribuito alle autorità ucraine."
+      ],
+      "publishedAt": "2026-10-31T16:15:00+01:00",
+      "verifiedAt": "2026-11-01T15:09:42.792Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/31/zelensky-rientrati-in-ucraina-i-residenti-evacuati-da-oleshky_d14d72d2-001b-4648-af44-3614bbe40fd6.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T15:09:42.792Z",
+        "dateEvidence": "ANSA, Roma, 31 ottobre 2026 ore 16:15, annuncio Zelensky su X; pagina originale letta il 1 novembre 2026 alle 06:09 Europe/Rome; data originale conservata. ANSA prevede un limite mensile alle letture gratuite. Pagina originale riletta integralmente il 1 novembre 2026 nel pomeriggio (Europe/Rome), data originale conservata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "completedAt": "2026-11-01T15:09:42.792Z"
 }
