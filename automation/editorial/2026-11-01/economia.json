@@ -3,7 +3,7 @@
   "editionDate": "2026-11-01",
   "collectionId": "2026-11-01-mattina",
   "category": "Economia",
-  "completedAt": "2026-11-01T05:17:30.409Z",
+  "completedAt": "2026-11-01T05:17:54.209Z",
   "articles": [
     {
       "id": "economia-binance-ripristino-90",
@@ -124,6 +124,118 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
         "caption": "Immagine di repertorio: Palazzo Mezzanotte a Milano, fotografato nel settembre 2022; non documenta la seduta del 30 ottobre 2026.",
         "reuseApproved": true
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "economia-iata-passeggeri-settembre",
+      "eventKey": "iata-domanda-passeggeri-settembre-2026-meno-0-5",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Trasporto aereo, passeggeri in calo a settembre",
+      "summary": "La Iata rileva una diminuzione annua dello 0,5% nella domanda passeggeri, mentre il cargo cresce del 7,7%.",
+      "body": [
+        "La domanda mondiale di trasporto aereo passeggeri a settembre è diminuita dello 0,5% rispetto al 2025, secondo la Iata.",
+        "Il trasporto merci è invece aumentato del 7,7%, nonostante i maggiori costi del carburante e le difficoltà delle compagnie nel mantenere la redditività."
+      ],
+      "publishedAt": "2026-10-31T11:16:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:54.209Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/iata-in-calo-a-settembre-05-domanda-trasporto-aereo-passeggeri_c0998812-091d-47a4-8fd4-a62b24c579a1.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
+        "dateEvidence": "Fonte originale ANSA letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T11:16:00+01:00. Data di pubblicazione originale, non modificata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-eurocontrol-jet-fuel",
+      "eventKey": "eurocontrol-jet-fuel-ottobre-2026-4-84-gallone",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Jet fuel, Eurocontrol registra un rincaro del 114%",
+      "summary": "Il carburante per aerei in Europa ha raggiunto a ottobre 4,84 dollari al gallone.",
+      "body": [
+        "Eurocontrol riferisce che la media europea del prezzo del carburante per aerei in ottobre è salita a 4,84 dollari al gallone, contro 2,26 nel periodo gennaio-febbraio.",
+        "L'incremento del 114% rispetto al periodo precedente alla crisi mediorientale ha portato il prezzo al livello mensile più alto dall'inizio della crisi."
+      ],
+      "publishedAt": "2026-10-31T10:58:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:54.209Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/eurocontrol-prezzo-medio-del-carburante-per-aerei-a-484-dollari-al-gallone_e1046041-cc8e-43fa-8d75-4fc69f314ebf.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
+        "dateEvidence": "Fonte originale ANSA letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T10:58:00+01:00. Data di pubblicazione originale, non modificata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-hormuz-gnl-export",
+      "eventKey": "hormuz-gnl-esportazioni-ottobre-2026-un-terzo-pre-guerra",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Gas liquefatto, Hormuz resta lontano dai livelli precedenti alla guerra",
+      "summary": "Le spedizioni di Gnl attraverso lo stretto non raggiungono un terzo dei volumi precedenti al conflitto.",
+      "body": [
+        "Secondo dati di tracciamento navale analizzati da Kpler e Bloomberg, a ottobre circa 27 navi cisterna cariche di Gnl hanno attraversato lo Stretto di Hormuz verso est.",
+        "I transiti sono simili a settembre, ma restano sotto un terzo dei livelli precedenti alla guerra. Il conteggio potrebbe sottostimare i passaggi di navi che non trasmettono la posizione."
+      ],
+      "publishedAt": "2026-10-31T12:24:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:54.209Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://videoembed.ansa.it/sito/notizie/economia/2026/10/31/lexport-di-gnl-attraverso-hormuz-ancora-ad-un-terzo-dai-livelli-pre-guerra_1ca338aa-35c2-435a-a292-859b1b21dd4f.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
+        "dateEvidence": "Fonte originale ANSA letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T12:24:00+01:00. Data di pubblicazione originale, non modificata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-eurostat-reddito-reale",
+      "eventKey": "eurostat-reddito-reale-famiglie-eurozona-secondo-trimestre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Eurozona, reddito reale delle famiglie quasi fermo",
+      "summary": "Eurostat indica un aumento dello 0,1% del reddito reale pro capite nel secondo trimestre.",
+      "body": [
+        "Nel secondo trimestre del 2026 il reddito reale pro capite delle famiglie nell'area euro è cresciuto dello 0,1%, secondo i dati Eurostat riportati da Sky TG24.",
+        "I consumi reali pro capite sono aumentati dello 0,3% e il tasso di risparmio delle famiglie è diminuito di 0,2 punti percentuali."
+      ],
+      "publishedAt": "2026-10-31T15:12:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:54.209Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/31/reddito-reale-famiglie-ue-prezzi-eurostat",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
+        "dateEvidence": "Fonte originale Sky TG24 letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T15:12:00+01:00. Data di pubblicazione originale, non modificata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-valentino-valdagno-presidio",
+      "eventKey": "valentino-valdagno-logistica-83-esuberi-presidio-venezia-31-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Valentino, protesta a Venezia contro il trasferimento della logistica",
+      "summary": "I lavoratori di Valdagno contestano il progetto di spostare il magazzino a Trecate e il rischio di 83 licenziamenti.",
+      "body": [
+        "Una ventina di addetti del magazzino Valentino di Valdagno ha manifestato davanti alla boutique veneziana del marchio, indossando maschere di Halloween.",
+        "I lavoratori contestano il trasferimento delle attività a Trecate, in provincia di Novara, che secondo la ricostruzione riportata potrebbe comportare 83 licenziamenti su 109 dipendenti."
+      ],
+      "publishedAt": "2026-10-31T14:03:00+01:00",
+      "verifiedAt": "2026-11-01T05:17:54.209Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/lavoratori-vestiti-da-halloween-davanti-alla-boutique-di-valentino-a-venezia_58674634-88cd-4f98-8d9d-3ab63cd208e6.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
+        "dateEvidence": "Fonte originale ANSA letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T14:03:00+01:00. Data di pubblicazione originale, non modificata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ]
