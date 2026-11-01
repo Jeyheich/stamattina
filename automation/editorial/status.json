@@ -1,13 +1,11 @@
 {
   "editionDate": "2026-11-01",
-  "checkedAt": "2026-11-01T06:02:49.406Z",
+  "checkedAt": "2026-11-01T06:03:12.682Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
     "roma",
-    "cultura",
-    "tecnologia",
-    "sport"
+    "cultura"
   ],
   "completed": [
     "politica",
@@ -323,6 +321,66 @@
       "category": "Cronaca",
       "title": "Polesine, sequestrati 8.500 prodotti di Halloween non sicuri",
       "eventKey": "rovigo-polesine-sequestro-8500-prodotti-halloween-31-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-chatbot-causa-salute",
+      "category": "Tecnologia · AI",
+      "title": "Una causa negli USA riapre il dibattito sui consigli sanitari dei chatbot",
+      "eventKey": "causa-san-francisco-chatbot-ai-consigli-terapia-epilessia-27-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-whatsapp-quattro-novita-gruppi",
+      "category": "Tecnologia · AI",
+      "title": "WhatsApp amplia gli strumenti per organizzare le conversazioni di gruppo",
+      "eventKey": "whatsapp-introduce-quattro-funzioni-chat-gruppo-30-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-meta-style-sketch-ai",
+      "category": "Tecnologia · AI",
+      "title": "Meta sperimenta Style Sketch, l'app AI che combina i vestiti già posseduti",
+      "eventKey": "meta-lancia-style-sketch-outfit-ai-sudest-asiatico-30-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-kutaragi-ps1-nintendo",
+      "category": "Tecnologia · AI",
+      "title": "Kutaragi smentisce la leggenda della PlayStation nata per vendicarsi di Nintendo",
+      "eventKey": "ken-kutaragi-smentisce-vendetta-sony-nintendo-origini-playstation-31-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-assassins-creed-destiny-rumor",
+      "category": "Tecnologia · AI",
+      "title": "Assassin's Creed Destiny, un rapporto parla di un progetto ambientato in Cina e cancellato",
+      "eventKey": "report-assassins-creed-destiny-cina-progetto-cancellato-timi-31-ottobre-2026"
+    },
+    {
+      "id": "sport-juve-spalletti-vigilia-napoli",
+      "category": "Sport",
+      "title": "Spalletti chiede una reazione alla Juventus prima della sfida col Napoli",
+      "eventKey": "spalletti-chiede-reazione-juventus-vigilia-napoli-31-ottobre-2026"
+    },
+    {
+      "id": "sport-san-siro-striscione-tifosi-inter",
+      "category": "Sport",
+      "title": "A San Siro protesta dei tifosi dell'Inter contro la demolizione dello stadio",
+      "eventKey": "tifosi-inter-striscione-contro-demolizione-san-siro-derby-31-ottobre-2026"
+    },
+    {
+      "id": "sport-figc-malago-galliani-elezioni",
+      "category": "Sport",
+      "title": "FIGC, la sfida Malagò-Galliani passa ai voti delle leghe",
+      "eventKey": "figc-sfida-malago-galliani-firme-serie-a-voti-leghe-31-ottobre-2026"
+    },
+    {
+      "id": "sport-antonelli-matchpoint-messico",
+      "category": "Sport",
+      "title": "Antonelli può conquistare il Mondiale F1 già nel GP del Messico",
+      "eventKey": "kimi-antonelli-secondo-match-point-mondiale-messico-1-novembre-2026"
+    },
+    {
+      "id": "sport-alcaraz-finale-vienna",
+      "category": "Sport",
+      "title": "Alcaraz raggiunge la finale a Vienna: sfiderà De Minaur",
+      "eventKey": "alcaraz-supera-medvedev-finale-vienna-de-minaur-31-ottobre-2026"
     }
   ],
   "collectionId": "2026-11-01-mattina",
@@ -333,8 +391,8 @@
     "Cronaca": 5,
     "Roma": 0,
     "Cultura · Teatro · Cinema": 0,
-    "Tecnologia · AI": 0,
-    "Sport": 0
+    "Tecnologia · AI": 5,
+    "Sport": 5
   },
   "photoCandidates": [
     {
@@ -398,15 +456,15 @@
     },
     "tecnologia": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "sport": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     }
   },
   "needsPublication": false
