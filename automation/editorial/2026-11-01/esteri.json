@@ -120,5 +120,117 @@
       },
       "leadPriority": 88
     }
+  ],
+  "reserveArticles": [
+    {
+      "id": "esteri-francia-proteste-carovita",
+      "eventKey": "francia-proteste-carovita-31-ottobre-2026-320mila-565-fermi",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Francia, proteste contro il carovita e centinaia di fermi",
+      "summary": "Il ministero dell'Interno stima oltre 320mila manifestanti; sindacati e studenti forniscono una cifra più alta.",
+      "body": [
+        "Il 31 ottobre cortei contro il carovita hanno attraversato numerose città francesi, con scontri a Parigi, Lione e Marsiglia.",
+        "Secondo il ministero dell'Interno i manifestanti sono stati oltre 320mila e i fermi 565; sindacati e organizzazioni studentesche parlano di circa 500mila presenze. Le cifre sono attribuite alle rispettive fonti."
+      ],
+      "publishedAt": "2026-10-31T14:13:00+01:00",
+      "verifiedAt": "2026-11-01T05:09:00.103Z",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/internazionale/esteri/manifestazioni-francia-oggi-ultime-notizie-parigi_6D12dRSNTdnxz4IiZWPued",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:09:00.103Z",
+        "dateEvidence": "Adnkronos, 31 ottobre 2026 ore 14:13, bilanci di ministero dell'Interno e sindacati; pagina originale letta il 1 novembre 2026 alle 06:09 Europe/Rome; data originale conservata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-rubio-lavrov-apec",
+      "eventKey": "rubio-lavrov-discutono-possibile-incontro-putin-trump-apec-31-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Rubio riferisce di colloqui su un possibile incontro Trump-Putin",
+      "summary": "Il segretario di Stato americano dice di averne parlato con Lavrov, ma non conferma la partecipazione di Putin al G20.",
+      "body": [
+        "Marco Rubio ha dichiarato di aver discusso brevemente con il ministro russo Sergej Lavrov la possibilità di un incontro tra Donald Trump e Vladimir Putin in occasione dell'Apec di novembre.",
+        "Il segretario di Stato ha aggiunto di non sapere se Putin sarà presente a Miami per il G20. Non esiste nell'articolo la conferma di un vertice fissato."
+      ],
+      "publishedAt": "2026-10-31T17:55:00+01:00",
+      "verifiedAt": "2026-11-01T05:09:00.103Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/31/rubio-non-so-se-putin-sara-a-miami-con-lavrov-discusso-possibile-incontro_7b4dda7a-1108-4f93-bef8-b95a27949d2c.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:09:00.103Z",
+        "dateEvidence": "ANSA, Washington, 31 ottobre 2026 ore 17:55, dichiarazioni del segretario di Stato Rubio; pagina originale letta il 1 novembre 2026 alle 06:09 Europe/Rome; data originale conservata. ANSA prevede un limite mensile alle letture gratuite.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-mosca-museo-tsaritsyno-allerta",
+      "eventKey": "ambasciata-usa-mosca-allerta-minaccia-museo-tsaritsyno-31-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Mosca, l'ambasciata USA segnala una minaccia al museo Tsaritsyno",
+      "summary": "La rappresentanza diplomatica americana riferisce di un'allerta ritenuta credibile e di contatti con le autorità russe.",
+      "body": [
+        "L'ambasciata statunitense a Mosca ha reso noto il 31 ottobre di essere a conoscenza di una minaccia ritenuta credibile al museo Tsaritsyno.",
+        "Washington ha dichiarato di coordinarsi con le autorità russe per la risposta. La comunicazione è un'allerta, non la notizia di un attacco già avvenuto."
+      ],
+      "publishedAt": "2026-10-31T16:38:00+01:00",
+      "verifiedAt": "2026-11-01T05:09:00.103Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/31/ambasciata-usa-registrata-una-minaccia-credibile-al-museo-tsaritsyno-di-mosca_a3938de6-1873-491a-b8e5-29b2faadeb53.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:09:00.103Z",
+        "dateEvidence": "ANSA, Washington, 31 ottobre 2026 ore 16:38, comunicazione ambasciata USA a Mosca; pagina originale letta il 1 novembre 2026 alle 06:09 Europe/Rome; data originale conservata. ANSA prevede un limite mensile alle letture gratuite.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-venezuela-la-guaira-riapertura",
+      "eventKey": "venezuela-la-guaira-riaprono-spiagge-weekend-dopo-sisma-31-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Venezuela, La Guaira riapre parzialmente le spiagge dopo il sisma",
+      "summary": "Riparte l'attività turistica nei fine settimana, mentre proseguono ripristino e formazione degli operatori.",
+      "body": [
+        "Dopo il doppio sisma del 24 giugno, il litorale di La Guaira ha riaperto ai visitatori il 31 ottobre con orari limitati ai fine settimana.",
+        "La Camera turistica balneare ha indicato 55 strutture aperte su 63; le altre rimangono interdette. Nei giorni feriali proseguono i lavori di ripristino."
+      ],
+      "publishedAt": "2026-10-31T19:41:00+01:00",
+      "verifiedAt": "2026-11-01T05:09:00.103Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/31/venezuela-riaprono-le-spiagge-a-la-guaira-dopo-il-sisma-di-giugno_3e810399-a176-4fc7-bd4e-023329f85003.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:09:00.103Z",
+        "dateEvidence": "ANSA, La Guaira, 31 ottobre 2026 ore 19:41, riapertura 55 strutture e limiti di orario; pagina originale letta il 1 novembre 2026 alle 06:09 Europe/Rome; data originale conservata. ANSA prevede un limite mensile alle letture gratuite.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-ucraina-oleshky-evacuati",
+      "eventKey": "oleshky-evacuati-ucraini-rientrano-chernihiv-31-ottobre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Oleshky, Zelensky annuncia il rientro degli evacuati in Ucraina",
+      "summary": "Il presidente riferisce che i residenti hanno raggiunto la regione di Chernihiv e riceveranno assistenza.",
+      "body": [
+        "Volodymyr Zelensky ha comunicato che gli abitanti evacuati da Oleshky hanno attraversato il confine e sono rientrati in territorio ucraino attraverso la regione di Chernihiv.",
+        "Il presidente ha chiesto che rimanga aperto l'accesso umanitario e ha invocato ulteriori passi verso la de-escalation. Il risultato è attribuito alle autorità ucraine."
+      ],
+      "publishedAt": "2026-10-31T16:15:00+01:00",
+      "verifiedAt": "2026-11-01T05:09:00.103Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/31/zelensky-rientrati-in-ucraina-i-residenti-evacuati-da-oleshky_d14d72d2-001b-4648-af44-3614bbe40fd6.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T05:09:00.103Z",
+        "dateEvidence": "ANSA, Roma, 31 ottobre 2026 ore 16:15, annuncio Zelensky su X; pagina originale letta il 1 novembre 2026 alle 06:09 Europe/Rome; data originale conservata. ANSA prevede un limite mensile alle letture gratuite.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
   ]
 }
