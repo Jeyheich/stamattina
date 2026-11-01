@@ -1,10 +1,9 @@
 {
   "editionDate": "2026-11-01",
-  "checkedAt": "2026-11-01T05:08:35.663Z",
+  "checkedAt": "2026-11-01T05:08:56.633Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
-    "politica",
     "esteri",
     "economia",
     "cronaca",
@@ -87,11 +86,41 @@
       "category": "Esteri",
       "title": "Midterm USA, in Texas 7,5 milioni di voti anticipati",
       "eventKey": "texas-voto-anticipato-7-milioni-500mila-midterm-2026"
+    },
+    {
+      "id": "politica-meloni-vannacci-replica",
+      "category": "Politica",
+      "title": "Meloni e Vannacci si scontrano sull'ipotesi di un'alleanza",
+      "eventKey": "meloni-vannacci-contrasto-alleanza-replica-30-ottobre-2026"
+    },
+    {
+      "id": "politica-guerini-aiuti-kiev",
+      "category": "Politica",
+      "title": "Guerini propone più sostegno militare all'Ucraina in caso di governo Pd",
+      "eventKey": "guerini-pd-propone-maggiori-aiuti-militari-ucraina-31-ottobre-2026"
+    },
+    {
+      "id": "politica-schlein-establishment",
+      "category": "Politica",
+      "title": "Schlein rivendica l'autonomia del Pd e critica parte dell'establishment",
+      "eventKey": "schlein-establishment-autonomia-pd-intervista-vespa-31-ottobre-2026"
+    },
+    {
+      "id": "politica-meloni-omaggio-bosnia",
+      "category": "Politica",
+      "title": "Meloni rende omaggio ai quattro militari morti in Bosnia",
+      "eventKey": "meloni-crosetto-omaggio-quattro-militari-bosnia-circo-massimo-30-ottobre-2026"
+    },
+    {
+      "id": "politica-redditi-parlamentari",
+      "category": "Politica",
+      "title": "Redditi dei parlamentari, pubblicati nuovi dati sulle dichiarazioni",
+      "eventKey": "dichiarazioni-redditi-parlamentari-di-giuseppe-lupi-tajani-30-ottobre-2026"
     }
   ],
   "collectionId": "2026-11-01-mattina",
   "reserveCounts": {
-    "Politica": 0,
+    "Politica": 5,
     "Esteri": 0,
     "Economia": 0,
     "Cronaca": 0,
@@ -111,9 +140,9 @@
   "categoryProgress": {
     "politica": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "esteri": {
       "base": 5,
