@@ -3,7 +3,7 @@
   "editionDate": "2026-11-01",
   "collectionId": "2026-11-01-pomeriggio",
   "category": "Cronaca",
-  "completedAt": "2026-11-01T15:20:55.773Z",
+  "completedAt": "2026-11-01T15:21:31.609Z",
   "articles": [
     {
       "id": "cronaca-ancona-poliziotta-ferita",
@@ -112,6 +112,118 @@
         "access": "free",
         "accessCheckedAt": "2026-11-01T15:20:55.773Z",
         "dateEvidence": "Articolo originale ANSA consultato integralmente il 1 novembre 2026; data e ora riportate nella pagina: 2026-11-01T11:52:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "cronaca-talamona-scritte-naziste",
+      "eventKey": "talamona-valtellina-svastiche-scritte-naziste-31-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Talamona, scritte naziste sull'asfalto: indignazione in paese",
+      "summary": "I simboli e i messaggi d'odio sono comparsi nella notte tra venerdì e sabato.",
+      "body": [
+        "Svastiche e scritte inneggianti al nazismo sono state tracciate con vernice bianca su via Roma a Talamona, in provincia di Sondrio, durante il fine settimana.",
+        "Residenti e proprietari di seconde case hanno espresso sdegno. L'episodio ha riaperto il dibattito locale sul vandalismo e sulla necessità di una condanna pubblica."
+      ],
+      "publishedAt": "2026-10-31T21:00:00+01:00",
+      "verifiedAt": "2026-11-01T15:21:31.609Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/svastiche-e-scritte-inneggianti-al-nazismo-sdegno-in-valtellina_79cc36e3-5780-4d8b-bdbf-2c5908d2a8ab.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T15:21:31.609Z",
+        "dateEvidence": "Articolo ANSA letto integralmente il 1 novembre 2026, data e ora originali riportate: 2026-10-31T21:00:00+01:00. Gli eventi precedenti sono datati correttamente nel testo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-roma-bimbo-mela",
+      "eventKey": "roma-la-storta-bimbo-18-mesi-soffocamento-mela-28-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Roma, bambino di diciotto mesi morto per soffocamento",
+      "summary": "La tragedia è avvenuta il 28 ottobre in un'abitazione nella zona della Storta.",
+      "body": [
+        "Un bambino di un anno e mezzo è morto dopo che un pezzo di mela gli ha ostruito le vie respiratorie durante la cena in famiglia, nella periferia nord di Roma.",
+        "I familiari hanno chiamato i soccorsi e il piccolo è stato trasportato verso il Policlinico Gemelli, ma i tentativi di rianimazione sono risultati inutili. I carabinieri hanno ricostruito la dinamica."
+      ],
+      "publishedAt": "2026-10-31T20:45:00+01:00",
+      "verifiedAt": "2026-11-01T15:21:31.609Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/bimbo-di-un-anno-e-mezzo-muore-soffocato-da-un-pezzo-di-mela_c0143d45-707a-4679-b09d-3672604d13c8.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T15:21:31.609Z",
+        "dateEvidence": "Articolo ANSA letto integralmente il 1 novembre 2026, data e ora originali riportate: 2026-10-31T20:45:00+01:00. Gli eventi precedenti sono datati correttamente nel testo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-pistoia-donazione-fegato",
+      "eventKey": "pistoia-donazione-fegato-98enne-annina-sensi-31-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Pistoia, il fegato donato da una donna di 98 anni salva una vita",
+      "summary": "I familiari hanno raccontato il trapianto per promuovere la donazione.",
+      "body": [
+        "Annina Sensi, residente a Montale, è morta all'ospedale San Jacopo dopo un'emorragia cerebrale. La famiglia ha autorizzato il prelievo degli organi e il suo fegato è stato trapiantato con successo.",
+        "La donna avrebbe compiuto 98 anni pochi giorni dopo. I familiari hanno reso pubblica la vicenda per incoraggiare la registrazione della volontà di donare gli organi."
+      ],
+      "publishedAt": "2026-10-31T20:03:00+01:00",
+      "verifiedAt": "2026-11-01T15:21:31.609Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/dona-il-fegato-a-98-anni-e-salva-una-vita_66acf73b-9e57-4a48-bff7-b72c19a881d8.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T15:21:31.609Z",
+        "dateEvidence": "Articolo ANSA letto integralmente il 1 novembre 2026, data e ora originali riportate: 2026-10-31T20:03:00+01:00. Gli eventi precedenti sono datati correttamente nel testo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-foggiano-maltempo",
+      "eventKey": "poggio-imperiale-lesina-allagamenti-maltempo-31-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Maltempo nel Foggiano, fango sulle strade e case allagate",
+      "summary": "Le piogge hanno colpito Poggio Imperiale e Lesina, con danni anche ai campi.",
+      "body": [
+        "Precipitazioni molto intense hanno trascinato fango e detriti sulle strade del territorio di Poggio Imperiale, in provincia di Foggia. Una grandinata ha provocato danni agricoli.",
+        "A Lesina alcune abitazioni e attività commerciali al piano terra sono state allagate. I volontari della protezione civile hanno impiegato idrovore per rimuovere l'acqua."
+      ],
+      "publishedAt": "2026-10-31T19:41:00+01:00",
+      "verifiedAt": "2026-11-01T15:21:31.609Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/bomba-dacqua-nel-foggiano-strade-invase-da-fango-e-detriti_aafe9b06-a9c5-4db0-9907-ceb66aecc147.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T15:21:31.609Z",
+        "dateEvidence": "Articolo ANSA letto integralmente il 1 novembre 2026, data e ora originali riportate: 2026-10-31T19:41:00+01:00. Gli eventi precedenti sono datati correttamente nel testo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-ostuni-docente-giudizio",
+      "eventKey": "ostuni-professore-accusato-violenza-privata-alunno-citazione-giudizio-31-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Ostuni, docente citato a giudizio per presunte minacce a un alunno",
+      "summary": "Il professore respinge le accuse; l'udienza è fissata per febbraio.",
+      "body": [
+        "La Procura di Brindisi ha disposto la citazione a giudizio di un insegnante sessantacinquenne accusato di violenza privata e percosse nei confronti di uno studente di quattordici anni.",
+        "Secondo la denuncia dei genitori, il docente avrebbe spinto il ragazzo contro un muro e lo avrebbe minacciato. L'insegnante nega gli addebiti; i fatti dovranno essere accertati in giudizio."
+      ],
+      "publishedAt": "2026-10-31T19:02:00+01:00",
+      "verifiedAt": "2026-11-01T15:21:31.609Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/ha-spinto-contro-muro-e-minacciato-alunno-citazione-a-giudizio-per-prof_c5b68570-c2c3-4244-b244-c433fac66ef1.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T15:21:31.609Z",
+        "dateEvidence": "Articolo ANSA letto integralmente il 1 novembre 2026, data e ora originali riportate: 2026-10-31T19:02:00+01:00. Gli eventi precedenti sono datati correttamente nel testo.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
