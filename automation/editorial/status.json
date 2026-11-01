@@ -1,12 +1,9 @@
 {
   "editionDate": "2026-11-01",
-  "checkedAt": "2026-11-01T16:17:23.074Z",
+  "checkedAt": "2026-11-01T16:18:14.935Z",
   "ready": true,
-  "editorialComplete": false,
-  "reserveMissing": [
-    "roma",
-    "cultura"
-  ],
+  "editorialComplete": true,
+  "reserveMissing": [],
   "completed": [
     "politica",
     "esteri",
@@ -382,6 +379,66 @@
       "eventKey": "ostuni-professore-accusato-violenza-privata-alunno-citazione-giudizio-31-ottobre-2026"
     },
     {
+      "id": "roma-bernini-elefante-condanna",
+      "category": "Roma",
+      "title": "Elefantino del Bernini, condanna per il danneggiamento",
+      "eventKey": "elefantino-bernini-danneggiamento-condanna-29-ottobre-2026"
+    },
+    {
+      "id": "roma-riscaldamenti-calendario",
+      "category": "Roma",
+      "title": "Roma, riscaldamenti dal 15 novembre all'8 aprile",
+      "eventKey": "roma-ordinanza-riscaldamenti-15-novembre-8-aprile-2027"
+    },
+    {
+      "id": "roma-fascia-verde-ordinanza",
+      "category": "Roma",
+      "title": "Fascia Verde, confermati i divieti già in vigore",
+      "eventKey": "roma-fascia-verde-ordinanza-144-divieti-1-novembre-2026"
+    },
+    {
+      "id": "roma-fonte-nuova-nomentana",
+      "category": "Roma",
+      "title": "Fonte Nuova, deviazioni sulla Nomentana per l'evento di Halloween",
+      "eventKey": "fonte-nuova-halloween-chiusura-nomentana-31-ottobre-1-novembre-2026"
+    },
+    {
+      "id": "roma-via-goito-lavori-notturni",
+      "category": "Roma",
+      "title": "Via Goito, lavori notturni fino al 3 novembre",
+      "eventKey": "roma-via-goito-lavori-notturni-bus-38-92-360-n92-31-ottobre-2026"
+    },
+    {
+      "id": "cultura-criminal-minds-finale",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Criminal Minds si concluderà con la ventesima stagione",
+      "eventKey": "criminal-minds-evolution-ventesima-stagione-ultima-2027"
+    },
+    {
+      "id": "cultura-cotugno-clima-libro",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Un saggio indaga chi sostiene i costi della crisi climatica",
+      "eventKey": "ferdinando-cotugno-chi-paga-conto-clima-saggio-2026"
+    },
+    {
+      "id": "cultura-corto-maltese-orchidee",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Corto Maltese torna con La casa delle orchidee bianche",
+      "eventKey": "corto-maltese-casa-orchidee-bianche-igort-steiner-novembre-2026"
+    },
+    {
+      "id": "cultura-maraini-novanta-libro",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Dacia Maraini racconta la propria vita alla vigilia dei novant'anni",
+      "eventKey": "dacia-maraini-novanta-anni-agro-e-dolce-libro-2026"
+    },
+    {
+      "id": "cultura-eduardo-san-carlo",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Il San Carlo ricorda Eduardo De Filippo a 42 anni dalla morte",
+      "eventKey": "teatro-san-carlo-ricorda-eduardo-de-filippo-31-ottobre-2026"
+    },
+    {
       "id": "tecnologia-protezione-minori-chatgpt",
       "category": "Tecnologia · AI",
       "title": "Nuovi controlli per gli adolescenti che usano ChatGPT",
@@ -448,8 +505,8 @@
     "Esteri": 5,
     "Economia": 5,
     "Cronaca": 5,
-    "Roma": 0,
-    "Cultura · Teatro · Cinema": 0,
+    "Roma": 5,
+    "Cultura · Teatro · Cinema": 5,
     "Tecnologia · AI": 5,
     "Sport": 5
   },
@@ -508,15 +565,15 @@
     },
     "roma": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "cultura": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "tecnologia": {
       "base": 5,
@@ -531,9 +588,6 @@
       "complete": true
     }
   },
-  "editionId": "2026-11-01-batches-215a9ae048ff",
-  "needsPublication": false,
-  "publicVerifiedAt": "2026-11-01T16:18:02.435723+00:00",
-  "publicEditionId": "2026-11-01-batches-215a9ae048ff",
-  "publication": "verified"
+  "editionId": "2026-11-01-batches-dd0bc014a221",
+  "needsPublication": true
 }
