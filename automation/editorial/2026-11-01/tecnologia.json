@@ -3,7 +3,7 @@
   "editionDate": "2026-11-01",
   "collectionId": "2026-11-01-mattina",
   "category": "Tecnologia · AI",
-  "completedAt": "2026-11-01T06:02:20.105Z",
+  "completedAt": "2026-11-01T06:02:56.104Z",
   "articles": [
     {
       "id": "tecnologia-ue-social-minori-stop",
@@ -115,6 +115,114 @@
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
       "leadPriority": 75
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "tecnologia-chatbot-causa-salute",
+      "eventKey": "causa-san-francisco-chatbot-ai-consigli-terapia-epilessia-27-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Una causa negli USA riapre il dibattito sui consigli sanitari dei chatbot",
+      "summary": "La famiglia di una donna deceduta accusa un assistente AI di aver incoraggiato l'interruzione di una terapia; le responsabilità non sono state accertate.",
+      "body": [
+        "Una causa civile depositata il 27 ottobre a San Francisco sostiene che un chatbot avrebbe incoraggiato una donna con epilessia a ridurre e interrompere un farmaco anticonvulsivante. La denuncia è un'accusa dei familiari, non una decisione giudiziaria.",
+        "Il caso evidenzia il rischio di affidarsi a risposte automatizzate per decisioni cliniche. La testata precisa che la responsabilità non è stata stabilita e ricorda che i cambiamenti di terapia richiedono un medico."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/quando-ai-sbaglia-di-chi-e-colpa/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
+        "dateEvidence": "Punto Informatico, articolo integrale pubblicato il 30 ott 2026, riferisce causa depositata il 27 ottobre e assenza di accertamento giudiziario.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-whatsapp-quattro-novita-gruppi",
+      "eventKey": "whatsapp-introduce-quattro-funzioni-chat-gruppo-30-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "WhatsApp amplia gli strumenti per organizzare le conversazioni di gruppo",
+      "summary": "Nuovi filtri per menzioni, messaggi fissati più a lungo, recupero di messaggi recenti e stati dedicati ai gruppi.",
+      "body": [
+        "WhatsApp ha presentato quattro novità per le chat collettive. Fra queste un filtro per menzioni e risposte, la possibilità di fissare messaggi in modo permanente e la condivisione di messaggi recenti con i nuovi membri. Gli stati possono inoltre essere limitati ai partecipanti di un gruppo; il rilascio avviene gradualmente."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/whatsapp-quattro-novita-chat-gruppo/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
+        "dateEvidence": "Punto Informatico, articolo integrale pubblicato il 30 ott 2026, con elenco di quattro funzioni e riferimento al blog ufficiale WhatsApp.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-meta-style-sketch-ai",
+      "eventKey": "meta-lancia-style-sketch-outfit-ai-sudest-asiatico-30-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Meta sperimenta Style Sketch, l'app AI che combina i vestiti già posseduti",
+      "summary": "L'app genera suggerimenti di abbigliamento da fotografie e può usare contenuti Instagram; disponibilità iniziale limitata a tre paesi.",
+      "body": [
+        "Meta ha distribuito Style Sketch in Indonesia, Singapore e Thailandia. L'app costruisce un guardaroba virtuale a partire dalle foto degli indumenti e propone abbinamenti, anche per preparare una valigia. Non è stato annunciato un lancio in Italia."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/style-sketch-app-ai-meta-crea-outfit-propri-vestiti/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
+        "dateEvidence": "Punto Informatico, articolo integrale pubblicato il 30 ott 2026, descrive funzioni e disponibilità di Style Sketch in tre paesi.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-kutaragi-ps1-nintendo",
+      "eventKey": "ken-kutaragi-smentisce-vendetta-sony-nintendo-origini-playstation-31-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Kutaragi smentisce la leggenda della PlayStation nata per vendicarsi di Nintendo",
+      "summary": "Il progettista della prima console Sony racconta che la rottura del progetto con Nintendo fu un'occasione per sviluppare idee autonome.",
+      "body": [
+        "Ken Kutaragi, figura centrale nella nascita di PlayStation, ha dichiarato che il suo gruppo non voleva danneggiare Nintendo dopo la fine del progetto congiunto SNES PlayStation. Ha descritto quella separazione come un cambiamento doloroso ma capace di aprire nuove possibilità di sviluppo."
+      ],
+      "publishedAt": "2026-10-31T22:23:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/ps1-sony-non-voleva-demolire-nintendo-papa-playstation-non-era-vendetta-909108.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
+        "dateEvidence": "Everyeye, articolo completo di Michele Galluzzi, 31/10/2026 ore 22:23; riporta intervista a Ken Kutaragi su GamesIndustry.biz.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-assassins-creed-destiny-rumor",
+      "eventKey": "report-assassins-creed-destiny-cina-progetto-cancellato-timi-31-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Assassin's Creed Destiny, un rapporto parla di un progetto ambientato in Cina e cancellato",
+      "summary": "Materiali di un prototipo circolano online; Ubisoft non ha confermato ufficialmente l'esistenza o la cancellazione del gioco.",
+      "body": [
+        "Secondo un report ripreso da Everyeye, TiMi Studio Group avrebbe sviluppato un progetto di Assassin's Creed ambientato nella Cina della dinastia Qin, poi accantonato. Filmati di un prototipo mostrerebbero sequenze stealth e combattimenti. L'editore non ha commentato: la notizia resta attribuita a indiscrezioni."
+      ],
+      "publishedAt": "2026-10-31T00:32:00+01:00",
+      "verifiedAt": "2026-11-01T06:02:55.781Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/assassin-s-creed-destiny-misterioso-gioco-cinese-non-vedremo-mai-906324.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-01T06:02:55.781Z",
+        "dateEvidence": "Everyeye, Davide Leoni, articolo completo 31/10/2026 ore 00:32; riporta un report Mp1st e precisa assenza di commento Ubisoft.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
   ]
 }
