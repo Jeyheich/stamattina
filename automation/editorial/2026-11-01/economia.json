@@ -1,95 +1,95 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-11-01",
-  "collectionId": "2026-11-01-mattina",
+  "collectionId": "2026-11-01-pomeriggio",
   "category": "Economia",
-  "completedAt": "2026-11-01T05:17:54.209Z",
+  "completedAt": "2026-11-01T15:20:40.411Z",
   "articles": [
     {
-      "id": "economia-binance-ripristino-90",
-      "eventKey": "binance-ripristina-90-percento-fondi-attacco-31-ottobre-2026",
+      "id": "economia-ue-commissione-pacchi-ecommerce",
+      "eventKey": "ue-commissione-gestione-due-euro-pacchi-extraue-1-novembre-2026",
       "category": "Economia",
       "status": "verified",
-      "title": "Binance ripristina il 90% degli asset dopo l'attacco",
-      "summary": "L'exchange dichiara di aver reintegrato il 90% del valore sottratto nell'attacco da 6,3 miliardi di dollari.",
+      "title": "Pacchi extra-Ue, entra in vigore la commissione europea da due euro",
+      "summary": "Il contributo di gestione si aggiunge al dazio forfettario già introdotto per le piccole spedizioni.",
       "body": [
-        "Binance ha comunicato il ripristino del 90% degli asset sottratti nell'attacco informatico che, secondo la società, ha interessato fondi per 6,3 miliardi di dollari.",
-        "Il restante 10% riguarda token meno liquidi; l'azienda sostiene che coprirà le perdite con risorse proprie e fondi di garanzia, senza trasferirle agli utenti."
+        "Dal 1° novembre entra in vigore un contributo europeo di gestione da due euro sui piccoli pacchi acquistati online, con particolare impatto sulle piattaforme cinesi. Si somma al dazio forfettario da tre euro applicato da luglio alle spedizioni di valore inferiore a 150 euro.",
+        "La Commissione punta a coprire i costi doganali e a limitare l'afflusso di spedizioni di basso valore. La manovra italiana prevede di eliminare un analogo prelievo nazionale mai entrato in applicazione."
       ],
-      "publishedAt": "2026-10-31T18:26:00+01:00",
-      "verifiedAt": "2026-11-01T05:17:30.409Z",
+      "publishedAt": "2026-11-01T15:32:00+01:00",
+      "verifiedAt": "2026-11-01T15:20:40.411Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/binance-reintegra-il-90-degli-asset-sottratti-con-lattacco-informatico_1a566090-636a-40c0-b28a-c8f8cee8e873.html",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/al-via-in-ue-le-commissioni-da-2-euro-per-lacquisto-di-pacchi-cinesi_4bb94b00-7ed8-4ec9-9332-729dcabba694.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-01T05:17:30.409Z",
-        "dateEvidence": "Articolo originale ANSA consultato integralmente il 1 novembre 2026; la pagina indica la pubblicazione 2026-10-31T18:26:00+01:00, mantenuta senza aggiornamenti fittizi.",
+        "accessCheckedAt": "2026-11-01T15:20:40.411Z",
+        "dateEvidence": "Articolo ANSA aperto e letto integralmente il 1 novembre 2026; data e ora originali visibili nella pagina: 2026-11-01T15:32:00+01:00.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "economia-ita-esuberi-226",
-      "eventKey": "ita-airways-procedura-226-esuberi-31-ottobre-2026",
+      "id": "economia-concordato-adesioni",
+      "eventKey": "concordato-preventivo-biennale-scadenza-2-novembre-2026",
       "category": "Economia",
       "status": "verified",
-      "title": "Ita Airways avvia la procedura per 226 esuberi",
-      "summary": "La comunicazione riguarda 10 piloti, 90 assistenti di volo e 126 addetti di terra.",
+      "title": "Concordato preventivo, adesioni in scadenza il 2 novembre",
+      "summary": "Ultimo giorno utile per la scelta degli autonomi, dopo il termine caduto di sabato.",
       "body": [
-        "Ita Airways ha comunicato ai ministeri e ai sindacati l'avvio di una procedura per 226 esuberi strutturali, il 4,3% dei 5.269 dipendenti indicati dalla compagnia.",
-        "La società cita soprattutto il caro carburante e l'automazione. L'apertura della procedura non equivale a licenziamenti già eseguiti; le prime uscite sono previste entro dicembre."
+        "Il 2 novembre è la scadenza per aderire al concordato preventivo biennale per il 2026-2027, che permette di concordare in anticipo la base imponibile con il fisco.",
+        "La scelta può essere trasmessa con la dichiarazione oppure con il modello dedicato e il frontespizio di Redditi 2026. Il governo ha affiancato allo strumento un ravvedimento speciale per incentivare le adesioni."
       ],
-      "publishedAt": "2026-10-31T06:30:00+01:00",
-      "verifiedAt": "2026-11-01T05:17:30.409Z",
+      "publishedAt": "2026-11-01T14:11:00+01:00",
+      "verifiedAt": "2026-11-01T15:20:40.411Z",
       "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/economia/2026/10/31/ita-airways-licenziamenti-esuberi",
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/entro-domani-le-adesioni-al-concordato-preventivo-biennale_67be9f6a-61c3-42c3-8838-249797983fe4.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-01T05:17:30.409Z",
-        "dateEvidence": "Articolo originale Sky TG24 consultato integralmente il 1 novembre 2026; la pagina indica la pubblicazione 2026-10-31T06:30:00+01:00, mantenuta senza aggiornamenti fittizi.",
+        "accessCheckedAt": "2026-11-01T15:20:40.411Z",
+        "dateEvidence": "Articolo ANSA aperto e letto integralmente il 1 novembre 2026; data e ora originali visibili nella pagina: 2026-11-01T14:11:00+01:00.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "economia-benzina-mimit-2011",
-      "eventKey": "mimit-benzina-self-2-011-gasolio-2-242-31-ottobre-2026",
+      "id": "economia-aiuti-energia-imprese",
+      "eventKey": "manovra-2027-aiuti-energia-imprese-investimenti-verdi",
       "category": "Economia",
       "status": "verified",
-      "title": "Carburanti, il Mimit segnala una lieve discesa dei prezzi",
-      "summary": "Benzina self a 2,011 euro al litro e gasolio a 2,242 sulla rete stradale nazionale.",
+      "title": "Energia, aiuti alle imprese vincolati a investimenti verdi",
+      "summary": "La proposta di bilancio prevede sostegni fino a circa sei miliardi, subordinati a spese per efficienza e riduzione delle emissioni.",
       "body": [
-        "Il ministero delle Imprese comunica prezzi medi self service del 31 ottobre di 2,011 euro al litro per la benzina e 2,242 per il gasolio, contro 2,012 e 2,248 del giorno precedente.",
-        "In autostrada il prezzo medio è 2,036 euro per la benzina e 2,288 per il gasolio: una variazione minima, non un ribasso strutturale."
+        "Gli articoli 82 e 83 della manovra prevedono fino a circa sei miliardi di aiuti per le aziende tra il 2027 e il 2030, distinguendo imprese energivore e piccole e medie aziende.",
+        "Per ottenere i contributi le imprese dovrebbero destinare a interventi di efficienza, rinnovabili o elettrificazione risorse almeno pari all'aiuto ricevuto. La misura richiede ancora l'autorizzazione europea sugli aiuti di Stato."
       ],
-      "publishedAt": "2026-10-31T11:03:00+01:00",
-      "verifiedAt": "2026-11-01T05:17:30.409Z",
+      "publishedAt": "2026-11-01T13:44:00+01:00",
+      "verifiedAt": "2026-11-01T15:20:40.411Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/mimit-i-prezzi-dri-carburanti-sono-in-lieve-calo-benzina-self-a-2011_c2d9b2b1-803b-4e10-8c48-641c6c8c7694.html",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-con-flessibilita-ue-aiuti-allenergia-per-le-imprese-scatta-vincolo-green_a29c2f19-0469-4735-9f6b-22cbf831b49a.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-01T05:17:30.409Z",
-        "dateEvidence": "Articolo originale ANSA consultato integralmente il 1 novembre 2026; la pagina indica la pubblicazione 2026-10-31T11:03:00+01:00, mantenuta senza aggiornamenti fittizi.",
+        "accessCheckedAt": "2026-11-01T15:20:40.411Z",
+        "dateEvidence": "Articolo ANSA aperto e letto integralmente il 1 novembre 2026; data e ora originali visibili nella pagina: 2026-11-01T13:44:00+01:00.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "economia-inflazione-ottobre-54",
-      "eventKey": "istat-inflazione-ottobre-2026-5-4",
+      "id": "economia-educazione-finanziaria-novembre",
+      "eventKey": "mese-educazione-finanziaria-nona-edizione-novembre-2026",
       "category": "Economia",
       "status": "verified",
-      "title": "Inflazione italiana al 5,4% nella stima di ottobre",
-      "summary": "L'Istat registra un'accelerazione dei prezzi, con forti rincari energetici e crescita trimestrale del Pil ferma.",
+      "title": "Educazione finanziaria, un mese di incontri gratuiti in tutta Italia",
+      "summary": "La nona edizione dell'iniziativa nazionale si svolge dal 1° al 30 novembre.",
       "body": [
-        "La stima preliminare dell'Istat colloca l'inflazione italiana di ottobre al 5,4% annuo, dal 4,2% di settembre; i prezzi energetici aumentano del 31,4% e quelli dei prodotti alimentari freschi del 7,5%.",
-        "Nel terzo trimestre il Pil italiano non cresce rispetto ai tre mesi precedenti. L'aumento dei salari contrattuali resta inferiore all'inflazione, con ricadute sul potere d'acquisto."
+        "Parte la nona edizione del Mese dell'Educazione Finanziaria, promossa dal Comitato Edufin con centinaia di appuntamenti gratuiti, in presenza e online.",
+        "Seminari, laboratori e webinar affrontano risparmio, previdenza, assicurazioni e pianificazione delle spese. L'obiettivo è aiutare famiglie e cittadini a prendere decisioni economiche più consapevoli."
       ],
-      "publishedAt": "2026-10-30T21:03:00+01:00",
-      "verifiedAt": "2026-11-01T05:17:30.409Z",
+      "publishedAt": "2026-11-01T12:25:00+01:00",
+      "verifiedAt": "2026-11-01T15:20:40.411Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/il-caro-energia-fa-danni-vola-linflazione-e-la-crescita-si-ferma_6ea6c523-9671-4e3d-b1df-e2cfbfa1e6fd.html",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/novembre-e-il-mese-delleducazione-finanziaria-al-via-la-nona-edizione_8c8a4646-fd29-4364-9cf9-f3c6e5e53941.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-01T05:17:30.409Z",
-        "dateEvidence": "Articolo originale ANSA consultato integralmente il 1 novembre 2026; la pagina indica la pubblicazione 2026-10-30T21:03:00+01:00, mantenuta senza aggiornamenti fittizi.",
+        "accessCheckedAt": "2026-11-01T15:20:40.411Z",
+        "dateEvidence": "Articolo ANSA aperto e letto integralmente il 1 novembre 2026; data e ora originali visibili nella pagina: 2026-11-01T12:25:00+01:00.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -105,16 +105,16 @@
         "La chiusura non è una quotazione di domenica 1 novembre: i mercati azionari italiani sono chiusi durante il fine settimana."
       ],
       "publishedAt": "2026-10-30T17:39:00+01:00",
-      "verifiedAt": "2026-11-01T05:17:30.409Z",
+      "verifiedAt": "2026-11-01T15:20:40.411Z",
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/borsa-milano-chiude-in-calo-ftse-mib-1_7a5244d8-18d8-477f-a5b6-e9adeada0120.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-01T05:17:30.409Z",
-        "dateEvidence": "Articolo originale ANSA consultato integralmente il 1 novembre 2026; la pagina indica la pubblicazione 2026-10-30T17:39:00+01:00, mantenuta senza aggiornamenti fittizi.",
+        "accessCheckedAt": "2026-11-01T15:20:40.411Z",
+        "dateEvidence": "Pagina ANSA riletta integralmente il 1 novembre 2026; la data originale è 30 ottobre 2026 ore 17:39, non modificata. Fotografia Commons riletta, autore Chabe01 e licenza CC BY-SA 4.0 confermati.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 85,
+      "leadPriority": 94,
       "image": {
         "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Palais_Mezzanotte_-_Milan_%28IT25%29_-_2022-09-03_-_3.jpg/960px-Palais_Mezzanotte_-_Milan_%28IT25%29_-_2022-09-03_-_3.jpg",
         "alt": "Facciata di Palazzo Mezzanotte, sede della Borsa italiana a Milano",
@@ -124,118 +124,6 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
         "caption": "Immagine di repertorio: Palazzo Mezzanotte a Milano, fotografato nel settembre 2022; non documenta la seduta del 30 ottobre 2026.",
         "reuseApproved": true
-      }
-    }
-  ],
-  "reserveArticles": [
-    {
-      "id": "economia-iata-passeggeri-settembre",
-      "eventKey": "iata-domanda-passeggeri-settembre-2026-meno-0-5",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Trasporto aereo, passeggeri in calo a settembre",
-      "summary": "La Iata rileva una diminuzione annua dello 0,5% nella domanda passeggeri, mentre il cargo cresce del 7,7%.",
-      "body": [
-        "La domanda mondiale di trasporto aereo passeggeri a settembre è diminuita dello 0,5% rispetto al 2025, secondo la Iata.",
-        "Il trasporto merci è invece aumentato del 7,7%, nonostante i maggiori costi del carburante e le difficoltà delle compagnie nel mantenere la redditività."
-      ],
-      "publishedAt": "2026-10-31T11:16:00+01:00",
-      "verifiedAt": "2026-11-01T05:17:54.209Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/iata-in-calo-a-settembre-05-domanda-trasporto-aereo-passeggeri_c0998812-091d-47a4-8fd4-a62b24c579a1.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
-        "dateEvidence": "Fonte originale ANSA letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T11:16:00+01:00. Data di pubblicazione originale, non modificata.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "economia-eurocontrol-jet-fuel",
-      "eventKey": "eurocontrol-jet-fuel-ottobre-2026-4-84-gallone",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Jet fuel, Eurocontrol registra un rincaro del 114%",
-      "summary": "Il carburante per aerei in Europa ha raggiunto a ottobre 4,84 dollari al gallone.",
-      "body": [
-        "Eurocontrol riferisce che la media europea del prezzo del carburante per aerei in ottobre è salita a 4,84 dollari al gallone, contro 2,26 nel periodo gennaio-febbraio.",
-        "L'incremento del 114% rispetto al periodo precedente alla crisi mediorientale ha portato il prezzo al livello mensile più alto dall'inizio della crisi."
-      ],
-      "publishedAt": "2026-10-31T10:58:00+01:00",
-      "verifiedAt": "2026-11-01T05:17:54.209Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/eurocontrol-prezzo-medio-del-carburante-per-aerei-a-484-dollari-al-gallone_e1046041-cc8e-43fa-8d75-4fc69f314ebf.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
-        "dateEvidence": "Fonte originale ANSA letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T10:58:00+01:00. Data di pubblicazione originale, non modificata.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "economia-hormuz-gnl-export",
-      "eventKey": "hormuz-gnl-esportazioni-ottobre-2026-un-terzo-pre-guerra",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Gas liquefatto, Hormuz resta lontano dai livelli precedenti alla guerra",
-      "summary": "Le spedizioni di Gnl attraverso lo stretto non raggiungono un terzo dei volumi precedenti al conflitto.",
-      "body": [
-        "Secondo dati di tracciamento navale analizzati da Kpler e Bloomberg, a ottobre circa 27 navi cisterna cariche di Gnl hanno attraversato lo Stretto di Hormuz verso est.",
-        "I transiti sono simili a settembre, ma restano sotto un terzo dei livelli precedenti alla guerra. Il conteggio potrebbe sottostimare i passaggi di navi che non trasmettono la posizione."
-      ],
-      "publishedAt": "2026-10-31T12:24:00+01:00",
-      "verifiedAt": "2026-11-01T05:17:54.209Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://videoembed.ansa.it/sito/notizie/economia/2026/10/31/lexport-di-gnl-attraverso-hormuz-ancora-ad-un-terzo-dai-livelli-pre-guerra_1ca338aa-35c2-435a-a292-859b1b21dd4f.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
-        "dateEvidence": "Fonte originale ANSA letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T12:24:00+01:00. Data di pubblicazione originale, non modificata.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "economia-eurostat-reddito-reale",
-      "eventKey": "eurostat-reddito-reale-famiglie-eurozona-secondo-trimestre-2026",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Eurozona, reddito reale delle famiglie quasi fermo",
-      "summary": "Eurostat indica un aumento dello 0,1% del reddito reale pro capite nel secondo trimestre.",
-      "body": [
-        "Nel secondo trimestre del 2026 il reddito reale pro capite delle famiglie nell'area euro è cresciuto dello 0,1%, secondo i dati Eurostat riportati da Sky TG24.",
-        "I consumi reali pro capite sono aumentati dello 0,3% e il tasso di risparmio delle famiglie è diminuito di 0,2 punti percentuali."
-      ],
-      "publishedAt": "2026-10-31T15:12:00+01:00",
-      "verifiedAt": "2026-11-01T05:17:54.209Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/economia/2026/10/31/reddito-reale-famiglie-ue-prezzi-eurostat",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
-        "dateEvidence": "Fonte originale Sky TG24 letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T15:12:00+01:00. Data di pubblicazione originale, non modificata.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "economia-valentino-valdagno-presidio",
-      "eventKey": "valentino-valdagno-logistica-83-esuberi-presidio-venezia-31-ottobre-2026",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Valentino, protesta a Venezia contro il trasferimento della logistica",
-      "summary": "I lavoratori di Valdagno contestano il progetto di spostare il magazzino a Trecate e il rischio di 83 licenziamenti.",
-      "body": [
-        "Una ventina di addetti del magazzino Valentino di Valdagno ha manifestato davanti alla boutique veneziana del marchio, indossando maschere di Halloween.",
-        "I lavoratori contestano il trasferimento delle attività a Trecate, in provincia di Novara, che secondo la ricostruzione riportata potrebbe comportare 83 licenziamenti su 109 dipendenti."
-      ],
-      "publishedAt": "2026-10-31T14:03:00+01:00",
-      "verifiedAt": "2026-11-01T05:17:54.209Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/lavoratori-vestiti-da-halloween-davanti-alla-boutique-di-valentino-a-venezia_58674634-88cd-4f98-8d9d-3ab63cd208e6.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-01T05:17:54.209Z",
-        "dateEvidence": "Fonte originale ANSA letta integralmente il 1 novembre 2026; data indicata dalla pagina: 2026-10-31T14:03:00+01:00. Data di pubblicazione originale, non modificata.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ]
