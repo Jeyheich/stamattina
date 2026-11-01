@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-01",
-  "checkedAt": "2026-11-01T06:03:24.775Z",
+  "checkedAt": "2026-11-01T06:17:27.775Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -12,12 +12,12 @@
     "esteri",
     "economia",
     "cronaca",
+    "roma",
     "tecnologia",
     "sport"
   ],
   "inProgress": [],
   "missing": [
-    "roma",
     "cultura"
   ],
   "invalid": [],
@@ -141,6 +141,36 @@
       "category": "Cronaca",
       "title": "Torremaggiore, esplosione danneggia il presidio sanitario",
       "eventKey": "torremaggiore-esplosione-cassa-ticket-sanitari-31-ottobre-2026"
+    },
+    {
+      "id": "roma-carcaterra-rettore",
+      "category": "Roma",
+      "title": "Carcaterra eletto rettore della Sapienza dopo il ballottaggio",
+      "eventKey": "sapienza-roma-carcaterra-eletto-rettore-30-ottobre-2026"
+    },
+    {
+      "id": "roma-colosseo-sicurezza",
+      "category": "Roma",
+      "title": "Colosseo, accordo per fermare subappalti e lavori su funi",
+      "eventKey": "colosseo-stop-subappalti-edilizia-acrobatica-31-ottobre-2026"
+    },
+    {
+      "id": "roma-cortei-denunce",
+      "category": "Roma",
+      "title": "Cortei a Roma, sette denunciati e 369 persone identificate",
+      "eventKey": "roma-cortei-sette-denunciati-369-identificati-31-ottobre-2026"
+    },
+    {
+      "id": "roma-ostia-antidroga",
+      "category": "Roma",
+      "title": "Ostia e Castel Fusano, venti arresti nell'operazione antidroga",
+      "eventKey": "roma-ostia-castel-fusano-venti-arresti-droga-31-ottobre-2026"
+    },
+    {
+      "id": "roma-corsa-santi",
+      "category": "Roma",
+      "title": "Corsa dei Santi, modifiche alla viabilità nel centro di Roma",
+      "eventKey": "roma-corsa-dei-santi-1-novembre-2026-chiusure"
     },
     {
       "id": "tecnologia-ue-social-minori-stop",
@@ -411,12 +441,17 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palais_Mezzanotte_-_Milan_(IT25)_-_2022-09-03_-_3.jpg"
     },
     {
+      "id": "roma-carcaterra-rettore",
+      "category": "Roma",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sede_Sapienza.jpeg"
+    },
+    {
       "id": "sport-errani-paolini-finals-tokyo-2026",
       "category": "Sport",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sara_Errani_-_Roland-Garros_-_28.05.2024_(cropped).jpg"
     }
   ],
-  "photosAvailable": 4,
+  "photosAvailable": 5,
   "categoryProgress": {
     "politica": {
       "base": 5,
@@ -443,7 +478,7 @@
       "complete": true
     },
     "roma": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
