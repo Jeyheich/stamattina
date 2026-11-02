@@ -1,7 +1,7 @@
 {
   "editionDate": "2026-11-02",
-  "checkedAt": "2026-11-02T06:13:18.274Z",
-  "ready": false,
+  "checkedAt": "2026-11-02T06:13:36.796Z",
+  "ready": true,
   "editorialComplete": false,
   "reserveMissing": [
     "roma",
@@ -13,13 +13,12 @@
     "economia",
     "cronaca",
     "roma",
+    "cultura",
     "tecnologia",
     "sport"
   ],
   "inProgress": [],
-  "missing": [
-    "cultura"
-  ],
+  "missing": [],
   "invalid": [],
   "stories": [
     {
@@ -171,6 +170,36 @@
       "category": "Roma",
       "title": "La protesta contro il carovita si sposta sotto il Colosseo",
       "eventKey": "roma-presidio-usb-tende-colosseo-assemblea-1-novembre-2026"
+    },
+    {
+      "id": "cultura-koeln-concert-romaeuropa",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Romaeuropa, due pianisti reinterpretano The Köln Concert",
+      "eventKey": "roma-europa-namekawa-enhco-koeln-concert-2-novembre-2026"
+    },
+    {
+      "id": "cultura-artissima-2026-bilancio",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Artissima chiude a Torino con oltre 34mila presenze",
+      "eventKey": "artissima-torino-2026-chiusura-34000-presenze-1-novembre"
+    },
+    {
+      "id": "cultura-boxoffice-halloween-usa",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Cinema USA, un documentario guida gli incassi di Halloween",
+      "eventKey": "box-office-usa-halloween-2026-you-can-see-everything-primo"
+    },
+    {
+      "id": "cultura-julia-varley-ipazia",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "A Julia Varley il premio Ipazia al Teatro",
+      "eventKey": "julia-varley-premio-ipazia-teatro-genova-1-novembre-2026"
+    },
+    {
+      "id": "cultura-flashback-2026-chiusura",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Flashback Art Fair chiude con oltre 23mila visitatori",
+      "eventKey": "flashback-art-fair-torino-2026-23244-visitatori-chiusura"
     },
     {
       "id": "tecnologia-wikimedia-copyright",
@@ -484,7 +513,7 @@
       "complete": false
     },
     "cultura": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
@@ -502,5 +531,6 @@
       "complete": true
     }
   },
-  "needsPublication": false
+  "editionId": "2026-11-02-batches-a3533737c885",
+  "needsPublication": true
 }
