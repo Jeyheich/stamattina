@@ -1,9 +1,13 @@
 {
   "editionDate": "2026-11-02",
-  "checkedAt": "2026-11-02T16:20:52.750Z",
-  "ready": false,
+  "checkedAt": "2026-11-02T16:21:14.200Z",
+  "ready": true,
   "editorialComplete": false,
   "reserveMissing": [
+    "roma",
+    "cultura"
+  ],
+  "completed": [
     "politica",
     "esteri",
     "economia",
@@ -13,15 +17,520 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [],
   "inProgress": [],
   "missing": [],
-  "invalid": [
+  "invalid": [],
+  "stories": [
     {
-      "slug": "edition",
-      "reason": "Cicli editoriali differenti"
+      "id": "politica-rai-riforma-parlamento",
+      "category": "Politica",
+      "title": "Meloni giudica avanzato l'esame parlamentare della riforma Rai",
+      "eventKey": "meloni-riforma-rai-parlamento-buon-punto-dichiarazioni-1-novembre-2026"
+    },
+    {
+      "id": "politica-meloni-quirinale",
+      "category": "Politica",
+      "title": "Meloni esclude il Quirinale dai suoi programmi e guarda al voto del 2027",
+      "eventKey": "meloni-esclude-corsa-quirinale-punta-altro-mandato-1-novembre-2026"
+    },
+    {
+      "id": "politica-conte-renzi-primarie",
+      "category": "Politica",
+      "title": "Conte pone condizioni sulla coalizione e rilancia il reddito di cittadinanza",
+      "eventKey": "conte-chiede-garanzie-su-renzi-e-reddito-cittadinanza-al-tavolo-31-ottobre-2026"
+    },
+    {
+      "id": "politica-manovra-magistrati",
+      "category": "Politica",
+      "title": "La manovra modifica il calcolo degli adeguamenti retributivi dei magistrati",
+      "eventKey": "manovra-2027-nuovo-calcolo-adeguamenti-magistrati-articolo-67-1-novembre"
+    },
+    {
+      "id": "politica-conte-critica-bilancio",
+      "category": "Politica",
+      "title": "Conte contesta la distribuzione delle risorse nella manovra",
+      "eventKey": "conte-critica-manovra-2027-tagli-scuola-e-spese-difesa-1-novembre-2026"
+    },
+    {
+      "id": "esteri-ucraina-raffinerie",
+      "category": "Esteri",
+      "title": "Nuovi attacchi alle raffinerie russe riaccendono la tensione fra Kiev e Washington",
+      "eventKey": "ucraina-riprende-attacchi-raffinerie-russe-samara-kstovo-1-novembre-2026"
+    },
+    {
+      "id": "esteri-iran-doha-hormuz",
+      "category": "Esteri",
+      "title": "A Doha prosegue il confronto indiretto USA-Iran per riaprire Hormuz",
+      "eventKey": "iran-usa-doha-mediazione-qatar-riapertura-hormuz-1-novembre-2026"
+    },
+    {
+      "id": "esteri-india-protesta-liste-elettorali",
+      "category": "Esteri",
+      "title": "A Delhi l'opposizione protesta contro la revisione delle liste elettorali",
+      "eventKey": "india-protesta-delhi-revisione-liste-elettorali-130-milioni-1-novembre-2026"
+    },
+    {
+      "id": "esteri-ucraina-falsi-allarmi-app",
+      "category": "Esteri",
+      "title": "Ucraina, falsi allarmi nucleari diffusi attraverso l'app delle emergenze",
+      "eventKey": "ucraina-app-allerta-emergenze-falsi-avvisi-nucleari-2-novembre-2026"
+    },
+    {
+      "id": "esteri-commonwealth-riparazioni",
+      "category": "Esteri",
+      "title": "Commonwealth, Londra accetta il dialogo ma le riparazioni restano fuori dall'agenda",
+      "eventKey": "commonwealth-uk-dialogo-riparazioni-schiavitu-1-novembre-2026"
+    },
+    {
+      "id": "economia-petrolio-diplomazia-iran",
+      "category": "Economia",
+      "title": "Greggio in forte ribasso dopo l'apertura iraniana al dialogo",
+      "eventKey": "petrolio-2-novembre-2026-calo-67-diplomazia-iran-usa"
+    },
+    {
+      "id": "economia-uilp-rivalutazione-pensioni",
+      "category": "Economia",
+      "title": "Pensioni, la Uilp calcola le possibili perdite della rivalutazione",
+      "eventKey": "uilp-stime-tagli-rivalutazione-pensioni-2027-2-novembre"
+    },
+    {
+      "id": "economia-ecomondo-rimini-2026",
+      "category": "Economia",
+      "title": "Ecomondo apre il 3 novembre a Rimini con oltre 1.800 espositori",
+      "eventKey": "ecomondo-2026-rimini-apertura-3-novembre-1800-espositori"
+    },
+    {
+      "id": "economia-unicredit-icici-intesa",
+      "category": "Economia",
+      "title": "UniCredit e Icici Bank firmano un'intesa per le imprese tra Europa e India",
+      "eventKey": "unicredit-icici-bank-protocollo-imprese-europa-india-2-novembre-2026"
+    },
+    {
+      "id": "economia-pmi-manifattura-ottobre",
+      "category": "Economia",
+      "title": "Manifattura italiana, il Pmi di ottobre torna sotto quota 50",
+      "eventKey": "italia-pmi-manifatturiero-ottobre-2026-494-ordini-in-calo"
+    },
+    {
+      "id": "cronaca-verona-resta-carcere",
+      "category": "Cronaca",
+      "title": "Verona, resta in carcere l'uomo accusato della morte della moglie",
+      "eventKey": "verona-morte-jessica-dalla-chiara-marito-interrogatorio-2-novembre"
+    },
+    {
+      "id": "cronaca-napoli-rapina-gioielleria",
+      "category": "Cronaca",
+      "title": "Napoli, rapina armata in gioielleria: indagini sul bottino",
+      "eventKey": "napoli-via-san-giovanni-in-corte-rapina-gioielleria-2-novembre"
+    },
+    {
+      "id": "cronaca-capodichino-daniel",
+      "category": "Cronaca",
+      "title": "Capodichino, un giovane senza documenti assistito nello scalo",
+      "eventKey": "napoli-capodichino-giovane-senza-documenti-assistenza-consolato-svezia"
+    },
+    {
+      "id": "cronaca-forli-cesena-neve-strade",
+      "category": "Cronaca",
+      "title": "Prima neve sull'Appennino forlivese: attivato il piano strade",
+      "eventKey": "forli-cesena-prime-nevicate-piano-strade-2-novembre-2026"
+    },
+    {
+      "id": "cronaca-crans-moretti-interrogatorio",
+      "category": "Cronaca",
+      "title": "Crans-Montana, Moretti non risponde alle domande sul filone riciclaggio",
+      "eventKey": "crans-montana-jacques-moretti-interrogatorio-filone-riciclaggio-2-novembre"
+    },
+    {
+      "id": "roma-pasolini-nuova-inchiesta-2026",
+      "category": "Roma",
+      "title": "Pasolini, la Procura di Roma apre un nuovo fascicolo",
+      "eventKey": "roma-procura-riapre-fascicolo-omicidio-pasolini-esposto-novembre-2026"
+    },
+    {
+      "id": "roma-incendio-casal-de-pazzi-due-morti",
+      "category": "Roma",
+      "title": "Due persone morte dopo un incendio in casa a Casal de' Pazzi",
+      "eventKey": "roma-via-spinoza-casal-de-pazzi-incendio-appartamento-due-morti-2-novembre-2026"
+    },
+    {
+      "id": "roma-verano-leone-messa-2-novembre",
+      "category": "Roma",
+      "title": "Leone XIV al Verano per la commemorazione dei defunti",
+      "eventKey": "roma-papa-leone-xiv-messa-verano-defunti-2-novembre-2026"
+    },
+    {
+      "id": "roma-smart-city-expo-barcellona-2026",
+      "category": "Roma",
+      "title": "Roma porta a Barcellona i progetti per la città intelligente",
+      "eventKey": "roma-partecipa-smart-city-expo-barcellona-sospas-novembre-2026"
+    },
+    {
+      "id": "roma-vigna-pia-strada-scolastica",
+      "category": "Roma",
+      "title": "A Vigna Pia una strada scolastica con materiali anti-inquinamento",
+      "eventKey": "roma-vigna-pia-strada-scolastica-piero-terracina-fotocatalitica-31-ottobre-2026"
+    },
+    {
+      "id": "cultura-cina-restauro-architetti-roma",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Il restauro romano diventa un modello di confronto con la Cina",
+      "eventKey": "cultura-architetti-roma-delegazioni-cinesi-restauro-santangelo-velabro-novembre-2026"
+    },
+    {
+      "id": "cultura-paratissima-2026-moncalieri",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Paratissima chiude con più di 13mila ingressi",
+      "eventKey": "paratissima-moncalieri-2026-chiusura-oltre-13000-ingressi-2-novembre"
+    },
+    {
+      "id": "cultura-sofia-donadio-film-crans-montana",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Un film racconterà la vicenda di Sofia Donadio dopo Crans-Montana",
+      "eventKey": "film-notorious-pictures-sofia-donadio-sopravvissuta-crans-montana-annuncio-2-novembre-2026"
+    },
+    {
+      "id": "cultura-tananai-singolo-buonanotte",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Tananai pubblica il nuovo singolo il 3 novembre",
+      "eventKey": "tananai-singolo-buonanotte-anche-stanotte-uscita-3-novembre-2026"
+    },
+    {
+      "id": "cultura-arena-verona-balletto-romeo-2027",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "L'Arena di Verona riporta il balletto con orchestra nel 2027",
+      "eventKey": "arena-verona-balletto-romeo-giulietta-2027-ritorno-dopo-34-anni"
+    },
+    {
+      "id": "tecnologia-freezer-europa-attacchi",
+      "category": "Tecnologia · AI",
+      "title": "Freezer dei supermercati manomessi in sei Paesi europei",
+      "eventKey": "attacchi-sistemi-refrigerazione-supermercati-sei-paesi-europei-2-novembre-2026"
+    },
+    {
+      "id": "tecnologia-collabora-danimarca",
+      "category": "Tecnologia · AI",
+      "title": "Danimarca, il test di Collabora Office si è fermato senza una bocciatura",
+      "eventKey": "danimarca-collabora-office-test-sospeso-senza-bocciatura-2-novembre-2026"
+    },
+    {
+      "id": "tecnologia-campus-calcolo-openai",
+      "category": "Tecnologia · AI",
+      "title": "OpenAI valuta la formula «campus di calcolo» per i data center",
+      "eventKey": "openai-valuta-campuses-calcolo-campagna-comunicazione-2-novembre-2026"
+    },
+    {
+      "id": "tecnologia-nagoshi-studio-chiude",
+      "category": "Tecnologia · AI",
+      "title": "Nagoshi Studio chiude, «Gang of Dragon» non arriverà sul mercato",
+      "eventKey": "nagoshi-studio-chiusura-31-ottobre-2026-gang-of-dragon-cancellato"
+    },
+    {
+      "id": "tecnologia-phantom-blade-vendite",
+      "category": "Tecnologia · AI",
+      "title": "«Phantom Blade Zero» supera quattro milioni di copie in tre giorni",
+      "eventKey": "phantom-blade-zero-quattro-milioni-copie-72-ore-annuncio-s-game-2-novembre-2026"
+    },
+    {
+      "id": "sport-inter-feyenoord-esposito",
+      "category": "Sport",
+      "title": "Inter verso il Feyenoord: Pio Esposito favorito in attacco",
+      "eventKey": "inter-feyenoord-champions-pio-esposito-favorito-bastoni-squalificato-2-novembre-2026"
+    },
+    {
+      "id": "sport-juventus-mckennie-europa",
+      "category": "Sport",
+      "title": "Juventus, McKennie salta l'AZ; recuperati Cabal e Alajbegovic",
+      "eventKey": "juventus-mckennie-affaticamento-salta-az-cabal-alajbegovic-disponibili-2-novembre-2026"
+    },
+    {
+      "id": "sport-lazio-salto-classifica",
+      "category": "Sport",
+      "title": "Lazio, il miglioramento più netto rispetto alla scorsa Serie A",
+      "eventKey": "lazio-classifica-serie-a-confronto-2025-2026-piu-13-punti-2-novembre-2026"
+    },
+    {
+      "id": "sport-russell-messico",
+      "category": "Sport",
+      "title": "Formula 1, Russell multato dopo il GP del Messico",
+      "eventKey": "russell-multa-5000-euro-interviste-saltate-messico-lacrime-2-novembre-2026"
+    },
+    {
+      "id": "sport-errani-paolini-tokyo",
+      "category": "Sport",
+      "title": "Errani e Paolini, il titolo di Tokyo rilancia la coppia verso le Finals",
+      "eventKey": "errani-paolini-vincono-doppio-wta-tokyo-dabrowski-stefani-1-novembre-2026"
+    },
+    {
+      "id": "politica-ipsos-consensi",
+      "category": "Politica",
+      "title": "Ipsos, FdI al 26,7% e Futuro nazionale al 7,9%",
+      "eventKey": "sondaggio-ipsos-31-ottobre-2026-fdi-26-7-vannacci-7-9"
+    },
+    {
+      "id": "politica-salvini-banche",
+      "category": "Politica",
+      "title": "Salvini non esclude un contributo bancario superiore in Parlamento",
+      "eventKey": "salvini-parlamento-contributo-banche-oltre-cinque-miliardi-31-ottobre-2026"
+    },
+    {
+      "id": "politica-mattarella-giovani",
+      "category": "Politica",
+      "title": "Mattarella richiama i giovani alla responsabilità di costruire il futuro",
+      "eventKey": "mattarella-villa-nazareth-ottantesimo-giovani-comunita-31-ottobre-2026"
+    },
+    {
+      "id": "politica-alluvioni-fondi-manovra",
+      "category": "Politica",
+      "title": "Manovra, previsti 17,1 milioni per territori colpiti dalle alluvioni",
+      "eventKey": "manovra-2027-2028-stanzia-17-milioni-alluvioni-tre-regioni-1-novembre-2026"
+    },
+    {
+      "id": "politica-vannacci-meloni-alleanza",
+      "category": "Politica",
+      "title": "Vannacci contesta la chiusura di Meloni a Futuro Nazionale",
+      "eventKey": "vannacci-critica-meloni-chiusura-alleanza-futuro-nazionale-2-novembre-2026"
+    },
+    {
+      "id": "esteri-spagna-vittime-treni",
+      "category": "Esteri",
+      "title": "Spagna, identificati nuovi cittadini stranieri fra le 69 vittime del disastro ferroviario",
+      "eventKey": "spagna-urda-treni-identificazione-69-vittime-straniere-2-novembre-2026"
+    },
+    {
+      "id": "esteri-regno-unito-ue-studenti",
+      "category": "Esteri",
+      "title": "Regno Unito, ipotesi di tasse universitarie ridotte agli studenti UE in cambio di un accordo industriale",
+      "eventKey": "uk-ue-studenti-450-milioni-made-in-europe-negoziato-1-novembre-2026"
+    },
+    {
+      "id": "esteri-texas-voto-anticipato",
+      "category": "Esteri",
+      "title": "Midterm USA, in Texas 7,5 milioni di voti anticipati",
+      "eventKey": "texas-voto-anticipato-7-milioni-500mila-midterm-2026"
+    },
+    {
+      "id": "esteri-israele-lista-unita",
+      "category": "Esteri",
+      "title": "Israele, secondo Walla la Lista Unita sosterrà Eisenkot nelle consultazioni",
+      "eventKey": "israele-lista-unita-raccomandazione-eisenkot-herzog-1-novembre-2026"
+    },
+    {
+      "id": "esteri-israele-sondaggio-insediamenti",
+      "category": "Esteri",
+      "title": "Israele, un sondaggio rileva aperture a rivedere la politica degli insediamenti",
+      "eventKey": "israele-sondaggio-achord-insediamenti-sanzioni-regno-unito-2-novembre-2026"
+    },
+    {
+      "id": "economia-marsiaj-spazio-usa",
+      "category": "Economia",
+      "title": "Aerospazio, Confindustria prepara una missione industriale negli Stati Uniti",
+      "eventKey": "confindustria-marsiaj-missione-industria-spazio-usa-dicembre-2026"
+    },
+    {
+      "id": "economia-top-manager-ottobre",
+      "category": "Economia",
+      "title": "Reputazione dei manager, Messina torna primo nella graduatoria di ottobre",
+      "eventKey": "top-manager-reputation-ottobre-2026-messina-primo-orcel-secondo"
+    },
+    {
+      "id": "economia-ryanair-prospettive-2034",
+      "category": "Economia",
+      "title": "Ryanair punta a superare 300 milioni di passeggeri entro il 2034",
+      "eventKey": "ryanair-oleary-obiettivo-300-milioni-passeggeri-2034"
+    },
+    {
+      "id": "economia-cassa-orvieto-nove-mesi",
+      "category": "Economia",
+      "title": "Cassa di Risparmio di Orvieto, utile in calo ma più prestiti sul territorio",
+      "eventKey": "cassa-risparmio-orvieto-utile-nove-mesi-2026-crediti-territorio"
+    },
+    {
+      "id": "economia-confesercenti-consumi",
+      "category": "Economia",
+      "title": "Caro vita, Confesercenti teme 1,4 miliardi di consumi in meno",
+      "eventKey": "confesercenti-ipsos-novembre-2026-consumi-trimestre-14-miliardi"
+    },
+    {
+      "id": "cronaca-trieste-incendio-porto",
+      "category": "Cronaca",
+      "title": "Trieste, due persone morte nell'incendio di un magazzino del Porto Vecchio",
+      "eventKey": "trieste-porto-vecchio-incendio-magazzino-due-vittime-2-novembre"
+    },
+    {
+      "id": "cronaca-polizia-criminalita-giovanile",
+      "category": "Cronaca",
+      "title": "Operazione nazionale contro la criminalità giovanile: 644 arresti",
+      "eventKey": "polizia-operazione-nazionale-giovani-644-arresti-2-novembre-2026"
+    },
+    {
+      "id": "cronaca-morbegno-intimidazione",
+      "category": "Cronaca",
+      "title": "Morbegno, gesto intimidatorio all'ingresso di un centro islamico",
+      "eventKey": "morbegno-centro-islamico-testa-maiale-messaggio-intimidatorio-1-novembre"
+    },
+    {
+      "id": "cronaca-torre-greco-rapina-minore",
+      "category": "Cronaca",
+      "title": "Torre del Greco, diciassettenne ferito durante una rapina",
+      "eventKey": "torre-del-greco-rapina-17enne-arma-aria-compressa-2-novembre"
+    },
+    {
+      "id": "cronaca-campobasso-fiore-sospeso",
+      "category": "Cronaca",
+      "title": "Campobasso, il «fiore sospeso» per le tombe senza visite",
+      "eventKey": "campobasso-2-novembre-2026-iniziativa-fiore-sospeso-cimiteri"
+    },
+    {
+      "id": "tecnologia-papa-ai-armi-autonome",
+      "category": "Tecnologia · AI",
+      "title": "Leone XIV sollecita limiti internazionali alle armi autonome",
+      "eventKey": "papa-leone-xiv-invito-bando-armi-letali-autonome-discorso-ai-2-novembre-2026"
+    },
+    {
+      "id": "tecnologia-spotify-remix-ai",
+      "category": "Tecnologia · AI",
+      "title": "Spotify valuta un servizio aggiuntivo per remix e cover con l'AI",
+      "eventKey": "spotify-ipotesi-abbonamento-remix-cover-ai-2027-financial-times-2-novembre-2026"
+    },
+    {
+      "id": "tecnologia-chatgpt-link-vulnerabilita",
+      "category": "Tecnologia · AI",
+      "title": "ChatGPT, corretta una falla legata alle anteprime dei link condivisi",
+      "eventKey": "chatgpt-link-condivisi-vulnerabilita-mathlive-corretta-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-ps5-firmware-1422",
+      "category": "Tecnologia · AI",
+      "title": "PS5 riceve il firmware 14.22: Sony cita miglioramenti alla sicurezza",
+      "eventKey": "sony-ps5-firmware-26-07-14-22-00-rilasciato-2-novembre-2026"
+    },
+    {
+      "id": "tecnologia-physint-mostra-kojima",
+      "category": "Tecnologia · AI",
+      "title": "«Physint», nuovi concept fotografati alla mostra di Kojima Productions",
+      "eventKey": "physint-concept-design-mostra-decennale-kojima-productions-resetera-2-novembre-2026"
+    },
+    {
+      "id": "sport-sassuolo-fiorentina-programma",
+      "category": "Sport",
+      "title": "Serie A, Sassuolo-Fiorentina in programma alle 18:30",
+      "eventKey": "sassuolo-fiorentina-serie-a-2-novembre-2026-ore-1830"
+    },
+    {
+      "id": "sport-baresi-famedio",
+      "category": "Sport",
+      "title": "Milano rende omaggio a Baresi e Pizzul nel Famedio",
+      "eventKey": "milano-famedio-franco-baresi-bruno-pizzul-iscritti-2-novembre-2026"
+    },
+    {
+      "id": "sport-maignan-parata-derby",
+      "category": "Sport",
+      "title": "Maignan, Marchegiani analizza la parata decisiva nel derby",
+      "eventKey": "milan-inter-parata-maignan-analisi-marchegiani-2-novembre-2026"
+    },
+    {
+      "id": "sport-valentino-rossi-antonelli",
+      "category": "Sport",
+      "title": "Valentino Rossi elogia Antonelli dopo il titolo mondiale",
+      "eventKey": "valentino-rossi-commento-antonelli-campione-f1-2-novembre-2026"
+    },
+    {
+      "id": "sport-musetti-hurkacz-parigi",
+      "category": "Sport",
+      "title": "Musetti supera Hurkacz al debutto nel Masters di Parigi",
+      "eventKey": "musetti-batte-hurkacz-doppio-tiebreak-atp-parigi-2-novembre-2026"
     }
   ],
-  "stories": [],
-  "needsPublication": false
+  "collectionId": "2026-11-02-pomeriggio",
+  "reserveCounts": {
+    "Politica": 5,
+    "Esteri": 5,
+    "Economia": 5,
+    "Cronaca": 5,
+    "Roma": 0,
+    "Cultura · Teatro · Cinema": 0,
+    "Tecnologia · AI": 5,
+    "Sport": 5
+  },
+  "photoCandidates": [
+    {
+      "id": "politica-rai-riforma-parlamento",
+      "category": "Politica",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Chigi_Roma_giugno_2024.jpg"
+    },
+    {
+      "id": "esteri-ucraina-raffinerie",
+      "category": "Esteri",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_Official_portrait.jpg"
+    },
+    {
+      "id": "roma-verano-leone-messa-2-novembre",
+      "category": "Roma",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roma_-_Ingresso_del_Cimitero_Monumentale_del_Verano.jpg"
+    },
+    {
+      "id": "tecnologia-campus-calcolo-openai",
+      "category": "Tecnologia · AI",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Servers_in_a_Rack.jpg"
+    },
+    {
+      "id": "sport-errani-paolini-tokyo",
+      "category": "Sport",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sara_Errani_-_Roland-Garros_-_28.05.2024_(cropped).jpg"
+    }
+  ],
+  "photosAvailable": 5,
+  "categoryProgress": {
+    "politica": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "esteri": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "economia": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "cronaca": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "roma": {
+      "base": 5,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "cultura": {
+      "base": 5,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "tecnologia": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "sport": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    }
+  },
+  "editionId": "2026-11-02-batches-f556893ef749",
+  "needsPublication": true
 }
