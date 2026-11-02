@@ -3,7 +3,7 @@
   "editionDate": "2026-11-02",
   "collectionId": "2026-11-02-mattina",
   "category": "Cronaca",
-  "completedAt": "2026-11-02T05:15:35.066Z",
+  "completedAt": "2026-11-02T05:16:29.540Z",
   "articles": [
     {
       "id": "cronaca-maltempo-allerta-sud",
@@ -112,6 +112,118 @@
         "access": "free",
         "accessCheckedAt": "2026-11-02T05:15:35.066Z",
         "dateEvidence": "Fonte originale ANSA aperta e letta il 2 novembre 2026; data/ora di pubblicazione indicate: 2026-11-01T13:54:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "cronaca-montichiari-sospetta-meningite",
+      "eventKey": "montichiari-maestra-mira-jovovic-decesso-sospetta-meningite-profilassi",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Montichiari, morta un'insegnante: avviata profilassi per sospetta meningite",
+      "summary": "Le cause del decesso non sono ancora accertate e sarà eseguita un'autopsia.",
+      "body": [
+        "Una maestra di 53 anni è morta a Montichiari, nel Bresciano, dopo un rapido peggioramento delle condizioni di salute. La meningite è al momento un'ipotesi da verificare con l'autopsia, non una diagnosi definitiva.",
+        "L'Ats di Brescia ha attivato la profilassi preventiva per i contatti recenti, compresi bambini e familiari. La scuola dell'infanzia in cui lavorava la donna ha annunciato la regolare riapertura lunedì."
+      ],
+      "publishedAt": "2026-11-01T14:35:00+01:00",
+      "verifiedAt": "2026-11-02T05:16:29.540Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/01/montichiari-maestra-morta",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T05:16:29.540Z",
+        "dateEvidence": "Fonte Sky TG24 aperta e letta il 2 novembre 2026; data/ora originale: 2026-11-01T14:35:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-rimini-indagine-interruzione",
+      "eventKey": "rimini-donna-33enne-indagata-aborto-farmaco-estero-1-novembre",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Rimini, indagine dopo un'interruzione di gravidanza con gravi complicazioni",
+      "summary": "Una donna di 33 anni è stata ricoverata per emorragia; la Procura verifica le circostanze e l'epoca gestazionale.",
+      "body": [
+        "La Procura di Rimini ha aperto un fascicolo dopo il ricovero d'urgenza di una donna che ha riferito di avere interrotto in casa una gravidanza con un farmaco acquistato all'estero. La paziente ha riportato una grave emorragia.",
+        "Gli investigatori stanno accertando l'epoca gestazionale e le circostanze dell'episodio. La donna e la madre risultano indagate, ma le responsabilità penali devono ancora essere accertate."
+      ],
+      "publishedAt": "2026-11-01T15:49:00+01:00",
+      "verifiedAt": "2026-11-02T05:16:29.540Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/01/aborto-illegale-donna-indagata-rimini",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T05:16:29.540Z",
+        "dateEvidence": "Fonte Sky TG24 aperta e letta il 2 novembre 2026; data/ora originale: 2026-11-01T15:49:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-licata-tombe-profanate",
+      "eventKey": "licata-vandalizzate-tombe-famiglie-sindaco-assessore-1-novembre",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Licata, danneggiate le tombe dei familiari di sindaco e assessore",
+      "summary": "I carabinieri indagano su due episodi avvenuti nei cimiteri cittadini durante la notte.",
+      "body": [
+        "A Licata, nell'Agrigentino, sono state trovate danneggiate le sepolture delle famiglie del sindaco Angelo Balsamo e dell'assessore Giuseppe Federico. Gli atti vandalici hanno interessato due diversi cimiteri della città.",
+        "I carabinieri stanno verificando se i danneggiamenti costituiscano un tentativo di intimidazione verso gli amministratori. La motivazione non è ancora accertata."
+      ],
+      "publishedAt": "2026-11-01T10:35:00+01:00",
+      "verifiedAt": "2026-11-02T05:16:29.540Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/01/licata-profanate-tombe-agrigento",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T05:16:29.540Z",
+        "dateEvidence": "Fonte Sky TG24 aperta e letta il 2 novembre 2026; data/ora originale: 2026-11-01T10:35:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-torino-controlli-halloween",
+      "eventKey": "torino-controlli-halloween-2026-otto-arresti-diciotto-denunce",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Torino, controlli nel weekend di Halloween: otto arresti e 18 denunce",
+      "summary": "La Questura riferisce verifiche su circa 1.400 persone e oltre 280 veicoli.",
+      "body": [
+        "I servizi straordinari delle forze dell'ordine nel fine settimana di Halloween a Torino hanno portato, secondo il bilancio della Questura, a otto arresti e diciotto denunce. Le verifiche hanno interessato anche le aree della movida cittadina.",
+        "Sono stati controllati dodici esercizi commerciali, con sanzioni amministrative per oltre 16.500 euro a cinque locali. Gli agenti hanno effettuato inoltre controlli su veicoli e monopattini."
+      ],
+      "publishedAt": "2026-11-01T12:42:00+01:00",
+      "verifiedAt": "2026-11-02T05:16:29.540Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/amp/piemonte/notizie/2026/11/01/a-torino-otto-arresti-e-18-denunce-nei-controlli-del-weekend-di-halloween_958ecaf4-3dcc-416a-b5e3-1322b107c056.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T05:16:29.540Z",
+        "dateEvidence": "Fonte ANSA aperta e letta il 2 novembre 2026; data/ora originale: 2026-11-01T12:42:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-pistoia-donazione-fegato",
+      "eventKey": "pistoia-annina-sensi-donazione-fegato-98-anni-trapianto-ottobre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Pistoia, donazione di fegato da una donna quasi centenaria",
+      "summary": "Il consenso dei familiari ha permesso un trapianto riuscito dopo il decesso della donna.",
+      "body": [
+        "A Montale, in provincia di Pistoia, la famiglia di Annina Sensi ha autorizzato la donazione del fegato dopo la morte della donna, che avrebbe compiuto 98 anni a novembre. L'organo è risultato idoneo al trapianto e l'intervento è riuscito.",
+        "I familiari hanno reso nota la vicenda per sensibilizzare sull'importanza di dichiarare la volontà di donare. L'età avanzata, spiegano i medici citati dalla notizia, non esclude automaticamente l'idoneità di un organo."
+      ],
+      "publishedAt": "2026-10-31T20:03:00+01:00",
+      "verifiedAt": "2026-11-02T05:16:29.540Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/dona-il-fegato-a-98-anni-e-salva-una-vita_66acf73b-9e57-4a48-bff7-b72c19a881d8.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T05:16:29.540Z",
+        "dateEvidence": "Fonte ANSA aperta e letta il 2 novembre 2026; data/ora originale: 2026-10-31T20:03:00+01:00.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
