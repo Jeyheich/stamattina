@@ -1,10 +1,9 @@
 {
   "editionDate": "2026-11-02",
-  "checkedAt": "2026-11-02T05:16:15.750Z",
+  "checkedAt": "2026-11-02T05:16:44.092Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -234,6 +233,36 @@
       "category": "Economia",
       "title": "Superbonus, la manovra ipotizza dieci rate per alcuni crediti d'imposta",
       "eventKey": "manovra-2027-superbonus-crediti-2023-compensazione-dieci-rate"
+    },
+    {
+      "id": "cronaca-montichiari-sospetta-meningite",
+      "category": "Cronaca",
+      "title": "Montichiari, morta un'insegnante: avviata profilassi per sospetta meningite",
+      "eventKey": "montichiari-maestra-mira-jovovic-decesso-sospetta-meningite-profilassi"
+    },
+    {
+      "id": "cronaca-rimini-indagine-interruzione",
+      "category": "Cronaca",
+      "title": "Rimini, indagine dopo un'interruzione di gravidanza con gravi complicazioni",
+      "eventKey": "rimini-donna-33enne-indagata-aborto-farmaco-estero-1-novembre"
+    },
+    {
+      "id": "cronaca-licata-tombe-profanate",
+      "category": "Cronaca",
+      "title": "Licata, danneggiate le tombe dei familiari di sindaco e assessore",
+      "eventKey": "licata-vandalizzate-tombe-famiglie-sindaco-assessore-1-novembre"
+    },
+    {
+      "id": "cronaca-torino-controlli-halloween",
+      "category": "Cronaca",
+      "title": "Torino, controlli nel weekend di Halloween: otto arresti e 18 denunce",
+      "eventKey": "torino-controlli-halloween-2026-otto-arresti-diciotto-denunce"
+    },
+    {
+      "id": "cronaca-pistoia-donazione-fegato",
+      "category": "Cronaca",
+      "title": "Pistoia, donazione di fegato da una donna quasi centenaria",
+      "eventKey": "pistoia-annina-sensi-donazione-fegato-98-anni-trapianto-ottobre-2026"
     }
   ],
   "collectionId": "2026-11-02-mattina",
@@ -241,7 +270,7 @@
     "Politica": 5,
     "Esteri": 5,
     "Economia": 5,
-    "Cronaca": 0,
+    "Cronaca": 5,
     "Roma": 0,
     "Cultura · Teatro · Cinema": 0,
     "Tecnologia · AI": 0,
@@ -286,9 +315,9 @@
     },
     "cronaca": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "roma": {
       "base": 0,
