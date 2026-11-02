@@ -3,7 +3,7 @@
   "editionDate": "2026-11-02",
   "collectionId": "2026-11-02-pomeriggio",
   "category": "Sport",
-  "completedAt": "2026-11-02T16:10:23.545Z",
+  "completedAt": "2026-11-02T16:10:58.355Z",
   "articles": [
     {
       "id": "sport-inter-feyenoord-esposito",
@@ -124,6 +124,118 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
         "caption": "Sara Errani al Roland Garros 2024: immagine di repertorio, non della finale di Tokyo.",
         "reuseApproved": true
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "sport-sassuolo-fiorentina-programma",
+      "eventKey": "sassuolo-fiorentina-serie-a-2-novembre-2026-ore-1830",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Serie A, Sassuolo-Fiorentina in programma alle 18:30",
+      "summary": "La decima giornata prosegue lunedì 2 novembre con la sfida del Mapei Stadium, ancora da giocare al momento della verifica.",
+      "body": [
+        "Sassuolo e Fiorentina sono attesi in campo alle 18:30 del 2 novembre per la decima giornata di Serie A. Sky Sport ha pubblicato orario e canali della diretta, con copertura anche in streaming.",
+        "La notizia riguarda il calendario della partita: nessun risultato viene anticipato prima del calcio d'inizio."
+      ],
+      "publishedAt": "2026-11-02T14:30:00+01:00",
+      "verifiedAt": "2026-11-02T16:10:58.355Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/11/02/sassuolo-fiorentina-dove-vedere-tv-streaming",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:10:58.355Z",
+        "dateEvidence": "Sky Sport, 2 novembre 2026 ore 14:30; incontro fissato per le 18:30, ancora futuro al momento della verifica.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-baresi-famedio",
+      "eventKey": "milano-famedio-franco-baresi-bruno-pizzul-iscritti-2-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Milano rende omaggio a Baresi e Pizzul nel Famedio",
+      "summary": "Il campione rossonero e il giornalista sportivo figurano tra i quattordici benemeriti ricordati al Cimitero Monumentale.",
+      "body": [
+        "Franco Baresi e Bruno Pizzul sono stati iscritti nel Famedio di Milano, spazio dedicato alle personalità che hanno segnato la storia cittadina. Il sindaco Giuseppe Sala ha ricordato il contributo dei benemeriti.",
+        "Il Milan ha pubblicato un omaggio a Baresi. Sky Sport segnala inoltre un intervento di pulizia parziale del murale dedicato all'ex capitano a Casa Milan."
+      ],
+      "publishedAt": "2026-11-02T15:15:00+01:00",
+      "verifiedAt": "2026-11-02T16:10:58.355Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/11/02/franco-baresi-famedio-milano",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:10:58.355Z",
+        "dateEvidence": "Sky Sport, 2 novembre 2026 ore 15:15; cerimonia Famedio per Baresi e Pizzul.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-maignan-parata-derby",
+      "eventKey": "milan-inter-parata-maignan-analisi-marchegiani-2-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Maignan, Marchegiani analizza la parata decisiva nel derby",
+      "summary": "L'ex portiere evidenzia il riflesso del capitano rossonero su una conclusione ravvicinata.",
+      "body": [
+        "Nel commento televisivo successivo al derby Milan-Inter, Luca Marchegiani ha esaminato una parata di Mike Maignan, sottolineando la difficoltà di opporsi a un tiro improvviso da distanza molto corta.",
+        "L'analisi riguarda un episodio tecnico della partita già disputata, non un nuovo risultato. Sky Sport ha diffuso il video e il commento il 2 novembre."
+      ],
+      "publishedAt": "2026-11-02T08:00:00+01:00",
+      "verifiedAt": "2026-11-02T16:10:58.355Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/11/02/milan-inter-maignan-parata-sky-calcio-club",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:10:58.355Z",
+        "dateEvidence": "Sky Sport, 2 novembre 2026 ore 08:00; video del commento di Marchegiani alla parata di Maignan.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-valentino-rossi-antonelli",
+      "eventKey": "valentino-rossi-commento-antonelli-campione-f1-2-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Valentino Rossi elogia Antonelli dopo il titolo mondiale",
+      "summary": "Il nove volte iridato del motociclismo vede nel giovane pilota Mercedes il potenziale per diventare uno dei grandi della Formula 1.",
+      "body": [
+        "Valentino Rossi ha commentato a Sky Sport il titolo mondiale di Formula 1 conquistato da Kimi Antonelli, dicendo di riconoscere nel pilota la stessa aggressività agonistica che aveva alla sua età.",
+        "Rossi ha richiamato anche il lungo intervallo trascorso dall'ultimo titolo iridato di un italiano in F1. Si tratta di una reazione e di una valutazione personale, distinta dal risultato della gara."
+      ],
+      "publishedAt": "2026-11-02T01:00:00+01:00",
+      "verifiedAt": "2026-11-02T16:10:58.355Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/formula-1/2026/11/02/valentino-rossi-kimi-antonelli-mondiale-f1-video",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:10:58.355Z",
+        "dateEvidence": "Sky Sport, 2 novembre 2026 ore 01:00; intervista a Valentino Rossi sul titolo mondiale di Antonelli.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-musetti-hurkacz-parigi",
+      "eventKey": "musetti-batte-hurkacz-doppio-tiebreak-atp-parigi-2-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Musetti supera Hurkacz al debutto nel Masters di Parigi",
+      "summary": "L'azzurro vince due tie-break e si qualifica al secondo turno, dove affronterà Alexander Zverev.",
+      "body": [
+        "Lorenzo Musetti ha superato Hubert Hurkacz con il punteggio di 7-6 7-6 nel primo turno del Masters 1000 di Parigi, imponendosi in entrambi i set al tie-break.",
+        "Il prossimo avversario sarà Alexander Zverev, indicato come nuovo numero uno del mondo nel resoconto di Sky Sport. Il risultato è stato pubblicato alle 12:55 del 2 novembre."
+      ],
+      "publishedAt": "2026-11-02T12:55:00+01:00",
+      "verifiedAt": "2026-11-02T16:10:58.355Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/2026/11/02/musetti-hurkacz-atp-parigi-risultato",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:10:58.355Z",
+        "dateEvidence": "Sky Sport, 2 novembre 2026 ore 12:55; Musetti-Hurkacz 7-6 7-6 e turno successivo con Zverev.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ]
