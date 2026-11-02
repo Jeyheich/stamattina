@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-02",
-  "checkedAt": "2026-11-02T06:07:49.799Z",
+  "checkedAt": "2026-11-02T06:13:18.274Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -12,12 +12,12 @@
     "esteri",
     "economia",
     "cronaca",
+    "roma",
     "tecnologia",
     "sport"
   ],
   "inProgress": [],
   "missing": [
-    "roma",
     "cultura"
   ],
   "invalid": [],
@@ -141,6 +141,36 @@
       "category": "Cronaca",
       "title": "A14, grandinata e tamponamento a catena con dodici veicoli",
       "eventKey": "a14-grandinata-maxi-tamponamento-dodici-auto-cesena-1-novembre-2026"
+    },
+    {
+      "id": "roma-verano-messa-papa",
+      "category": "Roma",
+      "title": "Al Verano attesa la Messa di Leone XIV per i defunti",
+      "eventKey": "roma-papa-leone-xiv-messa-verano-defunti-2-novembre-2026"
+    },
+    {
+      "id": "roma-incidenti-mortali-calo",
+      "category": "Roma",
+      "title": "Incidenti mortali in calo a Roma, ma 82 vittime da gennaio",
+      "eventKey": "roma-incidenti-mortali-2026-primi-dieci-mesi-79-contro-105"
+    },
+    {
+      "id": "roma-colombo-investimento",
+      "category": "Roma",
+      "title": "Sulla Colombo muore un pedone di 34 anni",
+      "eventKey": "roma-via-colombo-casal-palocco-pedone-34enne-morto-1-novembre-2026"
+    },
+    {
+      "id": "roma-a24-chiusure-notturne",
+      "category": "Roma",
+      "title": "A24, chiusure notturne della complanare est fino al 5 novembre",
+      "eventKey": "roma-a24-complanare-est-chiusa-notte-2-4-novembre-2026"
+    },
+    {
+      "id": "roma-tende-colosseo",
+      "category": "Roma",
+      "title": "La protesta contro il carovita si sposta sotto il Colosseo",
+      "eventKey": "roma-presidio-usb-tende-colosseo-assemblea-1-novembre-2026"
     },
     {
       "id": "tecnologia-wikimedia-copyright",
@@ -411,12 +441,17 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:897RomaBancaItalia.JPG"
     },
     {
+      "id": "roma-verano-messa-papa",
+      "category": "Roma",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roma_-_Ingresso_del_Cimitero_Monumentale_del_Verano.jpg"
+    },
+    {
       "id": "sport-errani-paolini-tokyo",
       "category": "Sport",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sara_Errani_-_Roland-Garros_-_28.05.2024_(cropped).jpg"
     }
   ],
-  "photosAvailable": 4,
+  "photosAvailable": 5,
   "categoryProgress": {
     "politica": {
       "base": 5,
@@ -443,7 +478,7 @@
       "complete": true
     },
     "roma": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
