@@ -1,12 +1,11 @@
 {
   "editionDate": "2026-11-02",
-  "checkedAt": "2026-11-02T06:07:09.961Z",
+  "checkedAt": "2026-11-02T06:07:34.582Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
     "roma",
     "cultura",
-    "tecnologia",
     "sport"
   ],
   "completed": [
@@ -323,6 +322,36 @@
       "category": "Cronaca",
       "title": "Pistoia, donazione di fegato da una donna quasi centenaria",
       "eventKey": "pistoia-annina-sensi-donazione-fegato-98-anni-trapianto-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-chatgpt-minori-protezioni",
+      "category": "Tecnologia · AI",
+      "title": "ChatGPT, annunciati nuovi controlli per gli utenti minorenni",
+      "eventKey": "openai-chatgpt-nuove-protezioni-minori-31-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-windows-search-azioni",
+      "category": "Tecnologia · AI",
+      "title": "Windows Search sperimenta comandi rapidi per PC e smartphone",
+      "eventKey": "microsoft-windows-11-26h2-search-azioni-inline-insider-31-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-google-home-consumi-matter",
+      "category": "Tecnologia · AI",
+      "title": "Google Home mostra i consumi delle prese Matter compatibili",
+      "eventKey": "google-home-misurazione-energia-prese-matter-annuncio-29-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-ps5-firmware-novembre",
+      "category": "Tecnologia · AI",
+      "title": "Nuovo firmware PS5: manutenzione ufficiale, ipotesi sul contrasto al jailbreak",
+      "eventKey": "sony-ps5-firmware-14-20-manutenzione-ipotesi-antijailbreak-1-novembre-2026"
+    },
+    {
+      "id": "tecnologia-sony-prezzi-dinamici",
+      "category": "Tecnologia · AI",
+      "title": "PlayStation Store, Sony continua a valutare prezzi dinamici",
+      "eventKey": "sony-playstation-store-annuncio-lavoro-prezzi-dinamici-1-novembre-2026"
     }
   ],
   "collectionId": "2026-11-02-mattina",
@@ -333,7 +362,7 @@
     "Cronaca": 5,
     "Roma": 0,
     "Cultura · Teatro · Cinema": 0,
-    "Tecnologia · AI": 0,
+    "Tecnologia · AI": 5,
     "Sport": 0
   },
   "photoCandidates": [
@@ -398,9 +427,9 @@
     },
     "tecnologia": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "sport": {
       "base": 5,
