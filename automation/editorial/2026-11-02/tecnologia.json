@@ -69,6 +69,17 @@
         "accessCheckedAt": "2026-11-02T16:10:23.545Z",
         "dateEvidence": "Punto Informatico, «Pubblicato il 2 nov 2026»; l'articolo attribuisce l'ipotesi ad Axios e usa il condizionale.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 89,
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Servers_in_a_Rack.jpg",
+        "alt": "Armadio rack con server e cablaggi in una sala informatica",
+        "credit": "Abigor / Wikimedia Commons",
+        "rights": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Servers_in_a_Rack.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "caption": "Server in un rack, fotografia di repertorio del 2011: non raffigura un centro di calcolo OpenAI.",
+        "reuseApproved": true
       }
     },
     {
