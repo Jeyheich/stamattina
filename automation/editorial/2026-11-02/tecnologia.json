@@ -1,219 +1,117 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-11-02",
-  "collectionId": "2026-11-02-mattina",
+  "collectionId": "2026-11-02-pomeriggio",
   "category": "Tecnologia · AI",
-  "completedAt": "2026-11-02T06:07:20.287Z",
+  "completedAt": "2026-11-02T16:10:23.545Z",
   "articles": [
     {
-      "id": "tecnologia-wikimedia-copyright",
-      "eventKey": "wikimedia-amicus-brief-nyt-openai-conoscenza-aperta-1-novembre-2026",
+      "id": "tecnologia-freezer-europa-attacchi",
+      "eventKey": "attacchi-sistemi-refrigerazione-supermercati-sei-paesi-europei-2-novembre-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "Wikimedia chiede equilibrio nella causa sul copyright tra NYT e OpenAI",
-      "summary": "La fondazione teme sia una lettura troppo restrittiva del fair use, sia la riproduzione non autorizzata dei testi originali.",
+      "title": "Freezer dei supermercati manomessi in sei Paesi europei",
+      "summary": "Dopo la Francia, segnalati impianti di refrigerazione portati a temperature anomale in Belgio, Svezia, Irlanda, Paesi Bassi, Finlandia ed Estonia.",
       "body": [
-        "Wikimedia Foundation ha presentato un amicus brief nella causa sul diritto d'autore tra New York Times, OpenAI e Microsoft. La fondazione chiede di distinguere l'impiego trasformativo dei contenuti nella formazione dei modelli dalla restituzione di copie degli articoli nelle risposte. Segnala rischi opposti per la conoscenza aperta."
+        "Nuovi incidenti informatici hanno colpito i sistemi di refrigerazione di supermercati in sei Paesi europei. Secondo i primi resoconti, alcuni freezer sono stati impostati fino a 50 °C, costringendo i gestori a smaltire alimenti decongelati.",
+        "La causa tecnica e gli autori non sono stati ancora accertati. Un produttore belga ha indicato la possibile necessità di interventi fisici sui dispositivi; l'Italia non figura fra i Paesi colpiti finora."
       ],
-      "publishedAt": "2026-11-01",
-      "verifiedAt": "2026-11-02T06:06:36.362Z",
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-02T16:10:23.545Z",
       "source": {
         "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/the-new-york-times-vs-openai-avvertimento-wikimedia/",
+        "url": "https://www.punto-informatico.it/nuovi-attacchi-freezer-supermercati-europa/",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T06:06:36.362Z",
-        "dateEvidence": "Pagina completa Punto Informatico, data editoriale 1 novembre 2026; esamina amicus brief Wikimedia e copyright.",
+        "accessCheckedAt": "2026-11-02T16:10:23.545Z",
+        "dateEvidence": "Punto Informatico, articolo integrale con data in calce «Pubblicato il 2 nov 2026»; riferisce attacchi in sei Paesi e indagini ancora aperte.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "tecnologia-cursor-estensione-infetta",
-      "eventKey": "cursor-marketplace-estensione-claude-code-backdoor-5000-installazioni-29-ottobre-2026",
+      "id": "tecnologia-collabora-danimarca",
+      "eventKey": "danimarca-collabora-office-test-sospeso-senza-bocciatura-2-novembre-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "Estensione compromessa nel marketplace Cursor: circa cinquemila installazioni",
-      "summary": "Un pacchetto distribuito come estensione per Claude Code conteneva una backdoor SSH; il marketplace ha rimosso la versione infetta.",
+      "title": "Danimarca, il test di Collabora Office si è fermato senza una bocciatura",
+      "summary": "Collabora chiarisce che la prova nei ministeri danesi non equivaleva a un piano definitivo per sostituire Microsoft Office.",
       "body": [
-        "Cursor ha confermato che una versione compromessa dell'estensione Claude Code per Windows e macOS è stata disponibile nel proprio marketplace il 29 ottobre. Secondo l'azienda, circa 5.000 utenti l'hanno installata durante la finestra di esposizione; il codice malevolo poteva raccogliere dati e aprire un tunnel SSH in particolari condizioni. La versione corretta è la 2.1.314."
+        "Collabora Productivity ha contestato le ricostruzioni secondo cui la Danimarca avrebbe bocciato la propria suite per tornare a Microsoft Office. L'iniziativa del ministero mirava a valutare alternative e ridurre la dipendenza da un unico fornitore.",
+        "Dopo una prima fase completata, la sperimentazione è stata sospesa prima della valutazione finale, in seguito alla riorganizzazione dei ministeri. L'azienda sostiene di aver risolto i problemi tecnici segnalati e di voler continuare a collaborare con le autorità."
       ],
-      "publishedAt": "2026-11-01",
-      "verifiedAt": "2026-11-02T06:06:36.362Z",
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-02T16:10:23.545Z",
       "source": {
         "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/estensione-claude-code-cursor-installa-backdoor-ssh/",
+        "url": "https://www.punto-informatico.it/danimarca-collabora-non-alternativa-microsoft-office/",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T06:06:36.362Z",
-        "dateEvidence": "Punto Informatico, articolo integrale del 1 novembre 2026; riporta le versioni 2.1.312/313 e la correzione 2.1.314.",
+        "accessCheckedAt": "2026-11-02T16:10:23.545Z",
+        "dateEvidence": "Punto Informatico, data in pagina «Pubblicato il 2 nov 2026»; testo riporta chiarimento di Collabora e sospensione del test.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "tecnologia-standard-crawler-ai",
-      "eventKey": "anthropic-ietf-standard-robots-usage-ai-training-31-ottobre-2026",
+      "id": "tecnologia-campus-calcolo-openai",
+      "eventKey": "openai-valuta-campuses-calcolo-campagna-comunicazione-2-novembre-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "Proposta IETF per bloccare i crawler AI con un'unica direttiva",
-      "summary": "Il nuovo identificatore nel robots.txt consentirebbe agli editori di esprimere un divieto generale per l'addestramento.",
+      "title": "OpenAI valuta la formula «campus di calcolo» per i data center",
+      "summary": "Secondo un'indiscrezione riportata da Punto Informatico, l'azienda starebbe preparando una campagna per modificare la percezione pubblica delle infrastrutture AI.",
       "body": [
-        "Kevin Kelley di Anthropic ha proposto alla IETF una convenzione che consenta di dichiarare in robots.txt una preferenza comune per i crawler impiegati nell'addestramento AI. La proposta mira a ridurre la necessità di elencare ogni singolo fornitore. Le implementazioni sono previste in tempi diversi e il rispetto della direttiva non è tecnicamente obbligatorio."
+        "I grandi centri di elaborazione destinati all'intelligenza artificiale suscitano opposizione in alcune comunità statunitensi. Un resoconto attribuito ad Axios sostiene che OpenAI stia valutando di presentarli come «AI compute campuses».",
+        "La possibile iniziativa di comunicazione sarebbe collegata al dibattito politico successivo alle elezioni di metà mandato. Si tratta di un piano riportato da fonti giornalistiche, non di una denominazione già adottata ufficialmente."
       ],
-      "publishedAt": "2026-10-31",
-      "verifiedAt": "2026-11-02T06:06:36.362Z",
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-02T16:10:23.545Z",
       "source": {
         "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/proposto-nuovo-standard-bloccare-tutti-crawler-ai/",
+        "url": "https://www.punto-informatico.it/data-center-no-grazie-openai-campus-calcolo/",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T06:06:36.362Z",
-        "dateEvidence": "Punto Informatico, articolo completo pubblicato 31 ottobre 2026; illustra la proposta IETF e i tempi di adozione.",
+        "accessCheckedAt": "2026-11-02T16:10:23.545Z",
+        "dateEvidence": "Punto Informatico, «Pubblicato il 2 nov 2026»; l'articolo attribuisce l'ipotesi ad Axios e usa il condizionale.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "tecnologia-bioware-chiusura",
-      "eventKey": "bioware-annuncia-chiusura-studio-stop-progetto-mass-effect-1-novembre-2026",
+      "id": "tecnologia-nagoshi-studio-chiude",
+      "eventKey": "nagoshi-studio-chiusura-31-ottobre-2026-gang-of-dragon-cancellato",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "BioWare annuncia la chiusura e lo stop al nuovo Mass Effect",
-      "summary": "Lo studio storico comunica la fine delle attività; il progetto in sviluppo viene fermato, secondo quanto riportato da Everyeye.",
+      "title": "Nagoshi Studio chiude, «Gang of Dragon» non arriverà sul mercato",
+      "summary": "La società fondata dal creatore della serie Yakuza ha cessato le attività il 31 ottobre dopo lo stop ai finanziamenti.",
       "body": [
-        "Everyeye riporta un comunicato del team BioWare che annuncia la chiusura dopo oltre trent'anni e la fine dello sviluppo iniziale del nuovo Mass Effect. L'articolo attribuisce a Electronic Arts la scelta di non trasferire il progetto a un altro studio; resta incerto il futuro delle proprietà intellettuali."
+        "La chiusura di Nagoshi Studio, confermata al 31 ottobre, interrompe il progetto Gang of Dragon, annunciato ai The Game Awards del 2025. Il gioco avrebbe coinvolto anche l'attore Ma Dong-seok.",
+        "Secondo la ricostruzione di Everyeye, NetEase ha interrotto il sostegno economico e lo studio non è riuscito a trovare altri investitori. Non risulta annunciato un nuovo sviluppatore per il titolo."
       ],
-      "publishedAt": "2026-11-01",
-      "verifiedAt": "2026-11-02T06:06:36.362Z",
+      "publishedAt": "2026-11-02T14:06:00+01:00",
+      "verifiedAt": "2026-11-02T16:10:23.545Z",
       "source": {
         "name": "Everyeye",
-        "url": "https://www.everyeye.it/notizie/bioware-chiude-battenti-addio-mass-effect-sogni-fan-907298.html",
+        "url": "https://www.everyeye.it/notizie/gang-of-dragon-nagoshi-studio-chiuso-battenti-909289.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T06:06:36.362Z",
-        "dateEvidence": "Everyeye, articolo videogiochi datato 1 novembre 2026 ore 11:22; include comunicato attribuito allo studio.",
+        "accessCheckedAt": "2026-11-02T16:10:23.545Z",
+        "dateEvidence": "Everyeye, firma Giovanni Panzano e data «2/11/2026, ore 14:06»; la chiusura è datata 31 ottobre.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "tecnologia-zelda-remake-dimensioni",
-      "eventKey": "zelda-ocarina-time-remake-switch2-27-gb-5-novembre-2026",
+      "id": "tecnologia-phantom-blade-vendite",
+      "eventKey": "phantom-blade-zero-quattro-milioni-copie-72-ore-annuncio-s-game-2-novembre-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "Il remake di Ocarina of Time per Switch 2 richiederebbe 27 GB",
-      "summary": "Le schede download fotografate in Giappone indicano una dimensione superiore a Breath of the Wild; l'uscita è prevista il 5 novembre.",
+      "title": "«Phantom Blade Zero» supera quattro milioni di copie in tre giorni",
+      "summary": "S-GAME comunica un avvio commerciale molto forte per il suo action, pubblicato su PC e PlayStation 5.",
       "body": [
-        "Secondo le fotografie di schede download circolate dal Giappone, il remake di The Legend of Zelda: Ocarina of Time per Nintendo Switch 2 occuperebbe 27 GB. Everyeye confronta il dato con i 32 MB della cartuccia originale e con altri giochi della serie. Il valore proviene da confezioni fotografate, non da una prova tecnica indipendente."
+        "Lo studio S-GAME ha annunciato che Phantom Blade Zero ha oltrepassato quattro milioni di copie vendute nelle prime 72 ore dal debutto del 29 ottobre su PC e PlayStation 5.",
+        "Il titolo unisce combattimenti rapidi e ambientazioni ispirate al wuxia. Il dato è una comunicazione dello sviluppatore, riportata da Everyeye, e non una verifica indipendente delle vendite."
       ],
-      "publishedAt": "2026-11-01",
-      "verifiedAt": "2026-11-02T06:06:36.362Z",
+      "publishedAt": "2026-11-02T12:48:00+01:00",
+      "verifiedAt": "2026-11-02T16:10:23.545Z",
       "source": {
         "name": "Everyeye",
-        "url": "https://www.everyeye.it/notizie/ocarina-of-time-remake-pesa-800-originale-supera-breath-of-the-wild-907098.html",
+        "url": "https://www.everyeye.it/notizie/phantom-blade-zero-spacca-tutto-4-milioni-copie-vendute-soli-tre-giorni-909264.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T06:06:36.362Z",
-        "dateEvidence": "Everyeye, articolo datato 1 novembre 2026 ore 08:32; fonte del dato è una scheda download fotografata.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    }
-  ],
-  "reserveArticles": [
-    {
-      "id": "tecnologia-chatgpt-minori-protezioni",
-      "eventKey": "openai-chatgpt-nuove-protezioni-minori-31-ottobre-2026",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "ChatGPT, annunciati nuovi controlli per gli utenti minorenni",
-      "summary": "Previsti filtri più prudenti, miglioramenti nella stima dell'età e notifiche ai genitori per situazioni critiche.",
-      "body": [
-        "Le nuove misure annunciate per ChatGPT for Teens comprendono restrizioni aggiuntive sui contenuti potenzialmente pericolosi, rafforzamento della verifica dell'età e avvisi per i genitori quando emergono specifici rischi. L'articolo distingue le funzionalità previste dalle protezioni già disponibili."
-      ],
-      "publishedAt": "2026-10-31",
-      "verifiedAt": "2026-11-02T06:07:20.287Z",
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/chatgpt-openai-annuncia-nuove-protezioni-minori/",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T06:07:20.287Z",
-        "dateEvidence": "Punto Informatico, articolo integrale datato 31 ottobre 2026; annuncio di protezioni aggiuntive per minori.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "tecnologia-windows-search-azioni",
-      "eventKey": "microsoft-windows-11-26h2-search-azioni-inline-insider-31-ottobre-2026",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "Windows Search sperimenta comandi rapidi per PC e smartphone",
-      "summary": "Nelle build Insider di Windows 11 compaiono azioni dirette per luminosità, volume e dispositivi Android collegati.",
-      "body": [
-        "Microsoft ha introdotto in una build sperimentale di Windows 11 una ricerca capace di eseguire alcune operazioni senza aprire le impostazioni. Tra gli esempi: cambiare il volume, regolare la luminosità e interagire con un telefono Android tramite Phone Link. L'estensione a iPhone è indicata per il 2027; la novità non è ancora un rilascio generale."
-      ],
-      "publishedAt": "2026-10-31",
-      "verifiedAt": "2026-11-02T06:07:20.287Z",
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/windows-11-26h2-nuova-funzione-di-ricerca-azioni-inline/",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T06:07:20.287Z",
-        "dateEvidence": "Punto Informatico, pubblicato 31 ottobre 2026; dettagli della build Insider 26340.9843 e delle azioni inline.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "tecnologia-google-home-consumi-matter",
-      "eventKey": "google-home-misurazione-energia-prese-matter-annuncio-29-ottobre-2026",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "Google Home mostra i consumi delle prese Matter compatibili",
-      "summary": "L'app visualizza potenza istantanea e kilowattora cumulati; il rilascio è graduale e inizialmente su Android.",
-      "body": [
-        "Un aggiornamento di Google Home annunciato il 29 ottobre introduce la visualizzazione dei consumi energetici provenienti da prese e contatori Matter che supportano la misura. L'app non misura autonomamente l'energia: presenta i dati comunicati dai dispositivi. Il rollout è progressivo e, al momento dell'annuncio, la funzione è prevista su Android, non ancora su iOS."
-      ],
-      "publishedAt": "2026-10-30",
-      "verifiedAt": "2026-11-02T06:07:20.287Z",
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/google-home-svela-quali-dispositivi-consumano-piu-energia/",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T06:07:20.287Z",
-        "dateEvidence": "Punto Informatico, articolo datato 30 ottobre 2026, sull'aggiornamento Google Home annunciato il 29 ottobre; rilascio graduale ancora in corso.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "tecnologia-ps5-firmware-novembre",
-      "eventKey": "sony-ps5-firmware-14-20-manutenzione-ipotesi-antijailbreak-1-novembre-2026",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "Nuovo firmware PS5: manutenzione ufficiale, ipotesi sul contrasto al jailbreak",
-      "summary": "L'aggiornamento 14.20 pesa circa 1,2 GB; l'obiettivo anti-pirateria non è confermato da Sony.",
-      "body": [
-        "Sony ha distribuito un aggiornamento firmware per PS5, PS5 Slim e PS5 Pro. Le note ufficiali parlano di miglioramenti a messaggistica e usabilità; secondo ricostruzioni riportate da Everyeye potrebbe anche chiudere vulnerabilità usate per il jailbreak. Questa seconda interpretazione resta un'ipotesi, non un annuncio dell'azienda."
-      ],
-      "publishedAt": "2026-11-01",
-      "verifiedAt": "2026-11-02T06:07:20.287Z",
-      "source": {
-        "name": "Everyeye",
-        "url": "https://www.everyeye.it/notizie/ps5-aggiorna-ottobre-sony-introduce-firmware-anti-jailbreak-gta-6-907163.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T06:07:20.287Z",
-        "dateEvidence": "Everyeye, articolo datato 1 novembre 2026 ore 18:32; distingue note firmware e ipotesi anti-jailbreak.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "tecnologia-sony-prezzi-dinamici",
-      "eventKey": "sony-playstation-store-annuncio-lavoro-prezzi-dinamici-1-novembre-2026",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "PlayStation Store, Sony continua a valutare prezzi dinamici",
-      "summary": "Un annuncio di lavoro menziona sistemi di monetizzazione e prezzi intelligenti per i giochi digitali.",
-      "body": [
-        "Everyeye segnala un annuncio per una figura dirigenziale dedicata alla monetizzazione digitale in Sony. Il testo cita i cosiddetti prezzi intelligenti e viene interpretato come un indizio della prosecuzione di test su prezzi e sconti variabili nello Store. Non si tratta di un nuovo listino ufficialmente annunciato."
-      ],
-      "publishedAt": "2026-11-01",
-      "verifiedAt": "2026-11-02T06:07:20.287Z",
-      "source": {
-        "name": "Everyeye",
-        "url": "https://www.everyeye.it/notizie/vista-svolta-digitale-sony-continua-sperimentare-prezzi-dinamici-909117.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T06:07:20.287Z",
-        "dateEvidence": "Everyeye, articolo completo del 1 novembre 2026 ore 10:09; cita annuncio di lavoro e sperimentazioni sul PlayStation Store.",
+        "accessCheckedAt": "2026-11-02T16:10:23.545Z",
+        "dateEvidence": "Everyeye, Alessio Marino, «2/11/2026, ore 12:48»; fonte dichiara vendite annunciate da S-GAME.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
