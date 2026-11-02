@@ -1,10 +1,9 @@
 {
   "editionDate": "2026-11-02",
-  "checkedAt": "2026-11-02T05:08:29.573Z",
+  "checkedAt": "2026-11-02T05:08:53.825Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
-    "esteri",
     "economia",
     "cronaca",
     "roma",
@@ -116,12 +115,42 @@
       "category": "Politica",
       "title": "Manovra, previsti 17,1 milioni per territori colpiti dalle alluvioni",
       "eventKey": "manovra-2027-2028-stanzia-17-milioni-alluvioni-tre-regioni-1-novembre-2026"
+    },
+    {
+      "id": "esteri-spagna-vittime-treni",
+      "category": "Esteri",
+      "title": "Spagna, identificati nuovi cittadini stranieri fra le 69 vittime del disastro ferroviario",
+      "eventKey": "spagna-urda-treni-identificazione-69-vittime-straniere-2-novembre-2026"
+    },
+    {
+      "id": "esteri-francia-proteste-scontri",
+      "category": "Esteri",
+      "title": "Francia, proteste sul costo della vita e scontri al termine dei cortei",
+      "eventKey": "francia-proteste-carovita-31-ottobre-2026-320mila-565-fermi"
+    },
+    {
+      "id": "esteri-regno-unito-ue-studenti",
+      "category": "Esteri",
+      "title": "Regno Unito, ipotesi di tasse universitarie ridotte agli studenti UE in cambio di un accordo industriale",
+      "eventKey": "uk-ue-studenti-450-milioni-made-in-europe-negoziato-1-novembre-2026"
+    },
+    {
+      "id": "esteri-texas-voto-anticipato",
+      "category": "Esteri",
+      "title": "Midterm USA, in Texas 7,5 milioni di voti anticipati",
+      "eventKey": "texas-voto-anticipato-7-milioni-500mila-midterm-2026"
+    },
+    {
+      "id": "esteri-israele-lista-unita",
+      "category": "Esteri",
+      "title": "Israele, secondo Walla la Lista Unita sosterrà Eisenkot nelle consultazioni",
+      "eventKey": "israele-lista-unita-raccomandazione-eisenkot-herzog-1-novembre-2026"
     }
   ],
   "collectionId": "2026-11-02-mattina",
   "reserveCounts": {
     "Politica": 5,
-    "Esteri": 0,
+    "Esteri": 5,
     "Economia": 0,
     "Cronaca": 0,
     "Roma": 0,
@@ -151,9 +180,9 @@
     },
     "esteri": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "economia": {
       "base": 0,
