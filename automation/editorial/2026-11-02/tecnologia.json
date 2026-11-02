@@ -3,7 +3,7 @@
   "editionDate": "2026-11-02",
   "collectionId": "2026-11-02-mattina",
   "category": "Tecnologia · AI",
-  "completedAt": "2026-11-02T06:06:36.362Z",
+  "completedAt": "2026-11-02T06:07:20.287Z",
   "articles": [
     {
       "id": "tecnologia-wikimedia-copyright",
@@ -107,6 +107,113 @@
         "access": "free",
         "accessCheckedAt": "2026-11-02T06:06:36.362Z",
         "dateEvidence": "Everyeye, articolo datato 1 novembre 2026 ore 08:32; fonte del dato è una scheda download fotografata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "tecnologia-chatgpt-minori-protezioni",
+      "eventKey": "openai-chatgpt-nuove-protezioni-minori-31-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "ChatGPT, annunciati nuovi controlli per gli utenti minorenni",
+      "summary": "Previsti filtri più prudenti, miglioramenti nella stima dell'età e notifiche ai genitori per situazioni critiche.",
+      "body": [
+        "Le nuove misure annunciate per ChatGPT for Teens comprendono restrizioni aggiuntive sui contenuti potenzialmente pericolosi, rafforzamento della verifica dell'età e avvisi per i genitori quando emergono specifici rischi. L'articolo distingue le funzionalità previste dalle protezioni già disponibili."
+      ],
+      "publishedAt": "2026-10-31",
+      "verifiedAt": "2026-11-02T06:07:20.287Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/chatgpt-openai-annuncia-nuove-protezioni-minori/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:07:20.287Z",
+        "dateEvidence": "Punto Informatico, articolo integrale datato 31 ottobre 2026; annuncio di protezioni aggiuntive per minori.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-windows-search-azioni",
+      "eventKey": "microsoft-windows-11-26h2-search-azioni-inline-insider-31-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Windows Search sperimenta comandi rapidi per PC e smartphone",
+      "summary": "Nelle build Insider di Windows 11 compaiono azioni dirette per luminosità, volume e dispositivi Android collegati.",
+      "body": [
+        "Microsoft ha introdotto in una build sperimentale di Windows 11 una ricerca capace di eseguire alcune operazioni senza aprire le impostazioni. Tra gli esempi: cambiare il volume, regolare la luminosità e interagire con un telefono Android tramite Phone Link. L'estensione a iPhone è indicata per il 2027; la novità non è ancora un rilascio generale."
+      ],
+      "publishedAt": "2026-10-31",
+      "verifiedAt": "2026-11-02T06:07:20.287Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/windows-11-26h2-nuova-funzione-di-ricerca-azioni-inline/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:07:20.287Z",
+        "dateEvidence": "Punto Informatico, pubblicato 31 ottobre 2026; dettagli della build Insider 26340.9843 e delle azioni inline.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-google-home-consumi-matter",
+      "eventKey": "google-home-misurazione-energia-prese-matter-annuncio-29-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Google Home mostra i consumi delle prese Matter compatibili",
+      "summary": "L'app visualizza potenza istantanea e kilowattora cumulati; il rilascio è graduale e inizialmente su Android.",
+      "body": [
+        "Un aggiornamento di Google Home annunciato il 29 ottobre introduce la visualizzazione dei consumi energetici provenienti da prese e contatori Matter che supportano la misura. L'app non misura autonomamente l'energia: presenta i dati comunicati dai dispositivi. Il rollout è progressivo e, al momento dell'annuncio, la funzione è prevista su Android, non ancora su iOS."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-11-02T06:07:20.287Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/google-home-svela-quali-dispositivi-consumano-piu-energia/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:07:20.287Z",
+        "dateEvidence": "Punto Informatico, articolo datato 30 ottobre 2026, sull'aggiornamento Google Home annunciato il 29 ottobre; rilascio graduale ancora in corso.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-ps5-firmware-novembre",
+      "eventKey": "sony-ps5-firmware-14-20-manutenzione-ipotesi-antijailbreak-1-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Nuovo firmware PS5: manutenzione ufficiale, ipotesi sul contrasto al jailbreak",
+      "summary": "L'aggiornamento 14.20 pesa circa 1,2 GB; l'obiettivo anti-pirateria non è confermato da Sony.",
+      "body": [
+        "Sony ha distribuito un aggiornamento firmware per PS5, PS5 Slim e PS5 Pro. Le note ufficiali parlano di miglioramenti a messaggistica e usabilità; secondo ricostruzioni riportate da Everyeye potrebbe anche chiudere vulnerabilità usate per il jailbreak. Questa seconda interpretazione resta un'ipotesi, non un annuncio dell'azienda."
+      ],
+      "publishedAt": "2026-11-01",
+      "verifiedAt": "2026-11-02T06:07:20.287Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/ps5-aggiorna-ottobre-sony-introduce-firmware-anti-jailbreak-gta-6-907163.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:07:20.287Z",
+        "dateEvidence": "Everyeye, articolo datato 1 novembre 2026 ore 18:32; distingue note firmware e ipotesi anti-jailbreak.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-sony-prezzi-dinamici",
+      "eventKey": "sony-playstation-store-annuncio-lavoro-prezzi-dinamici-1-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "PlayStation Store, Sony continua a valutare prezzi dinamici",
+      "summary": "Un annuncio di lavoro menziona sistemi di monetizzazione e prezzi intelligenti per i giochi digitali.",
+      "body": [
+        "Everyeye segnala un annuncio per una figura dirigenziale dedicata alla monetizzazione digitale in Sony. Il testo cita i cosiddetti prezzi intelligenti e viene interpretato come un indizio della prosecuzione di test su prezzi e sconti variabili nello Store. Non si tratta di un nuovo listino ufficialmente annunciato."
+      ],
+      "publishedAt": "2026-11-01",
+      "verifiedAt": "2026-11-02T06:07:20.287Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/vista-svolta-digitale-sony-continua-sperimentare-prezzi-dinamici-909117.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:07:20.287Z",
+        "dateEvidence": "Everyeye, articolo completo del 1 novembre 2026 ore 10:09; cita annuncio di lavoro e sperimentazioni sul PlayStation Store.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
