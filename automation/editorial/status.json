@@ -1,10 +1,9 @@
 {
   "editionDate": "2026-11-02",
-  "checkedAt": "2026-11-02T05:07:51.344Z",
+  "checkedAt": "2026-11-02T05:08:29.573Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
-    "politica",
     "esteri",
     "economia",
     "cronaca",
@@ -87,11 +86,41 @@
       "category": "Esteri",
       "title": "Commonwealth, Londra accetta il dialogo ma le riparazioni restano fuori dall'agenda",
       "eventKey": "commonwealth-uk-dialogo-riparazioni-schiavitu-1-novembre-2026"
+    },
+    {
+      "id": "politica-ipsos-consensi",
+      "category": "Politica",
+      "title": "Ipsos, FdI al 26,7% e Futuro nazionale al 7,9%",
+      "eventKey": "sondaggio-ipsos-31-ottobre-2026-fdi-26-7-vannacci-7-9"
+    },
+    {
+      "id": "politica-salvini-banche",
+      "category": "Politica",
+      "title": "Salvini non esclude un contributo bancario superiore in Parlamento",
+      "eventKey": "salvini-parlamento-contributo-banche-oltre-cinque-miliardi-31-ottobre-2026"
+    },
+    {
+      "id": "politica-guerini-aiuti-ucraina",
+      "category": "Politica",
+      "title": "Guerini chiede un sostegno militare più consistente a Kiev",
+      "eventKey": "guerini-pd-propone-maggiori-aiuti-militari-ucraina-31-ottobre-2026"
+    },
+    {
+      "id": "politica-mattarella-giovani",
+      "category": "Politica",
+      "title": "Mattarella richiama i giovani alla responsabilità di costruire il futuro",
+      "eventKey": "mattarella-villa-nazareth-ottantesimo-giovani-comunita-31-ottobre-2026"
+    },
+    {
+      "id": "politica-alluvioni-fondi-manovra",
+      "category": "Politica",
+      "title": "Manovra, previsti 17,1 milioni per territori colpiti dalle alluvioni",
+      "eventKey": "manovra-2027-2028-stanzia-17-milioni-alluvioni-tre-regioni-1-novembre-2026"
     }
   ],
   "collectionId": "2026-11-02-mattina",
   "reserveCounts": {
-    "Politica": 0,
+    "Politica": 5,
     "Esteri": 0,
     "Economia": 0,
     "Cronaca": 0,
@@ -116,9 +145,9 @@
   "categoryProgress": {
     "politica": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "esteri": {
       "base": 5,
