@@ -3,7 +3,7 @@
   "editionDate": "2026-11-02",
   "collectionId": "2026-11-02-mattina",
   "category": "Sport",
-  "completedAt": "2026-11-02T06:06:52.625Z",
+  "completedAt": "2026-11-02T06:07:35.051Z",
   "articles": [
     {
       "id": "sport-lazio-cagliari-vittoria",
@@ -119,6 +119,113 @@
         "access": "free",
         "accessCheckedAt": "2026-11-02T06:06:52.625Z",
         "dateEvidence": "Sky Sport, cronaca integrale del derby disputato 31 ottobre 2026; risultato Milan-Inter 3-1.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "sport-lecce-genoa-1-2",
+      "eventKey": "lecce-genoa-1-2-osmajic-messias-maleh-1-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Genoa vince 2-1 a Lecce con Osmajic e Messias",
+      "summary": "Maleh accorcia per i salentini, ma i rossoblù conservano il vantaggio.",
+      "body": [
+        "Il Genoa si impone 2-1 sul campo del Lecce nella decima giornata di Serie A. Osmajic segna all'11', Messias raddoppia al 28' e Maleh riapre la gara al 40'. Il risultato finale resta favorevole alla squadra di Daniele De Rossi."
+      ],
+      "publishedAt": "2026-11-01",
+      "verifiedAt": "2026-11-02T06:07:35.051Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-10/lecce-genoa/video-highlights",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:07:35.051Z",
+        "dateEvidence": "Sky Sport, pagina del match del 1 novembre 2026, risultato finale 1-2 e marcatori con minuti.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-frosinone-torino-2-0",
+      "eventKey": "frosinone-torino-2-0-ghedjemis-calo-1-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Frosinone supera il Torino 2-0 e continua a sorprendere",
+      "summary": "Ghedjemis e Calò firmano la vittoria dei ciociari; un'altra sconfitta per i granata.",
+      "body": [
+        "Il Frosinone di Massimiliano Alvini batte il Torino per 2-0 allo Stirpe. Le reti sono di Ghedjemis e Giacomo Calò, indicato da Sky Sport come migliore in campo. La squadra di casa conferma il proprio avvio positivo di campionato, mentre il Torino incassa un altro ko."
+      ],
+      "publishedAt": "2026-11-01T17:20:00+01:00",
+      "verifiedAt": "2026-11-02T06:07:35.051Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/11/01/frosinone-torino-pagelle",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:07:35.051Z",
+        "dateEvidence": "Sky Sport, pagelle pubblicate 1 novembre 2026 ore 17:20; vittoria Frosinone 2-0 con Ghedjemis e Calò.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-como-venezia-1-0",
+      "eventKey": "como-venezia-1-0-serie-a-1-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Como batte il Venezia 1-0 nel turno di Serie A",
+      "summary": "I lariani raccolgono tre punti nel confronto casalingo della decima giornata.",
+      "body": [
+        "Il Como ha superato il Venezia per 1-0 nella partita disputata domenica 1 novembre. Il risultato è confermato dal video degli highlights pubblicato da Sky Sport nel pomeriggio. La gara appartiene alla decima giornata del campionato di Serie A."
+      ],
+      "publishedAt": "2026-11-01T15:41:00+01:00",
+      "verifiedAt": "2026-11-02T06:07:35.051Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/video/2026/11/01/como-venezia-1-0-gol-e-highlights-serie-a-1136443",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:07:35.051Z",
+        "dateEvidence": "Sky Sport, pagina highlights del 1 novembre 2026 ore 15:41, titolo e risultato Como-Venezia 1-0.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-alcaraz-vienna-finale",
+      "eventKey": "alcaraz-de-minaur-vienna-finale-6-1-6-4-1-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Alcaraz conquista il torneo di Vienna battendo De Minaur",
+      "summary": "Finale chiusa 6-1, 6-4: per lo spagnolo è il quarto titolo stagionale.",
+      "body": [
+        "Carlos Alcaraz vince l'ATP 500 di Vienna superando Alex De Minaur in finale con il punteggio di 6-1, 6-4 in un'ora e 27 minuti. Sky Sport registra il suo quarto titolo del 2026 e la serie di 26 vittorie consecutive nei tornei ATP 500."
+      ],
+      "publishedAt": "2026-11-01T17:07:00+01:00",
+      "verifiedAt": "2026-11-02T06:07:35.051Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/video/2026/11/01/alcaraz-de-minaur-atp-vienna-highlights-1136492",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:07:35.051Z",
+        "dateEvidence": "Sky Sport, highlights del 1 novembre 2026 ore 17:07; punteggio finale 6-1 6-4.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-marquez-malesia",
+      "eventKey": "motogp-marc-marquez-vince-sepang-malesia-1-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Marc Márquez domina il GP di Malesia di MotoGP",
+      "summary": "Lo spagnolo Ducati vince a Sepang e aumenta il margine in classifica mondiale.",
+      "body": [
+        "Marc Márquez conquista il Gran Premio della Malesia sul circuito di Sepang, controllando la gara e precedendo Pedro Acosta e Álex Márquez. Il pilota Ducati raggiunge l'ottantesima vittoria in MotoGP e aumenta il vantaggio in campionato; in Qatar potrà avere un'occasione per chiudere il mondiale."
+      ],
+      "publishedAt": "2026-11-01T13:53:00+01:00",
+      "verifiedAt": "2026-11-02T06:07:35.051Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/motogp/2026/11/01/motogp-gp-malesia-sepang-2026-pagelle",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:07:35.051Z",
+        "dateEvidence": "Sky Sport, analisi gara pubblicata 1 novembre 2026 ore 13:53; vittoria Marc Marquez, podio e classifica.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
