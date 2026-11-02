@@ -1,70 +1,95 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-11-02",
-  "collectionId": "2026-11-02-mattina",
+  "collectionId": "2026-11-02-pomeriggio",
   "category": "Sport",
-  "completedAt": "2026-11-02T06:07:35.051Z",
+  "completedAt": "2026-11-02T16:10:23.545Z",
   "articles": [
     {
-      "id": "sport-lazio-cagliari-vittoria",
-      "eventKey": "lazio-cagliari-2-1-isaksen-pinamonti-primo-posto-1-novembre-2026",
+      "id": "sport-inter-feyenoord-esposito",
+      "eventKey": "inter-feyenoord-champions-pio-esposito-favorito-bastoni-squalificato-2-novembre-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "Lazio in testa da sola dopo il 2-1 sul Cagliari",
-      "summary": "La squadra di Gattuso ribalta il vantaggio di Nzola con Isaksen e Pinamonti.",
+      "title": "Inter verso il Feyenoord: Pio Esposito favorito in attacco",
+      "summary": "Nella vigilia di Champions, Pio Esposito è indicato davanti a Bonny per affiancare Thuram; Bastoni è squalificato.",
       "body": [
-        "La Lazio ha battuto il Cagliari 2-1 all'Olimpico nella decima giornata di Serie A. I sardi sono passati avanti con Nzola, ma Isaksen ha pareggiato e Pinamonti ha firmato la rimonta. Il successo porta i biancocelesti al primo posto solitario, come conferma il commento postpartita di Gattuso."
+        "L'Inter prepara la trasferta del 3 novembre a Rotterdam contro il Feyenoord. Secondo il resoconto dell'allenamento, Pio Esposito è favorito su Bonny per giocare accanto a Thuram.",
+        "In difesa Bastoni non sarà disponibile per squalifica: Carlos Augusto è in vantaggio per sostituirlo. A centrocampo potrebbero trovare spazio Zielinski e Mkhitaryan; le scelte restano previsioni della vigilia."
       ],
-      "publishedAt": "2026-11-01",
-      "verifiedAt": "2026-11-02T06:06:52.625Z",
+      "publishedAt": "2026-11-02T12:45:00+01:00",
+      "verifiedAt": "2026-11-02T16:10:23.545Z",
       "source": {
         "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/2026/11/01/lazio-cagliari-pagelle",
+        "url": "https://sport.sky.it/calcio/champions-league/2026/11/02/inter-champions-pio-esposito-allenamento-news",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T06:06:52.625Z",
-        "dateEvidence": "Sky Sport, pagelle e risultato pubblicati 1 novembre 2026 ore 17:09; finale Lazio-Cagliari 2-1.",
+        "accessCheckedAt": "2026-11-02T16:10:23.545Z",
+        "dateEvidence": "Sky Sport, 2 novembre 2026 ore 12:45; cronaca testuale dell'allenamento di vigilia per la partita del 3 novembre.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "sport-juventus-napoli-vittoria",
-      "eventKey": "juventus-napoli-2-0-alajbegovic-boga-1-novembre-2026",
+      "id": "sport-juventus-mckennie-europa",
+      "eventKey": "juventus-mckennie-affaticamento-salta-az-cabal-alajbegovic-disponibili-2-novembre-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "Juventus batte il Napoli 2-0 e resta in corsa per l'Europa",
-      "summary": "Alajbegovic protagonista, Boga entra dalla panchina e segna.",
+      "title": "Juventus, McKennie salta l'AZ; recuperati Cabal e Alajbegovic",
+      "summary": "Gli accertamenti escludono lesioni per il centrocampista statunitense, ma è previsto riposo in vista dell'Europa League.",
       "body": [
-        "La Juventus di Luciano Spalletti supera il Napoli per 2-0. Sky Sport segnala Kerim-Sam Alajbegovic come migliore in campo e il gol di Jérémie Boga, entrato dalla panchina. Per i bianconeri sono tre punti importanti nella rincorsa alle posizioni europee."
+        "Dopo la partita contro il Napoli, la Juventus ha chiarito le condizioni dei giocatori usciti acciaccati. Weston McKennie ha un affaticamento muscolare senza lesioni e non prenderà parte alla trasferta europea contro l'AZ Alkmaar.",
+        "Alajbegovic ha superato una botta al ginocchio, mentre Cabal aveva accusato crampi: entrambi risultano disponibili. Il rientro di McKennie è atteso per il campionato."
       ],
-      "publishedAt": "2026-11-01",
-      "verifiedAt": "2026-11-02T06:06:52.625Z",
+      "publishedAt": "2026-11-02T14:07:00+01:00",
+      "verifiedAt": "2026-11-02T16:10:23.545Z",
       "source": {
         "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/2026/11/01/juventus-napoli-pagelle",
+        "url": "https://sport.sky.it/calcio/europa-league/2026/11/02/juve-infortunio-mckennie-alajbegovic-cabal-europa-league",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T06:06:52.625Z",
-        "dateEvidence": "Sky Sport, pagelle pubblicate 1 novembre 2026 ore 22:54; risultato finale Juventus-Napoli 2-0.",
+        "accessCheckedAt": "2026-11-02T16:10:23.545Z",
+        "dateEvidence": "Sky Sport, 2 novembre 2026 ore 14:07; aggiornamento medico Juve con affaticamento e recuperi.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "sport-antonelli-mondiale-f1",
-      "eventKey": "f1-antonelli-campione-mondo-gp-messico-verstappen-vince-1-novembre-2026",
+      "id": "sport-lazio-salto-classifica",
+      "eventKey": "lazio-classifica-serie-a-confronto-2025-2026-piu-13-punti-2-novembre-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "Antonelli campione del mondo di Formula 1 in Messico",
-      "summary": "Il terzo posto nel GP vinto da Verstappen vale il titolo per il pilota italiano.",
+      "title": "Lazio, il miglioramento più netto rispetto alla scorsa Serie A",
+      "summary": "Dopo dieci giornate i biancocelesti sono primi e vantano tredici punti in più rispetto allo stesso momento del campionato precedente.",
       "body": [
-        "Kimi Antonelli conquista il Mondiale di Formula 1 al Gran Premio del Messico, chiudendo terzo al volante della Mercedes. La gara viene vinta da Max Verstappen davanti a Lewis Hamilton; quarta posizione per Charles Leclerc. Per Antonelli è la giornata della consacrazione iridata."
+        "Il confronto della classifica con la stagione passata mette la Lazio al vertice per crescita: tredici punti e sette posizioni guadagnate dopo dieci turni, oltre al primo posto solitario.",
+        "La stessa analisi di Sky Sport segnala invece un calo di dieci punti per l'Udinese e di otto per il Napoli. Si tratta di un confronto statistico aggiornato al 2 novembre, non del risultato di una nuova partita."
       ],
-      "publishedAt": "2026-11-02T01:19:00+01:00",
-      "verifiedAt": "2026-11-02T06:06:52.625Z",
+      "publishedAt": "2026-11-02T10:00:00+01:00",
+      "verifiedAt": "2026-11-02T16:10:23.545Z",
       "source": {
         "name": "Sky Sport",
-        "url": "https://sport.sky.it/formula-1/video/2026/11/02/f1-gp-messico-highlights-gara-1136610",
+        "url": "https://sport.sky.it/calcio/serie-a/classifica-serie-a-2026-2027-confronto",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T06:06:52.625Z",
-        "dateEvidence": "Sky Sport, highlights e resoconto pubblicati 2 novembre 2026 ore 01:19; ordine di arrivo e titolo mondiale.",
+        "accessCheckedAt": "2026-11-02T16:10:23.545Z",
+        "dateEvidence": "Sky Sport, fotogallery datata 2 novembre 2026 ore 10:00; tabella confronto dopo dieci giornate.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-russell-messico",
+      "eventKey": "russell-multa-5000-euro-interviste-saltate-messico-lacrime-2-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Formula 1, Russell multato dopo il GP del Messico",
+      "summary": "Il pilota Mercedes è stato sanzionato di cinquemila euro per aver saltato le interviste successive alla gara.",
+      "body": [
+        "George Russell ha vissuto un dopogara difficile a Città del Messico. Un video citato da Sky Sport lo mostra in lacrime nel retrobox Mercedes e confortato dal team principal Toto Wolff.",
+        "La Federazione gli ha inflitto una multa di cinquemila euro per non aver partecipato alle interviste post gara. La vicenda si colloca nel weekend in cui il compagno Kimi Antonelli ha conquistato il titolo mondiale."
+      ],
+      "publishedAt": "2026-11-02T10:41:00+01:00",
+      "verifiedAt": "2026-11-02T16:10:23.545Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/formula-1/2026/11/02/f1-russell-mercedes-lacrime-multa-gp-messico",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:10:23.545Z",
+        "dateEvidence": "Sky Sport, 2 novembre 2026 ore 10:41; articolo sul video del postgara e sanzione di 5.000 euro.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -73,22 +98,23 @@
       "eventKey": "errani-paolini-vincono-doppio-wta-tokyo-dabrowski-stefani-1-novembre-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "Errani e Paolini trionfano in doppio al WTA di Tokyo",
-      "summary": "Le azzurre battono Dabrowski e Stefani 6-2, 6-2 e tornano a conquistare un titolo insieme.",
+      "title": "Errani e Paolini, il titolo di Tokyo rilancia la coppia verso le Finals",
+      "summary": "Le azzurre hanno battuto Dabrowski e Stefani 6-2 6-2 e ritrovato una vittoria in doppio dopo oltre un anno.",
       "body": [
-        "Sara Errani e Jasmine Paolini si aggiudicano il WTA 500 di Tokyo battendo in finale Gabriela Dabrowski e Luisa Stefani con un doppio 6-2. La coppia italiana aveva già ottenuto la qualificazione alle WTA Finals. È il decimo titolo conquistato insieme.",
-        "La fotografia associata ritrae Errani durante un torneo del 2024, non la finale giapponese: viene usata esclusivamente come immagine di repertorio con attribuzione e licenza verificata."
+        "Sara Errani e Jasmine Paolini hanno conquistato il WTA 500 di Tokyo superando Gabriela Dabrowski e Luisa Stefani con un doppio 6-2. È il decimo titolo vinto insieme e il primo della stagione.",
+        "Il successo segue la qualificazione alle WTA Finals e conclude una settimana senza set persi. La notizia è del 1° novembre, riletta nel pomeriggio del 2, e resta rilevante per l'avvicinamento alle Finals."
       ],
       "publishedAt": "2026-11-01T08:06:00+01:00",
-      "verifiedAt": "2026-11-02T06:06:52.625Z",
+      "verifiedAt": "2026-11-02T16:10:23.545Z",
       "source": {
         "name": "Sky Sport",
         "url": "https://sport.sky.it/tennis/2026/11/01/errani-paolini-wta-tokyo-risultato-oggi-doppio",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T06:06:52.625Z",
-        "dateEvidence": "Sky Sport, cronaca pubblicata 1 novembre 2026 ore 08:06; finale doppio femminile 6-2 6-2.",
+        "accessCheckedAt": "2026-11-02T16:10:23.545Z",
+        "dateEvidence": "Sky Sport, 1 novembre 2026 ore 08:06; fonte integrale riletta il 2 novembre, data originaria conservata.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
+      "leadPriority": 91,
       "image": {
         "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sara_Errani_-_Roland-Garros_-_28.05.2024_%28cropped%29.jpg",
         "alt": "Sara Errani durante un rovescio al Roland Garros 2024",
@@ -96,137 +122,8 @@
         "rights": "CC BY 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sara_Errani_-_Roland-Garros_-_28.05.2024_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-        "caption": "Sara Errani al Roland Garros nel 2024: fotografia di repertorio, non della finale di Tokyo.",
+        "caption": "Sara Errani al Roland Garros 2024: immagine di repertorio, non della finale di Tokyo.",
         "reuseApproved": true
-      },
-      "leadPriority": 88
-    },
-    {
-      "id": "sport-milan-inter-derby",
-      "eventKey": "milan-inter-3-1-pulisic-rabiot-moreira-31-ottobre-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Milan supera l'Inter 3-1 nel derby di San Siro",
-      "summary": "Pulisic, Rabiot e Moreira decidono il confronto della decima giornata.",
-      "body": [
-        "Nel derby di Milano giocato il 31 ottobre, i rossoneri vincono 3-1 contro l'Inter. La cronaca di Sky Sport registra le reti di Christian Pulisic, Adrien Rabiot e Moreira per il Milan. Il successo chiude uno dei confronti più attesi della decima giornata di Serie A."
-      ],
-      "publishedAt": "2026-10-31",
-      "verifiedAt": "2026-11-02T06:06:52.625Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-10/milan-inter/risultato-gol",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T06:06:52.625Z",
-        "dateEvidence": "Sky Sport, cronaca integrale del derby disputato 31 ottobre 2026; risultato Milan-Inter 3-1.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    }
-  ],
-  "reserveArticles": [
-    {
-      "id": "sport-lecce-genoa-1-2",
-      "eventKey": "lecce-genoa-1-2-osmajic-messias-maleh-1-novembre-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Genoa vince 2-1 a Lecce con Osmajic e Messias",
-      "summary": "Maleh accorcia per i salentini, ma i rossoblù conservano il vantaggio.",
-      "body": [
-        "Il Genoa si impone 2-1 sul campo del Lecce nella decima giornata di Serie A. Osmajic segna all'11', Messias raddoppia al 28' e Maleh riapre la gara al 40'. Il risultato finale resta favorevole alla squadra di Daniele De Rossi."
-      ],
-      "publishedAt": "2026-11-01",
-      "verifiedAt": "2026-11-02T06:07:35.051Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-10/lecce-genoa/video-highlights",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T06:07:35.051Z",
-        "dateEvidence": "Sky Sport, pagina del match del 1 novembre 2026, risultato finale 1-2 e marcatori con minuti.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "sport-frosinone-torino-2-0",
-      "eventKey": "frosinone-torino-2-0-ghedjemis-calo-1-novembre-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Frosinone supera il Torino 2-0 e continua a sorprendere",
-      "summary": "Ghedjemis e Calò firmano la vittoria dei ciociari; un'altra sconfitta per i granata.",
-      "body": [
-        "Il Frosinone di Massimiliano Alvini batte il Torino per 2-0 allo Stirpe. Le reti sono di Ghedjemis e Giacomo Calò, indicato da Sky Sport come migliore in campo. La squadra di casa conferma il proprio avvio positivo di campionato, mentre il Torino incassa un altro ko."
-      ],
-      "publishedAt": "2026-11-01T17:20:00+01:00",
-      "verifiedAt": "2026-11-02T06:07:35.051Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/2026/11/01/frosinone-torino-pagelle",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T06:07:35.051Z",
-        "dateEvidence": "Sky Sport, pagelle pubblicate 1 novembre 2026 ore 17:20; vittoria Frosinone 2-0 con Ghedjemis e Calò.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "sport-como-venezia-1-0",
-      "eventKey": "como-venezia-1-0-serie-a-1-novembre-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Como batte il Venezia 1-0 nel turno di Serie A",
-      "summary": "I lariani raccolgono tre punti nel confronto casalingo della decima giornata.",
-      "body": [
-        "Il Como ha superato il Venezia per 1-0 nella partita disputata domenica 1 novembre. Il risultato è confermato dal video degli highlights pubblicato da Sky Sport nel pomeriggio. La gara appartiene alla decima giornata del campionato di Serie A."
-      ],
-      "publishedAt": "2026-11-01T15:41:00+01:00",
-      "verifiedAt": "2026-11-02T06:07:35.051Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/video/2026/11/01/como-venezia-1-0-gol-e-highlights-serie-a-1136443",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T06:07:35.051Z",
-        "dateEvidence": "Sky Sport, pagina highlights del 1 novembre 2026 ore 15:41, titolo e risultato Como-Venezia 1-0.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "sport-alcaraz-vienna-finale",
-      "eventKey": "alcaraz-de-minaur-vienna-finale-6-1-6-4-1-novembre-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Alcaraz conquista il torneo di Vienna battendo De Minaur",
-      "summary": "Finale chiusa 6-1, 6-4: per lo spagnolo è il quarto titolo stagionale.",
-      "body": [
-        "Carlos Alcaraz vince l'ATP 500 di Vienna superando Alex De Minaur in finale con il punteggio di 6-1, 6-4 in un'ora e 27 minuti. Sky Sport registra il suo quarto titolo del 2026 e la serie di 26 vittorie consecutive nei tornei ATP 500."
-      ],
-      "publishedAt": "2026-11-01T17:07:00+01:00",
-      "verifiedAt": "2026-11-02T06:07:35.051Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/tennis/video/2026/11/01/alcaraz-de-minaur-atp-vienna-highlights-1136492",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T06:07:35.051Z",
-        "dateEvidence": "Sky Sport, highlights del 1 novembre 2026 ore 17:07; punteggio finale 6-1 6-4.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "sport-marquez-malesia",
-      "eventKey": "motogp-marc-marquez-vince-sepang-malesia-1-novembre-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Marc Márquez domina il GP di Malesia di MotoGP",
-      "summary": "Lo spagnolo Ducati vince a Sepang e aumenta il margine in classifica mondiale.",
-      "body": [
-        "Marc Márquez conquista il Gran Premio della Malesia sul circuito di Sepang, controllando la gara e precedendo Pedro Acosta e Álex Márquez. Il pilota Ducati raggiunge l'ottantesima vittoria in MotoGP e aumenta il vantaggio in campionato; in Qatar potrà avere un'occasione per chiudere il mondiale."
-      ],
-      "publishedAt": "2026-11-01T13:53:00+01:00",
-      "verifiedAt": "2026-11-02T06:07:35.051Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/motogp/2026/11/01/motogp-gp-malesia-sepang-2026-pagelle",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T06:07:35.051Z",
-        "dateEvidence": "Sky Sport, analisi gara pubblicata 1 novembre 2026 ore 13:53; vittoria Marc Marquez, podio e classifica.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ]
