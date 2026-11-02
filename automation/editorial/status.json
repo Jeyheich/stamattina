@@ -1,11 +1,9 @@
 {
   "editionDate": "2026-11-02",
-  "checkedAt": "2026-11-02T06:14:12.378Z",
+  "checkedAt": "2026-11-02T06:14:49.587Z",
   "ready": true,
-  "editorialComplete": false,
-  "reserveMissing": [
-    "cultura"
-  ],
+  "editorialComplete": true,
+  "reserveMissing": [],
   "completed": [
     "politica",
     "esteri",
@@ -411,6 +409,36 @@
       "eventKey": "roma-via-foro-italico-smottamento-corsia-31-ottobre-2026"
     },
     {
+      "id": "cultura-lella-costa-monologhi",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Lella Costa riporta I Monologhi della Vagina a Roma",
+      "eventKey": "lella-costa-monologhi-vagina-teatro-cometa-3-8-novembre-2026"
+    },
+    {
+      "id": "cultura-the-others-art-fair",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "The Others Art Fair chiude nel Parcheggio Lancia di Torino",
+      "eventKey": "the-others-art-fair-torino-2026-54-espositori-chiusura"
+    },
+    {
+      "id": "cultura-gruffalo-illustratore-ai",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "L'illustratore del Gruffalò valuta una causa per le immagini IA",
+      "eventKey": "alex-scheffler-gruffalo-valuta-causa-ia-copyright-1-novembre-2026"
+    },
+    {
+      "id": "cultura-deep-purple-ian-gillan",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Deep Purple, annullati due concerti dopo il ricovero di Ian Gillan",
+      "eventKey": "deep-purple-ian-gillan-ricovero-cancellazione-lipsia-amburgo-2026"
+    },
+    {
+      "id": "cultura-rodolfo-valentino-sancarluccio",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Rodolfo Valentino rivive sul palco del Sancarluccio",
+      "eventKey": "rodolfo-valentino-teatro-sancarluccio-napoli-6-8-novembre-2026"
+    },
+    {
       "id": "tecnologia-chatgpt-minori-protezioni",
       "category": "Tecnologia · AI",
       "title": "ChatGPT, annunciati nuovi controlli per gli utenti minorenni",
@@ -478,7 +506,7 @@
     "Economia": 5,
     "Cronaca": 5,
     "Roma": 5,
-    "Cultura · Teatro · Cinema": 0,
+    "Cultura · Teatro · Cinema": 5,
     "Tecnologia · AI": 5,
     "Sport": 5
   },
@@ -543,9 +571,9 @@
     },
     "cultura": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "tecnologia": {
       "base": 5,
@@ -560,9 +588,6 @@
       "complete": true
     }
   },
-  "editionId": "2026-11-02-batches-31c1be8248a0",
-  "needsPublication": false,
-  "publicVerifiedAt": "2026-11-02T06:14:37.349685+00:00",
-  "publicEditionId": "2026-11-02-batches-31c1be8248a0",
-  "publication": "verified"
+  "editionId": "2026-11-02-batches-931bd06ae0d9",
+  "needsPublication": true
 }
