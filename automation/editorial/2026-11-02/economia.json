@@ -3,7 +3,7 @@
   "editionDate": "2026-11-02",
   "collectionId": "2026-11-02-pomeriggio",
   "category": "Economia",
-  "completedAt": "2026-11-02T15:19:48.806Z",
+  "completedAt": "2026-11-02T15:20:23.165Z",
   "articles": [
     {
       "id": "economia-petrolio-diplomazia-iran",
@@ -112,6 +112,118 @@
         "access": "free",
         "accessCheckedAt": "2026-11-02T15:19:48.806Z",
         "dateEvidence": "Articolo originale ANSA consultato integralmente il 2 novembre 2026; data e ora indicate nella pagina: 02/11/2026 10:40 Europe/Rome.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "economia-marsiaj-spazio-usa",
+      "eventKey": "confindustria-marsiaj-missione-industria-spazio-usa-dicembre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Aerospazio, Confindustria prepara una missione industriale negli Stati Uniti",
+      "summary": "Dal 6 al 15 dicembre incontri previsti in quattro aree produttive americane.",
+      "body": [
+        "Giorgio Marsiaj, vicepresidente di Confindustria per l'aerospazio, ha annunciato una missione negli Stati Uniti dal 6 al 15 dicembre con Ice e l'ambasciata italiana.",
+        "L'iniziativa punta a favorire l'ingresso delle imprese italiane nelle filiere industriali statunitensi. Secondo i dati citati da Marsiaj, il fatturato delle aziende spaziali mappate è salito da 1,9 a 3,1 miliardi tra 2021 e 2024."
+      ],
+      "publishedAt": "2026-11-02T12:49:00+01:00",
+      "verifiedAt": "2026-11-02T15:20:23.165Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/02/marsiaj-confindustria-costruire-alleanze-sullo-spazio-a-dicembre-missione-in-usa_6e3bb3f2-9535-45cd-9da3-6c5e73a8b345.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T15:20:23.165Z",
+        "dateEvidence": "Fonte originale ANSA aperta e letta; pubblicazione indicata: 2026-11-02 alle 12:49 ora italiana. Verifica del 2 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-top-manager-ottobre",
+      "eventKey": "top-manager-reputation-ottobre-2026-messina-primo-orcel-secondo",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Reputazione dei manager, Messina torna primo nella graduatoria di ottobre",
+      "summary": "L'osservatorio Reputation Manager colloca Orcel al secondo posto e Descalzi al terzo.",
+      "body": [
+        "La rilevazione Top Manager Reputation di ottobre vede Carlo Messina di Intesa Sanpaolo in prima posizione con 91,68 punti, seguito da Andrea Orcel di UniCredit con 91,61.",
+        "Claudio Descalzi di Eni è terzo con 91,48 e Pier Silvio Berlusconi quarto con 90,69. Si tratta di una classifica reputazionale, non di risultati economici comparabili."
+      ],
+      "publishedAt": "2026-11-02T13:34:00+01:00",
+      "verifiedAt": "2026-11-02T15:20:23.165Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/02/top-manager-reputation-a-ottobre-carlo-messina-torna-in-vetta_334e1608-f86e-4aaf-8d70-b420146e7e25.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T15:20:23.165Z",
+        "dateEvidence": "Fonte originale ANSA aperta e letta; pubblicazione indicata: 2026-11-02 alle 13:34 ora italiana. Verifica del 2 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-ryanair-prospettive-2034",
+      "eventKey": "ryanair-oleary-obiettivo-300-milioni-passeggeri-2034",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Ryanair punta a superare 300 milioni di passeggeri entro il 2034",
+      "summary": "O'Leary lega la previsione al vantaggio di costo e agli ordini di nuovi aerei.",
+      "body": [
+        "L'amministratore delegato Michael O'Leary ritiene che Ryanair possa superare i 300 milioni di passeggeri nel 2034, mentre la capacità di trasporto europea resterebbe limitata nel breve periodo.",
+        "Per l'esercizio 2026-27 il gruppo prevede 214 milioni di passeggeri, con una crescita del 3%. Sono proiezioni aziendali, non risultati già conseguiti."
+      ],
+      "publishedAt": "2026-11-02T11:11:00+01:00",
+      "verifiedAt": "2026-11-02T15:20:23.165Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/02/o-leary-per-ryanair-oltre-300-milioni-di-passeggeri-nel-2034_e2ec26ed-cf83-4258-bd09-b1cdf3adaab8.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T15:20:23.165Z",
+        "dateEvidence": "Fonte originale ANSA aperta e letta; pubblicazione indicata: 2026-11-02 alle 11:11 ora italiana. Verifica del 2 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-cassa-orvieto-nove-mesi",
+      "eventKey": "cassa-risparmio-orvieto-utile-nove-mesi-2026-crediti-territorio",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Cassa di Risparmio di Orvieto, utile in calo ma più prestiti sul territorio",
+      "summary": "Nei primi nove mesi l'utile netto scende a 6,8 milioni; erogati oltre 169 milioni.",
+      "body": [
+        "Cassa di Risparmio di Orvieto ha comunicato un utile netto di 6,8 milioni nei primi nove mesi del 2026, contro 8,9 milioni nello stesso periodo del 2025.",
+        "La banca segnala oltre 169 milioni di finanziamenti erogati a famiglie e imprese, con impieghi complessivi in crescita dell'1,1% e mutui in aumento del 5,1% rispetto a dicembre 2025."
+      ],
+      "publishedAt": "2026-11-02T13:18:00+01:00",
+      "verifiedAt": "2026-11-02T15:20:23.165Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/02/cr-orvieto-cala-utile-nove-mesi-aumenta-credito-a-territorio_85b6ad25-a84f-4443-8c9a-01a32feac55e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T15:20:23.165Z",
+        "dateEvidence": "Fonte originale ANSA aperta e letta; pubblicazione indicata: 2026-11-02 alle 13:18 ora italiana. Verifica del 2 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-confesercenti-consumi",
+      "eventKey": "confesercenti-ipsos-novembre-2026-consumi-trimestre-14-miliardi",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Caro vita, Confesercenti teme 1,4 miliardi di consumi in meno",
+      "summary": "Il sondaggio Ipsos segnala rinunce soprattutto a ristorazione, bar e vacanze.",
+      "body": [
+        "Secondo un sondaggio Ipsos diffuso da Confesercenti, oltre nove italiani su dieci hanno ridotto spese o adottato strategie di risparmio a causa dei rincari.",
+        "L'associazione stima un possibile calo dei consumi di 1,4 miliardi nel trimestre. Tra gli intervistati, il 53% prevede risparmi sulla ristorazione, il 44% sulle consumazioni al bar e il 41% sulle vacanze. La cifra è una previsione, non un dato consuntivo."
+      ],
+      "publishedAt": "2026-11-02T08:59:00+01:00",
+      "verifiedAt": "2026-11-02T15:20:23.165Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/amp/sito/notizie/economia/pmi/2026/11/02/confesercenti-allarme-caro-vita-nel-trimestre-a-rischio-consumi-per-14-miliardi_3f42ef3b-9228-41c7-a1a2-ac723fbb974c.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T15:20:23.165Z",
+        "dateEvidence": "Fonte originale ANSA aperta e letta; pubblicazione indicata: 2026-11-02 alle 08:59 ora italiana. Verifica del 2 novembre 2026.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
