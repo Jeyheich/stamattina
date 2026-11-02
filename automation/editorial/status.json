@@ -1,10 +1,9 @@
 {
   "editionDate": "2026-11-02",
-  "checkedAt": "2026-11-02T06:13:36.796Z",
+  "checkedAt": "2026-11-02T06:14:12.378Z",
   "ready": true,
   "editorialComplete": false,
   "reserveMissing": [
-    "roma",
     "cultura"
   ],
   "completed": [
@@ -382,6 +381,36 @@
       "eventKey": "pistoia-annina-sensi-donazione-fegato-98-anni-trapianto-ottobre-2026"
     },
     {
+      "id": "roma-bus-218-via-illiria",
+      "category": "Roma",
+      "title": "Linea 218 deviata per i lavori in via Illiria",
+      "eventKey": "roma-bus-218-deviazione-via-illiria-cantiere-2-novembre-2026"
+    },
+    {
+      "id": "roma-fiori-cimiteri-prezzi",
+      "category": "Roma",
+      "title": "Fiori per i defunti, i fiorai romani frenano i rincari",
+      "eventKey": "roma-fiori-cimiteri-crisantemi-rincari-1-novembre-2026"
+    },
+    {
+      "id": "roma-colosseo-stop-subappalti",
+      "category": "Roma",
+      "title": "Colosseo, accordo per fermare subappalti ed edilizia acrobatica",
+      "eventKey": "roma-colosseo-accordo-sicurezza-no-subappalti-31-ottobre-2026"
+    },
+    {
+      "id": "roma-via-goito-cantiere-notturno",
+      "category": "Roma",
+      "title": "Via Goito, lavori notturni e possibili deviazioni dei bus",
+      "eventKey": "roma-via-goito-cantiere-notturno-bus-38-92-360-n92-novembre-2026"
+    },
+    {
+      "id": "roma-foro-italico-frana-corsia",
+      "category": "Roma",
+      "title": "Via del Foro Italico, una corsia dopo uno smottamento",
+      "eventKey": "roma-via-foro-italico-smottamento-corsia-31-ottobre-2026"
+    },
+    {
       "id": "tecnologia-chatgpt-minori-protezioni",
       "category": "Tecnologia · AI",
       "title": "ChatGPT, annunciati nuovi controlli per gli utenti minorenni",
@@ -448,7 +477,7 @@
     "Esteri": 5,
     "Economia": 5,
     "Cronaca": 5,
-    "Roma": 0,
+    "Roma": 5,
     "Cultura · Teatro · Cinema": 0,
     "Tecnologia · AI": 5,
     "Sport": 5
@@ -508,9 +537,9 @@
     },
     "roma": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "cultura": {
       "base": 5,
@@ -531,9 +560,6 @@
       "complete": true
     }
   },
-  "editionId": "2026-11-02-batches-a3533737c885",
-  "needsPublication": false,
-  "publicVerifiedAt": "2026-11-02T06:13:58.655069+00:00",
-  "publicEditionId": "2026-11-02-batches-a3533737c885",
-  "publication": "verified"
+  "editionId": "2026-11-02-batches-31c1be8248a0",
+  "needsPublication": true
 }

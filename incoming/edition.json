@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "collectionId": "2026-11-02-mattina",
-  "id": "2026-11-02-batches-a3533737c885",
+  "id": "2026-11-02-batches-31c1be8248a0",
   "mode": "live",
   "editionDate": "2026-11-02",
-  "generatedAt": "2026-11-02T06:13:36.796Z",
+  "generatedAt": "2026-11-02T06:14:12.378Z",
   "timezone": "Europe/Rome",
   "scheduledFor": "2026-11-02T09:00:00+01:00",
   "essentialIds": [
@@ -1425,6 +1425,116 @@
       }
     },
     {
+      "id": "roma-bus-218-via-illiria",
+      "eventKey": "roma-bus-218-deviazione-via-illiria-cantiere-2-novembre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Linea 218 deviata per i lavori in via Illiria",
+      "summary": "Il cantiere fognario tra via Sibari e piazzale Ipponio modifica il percorso del bus da oggi.",
+      "body": [
+        "Dal 2 novembre la linea 218 segue percorsi modificati per i lavori di scavo alla rete fognaria in via Illiria, nel tratto tra via Sibari e piazzale Ipponio.",
+        "In direzione Ardeatina il bus passa per via Magna Grecia e via Gallia; verso San Giovanni transita su via Gallia, via Faleria e piazzale Appio. Sei fermate vengono temporaneamente saltate."
+      ],
+      "publishedAt": "2026-11-01",
+      "verifiedAt": "2026-11-02T06:13:59.745Z",
+      "source": {
+        "name": "Roma Servizi per la Mobilità",
+        "url": "https://romamobilita.it/infomobilita/cantiere-in-via-illiria-dal-2-novembre-si-sposta-la-linea-bus-218/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:13:59.745Z",
+        "dateEvidence": "Roma Mobilità: pubblicato 01/11/2026, aggiornato 02/11/2026; deviazione dal 02/11.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-fiori-cimiteri-prezzi",
+      "eventKey": "roma-fiori-cimiteri-crisantemi-rincari-1-novembre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Fiori per i defunti, i fiorai romani frenano i rincari",
+      "summary": "Aumentano i costi all'ingrosso, ma alcuni commercianti dichiarano di mantenere i prezzi ai clienti.",
+      "body": [
+        "In vista del 2 novembre i fiorai intervistati da TGR Lazio segnalano costi di acquisto più alti e una domanda più debole rispetto al passato.",
+        "Secondo il servizio, diversi esercenti hanno scelto di non trasferire gli aumenti sui prezzi finali. Chi compra continua a portare fiori ai cimiteri, talvolta riducendo la dimensione delle composizioni."
+      ],
+      "publishedAt": "2026-11-01",
+      "verifiedAt": "2026-11-02T06:13:59.745Z",
+      "source": {
+        "name": "RaiNews TGR Lazio",
+        "url": "https://www.rainews.it/tgr/lazio/articoli/2026/11/il-caro-vita-colpisce-anche-il-prezzo-dei-fiori-e8edaa8c-ec01-4fad-95e7-53ba8634d1d6.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:13:59.745Z",
+        "dateEvidence": "TGR Lazio: servizio pubblicato 01/11/2026, alla vigilia della commemorazione dei defunti.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-colosseo-stop-subappalti",
+      "eventKey": "roma-colosseo-accordo-sicurezza-no-subappalti-31-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Colosseo, accordo per fermare subappalti ed edilizia acrobatica",
+      "summary": "Le nuove regole riguardano i cantieri dell'area archeologica dopo la morte di un operaio.",
+      "body": [
+        "Sindacati e Ministero della Cultura hanno raggiunto un'intesa sul modello di lavoro nel Parco archeologico del Colosseo, dopo la morte dell'operaio Andrea Moretti avvenuta a settembre.",
+        "Secondo la Cgil, l'accordo esclude il ricorso a subappalti e alle tecniche di edilizia acrobatica. La ripresa dei cantieri è indicata per il 3 novembre; i sindacati chiedono di estendere le tutele ad altri siti culturali."
+      ],
+      "publishedAt": "2026-10-31",
+      "verifiedAt": "2026-11-02T06:13:59.745Z",
+      "source": {
+        "name": "RaiNews TGR Lazio",
+        "url": "https://www.rainews.it/amp/tgr/lazio/articoli/2026/10/la-cgil-annuncia-accordo-raggiunto-niente-piu-subappalti-e-funi-al-colosseo-833826a3-fe3c-4cbd-9624-6a230441b63c.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:13:59.745Z",
+        "dateEvidence": "TGR Lazio: articolo pubblicato 31/10/2026; cantieri previsti in ripresa il 03/11.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-via-goito-cantiere-notturno",
+      "eventKey": "roma-via-goito-cantiere-notturno-bus-38-92-360-n92-novembre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Via Goito, lavori notturni e possibili deviazioni dei bus",
+      "summary": "Riduzione di carreggiata tra via XX Settembre e piazza Indipendenza fino al 3 novembre.",
+      "body": [
+        "Fino al 3 novembre via Goito è interessata da lavori nel tratto compreso tra via XX Settembre e piazza Indipendenza. Il cantiere opera nelle ore notturne dalle 21 alle 6.",
+        "Roma Mobilità avverte di possibili modifiche alle linee 38, 92, 360 e n92. L'attività del cantiere è sospesa nel fine settimana."
+      ],
+      "publishedAt": "2026-10-31",
+      "verifiedAt": "2026-11-02T06:13:59.745Z",
+      "source": {
+        "name": "Roma Servizi per la Mobilità",
+        "url": "https://romamobilita.it/infomobilita/lavori-notturni-in-via-goito-possibili-deviazioni/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:13:59.745Z",
+        "dateEvidence": "Roma Mobilità: pubblicato e aggiornato 31/10/2026, validità fino al 04/11 ore 06.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-foro-italico-frana-corsia",
+      "eventKey": "roma-via-foro-italico-smottamento-corsia-31-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Via del Foro Italico, una corsia dopo uno smottamento",
+      "summary": "Tra corso Francia e la galleria Giovanni XXIII traffico rallentato verso lo stadio Olimpico.",
+      "body": [
+        "Uno smottamento del terreno ha ridotto a una sola corsia il transito su via del Foro Italico, nel tratto tra corso Francia e la Galleria Giovanni XXIII in direzione dello stadio Olimpico.",
+        "L'avviso di Roma Mobilità, aggiornato il 1° novembre, segnala forti rallentamenti e raccomanda prudenza. La validità dell'avviso arriva al 3 novembre, salvo ulteriori aggiornamenti."
+      ],
+      "publishedAt": "2026-10-31",
+      "verifiedAt": "2026-11-02T06:13:59.745Z",
+      "source": {
+        "name": "Roma Servizi per la Mobilità",
+        "url": "https://romamobilita.it/infomobilita/via-del-foro-italico-una-sola-corsia-transitabile-tra-corso-francia-e-la-galleria-giovanni-xxiii/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:13:59.745Z",
+        "dateEvidence": "Roma Mobilità: pubblicato 31/10/2026, aggiornato 01/11/2026; validità al 03/11.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
       "id": "tecnologia-chatgpt-minori-protezioni",
       "eventKey": "openai-chatgpt-nuove-protezioni-minori-31-ottobre-2026",
       "category": "Tecnologia · AI",
@@ -1656,6 +1766,11 @@
     "cronaca-licata-tombe-profanate",
     "cronaca-torino-controlli-halloween",
     "cronaca-pistoia-donazione-fegato",
+    "roma-bus-218-via-illiria",
+    "roma-fiori-cimiteri-prezzi",
+    "roma-colosseo-stop-subappalti",
+    "roma-via-goito-cantiere-notturno",
+    "roma-foro-italico-frana-corsia",
     "tecnologia-chatgpt-minori-protezioni",
     "tecnologia-windows-search-azioni",
     "tecnologia-google-home-consumi-matter",
