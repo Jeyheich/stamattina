@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-02",
-  "checkedAt": "2026-11-02T05:16:44.092Z",
+  "checkedAt": "2026-11-02T06:06:51.201Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,13 +13,13 @@
     "politica",
     "esteri",
     "economia",
-    "cronaca"
+    "cronaca",
+    "tecnologia"
   ],
   "inProgress": [],
   "missing": [
     "roma",
     "cultura",
-    "tecnologia",
     "sport"
   ],
   "invalid": [],
@@ -143,6 +143,36 @@
       "category": "Cronaca",
       "title": "A14, grandinata e tamponamento a catena con dodici veicoli",
       "eventKey": "a14-grandinata-maxi-tamponamento-dodici-auto-cesena-1-novembre-2026"
+    },
+    {
+      "id": "tecnologia-wikimedia-copyright",
+      "category": "Tecnologia · AI",
+      "title": "Wikimedia chiede equilibrio nella causa sul copyright tra NYT e OpenAI",
+      "eventKey": "wikimedia-amicus-brief-nyt-openai-conoscenza-aperta-1-novembre-2026"
+    },
+    {
+      "id": "tecnologia-cursor-estensione-infetta",
+      "category": "Tecnologia · AI",
+      "title": "Estensione compromessa nel marketplace Cursor: circa cinquemila installazioni",
+      "eventKey": "cursor-marketplace-estensione-claude-code-backdoor-5000-installazioni-29-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-standard-crawler-ai",
+      "category": "Tecnologia · AI",
+      "title": "Proposta IETF per bloccare i crawler AI con un'unica direttiva",
+      "eventKey": "anthropic-ietf-standard-robots-usage-ai-training-31-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-bioware-chiusura",
+      "category": "Tecnologia · AI",
+      "title": "BioWare annuncia la chiusura e lo stop al nuovo Mass Effect",
+      "eventKey": "bioware-annuncia-chiusura-studio-stop-progetto-mass-effect-1-novembre-2026"
+    },
+    {
+      "id": "tecnologia-zelda-remake-dimensioni",
+      "category": "Tecnologia · AI",
+      "title": "Il remake di Ocarina of Time per Switch 2 richiederebbe 27 GB",
+      "eventKey": "zelda-ocarina-time-remake-switch2-27-gb-5-novembre-2026"
     },
     {
       "id": "politica-ipsos-consensi",
@@ -332,7 +362,7 @@
       "complete": false
     },
     "tecnologia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
