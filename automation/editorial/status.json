@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-02",
-  "checkedAt": "2026-11-02T05:08:53.825Z",
+  "checkedAt": "2026-11-02T05:15:28.929Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,11 +13,11 @@
   ],
   "completed": [
     "politica",
-    "esteri"
+    "esteri",
+    "economia"
   ],
   "inProgress": [],
   "missing": [
-    "economia",
     "cronaca",
     "roma",
     "cultura",
@@ -85,6 +85,36 @@
       "category": "Esteri",
       "title": "Commonwealth, Londra accetta il dialogo ma le riparazioni restano fuori dall'agenda",
       "eventKey": "commonwealth-uk-dialogo-riparazioni-schiavitu-1-novembre-2026"
+    },
+    {
+      "id": "economia-concordato-scadenza",
+      "category": "Economia",
+      "title": "Concordato preventivo, oggi ultimo giorno per aderire",
+      "eventKey": "concordato-preventivo-biennale-2026-2027-adesione-2-novembre"
+    },
+    {
+      "id": "economia-aiuti-energia-vincolo-verde",
+      "category": "Economia",
+      "title": "Aiuti contro il caro energia, alle imprese richiesti investimenti verdi",
+      "eventKey": "manovra-2027-aiuti-energia-imprese-investimenti-verdi-6-miliardi"
+    },
+    {
+      "id": "economia-bonus-giorgetti-proroga",
+      "category": "Economia",
+      "title": "Bonus Giorgetti, la manovra propone la proroga al 2027",
+      "eventKey": "manovra-2027-proroga-bonus-giorgetti-rinvio-pensione"
+    },
+    {
+      "id": "economia-educazione-finanziaria-novembre",
+      "category": "Economia",
+      "title": "Novembre dedicato all'educazione finanziaria, al via gli incontri gratuiti",
+      "eventKey": "mese-educazione-finanziaria-2026-nona-edizione-iniziative-gratuite"
+    },
+    {
+      "id": "economia-voli-natale-codacons",
+      "category": "Economia",
+      "title": "Voli di Natale, il Codacons segnala prezzi elevati sulle tratte Nord-Sud",
+      "eventKey": "natale-2026-codacons-caro-voli-rotte-nord-sud-427-euro"
     },
     {
       "id": "politica-ipsos-consensi",
@@ -168,9 +198,14 @@
       "id": "esteri-ucraina-raffinerie",
       "category": "Esteri",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_Official_portrait.jpg"
+    },
+    {
+      "id": "economia-educazione-finanziaria-novembre",
+      "category": "Economia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:897RomaBancaItalia.JPG"
     }
   ],
-  "photosAvailable": 2,
+  "photosAvailable": 3,
   "categoryProgress": {
     "politica": {
       "base": 5,
@@ -185,7 +220,7 @@
       "complete": true
     },
     "economia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
