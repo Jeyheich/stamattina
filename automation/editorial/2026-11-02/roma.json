@@ -1,32 +1,76 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-11-02",
-  "collectionId": "2026-11-02-mattina",
+  "collectionId": "2026-11-02-pomeriggio",
   "category": "Roma",
-  "completedAt": "2026-11-02T06:13:59.745Z",
+  "completedAt": "2026-11-02T16:20:37.262Z",
   "articles": [
     {
-      "id": "roma-verano-messa-papa",
+      "id": "roma-pasolini-nuova-inchiesta-2026",
+      "eventKey": "roma-procura-riapre-fascicolo-omicidio-pasolini-esposto-novembre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Pasolini, la Procura di Roma apre un nuovo fascicolo",
+      "summary": "Un esposto depositato nelle scorse settimane riporta all'attenzione della magistratura l'omicidio del 1975.",
+      "body": [
+        "La Procura di Roma ha aperto un nuovo fascicolo sull'omicidio di Pier Paolo Pasolini, avvenuto a Ostia nella notte tra il 1° e il 2 novembre 1975. Il procedimento è stato affidato alla sostituta procuratrice Silvia Santucci.",
+        "L'iniziativa segue un esposto presentato dall'avvocato Stefano Maccioni per conto di soggetti interessati alla ricostruzione dei fatti. L'apertura del fascicolo non costituisce, da sola, un accertamento su eventuali nuove responsabilità."
+      ],
+      "publishedAt": "2026-11-02T12:33:00+01:00",
+      "verifiedAt": "2026-11-02T16:20:37.262Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/omicidio-pasolini-procura-roma-apre-nuova-indagine_5ad0f35b-23d6-4013-9634-71d0c28d678d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:20:37.262Z",
+        "dateEvidence": "ANSA Cronaca: ROMA, 02 novembre 2026, ore 12:33; testo integrale consultato.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-incendio-casal-de-pazzi-due-morti",
+      "eventKey": "roma-via-spinoza-casal-de-pazzi-incendio-appartamento-due-morti-2-novembre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Due persone morte dopo un incendio in casa a Casal de' Pazzi",
+      "summary": "I vigili del fuoco hanno trovato un uomo e una donna senza vita in un appartamento di via Spinoza.",
+      "body": [
+        "Un uomo e una donna sono stati trovati morti in un appartamento di via Spinoza, nel quartiere Casal de' Pazzi. I pompieri sono intervenuti dopo la segnalazione di fumo nel vano scale di una palazzina di sette piani.",
+        "Secondo le prime informazioni dei vigili del fuoco, le vittime potrebbero essere decedute per asfissia. L'incendio si era estinto autonomamente e le cause devono ancora essere chiarite; sono intervenuti anche i carabinieri."
+      ],
+      "publishedAt": "2026-11-02T12:51:00+01:00",
+      "verifiedAt": "2026-11-02T16:20:37.262Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/fiamme-in-un-appartamento-a-roma-due-morti-_342934ee-a5d0-4ed1-9750-865746c03c5f.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:20:37.262Z",
+        "dateEvidence": "ANSA Cronaca: ROMA, 02 novembre 2026, ore 12:51; pagina riletta integralmente.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-verano-leone-messa-2-novembre",
       "eventKey": "roma-papa-leone-xiv-messa-verano-defunti-2-novembre-2026",
       "category": "Roma",
       "status": "verified",
-      "title": "Al Verano attesa la Messa di Leone XIV per i defunti",
-      "summary": "Il Pontefice ha confermato la celebrazione del 2 novembre alle 16 nel cimitero monumentale romano.",
+      "title": "Leone XIV al Verano per la commemorazione dei defunti",
+      "summary": "La celebrazione del 2 novembre è fissata alle 16 all'ingresso monumentale del cimitero romano.",
       "body": [
-        "Durante l'Angelus del 1° novembre Papa Leone XIV ha ricordato ai fedeli che il 2 novembre presiederà la Messa per la commemorazione dei defunti al Cimitero Monumentale del Verano, a Roma, alle ore 16.",
-        "Il Papa ha rivolto un pensiero a chi ricorda i propri cari e ha richiamato la preghiera anche per le persone scomparse che non vengono ricordate. La notizia riguarda una celebrazione programmata: non viene presentata come già svolta."
+        "La diocesi di Roma ha programmato per lunedì 2 novembre, alle 16, una Messa presieduta da Papa Leone XIV all'ingresso monumentale del Cimitero del Verano. L'accesso è libero fino a esaurimento dei posti; prima della funzione è previsto un omaggio floreale su una tomba.",
+        "RaiNews TGR Lazio ha pubblicato il 2 novembre il programma della giornata, ricordando le celebrazioni previste anche al Flaminio e al Laurentino. La fonte consultata è un annuncio: non attesta lo svolgimento o l'esito della Messa."
       ],
-      "publishedAt": "2026-11-01",
-      "verifiedAt": "2026-11-02T06:13:03.943Z",
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-02T16:20:37.262Z",
       "source": {
         "name": "RaiNews TGR Lazio",
-        "url": "https://www.rainews.it/amp/tgr/lazio/articoli/2026/11/papa-allangelus-lappello-per-la-pace-domani-saro-al-verano-per-la-messa-dei-defunti-7508ceb0-13e9-420b-88f0-64f393b628d3.html",
+        "url": "https://www.rainews.it/tgr/lazio/articoli/2026/11/roma-oggi-papa-leone-al-verano-per-la-commemorazione-dei-defunti-messa-alle-16-ee4cbc9f-861f-47a1-b1c5-297602c22d6a.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T06:13:03.943Z",
-        "dateEvidence": "RaiNews TGR Lazio, articolo datato esplicitamente 01/11/2026; celebrazione annunciata per il 02/11/2026 alle ore 16.",
+        "accessCheckedAt": "2026-11-02T16:20:37.262Z",
+        "dateEvidence": "RaiNews TGR Lazio: articolo datato 02/11/2026, Messa prevista alle ore 16 del medesimo giorno.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
-      "leadPriority": 94,
+      "leadPriority": 96,
       "image": {
         "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/Roma_-_Ingresso_del_Cimitero_Monumentale_del_Verano.jpg",
         "alt": "Ingresso monumentale del cimitero del Verano a Roma",
@@ -34,209 +78,54 @@
         "rights": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roma_-_Ingresso_del_Cimitero_Monumentale_del_Verano.jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "caption": "Repertorio: ingresso del Cimitero Monumentale del Verano fotografato nel 2017; non ritrae la celebrazione del 2 novembre.",
+        "caption": "Repertorio: ingresso del Verano fotografato nel 2017 da Lucamato; non documenta la Messa del 2 novembre.",
         "reuseApproved": true
       }
     },
     {
-      "id": "roma-incidenti-mortali-calo",
-      "eventKey": "roma-incidenti-mortali-2026-primi-dieci-mesi-79-contro-105",
+      "id": "roma-smart-city-expo-barcellona-2026",
+      "eventKey": "roma-partecipa-smart-city-expo-barcellona-sospas-novembre-2026",
       "category": "Roma",
       "status": "verified",
-      "title": "Incidenti mortali in calo a Roma, ma 82 vittime da gennaio",
-      "summary": "Il Comune registra 79 incidenti mortali nei primi dieci mesi del 2026 contro 105 nel 2025.",
+      "title": "Roma porta a Barcellona i progetti per la città intelligente",
+      "summary": "Al congresso Smart City Expo la Capitale presenterà anche un sistema di sensori per la gestione della sosta.",
       "body": [
-        "Secondo i dati della Polizia Locale citati dall'assessore Eugenio Patanè, tra gennaio e ottobre gli incidenti mortali sono scesi da 105 a 79 rispetto allo stesso periodo del 2025. Le vittime sono passate da 106 a 82.",
-        "Il numero complessivo degli incidenti, tuttavia, è salito da 27.282 a 29.481. Patanè ha indicato la necessità di proseguire con controlli e interventi sui punti più pericolosi."
+        "Roma Capitale partecipa allo Smart City Expo World Congress 2026, in programma a Barcellona dal 3 al 5 novembre. Sono annunciati incontri con il sindaco Roberto Gualtieri e l'assessore alla Mobilità Eugenio Patanè.",
+        "Fra i progetti illustrati figura Sospas, realizzato da Roma Servizi per la Mobilità: un sistema di sensori per monitorare gli stalli di sosta a pagamento e quelli destinati alle merci nel I e II Municipio."
       ],
-      "publishedAt": "2026-11-01",
-      "verifiedAt": "2026-11-02T06:13:03.943Z",
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-02T16:20:37.262Z",
       "source": {
         "name": "Roma Servizi per la Mobilità",
-        "url": "https://romamobilita.it/infomobilita/patane-calo-incidenti-mortali-del-25-ma-vittime-ancora-troppe/",
+        "url": "https://romamobilita.it/primo-piano/tecnologie-per-una-citta-piu-sostenibile-roma-si-racconta-a-barcellona/",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T06:13:03.943Z",
-        "dateEvidence": "Comunicazione ufficiale Roma Mobilità: pubblicato e aggiornato il 01/11/2026; periodo dati 01/01-31/10/2026.",
+        "accessCheckedAt": "2026-11-02T16:20:37.262Z",
+        "dateEvidence": "Roma Mobilità, Pubblicato il 02/11/2026, aggiornato il 02/11/2026; evento 3-5 novembre.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "roma-colombo-investimento",
-      "eventKey": "roma-via-colombo-casal-palocco-pedone-34enne-morto-1-novembre-2026",
+      "id": "roma-vigna-pia-strada-scolastica",
+      "eventKey": "roma-vigna-pia-strada-scolastica-piero-terracina-fotocatalitica-31-ottobre-2026",
       "category": "Roma",
       "status": "verified",
-      "title": "Sulla Colombo muore un pedone di 34 anni",
-      "summary": "L'investimento è avvenuto all'alba a Casal Palocco; in corso gli accertamenti sul conducente diciannovenne.",
+      "title": "A Vigna Pia una strada scolastica con materiali anti-inquinamento",
+      "summary": "Davanti alla scuola nel Municipio XI uno spazio pedonale usa pavimentazione e vernici fotocatalitiche.",
       "body": [
-        "Un uomo di 34 anni è morto la mattina del 1° novembre dopo essere stato investito sulla carreggiata laterale di via Cristoforo Colombo, all'altezza di Casal Palocco, in direzione Eur.",
-        "Alla guida della vettura un diciannovenne, portato in ospedale per le cure e sottoposto agli accertamenti previsti, compresi quelli tossicologici. La Polizia Locale sta ricostruendo la dinamica."
-      ],
-      "publishedAt": "2026-11-01",
-      "verifiedAt": "2026-11-02T06:13:03.943Z",
-      "source": {
-        "name": "RaiNews TGR Lazio",
-        "url": "https://www.rainews.it/amp/tgr/lazio/articoli/2026/11/un-34enne-investito-a-roma-sulla-colombo-la-vittima-morto-sul-posto-194ea424-d23a-4988-bfa3-20fb608defa5.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T06:13:03.943Z",
-        "dateEvidence": "TGR Lazio pubblicato 01/11/2026, incidente all'alba del 1 novembre in via Cristoforo Colombo, Roma.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "roma-a24-chiusure-notturne",
-      "eventKey": "roma-a24-complanare-est-chiusa-notte-2-4-novembre-2026",
-      "category": "Roma",
-      "status": "verified",
-      "title": "A24, chiusure notturne della complanare est fino al 5 novembre",
-      "summary": "Lavori alla segnaletica tra le 22 e le 5; deviazioni consigliate verso viale Togliatti e via Collatina.",
-      "body": [
-        "Per la manutenzione degli impianti di segnaletica, Roma Mobilità segnala la chiusura notturna della complanare est dell'A24 in direzione del Grande Raccordo Anulare dal 2 al 4 novembre, con termine previsto alle 5 del 5 novembre.",
-        "Nelle fasce di chiusura non saranno accessibili l'uscita di Tor Cervara dalla Tangenziale Est e le interconnessioni con il Gra indicate dall'avviso. I percorsi alternativi passano da viale Togliatti e via Collatina."
-      ],
-      "publishedAt": "2026-11-01",
-      "verifiedAt": "2026-11-02T06:13:03.943Z",
-      "source": {
-        "name": "Roma Servizi per la Mobilità",
-        "url": "https://romamobilita.it/infomobilita/a24-sul-tratto-urbano-lavori-notturni-dal-2-al-4-novembre-chiusa-la-complanare-est/",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T06:13:03.943Z",
-        "dateEvidence": "Roma Mobilità: pubblicato 01/11/2026, aggiornato 02/11/2026; validità dal 2 al 5 novembre.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "roma-tende-colosseo",
-      "eventKey": "roma-presidio-usb-tende-colosseo-assemblea-1-novembre-2026",
-      "category": "Roma",
-      "status": "verified",
-      "title": "La protesta contro il carovita si sposta sotto il Colosseo",
-      "summary": "Dopo lo sciopero nazionale, USB e movimenti rilanciano la mobilitazione con una nuova iniziativa per il 12 dicembre.",
-      "body": [
-        "Il 1° novembre i partecipanti al presidio organizzato da USB e movimenti hanno spostato le tende da via dei Fori Imperiali verso il Colosseo, dando continuità alla mobilitazione dei giorni precedenti.",
-        "Nel confronto sono tornati i temi del costo della vita, degli affitti, della scuola e delle spese militari. Gli organizzatori hanno indicato una nuova iniziativa nazionale a Roma per il 12 dicembre."
-      ],
-      "publishedAt": "2026-11-01",
-      "verifiedAt": "2026-11-02T06:13:03.943Z",
-      "source": {
-        "name": "RaiNews TGR Lazio",
-        "url": "https://www.rainews.it/tgr/lazio/articoli/2026/11/le-tende-si-spostano-sotto-il-colosseo-verso-lassemblea-del-12-dicembre-8553cfca-f052-460e-b703-baf5822d50e1.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T06:13:03.943Z",
-        "dateEvidence": "TGR Lazio: notizia pubblicata 01/11/2026, dopo l'assemblea e lo spostamento del presidio al Colosseo.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    }
-  ],
-  "reserveArticles": [
-    {
-      "id": "roma-bus-218-via-illiria",
-      "eventKey": "roma-bus-218-deviazione-via-illiria-cantiere-2-novembre-2026",
-      "category": "Roma",
-      "status": "verified",
-      "title": "Linea 218 deviata per i lavori in via Illiria",
-      "summary": "Il cantiere fognario tra via Sibari e piazzale Ipponio modifica il percorso del bus da oggi.",
-      "body": [
-        "Dal 2 novembre la linea 218 segue percorsi modificati per i lavori di scavo alla rete fognaria in via Illiria, nel tratto tra via Sibari e piazzale Ipponio.",
-        "In direzione Ardeatina il bus passa per via Magna Grecia e via Gallia; verso San Giovanni transita su via Gallia, via Faleria e piazzale Appio. Sei fermate vengono temporaneamente saltate."
-      ],
-      "publishedAt": "2026-11-01",
-      "verifiedAt": "2026-11-02T06:13:59.745Z",
-      "source": {
-        "name": "Roma Servizi per la Mobilità",
-        "url": "https://romamobilita.it/infomobilita/cantiere-in-via-illiria-dal-2-novembre-si-sposta-la-linea-bus-218/",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T06:13:59.745Z",
-        "dateEvidence": "Roma Mobilità: pubblicato 01/11/2026, aggiornato 02/11/2026; deviazione dal 02/11.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "roma-fiori-cimiteri-prezzi",
-      "eventKey": "roma-fiori-cimiteri-crisantemi-rincari-1-novembre-2026",
-      "category": "Roma",
-      "status": "verified",
-      "title": "Fiori per i defunti, i fiorai romani frenano i rincari",
-      "summary": "Aumentano i costi all'ingrosso, ma alcuni commercianti dichiarano di mantenere i prezzi ai clienti.",
-      "body": [
-        "In vista del 2 novembre i fiorai intervistati da TGR Lazio segnalano costi di acquisto più alti e una domanda più debole rispetto al passato.",
-        "Secondo il servizio, diversi esercenti hanno scelto di non trasferire gli aumenti sui prezzi finali. Chi compra continua a portare fiori ai cimiteri, talvolta riducendo la dimensione delle composizioni."
-      ],
-      "publishedAt": "2026-11-01",
-      "verifiedAt": "2026-11-02T06:13:59.745Z",
-      "source": {
-        "name": "RaiNews TGR Lazio",
-        "url": "https://www.rainews.it/tgr/lazio/articoli/2026/11/il-caro-vita-colpisce-anche-il-prezzo-dei-fiori-e8edaa8c-ec01-4fad-95e7-53ba8634d1d6.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T06:13:59.745Z",
-        "dateEvidence": "TGR Lazio: servizio pubblicato 01/11/2026, alla vigilia della commemorazione dei defunti.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "roma-colosseo-stop-subappalti",
-      "eventKey": "roma-colosseo-accordo-sicurezza-no-subappalti-31-ottobre-2026",
-      "category": "Roma",
-      "status": "verified",
-      "title": "Colosseo, accordo per fermare subappalti ed edilizia acrobatica",
-      "summary": "Le nuove regole riguardano i cantieri dell'area archeologica dopo la morte di un operaio.",
-      "body": [
-        "Sindacati e Ministero della Cultura hanno raggiunto un'intesa sul modello di lavoro nel Parco archeologico del Colosseo, dopo la morte dell'operaio Andrea Moretti avvenuta a settembre.",
-        "Secondo la Cgil, l'accordo esclude il ricorso a subappalti e alle tecniche di edilizia acrobatica. La ripresa dei cantieri è indicata per il 3 novembre; i sindacati chiedono di estendere le tutele ad altri siti culturali."
+        "Nel Municipio XI è stata realizzata una strada scolastica presso l'istituto Piero Terracina: il tratto di via Gaetano Astolfi davanti alla primaria Vaccari è stato chiuso al traffico e trasformato in uno spazio con giochi a terra.",
+        "Il progetto pilota, inaugurato dalle autorità capitoline, utilizza pavimentazioni e vernici fotocatalitiche per contribuire all'assorbimento di inquinanti atmosferici; il finanziamento citato dal Comune è di circa un milione di euro."
       ],
       "publishedAt": "2026-10-31",
-      "verifiedAt": "2026-11-02T06:13:59.745Z",
-      "source": {
-        "name": "RaiNews TGR Lazio",
-        "url": "https://www.rainews.it/amp/tgr/lazio/articoli/2026/10/la-cgil-annuncia-accordo-raggiunto-niente-piu-subappalti-e-funi-al-colosseo-833826a3-fe3c-4cbd-9624-6a230441b63c.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T06:13:59.745Z",
-        "dateEvidence": "TGR Lazio: articolo pubblicato 31/10/2026; cantieri previsti in ripresa il 03/11.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "roma-via-goito-cantiere-notturno",
-      "eventKey": "roma-via-goito-cantiere-notturno-bus-38-92-360-n92-novembre-2026",
-      "category": "Roma",
-      "status": "verified",
-      "title": "Via Goito, lavori notturni e possibili deviazioni dei bus",
-      "summary": "Riduzione di carreggiata tra via XX Settembre e piazza Indipendenza fino al 3 novembre.",
-      "body": [
-        "Fino al 3 novembre via Goito è interessata da lavori nel tratto compreso tra via XX Settembre e piazza Indipendenza. Il cantiere opera nelle ore notturne dalle 21 alle 6.",
-        "Roma Mobilità avverte di possibili modifiche alle linee 38, 92, 360 e n92. L'attività del cantiere è sospesa nel fine settimana."
-      ],
-      "publishedAt": "2026-10-31",
-      "verifiedAt": "2026-11-02T06:13:59.745Z",
+      "verifiedAt": "2026-11-02T16:20:37.262Z",
       "source": {
         "name": "Roma Servizi per la Mobilità",
-        "url": "https://romamobilita.it/infomobilita/lavori-notturni-in-via-goito-possibili-deviazioni/",
+        "url": "https://romamobilita.it/primo-piano/a-vigna-pia-realizzata-una-strada-scolastica-con-pavimentazioni-e-vernici-mangia-smog/",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T06:13:59.745Z",
-        "dateEvidence": "Roma Mobilità: pubblicato e aggiornato 31/10/2026, validità fino al 04/11 ore 06.",
+        "accessCheckedAt": "2026-11-02T16:20:37.262Z",
+        "dateEvidence": "Roma Mobilità, Pubblicato il 31/10/2026, aggiornato il 02/11/2026.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "roma-foro-italico-frana-corsia",
-      "eventKey": "roma-via-foro-italico-smottamento-corsia-31-ottobre-2026",
-      "category": "Roma",
-      "status": "verified",
-      "title": "Via del Foro Italico, una corsia dopo uno smottamento",
-      "summary": "Tra corso Francia e la galleria Giovanni XXIII traffico rallentato verso lo stadio Olimpico.",
-      "body": [
-        "Uno smottamento del terreno ha ridotto a una sola corsia il transito su via del Foro Italico, nel tratto tra corso Francia e la Galleria Giovanni XXIII in direzione dello stadio Olimpico.",
-        "L'avviso di Roma Mobilità, aggiornato il 1° novembre, segnala forti rallentamenti e raccomanda prudenza. La validità dell'avviso arriva al 3 novembre, salvo ulteriori aggiornamenti."
-      ],
-      "publishedAt": "2026-10-31",
-      "verifiedAt": "2026-11-02T06:13:59.745Z",
-      "source": {
-        "name": "Roma Servizi per la Mobilità",
-        "url": "https://romamobilita.it/infomobilita/via-del-foro-italico-una-sola-corsia-transitabile-tra-corso-francia-e-la-galleria-giovanni-xxiii/",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T06:13:59.745Z",
-        "dateEvidence": "Roma Mobilità: pubblicato 31/10/2026, aggiornato 01/11/2026; validità al 03/11.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
+      },
+      "updatedAt": "2026-11-02"
     }
   ]
 }
