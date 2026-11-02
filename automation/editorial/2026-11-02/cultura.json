@@ -1,229 +1,117 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-11-02",
-  "collectionId": "2026-11-02-mattina",
+  "collectionId": "2026-11-02-pomeriggio",
   "category": "Cultura · Teatro · Cinema",
-  "completedAt": "2026-11-02T06:14:22.525Z",
+  "completedAt": "2026-11-02T16:20:56.342Z",
   "articles": [
     {
-      "id": "cultura-koeln-concert-romaeuropa",
-      "eventKey": "roma-europa-namekawa-enhco-koeln-concert-2-novembre-2026",
+      "id": "cultura-cina-restauro-architetti-roma",
+      "eventKey": "cultura-architetti-roma-delegazioni-cinesi-restauro-santangelo-velabro-novembre-2026",
       "category": "Cultura · Teatro · Cinema",
       "status": "verified",
-      "title": "Romaeuropa, due pianisti reinterpretano The Köln Concert",
-      "summary": "Maki Namekawa e Thomas Enhco rileggono il celebre concerto di Keith Jarrett il 2 novembre all'Auditorium.",
+      "title": "Il restauro romano diventa un modello di confronto con la Cina",
+      "summary": "Delegazioni da Pechino e Shandong hanno studiato due chiese storiche della Capitale.",
       "body": [
-        "Il Romaeuropa Festival propone il 2 novembre alle 21, nella Sala Santa Cecilia dell'Auditorium Parco della Musica di Roma, una nuova interpretazione di The Köln Concert, registrazione di Keith Jarrett del 1975.",
-        "Maki Namekawa eseguirà la prima e l'ultima parte sulla base della trascrizione del disco, mentre Thomas Enhco rielaborerà la sezione centrale con una propria improvvisazione."
+        "L'Ordine degli Architetti di Roma ha ospitato rappresentanti di istituzioni cinesi dedicate alla tutela del patrimonio. Al centro dello scambio, le tecniche di conservazione applicate alle chiese di Sant'Angelo in Pescheria e San Giorgio al Velabro.",
+        "Le delegazioni comprendevano 24 professionisti e funzionari provenienti da Pechino e 20 dallo Shandong. Il programma ha incluso lezioni di restauro architettonico e l'analisi delle stratificazioni storiche dei due edifici."
       ],
-      "publishedAt": "2026-11-01",
-      "verifiedAt": "2026-11-02T06:13:22.202Z",
+      "publishedAt": "2026-11-02T16:19:00+01:00",
+      "verifiedAt": "2026-11-02T16:20:56.342Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/amp/lazio/notizie/2026/11/01/the-koeln-concert-al-romaeuropa-la-rilettura-di-maki-namekawa-e-thomas-enhco_9fc0c5cb-3be4-4cb4-b45a-5ea43a609136.html",
+        "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/02/la-cina-a-lezione-di-restauro-a-roma_95c4d45e-9183-413c-b870-df909825f245.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T06:13:22.202Z",
-        "dateEvidence": "ANSA Lazio: articolo pubblicato 01/11/2026; data evento distinta: 02/11/2026 ore 21.",
+        "accessCheckedAt": "2026-11-02T16:20:56.342Z",
+        "dateEvidence": "ANSA Cultura, ROMA, 02 novembre 2026, ore 16:19; testo consultato integralmente.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "cultura-artissima-2026-bilancio",
-      "eventKey": "artissima-torino-2026-chiusura-34000-presenze-1-novembre",
+      "id": "cultura-paratissima-2026-moncalieri",
+      "eventKey": "paratissima-moncalieri-2026-chiusura-oltre-13000-ingressi-2-novembre",
       "category": "Cultura · Teatro · Cinema",
       "status": "verified",
-      "title": "Artissima chiude a Torino con oltre 34mila presenze",
-      "summary": "La fiera di arte contemporanea ha ospitato 183 gallerie da 35 Paesi e centinaia di collezionisti.",
+      "title": "Paratissima chiude con più di 13mila ingressi",
+      "summary": "La manifestazione di arte emergente ha riunito oltre 400 artisti nella Torino Art Week.",
       "body": [
-        "La 33ª edizione di Artissima, conclusa il 1° novembre all'Oval del Lingotto, registra oltre 34mila presenze in quattro giornate. Hanno partecipato 183 gallerie da 35 Paesi, tra cui 37 al debutto.",
-        "La direzione della manifestazione sottolinea il ruolo della ricerca artistica, delle relazioni internazionali e della sperimentazione accanto al mercato."
+        "La ventiduesima edizione di Paratissima, organizzata per il secondo anno a Moncalieri, ha registrato oltre 13mila ingressi e opere di più di 400 artisti. Il programma ha compreso residenze, performance e produzioni originali.",
+        "Gli organizzatori segnalano un'affluenza inferiore all'edizione precedente, ma un valore delle vendite sostanzialmente stabile. Il progetto diffuso Art in the City ha coinvolto oltre trenta luoghi della città."
       ],
-      "publishedAt": "2026-11-01T18:56:00+01:00",
-      "verifiedAt": "2026-11-02T06:13:22.202Z",
+      "publishedAt": "2026-11-02T15:57:00+01:00",
+      "verifiedAt": "2026-11-02T16:20:56.342Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/01/chiude-artissima-2026-oltre-34mila-presenze-in-quattro-giorni_bc5e75f7-3203-4354-9898-d97777a8881f.html",
+        "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/02/arte-paratissima-2026-chiude-con-oltre-13mila-ingressi_2f6a4af2-ec53-482f-99e4-3167e590f1ee.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T06:13:22.202Z",
-        "dateEvidence": "ANSA Arte: 01 novembre 2026 ore 18:56, bilancio della chiusura della 33ª edizione di Artissima.",
+        "accessCheckedAt": "2026-11-02T16:20:56.342Z",
+        "dateEvidence": "ANSA Arte, TORINO, 02 novembre 2026, ore 15:57; dati della chiusura.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "cultura-boxoffice-halloween-usa",
-      "eventKey": "box-office-usa-halloween-2026-you-can-see-everything-primo",
+      "id": "cultura-sofia-donadio-film-crans-montana",
+      "eventKey": "film-notorious-pictures-sofia-donadio-sopravvissuta-crans-montana-annuncio-2-novembre-2026",
       "category": "Cultura · Teatro · Cinema",
       "status": "verified",
-      "title": "Cinema USA, un documentario guida gli incassi di Halloween",
-      "summary": "You Can See Everything conquista la vetta con 10,6 milioni di dollari nel fine settimana nordamericano.",
+      "title": "Un film racconterà la vicenda di Sofia Donadio dopo Crans-Montana",
+      "summary": "Notorious Pictures ha annunciato un lungometraggio sviluppato con la giovane sopravvissuta e la famiglia.",
       "body": [
-        "Nel weekend di Halloween il documentario You Can See Everything, dedicato alla vicenda Theranos e a Elizabeth Holmes, ha guidato il box office di Stati Uniti e Canada con 10,6 milioni di dollari, secondo i dati riportati da ANSA.",
-        "Alle sue spalle figurano Clayface con 10,4 milioni e il film d'animazione Wildwood con 7,5 milioni. La testata descrive il fine settimana come debole per il mercato."
+        "Notorious Pictures sta sviluppando un film dedicato a Sofia Donadio, sopravvissuta all'incendio del locale Le Constellation a Crans-Montana nel dicembre 2025. Il progetto è stato annunciato il 2 novembre.",
+        "La sceneggiatura sarà elaborata con la partecipazione della giovane e dei familiari e si concentrerà sulle conseguenze del trauma, sulle cure e sui rapporti personali. Non è stata comunicata una data di uscita."
       ],
-      "publishedAt": "2026-11-01T19:27:00+01:00",
-      "verifiedAt": "2026-11-02T06:13:22.202Z",
+      "publishedAt": "2026-11-02T15:07:00+01:00",
+      "verifiedAt": "2026-11-02T16:20:56.342Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/01/incassi-usa-you-can-see-everything-guida-il-fiacco-box-office_62136fe7-9e3c-4259-8174-b05e91ad2266.html",
+        "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/la-storia-di-sofia-donadio-e-i-fatti-di-crans-montana-diventano-un-film_45947ae6-72f5-4970-857a-a02b09783df5.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T06:13:22.202Z",
-        "dateEvidence": "ANSA Cinema: pubblicazione 01 novembre 2026 ore 19:27, incassi del fine settimana di Halloween.",
+        "accessCheckedAt": "2026-11-02T16:20:56.342Z",
+        "dateEvidence": "ANSA Cinema, ROMA, 02 novembre 2026, ore 15:07; annuncio di produzione.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "cultura-julia-varley-ipazia",
-      "eventKey": "julia-varley-premio-ipazia-teatro-genova-1-novembre-2026",
+      "id": "cultura-tananai-singolo-buonanotte",
+      "eventKey": "tananai-singolo-buonanotte-anche-stanotte-uscita-3-novembre-2026",
       "category": "Cultura · Teatro · Cinema",
       "status": "verified",
-      "title": "A Julia Varley il premio Ipazia al Teatro",
-      "summary": "L'attrice dell'Odin Teatret premiata al Festival dell'Eccellenza al Femminile a Genova.",
+      "title": "Tananai pubblica il nuovo singolo il 3 novembre",
+      "summary": "Il brano «Buonanotte anche stanotte» segna il ritorno del cantautore dopo una pausa dalle pubblicazioni.",
       "body": [
-        "Julia Varley ha ricevuto il premio Ipazia al Teatro alla carriera durante il XXII Festival dell'Eccellenza al Femminile di Genova, in programma fino al 2 novembre.",
-        "L'artista, attiva anche come regista e pedagoga, ha richiamato il contributo delle donne alla teoria e alla ricerca teatrale. Il riconoscimento ne valorizza il lavoro sull'identità femminile nella scena internazionale."
+        "È annunciata per il 3 novembre l'uscita in radio e sulle piattaforme digitali di «Buonanotte anche stanotte», nuovo singolo di Tananai. L'artista lo ha scritto e prodotto insieme a Davide Simonetta.",
+        "La canzone arriva a due anni dall'album «CalmoCobra» e a oltre un anno dall'ultimo concerto. Tananai racconta di averla composta a settembre per fissare alcune riflessioni sul presente."
       ],
-      "publishedAt": "2026-11-01T12:53:00+01:00",
-      "verifiedAt": "2026-11-02T06:13:22.202Z",
+      "publishedAt": "2026-11-02T15:33:00+01:00",
+      "verifiedAt": "2026-11-02T16:20:56.342Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/11/01/il-premio-ipazia-al-teatro-allattrice-julia-varley_c5478e0b-fa69-494e-ace0-c1d0c42ea629.html",
+        "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/02/tananai-torna-con-il-nuovo-singolo-buonanotte-anche-stanotte_9ec628b3-416e-4c14-83cd-54ff600c759d.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T06:13:22.202Z",
-        "dateEvidence": "ANSA Teatro: articolo pubblicato 01 novembre 2026 ore 12:53, cerimonia al Festival di Genova.",
+        "accessCheckedAt": "2026-11-02T16:20:56.342Z",
+        "dateEvidence": "ANSA Musica, ROMA, 02 novembre 2026, ore 15:33; uscita annunciata 03/11.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "cultura-flashback-2026-chiusura",
-      "eventKey": "flashback-art-fair-torino-2026-23244-visitatori-chiusura",
+      "id": "cultura-arena-verona-balletto-romeo-2027",
+      "eventKey": "arena-verona-balletto-romeo-giulietta-2027-ritorno-dopo-34-anni",
       "category": "Cultura · Teatro · Cinema",
       "status": "verified",
-      "title": "Flashback Art Fair chiude con oltre 23mila visitatori",
-      "summary": "La fiera torinese riunisce 35 gallerie e segnala un incremento delle vendite.",
+      "title": "L'Arena di Verona riporta il balletto con orchestra nel 2027",
+      "summary": "«Romeo e Giulietta» di Prokof'ev avrà quattro rappresentazioni dal 18 giugno.",
       "body": [
-        "La quattordicesima edizione di Flashback Art Fair si è conclusa a Torino il 1° novembre dopo quattro giorni. Gli organizzatori indicano 23.244 presenze registrate alle 18 e un riscontro positivo dei galleristi sulle vendite.",
-        "L'appuntamento, ospitato a Flashback Habitat, ha messo in dialogo arte antica, moderna e contemporanea, affiancando alle esposizioni iniziative per avvicinare nuovi collezionisti."
+        "Dopo 34 anni, il balletto con orchestra torna nel programma dell'Arena di Verona: per l'Opera Festival 2027 è prevista una produzione completa di «Romeo e Giulietta» sulla musica di Prokof'ev.",
+        "La coreografia sarà firmata da Manuel Legris e l'allestimento prenderà spunto da bozzetti di Franco Zeffirelli. Sono annunciate quattro serate a partire dal 18 giugno 2027, con un appuntamento accessibile nel programma «Arena per Tutti»."
       ],
-      "publishedAt": "2026-11-01T19:28:00+01:00",
-      "verifiedAt": "2026-11-02T06:13:22.202Z",
+      "publishedAt": "2026-11-02T15:23:00+01:00",
+      "verifiedAt": "2026-11-02T16:20:56.342Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/01/si-conclude-flashback-art-fair-2026-piu-vendite-piu-consapevolezza_103590ee-eb8c-4d82-a867-a9e09afdfb3b.html",
+        "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/11/02/il-balletto-torna-allarena-di-verona-nel-2027-in-scena-romeo-e-giulietta_672de9d0-74ea-4c51-9091-1d90c61ab8ed.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T06:13:22.202Z",
-        "dateEvidence": "ANSA Arte: pubblicato 01 novembre 2026 ore 19:28; presenze riferite alle ore 18.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    }
-  ],
-  "reserveArticles": [
-    {
-      "id": "cultura-lella-costa-monologhi",
-      "eventKey": "lella-costa-monologhi-vagina-teatro-cometa-3-8-novembre-2026",
-      "category": "Cultura · Teatro · Cinema",
-      "status": "verified",
-      "title": "Lella Costa riporta I Monologhi della Vagina a Roma",
-      "summary": "Dal 3 all'8 novembre al Teatro della Cometa, con un cast di attrici che si alternano sul palco.",
-      "body": [
-        "A trent'anni dalla prima stesura del testo di Eve Ensler, Lella Costa torna a interpretare I Monologhi della Vagina e ne coordina artisticamente la nuova edizione al Teatro della Cometa di Roma.",
-        "Lo spettacolo è annunciato dal 3 all'8 novembre e coinvolge un gruppo di interpreti che si alternano nelle letture. La produzione proseguirà poi in altre città italiane."
-      ],
-      "publishedAt": "2026-11-01",
-      "verifiedAt": "2026-11-02T06:14:22.525Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/amp/donne/notizie/2026/11/01/lella-costa-riporto-in-scena-i-monologhi-della-vagina-a-30-anni-dalla-prima_f1852d12-c612-467c-bd10-5b2cef072a71.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T06:14:22.525Z",
-        "dateEvidence": "ANSA Donne: articolo pubblicato 01/11/2026; date spettacolo a Roma dal 03 al 08/11/2026.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cultura-the-others-art-fair",
-      "eventKey": "the-others-art-fair-torino-2026-54-espositori-chiusura",
-      "category": "Cultura · Teatro · Cinema",
-      "status": "verified",
-      "title": "The Others Art Fair chiude nel Parcheggio Lancia di Torino",
-      "summary": "La quindicesima edizione ha riunito 54 espositori e registrato un lieve aumento del pubblico.",
-      "body": [
-        "La fiera The Others Art Fair ha chiuso il 1° novembre al Parcheggio Lancia di Torino, sede scelta per la quindicesima edizione. Hanno partecipato 54 espositori italiani e stranieri, con un programma di incontri e premi.",
-        "Gli organizzatori riferiscono code all'ingresso nel weekend, un lieve incremento di pubblico e riscontri positivi da parte delle gallerie sui contatti e sulle vendite."
-      ],
-      "publishedAt": "2026-11-01T18:18:00+01:00",
-      "verifiedAt": "2026-11-02T06:14:22.525Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/01/the-others-art-fair-cresce-il-pubblico-galleristi-soddisfatti_8d5dbbb2-5d89-4eef-bdd2-f67c3fef7317.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T06:14:22.525Z",
-        "dateEvidence": "ANSA Arte: pubblicato 01/11/2026 ore 18:18; fiera distinta da Artissima e Flashback.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cultura-gruffalo-illustratore-ai",
-      "eventKey": "alex-scheffler-gruffalo-valuta-causa-ia-copyright-1-novembre-2026",
-      "category": "Cultura · Teatro · Cinema",
-      "status": "verified",
-      "title": "L'illustratore del Gruffalò valuta una causa per le immagini IA",
-      "summary": "Axel Scheffler contesta le riproduzioni digitali del suo personaggio e sta consultando un legale.",
-      "body": [
-        "Axel Scheffler, illustratore del Gruffalò, ha detto alla BBC di valutare un'azione legale contro aziende di intelligenza artificiale per la riproduzione di elementi riconoscibili del suo lavoro.",
-        "L'artista ha riferito di aver contattato un avvocato in Germania. Non ha indicato una società destinataria né annunciato una causa già depositata."
-      ],
-      "publishedAt": "2026-11-01",
-      "verifiedAt": "2026-11-02T06:14:22.525Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/amp/canale_tecnologia/notizie/tecnologia/2026/11/01/lillustratore-del-gruffalo-valuto-unazione-legale-contro-le-aziende-di-ia_dcf6900e-a9ae-4469-bc85-beb6f4659710.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T06:14:22.525Z",
-        "dateEvidence": "ANSA Tecnologia: articolo pubblicato 01/11/2026; dichiarazioni dell'illustratore sulla tutela dell'opera.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cultura-deep-purple-ian-gillan",
-      "eventKey": "deep-purple-ian-gillan-ricovero-cancellazione-lipsia-amburgo-2026",
-      "category": "Cultura · Teatro · Cinema",
-      "status": "verified",
-      "title": "Deep Purple, annullati due concerti dopo il ricovero di Ian Gillan",
-      "summary": "La band ha cancellato le date di Lipsia e Amburgo e valuta il recupero degli spettacoli.",
-      "body": [
-        "I Deep Purple hanno annunciato l'annullamento dei concerti previsti il 31 ottobre a Lipsia e il 1° novembre ad Amburgo per un'emergenza medica che ha coinvolto il cantante Ian Gillan.",
-        "Il gruppo ha dichiarato che i biglietti resteranno validi per eventuali date di recupero. Non sono stati resi noti ulteriori dettagli clinici o tempi di dimissione."
-      ],
-      "publishedAt": "2026-11-01T15:54:00+01:00",
-      "verifiedAt": "2026-11-02T06:14:22.525Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/01/ian-gillan-ricoverato-in-ospedale-i-deep-purple-annullano-due-concerti-in-germania_66ccd562-8287-46b4-b6ec-317260be9cdd.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T06:14:22.525Z",
-        "dateEvidence": "ANSA Musica: pubblicato 01/11/2026 ore 15:54; comunicazione del gruppo relativa alle date 31/10 e 01/11.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cultura-rodolfo-valentino-sancarluccio",
-      "eventKey": "rodolfo-valentino-teatro-sancarluccio-napoli-6-8-novembre-2026",
-      "category": "Cultura · Teatro · Cinema",
-      "status": "verified",
-      "title": "Rodolfo Valentino rivive sul palco del Sancarluccio",
-      "summary": "Dal 6 all'8 novembre a Napoli una pièce ripercorre il mito del cinema muto.",
-      "body": [
-        "Il Teatro Sancarluccio di Napoli ospiterà dal 6 all'8 novembre Valentino, il punto più alto. Vita e segreti di un idolo, spettacolo diretto da Stefano Ariota su testi di Roberto Russo.",
-        "Francesco Petrillo interpreta Rodolfo Valentino e Giuseppe Brandi veste i panni di Norman Kelly. La messinscena immagina le contraddizioni del divo e riflette su come sarebbe proseguita la sua carriera con l'arrivo del sonoro."
-      ],
-      "publishedAt": "2026-11-01T14:36:00+01:00",
-      "verifiedAt": "2026-11-02T06:14:22.525Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://videoembed.ansa.it/campania/notizie/2026/11/01/rodolfo-valentino-il-mito-del-cinema-muto-rivive-al-sancarluccio-di-napoli_28dd6ed6-ad69-402b-b019-b1456b28a570.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T06:14:22.525Z",
-        "dateEvidence": "ANSA Campania: pubblicato 01/11/2026 ore 14:36; spettacolo previsto dal 06 al 08/11.",
+        "accessCheckedAt": "2026-11-02T16:20:56.342Z",
+        "dateEvidence": "ANSA Teatro, VERONA, 02 novembre 2026, ore 15:23; spettacoli dal 18/06/2027.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
