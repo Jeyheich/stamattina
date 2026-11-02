@@ -3,7 +3,7 @@
   "editionDate": "2026-11-02",
   "collectionId": "2026-11-02-mattina",
   "category": "Economia",
-  "completedAt": "2026-11-02T05:15:16.545Z",
+  "completedAt": "2026-11-02T05:16:03.035Z",
   "articles": [
     {
       "id": "economia-concordato-scadenza",
@@ -123,6 +123,118 @@
         "access": "free",
         "accessCheckedAt": "2026-11-02T05:15:16.545Z",
         "dateEvidence": "Articolo originale Sky TG24 consultato il 2 novembre 2026, con data e ora pubblicate esplicitamente: 2026-11-01T07:00:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "economia-sciopero-cgia-costi",
+      "eventKey": "cgia-stima-costo-sciopero-generale-30-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Sciopero del 30 ottobre, la Cgia stima fino a un miliardo di impatto",
+      "summary": "La simulazione economica dipende dal tasso di adesione e non equivale a un consuntivo.",
+      "body": [
+        "Secondo l'Ufficio studi della Cgia di Mestre, lo sciopero nazionale del 30 ottobre potrebbe avere ridotto il valore aggiunto giornaliero di circa 817 milioni di euro nello scenario di partecipazione al 20%. Considerando gli effetti indiretti, la stima potrebbe avvicinarsi al miliardo.",
+        "La Cgia precisa che l'analisi è preliminare, non misura un danno economico necessariamente permanente e non mette in discussione il diritto costituzionale di sciopero."
+      ],
+      "publishedAt": "2026-11-01T06:30:00+01:00",
+      "verifiedAt": "2026-11-02T05:16:03.035Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/11/01/sciopero-costo-italia-cgia-dati",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T05:16:03.035Z",
+        "dateEvidence": "Fonte Sky TG24 consultata integralmente il 2 novembre 2026; pubblicazione originale riportata nella pagina: 2026-11-01T06:30:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-eurostat-reddito-famiglie",
+      "eventKey": "eurostat-secondo-trimestre-2026-reddito-reale-famiglie-eurozona-0-1",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Eurostat, reddito reale delle famiglie quasi fermo nel secondo trimestre",
+      "summary": "Nell'area euro la crescita pro capite è dello 0,1%, mentre i consumi aumentano dello 0,3%.",
+      "body": [
+        "Nel secondo trimestre 2026 il reddito reale disponibile per abitante nell'area euro è cresciuto dello 0,1% rispetto al trimestre precedente, secondo i dati Eurostat ripresi da Sky TG24. Nello stesso periodo i consumi reali sono aumentati dello 0,3%.",
+        "Il tasso di risparmio delle famiglie dell'eurozona si è ridotto di 0,2 punti percentuali. In Italia la contrazione segnalata è stata più marcata, pari a 1,2 punti."
+      ],
+      "publishedAt": "2026-10-31T15:12:00+01:00",
+      "verifiedAt": "2026-11-02T05:16:03.035Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/economia/2026/10/31/reddito-reale-famiglie-ue-prezzi-eurostat",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T05:16:03.035Z",
+        "dateEvidence": "Fonte Sky TG24 consultata integralmente il 2 novembre 2026; pubblicazione originale riportata nella pagina: 2026-10-31T15:12:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-assoutenti-ortaggi-inflazione",
+      "eventKey": "assoutenti-analisi-inflazione-ottobre-2026-ortaggi-frutta-tech",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Assoutenti, ortaggi a frutto rincarati di circa il 31% su base annua",
+      "summary": "L'associazione ha elaborato i dati Istat di ottobre e segnala aumenti anche per dispositivi tecnologici e bollette.",
+      "body": [
+        "Un'analisi di Assoutenti sui dati Istat indica che a ottobre 2026 i prezzi degli ortaggi a frutto, fra cui pomodori e zucchine, sono aumentati di quasi il 31% rispetto a un anno prima. Per frutti di bosco e fragole l'incremento segnalato è del 29,3%.",
+        "Fra i beni tecnologici, l'associazione registra rincari del 29,5% per computer e tablet. Le percentuali si riferiscono a specifiche categorie di prodotti e non all'inflazione media complessiva."
+      ],
+      "publishedAt": "2026-11-01T11:18:00+01:00",
+      "verifiedAt": "2026-11-02T05:16:03.035Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/assoutenti-la-guerra-fa-schizzare-i-prezzi-zucchine-31-a-ottobre_7b2133da-31b8-4378-9111-9db270ef23d7.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T05:16:03.035Z",
+        "dateEvidence": "Fonte ANSA consultata integralmente il 2 novembre 2026; pubblicazione originale riportata nella pagina: 2026-11-01T11:18:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-piccole-banche-ires",
+      "eventKey": "manovra-2027-piccole-banche-esenzione-ires-soglia-6-7-milioni",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Piccole banche, contestata la soglia per evitare l'aumento Ires",
+      "summary": "La proposta esclude dalla maggiorazione di tre punti solo gli istituti con base imponibile sotto 6,7 milioni.",
+      "body": [
+        "La manovra prevede un aumento di tre punti dell'Ires sulle banche, con una soglia di esenzione fissata a 6,7 milioni di euro di base imponibile. Secondo rappresentanti di istituti minori, la soglia favorirebbe solo le realtà più piccole.",
+        "Alcune banche di credito cooperativo potrebbero quindi essere coinvolte dall'aggravio, cui si sommano le modifiche alle deduzioni Irap. Il testo è ancora soggetto a modifiche durante l'iter parlamentare."
+      ],
+      "publishedAt": "2026-11-01T13:45:00+01:00",
+      "verifiedAt": "2026-11-02T05:16:03.035Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://videoembed.ansa.it/sito/notizie/economia/2026/11/01/anche-fra-piccole-banche-timori-su-impatto-manovra-soglia-e-bassa_016d5765-b524-4baa-b253-53e9dc02ae32.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T05:16:03.035Z",
+        "dateEvidence": "Fonte ANSA consultata integralmente il 2 novembre 2026; pubblicazione originale riportata nella pagina: 2026-11-01T13:45:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-superbonus-crediti-decennali",
+      "eventKey": "manovra-2027-superbonus-crediti-2023-compensazione-dieci-rate",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Superbonus, la manovra ipotizza dieci rate per alcuni crediti d'imposta",
+      "summary": "Il rinvio riguarderebbe le quote 2027 dei crediti 2023 da cessione o sconto in fattura.",
+      "body": [
+        "Nel disegno di legge di bilancio è prevista la ripartizione in dieci rate annuali delle quote di crediti Superbonus che sarebbero utilizzabili in compensazione nel 2027 e derivano da spese del 2023.",
+        "La relazione tecnica quantifica in circa 20,5 miliardi di euro le compensazioni interessate. Restano esclusi i crediti già distribuiti su dieci anni per scelta dei contribuenti; la norma è ancora una proposta parlamentare."
+      ],
+      "publishedAt": "2026-11-01T11:43:00+01:00",
+      "verifiedAt": "2026-11-02T05:16:03.035Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-rinvio-per-le-compensazioni-del-superbonus-spalmate-su-10-anni_bc3f2d8b-0070-4d02-ba7a-ecdf5dda2a42.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T05:16:03.035Z",
+        "dateEvidence": "Fonte ANSA consultata integralmente il 2 novembre 2026; pubblicazione originale riportata nella pagina: 2026-11-01T11:43:00+01:00.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
