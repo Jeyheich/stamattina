@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-11-02",
-  "collectionId": "2026-11-02-mattina",
+  "collectionId": "2026-11-02-pomeriggio",
   "category": "Politica",
-  "completedAt": "2026-11-02T05:08:09.549Z",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-02T15:24:35.481Z",
   "articles": [
     {
       "id": "politica-rai-riforma-parlamento",
@@ -17,13 +18,13 @@
         "Le parole sono state riportate da ANSA il 1° novembre e provengono da un'intervista per il libro di Bruno Vespa. La dichiarazione non equivale all'approvazione della riforma."
       ],
       "publishedAt": "2026-11-01T12:47:00+01:00",
-      "verifiedAt": "2026-11-02T05:07:14.528Z",
+      "verifiedAt": "2026-11-02T15:24:35.481Z",
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/meloni-riforma-rai-mi-sembra-a-buon-punto.-toglieremo-argomento-a-sinistra-ridicola_02936430-084e-4517-b633-93be73c7371b.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T05:07:14.528Z",
-        "dateEvidence": "ANSA, Roma, 1 novembre 2026 ore 12:47; dichiarazioni tratte dal libro di Vespa. Fonte originale riletta il 2 novembre 2026; ANSA con limite gratuito mensile ove applicabile.",
+        "accessCheckedAt": "2026-11-02T15:24:35.481Z",
+        "dateEvidence": "ANSA, Roma, 1 novembre 2026 ore 12:47; dichiarazioni tratte dal libro di Vespa. Fonte originale riletta nuovamente il 2 novembre 2026 nel ciclo pomeridiano; data di prima pubblicazione invariata.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
       "leadPriority": 93,
@@ -49,13 +50,13 @@
         "La premier ha dichiarato che una sua candidatura al Quirinale non rientra nei progetti attuali. Ha indicato come priorità la conclusione della legislatura e la richiesta di un nuovo mandato agli elettori."
       ],
       "publishedAt": "2026-11-01T09:34:00+01:00",
-      "verifiedAt": "2026-11-02T05:07:14.528Z",
+      "verifiedAt": "2026-11-02T15:24:35.481Z",
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it/sito/notizie/politica/2026/11/01/meloni-concentrata-a-chiedere-altro-mandato.-il-quirinale-non-e-nei-miei-piani_a0038a28-b000-402c-8b26-b6dd6250e11e.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T05:07:14.528Z",
-        "dateEvidence": "ANSA, Roma, 1 novembre 2026 ore 09:34, intervista anticipata dal libro di Vespa. Fonte originale riletta il 2 novembre 2026; ANSA con limite gratuito mensile ove applicabile.",
+        "accessCheckedAt": "2026-11-02T15:24:35.481Z",
+        "dateEvidence": "ANSA, Roma, 1 novembre 2026 ore 09:34, intervista anticipata dal libro di Vespa. Fonte originale riletta nuovamente il 2 novembre 2026 nel ciclo pomeridiano; data di prima pubblicazione invariata.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -71,13 +72,13 @@
         "Ha anche confermato che il reddito di cittadinanza sarà fra le proposte che il M5S porterà al confronto sul programma."
       ],
       "publishedAt": "2026-10-31T20:15:00+01:00",
-      "verifiedAt": "2026-11-02T05:07:14.528Z",
+      "verifiedAt": "2026-11-02T15:24:35.481Z",
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com/politica/conte-schlein-centrosinistra-campo-largo-ultime-news_4pVZ9L4Key11m7agPmSr4g",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T05:07:14.528Z",
-        "dateEvidence": "Adnkronos, 31 ottobre 2026 ore 20:15, resoconto delle dichiarazioni in televisione. Fonte originale riletta il 2 novembre 2026; ANSA con limite gratuito mensile ove applicabile.",
+        "accessCheckedAt": "2026-11-02T15:24:35.481Z",
+        "dateEvidence": "Adnkronos, 31 ottobre 2026 ore 20:15, resoconto delle dichiarazioni in televisione. Fonte originale riletta nuovamente il 2 novembre 2026 nel ciclo pomeridiano; data di prima pubblicazione invariata.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -93,13 +94,13 @@
         "La seconda correzione esclude gli arretrati dal calcolo, per evitare duplicazioni. Si tratta di misure proposte nella manovra e non ancora definitivamente approvate."
       ],
       "publishedAt": "2026-11-01T18:58:00+01:00",
-      "verifiedAt": "2026-11-02T05:07:14.528Z",
+      "verifiedAt": "2026-11-02T15:24:35.481Z",
       "source": {
         "name": "HuffPost Italia",
         "url": "https://www.huffingtonpost.it/politica/2026/11/01/news/manovra_magistrati-23041305/",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T05:07:14.528Z",
-        "dateEvidence": "HuffPost Italia, 1 novembre 2026 alle 18:58, articolo 67 della legge di bilancio. Fonte originale riletta il 2 novembre 2026; ANSA con limite gratuito mensile ove applicabile.",
+        "accessCheckedAt": "2026-11-02T15:24:35.481Z",
+        "dateEvidence": "HuffPost Italia, 1 novembre 2026 alle 18:58, articolo 67 della legge di bilancio. Fonte originale riletta nuovamente il 2 novembre 2026 nel ciclo pomeridiano; data di prima pubblicazione invariata.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -115,127 +116,16 @@
         "Il leader M5S ha citato in particolare riduzioni di personale scolastico e finanziamenti sanitari giudicati insufficienti. Le valutazioni e le cifre sono attribuite a Conte, non presentate come un'analisi indipendente."
       ],
       "publishedAt": "2026-11-01T12:46:00+01:00",
-      "verifiedAt": "2026-11-02T05:07:14.528Z",
+      "verifiedAt": "2026-11-02T15:24:35.481Z",
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it/sito/notizie/politica/2026/11/01/conte-e-proprio-la-manovra-di-halloween-soldi-per-armi-e-tagli-su-tutto.-da-brividi_5b5f4e70-670c-4518-84ba-c6adb1b7681b.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T05:07:14.528Z",
-        "dateEvidence": "ANSA, Roma, 1 novembre 2026 ore 12:46, dichiarazioni social di Giuseppe Conte. Fonte originale riletta il 2 novembre 2026; ANSA con limite gratuito mensile ove applicabile.",
+        "accessCheckedAt": "2026-11-02T15:24:35.481Z",
+        "dateEvidence": "ANSA, Roma, 1 novembre 2026 ore 12:46, dichiarazioni social di Giuseppe Conte. Fonte originale riletta nuovamente il 2 novembre 2026 nel ciclo pomeridiano; data di prima pubblicazione invariata.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ],
-  "reserveArticles": [
-    {
-      "id": "politica-ipsos-consensi",
-      "eventKey": "sondaggio-ipsos-31-ottobre-2026-fdi-26-7-vannacci-7-9",
-      "category": "Politica",
-      "status": "verified",
-      "title": "Ipsos, FdI al 26,7% e Futuro nazionale al 7,9%",
-      "summary": "La rilevazione Ipsos Doxa per il Corriere della Sera indica lievi variazioni nei consensi dei principali partiti.",
-      "body": [
-        "Il sondaggio pubblicato il 31 ottobre stima Fratelli d'Italia al 26,7%, il Pd al 19,9% e il M5S al 14,9%. Futuro nazionale di Roberto Vannacci scende al 7,9%, mentre Forza Italia cala al 6,3%.",
-        "Sono stime demoscopiche, non risultati elettorali."
-      ],
-      "publishedAt": "2026-10-31T16:23:00+01:00",
-      "verifiedAt": "2026-11-02T05:08:09.549Z",
-      "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com/politica/sondaggio-politico-oggi-ipsos-corsera-vannacci_3iGXD1zqrvb1HqUJow2HNn",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T05:08:09.549Z",
-        "dateEvidence": "Adnkronos, 31 ottobre 2026 ore 16:23, sondaggio Ipsos Doxa. Fonte originale riletta il 2 novembre 2026; accesso ANSA soggetto al limite gratuito mensile quando applicabile.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "politica-salvini-banche",
-      "eventKey": "salvini-parlamento-contributo-banche-oltre-cinque-miliardi-31-ottobre-2026",
-      "category": "Politica",
-      "status": "verified",
-      "title": "Salvini non esclude un contributo bancario superiore in Parlamento",
-      "summary": "Il leader della Lega sostiene che le Camere potrebbero aumentare l'onere richiesto alle banche nella legge di bilancio.",
-      "body": [
-        "Matteo Salvini, parlando a un gazebo della Lega a Roma, ha ricordato il contributo di oltre cinque miliardi previsto nella manovra e ha affermato che il Parlamento può decidere di chiedere di più agli istituti bancari.",
-        "Il vicepremier ha collegato eventuali ulteriori risorse al sostegno a famiglie, lavoratori e pensionati. Non ha annunciato un aumento già approvato."
-      ],
-      "publishedAt": "2026-10-31T18:30:00+01:00",
-      "verifiedAt": "2026-11-02T05:08:09.549Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/salvini-se-il-parlamento-vuole-un-contributo-maggiore-dalle-banche-e-sovrano_9639469c-8c6e-405c-9c2e-0d1b50371871.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T05:08:09.549Z",
-        "dateEvidence": "ANSA, Roma, 31 ottobre 2026 ore 18:30, dichiarazioni Salvini a Ponte Milvio. Fonte originale riletta il 2 novembre 2026; accesso ANSA soggetto al limite gratuito mensile quando applicabile.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "politica-guerini-aiuti-ucraina",
-      "eventKey": "guerini-pd-propone-maggiori-aiuti-militari-ucraina-31-ottobre-2026",
-      "category": "Politica",
-      "status": "verified",
-      "title": "Guerini chiede un sostegno militare più consistente a Kiev",
-      "summary": "L'ex ministro della Difesa sostiene che un futuro governo guidato dal Pd dovrebbe incrementare gli aiuti all'Ucraina.",
-      "body": [
-        "Lorenzo Guerini ha dichiarato, in un'anticipazione del libro di Bruno Vespa, che un eventuale governo con il Pd dovrebbe fornire all'Ucraina aiuti militari più consistenti di quelli dell'esecutivo Meloni.",
-        "Ha inoltre richiamato la necessità di rafforzare le capacità militari nazionali nell'ambito di una pianificazione europea comune."
-      ],
-      "publishedAt": "2026-10-31T16:09:00+01:00",
-      "verifiedAt": "2026-11-02T05:08:09.549Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/guerini-pdse-al-governo-dovremmo-dare-piu-aiuti-militari-a-kiev-di-quelli_ab200e1d-f6af-498f-9d8e-cf5c8d150444.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T05:08:09.549Z",
-        "dateEvidence": "ANSA, Roma, 31 ottobre 2026 ore 16:09, anticipazione del libro di Bruno Vespa. Fonte originale riletta il 2 novembre 2026; accesso ANSA soggetto al limite gratuito mensile quando applicabile.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "politica-mattarella-giovani",
-      "eventKey": "mattarella-villa-nazareth-ottantesimo-giovani-comunita-31-ottobre-2026",
-      "category": "Politica",
-      "status": "verified",
-      "title": "Mattarella richiama i giovani alla responsabilità di costruire il futuro",
-      "summary": "Il presidente della Repubblica, incontrando studenti di Villa Nazareth, invita a rafforzare il senso di comunità.",
-      "body": [
-        "Durante un incontro al Quirinale per gli ottant'anni di Villa Nazareth, Sergio Mattarella ha sottolineato il ruolo delle nuove generazioni in una fase segnata dall'incertezza internazionale.",
-        "Ha indicato solidarietà e attenzione ai bisogni degli altri come strumenti per rafforzare la società."
-      ],
-      "publishedAt": "2026-10-31T17:56:00+01:00",
-      "verifiedAt": "2026-11-02T05:08:09.549Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/mattarella-in-tempi-non-facili-il-futuro-va-disegnato-dai-giovani_15b6b292-fbc5-4699-ab1f-95d53ebd6047.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T05:08:09.549Z",
-        "dateEvidence": "ANSA, Roma, 31 ottobre 2026 ore 17:56, incontro al Quirinale con Villa Nazareth. Fonte originale riletta il 2 novembre 2026; accesso ANSA soggetto al limite gratuito mensile quando applicabile.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "politica-alluvioni-fondi-manovra",
-      "eventKey": "manovra-2027-2028-stanzia-17-milioni-alluvioni-tre-regioni-1-novembre-2026",
-      "category": "Politica",
-      "status": "verified",
-      "title": "Manovra, previsti 17,1 milioni per territori colpiti dalle alluvioni",
-      "summary": "L'articolo 113 del disegno di legge di bilancio destina risorse a Emilia-Romagna, Marche e Toscana nel biennio 2027-2028.",
-      "body": [
-        "La legge di bilancio proposta dal governo prevede 12,8 milioni di euro per il 2027 e 4,3 milioni per il 2028 per interventi legati alle alluvioni del 2023 e 2024.",
-        "La disposizione non indica la ripartizione fra i territori interessati. Lo stanziamento è ancora soggetto all'iter parlamentare."
-      ],
-      "publishedAt": "2026-11-01T17:01:00+01:00",
-      "verifiedAt": "2026-11-02T05:08:09.549Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/01/manovra-17-milioni-per-le-alluvioni-in-emilia-romagna-marche-e-toscana_4faf2862-7169-46b2-a1fc-5f2356ece1f0.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T05:08:09.549Z",
-        "dateEvidence": "ANSA, Roma, 1 novembre 2026 ore 17:01, articolo 113 del disegno di legge di bilancio. Fonte originale riletta il 2 novembre 2026; accesso ANSA soggetto al limite gratuito mensile quando applicabile.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    }
-  ]
+  "reserveDraft": []
 }
