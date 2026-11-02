@@ -3,7 +3,7 @@
   "editionDate": "2026-11-02",
   "collectionId": "2026-11-02-pomeriggio",
   "category": "Roma",
-  "completedAt": "2026-11-02T16:20:37.262Z",
+  "completedAt": "2026-11-02T16:21:15.789Z",
   "articles": [
     {
       "id": "roma-pasolini-nuova-inchiesta-2026",
@@ -123,6 +123,120 @@
         "access": "free",
         "accessCheckedAt": "2026-11-02T16:20:37.262Z",
         "dateEvidence": "Roma Mobilità, Pubblicato il 31/10/2026, aggiornato il 02/11/2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "updatedAt": "2026-11-02"
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "roma-fosso-osa-chiusura-maltempo",
+      "eventKey": "roma-fosso-dellosa-chiusura-maltempo-bus-045-051-314-2-novembre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Maltempo, chiusa via Fosso dell'Osa e deviate tre linee",
+      "summary": "La chiusura riguarda il tratto fra via Rocca di Cambio e via Elice.",
+      "body": [
+        "Dal pomeriggio del 2 novembre, per allerta maltempo, è chiusa via Fosso dell'Osa tra via Rocca di Cambio e via Elice. Roma Servizi per la Mobilità segnala deviazioni per i bus 045, 051 e 314.",
+        "Le modifiche sono annunciate come valide dalle 15:38 del 2 novembre fino alle 19 del 3 novembre, salvo ulteriori aggiornamenti."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-02T16:21:15.789Z",
+      "source": {
+        "name": "Roma Servizi per la Mobilità",
+        "url": "https://romamobilita.it/infomobilita/chiuso-un-tratto-di-via-fosso-dellosa-deviazioni-bus/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:21:15.789Z",
+        "dateEvidence": "Roma Mobilità, pubblicato e aggiornato 02/11/2026; validità dal 02/11 ore 15:38.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-balduina-alberi-strada-chiusa",
+      "eventKey": "roma-balduina-alberi-carreggiata-chiusura-bus-990-2-novembre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Balduina, alberi sulla strada: devia la linea 990",
+      "summary": "Interrotto un tratto di via della Balduina fra le vie Bitossi e Biasucci.",
+      "body": [
+        "Roma Mobilità segnala il 2 novembre una chiusura temporanea di via della Balduina per alberi sulla carreggiata, nel tratto fra via Giancarlo Bitossi e via Luigi Biasucci.",
+        "La linea 990 viene deviata lungo via Trionfale, piazzale delle Medaglie d'Oro e via delle Medaglie d'Oro. L'avviso indica validità fino alle 19 del 2 novembre, salvo aggiornamenti."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-02T16:21:15.789Z",
+      "source": {
+        "name": "Roma Servizi per la Mobilità",
+        "url": "https://romamobilita.it/infomobilita/alberi-sulla-carreggiata-chiuso-un-tratto-di-via-della-balduina/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:21:15.789Z",
+        "dateEvidence": "Roma Mobilità, pubblicato 02/11/2026; avviso valido dalle 12:14 alle 19:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-bus-orari-scolastici-016-559-765",
+      "eventKey": "roma-linee-016-559-765-nuovi-orari-scuole-2-novembre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Cambiano gli orari delle linee 016, 559 e 765",
+      "summary": "Le modifiche feriali puntano anche a migliorare i collegamenti degli studenti.",
+      "body": [
+        "Dal 2 novembre sono in vigore nuovi orari per le linee 016, 559 e 765. La 559 Anagnina-Cinecittà ha tempi di percorrenza rivisti, mentre sulla 016 la corsa da Antifane delle 14:05 viene spostata alle 14:15.",
+        "Per la 765 vengono posticipate due partenze scolastiche, da Grotte d'Arcaccio e Laurentina, rispettivamente alle 14:15 e alle 14:25. La fonte specifica che le variazioni riguardano il servizio feriale."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-11-02T16:21:15.789Z",
+      "source": {
+        "name": "Roma Servizi per la Mobilità",
+        "url": "https://romamobilita.it/infomobilita/dal-2-novembre-nuovi-orari-per-le-linee-di-bus-016-559-e-765/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:21:15.789Z",
+        "dateEvidence": "Roma Mobilità, pubblicato 30/10/2026, aggiornato 02/11/2026; validità dal 02/11.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "updatedAt": "2026-11-02"
+    },
+    {
+      "id": "roma-anguillarese-deviazione-linea-024",
+      "eventKey": "roma-anguillarese-cantiere-deviazione-bus-024-via-quero-30-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Via Anguillarese, la linea 024 devia su via Quero",
+      "summary": "Un cantiere modifica temporaneamente il percorso del bus.",
+      "body": [
+        "La linea 024 è deviata su via Quero per la chiusura di un tratto di via Anguillarese dovuta a un cantiere. L'avviso di Roma Servizi per la Mobilità è stato pubblicato il 30 ottobre.",
+        "La deviazione resta indicata come valida fino al 6 novembre alle 23. L'informazione è riportata con la data originale, senza presentarla come una nuova decisione del 2 novembre."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-11-02T16:21:15.789Z",
+      "source": {
+        "name": "Roma Servizi per la Mobilità",
+        "url": "https://romamobilita.it/infomobilita/linea-024-bus-deviati-per-chiusura-su-via-anguillarese/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:21:15.789Z",
+        "dateEvidence": "Roma Mobilità, pubblicato e aggiornato 30/10/2026; validità fino al 06/11/2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-cerimonie-4-novembre-viabilita",
+      "eventKey": "roma-cerimonie-4-novembre-2026-circo-massimo-piazza-venezia-divieti",
+      "category": "Roma",
+      "status": "verified",
+      "title": "4 novembre, limitazioni fra piazza Venezia e Circo Massimo",
+      "summary": "La cerimonia all'Altare della Patria e il Villaggio della Difesa comportano divieti e deviazioni.",
+      "body": [
+        "In vista della Giornata dell'Unità Nazionale e delle Forze Armate, Roma Servizi per la Mobilità aggiorna le modifiche alla viabilità tra Circo Massimo e piazza Venezia. Nell'area del Villaggio della Difesa sono previsti divieti di sosta e chiusure fino al 4 novembre.",
+        "Il 4 novembre, dalle 7, sono annunciate deviazioni e limitazioni per numerose linee di bus attorno a piazza Venezia; alcune chiusure riguarderanno anche il Quirinale. Il provvedimento è stato pubblicato il 28 ottobre e aggiornato il 2 novembre."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-11-02T16:21:15.789Z",
+      "source": {
+        "name": "Roma Servizi per la Mobilità",
+        "url": "https://romamobilita.it/primo-piano/cerimonie-4-novembre-la-viabilita/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:21:15.789Z",
+        "dateEvidence": "Roma Mobilità, pubblicato 28/10/2026 e aggiornato 02/11/2026; evento 04/11.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
       "updatedAt": "2026-11-02"
