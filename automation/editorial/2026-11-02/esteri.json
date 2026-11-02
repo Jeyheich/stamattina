@@ -3,7 +3,7 @@
   "editionDate": "2026-11-02",
   "collectionId": "2026-11-02-mattina",
   "category": "Esteri",
-  "completedAt": "2026-11-02T05:07:37.234Z",
+  "completedAt": "2026-11-02T05:08:39.738Z",
   "articles": [
     {
       "id": "esteri-ucraina-raffinerie",
@@ -123,6 +123,118 @@
         "access": "free",
         "accessCheckedAt": "2026-11-02T05:07:37.234Z",
         "dateEvidence": "The Guardian, prima pubblicazione 1 novembre 2026 ore 20:50 CET, aggiornato alle 23:26 CET. Pagina originale riletta il 2 novembre 2026, testo accessibile senza login.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "esteri-spagna-vittime-treni",
+      "eventKey": "spagna-urda-treni-identificazione-69-vittime-straniere-2-novembre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Spagna, identificati nuovi cittadini stranieri fra le 69 vittime del disastro ferroviario",
+      "summary": "Le autorità comunicano le nazionalità di dieci vittime straniere e proseguono le identificazioni dopo la collisione di Urda.",
+      "body": [
+        "L'organismo incaricato dell'identificazione delle vittime ha comunicato che tra i 69 morti della collisione ferroviaria in Spagna figurano quattro cittadini statunitensi e persone provenienti da Canada, Giappone, Argentina, Messico, Tunisia e Repubblica Ceca.",
+        "Secondo il resoconto, restano da identificare tre vittime. L'incidente è avvenuto nei giorni precedenti vicino a Urda, in provincia di Toledo."
+      ],
+      "publishedAt": "2026-11-02T01:06:00Z",
+      "verifiedAt": "2026-11-02T05:08:39.738Z",
+      "source": {
+        "name": "The Guardian / AFP",
+        "url": "https://www.theguardian.com/world/2026/nov/02/spain-train-crash-us-citizens-japan-canada-dead",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T05:08:39.738Z",
+        "dateEvidence": "The Guardian, prima pubblicazione 1 novembre 2026 ore 20:06 EST, cioè 2 novembre ore 01:06 UTC. Fonte originale riletta il 2 novembre 2026; ANSA con limite gratuito mensile ove applicabile.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-francia-proteste-scontri",
+      "eventKey": "francia-proteste-carovita-31-ottobre-2026-320mila-565-fermi",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Francia, proteste sul costo della vita e scontri al termine dei cortei",
+      "summary": "Il ministero dell'Interno stima circa 320mila manifestanti; scontri in varie città e centinaia di fermi.",
+      "body": [
+        "I cortei del 31 ottobre hanno mobilitato, secondo il ministero dell'Interno francese, circa 320mila persone. Le manifestazioni contro il carovita e il peggioramento dei servizi pubblici sono state in gran parte pacifiche.",
+        "Nelle ore successive si sono verificati scontri con gruppi mascherati a Parigi e in altre città. Le autorità hanno riferito 565 arresti e feriti fra le forze dell'ordine."
+      ],
+      "publishedAt": "2026-10-31T18:23:00Z",
+      "verifiedAt": "2026-11-02T05:08:39.738Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T05:08:39.738Z",
+        "dateEvidence": "The Guardian, prima pubblicazione 31 ottobre 2026 ore 14:23 EDT, aggiornato 21:43 EDT. Fonte originale riletta il 2 novembre 2026; ANSA con limite gratuito mensile ove applicabile.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-regno-unito-ue-studenti",
+      "eventKey": "uk-ue-studenti-450-milioni-made-in-europe-negoziato-1-novembre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Regno Unito, ipotesi di tasse universitarie ridotte agli studenti UE in cambio di un accordo industriale",
+      "summary": "Londra valuta di compensare gli atenei fino a 450 milioni di sterline l'anno se Bruxelles aprirà il programma Made in Europe.",
+      "body": [
+        "Secondo il Guardian, il governo britannico è disponibile a riconoscere agli studenti provenienti dall'UE rette universitarie simili a quelle pagate dai residenti, a condizione di ottenere accesso al programma industriale europeo Made in Europe.",
+        "La stima massima di costo è di 450 milioni di sterline annui, ma le trattative sono ancora in corso e non è stato raggiunto un accordo definitivo."
+      ],
+      "publishedAt": "2026-11-01T17:00:00Z",
+      "verifiedAt": "2026-11-02T05:08:39.738Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/politics/2026/nov/01/uk-willing-to-spend-450m-a-year-on-eu-students-if-it-can-join-made-in-europe-scheme",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T05:08:39.738Z",
+        "dateEvidence": "The Guardian, 1 novembre 2026 ore 18:00 CET, inchiesta su negoziato Londra-Bruxelles. Fonte originale riletta il 2 novembre 2026; ANSA con limite gratuito mensile ove applicabile.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-texas-voto-anticipato",
+      "eventKey": "texas-voto-anticipato-7-milioni-500mila-midterm-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Midterm USA, in Texas 7,5 milioni di voti anticipati",
+      "summary": "Secondo ANSA, il 39% degli elettori registrati nello Stato ha già votato prima dell'Election Day.",
+      "body": [
+        "Il voto anticipato in Texas ha raggiunto circa 7,5 milioni di persone, pari al 39% degli iscritti alle liste elettorali, secondo il dato riportato il 1° novembre.",
+        "La partecipazione viene descritta come un record per le elezioni di metà mandato nello Stato. Il dato riguarda soltanto il Texas, non l'intero elettorato statunitense."
+      ],
+      "publishedAt": "2026-11-01T01:51:00+01:00",
+      "verifiedAt": "2026-11-02T05:08:39.738Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/in-texas-hanno-gia-votato-75-milioni-di-elettori-e-record_e6d6a7cf-92b9-4b51-b23d-48e4620cca73.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T05:08:39.738Z",
+        "dateEvidence": "ANSA, Washington, 1 novembre 2026 ore 01:51, partecipazione anticipata in Texas. Fonte originale riletta il 2 novembre 2026; ANSA con limite gratuito mensile ove applicabile.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-israele-lista-unita",
+      "eventKey": "israele-lista-unita-raccomandazione-eisenkot-herzog-1-novembre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Israele, secondo Walla la Lista Unita sosterrà Eisenkot nelle consultazioni",
+      "summary": "La coalizione di partiti arabi sarebbe orientata a indicare Gadi Eisenkot come candidato premier al presidente Herzog.",
+      "body": [
+        "Il sito israeliano Walla, ripreso da ANSA, riferisce che la Lista Unita avrebbe deciso in via semiufficiale di raccomandare Gadi Eisenkot al presidente Isaac Herzog in occasione delle consultazioni per il governo.",
+        "Secondo la stessa ricostruzione, anche Ra'am potrebbe orientarsi sulla medesima scelta. Si tratta di indicazioni riportate dai media, non di una nomina formale."
+      ],
+      "publishedAt": "2026-11-01T13:04:00+01:00",
+      "verifiedAt": "2026-11-02T05:08:39.738Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/01/media-lista-unita-raccomandera-eisenkot-come-premier-a-herzog_76746086-3963-4b07-aba9-06c6834bdf4e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T05:08:39.738Z",
+        "dateEvidence": "ANSA, Tel Aviv, 1 novembre 2026 ore 13:04, notizia attribuita al sito israeliano Walla. Fonte originale riletta il 2 novembre 2026; ANSA con limite gratuito mensile ove applicabile.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
