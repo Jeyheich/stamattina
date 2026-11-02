@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "collectionId": "2026-11-02-pomeriggio",
-  "id": "2026-11-02-batches-f556893ef749",
+  "id": "2026-11-02-batches-854a18d527ad",
   "mode": "live",
   "editionDate": "2026-11-02",
-  "generatedAt": "2026-11-02T16:21:14.200Z",
+  "generatedAt": "2026-11-02T16:22:01.509Z",
   "timezone": "Europe/Rome",
   "scheduledFor": "2026-11-02T19:00:00+01:00",
   "essentialIds": [
@@ -1435,6 +1435,228 @@
       }
     },
     {
+      "id": "roma-fosso-osa-chiusura-maltempo",
+      "eventKey": "roma-fosso-dellosa-chiusura-maltempo-bus-045-051-314-2-novembre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Maltempo, chiusa via Fosso dell'Osa e deviate tre linee",
+      "summary": "La chiusura riguarda il tratto fra via Rocca di Cambio e via Elice.",
+      "body": [
+        "Dal pomeriggio del 2 novembre, per allerta maltempo, è chiusa via Fosso dell'Osa tra via Rocca di Cambio e via Elice. Roma Servizi per la Mobilità segnala deviazioni per i bus 045, 051 e 314.",
+        "Le modifiche sono annunciate come valide dalle 15:38 del 2 novembre fino alle 19 del 3 novembre, salvo ulteriori aggiornamenti."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-02T16:21:15.789Z",
+      "source": {
+        "name": "Roma Servizi per la Mobilità",
+        "url": "https://romamobilita.it/infomobilita/chiuso-un-tratto-di-via-fosso-dellosa-deviazioni-bus/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:21:15.789Z",
+        "dateEvidence": "Roma Mobilità, pubblicato e aggiornato 02/11/2026; validità dal 02/11 ore 15:38.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-balduina-alberi-strada-chiusa",
+      "eventKey": "roma-balduina-alberi-carreggiata-chiusura-bus-990-2-novembre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Balduina, alberi sulla strada: devia la linea 990",
+      "summary": "Interrotto un tratto di via della Balduina fra le vie Bitossi e Biasucci.",
+      "body": [
+        "Roma Mobilità segnala il 2 novembre una chiusura temporanea di via della Balduina per alberi sulla carreggiata, nel tratto fra via Giancarlo Bitossi e via Luigi Biasucci.",
+        "La linea 990 viene deviata lungo via Trionfale, piazzale delle Medaglie d'Oro e via delle Medaglie d'Oro. L'avviso indica validità fino alle 19 del 2 novembre, salvo aggiornamenti."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-02T16:21:15.789Z",
+      "source": {
+        "name": "Roma Servizi per la Mobilità",
+        "url": "https://romamobilita.it/infomobilita/alberi-sulla-carreggiata-chiuso-un-tratto-di-via-della-balduina/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:21:15.789Z",
+        "dateEvidence": "Roma Mobilità, pubblicato 02/11/2026; avviso valido dalle 12:14 alle 19:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-bus-orari-scolastici-016-559-765",
+      "eventKey": "roma-linee-016-559-765-nuovi-orari-scuole-2-novembre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Cambiano gli orari delle linee 016, 559 e 765",
+      "summary": "Le modifiche feriali puntano anche a migliorare i collegamenti degli studenti.",
+      "body": [
+        "Dal 2 novembre sono in vigore nuovi orari per le linee 016, 559 e 765. La 559 Anagnina-Cinecittà ha tempi di percorrenza rivisti, mentre sulla 016 la corsa da Antifane delle 14:05 viene spostata alle 14:15.",
+        "Per la 765 vengono posticipate due partenze scolastiche, da Grotte d'Arcaccio e Laurentina, rispettivamente alle 14:15 e alle 14:25. La fonte specifica che le variazioni riguardano il servizio feriale."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-11-02T16:21:15.789Z",
+      "source": {
+        "name": "Roma Servizi per la Mobilità",
+        "url": "https://romamobilita.it/infomobilita/dal-2-novembre-nuovi-orari-per-le-linee-di-bus-016-559-e-765/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:21:15.789Z",
+        "dateEvidence": "Roma Mobilità, pubblicato 30/10/2026, aggiornato 02/11/2026; validità dal 02/11.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "updatedAt": "2026-11-02"
+    },
+    {
+      "id": "roma-anguillarese-deviazione-linea-024",
+      "eventKey": "roma-anguillarese-cantiere-deviazione-bus-024-via-quero-30-ottobre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Via Anguillarese, la linea 024 devia su via Quero",
+      "summary": "Un cantiere modifica temporaneamente il percorso del bus.",
+      "body": [
+        "La linea 024 è deviata su via Quero per la chiusura di un tratto di via Anguillarese dovuta a un cantiere. L'avviso di Roma Servizi per la Mobilità è stato pubblicato il 30 ottobre.",
+        "La deviazione resta indicata come valida fino al 6 novembre alle 23. L'informazione è riportata con la data originale, senza presentarla come una nuova decisione del 2 novembre."
+      ],
+      "publishedAt": "2026-10-30",
+      "verifiedAt": "2026-11-02T16:21:15.789Z",
+      "source": {
+        "name": "Roma Servizi per la Mobilità",
+        "url": "https://romamobilita.it/infomobilita/linea-024-bus-deviati-per-chiusura-su-via-anguillarese/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:21:15.789Z",
+        "dateEvidence": "Roma Mobilità, pubblicato e aggiornato 30/10/2026; validità fino al 06/11/2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-cerimonie-4-novembre-viabilita",
+      "eventKey": "roma-cerimonie-4-novembre-2026-circo-massimo-piazza-venezia-divieti",
+      "category": "Roma",
+      "status": "verified",
+      "title": "4 novembre, limitazioni fra piazza Venezia e Circo Massimo",
+      "summary": "La cerimonia all'Altare della Patria e il Villaggio della Difesa comportano divieti e deviazioni.",
+      "body": [
+        "In vista della Giornata dell'Unità Nazionale e delle Forze Armate, Roma Servizi per la Mobilità aggiorna le modifiche alla viabilità tra Circo Massimo e piazza Venezia. Nell'area del Villaggio della Difesa sono previsti divieti di sosta e chiusure fino al 4 novembre.",
+        "Il 4 novembre, dalle 7, sono annunciate deviazioni e limitazioni per numerose linee di bus attorno a piazza Venezia; alcune chiusure riguarderanno anche il Quirinale. Il provvedimento è stato pubblicato il 28 ottobre e aggiornato il 2 novembre."
+      ],
+      "publishedAt": "2026-10-28",
+      "verifiedAt": "2026-11-02T16:21:15.789Z",
+      "source": {
+        "name": "Roma Servizi per la Mobilità",
+        "url": "https://romamobilita.it/primo-piano/cerimonie-4-novembre-la-viabilita/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:21:15.789Z",
+        "dateEvidence": "Roma Mobilità, pubblicato 28/10/2026 e aggiornato 02/11/2026; evento 04/11.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "updatedAt": "2026-11-02"
+    },
+    {
+      "id": "cultura-museo-diocesano-milano-25-anni",
+      "eventKey": "museo-diocesano-milano-25-anni-ingresso-gratuito-5-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Museo Diocesano di Milano, ingresso gratuito per i 25 anni",
+      "summary": "Il 5 novembre visite guidate speciali e accesso libero per il compleanno del museo.",
+      "body": [
+        "Il Museo Diocesano Carlo Maria Martini di Milano festeggerà il 5 novembre i 25 anni dall'apertura con ingresso gratuito e visite guidate dello staff.",
+        "Il programma comprende restauri di opere di Guido Reni ed Emilio Longoni, oltre a nuove esposizioni. L'Annunciazione di Artemisia Gentileschi resterà in prestito da Capodimonte fino al 31 gennaio 2027."
+      ],
+      "publishedAt": "2026-11-02T15:20:00+01:00",
+      "verifiedAt": "2026-11-02T16:21:32.842Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/02/il-museo-diocesano-di-milano-festeggia-25-anni-fra-restauri-e-ingressi-gratis_16fd6f9f-adf3-4bf0-8104-5a58e416226e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:21:32.842Z",
+        "dateEvidence": "ANSA Arte, MILANO, 02 novembre 2026, ore 15:20; anniversario il 05/11.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-kurt-elling-yellowjackets-bologna",
+      "eventKey": "bologna-jazz-festival-elling-yellowjackets-weather-report-3-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Elling e Yellowjackets rileggono i Weather Report a Bologna",
+      "summary": "Il 3 novembre il Teatro Duse ospita il progetto «Celebrate Weather Report».",
+      "body": [
+        "Kurt Elling e gli Yellowjackets saranno al Teatro Duse di Bologna il 3 novembre alle 21:15 per il Bologna Jazz Festival.",
+        "Il progetto «Celebrate Weather Report» rilegge il repertorio della formazione jazz fusion con arrangiamenti originali. Sul palco con Elling sono annunciati Bob Mintzer, Russell Ferrante, Dane Alderson e Marcus Finnie."
+      ],
+      "publishedAt": "2026-11-02T15:18:00+01:00",
+      "verifiedAt": "2026-11-02T16:21:32.842Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/02/kurt-elling-e-yellowjackets-omaggiano-i-weather-report-al-bologna-jazz-festival_0625dcf2-2dbc-4702-9cba-e82c3d18673e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:21:32.842Z",
+        "dateEvidence": "ANSA Musica, BOLOGNA, 02 novembre 2026, ore 15:18; concerto 03/11.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-schermo-arte-firenze-2026",
+      "eventKey": "festival-lo-schermo-dellarte-firenze-11-15-novembre-2026-programma",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Lo schermo dell'arte porta a Firenze cinema e temi del presente",
+      "summary": "Il festival dall'11 al 15 novembre affronterà ambiente, guerra e trasformazioni tecnologiche.",
+      "body": [
+        "La diciannovesima edizione di «Lo schermo dell'arte» è in programma a Firenze dall'11 al 15 novembre, con anteprime italiane e mondiali dedicate anche alla crisi ecologica e ai conflitti.",
+        "L'apertura prevede una mostra su Jean-Luc Godard e il film «Euphoria» di Julian Rosefeldt. Il cartellone comprende un focus sull'artista Saodat Ismailova e iniziative per studenti e famiglie."
+      ],
+      "publishedAt": "2026-11-02T16:47:00+01:00",
+      "verifiedAt": "2026-11-02T16:21:32.842Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/dalla-crisi-ecologica-alla-guerra-film-in-anteprima-con-lo-schermo-dellarte_2c3e9618-b2a9-4853-a666-b1051e483d33.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:21:32.842Z",
+        "dateEvidence": "ANSA Cinema, FIRENZE, 02 novembre 2026, ore 16:47; festival 11-15 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-giovanni-gentile-editore-scomparsa",
+      "eventKey": "giovanni-gentile-editore-le-lettere-firenze-morte-2-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "È morto Giovanni Gentile, editore de Le Lettere",
+      "summary": "Il fondatore della casa editrice fiorentina aveva 88 anni.",
+      "body": [
+        "È morto a Firenze, a 88 anni, Giovanni Gentile, che nel 1976 aveva fondato con il padre Federico la casa editrice Le Lettere. Era nipote dell'omonimo filosofo.",
+        "Nel corso della carriera aveva lavorato anche alla Sansoni e ricoperto incarichi in istituzioni culturali e associative, tra cui la presidenza di Confindustria Firenze. La Regione Toscana ne ha ricordato il contributo al mondo editoriale."
+      ],
+      "publishedAt": "2026-11-02T16:23:00+01:00",
+      "verifiedAt": "2026-11-02T16:21:32.842Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/02/e-morto-leditore-giovanni-gentile-fondatore-de-le-lettere-a-firenze_0e744f46-1c2b-42e3-af97-228a6e8f7478.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:21:32.842Z",
+        "dateEvidence": "ANSA Libri, FIRENZE, 02 novembre 2026, ore 16:23; annuncio della scomparsa.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-dustin-hoffman-il-laureato-ricordi",
+      "eventKey": "dustin-hoffman-racconta-difficolta-riprese-il-laureato-saggio-new-yorker-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Dustin Hoffman racconta le insicurezze sul set de «Il laureato»",
+      "summary": "In un saggio l'attore ripercorre il disagio provato durante il film di Mike Nichols.",
+      "body": [
+        "Dustin Hoffman ha ricordato in un saggio per The New Yorker quanto fosse difficile per lui interpretare Benjamin Braddock ne «Il laureato», il film del 1967 che ne segnò la carriera.",
+        "L'attore ha raccontato di non sentirsi adatto al ruolo e di aver temuto il giudizio del regista Mike Nichols. Ha descritto un clima di lavoro teso e il timore ricorrente di essere sostituito."
+      ],
+      "publishedAt": "2026-11-02T16:24:00+01:00",
+      "verifiedAt": "2026-11-02T16:21:32.842Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/dustin-hoffman-girare-ll-laureato-e-stata-unesperienza-terribile-per-me_4de57af8-5c4e-40d1-9d18-beb4ef2907dd.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:21:32.842Z",
+        "dateEvidence": "ANSA Cinema, NEW YORK, 02 novembre 2026, ore 16:24; saggio e intervista.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
       "id": "tecnologia-papa-ai-armi-autonome",
       "eventKey": "papa-leone-xiv-invito-bando-armi-letali-autonome-discorso-ai-2-novembre-2026",
       "category": "Tecnologia · AI",
@@ -1676,6 +1898,16 @@
     "cronaca-morbegno-intimidazione",
     "cronaca-torre-greco-rapina-minore",
     "cronaca-campobasso-fiore-sospeso",
+    "roma-fosso-osa-chiusura-maltempo",
+    "roma-balduina-alberi-strada-chiusa",
+    "roma-bus-orari-scolastici-016-559-765",
+    "roma-anguillarese-deviazione-linea-024",
+    "roma-cerimonie-4-novembre-viabilita",
+    "cultura-museo-diocesano-milano-25-anni",
+    "cultura-kurt-elling-yellowjackets-bologna",
+    "cultura-schermo-arte-firenze-2026",
+    "cultura-giovanni-gentile-editore-scomparsa",
+    "cultura-dustin-hoffman-il-laureato-ricordi",
     "tecnologia-papa-ai-armi-autonome",
     "tecnologia-spotify-remix-ai",
     "tecnologia-chatgpt-link-vulnerabilita",
