@@ -1,10 +1,9 @@
 {
-  "editionDate": "2026-11-01",
-  "checkedAt": "2026-11-01T16:18:14.935Z",
-  "ready": true,
-  "editorialComplete": true,
-  "reserveMissing": [],
-  "completed": [
+  "editionDate": "2026-11-02",
+  "checkedAt": "2026-11-02T05:07:28.913Z",
+  "ready": false,
+  "editorialComplete": false,
+  "reserveMissing": [
     "politica",
     "esteri",
     "economia",
@@ -14,583 +13,120 @@
     "tecnologia",
     "sport"
   ],
+  "completed": [
+    "politica"
+  ],
   "inProgress": [],
-  "missing": [],
+  "missing": [
+    "esteri",
+    "economia",
+    "cronaca",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
+  ],
   "invalid": [],
   "stories": [
     {
-      "id": "politica-meloni-riforma-rai-novembre",
+      "id": "politica-rai-riforma-parlamento",
       "category": "Politica",
-      "title": "Meloni sostiene che la riforma della Rai sia in fase avanzata",
+      "title": "Meloni giudica avanzato l'esame parlamentare della riforma Rai",
       "eventKey": "meloni-riforma-rai-parlamento-buon-punto-dichiarazioni-1-novembre-2026"
     },
     {
-      "id": "politica-conte-critica-manovra-scuola",
+      "id": "politica-meloni-quirinale",
       "category": "Politica",
-      "title": "Conte contesta la manovra su scuola, pensioni e difesa",
-      "eventKey": "conte-critica-manovra-2027-tagli-scuola-e-spese-difesa-1-novembre-2026"
-    },
-    {
-      "id": "politica-conte-condizioni-renzi",
-      "category": "Politica",
-      "title": "Conte chiede garanzie su Renzi e riapre il tema del reddito di cittadinanza",
-      "eventKey": "conte-chiede-garanzie-su-renzi-e-reddito-cittadinanza-al-tavolo-31-ottobre-2026"
-    },
-    {
-      "id": "politica-ipsos-fdi-vannacci",
-      "category": "Politica",
-      "title": "Sondaggio Ipsos: FdI al 26,7%, Futuro nazionale al 7,9%",
-      "eventKey": "sondaggio-ipsos-31-ottobre-2026-fdi-26-7-vannacci-7-9"
-    },
-    {
-      "id": "politica-mattarella-giovani-comunita",
-      "category": "Politica",
-      "title": "Mattarella invita i giovani a costruire il futuro e rafforzare la comunità",
-      "eventKey": "mattarella-villa-nazareth-ottantesimo-giovani-comunita-31-ottobre-2026"
-    },
-    {
-      "id": "esteri-zelensky-bilancio-fronte-ottobre",
-      "category": "Esteri",
-      "title": "Zelensky rivendica progressi sul fronte e invita Mosca alla diplomazia",
-      "eventKey": "zelensky-bilancio-ottobre-2026-territorio-riconquistato-dichiarazioni-1-novembre"
-    },
-    {
-      "id": "esteri-portogallo-sgomberi-protesta-casa",
-      "category": "Esteri",
-      "title": "Portogallo, sgomberati accampamenti contro la crisi abitativa",
-      "eventKey": "portogallo-sgomberi-proteste-crisi-abitativa-lisbona-porto-1-novembre-2026"
-    },
-    {
-      "id": "esteri-iran-esercito-avvertimento-usa",
-      "category": "Esteri",
-      "title": "L'esercito iraniano avverte gli USA sulle conseguenze di nuovi attacchi",
-      "eventKey": "esercito-iran-avverte-usa-possibile-conflitto-piu-lungo-1-novembre-2026"
-    },
-    {
-      "id": "esteri-israele-lista-unita-eisenkot",
-      "category": "Esteri",
-      "title": "Israele, la Lista Unita orientata a sostenere Eisenkot nelle consultazioni",
-      "eventKey": "israele-lista-unita-sostegno-eisenkot-consultazioni-herzog-1-novembre-2026"
-    },
-    {
-      "id": "esteri-texas-voto-anticipato",
-      "category": "Esteri",
-      "title": "Midterm USA, in Texas 7,5 milioni di voti anticipati",
-      "eventKey": "texas-voto-anticipato-7-milioni-500mila-midterm-2026"
-    },
-    {
-      "id": "economia-ue-commissione-pacchi-ecommerce",
-      "category": "Economia",
-      "title": "Pacchi extra-Ue, entra in vigore la commissione europea da due euro",
-      "eventKey": "ue-commissione-gestione-due-euro-pacchi-extraue-1-novembre-2026"
-    },
-    {
-      "id": "economia-concordato-adesioni",
-      "category": "Economia",
-      "title": "Concordato preventivo, adesioni in scadenza il 2 novembre",
-      "eventKey": "concordato-preventivo-biennale-scadenza-2-novembre-2026"
-    },
-    {
-      "id": "economia-aiuti-energia-imprese",
-      "category": "Economia",
-      "title": "Energia, aiuti alle imprese vincolati a investimenti verdi",
-      "eventKey": "manovra-2027-aiuti-energia-imprese-investimenti-verdi"
-    },
-    {
-      "id": "economia-educazione-finanziaria-novembre",
-      "category": "Economia",
-      "title": "Educazione finanziaria, un mese di incontri gratuiti in tutta Italia",
-      "eventKey": "mese-educazione-finanziaria-nona-edizione-novembre-2026"
-    },
-    {
-      "id": "economia-borsa-milano-30-ottobre",
-      "category": "Economia",
-      "title": "Piazza Affari chiude l'ultima seduta di ottobre in calo dell'1%",
-      "eventKey": "borsa-milano-ftse-mib-chiusura-30-ottobre-2026"
-    },
-    {
-      "id": "cronaca-ancona-poliziotta-ferita",
-      "category": "Cronaca",
-      "title": "Ancona, agente ferita da uno sparo all'interno della questura",
-      "eventKey": "ancona-questura-colpo-pistola-poliziotta-ferita-1-novembre-2026"
-    },
-    {
-      "id": "cronaca-bosnia-rientro-salme",
-      "category": "Cronaca",
-      "title": "Elicottero caduto in Bosnia, previsto lunedì il rientro delle salme",
-      "eventKey": "bosnia-elicottero-militare-rientro-salme-ciampino-2-novembre-2026"
-    },
-    {
-      "id": "cronaca-arezzo-broker-fermo",
-      "category": "Cronaca",
-      "title": "Arezzo, broker trovato morto: fermato un uomo di 29 anni",
-      "eventKey": "arezzo-broker-luciano-bonfiglio-morto-fermo-29enne-1-novembre-2026"
-    },
-    {
-      "id": "cronaca-torino-controlli-halloween",
-      "category": "Cronaca",
-      "title": "Torino, otto arresti e diciotto denunce nei controlli di Halloween",
-      "eventKey": "torino-weekend-halloween-otto-arresti-diciotto-denunce-1-novembre-2026"
-    },
-    {
-      "id": "cronaca-positano-auto-in-bilico",
-      "category": "Cronaca",
-      "title": "Positano, auto sfonda una ringhiera e rimane sospesa sul vuoto",
-      "eventKey": "positano-auto-sfonda-ringhiera-precipizio-conducente-salvo-31-ottobre-2026"
-    },
-    {
-      "id": "roma-carcaterra-rettore",
-      "category": "Roma",
-      "title": "Carcaterra eletto rettore della Sapienza dopo il ballottaggio",
-      "eventKey": "sapienza-roma-carcaterra-eletto-rettore-30-ottobre-2026"
-    },
-    {
-      "id": "roma-colosseo-sicurezza",
-      "category": "Roma",
-      "title": "Colosseo, accordo per fermare subappalti e lavori su funi",
-      "eventKey": "colosseo-stop-subappalti-edilizia-acrobatica-31-ottobre-2026"
-    },
-    {
-      "id": "roma-cortei-denunce",
-      "category": "Roma",
-      "title": "Cortei a Roma, sette denunciati e 369 persone identificate",
-      "eventKey": "roma-cortei-sette-denunciati-369-identificati-31-ottobre-2026"
-    },
-    {
-      "id": "roma-ostia-antidroga",
-      "category": "Roma",
-      "title": "Ostia e Castel Fusano, venti arresti nell'operazione antidroga",
-      "eventKey": "roma-ostia-castel-fusano-venti-arresti-droga-31-ottobre-2026"
-    },
-    {
-      "id": "roma-fori-imperiali-pedonali",
-      "category": "Roma",
-      "title": "Fori Imperiali pedonali nel fine settimana, resta il presidio",
-      "eventKey": "roma-fori-imperiali-isola-pedonale-fine-settimana-1-novembre-2026"
-    },
-    {
-      "id": "cultura-one-piece-lucca",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "One Piece a Lucca: due episodi in anteprima prima della TV",
-      "eventKey": "one-piece-wa-anteprima-lucca-italia2-31-ottobre-2026"
-    },
-    {
-      "id": "cultura-impero-sensi-restauro",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "L'impero dei sensi torna in sala restaurato e integrale",
-      "eventKey": "impero-dei-sensi-restaurato-uncut-sala-9-novembre-2026"
-    },
-    {
-      "id": "cultura-denitza-boheme-rsa",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "A 87 anni continua a cantare Puccini nella residenza per anziani",
-      "eventKey": "denitza-serghieva-maggio-musicale-boheme-rsa-31-ottobre-2026"
-    },
-    {
-      "id": "cultura-bagutta-centenario",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Il Premio Bagutta compie cent'anni con una mostra a Roma",
-      "eventKey": "premio-bagutta-centenario-mostra-casa-bellonci-novembre-2026"
-    },
-    {
-      "id": "cultura-lella-costa-monologhi-cometa",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Lella Costa riporta in scena I Monologhi della Vagina",
-      "eventKey": "lella-costa-monologhi-vagina-teatro-cometa-3-8-novembre-2026"
-    },
-    {
-      "id": "tecnologia-wikimedia-fair-use-ai",
-      "category": "Tecnologia · AI",
-      "title": "Wikimedia interviene nella causa sul copyright tra New York Times e OpenAI",
-      "eventKey": "wikimedia-amicus-brief-nyt-openai-conoscenza-aperta-1-novembre-2026"
-    },
-    {
-      "id": "tecnologia-standard-crawler-ai",
-      "category": "Tecnologia · AI",
-      "title": "Proposto un comando unico per escludere i crawler usati nell'addestramento AI",
-      "eventKey": "ietf-proposta-robots-usage-ai-training-anthropic-31-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-binance-attacco-multichain",
-      "category": "Tecnologia · AI",
-      "title": "Binance conferma un attacco ai wallet: gli investigatori seguono dieci blockchain",
-      "eventKey": "binance-furto-63-miliardi-criptovalute-tradertraitor-30-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-petit-planet-switch2",
-      "category": "Tecnologia · AI",
-      "title": "Petit Planet arriverà anche su Switch 2, ma non al lancio di dicembre",
-      "eventKey": "hoyoverse-petit-planet-switch-2-2027-lancio-4-dicembre-2026"
-    },
-    {
-      "id": "tecnologia-sony-prezzi-dinamici",
-      "category": "Tecnologia · AI",
-      "title": "Un annuncio di lavoro segnala nuovi test sui prezzi variabili del PlayStation Store",
-      "eventKey": "sony-playstation-store-smart-pricing-annuncio-lavoro-1-novembre-2026"
-    },
-    {
-      "id": "sport-lazio-cagliari-2-1",
-      "category": "Sport",
-      "title": "Lazio in vetta da sola: rimonta il Cagliari e vince 2-1",
-      "eventKey": "lazio-cagliari-2-1-isaksen-pinamonti-primo-posto-1-novembre-2026"
-    },
-    {
-      "id": "sport-como-venezia-1-0",
-      "category": "Sport",
-      "title": "Il Como supera il Venezia con un rigore e sale al quarto posto",
-      "eventKey": "como-venezia-1-0-rigore-da-cunha-1-novembre-2026"
-    },
-    {
-      "id": "sport-juventus-napoli-vigilia",
-      "category": "Sport",
-      "title": "Juventus-Napoli, Spalletti valuta Koopmeiners e Woltemade dal primo minuto",
-      "eventKey": "juventus-napoli-formazioni-spalletti-allegri-1-novembre-2026"
-    },
-    {
-      "id": "sport-antonelli-matchpoint-messico",
-      "category": "Sport",
-      "title": "Antonelli può laurearsi campione di F1 in Messico: parte quarto",
-      "eventKey": "kimi-antonelli-gp-messico-secondo-matchpoint-titolo-1-novembre-2026"
-    },
-    {
-      "id": "sport-errani-paolini-vittoria-tokyo",
-      "category": "Sport",
-      "title": "Errani e Paolini conquistano il titolo di doppio a Tokyo",
-      "eventKey": "errani-paolini-vincono-finale-doppio-tokyo-6-2-6-2-1-novembre-2026"
-    },
-    {
-      "id": "politica-meloni-quirinale-altro-mandato",
-      "category": "Politica",
-      "title": "Meloni esclude una candidatura al Quirinale e punta a un altro mandato",
+      "title": "Meloni esclude il Quirinale dai suoi programmi e guarda al voto del 2027",
       "eventKey": "meloni-esclude-corsa-quirinale-punta-altro-mandato-1-novembre-2026"
     },
     {
-      "id": "politica-salvini-banche-contributo",
+      "id": "politica-conte-renzi-primarie",
       "category": "Politica",
-      "title": "Salvini apre a un contributo bancario maggiore deciso dal Parlamento",
-      "eventKey": "salvini-parlamento-contributo-banche-oltre-cinque-miliardi-31-ottobre-2026"
+      "title": "Conte pone condizioni sulla coalizione e rilancia il reddito di cittadinanza",
+      "eventKey": "conte-chiede-garanzie-su-renzi-e-reddito-cittadinanza-al-tavolo-31-ottobre-2026"
     },
     {
-      "id": "politica-guerini-aiuti-kiev",
+      "id": "politica-manovra-magistrati",
       "category": "Politica",
-      "title": "Guerini propone più sostegno militare all'Ucraina in caso di governo Pd",
-      "eventKey": "guerini-pd-propone-maggiori-aiuti-militari-ucraina-31-ottobre-2026"
+      "title": "La manovra modifica il calcolo degli adeguamenti retributivi dei magistrati",
+      "eventKey": "manovra-2027-nuovo-calcolo-adeguamenti-magistrati-articolo-67-1-novembre"
     },
     {
-      "id": "politica-schlein-establishment",
+      "id": "politica-conte-critica-bilancio",
       "category": "Politica",
-      "title": "Schlein rivendica l'autonomia del Pd e critica parte dell'establishment",
-      "eventKey": "schlein-establishment-autonomia-pd-intervista-vespa-31-ottobre-2026"
-    },
-    {
-      "id": "politica-redditi-parlamentari",
-      "category": "Politica",
-      "title": "Redditi dei parlamentari, pubblicati nuovi dati sulle dichiarazioni",
-      "eventKey": "dichiarazioni-redditi-parlamentari-di-giuseppe-lupi-tajani-30-ottobre-2026"
-    },
-    {
-      "id": "esteri-barcellona-blitz-halloween",
-      "category": "Esteri",
-      "title": "Barcellona, operazione di polizia contro i disordini annunciati per Halloween",
-      "eventKey": "barcellona-polizia-blitz-halloween-blocus-3-arresti-1-novembre-2026"
-    },
-    {
-      "id": "esteri-polonia-ue-giudici",
-      "category": "Esteri",
-      "title": "La Commissione UE sollecita la ratifica di otto giudici in Polonia",
-      "eventKey": "commissione-europea-chiede-polonia-ratifica-otto-giudici-31-ottobre-2026"
-    },
-    {
-      "id": "esteri-francia-proteste-carovita",
-      "category": "Esteri",
-      "title": "Francia, proteste contro il carovita e centinaia di fermi",
-      "eventKey": "francia-proteste-carovita-31-ottobre-2026-320mila-565-fermi"
-    },
-    {
-      "id": "esteri-rubio-lavrov-apec",
-      "category": "Esteri",
-      "title": "Rubio riferisce di colloqui su un possibile incontro Trump-Putin",
-      "eventKey": "rubio-lavrov-discutono-possibile-incontro-putin-trump-apec-31-ottobre-2026"
-    },
-    {
-      "id": "esteri-ucraina-oleshky-evacuati",
-      "category": "Esteri",
-      "title": "Oleshky, Zelensky annuncia il rientro degli evacuati in Ucraina",
-      "eventKey": "oleshky-evacuati-ucraini-rientrano-chernihiv-31-ottobre-2026"
-    },
-    {
-      "id": "economia-magistrati-stipendi-manovra",
-      "category": "Economia",
-      "title": "Magistrati, la manovra cambia il calcolo degli adeguamenti",
-      "eventKey": "manovra-2027-calcolo-aumenti-magistrati-media-ponderata-arretrati"
-    },
-    {
-      "id": "economia-banche-piccole-ires",
-      "category": "Economia",
-      "title": "Piccole banche, dubbi sull'esenzione dall'aumento Ires",
-      "eventKey": "piccole-banche-soglia-ires-6-7-milioni-manovra-2027"
-    },
-    {
-      "id": "economia-assoutenti-rincari-ortaggi",
-      "category": "Economia",
-      "title": "Prezzi al consumo, Assoutenti segnala forti rincari a ottobre",
-      "eventKey": "assoutenti-ottobre-2026-rincari-ortaggi-tecnologia-energia"
-    },
-    {
-      "id": "economia-superbonus-crediti-dieci-rate",
-      "category": "Economia",
-      "title": "Superbonus, ipotesi di rinvio delle compensazioni in dieci anni",
-      "eventKey": "manovra-2027-superbonus-crediti-2023-compensazioni-dieci-rate"
-    },
-    {
-      "id": "economia-mimit-carburanti-primo-novembre",
-      "category": "Economia",
-      "title": "Carburanti, il Mimit pubblica i prezzi medi del 1° novembre",
-      "eventKey": "mimit-prezzi-carburanti-self-1-novembre-2026-benzina-2010-gasolio-2241"
-    },
-    {
-      "id": "cronaca-talamona-scritte-naziste",
-      "category": "Cronaca",
-      "title": "Talamona, scritte naziste sull'asfalto: indignazione in paese",
-      "eventKey": "talamona-valtellina-svastiche-scritte-naziste-31-ottobre-2026"
-    },
-    {
-      "id": "cronaca-roma-bimbo-mela",
-      "category": "Cronaca",
-      "title": "Roma, bambino di diciotto mesi morto per soffocamento",
-      "eventKey": "roma-la-storta-bimbo-18-mesi-soffocamento-mela-28-ottobre-2026"
-    },
-    {
-      "id": "cronaca-pistoia-donazione-fegato",
-      "category": "Cronaca",
-      "title": "Pistoia, il fegato donato da una donna di 98 anni salva una vita",
-      "eventKey": "pistoia-donazione-fegato-98enne-annina-sensi-31-ottobre-2026"
-    },
-    {
-      "id": "cronaca-foggiano-maltempo",
-      "category": "Cronaca",
-      "title": "Maltempo nel Foggiano, fango sulle strade e case allagate",
-      "eventKey": "poggio-imperiale-lesina-allagamenti-maltempo-31-ottobre-2026"
-    },
-    {
-      "id": "cronaca-ostuni-docente-giudizio",
-      "category": "Cronaca",
-      "title": "Ostuni, docente citato a giudizio per presunte minacce a un alunno",
-      "eventKey": "ostuni-professore-accusato-violenza-privata-alunno-citazione-giudizio-31-ottobre-2026"
-    },
-    {
-      "id": "roma-bernini-elefante-condanna",
-      "category": "Roma",
-      "title": "Elefantino del Bernini, condanna per il danneggiamento",
-      "eventKey": "elefantino-bernini-danneggiamento-condanna-29-ottobre-2026"
-    },
-    {
-      "id": "roma-riscaldamenti-calendario",
-      "category": "Roma",
-      "title": "Roma, riscaldamenti dal 15 novembre all'8 aprile",
-      "eventKey": "roma-ordinanza-riscaldamenti-15-novembre-8-aprile-2027"
-    },
-    {
-      "id": "roma-fascia-verde-ordinanza",
-      "category": "Roma",
-      "title": "Fascia Verde, confermati i divieti già in vigore",
-      "eventKey": "roma-fascia-verde-ordinanza-144-divieti-1-novembre-2026"
-    },
-    {
-      "id": "roma-fonte-nuova-nomentana",
-      "category": "Roma",
-      "title": "Fonte Nuova, deviazioni sulla Nomentana per l'evento di Halloween",
-      "eventKey": "fonte-nuova-halloween-chiusura-nomentana-31-ottobre-1-novembre-2026"
-    },
-    {
-      "id": "roma-via-goito-lavori-notturni",
-      "category": "Roma",
-      "title": "Via Goito, lavori notturni fino al 3 novembre",
-      "eventKey": "roma-via-goito-lavori-notturni-bus-38-92-360-n92-31-ottobre-2026"
-    },
-    {
-      "id": "cultura-criminal-minds-finale",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Criminal Minds si concluderà con la ventesima stagione",
-      "eventKey": "criminal-minds-evolution-ventesima-stagione-ultima-2027"
-    },
-    {
-      "id": "cultura-cotugno-clima-libro",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Un saggio indaga chi sostiene i costi della crisi climatica",
-      "eventKey": "ferdinando-cotugno-chi-paga-conto-clima-saggio-2026"
-    },
-    {
-      "id": "cultura-corto-maltese-orchidee",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Corto Maltese torna con La casa delle orchidee bianche",
-      "eventKey": "corto-maltese-casa-orchidee-bianche-igort-steiner-novembre-2026"
-    },
-    {
-      "id": "cultura-maraini-novanta-libro",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Dacia Maraini racconta la propria vita alla vigilia dei novant'anni",
-      "eventKey": "dacia-maraini-novanta-anni-agro-e-dolce-libro-2026"
-    },
-    {
-      "id": "cultura-eduardo-san-carlo",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Il San Carlo ricorda Eduardo De Filippo a 42 anni dalla morte",
-      "eventKey": "teatro-san-carlo-ricorda-eduardo-de-filippo-31-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-protezione-minori-chatgpt",
-      "category": "Tecnologia · AI",
-      "title": "Nuovi controlli per gli adolescenti che usano ChatGPT",
-      "eventKey": "openai-chatgpt-nuove-protezioni-minori-31-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-meta-antitrust-uk",
-      "category": "Tecnologia · AI",
-      "title": "L'antitrust britannico indaga sulle condizioni commerciali di Meta",
-      "eventKey": "cma-indagine-meta-condizioni-commerciali-uk-30-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-gemini-editing-chat",
-      "category": "Tecnologia · AI",
-      "title": "Gemini permette di correggere i file direttamente nella conversazione",
-      "eventKey": "google-gemini-modifica-pdf-documenti-nella-chat-30-ottobre-2026"
-    },
-    {
-      "id": "tecnologia-persona-remake-rumor",
-      "category": "Tecnologia · AI",
-      "title": "Un video alimenta le voci su un remake del primo Persona",
-      "eventKey": "persona-primo-capitolo-presunto-remake-video-non-confermato-1-novembre-2026"
-    },
-    {
-      "id": "tecnologia-ocarina-remake-27gb",
-      "category": "Tecnologia · AI",
-      "title": "Il remake di Ocarina of Time dovrebbe occupare 27 GB su Switch 2",
-      "eventKey": "zelda-ocarina-time-remake-switch2-dimensione-27gb-1-novembre-2026"
-    },
-    {
-      "id": "sport-frosinone-torino-2-0",
-      "category": "Sport",
-      "title": "Il Frosinone batte il Torino 2-0 con Ghedjemis e Calò",
-      "eventKey": "frosinone-torino-2-0-ghedjemis-calo-1-novembre-2026"
-    },
-    {
-      "id": "sport-milan-inter-derby",
-      "category": "Sport",
-      "title": "Il Milan vince il derby 3-1: Moreira protagonista",
-      "eventKey": "milan-batte-inter-3-1-derby-31-ottobre-2026"
-    },
-    {
-      "id": "sport-udinese-roma-2-5",
-      "category": "Sport",
-      "title": "Cinque reti della Roma a Udine: successo per 5-2",
-      "eventKey": "roma-vince-udinese-5-2-31-ottobre-2026"
-    },
-    {
-      "id": "sport-hamilton-pole-messico",
-      "category": "Sport",
-      "title": "Hamilton torna in pole in Messico, Antonelli scatterà quarto",
-      "eventKey": "hamilton-pole-ferrari-gp-messico-qualifiche-31-ottobre-2026"
-    },
-    {
-      "id": "sport-alcaraz-trionfa-vienna",
-      "category": "Sport",
-      "title": "Alcaraz conquista Vienna battendo De Minaur in due set",
-      "eventKey": "alcaraz-batte-de-minaur-finale-vienna-6-1-6-4-1-novembre-2026"
+      "title": "Conte contesta la distribuzione delle risorse nella manovra",
+      "eventKey": "conte-critica-manovra-2027-tagli-scuola-e-spese-difesa-1-novembre-2026"
     }
   ],
-  "collectionId": "2026-11-01-pomeriggio",
+  "collectionId": "2026-11-02-mattina",
   "reserveCounts": {
-    "Politica": 5,
-    "Esteri": 5,
-    "Economia": 5,
-    "Cronaca": 5,
-    "Roma": 5,
-    "Cultura · Teatro · Cinema": 5,
-    "Tecnologia · AI": 5,
-    "Sport": 5
+    "Politica": 0,
+    "Esteri": 0,
+    "Economia": 0,
+    "Cronaca": 0,
+    "Roma": 0,
+    "Cultura · Teatro · Cinema": 0,
+    "Tecnologia · AI": 0,
+    "Sport": 0
   },
   "photoCandidates": [
     {
-      "id": "politica-meloni-riforma-rai-novembre",
+      "id": "politica-rai-riforma-parlamento",
       "category": "Politica",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Chigi_Roma_giugno_2024.jpg"
-    },
-    {
-      "id": "esteri-zelensky-bilancio-fronte-ottobre",
-      "category": "Esteri",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_Official_portrait.jpg"
-    },
-    {
-      "id": "economia-borsa-milano-30-ottobre",
-      "category": "Economia",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palais_Mezzanotte_-_Milan_(IT25)_-_2022-09-03_-_3.jpg"
-    },
-    {
-      "id": "roma-carcaterra-rettore",
-      "category": "Roma",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sede_Sapienza.jpeg"
-    },
-    {
-      "id": "sport-errani-paolini-vittoria-tokyo",
-      "category": "Sport",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sara_Errani_-_Roland-Garros_-_28.05.2024_(cropped).jpg"
     }
   ],
-  "photosAvailable": 5,
+  "photosAvailable": 1,
   "categoryProgress": {
     "politica": {
       "base": 5,
-      "reserve": 5,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     },
     "esteri": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     },
     "economia": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     },
     "cronaca": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     },
     "roma": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     },
     "cultura": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     },
     "tecnologia": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     },
     "sport": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     }
   },
-  "editionId": "2026-11-01-batches-dd0bc014a221",
-  "needsPublication": false,
-  "publicVerifiedAt": "2026-11-01T16:18:44.854085+00:00",
-  "publicEditionId": "2026-11-01-batches-dd0bc014a221",
-  "publication": "verified"
+  "needsPublication": false
 }
