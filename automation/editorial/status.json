@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-02",
-  "checkedAt": "2026-11-02T06:06:51.201Z",
+  "checkedAt": "2026-11-02T06:07:09.961Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,13 +14,13 @@
     "esteri",
     "economia",
     "cronaca",
-    "tecnologia"
+    "tecnologia",
+    "sport"
   ],
   "inProgress": [],
   "missing": [
     "roma",
-    "cultura",
-    "sport"
+    "cultura"
   ],
   "invalid": [],
   "stories": [
@@ -175,6 +175,36 @@
       "eventKey": "zelda-ocarina-time-remake-switch2-27-gb-5-novembre-2026"
     },
     {
+      "id": "sport-lazio-cagliari-vittoria",
+      "category": "Sport",
+      "title": "Lazio in testa da sola dopo il 2-1 sul Cagliari",
+      "eventKey": "lazio-cagliari-2-1-isaksen-pinamonti-primo-posto-1-novembre-2026"
+    },
+    {
+      "id": "sport-juventus-napoli-vittoria",
+      "category": "Sport",
+      "title": "Juventus batte il Napoli 2-0 e resta in corsa per l'Europa",
+      "eventKey": "juventus-napoli-2-0-alajbegovic-boga-1-novembre-2026"
+    },
+    {
+      "id": "sport-antonelli-mondiale-f1",
+      "category": "Sport",
+      "title": "Antonelli campione del mondo di Formula 1 in Messico",
+      "eventKey": "f1-antonelli-campione-mondo-gp-messico-verstappen-vince-1-novembre-2026"
+    },
+    {
+      "id": "sport-errani-paolini-tokyo",
+      "category": "Sport",
+      "title": "Errani e Paolini trionfano in doppio al WTA di Tokyo",
+      "eventKey": "errani-paolini-vincono-doppio-wta-tokyo-dabrowski-stefani-1-novembre-2026"
+    },
+    {
+      "id": "sport-milan-inter-derby",
+      "category": "Sport",
+      "title": "Milan supera l'Inter 3-1 nel derby di San Siro",
+      "eventKey": "milan-inter-3-1-pulisic-rabiot-moreira-31-ottobre-2026"
+    },
+    {
       "id": "politica-ipsos-consensi",
       "category": "Politica",
       "title": "Ipsos, FdI al 26,7% e Futuro nazionale al 7,9%",
@@ -321,9 +351,14 @@
       "id": "economia-educazione-finanziaria-novembre",
       "category": "Economia",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:897RomaBancaItalia.JPG"
+    },
+    {
+      "id": "sport-errani-paolini-tokyo",
+      "category": "Sport",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sara_Errani_-_Roland-Garros_-_28.05.2024_(cropped).jpg"
     }
   ],
-  "photosAvailable": 3,
+  "photosAvailable": 4,
   "categoryProgress": {
     "politica": {
       "base": 5,
@@ -368,7 +403,7 @@
       "complete": false
     },
     "sport": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
