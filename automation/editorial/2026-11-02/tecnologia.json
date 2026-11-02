@@ -3,7 +3,7 @@
   "editionDate": "2026-11-02",
   "collectionId": "2026-11-02-pomeriggio",
   "category": "Tecnologia · AI",
-  "completedAt": "2026-11-02T16:10:23.545Z",
+  "completedAt": "2026-11-02T16:10:58.355Z",
   "articles": [
     {
       "id": "tecnologia-freezer-europa-attacchi",
@@ -112,6 +112,118 @@
         "access": "free",
         "accessCheckedAt": "2026-11-02T16:10:23.545Z",
         "dateEvidence": "Everyeye, Alessio Marino, «2/11/2026, ore 12:48»; fonte dichiara vendite annunciate da S-GAME.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "tecnologia-papa-ai-armi-autonome",
+      "eventKey": "papa-leone-xiv-invito-bando-armi-letali-autonome-discorso-ai-2-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Leone XIV sollecita limiti internazionali alle armi autonome",
+      "summary": "Il Pontefice richiama la necessità di mantenere il controllo umano sull'impiego della forza e sulle decisioni delle macchine.",
+      "body": [
+        "In un intervento dedicato al rapporto fra scienza e intelligenza artificiale, Papa Leone XIV ha chiesto che l'AI non venga impiegata per rendere autonome le decisioni letali. Ha invitato gli Stati a intervenire nella conferenza sul controllo di determinate armi prevista a Ginevra dal 16 al 20 novembre.",
+        "Il discorso distingue gli strumenti intelligenti dalle persone e sollecita regole comuni, supervisione indipendente e responsabilità per gli eventuali danni. Il resoconto è pubblicato il 2 novembre e riferisce un intervento di fine ottobre."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-02T16:10:58.355Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/papa-leone-xiv-intelligenza-artificiale-deve-essere-disarmata/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:10:58.355Z",
+        "dateEvidence": "Punto Informatico, pagina integrale «Pubblicato il 2 nov 2026»; discorso di fine ottobre e conferenza del 16-20 novembre distinti dalla data della notizia.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-spotify-remix-ai",
+      "eventKey": "spotify-ipotesi-abbonamento-remix-cover-ai-2027-financial-times-2-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Spotify valuta un servizio aggiuntivo per remix e cover con l'AI",
+      "summary": "Secondo indiscrezioni giornalistiche, la piattaforma sta discutendo con musicisti ed etichette un'opzione a pagamento.",
+      "body": [
+        "Spotify starebbe negoziando con artisti e case discografiche un abbonamento facoltativo che permetterebbe agli utenti di trasformare brani esistenti in remix o cover tramite intelligenza artificiale.",
+        "Il Financial Times, ripreso da Punto Informatico, parla di un possibile sovrapprezzo mensile di quattro-cinque dollari e di un debutto non prima del 2027. Non sono prezzi né funzionalità ufficialmente annunciati."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-02T16:10:58.355Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/spotify-abbonamento-ai-remix-cover/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:10:58.355Z",
+        "dateEvidence": "Punto Informatico, «Pubblicato il 2 nov 2026»; progetto attribuito a fonti del Financial Times, con condizionali.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-chatgpt-link-vulnerabilita",
+      "eventKey": "chatgpt-link-condivisi-vulnerabilita-mathlive-corretta-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "ChatGPT, corretta una falla legata alle anteprime dei link condivisi",
+      "summary": "Ricercatori di sicurezza hanno segnalato un problema che poteva consentire l'accesso a conversazioni private.",
+      "body": [
+        "Parameter Labs ha descritto una vulnerabilità in cui il caricamento di contenuti interattivi associati a un link condiviso poteva consentire l'esecuzione di codice nella sessione attiva e l'accesso a chat riservate.",
+        "Il resoconto di Punto Informatico collega il problema alla gestione dei messaggi tra frame e a una libreria per le formule matematiche. La correzione sarebbe arrivata a fine ottobre; i ricercatori avrebbero ricevuto un premio di cinquemila dollari."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-02T16:10:58.355Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/chatgpt-link-condiviso-permette-leggere-chat-private/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:10:58.355Z",
+        "dateEvidence": "Punto Informatico, pagina integrale del 2 novembre 2026; scoperta Parameter Labs e correzione indicata a fine ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-ps5-firmware-1422",
+      "eventKey": "sony-ps5-firmware-26-07-14-22-00-rilasciato-2-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "PS5 riceve il firmware 14.22: Sony cita miglioramenti alla sicurezza",
+      "summary": "L'aggiornamento da circa 1,26 GB arriva dopo la versione 14.20; le ipotesi anti-jailbreak non sono confermate.",
+      "body": [
+        "Sony ha distribuito il 2 novembre un nuovo firmware per PlayStation 5, versione 26.07-14.22.00, a pochi giorni dall'aggiornamento precedente. La nota di rilascio cita miglioramenti generici alla sicurezza.",
+        "Everyeye segnala speculazioni su un possibile contrasto alle modifiche non autorizzate della console, ma non esiste conferma che la misura sia legata al lancio di GTA 6. La notizia certa è la disponibilità dell'update."
+      ],
+      "publishedAt": "2026-11-02T14:00:00+01:00",
+      "verifiedAt": "2026-11-02T16:10:58.355Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/ps5-aggiornamento-sorpresa-sony-blinda-console-rischio-jailbreak-vista-gta-6-909284.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:10:58.355Z",
+        "dateEvidence": "Everyeye, Davide Leoni, «2/11/2026, ore 14:00»; versione 14.22, file 1,26 GB e changelog generico.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-physint-mostra-kojima",
+      "eventKey": "physint-concept-design-mostra-decennale-kojima-productions-resetera-2-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "«Physint», nuovi concept fotografati alla mostra di Kojima Productions",
+      "summary": "Le immagini pubblicate da un visitatore suggeriscono richiami visivi a Metal Gear Solid, senza costituire annunci ufficiali sul gioco.",
+      "body": [
+        "Alla mostra per il decennale di Kojima Productions, un visitatore ha fotografato illustrazioni attribuite a Physint, il progetto di Hideo Kojima. Alcuni disegni evocano l'estetica di Metal Gear Solid, secondo l'interpretazione riportata da Everyeye.",
+        "Sono descritti anche elementi della sezione dedicata a OD Knock. Le fotografie provengono da un post su ResetEra: i dettagli del gioco restano parziali e non vanno presentati come caratteristiche definitive."
+      ],
+      "publishedAt": "2026-11-02T14:05:00+01:00",
+      "verifiedAt": "2026-11-02T16:10:58.355Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/physint-hideo-kojima-tocco-metal-gear-solid-909288.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T16:10:58.355Z",
+        "dateEvidence": "Everyeye, Alessio Marino, «2/11/2026, ore 14:05»; immagini descritte come post di visitatore su ResetEra.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
