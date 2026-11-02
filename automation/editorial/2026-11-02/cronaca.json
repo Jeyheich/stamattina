@@ -3,7 +3,7 @@
   "editionDate": "2026-11-02",
   "collectionId": "2026-11-02-pomeriggio",
   "category": "Cronaca",
-  "completedAt": "2026-11-02T15:19:48.806Z",
+  "completedAt": "2026-11-02T15:20:23.165Z",
   "articles": [
     {
       "id": "cronaca-verona-resta-carcere",
@@ -112,6 +112,118 @@
         "access": "free",
         "accessCheckedAt": "2026-11-02T15:19:48.806Z",
         "dateEvidence": "Articolo originale ANSA consultato integralmente il 2 novembre 2026; data e ora indicate nella pagina: 02/11/2026 12:35 Europe/Rome.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "cronaca-trieste-incendio-porto",
+      "eventKey": "trieste-porto-vecchio-incendio-magazzino-due-vittime-2-novembre",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Trieste, due persone morte nell'incendio di un magazzino del Porto Vecchio",
+      "summary": "Nel rogo di un edificio dismesso è crollato un solaio; le cause sono in accertamento.",
+      "body": [
+        "Un uomo e una donna sono stati trovati morti dopo l'incendio di un magazzino dismesso nel Porto Vecchio di Trieste, usato come riparo di fortuna da alcune persone in transito lungo la rotta balcanica.",
+        "I vigili del fuoco sono intervenuti durante la notte e hanno trovato i corpi durante le operazioni di spegnimento. È crollato un solaio; la dinamica esatta del rogo è oggetto di ricostruzione."
+      ],
+      "publishedAt": "2026-11-02T09:00:00+01:00",
+      "verifiedAt": "2026-11-02T15:20:23.165Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/incendio-nel-porto-vecchio-di-trieste-morti-un-uomo-e-una-donna_e3a5928d-fb9b-46c2-8319-75e90e02f6d3.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T15:20:23.165Z",
+        "dateEvidence": "Fonte originale ANSA aperta e letta; pubblicazione indicata: 2026-11-02 alle 09:00 ora italiana. Verifica del 2 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-polizia-criminalita-giovanile",
+      "eventKey": "polizia-operazione-nazionale-giovani-644-arresti-2-novembre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Operazione nazionale contro la criminalità giovanile: 644 arresti",
+      "summary": "Le Squadre mobili hanno controllato oltre 236mila giovani nelle ultime due settimane.",
+      "body": [
+        "La Polizia di Stato ha diffuso il bilancio di una vasta operazione contro reati commessi da giovani: 575 maggiorenni e 69 minorenni sono stati arrestati nelle ultime due settimane.",
+        "Le verifiche hanno riguardato 236.138 persone giovani, di cui 23.060 minorenni. Altri 1.695 giovani sono stati denunciati in stato di libertà; le contestazioni comprendono reati contro la persona, il patrimonio, armi e droga."
+      ],
+      "publishedAt": "2026-11-02T09:05:00+01:00",
+      "verifiedAt": "2026-11-02T15:20:23.165Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://videoembed.ansa.it/sito/notizie/cronaca/2026/11/02/contrasto-alla-criminalita-giovanile-644-arrestati-dalla-polizia_db556012-898f-436a-be31-d9e57d4e9ccc.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T15:20:23.165Z",
+        "dateEvidence": "Fonte originale ANSA aperta e letta; pubblicazione indicata: 2026-11-02 alle 09:05 ora italiana. Verifica del 2 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-morbegno-intimidazione",
+      "eventKey": "morbegno-centro-islamico-testa-maiale-messaggio-intimidatorio-1-novembre",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Morbegno, gesto intimidatorio all'ingresso di un centro islamico",
+      "summary": "Carabinieri al lavoro per identificare chi ha lasciato una testa di maiale e un messaggio.",
+      "body": [
+        "All'ingresso del Centro culturale islamico di Morbegno è stata trovata una testa di maiale accanto a un lenzuolo con una frase ostile alla comunità.",
+        "La scoperta è stata fatta da fedeli giunti per pregare. I carabinieri hanno avviato accertamenti coordinati dalla Procura di Sondrio; gli autori non risultavano identificati al momento della notizia."
+      ],
+      "publishedAt": "2026-11-01T22:01:00+01:00",
+      "verifiedAt": "2026-11-02T15:20:23.165Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://videoembed.ansa.it/sito/notizie/cronaca/2026/11/01/testa-di-maiale-davanti-a-un-centro-islamico-non-siete-ben-accetti_48a7aa06-85a4-44c9-a6e1-1a4570061bc0.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T15:20:23.165Z",
+        "dateEvidence": "Fonte originale ANSA aperta e letta; pubblicazione indicata: 2026-11-01 alle 22:01 ora italiana. Verifica del 2 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-torre-greco-rapina-minore",
+      "eventKey": "torre-del-greco-rapina-17enne-arma-aria-compressa-2-novembre",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Torre del Greco, diciassettenne ferito durante una rapina",
+      "summary": "Il ragazzo è stato dimesso dall'ospedale con una prognosi di quindici giorni.",
+      "body": [
+        "Un diciassettenne è stato ferito al labbro con un'arma ad aria compressa durante una rapina a Torre del Greco, nel Napoletano, secondo la ricostruzione preliminare degli investigatori.",
+        "I responsabili avrebbero sottratto al ragazzo un paio di occhiali. Dopo le cure all'ospedale Maresca, il giovane è stato dimesso con quindici giorni di prognosi; i carabinieri indagano."
+      ],
+      "publishedAt": "2026-11-02T09:22:00+01:00",
+      "verifiedAt": "2026-11-02T15:20:23.165Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/17enne-ferito-con-arma-ad-aria-compressa-durante-una-rapina-nel_f67a4cab-a05e-4dc7-a7a0-de44967186f2.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T15:20:23.165Z",
+        "dateEvidence": "Fonte originale ANSA aperta e letta; pubblicazione indicata: 2026-11-02 alle 09:22 ora italiana. Verifica del 2 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-campobasso-fiore-sospeso",
+      "eventKey": "campobasso-2-novembre-2026-iniziativa-fiore-sospeso-cimiteri",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Campobasso, il «fiore sospeso» per le tombe senza visite",
+      "summary": "L'iniziativa comunale permette di donare fiori ai sepolcri rimasti senza omaggi.",
+      "body": [
+        "In occasione della commemorazione dei defunti, il Comune di Campobasso ha promosso un'iniziativa per portare fiori sulle tombe meno visitate.",
+        "I cittadini possono acquistare e lasciare un fiore presso i negozi aderenti, destinandolo ai cimiteri di San Giovanni e della frazione Santo Stefano. Il progetto si ispira alla tradizione del dono sospeso."
+      ],
+      "publishedAt": "2026-11-02T10:26:00+01:00",
+      "verifiedAt": "2026-11-02T15:20:23.165Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/per-il-2-novembre-a-campobasso-arriva-il-fiore-sospeso_4a6f5e64-ee8d-4002-ae18-bef5a9838b55.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T15:20:23.165Z",
+        "dateEvidence": "Fonte originale ANSA aperta e letta; pubblicazione indicata: 2026-11-02 alle 10:26 ora italiana. Verifica del 2 novembre 2026.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
