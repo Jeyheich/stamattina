@@ -1,229 +1,117 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-11-02",
-  "collectionId": "2026-11-02-mattina",
+  "collectionId": "2026-11-02-pomeriggio",
   "category": "Cronaca",
-  "completedAt": "2026-11-02T05:16:29.540Z",
+  "completedAt": "2026-11-02T15:19:48.806Z",
   "articles": [
     {
-      "id": "cronaca-maltempo-allerta-sud",
-      "eventKey": "allerta-meteo-2-novembre-2026-puglia-basilicata-scuole-chiuse",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Maltempo, allerta arancione in Puglia e Basilicata: scuole chiuse in alcune città",
-      "summary": "Il peggioramento previsto per lunedì interessa soprattutto il Centro-Sud, con temporali e vento forte.",
-      "body": [
-        "La Protezione civile ha segnalato per il 2 novembre criticità arancioni in Puglia e Basilicata e gialle in altre cinque regioni. Un'area depressionaria sul Tirreno meridionale favorisce piogge intense e temporali sul versante adriatico e nel Mezzogiorno.",
-        "A Lecce, Brindisi e San Severo sono state disposte chiusure delle scuole. Le ordinanze sono locali e la situazione meteorologica può cambiare nel corso della giornata."
-      ],
-      "publishedAt": "2026-11-02T00:09:00+01:00",
-      "verifiedAt": "2026-11-02T05:15:35.066Z",
-      "source": {
-        "name": "Adnkronos",
-        "url": "https://www.adnkronos.com/cronaca/maltempo-oggi-italia-allerta-meteo-dove-scuole-chiuse_14DrmZi64gTfPQXDOApCYV",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T05:15:35.066Z",
-        "dateEvidence": "Fonte originale Adnkronos aperta e letta il 2 novembre 2026; data/ora di pubblicazione indicate: 2026-11-02T00:09:00+01:00.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-bosnia-rientro-vittime",
-      "eventKey": "bosnia-elicottero-chinook-quattro-militari-rientro-salme-2-novembre",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Bosnia, atteso a Ciampino il rientro delle salme dei quattro militari",
-      "summary": "Proseguono tre filoni di indagine sullo schianto del Chinook avvenuto durante una missione Eufor.",
-      "body": [
-        "È previsto per la mattina del 2 novembre l'arrivo in Italia delle salme dei quattro militari morti nello schianto di un elicottero Chinook in Bosnia. L'aereo militare dovrebbe atterrare a Ciampino; la data dei funerali dipenderà anche dagli accertamenti giudiziari.",
-        "Le autorità italiane e bosniache stanno indagando sulle cause. Gli inquirenti esamineranno rottami e registrazioni di bordo; fra le ipotesi considerate figurano un problema tecnico o un errore umano, senza conclusioni definitive."
-      ],
-      "publishedAt": "2026-11-01T19:42:00+01:00",
-      "verifiedAt": "2026-11-02T05:15:35.066Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/01/lunedi-in-italia-le-salme-dei-quattro-militari-morti-in-bosnia_5d34d699-5dfe-4198-bff4-b4a4c9e4c0a9.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T05:15:35.066Z",
-        "dateEvidence": "Fonte originale ANSA aperta e letta il 2 novembre 2026; data/ora di pubblicazione indicate: 2026-11-01T19:42:00+01:00.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-verona-insulina-interrogatorio",
+      "id": "cronaca-verona-resta-carcere",
       "eventKey": "verona-morte-jessica-dalla-chiara-marito-interrogatorio-2-novembre",
       "category": "Cronaca",
       "status": "verified",
-      "title": "Verona, atteso l'interrogatorio dell'uomo accusato di avere ucciso la moglie",
-      "summary": "Il 35enne arrestato a fine ottobre deve comparire davanti al giudice per la morte della donna nel 2024.",
+      "title": "Verona, resta in carcere l'uomo accusato della morte della moglie",
+      "summary": "Il giudice ha respinto la richiesta dei domiciliari dopo l'interrogatorio di garanzia.",
       "body": [
-        "È previsto per lunedì 2 novembre l'interrogatorio davanti al giudice di Nadir Rossi, accusato di avere provocato la morte della moglie Jessica Dalla Chiara mediante somministrazioni di insulina. L'uomo, ex infermiere, è stato arrestato il 29 ottobre.",
-        "La donna morì a Bussolengo nel giugno 2024. Secondo gli investigatori, alcune crisi ipoglicemiche avevano destato sospetti; le accuse restano da accertare nel procedimento giudiziario."
+        "Nadir Rossi, ex infermiere di 35 anni indagato per la morte della moglie Jessica Dalla Chiara, rimane in carcere: la giudice ha respinto la richiesta di arresti domiciliari presentata dalla difesa.",
+        "Durante l'interrogatorio di garanzia l'indagato si è avvalso della facoltà di non rispondere. Le accuse, tra cui omicidio aggravato, sono ancora oggetto del procedimento e non costituiscono accertamento definitivo di responsabilità."
       ],
-      "publishedAt": "2026-11-01T16:42:00+01:00",
-      "verifiedAt": "2026-11-02T05:15:35.066Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/video/2026/11/01/uccisa-con-isulina-arrestato-marito-domani-interrogatorio-1136459",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T05:15:35.066Z",
-        "dateEvidence": "Fonte originale Sky TG24 aperta e letta il 2 novembre 2026; data/ora di pubblicazione indicate: 2026-11-01T16:42:00+01:00.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-arezzo-broker-fermo",
-      "eventKey": "arezzo-omicidio-luciano-bonfiglio-fermo-29enne-1-novembre-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Arezzo, fermato un 29enne per la morte di un broker",
-      "summary": "La vittima, 61 anni, era stata trovata vicino a un'automobile; il fermato non ha risposto agli investigatori.",
-      "body": [
-        "La polizia ha sottoposto a fermo un giovane di 29 anni nell'indagine sull'omicidio di Luciano Bonfiglio, broker di 61 anni trovato senza vita nella zona di San Zeno, alle porte di Arezzo, nella notte tra il 31 ottobre e il primo novembre.",
-        "Gli investigatori hanno acquisito testimonianze e immagini di videosorveglianza dopo la segnalazione di una lite in un'auto. Il fermato si è avvalso della facoltà di non rispondere; il movente è ancora oggetto di accertamenti."
-      ],
-      "publishedAt": "2026-11-01T17:48:00+01:00",
-      "verifiedAt": "2026-11-02T05:15:35.066Z",
+      "publishedAt": "2026-11-02T15:32:00+01:00",
+      "verifiedAt": "2026-11-02T15:19:48.806Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/01/broker-di-61-anni-trovato-morto-vicino-la-sua-auto-fermato-un-29enne_391c5158-866b-42b5-8df9-4b9911851a11.html",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/arrestato-per-lomicidio-della-moglie-respinta-listanza-per-i-domiciliari_6667f0ee-6e03-4bd4-b8c1-342ae7974f05.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T05:15:35.066Z",
-        "dateEvidence": "Fonte originale ANSA aperta e letta il 2 novembre 2026; data/ora di pubblicazione indicate: 2026-11-01T17:48:00+01:00.",
+        "accessCheckedAt": "2026-11-02T15:19:48.806Z",
+        "dateEvidence": "Articolo originale ANSA consultato integralmente il 2 novembre 2026; data e ora indicate nella pagina: 02/11/2026 15:32 Europe/Rome.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "cronaca-a14-grandinata-tamponamento",
-      "eventKey": "a14-grandinata-maxi-tamponamento-dodici-auto-cesena-1-novembre-2026",
+      "id": "cronaca-napoli-rapina-gioielleria",
+      "eventKey": "napoli-via-san-giovanni-in-corte-rapina-gioielleria-2-novembre",
       "category": "Cronaca",
       "status": "verified",
-      "title": "A14, grandinata e tamponamento a catena con dodici veicoli",
-      "summary": "Il tratto fra Cesena e Valle del Rubicone è stato temporaneamente chiuso; un automobilista è rimasto ferito gravemente.",
+      "title": "Napoli, rapina armata in gioielleria: indagini sul bottino",
+      "summary": "Due persone sono fuggite dopo essersi fatte consegnare gioielli e denaro.",
       "body": [
-        "Una violenta grandinata ha provocato nella mattina del primo novembre un tamponamento che ha coinvolto circa dodici auto sull'autostrada A14, nei pressi di Cesena in direzione Ancona. Una persona è stata liberata dalle lamiere e trasportata in ospedale con l'elicottero.",
-        "I soccorritori e la polizia stradale hanno messo in sicurezza la carreggiata. Un altro incidente si è verificato nel senso opposto; il tratto chiuso è stato riaperto intorno alle 13 dello stesso giorno."
+        "I carabinieri sono intervenuti in via San Giovanni in Corte, a Napoli, dopo una rapina in una gioielleria. Secondo la prima ricostruzione, due persone armate di pistola hanno preso denaro e gioielli e si sono allontanate.",
+        "L'ammontare del bottino non era ancora stato quantificato al momento della notizia; le indagini per identificare i responsabili sono in corso."
       ],
-      "publishedAt": "2026-11-01T13:54:00+01:00",
-      "verifiedAt": "2026-11-02T05:15:35.066Z",
+      "publishedAt": "2026-11-02T15:09:00+01:00",
+      "verifiedAt": "2026-11-02T15:19:48.806Z",
       "source": {
         "name": "ANSA",
-        "url": "https://videoembed.ansa.it/emiliaromagna/notizie/2026/11/01/forte-grandinata-e-maxi-tamponamento-con-12-auto-coinvolte-sulla-a14_de3d5c6a-54fb-4cf0-90f0-d5de8d804a56.html",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/rapina-in-una-gioielleria-a-napoli-i-banditi-in-fuga-con-il-bottino_30bee504-e7c0-475b-84c7-40027d173073.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T05:15:35.066Z",
-        "dateEvidence": "Fonte originale ANSA aperta e letta il 2 novembre 2026; data/ora di pubblicazione indicate: 2026-11-01T13:54:00+01:00.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    }
-  ],
-  "reserveArticles": [
-    {
-      "id": "cronaca-montichiari-sospetta-meningite",
-      "eventKey": "montichiari-maestra-mira-jovovic-decesso-sospetta-meningite-profilassi",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Montichiari, morta un'insegnante: avviata profilassi per sospetta meningite",
-      "summary": "Le cause del decesso non sono ancora accertate e sarà eseguita un'autopsia.",
-      "body": [
-        "Una maestra di 53 anni è morta a Montichiari, nel Bresciano, dopo un rapido peggioramento delle condizioni di salute. La meningite è al momento un'ipotesi da verificare con l'autopsia, non una diagnosi definitiva.",
-        "L'Ats di Brescia ha attivato la profilassi preventiva per i contatti recenti, compresi bambini e familiari. La scuola dell'infanzia in cui lavorava la donna ha annunciato la regolare riapertura lunedì."
-      ],
-      "publishedAt": "2026-11-01T14:35:00+01:00",
-      "verifiedAt": "2026-11-02T05:16:29.540Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/11/01/montichiari-maestra-morta",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T05:16:29.540Z",
-        "dateEvidence": "Fonte Sky TG24 aperta e letta il 2 novembre 2026; data/ora originale: 2026-11-01T14:35:00+01:00.",
+        "accessCheckedAt": "2026-11-02T15:19:48.806Z",
+        "dateEvidence": "Articolo originale ANSA consultato integralmente il 2 novembre 2026; data e ora indicate nella pagina: 02/11/2026 15:09 Europe/Rome.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "cronaca-rimini-indagine-interruzione",
-      "eventKey": "rimini-donna-33enne-indagata-aborto-farmaco-estero-1-novembre",
+      "id": "cronaca-capodichino-daniel",
+      "eventKey": "napoli-capodichino-giovane-senza-documenti-assistenza-consolato-svezia",
       "category": "Cronaca",
       "status": "verified",
-      "title": "Rimini, indagine dopo un'interruzione di gravidanza con gravi complicazioni",
-      "summary": "Una donna di 33 anni è stata ricoverata per emorragia; la Procura verifica le circostanze e l'epoca gestazionale.",
+      "title": "Capodichino, un giovane senza documenti assistito nello scalo",
+      "summary": "Il consolato svedese cerca di ricostruire l'identità e la storia del ragazzo.",
       "body": [
-        "La Procura di Rimini ha aperto un fascicolo dopo il ricovero d'urgenza di una donna che ha riferito di avere interrotto in casa una gravidanza con un farmaco acquistato all'estero. La paziente ha riportato una grave emorragia.",
-        "Gli investigatori stanno accertando l'epoca gestazionale e le circostanze dell'episodio. La donna e la madre risultano indagate, ma le responsabilità penali devono ancora essere accertate."
+        "Un giovane che dice di chiamarsi Daniel e di avere 25 anni soggiorna da settimane nell'aeroporto di Napoli Capodichino, ricevendo assistenza da alcuni addetti dello scalo.",
+        "Il console onorario svedese ha incontrato il ragazzo e l'ambasciata è al lavoro per identificarlo e valutare una soluzione. La sua nazionalità e le circostanze del viaggio non risultano ancora accertate."
       ],
-      "publishedAt": "2026-11-01T15:49:00+01:00",
-      "verifiedAt": "2026-11-02T05:16:29.540Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/11/01/aborto-illegale-donna-indagata-rimini",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T05:16:29.540Z",
-        "dateEvidence": "Fonte Sky TG24 aperta e letta il 2 novembre 2026; data/ora originale: 2026-11-01T15:49:00+01:00.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-licata-tombe-profanate",
-      "eventKey": "licata-vandalizzate-tombe-famiglie-sindaco-assessore-1-novembre",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Licata, danneggiate le tombe dei familiari di sindaco e assessore",
-      "summary": "I carabinieri indagano su due episodi avvenuti nei cimiteri cittadini durante la notte.",
-      "body": [
-        "A Licata, nell'Agrigentino, sono state trovate danneggiate le sepolture delle famiglie del sindaco Angelo Balsamo e dell'assessore Giuseppe Federico. Gli atti vandalici hanno interessato due diversi cimiteri della città.",
-        "I carabinieri stanno verificando se i danneggiamenti costituiscano un tentativo di intimidazione verso gli amministratori. La motivazione non è ancora accertata."
-      ],
-      "publishedAt": "2026-11-01T10:35:00+01:00",
-      "verifiedAt": "2026-11-02T05:16:29.540Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/11/01/licata-profanate-tombe-agrigento",
-        "access": "free",
-        "accessCheckedAt": "2026-11-02T05:16:29.540Z",
-        "dateEvidence": "Fonte Sky TG24 aperta e letta il 2 novembre 2026; data/ora originale: 2026-11-01T10:35:00+01:00.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cronaca-torino-controlli-halloween",
-      "eventKey": "torino-controlli-halloween-2026-otto-arresti-diciotto-denunce",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Torino, controlli nel weekend di Halloween: otto arresti e 18 denunce",
-      "summary": "La Questura riferisce verifiche su circa 1.400 persone e oltre 280 veicoli.",
-      "body": [
-        "I servizi straordinari delle forze dell'ordine nel fine settimana di Halloween a Torino hanno portato, secondo il bilancio della Questura, a otto arresti e diciotto denunce. Le verifiche hanno interessato anche le aree della movida cittadina.",
-        "Sono stati controllati dodici esercizi commerciali, con sanzioni amministrative per oltre 16.500 euro a cinque locali. Gli agenti hanno effettuato inoltre controlli su veicoli e monopattini."
-      ],
-      "publishedAt": "2026-11-01T12:42:00+01:00",
-      "verifiedAt": "2026-11-02T05:16:29.540Z",
+      "publishedAt": "2026-11-02T15:07:00+01:00",
+      "verifiedAt": "2026-11-02T15:19:48.806Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/amp/piemonte/notizie/2026/11/01/a-torino-otto-arresti-e-18-denunce-nei-controlli-del-weekend-di-halloween_958ecaf4-3dcc-416a-b5e3-1322b107c056.html",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/daniel-come-tom-hanks-in-the-terminal-da-settimane-vive-a-capodichino_a67fa977-85d6-49e7-9283-22c8b5458a57.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T05:16:29.540Z",
-        "dateEvidence": "Fonte ANSA aperta e letta il 2 novembre 2026; data/ora originale: 2026-11-01T12:42:00+01:00.",
+        "accessCheckedAt": "2026-11-02T15:19:48.806Z",
+        "dateEvidence": "Articolo originale ANSA consultato integralmente il 2 novembre 2026; data e ora indicate nella pagina: 02/11/2026 15:07 Europe/Rome.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "cronaca-pistoia-donazione-fegato",
-      "eventKey": "pistoia-annina-sensi-donazione-fegato-98-anni-trapianto-ottobre-2026",
+      "id": "cronaca-forli-cesena-neve-strade",
+      "eventKey": "forli-cesena-prime-nevicate-piano-strade-2-novembre-2026",
       "category": "Cronaca",
       "status": "verified",
-      "title": "Pistoia, donazione di fegato da una donna quasi centenaria",
-      "summary": "Il consenso dei familiari ha permesso un trapianto riuscito dopo il decesso della donna.",
+      "title": "Prima neve sull'Appennino forlivese: attivato il piano strade",
+      "summary": "Gli interventi di spalatura hanno interessato diverse provinciali tra domenica e lunedì.",
       "body": [
-        "A Montale, in provincia di Pistoia, la famiglia di Annina Sensi ha autorizzato la donazione del fegato dopo la morte della donna, che avrebbe compiuto 98 anni a novembre. L'organo è risultato idoneo al trapianto e l'intervento è riuscito.",
-        "I familiari hanno reso nota la vicenda per sensibilizzare sull'importanza di dichiarare la volontà di donare. L'età avanzata, spiegano i medici citati dalla notizia, non esclude automaticamente l'idoneità di un organo."
+        "La Provincia di Forlì-Cesena ha attivato il servizio per la neve dopo le prime precipitazioni sui rilievi, con interventi sulle strade del Bidente, del Castagno e su alcune provinciali del Cesenate.",
+        "Il piano complessivo prevede circa 170 mezzi disponibili. Dopo le operazioni notturne di pulizia, i tratti citati risultavano percorribili secondo il resoconto pubblicato il 2 novembre."
       ],
-      "publishedAt": "2026-10-31T20:03:00+01:00",
-      "verifiedAt": "2026-11-02T05:16:29.540Z",
+      "publishedAt": "2026-11-02T13:06:00+01:00",
+      "verifiedAt": "2026-11-02T15:19:48.806Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/dona-il-fegato-a-98-anni-e-salva-una-vita_66acf73b-9e57-4a48-bff7-b72c19a881d8.html",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/prime-nevicate-sullappennino-di-forli-cesena-scatta-piano-per-le-strade_69d3f644-d083-43c0-b673-bb369721c013.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-02T05:16:29.540Z",
-        "dateEvidence": "Fonte ANSA aperta e letta il 2 novembre 2026; data/ora originale: 2026-10-31T20:03:00+01:00.",
+        "accessCheckedAt": "2026-11-02T15:19:48.806Z",
+        "dateEvidence": "Articolo originale ANSA consultato integralmente il 2 novembre 2026; data e ora indicate nella pagina: 02/11/2026 13:06 Europe/Rome.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-crans-moretti-interrogatorio",
+      "eventKey": "crans-montana-jacques-moretti-interrogatorio-filone-riciclaggio-2-novembre",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Crans-Montana, Moretti non risponde alle domande sul filone riciclaggio",
+      "summary": "La difesa ha comunicato la posizione dell'indagato agli inquirenti del Vallese.",
+      "body": [
+        "Nell'interrogatorio a Sion, Jacques Moretti, proprietario del locale Constellation e indagato per il rogo di Capodanno a Crans-Montana, non intende rispondere alle domande dei legali delle parti civili su ipotesi di riciclaggio.",
+        "La difesa lo ha comunicato alla procura del Vallese. Un rapporto della polizia federale segnala movimenti bancari da approfondire, ma le ipotesi restano al vaglio degli investigatori."
+      ],
+      "publishedAt": "2026-11-02T12:35:00+01:00",
+      "verifiedAt": "2026-11-02T15:19:48.806Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/crans-montana-jacques-moretti-non-risponde-a-domande-su-riciclaggio_37b546b7-fb1b-4d93-b52c-11f9d9ffda02.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T15:19:48.806Z",
+        "dateEvidence": "Articolo originale ANSA consultato integralmente il 2 novembre 2026; data e ora indicate nella pagina: 02/11/2026 12:35 Europe/Rome.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
