@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-02",
-  "checkedAt": "2026-11-02T05:15:28.929Z",
+  "checkedAt": "2026-11-02T05:15:51.014Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,11 +14,11 @@
   "completed": [
     "politica",
     "esteri",
-    "economia"
+    "economia",
+    "cronaca"
   ],
   "inProgress": [],
   "missing": [
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -115,6 +115,36 @@
       "category": "Economia",
       "title": "Voli di Natale, il Codacons segnala prezzi elevati sulle tratte Nord-Sud",
       "eventKey": "natale-2026-codacons-caro-voli-rotte-nord-sud-427-euro"
+    },
+    {
+      "id": "cronaca-maltempo-allerta-sud",
+      "category": "Cronaca",
+      "title": "Maltempo, allerta arancione in Puglia e Basilicata: scuole chiuse in alcune città",
+      "eventKey": "allerta-meteo-2-novembre-2026-puglia-basilicata-scuole-chiuse"
+    },
+    {
+      "id": "cronaca-bosnia-rientro-vittime",
+      "category": "Cronaca",
+      "title": "Bosnia, atteso a Ciampino il rientro delle salme dei quattro militari",
+      "eventKey": "bosnia-elicottero-chinook-quattro-militari-rientro-salme-2-novembre"
+    },
+    {
+      "id": "cronaca-verona-insulina-interrogatorio",
+      "category": "Cronaca",
+      "title": "Verona, atteso l'interrogatorio dell'uomo accusato di avere ucciso la moglie",
+      "eventKey": "verona-morte-jessica-dalla-chiara-marito-interrogatorio-2-novembre"
+    },
+    {
+      "id": "cronaca-arezzo-broker-fermo",
+      "category": "Cronaca",
+      "title": "Arezzo, fermato un 29enne per la morte di un broker",
+      "eventKey": "arezzo-omicidio-luciano-bonfiglio-fermo-29enne-1-novembre-2026"
+    },
+    {
+      "id": "cronaca-a14-grandinata-tamponamento",
+      "category": "Cronaca",
+      "title": "A14, grandinata e tamponamento a catena con dodici veicoli",
+      "eventKey": "a14-grandinata-maxi-tamponamento-dodici-auto-cesena-1-novembre-2026"
     },
     {
       "id": "politica-ipsos-consensi",
@@ -226,7 +256,7 @@
       "complete": false
     },
     "cronaca": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
