@@ -1,10 +1,9 @@
 {
   "editionDate": "2026-11-02",
-  "checkedAt": "2026-11-02T05:15:51.014Z",
+  "checkedAt": "2026-11-02T05:16:15.750Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
-    "economia",
     "cronaca",
     "roma",
     "cultura",
@@ -205,13 +204,43 @@
       "category": "Esteri",
       "title": "Israele, secondo Walla la Lista Unita sosterrà Eisenkot nelle consultazioni",
       "eventKey": "israele-lista-unita-raccomandazione-eisenkot-herzog-1-novembre-2026"
+    },
+    {
+      "id": "economia-sciopero-cgia-costi",
+      "category": "Economia",
+      "title": "Sciopero del 30 ottobre, la Cgia stima fino a un miliardo di impatto",
+      "eventKey": "cgia-stima-costo-sciopero-generale-30-ottobre-2026"
+    },
+    {
+      "id": "economia-eurostat-reddito-famiglie",
+      "category": "Economia",
+      "title": "Eurostat, reddito reale delle famiglie quasi fermo nel secondo trimestre",
+      "eventKey": "eurostat-secondo-trimestre-2026-reddito-reale-famiglie-eurozona-0-1"
+    },
+    {
+      "id": "economia-assoutenti-ortaggi-inflazione",
+      "category": "Economia",
+      "title": "Assoutenti, ortaggi a frutto rincarati di circa il 31% su base annua",
+      "eventKey": "assoutenti-analisi-inflazione-ottobre-2026-ortaggi-frutta-tech"
+    },
+    {
+      "id": "economia-piccole-banche-ires",
+      "category": "Economia",
+      "title": "Piccole banche, contestata la soglia per evitare l'aumento Ires",
+      "eventKey": "manovra-2027-piccole-banche-esenzione-ires-soglia-6-7-milioni"
+    },
+    {
+      "id": "economia-superbonus-crediti-decennali",
+      "category": "Economia",
+      "title": "Superbonus, la manovra ipotizza dieci rate per alcuni crediti d'imposta",
+      "eventKey": "manovra-2027-superbonus-crediti-2023-compensazione-dieci-rate"
     }
   ],
   "collectionId": "2026-11-02-mattina",
   "reserveCounts": {
     "Politica": 5,
     "Esteri": 5,
-    "Economia": 0,
+    "Economia": 5,
     "Cronaca": 0,
     "Roma": 0,
     "Cultura · Teatro · Cinema": 0,
@@ -251,9 +280,9 @@
     },
     "economia": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "cronaca": {
       "base": 5,
