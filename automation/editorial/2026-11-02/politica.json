@@ -3,8 +3,6 @@
   "editionDate": "2026-11-02",
   "collectionId": "2026-11-02-pomeriggio",
   "category": "Politica",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-02T15:24:35.481Z",
   "articles": [
     {
       "id": "politica-rai-riforma-parlamento",
@@ -127,5 +125,117 @@
       }
     }
   ],
-  "reserveDraft": []
+  "reserveArticles": [
+    {
+      "id": "politica-ipsos-consensi",
+      "eventKey": "sondaggio-ipsos-31-ottobre-2026-fdi-26-7-vannacci-7-9",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Ipsos, FdI al 26,7% e Futuro nazionale al 7,9%",
+      "summary": "La rilevazione Ipsos Doxa per il Corriere della Sera indica lievi variazioni nei consensi dei principali partiti.",
+      "body": [
+        "Il sondaggio pubblicato il 31 ottobre stima Fratelli d'Italia al 26,7%, il Pd al 19,9% e il M5S al 14,9%. Futuro nazionale di Roberto Vannacci scende al 7,9%, mentre Forza Italia cala al 6,3%.",
+        "Sono stime demoscopiche, non risultati elettorali."
+      ],
+      "publishedAt": "2026-10-31T16:23:00+01:00",
+      "verifiedAt": "2026-11-02T15:25:10.784Z",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/politica/sondaggio-politico-oggi-ipsos-corsera-vannacci_3iGXD1zqrvb1HqUJow2HNn",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T15:25:10.784Z",
+        "dateEvidence": "Adnkronos, 31 ottobre 2026 ore 16:23, sondaggio Ipsos Doxa. Fonte originale riletta nuovamente il 2 novembre 2026 per il pomeriggio; prima pubblicazione invariata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-salvini-banche",
+      "eventKey": "salvini-parlamento-contributo-banche-oltre-cinque-miliardi-31-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Salvini non esclude un contributo bancario superiore in Parlamento",
+      "summary": "Il leader della Lega sostiene che le Camere potrebbero aumentare l'onere richiesto alle banche nella legge di bilancio.",
+      "body": [
+        "Matteo Salvini, parlando a un gazebo della Lega a Roma, ha ricordato il contributo di oltre cinque miliardi previsto nella manovra e ha affermato che il Parlamento può decidere di chiedere di più agli istituti bancari.",
+        "Il vicepremier ha collegato eventuali ulteriori risorse al sostegno a famiglie, lavoratori e pensionati. Non ha annunciato un aumento già approvato."
+      ],
+      "publishedAt": "2026-10-31T18:30:00+01:00",
+      "verifiedAt": "2026-11-02T15:25:10.784Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/salvini-se-il-parlamento-vuole-un-contributo-maggiore-dalle-banche-e-sovrano_9639469c-8c6e-405c-9c2e-0d1b50371871.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T15:25:10.784Z",
+        "dateEvidence": "ANSA, Roma, 31 ottobre 2026 ore 18:30, dichiarazioni Salvini a Ponte Milvio. Fonte originale riletta nuovamente il 2 novembre 2026 per il pomeriggio; prima pubblicazione invariata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-mattarella-giovani",
+      "eventKey": "mattarella-villa-nazareth-ottantesimo-giovani-comunita-31-ottobre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Mattarella richiama i giovani alla responsabilità di costruire il futuro",
+      "summary": "Il presidente della Repubblica, incontrando studenti di Villa Nazareth, invita a rafforzare il senso di comunità.",
+      "body": [
+        "Durante un incontro al Quirinale per gli ottant'anni di Villa Nazareth, Sergio Mattarella ha sottolineato il ruolo delle nuove generazioni in una fase segnata dall'incertezza internazionale.",
+        "Ha indicato solidarietà e attenzione ai bisogni degli altri come strumenti per rafforzare la società."
+      ],
+      "publishedAt": "2026-10-31T17:56:00+01:00",
+      "verifiedAt": "2026-11-02T15:25:10.784Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/mattarella-in-tempi-non-facili-il-futuro-va-disegnato-dai-giovani_15b6b292-fbc5-4699-ab1f-95d53ebd6047.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T15:25:10.784Z",
+        "dateEvidence": "ANSA, Roma, 31 ottobre 2026 ore 17:56, incontro al Quirinale con Villa Nazareth. Fonte originale riletta nuovamente il 2 novembre 2026 per il pomeriggio; prima pubblicazione invariata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-alluvioni-fondi-manovra",
+      "eventKey": "manovra-2027-2028-stanzia-17-milioni-alluvioni-tre-regioni-1-novembre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Manovra, previsti 17,1 milioni per territori colpiti dalle alluvioni",
+      "summary": "L'articolo 113 del disegno di legge di bilancio destina risorse a Emilia-Romagna, Marche e Toscana nel biennio 2027-2028.",
+      "body": [
+        "La legge di bilancio proposta dal governo prevede 12,8 milioni di euro per il 2027 e 4,3 milioni per il 2028 per interventi legati alle alluvioni del 2023 e 2024.",
+        "La disposizione non indica la ripartizione fra i territori interessati. Lo stanziamento è ancora soggetto all'iter parlamentare."
+      ],
+      "publishedAt": "2026-11-01T17:01:00+01:00",
+      "verifiedAt": "2026-11-02T15:25:10.784Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/01/manovra-17-milioni-per-le-alluvioni-in-emilia-romagna-marche-e-toscana_4faf2862-7169-46b2-a1fc-5f2356ece1f0.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T15:25:10.784Z",
+        "dateEvidence": "ANSA, Roma, 1 novembre 2026 ore 17:01, articolo 113 del disegno di legge di bilancio. Fonte originale riletta nuovamente il 2 novembre 2026 per il pomeriggio; prima pubblicazione invariata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-vannacci-meloni-alleanza",
+      "eventKey": "vannacci-critica-meloni-chiusura-alleanza-futuro-nazionale-2-novembre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Vannacci contesta la chiusura di Meloni a Futuro Nazionale",
+      "summary": "Da Milano il leader di Futuro Nazionale sostiene che escludere il suo partito favorisca il centrosinistra, pur dichiarandosi disponibile al dialogo entro i propri limiti politici.",
+      "body": [
+        "Durante un punto stampa in piazza Oberdan a Milano, Roberto Vannacci ha contestato la scelta della presidente del Consiglio di escludere un'alleanza con Futuro Nazionale, sostenendo che la decisione possa avvantaggiare le opposizioni.",
+        "Vannacci ha detto di non voler discutere alleanze a ogni costo, ma di essere disposto a confrontarsi con chiunque nel rispetto delle linee politiche che considera irrinunciabili. Non è stato annunciato alcun accordo."
+      ],
+      "publishedAt": "2026-11-02T15:49:00+01:00",
+      "verifiedAt": "2026-11-02T15:25:10.784Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/02/vannacci-e-meloni-a-favorire-la-sinistra-chiudendo-a-futuro-nazionale_0eb691e5-f392-4f10-8009-b0fd9d34f49b.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T15:25:10.784Z",
+        "dateEvidence": "ANSA, Milano, 2 novembre 2026 ore 15:49 CET, dichiarazioni di Roberto Vannacci in piazza Oberdan. Articolo originale letto integralmente il 2 novembre 2026; accesso ANSA con limite gratuito mensile.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "completedAt": "2026-11-02T15:25:10.784Z"
 }
