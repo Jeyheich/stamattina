@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-02",
-  "checkedAt": "2026-11-02T05:07:28.913Z",
+  "checkedAt": "2026-11-02T05:07:51.344Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,11 +14,11 @@
     "sport"
   ],
   "completed": [
-    "politica"
+    "politica",
+    "esteri"
   ],
   "inProgress": [],
   "missing": [
-    "esteri",
     "economia",
     "cronaca",
     "roma",
@@ -57,6 +57,36 @@
       "category": "Politica",
       "title": "Conte contesta la distribuzione delle risorse nella manovra",
       "eventKey": "conte-critica-manovra-2027-tagli-scuola-e-spese-difesa-1-novembre-2026"
+    },
+    {
+      "id": "esteri-ucraina-raffinerie",
+      "category": "Esteri",
+      "title": "Nuovi attacchi alle raffinerie russe riaccendono la tensione fra Kiev e Washington",
+      "eventKey": "ucraina-riprende-attacchi-raffinerie-russe-samara-kstovo-1-novembre-2026"
+    },
+    {
+      "id": "esteri-iran-doha-hormuz",
+      "category": "Esteri",
+      "title": "A Doha prosegue il confronto indiretto USA-Iran per riaprire Hormuz",
+      "eventKey": "iran-usa-doha-mediazione-qatar-riapertura-hormuz-1-novembre-2026"
+    },
+    {
+      "id": "esteri-india-protesta-liste-elettorali",
+      "category": "Esteri",
+      "title": "A Delhi l'opposizione protesta contro la revisione delle liste elettorali",
+      "eventKey": "india-protesta-delhi-revisione-liste-elettorali-130-milioni-1-novembre-2026"
+    },
+    {
+      "id": "esteri-polonia-corte-costituzionale",
+      "category": "Esteri",
+      "title": "Tusk difende il riassetto della Corte costituzionale polacca",
+      "eventKey": "polonia-tusk-difende-riforma-corte-costituzionale-31-ottobre-2026"
+    },
+    {
+      "id": "esteri-commonwealth-riparazioni",
+      "category": "Esteri",
+      "title": "Commonwealth, Londra accetta il dialogo ma le riparazioni restano fuori dall'agenda",
+      "eventKey": "commonwealth-uk-dialogo-riparazioni-schiavitu-1-novembre-2026"
     }
   ],
   "collectionId": "2026-11-02-mattina",
@@ -75,9 +105,14 @@
       "id": "politica-rai-riforma-parlamento",
       "category": "Politica",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Chigi_Roma_giugno_2024.jpg"
+    },
+    {
+      "id": "esteri-ucraina-raffinerie",
+      "category": "Esteri",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_Official_portrait.jpg"
     }
   ],
-  "photosAvailable": 1,
+  "photosAvailable": 2,
   "categoryProgress": {
     "politica": {
       "base": 5,
@@ -86,7 +121,7 @@
       "complete": false
     },
     "esteri": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
