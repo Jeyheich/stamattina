@@ -1,12 +1,11 @@
 {
   "editionDate": "2026-11-02",
-  "checkedAt": "2026-11-02T06:07:34.582Z",
+  "checkedAt": "2026-11-02T06:07:49.799Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
     "roma",
-    "cultura",
-    "sport"
+    "cultura"
   ],
   "completed": [
     "politica",
@@ -352,6 +351,36 @@
       "category": "Tecnologia · AI",
       "title": "PlayStation Store, Sony continua a valutare prezzi dinamici",
       "eventKey": "sony-playstation-store-annuncio-lavoro-prezzi-dinamici-1-novembre-2026"
+    },
+    {
+      "id": "sport-lecce-genoa-1-2",
+      "category": "Sport",
+      "title": "Genoa vince 2-1 a Lecce con Osmajic e Messias",
+      "eventKey": "lecce-genoa-1-2-osmajic-messias-maleh-1-novembre-2026"
+    },
+    {
+      "id": "sport-frosinone-torino-2-0",
+      "category": "Sport",
+      "title": "Frosinone supera il Torino 2-0 e continua a sorprendere",
+      "eventKey": "frosinone-torino-2-0-ghedjemis-calo-1-novembre-2026"
+    },
+    {
+      "id": "sport-como-venezia-1-0",
+      "category": "Sport",
+      "title": "Como batte il Venezia 1-0 nel turno di Serie A",
+      "eventKey": "como-venezia-1-0-serie-a-1-novembre-2026"
+    },
+    {
+      "id": "sport-alcaraz-vienna-finale",
+      "category": "Sport",
+      "title": "Alcaraz conquista il torneo di Vienna battendo De Minaur",
+      "eventKey": "alcaraz-de-minaur-vienna-finale-6-1-6-4-1-novembre-2026"
+    },
+    {
+      "id": "sport-marquez-malesia",
+      "category": "Sport",
+      "title": "Marc Márquez domina il GP di Malesia di MotoGP",
+      "eventKey": "motogp-marc-marquez-vince-sepang-malesia-1-novembre-2026"
     }
   ],
   "collectionId": "2026-11-02-mattina",
@@ -363,7 +392,7 @@
     "Roma": 0,
     "Cultura · Teatro · Cinema": 0,
     "Tecnologia · AI": 5,
-    "Sport": 0
+    "Sport": 5
   },
   "photoCandidates": [
     {
@@ -433,9 +462,9 @@
     },
     "sport": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     }
   },
   "needsPublication": false
