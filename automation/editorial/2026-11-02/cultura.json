@@ -3,7 +3,7 @@
   "editionDate": "2026-11-02",
   "collectionId": "2026-11-02-mattina",
   "category": "Cultura · Teatro · Cinema",
-  "completedAt": "2026-11-02T06:13:22.202Z",
+  "completedAt": "2026-11-02T06:14:22.525Z",
   "articles": [
     {
       "id": "cultura-koeln-concert-romaeuropa",
@@ -112,6 +112,118 @@
         "access": "free",
         "accessCheckedAt": "2026-11-02T06:13:22.202Z",
         "dateEvidence": "ANSA Arte: pubblicato 01 novembre 2026 ore 19:28; presenze riferite alle ore 18.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "cultura-lella-costa-monologhi",
+      "eventKey": "lella-costa-monologhi-vagina-teatro-cometa-3-8-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Lella Costa riporta I Monologhi della Vagina a Roma",
+      "summary": "Dal 3 all'8 novembre al Teatro della Cometa, con un cast di attrici che si alternano sul palco.",
+      "body": [
+        "A trent'anni dalla prima stesura del testo di Eve Ensler, Lella Costa torna a interpretare I Monologhi della Vagina e ne coordina artisticamente la nuova edizione al Teatro della Cometa di Roma.",
+        "Lo spettacolo è annunciato dal 3 all'8 novembre e coinvolge un gruppo di interpreti che si alternano nelle letture. La produzione proseguirà poi in altre città italiane."
+      ],
+      "publishedAt": "2026-11-01",
+      "verifiedAt": "2026-11-02T06:14:22.525Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/amp/donne/notizie/2026/11/01/lella-costa-riporto-in-scena-i-monologhi-della-vagina-a-30-anni-dalla-prima_f1852d12-c612-467c-bd10-5b2cef072a71.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:14:22.525Z",
+        "dateEvidence": "ANSA Donne: articolo pubblicato 01/11/2026; date spettacolo a Roma dal 03 al 08/11/2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-the-others-art-fair",
+      "eventKey": "the-others-art-fair-torino-2026-54-espositori-chiusura",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "The Others Art Fair chiude nel Parcheggio Lancia di Torino",
+      "summary": "La quindicesima edizione ha riunito 54 espositori e registrato un lieve aumento del pubblico.",
+      "body": [
+        "La fiera The Others Art Fair ha chiuso il 1° novembre al Parcheggio Lancia di Torino, sede scelta per la quindicesima edizione. Hanno partecipato 54 espositori italiani e stranieri, con un programma di incontri e premi.",
+        "Gli organizzatori riferiscono code all'ingresso nel weekend, un lieve incremento di pubblico e riscontri positivi da parte delle gallerie sui contatti e sulle vendite."
+      ],
+      "publishedAt": "2026-11-01T18:18:00+01:00",
+      "verifiedAt": "2026-11-02T06:14:22.525Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/01/the-others-art-fair-cresce-il-pubblico-galleristi-soddisfatti_8d5dbbb2-5d89-4eef-bdd2-f67c3fef7317.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:14:22.525Z",
+        "dateEvidence": "ANSA Arte: pubblicato 01/11/2026 ore 18:18; fiera distinta da Artissima e Flashback.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-gruffalo-illustratore-ai",
+      "eventKey": "alex-scheffler-gruffalo-valuta-causa-ia-copyright-1-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "L'illustratore del Gruffalò valuta una causa per le immagini IA",
+      "summary": "Axel Scheffler contesta le riproduzioni digitali del suo personaggio e sta consultando un legale.",
+      "body": [
+        "Axel Scheffler, illustratore del Gruffalò, ha detto alla BBC di valutare un'azione legale contro aziende di intelligenza artificiale per la riproduzione di elementi riconoscibili del suo lavoro.",
+        "L'artista ha riferito di aver contattato un avvocato in Germania. Non ha indicato una società destinataria né annunciato una causa già depositata."
+      ],
+      "publishedAt": "2026-11-01",
+      "verifiedAt": "2026-11-02T06:14:22.525Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/amp/canale_tecnologia/notizie/tecnologia/2026/11/01/lillustratore-del-gruffalo-valuto-unazione-legale-contro-le-aziende-di-ia_dcf6900e-a9ae-4469-bc85-beb6f4659710.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:14:22.525Z",
+        "dateEvidence": "ANSA Tecnologia: articolo pubblicato 01/11/2026; dichiarazioni dell'illustratore sulla tutela dell'opera.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-deep-purple-ian-gillan",
+      "eventKey": "deep-purple-ian-gillan-ricovero-cancellazione-lipsia-amburgo-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Deep Purple, annullati due concerti dopo il ricovero di Ian Gillan",
+      "summary": "La band ha cancellato le date di Lipsia e Amburgo e valuta il recupero degli spettacoli.",
+      "body": [
+        "I Deep Purple hanno annunciato l'annullamento dei concerti previsti il 31 ottobre a Lipsia e il 1° novembre ad Amburgo per un'emergenza medica che ha coinvolto il cantante Ian Gillan.",
+        "Il gruppo ha dichiarato che i biglietti resteranno validi per eventuali date di recupero. Non sono stati resi noti ulteriori dettagli clinici o tempi di dimissione."
+      ],
+      "publishedAt": "2026-11-01T15:54:00+01:00",
+      "verifiedAt": "2026-11-02T06:14:22.525Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/01/ian-gillan-ricoverato-in-ospedale-i-deep-purple-annullano-due-concerti-in-germania_66ccd562-8287-46b4-b6ec-317260be9cdd.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:14:22.525Z",
+        "dateEvidence": "ANSA Musica: pubblicato 01/11/2026 ore 15:54; comunicazione del gruppo relativa alle date 31/10 e 01/11.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-rodolfo-valentino-sancarluccio",
+      "eventKey": "rodolfo-valentino-teatro-sancarluccio-napoli-6-8-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Rodolfo Valentino rivive sul palco del Sancarluccio",
+      "summary": "Dal 6 all'8 novembre a Napoli una pièce ripercorre il mito del cinema muto.",
+      "body": [
+        "Il Teatro Sancarluccio di Napoli ospiterà dal 6 all'8 novembre Valentino, il punto più alto. Vita e segreti di un idolo, spettacolo diretto da Stefano Ariota su testi di Roberto Russo.",
+        "Francesco Petrillo interpreta Rodolfo Valentino e Giuseppe Brandi veste i panni di Norman Kelly. La messinscena immagina le contraddizioni del divo e riflette su come sarebbe proseguita la sua carriera con l'arrivo del sonoro."
+      ],
+      "publishedAt": "2026-11-01T14:36:00+01:00",
+      "verifiedAt": "2026-11-02T06:14:22.525Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://videoembed.ansa.it/campania/notizie/2026/11/01/rodolfo-valentino-il-mito-del-cinema-muto-rivive-al-sancarluccio-di-napoli_28dd6ed6-ad69-402b-b019-b1456b28a570.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:14:22.525Z",
+        "dateEvidence": "ANSA Campania: pubblicato 01/11/2026 ore 14:36; spettacolo previsto dal 06 al 08/11.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
