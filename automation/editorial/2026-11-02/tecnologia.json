@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-02",
+  "collectionId": "2026-11-02-mattina",
+  "category": "Tecnologia · AI",
+  "completedAt": "2026-11-02T06:06:36.362Z",
+  "articles": [
+    {
+      "id": "tecnologia-wikimedia-copyright",
+      "eventKey": "wikimedia-amicus-brief-nyt-openai-conoscenza-aperta-1-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Wikimedia chiede equilibrio nella causa sul copyright tra NYT e OpenAI",
+      "summary": "La fondazione teme sia una lettura troppo restrittiva del fair use, sia la riproduzione non autorizzata dei testi originali.",
+      "body": [
+        "Wikimedia Foundation ha presentato un amicus brief nella causa sul diritto d'autore tra New York Times, OpenAI e Microsoft. La fondazione chiede di distinguere l'impiego trasformativo dei contenuti nella formazione dei modelli dalla restituzione di copie degli articoli nelle risposte. Segnala rischi opposti per la conoscenza aperta."
+      ],
+      "publishedAt": "2026-11-01",
+      "verifiedAt": "2026-11-02T06:06:36.362Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/the-new-york-times-vs-openai-avvertimento-wikimedia/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:06:36.362Z",
+        "dateEvidence": "Pagina completa Punto Informatico, data editoriale 1 novembre 2026; esamina amicus brief Wikimedia e copyright.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-cursor-estensione-infetta",
+      "eventKey": "cursor-marketplace-estensione-claude-code-backdoor-5000-installazioni-29-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Estensione compromessa nel marketplace Cursor: circa cinquemila installazioni",
+      "summary": "Un pacchetto distribuito come estensione per Claude Code conteneva una backdoor SSH; il marketplace ha rimosso la versione infetta.",
+      "body": [
+        "Cursor ha confermato che una versione compromessa dell'estensione Claude Code per Windows e macOS è stata disponibile nel proprio marketplace il 29 ottobre. Secondo l'azienda, circa 5.000 utenti l'hanno installata durante la finestra di esposizione; il codice malevolo poteva raccogliere dati e aprire un tunnel SSH in particolari condizioni. La versione corretta è la 2.1.314."
+      ],
+      "publishedAt": "2026-11-01",
+      "verifiedAt": "2026-11-02T06:06:36.362Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/estensione-claude-code-cursor-installa-backdoor-ssh/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:06:36.362Z",
+        "dateEvidence": "Punto Informatico, articolo integrale del 1 novembre 2026; riporta le versioni 2.1.312/313 e la correzione 2.1.314.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-standard-crawler-ai",
+      "eventKey": "anthropic-ietf-standard-robots-usage-ai-training-31-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Proposta IETF per bloccare i crawler AI con un'unica direttiva",
+      "summary": "Il nuovo identificatore nel robots.txt consentirebbe agli editori di esprimere un divieto generale per l'addestramento.",
+      "body": [
+        "Kevin Kelley di Anthropic ha proposto alla IETF una convenzione che consenta di dichiarare in robots.txt una preferenza comune per i crawler impiegati nell'addestramento AI. La proposta mira a ridurre la necessità di elencare ogni singolo fornitore. Le implementazioni sono previste in tempi diversi e il rispetto della direttiva non è tecnicamente obbligatorio."
+      ],
+      "publishedAt": "2026-10-31",
+      "verifiedAt": "2026-11-02T06:06:36.362Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/proposto-nuovo-standard-bloccare-tutti-crawler-ai/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:06:36.362Z",
+        "dateEvidence": "Punto Informatico, articolo completo pubblicato 31 ottobre 2026; illustra la proposta IETF e i tempi di adozione.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-bioware-chiusura",
+      "eventKey": "bioware-annuncia-chiusura-studio-stop-progetto-mass-effect-1-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "BioWare annuncia la chiusura e lo stop al nuovo Mass Effect",
+      "summary": "Lo studio storico comunica la fine delle attività; il progetto in sviluppo viene fermato, secondo quanto riportato da Everyeye.",
+      "body": [
+        "Everyeye riporta un comunicato del team BioWare che annuncia la chiusura dopo oltre trent'anni e la fine dello sviluppo iniziale del nuovo Mass Effect. L'articolo attribuisce a Electronic Arts la scelta di non trasferire il progetto a un altro studio; resta incerto il futuro delle proprietà intellettuali."
+      ],
+      "publishedAt": "2026-11-01",
+      "verifiedAt": "2026-11-02T06:06:36.362Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/bioware-chiude-battenti-addio-mass-effect-sogni-fan-907298.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:06:36.362Z",
+        "dateEvidence": "Everyeye, articolo videogiochi datato 1 novembre 2026 ore 11:22; include comunicato attribuito allo studio.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-zelda-remake-dimensioni",
+      "eventKey": "zelda-ocarina-time-remake-switch2-27-gb-5-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Il remake di Ocarina of Time per Switch 2 richiederebbe 27 GB",
+      "summary": "Le schede download fotografate in Giappone indicano una dimensione superiore a Breath of the Wild; l'uscita è prevista il 5 novembre.",
+      "body": [
+        "Secondo le fotografie di schede download circolate dal Giappone, il remake di The Legend of Zelda: Ocarina of Time per Nintendo Switch 2 occuperebbe 27 GB. Everyeye confronta il dato con i 32 MB della cartuccia originale e con altri giochi della serie. Il valore proviene da confezioni fotografate, non da una prova tecnica indipendente."
+      ],
+      "publishedAt": "2026-11-01",
+      "verifiedAt": "2026-11-02T06:06:36.362Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/ocarina-of-time-remake-pesa-800-originale-supera-breath-of-the-wild-907098.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-02T06:06:36.362Z",
+        "dateEvidence": "Everyeye, articolo datato 1 novembre 2026 ore 08:32; fonte del dato è una scheda download fotografata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
+}
