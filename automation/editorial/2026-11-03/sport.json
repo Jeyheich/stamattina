@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-03",
+  "collectionId": "2026-11-03-mattina",
+  "category": "Sport",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-03T06:10:18.649Z",
+  "articles": [
+    {
+      "id": "sport-parma-vince-atalanta",
+      "eventKey": "parma-atalanta-serie-a-2-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Parma, colpo a Bergamo: Atalanta battuta 3-0",
+      "summary": "Fabbian apre il risultato, un'autorete di Zappacosta e il gol di Lontani completano la vittoria del Parma sul campo dell'Atalanta.",
+      "body": [
+        "Fabbian apre il risultato, un'autorete di Zappacosta e il gol di Lontani completano la vittoria del Parma sul campo dell'Atalanta."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03T06:10:18.649Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-10/atalanta-parma/video-highlights",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T06:10:18.649Z",
+        "dateEvidence": "La pagina Sky Sport del match riporta «lunedì 2 novembre 2026», risultato finale 0-3 e marcatori.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-musetti-hurkacz-parigi",
+      "eventKey": "musetti-hurkacz-parigi-masters-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Musetti supera Hurkacz e avanza al Masters di Parigi",
+      "summary": "Lorenzo Musetti supera Hubert Hurkacz con un doppio 7-6 e si qualifica al secondo turno, dove affronterà Alexander Zverev.",
+      "body": [
+        "Lorenzo Musetti supera Hubert Hurkacz con un doppio 7-6 e si qualifica al secondo turno, dove affronterà Alexander Zverev."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03T06:10:18.649Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/2026/11/02/musetti-hurkacz-atp-parigi-risultato",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T06:10:18.649Z",
+        "dateEvidence": "Sky Sport indica «02 nov 2026 - 12:55» e descrive il successo in due tie-break.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": []
+}
