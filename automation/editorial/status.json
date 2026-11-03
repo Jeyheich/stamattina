@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-03",
-  "checkedAt": "2026-11-03T05:04:41.206Z",
+  "checkedAt": "2026-11-03T05:15:37.495Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,11 +14,18 @@
     "sport"
   ],
   "completed": [],
-  "inProgress": [],
+  "inProgress": [
+    {
+      "slug": "economia",
+      "count": 2
+    },
+    {
+      "slug": "cronaca",
+      "count": 2
+    }
+  ],
   "missing": [
     "politica",
-    "economia",
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -30,7 +37,36 @@
       "reason": "Il blocco completo deve contenere 5 notizie distinte"
     }
   ],
-  "stories": [],
+  "stories": [
+    {
+      "id": "economia-ryanair-conti-semestrali-novembre-2026",
+      "category": "Economia",
+      "title": "Ryanair, utile semestrale in calo nonostante più passeggeri",
+      "eventKey": "ryanair-utile-semestrale-calo-2026",
+      "pending": true
+    },
+    {
+      "id": "economia-confesercenti-consumi-novembre-2026",
+      "category": "Economia",
+      "title": "Confesercenti: il caro vita mette a rischio i consumi del trimestre",
+      "eventKey": "confesercenti-ipsos-caro-vita-consumi-2026",
+      "pending": true
+    },
+    {
+      "id": "cronaca-blitz-criminalita-giovanile-novembre-2026",
+      "category": "Cronaca",
+      "title": "Operazione nazionale contro la criminalità giovanile: 644 arresti",
+      "eventKey": "polizia-blitz-nazionale-criminalita-giovanile-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "cronaca-incendio-porto-vecchio-trieste-novembre-2026",
+      "category": "Cronaca",
+      "title": "Trieste, due vittime nell'incendio di un magazzino al Porto Vecchio",
+      "eventKey": "trieste-incendio-magazzino-porto-vecchio-due-vittime",
+      "pending": true
+    }
+  ],
   "collectionId": "2026-11-03-mattina",
   "reserveCounts": {
     "Politica": 0,
