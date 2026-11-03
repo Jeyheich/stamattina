@@ -3,8 +3,6 @@
   "editionDate": "2026-11-03",
   "collectionId": "2026-11-03-mattina",
   "category": "Sport",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-03T06:10:18.649Z",
   "articles": [
     {
       "id": "sport-parma-vince-atalanta",
@@ -47,7 +45,71 @@
         "dateEvidence": "Sky Sport indica «02 nov 2026 - 12:55» e descrive il successo in due tie-break.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "sport-fiorentina-sassuolo",
+      "eventKey": "fiorentina-sassuolo-serie-a-2-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Fiorentina, successo per 4-2 sul campo del Sassuolo",
+      "summary": "La squadra viola supera il Sassuolo in una gara da sei reti, decisa nel finale dai gol di Mastantuono e Valdepenas.",
+      "body": [
+        "La squadra viola supera il Sassuolo in una gara da sei reti, decisa nel finale dai gol di Mastantuono e Valdepenas."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03T06:10:28.452Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-10/sassuolo-fiorentina/video-highlights",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T06:10:28.452Z",
+        "dateEvidence": "Sky Sport riporta data della gara 2 novembre 2026, punteggio 2-4 e marcatori nel tabellino.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-udinese-zanetti",
+      "eventKey": "udinese-paolo-zanetti-nuovo-allenatore-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Udinese, Paolo Zanetti prende il posto di Runjaic",
+      "summary": "Il club friulano affida la panchina a Paolo Zanetti dopo l'esonero di Kosta Runjaic; l'esordio è previsto contro il Venezia.",
+      "body": [
+        "Il club friulano affida la panchina a Paolo Zanetti dopo l'esonero di Kosta Runjaic; l'esordio è previsto contro il Venezia."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03T06:10:28.452Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/11/02/udinese-paolo-zanetti-allenatore-news",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T06:10:28.452Z",
+        "dateEvidence": "Sky Sport data l'articolo «02 nov 2026 - 18:31» e riporta il cambio di allenatore.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-antonelli-numero-dodici",
+      "eventKey": "antonelli-campione-mondo-mantiene-numero-12",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Antonelli dopo il titolo mondiale: confermato il numero 12",
+      "summary": "Il nuovo campione del mondo di Formula 1 ha spiegato che conserverà il numero 12 per restare concentrato sulla prossima stagione.",
+      "body": [
+        "Il nuovo campione del mondo di Formula 1 ha spiegato che conserverà il numero 12 per restare concentrato sulla prossima stagione."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03T06:10:28.452Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/formula-1/2026/11/02/kimi-antonelli-campione-f1-intervista-video",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T06:10:28.452Z",
+        "dateEvidence": "Sky Sport pubblica l'intervista «02 nov 2026 - 08:00», con dichiarazione diretta sul numero 12.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
   ],
-  "reserveArticles": []
+  "reserveArticles": [],
+  "completedAt": "2026-11-03T06:10:28.452Z"
 }
