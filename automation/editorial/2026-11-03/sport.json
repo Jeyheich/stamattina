@@ -3,8 +3,6 @@
   "editionDate": "2026-11-03",
   "collectionId": "2026-11-03-pomeriggio",
   "category": "Sport",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-03T16:04:09Z",
   "articles": [
     {
       "id": "sport-inter-feyenoord-champions-3-novembre",
@@ -47,6 +45,70 @@
         "dateEvidence": "Sky Sport riporta «03 nov 2026 - 12:15» e spiega i criteri della shortlist.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "sport-berrettini-nakashima-parigi",
+      "eventKey": "berrettini-batte-nakashima-atp-parigi-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Berrettini supera Nakashima al Masters 1000 di Parigi",
+      "summary": "Matteo Berrettini ha battuto Brandon Nakashima 6-4, 3-6, 7-6, annullando due match point. Al secondo turno affronterà Ugo Humbert.",
+      "body": [
+        "Matteo Berrettini ha battuto Brandon Nakashima 6-4, 3-6, 7-6, annullando due match point. Al secondo turno affronterà Ugo Humbert."
+      ],
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-03T17:01:03Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/2026/11/03/berrettini-nakashima-atp-parigi-risultato",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T17:01:03Z",
+        "dateEvidence": "Sky Sport pubblica il risultato il 3 novembre 2026 alle 16:30, con punteggio e cronaca della partita.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-bolelli-vavassori-parigi",
+      "eventKey": "bolelli-vavassori-battono-schnaitter-wallner-parigi-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Bolelli e Vavassori avanzano agli ottavi nel doppio a Parigi",
+      "summary": "Simone Bolelli e Andrea Vavassori hanno superato Schnaitter e Wallner 6-3, 3-6, 10-6 all'esordio nel Masters 1000 di Parigi.",
+      "body": [
+        "Simone Bolelli e Andrea Vavassori hanno superato Schnaitter e Wallner 6-3, 3-6, 10-6 all'esordio nel Masters 1000 di Parigi."
+      ],
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-03T17:01:03Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/video/2026/11/03/bolelli-vavassori-schnaitter-wallner-atp-parigi-highlights-1137059",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T17:01:03Z",
+        "dateEvidence": "Sky Sport riporta il 3 novembre 2026 alle 16:54 il risultato completo del doppio.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-verstappen-casco-brasile",
+      "eventKey": "verstappen-presenta-casco-speciale-gp-brasile-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Verstappen presenta un casco speciale per il Gran Premio del Brasile",
+      "summary": "Max Verstappen correrà a San Paolo con un casco nei colori brasiliani. Il weekend di Formula 1 è in programma dal 6 all'8 novembre.",
+      "body": [
+        "Max Verstappen correrà a San Paolo con un casco nei colori brasiliani. Il weekend di Formula 1 è in programma dal 6 all'8 novembre."
+      ],
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-03T17:01:03Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/formula-1/2026/11/03/f1-verstappen-red-bull-casco-gp-brasile",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T17:01:03Z",
+        "dateEvidence": "Sky Sport pubblica il 3 novembre 2026 alle 16:30 la fotogallery del casco e indica le date del GP.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
-  ]
+  ],
+  "completedAt": "2026-11-03T17:01:03Z"
 }
