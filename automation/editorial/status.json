@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-03",
-  "checkedAt": "2026-11-03T06:10:16.155Z",
+  "checkedAt": "2026-11-03T06:10:32.698Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -27,8 +27,7 @@
   "missing": [
     "politica",
     "roma",
-    "cultura",
-    "sport"
+    "cultura"
   ],
   "invalid": [
     {
@@ -37,6 +36,10 @@
     },
     {
       "slug": "tecnologia",
+      "reason": "Il blocco completo deve contenere 5 notizie distinte"
+    },
+    {
+      "slug": "sport",
       "reason": "Il blocco completo deve contenere 5 notizie distinte"
     }
   ],
