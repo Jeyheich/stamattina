@@ -113,5 +113,92 @@
       }
     }
   ],
-  "reserveArticles": []
+  "reserveArticles": [],
+  "reserveDraft": [
+    {
+      "id": "tecnologia-claude-giochi",
+      "eventKey": "claude-code-blocco-copie-videogiochi",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Claude Code, introdotta una regola contro le copie di videogiochi",
+      "summary": "Una nuova istruzione di Claude Code vieta di ricreare giochi esistenti, pur consentendo la produzione di titoli originali.",
+      "body": [
+        "Una nuova istruzione di Claude Code vieta di ricreare giochi esistenti, pur consentendo la produzione di titoli originali."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03T06:10:39.640Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/claude-smesso-copiare-videogiochi/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T06:10:39.640Z",
+        "dateEvidence": "Punto Informatico indica «Pubblicato il 2 nov 2026» e riporta la linea guida confermata da Addy Osmani.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-chainalysis-intrusione",
+      "eventKey": "chainalysis-breach-dati-utenti-ottobre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Chainalysis segnala una violazione dei sistemi interni",
+      "summary": "L'azienda riferisce accessi non autorizzati e sottrazione di alcuni dati identificativi; nega collegamenti con l'incidente Binance.",
+      "body": [
+        "L'azienda riferisce accessi non autorizzati e sottrazione di alcuni dati identificativi; nega collegamenti con l'incidente Binance."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03T06:10:39.640Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/fintech/criptovalute/attacco-agentico-contro-chainalysis/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T06:10:39.640Z",
+        "dateEvidence": "Punto Informatico indica «Pubblicato il 2 nov 2026» e descrive la comunicazione inviata ai clienti.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-spacex-boost",
+      "eventKey": "spacex-boost-mobile-trattative-rete",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "SpaceX valuta Boost Mobile per ampliare la connettività terrestre",
+      "summary": "Secondo fonti giornalistiche citate da Punto Informatico, SpaceX starebbe discutendo con EchoStar l'acquisizione o l'uso della rete di Boost Mobile.",
+      "body": [
+        "Secondo fonti giornalistiche citate da Punto Informatico, SpaceX starebbe discutendo con EchoStar l'acquisizione o l'uso della rete di Boost Mobile."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03T06:10:39.640Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/spacex-vuole-acquisire-boost-mobile/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T06:10:39.640Z",
+        "dateEvidence": "Punto Informatico indica «Pubblicato il 2 nov 2026» e attribuisce le indiscrezioni a fonti stampa.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-south-of-midnight",
+      "eventKey": "south-of-midnight-director-finanziamento-intervista",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "South of Midnight, il director riflette sui costi sostenuti da Xbox",
+      "summary": "David Sears ha dichiarato in un'intervista che, pur avendo voluto realizzare il gioco, probabilmente non avrebbe scelto personalmente di finanziarlo.",
+      "body": [
+        "David Sears ha dichiarato in un'intervista che, pur avendo voluto realizzare il gioco, probabilmente non avrebbe scelto personalmente di finanziarlo."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03T06:10:39.640Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/south-of-midnight-microsoft-non-dovuto-finanziarlo-ammette-director-gioco-909401.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T06:10:39.640Z",
+        "dateEvidence": "Everyeye mostra «2/11/2026, ore 22:37» e riporta l'intervista del director David Sears.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "lastAttemptAt": "2026-11-03T06:10:39.640Z"
 }
