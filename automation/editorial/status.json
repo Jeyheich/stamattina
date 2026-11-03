@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-03",
-  "checkedAt": "2026-11-03T06:10:47.349Z",
+  "checkedAt": "2026-11-03T06:11:18.973Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -10,10 +10,11 @@
     "cronaca",
     "roma",
     "cultura",
-    "tecnologia",
     "sport"
   ],
-  "completed": [],
+  "completed": [
+    "tecnologia"
+  ],
   "inProgress": [
     {
       "slug": "economia",
@@ -32,10 +33,6 @@
   "invalid": [
     {
       "slug": "esteri",
-      "reason": "Il blocco completo deve contenere 5 notizie distinte"
-    },
-    {
-      "slug": "tecnologia",
       "reason": "Il blocco completo deve contenere 5 notizie distinte"
     },
     {
@@ -71,6 +68,66 @@
       "title": "Trieste, due vittime nell'incendio di un magazzino al Porto Vecchio",
       "eventKey": "trieste-incendio-magazzino-porto-vecchio-due-vittime",
       "pending": true
+    },
+    {
+      "id": "tecnologia-danimarca-collabora-test-sospeso",
+      "category": "Tecnologia · AI",
+      "title": "Danimarca, il test di Collabora Office si è fermato senza una bocciatura",
+      "eventKey": "danimarca-collabora-office-test-sospeso"
+    },
+    {
+      "id": "tecnologia-openai-campus-calcolo",
+      "category": "Tecnologia · AI",
+      "title": "OpenAI valuta un nuovo nome per i data center nel dibattito americano",
+      "eventKey": "openai-data-center-campus-comunicazione"
+    },
+    {
+      "id": "tecnologia-android-sms-of-death",
+      "category": "Tecnologia · AI",
+      "title": "Android, una falla nei messaggi SMS può bloccare le chiamate",
+      "eventKey": "android-cve-2026-58882-sms-crash"
+    },
+    {
+      "id": "tecnologia-playstation-plus-novembre",
+      "category": "Tecnologia · AI",
+      "title": "PlayStation Plus, tre titoli nel catalogo Essential di novembre",
+      "eventKey": "playstation-plus-essential-novembre-2026-lineup"
+    },
+    {
+      "id": "tecnologia-kojima-od-teaser",
+      "category": "Tecnologia · AI",
+      "title": "OD di Kojima, nuovo teaser con Sophia Lillis in una mostra a Tokyo",
+      "eventKey": "kojima-od-sophia-lillis-teaser-mostra"
+    },
+    {
+      "id": "tecnologia-claude-giochi",
+      "category": "Tecnologia · AI",
+      "title": "Claude Code, introdotta una regola contro le copie di videogiochi",
+      "eventKey": "claude-code-blocco-copie-videogiochi"
+    },
+    {
+      "id": "tecnologia-chainalysis-intrusione",
+      "category": "Tecnologia · AI",
+      "title": "Chainalysis segnala una violazione dei sistemi interni",
+      "eventKey": "chainalysis-breach-dati-utenti-ottobre-2026"
+    },
+    {
+      "id": "tecnologia-spacex-boost",
+      "category": "Tecnologia · AI",
+      "title": "SpaceX valuta Boost Mobile per ampliare la connettività terrestre",
+      "eventKey": "spacex-boost-mobile-trattative-rete"
+    },
+    {
+      "id": "tecnologia-south-of-midnight",
+      "category": "Tecnologia · AI",
+      "title": "South of Midnight, il director riflette sui costi sostenuti da Xbox",
+      "eventKey": "south-of-midnight-director-finanziamento-intervista"
+    },
+    {
+      "id": "tecnologia-game-pass-novembre",
+      "category": "Tecnologia · AI",
+      "title": "Game Pass, nuovi arrivi a novembre tra sport e produzioni indipendenti",
+      "eventKey": "xbox-game-pass-novembre-2026-catalogo-nuovi-giochi"
     }
   ],
   "collectionId": "2026-11-03-mattina",
@@ -81,7 +138,7 @@
     "Cronaca": 0,
     "Roma": 0,
     "Cultura · Teatro · Cinema": 0,
-    "Tecnologia · AI": 0,
+    "Tecnologia · AI": 5,
     "Sport": 0
   },
   "photoCandidates": [],
@@ -124,15 +181,15 @@
       "complete": false
     },
     "tecnologia": {
-      "base": 0,
-      "reserve": 0,
-      "draft": 4,
-      "complete": false
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
     },
     "sport": {
       "base": 0,
       "reserve": 0,
-      "draft": 0,
+      "draft": 3,
       "complete": false
     }
   },
