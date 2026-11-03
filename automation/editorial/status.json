@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-03",
-  "checkedAt": "2026-11-03T06:13:30.332Z",
+  "checkedAt": "2026-11-03T07:01:29.749Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -9,11 +9,11 @@
     "economia",
     "cronaca",
     "roma",
-    "cultura",
-    "sport"
+    "cultura"
   ],
   "completed": [
-    "tecnologia"
+    "tecnologia",
+    "sport"
   ],
   "inProgress": [
     {
@@ -36,10 +36,6 @@
   "invalid": [
     {
       "slug": "esteri",
-      "reason": "Il blocco completo deve contenere 5 notizie distinte"
-    },
-    {
-      "slug": "sport",
       "reason": "Il blocco completo deve contenere 5 notizie distinte"
     }
   ],
@@ -117,6 +113,36 @@
       "eventKey": "kojima-od-sophia-lillis-teaser-mostra"
     },
     {
+      "id": "sport-parma-vince-atalanta",
+      "category": "Sport",
+      "title": "Parma, colpo a Bergamo: Atalanta battuta 3-0",
+      "eventKey": "parma-atalanta-serie-a-2-novembre-2026"
+    },
+    {
+      "id": "sport-musetti-hurkacz-parigi",
+      "category": "Sport",
+      "title": "Musetti supera Hurkacz e avanza al Masters di Parigi",
+      "eventKey": "musetti-hurkacz-parigi-masters-2026"
+    },
+    {
+      "id": "sport-fiorentina-sassuolo",
+      "category": "Sport",
+      "title": "Fiorentina, successo per 4-2 sul campo del Sassuolo",
+      "eventKey": "fiorentina-sassuolo-serie-a-2-novembre-2026"
+    },
+    {
+      "id": "sport-udinese-zanetti",
+      "category": "Sport",
+      "title": "Udinese, Paolo Zanetti prende il posto di Runjaic",
+      "eventKey": "udinese-paolo-zanetti-nuovo-allenatore-2026"
+    },
+    {
+      "id": "sport-antonelli-numero-dodici",
+      "category": "Sport",
+      "title": "Antonelli dopo il titolo mondiale: confermato il numero 12",
+      "eventKey": "antonelli-campione-mondo-mantiene-numero-12"
+    },
+    {
       "id": "tecnologia-claude-giochi",
       "category": "Tecnologia · AI",
       "title": "Claude Code, introdotta una regola contro le copie di videogiochi",
@@ -145,6 +171,36 @@
       "category": "Tecnologia · AI",
       "title": "Game Pass, nuovi arrivi a novembre tra sport e produzioni indipendenti",
       "eventKey": "xbox-game-pass-novembre-2026-catalogo-nuovi-giochi"
+    },
+    {
+      "id": "sport-raimondo-infortunio",
+      "category": "Sport",
+      "title": "Frosinone, grave lesione alla caviglia per Raimondo",
+      "eventKey": "frosinone-raimondo-lesione-caviglia-novembre-2026"
+    },
+    {
+      "id": "sport-champions-quarta-giornata",
+      "category": "Sport",
+      "title": "Champions, Inter e Roma in campo il 3 novembre",
+      "eventKey": "champions-league-2026-quarta-giornata-calendario-italiane"
+    },
+    {
+      "id": "sport-cobolli-rinuncia-parigi",
+      "category": "Sport",
+      "title": "Cobolli rinuncia al Masters di Parigi",
+      "eventKey": "cobolli-ritiro-masters-parigi-2026"
+    },
+    {
+      "id": "sport-juventus-mckennie-affaticamento",
+      "category": "Sport",
+      "title": "Juventus, McKennie da valutare per l'Europa League",
+      "eventKey": "juventus-mckennie-affaticamento-adduttore-europa-league-novembre-2026"
+    },
+    {
+      "id": "sport-pioli-lautaro-inter",
+      "category": "Sport",
+      "title": "Pioli analizza le difficoltà dell'Inter senza Lautaro",
+      "eventKey": "pioli-analisi-inter-assenza-lautaro-sky-calcio-club-2-novembre-2026"
     }
   ],
   "collectionId": "2026-11-03-mattina",
@@ -156,7 +212,7 @@
     "Roma": 0,
     "Cultura · Teatro · Cinema": 0,
     "Tecnologia · AI": 5,
-    "Sport": 0
+    "Sport": 5
   },
   "photoCandidates": [],
   "photosAvailable": 0,
@@ -204,10 +260,10 @@
       "complete": true
     },
     "sport": {
-      "base": 0,
-      "reserve": 0,
-      "draft": 3,
-      "complete": false
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
     }
   },
   "needsPublication": false
