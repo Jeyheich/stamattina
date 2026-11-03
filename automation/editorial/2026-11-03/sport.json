@@ -1,222 +1,52 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-11-03",
-  "collectionId": "2026-11-03-mattina",
+  "collectionId": "2026-11-03-pomeriggio",
   "category": "Sport",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-03T16:04:09Z",
   "articles": [
     {
-      "id": "sport-parma-vince-atalanta",
-      "eventKey": "parma-atalanta-serie-a-2-novembre-2026",
+      "id": "sport-inter-feyenoord-champions-3-novembre",
+      "eventKey": "inter-feyenoord-champions-league-3-novembre-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "Parma, colpo a Bergamo: Atalanta battuta 3-0",
-      "summary": "Fabbian apre il risultato, un'autorete di Zappacosta e il gol di Lontani completano la vittoria del Parma sul campo dell'Atalanta.",
+      "title": "Inter in trasferta contro il Feyenoord nella quarta giornata di Champions",
+      "summary": "L'Inter è attesa a Rotterdam alle 21 del 3 novembre per la quarta giornata della fase campionato di Champions League.",
       "body": [
-        "Fabbian apre il risultato, un'autorete di Zappacosta e il gol di Lontani completano la vittoria del Parma sul campo dell'Atalanta."
+        "L'Inter è attesa a Rotterdam alle 21 del 3 novembre per la quarta giornata della fase campionato di Champions League."
       ],
-      "publishedAt": "2026-11-02",
-      "verifiedAt": "2026-11-03T06:10:18.649Z",
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-03T16:04:09Z",
       "source": {
         "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-10/atalanta-parma/video-highlights",
+        "url": "https://sport.sky.it/calcio/champions-league/2026/11/03/feyenoord-inter-tv-streaming-dove-vedere",
         "access": "free",
-        "accessCheckedAt": "2026-11-03T06:10:18.649Z",
-        "dateEvidence": "La pagina Sky Sport del match riporta «lunedì 2 novembre 2026», risultato finale 0-3 e marcatori.",
+        "accessCheckedAt": "2026-11-03T16:04:09Z",
+        "dateEvidence": "Sky Sport indica «03 nov 2026 - 12:30» e la partita del 3 novembre alle 21.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "sport-musetti-hurkacz-parigi",
-      "eventKey": "musetti-hurkacz-parigi-masters-2026",
+      "id": "sport-fifpro-top11-candidati-2026",
+      "eventKey": "fifpro-world-eleven-candidati-2026-assenza-serie-a",
       "category": "Sport",
       "status": "verified",
-      "title": "Musetti supera Hurkacz e avanza al Masters di Parigi",
-      "summary": "Lorenzo Musetti supera Hubert Hurkacz con un doppio 7-6 e si qualifica al secondo turno, dove affronterà Alexander Zverev.",
+      "title": "FIFPro World 11, nessun calciatore italiano o di Serie A tra i candidati",
+      "summary": "La lista dei 26 candidati alla formazione ideale FIFPro 2026 non comprende giocatori italiani né della Serie A; i vincitori saranno annunciati il 9 novembre.",
       "body": [
-        "Lorenzo Musetti supera Hubert Hurkacz con un doppio 7-6 e si qualifica al secondo turno, dove affronterà Alexander Zverev."
+        "La lista dei 26 candidati alla formazione ideale FIFPro 2026 non comprende giocatori italiani né della Serie A; i vincitori saranno annunciati il 9 novembre."
       ],
-      "publishedAt": "2026-11-02",
-      "verifiedAt": "2026-11-03T06:10:18.649Z",
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-03T16:04:09Z",
       "source": {
         "name": "Sky Sport",
-        "url": "https://sport.sky.it/tennis/2026/11/02/musetti-hurkacz-atp-parigi-risultato",
+        "url": "https://sport.sky.it/calcio/2026/11/03/fifpro-world-top-11-2026-giocatori-candidati",
         "access": "free",
-        "accessCheckedAt": "2026-11-03T06:10:18.649Z",
-        "dateEvidence": "Sky Sport indica «02 nov 2026 - 12:55» e descrive il successo in due tie-break.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "sport-fiorentina-sassuolo",
-      "eventKey": "fiorentina-sassuolo-serie-a-2-novembre-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Fiorentina, successo per 4-2 sul campo del Sassuolo",
-      "summary": "La squadra viola supera il Sassuolo in una gara da sei reti, decisa nel finale dai gol di Mastantuono e Valdepenas.",
-      "body": [
-        "La squadra viola supera il Sassuolo in una gara da sei reti, decisa nel finale dai gol di Mastantuono e Valdepenas."
-      ],
-      "publishedAt": "2026-11-02",
-      "verifiedAt": "2026-11-03T06:10:28.452Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-10/sassuolo-fiorentina/video-highlights",
-        "access": "free",
-        "accessCheckedAt": "2026-11-03T06:10:28.452Z",
-        "dateEvidence": "Sky Sport riporta data della gara 2 novembre 2026, punteggio 2-4 e marcatori nel tabellino.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "sport-udinese-zanetti",
-      "eventKey": "udinese-paolo-zanetti-nuovo-allenatore-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Udinese, Paolo Zanetti prende il posto di Runjaic",
-      "summary": "Il club friulano affida la panchina a Paolo Zanetti dopo l'esonero di Kosta Runjaic; l'esordio è previsto contro il Venezia.",
-      "body": [
-        "Il club friulano affida la panchina a Paolo Zanetti dopo l'esonero di Kosta Runjaic; l'esordio è previsto contro il Venezia."
-      ],
-      "publishedAt": "2026-11-02",
-      "verifiedAt": "2026-11-03T06:10:28.452Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/2026/11/02/udinese-paolo-zanetti-allenatore-news",
-        "access": "free",
-        "accessCheckedAt": "2026-11-03T06:10:28.452Z",
-        "dateEvidence": "Sky Sport data l'articolo «02 nov 2026 - 18:31» e riporta il cambio di allenatore.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "sport-antonelli-numero-dodici",
-      "eventKey": "antonelli-campione-mondo-mantiene-numero-12",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Antonelli dopo il titolo mondiale: confermato il numero 12",
-      "summary": "Il nuovo campione del mondo di Formula 1 ha spiegato che conserverà il numero 12 per restare concentrato sulla prossima stagione.",
-      "body": [
-        "Il nuovo campione del mondo di Formula 1 ha spiegato che conserverà il numero 12 per restare concentrato sulla prossima stagione."
-      ],
-      "publishedAt": "2026-11-02",
-      "verifiedAt": "2026-11-03T06:10:28.452Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/formula-1/2026/11/02/kimi-antonelli-campione-f1-intervista-video",
-        "access": "free",
-        "accessCheckedAt": "2026-11-03T06:10:28.452Z",
-        "dateEvidence": "Sky Sport pubblica l'intervista «02 nov 2026 - 08:00», con dichiarazione diretta sul numero 12.",
+        "accessCheckedAt": "2026-11-03T16:04:09Z",
+        "dateEvidence": "Sky Sport riporta «03 nov 2026 - 12:15» e spiega i criteri della shortlist.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
-  ],
-  "reserveArticles": [
-    {
-      "id": "sport-raimondo-infortunio",
-      "eventKey": "frosinone-raimondo-lesione-caviglia-novembre-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Frosinone, grave lesione alla caviglia per Raimondo",
-      "summary": "Gli esami evidenziano una lesione multilegamentosa della caviglia sinistra: l'attaccante rischia uno stop prolungato.",
-      "body": [
-        "Gli esami evidenziano una lesione multilegamentosa della caviglia sinistra: l'attaccante rischia uno stop prolungato."
-      ],
-      "publishedAt": "2026-11-02",
-      "verifiedAt": "2026-11-03T06:11:00.383Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/2026/11/02/raimondo-frosinone-infortunio-news",
-        "access": "free",
-        "accessCheckedAt": "2026-11-03T06:11:00.383Z",
-        "dateEvidence": "Sky Sport «02 nov 2026 - 16:47», descrizione degli esami e rischio di stop fino al 2027.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "sport-champions-quarta-giornata",
-      "eventKey": "champions-league-2026-quarta-giornata-calendario-italiane",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Champions, Inter e Roma in campo il 3 novembre",
-      "summary": "La quarta giornata della fase campionato propone Feyenoord-Inter e Manchester United-Roma martedì; Como e Napoli giocheranno mercoledì.",
-      "body": [
-        "La quarta giornata della fase campionato propone Feyenoord-Inter e Manchester United-Roma martedì; Como e Napoli giocheranno mercoledì."
-      ],
-      "publishedAt": "2026-11-02",
-      "verifiedAt": "2026-11-03T06:11:00.383Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/champions-league/2026/11/02/champions-league-calendario-orari-partite-giornata-4",
-        "access": "free",
-        "accessCheckedAt": "2026-11-03T06:11:00.383Z",
-        "dateEvidence": "Sky Sport «02 nov 2026 - 14:00», calendario delle partite del 3 e 4 novembre.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "sport-cobolli-rinuncia-parigi",
-      "eventKey": "cobolli-ritiro-masters-parigi-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Cobolli rinuncia al Masters di Parigi",
-      "summary": "Flavio Cobolli non parteciperà al torneo parigino dopo i problemi fisici accusati nei giorni precedenti.",
-      "body": [
-        "Flavio Cobolli non parteciperà al torneo parigino dopo i problemi fisici accusati nei giorni precedenti."
-      ],
-      "publishedAt": "2026-11-02",
-      "verifiedAt": "2026-11-03T06:11:00.383Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/tennis/video/2026/11/02/cobolli-salta-atp-parigi-news-1136831",
-        "access": "free",
-        "accessCheckedAt": "2026-11-03T06:11:00.383Z",
-        "dateEvidence": "Sky Sport «02 nov 2026 - 19:55», titolo «Cobolli salta il Masters 1000 di Parigi: l'annuncio».",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "sport-juventus-mckennie-affaticamento",
-      "eventKey": "juventus-mckennie-affaticamento-adduttore-europa-league-novembre-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Juventus, McKennie da valutare per l'Europa League",
-      "summary": "Dopo il successo sul Napoli, gli esami hanno rilevato un affaticamento all'adduttore per McKennie. Cabal e Alajbegovic non hanno riportato problemi significativi.",
-      "body": [
-        "Dopo il successo sul Napoli, gli esami hanno rilevato un affaticamento all'adduttore per McKennie. Cabal e Alajbegovic non hanno riportato problemi significativi."
-      ],
-      "publishedAt": "2026-11-02T13:11:00+01:00",
-      "verifiedAt": "2026-11-03T07:01:14.333Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://videoembed.ansa.it/sito/notizie/sport/calcio/2026/11/02/calcio-juve-affaticamento-per-mckennie-a-rischio-per-le.league_5b34cab3-cc99-432b-abea-2724d099c02b.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-03T07:01:14.333Z",
-        "dateEvidence": "La pagina ANSA riporta TORINO, 02 novembre 2026, 13:11 e descrive la valutazione medica dopo Juventus-Napoli.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "sport-pioli-lautaro-inter",
-      "eventKey": "pioli-analisi-inter-assenza-lautaro-sky-calcio-club-2-novembre-2026",
-      "category": "Sport",
-      "status": "verified",
-      "title": "Pioli analizza le difficoltà dell'Inter senza Lautaro",
-      "summary": "Intervenendo allo Sky Calcio Club, Stefano Pioli ha sottolineato quanto l'assenza di Lautaro Martínez pesi sull'Inter, evidenziandone leadership e partecipazione al gioco.",
-      "body": [
-        "Intervenendo allo Sky Calcio Club, Stefano Pioli ha sottolineato quanto l'assenza di Lautaro Martínez pesi sull'Inter, evidenziandone leadership e partecipazione al gioco."
-      ],
-      "publishedAt": "2026-11-02T08:00:00+01:00",
-      "verifiedAt": "2026-11-03T07:01:14.333Z",
-      "source": {
-        "name": "Sky Sport",
-        "url": "https://sport.sky.it/calcio/serie-a/2026/11/02/pioli-inter-lautaro-martinez-sky-calcio-club",
-        "access": "free",
-        "accessCheckedAt": "2026-11-03T07:01:14.333Z",
-        "dateEvidence": "Sky Sport indica 02 nov 2026 - 08:00 sopra il testo dell'intervento di Stefano Pioli allo Sky Calcio Club.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    }
-  ],
-  "completedAt": "2026-11-03T06:10:28.452Z",
-  "lastAttemptAt": "2026-11-03T07:01:14.333Z"
+  ]
 }
