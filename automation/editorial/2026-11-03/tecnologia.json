@@ -3,8 +3,6 @@
   "editionDate": "2026-11-03",
   "collectionId": "2026-11-03-pomeriggio",
   "category": "Tecnologia · AI",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-03T16:04:09Z",
   "articles": [
     {
       "id": "tecnologia-freezer-supermercati-attacco-italia",
@@ -68,6 +66,49 @@
         "dateEvidence": "La pagina riporta «Pubblicato il 2 nov 2026» e cita la conferma della nuova linea guida da parte di Addy Osmani.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "tecnologia-elder-scrolls-vi-sentinel",
+      "eventKey": "bethesda-annuncio-elder-scrolls-vi-sentinel-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Bethesda presenta il titolo The Elder Scrolls VI: Sentinel",
+      "summary": "Microsoft e Bethesda hanno mostrato un teaser per il quarantesimo anniversario della serie, confermando il titolo Sentinel senza comunicare una data di uscita.",
+      "body": [
+        "Microsoft e Bethesda hanno mostrato un teaser per il quarantesimo anniversario della serie, confermando il titolo Sentinel senza comunicare una data di uscita."
+      ],
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-03T17:01:03Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/the-elder-scrolls-sentinel-ufficiale-teaser-svela-definitivo-909561.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T17:01:03Z",
+        "dateEvidence": "Everyeye indica 3/11/2026 ore 16:37; l'articolo descrive il teaser pubblicato da Bethesda.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-gog-giochi-pc-fisici",
+      "eventKey": "gog-ipotesi-ritorno-copie-fisiche-pc-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "GOG valuta l'idea delle copie fisiche dei giochi PC, ma non annuncia un servizio",
+      "summary": "Un dirigente di GOG vorrebbe permettere agli utenti di ordinare una copia fisica dei titoli nella propria libreria. Logistica e permessi degli editori rendono il progetto ancora ipotetico.",
+      "body": [
+        "Un dirigente di GOG vorrebbe permettere agli utenti di ordinare una copia fisica dei titoli nella propria libreria. Logistica e permessi degli editori rendono il progetto ancora ipotetico."
+      ],
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-03T17:01:03Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/giochi-pc-scatola-gog-punta-ritorno-fisico-avverte-e-complicato-909558.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T17:01:03Z",
+        "dateEvidence": "Everyeye indica 3/11/2026 ore 16:34 e riporta le dichiarazioni di Marcin Paczynski.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
-  ]
+  ],
+  "completedAt": "2026-11-03T17:01:03Z"
 }
