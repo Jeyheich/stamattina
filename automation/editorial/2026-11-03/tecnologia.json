@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-03",
+  "collectionId": "2026-11-03-mattina",
+  "category": "Tecnologia · AI",
+  "completedAt": "2026-11-03T06:10:02.331Z",
+  "articles": [
+    {
+      "id": "tecnologia-danimarca-collabora-test-sospeso",
+      "eventKey": "danimarca-collabora-office-test-sospeso",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Danimarca, il test di Collabora Office si è fermato senza una bocciatura",
+      "summary": "Collabora precisa che il progetto con i ministeri danesi è stato sospeso prima della valutazione finale, non respinto per incompatibilità.",
+      "body": [
+        "Collabora precisa che il progetto con i ministeri danesi è stato sospeso prima della valutazione finale, non respinto per incompatibilità.",
+        "La precisazione distingue la sospensione amministrativa dalla valutazione tecnica della suite."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03T06:10:02.331Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/danimarca-collabora-non-alternativa-microsoft-office/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T06:10:02.331Z",
+        "dateEvidence": "La pagina indica esplicitamente «Pubblicato il 2 nov 2026»; descrive la sospensione della sperimentazione.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "leadPriority": 82
+    },
+    {
+      "id": "tecnologia-openai-campus-calcolo",
+      "eventKey": "openai-data-center-campus-comunicazione",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "OpenAI valuta un nuovo nome per i data center nel dibattito americano",
+      "summary": "Secondo Punto Informatico, l'azienda starebbe considerando la definizione di campus di calcolo per presentare le proprie infrastrutture AI.",
+      "body": [
+        "Secondo Punto Informatico, l'azienda starebbe considerando la definizione di campus di calcolo per presentare le proprie infrastrutture AI."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03T06:10:02.331Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/data-center-no-grazie-openai-campus-calcolo/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T06:10:02.331Z",
+        "dateEvidence": "La pagina riporta «Pubblicato il 2 nov 2026» e attribuisce la notizia ad Axios.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-android-sms-of-death",
+      "eventKey": "android-cve-2026-58882-sms-crash",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Android, una falla nei messaggi SMS può bloccare le chiamate",
+      "summary": "La vulnerabilità CVE-2026-58882 può provocare il crash del processo telefonico; le patch di ottobre sono indicate come correttive.",
+      "body": [
+        "La vulnerabilità CVE-2026-58882 può provocare il crash del processo telefonico; le patch di ottobre sono indicate come correttive."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03T06:10:02.331Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/sms-of-death-messaggio-blocca-smartphone-android/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T06:10:02.331Z",
+        "dateEvidence": "La pagina indica «Pubblicato il 2 nov 2026» e identifica CVE-2026-58882.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-playstation-plus-novembre",
+      "eventKey": "playstation-plus-essential-novembre-2026-lineup",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "PlayStation Plus, tre titoli nel catalogo Essential di novembre",
+      "summary": "Dal 3 novembre gli abbonati possono riscattare Dead Island 2, Tomb Raider IV-VI Remastered e Monster Train 2, secondo Everyeye.",
+      "body": [
+        "Dal 3 novembre gli abbonati possono riscattare Dead Island 2, Tomb Raider IV-VI Remastered e Monster Train 2, secondo Everyeye."
+      ],
+      "publishedAt": "2026-11-03T06:02:00+01:00",
+      "verifiedAt": "2026-11-03T06:10:02.331Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/novembre-playstation-plus-porta-grandi-sorprese-giochi-gratis-tomb-raider-908523.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T06:10:02.331Z",
+        "dateEvidence": "Firma Davide Leoni, data visibile «3/11/2026, ore 06:02»; lista dei tre giochi nell'articolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-kojima-od-teaser",
+      "eventKey": "kojima-od-sophia-lillis-teaser-mostra",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "OD di Kojima, nuovo teaser con Sophia Lillis in una mostra a Tokyo",
+      "summary": "Una nuova immagine promozionale dell'horror OD è stata esposta per il decennale di Kojima Productions; i dettagli della trama restano ipotesi.",
+      "body": [
+        "Una nuova immagine promozionale dell'horror OD è stata esposta per il decennale di Kojima Productions; i dettagli della trama restano ipotesi."
+      ],
+      "publishedAt": "2026-11-03T00:05:00+01:00",
+      "verifiedAt": "2026-11-03T06:10:02.331Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/sophia-lillis-protagonista-immagine-teaser-horror-firmato-hideo-kojima-909407.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T06:10:02.331Z",
+        "dateEvidence": "Firma Mario Cariati, data visibile «3/11/2026, ore 00:05»; articolo cita l'immagine esposta a Tokyo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": []
+}
