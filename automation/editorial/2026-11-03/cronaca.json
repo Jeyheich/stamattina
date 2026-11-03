@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-03",
+  "collectionId": "2026-11-03-mattina",
+  "category": "Cronaca",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-03T06:15:00+01:00",
+  "articles": [
+    {
+      "id": "cronaca-blitz-criminalita-giovanile-novembre-2026",
+      "eventKey": "polizia-blitz-nazionale-criminalita-giovanile-novembre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Operazione nazionale contro la criminalità giovanile: 644 arresti",
+      "summary": "Un'operazione coordinata della Polizia nelle ultime due settimane ha portato a 644 arresti, fra cui 69 minorenni. I controlli hanno interessato oltre 230mila giovani nelle aree di movida e spaccio.",
+      "body": [
+        "Un'operazione coordinata della Polizia nelle ultime due settimane ha portato a 644 arresti, fra cui 69 minorenni. I controlli hanno interessato oltre 230mila giovani nelle aree di movida e spaccio."
+      ],
+      "publishedAt": "2026-11-02T13:21:00+01:00",
+      "verifiedAt": "2026-11-03T06:15:00+01:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/video/2026/11/02/criminalita-giovanile-blitz-italia-arresti-1136706",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T06:15:00+01:00",
+        "dateEvidence": "Sky TG24, video e testo datati 02 novembre 2026 ore 13:21.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-incendio-porto-vecchio-trieste-novembre-2026",
+      "eventKey": "trieste-incendio-magazzino-porto-vecchio-due-vittime",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Trieste, due vittime nell'incendio di un magazzino al Porto Vecchio",
+      "summary": "Un incendio in un magazzino dismesso, utilizzato come riparo di fortuna, ha provocato due morti. Durante le operazioni di spegnimento i vigili del fuoco hanno trovato i corpi; il solaio è crollato.",
+      "body": [
+        "Un incendio in un magazzino dismesso, utilizzato come riparo di fortuna, ha provocato due morti. Durante le operazioni di spegnimento i vigili del fuoco hanno trovato i corpi; il solaio è crollato."
+      ],
+      "publishedAt": "2026-11-02T11:45:00+01:00",
+      "verifiedAt": "2026-11-03T06:15:00+01:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/video/2026/11/02/incendio-trieste-porto-vecchio-morti-1136680",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T06:15:00+01:00",
+        "dateEvidence": "Sky TG24, video e testo datati 02 novembre 2026 ore 11:45.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveDraft": []
+}
