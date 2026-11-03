@@ -111,5 +111,71 @@
     }
   ],
   "reserveArticles": [],
-  "completedAt": "2026-11-03T06:10:28.452Z"
+  "completedAt": "2026-11-03T06:10:28.452Z",
+  "reserveDraft": [
+    {
+      "id": "sport-raimondo-infortunio",
+      "eventKey": "frosinone-raimondo-lesione-caviglia-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Frosinone, grave lesione alla caviglia per Raimondo",
+      "summary": "Gli esami evidenziano una lesione multilegamentosa della caviglia sinistra: l'attaccante rischia uno stop prolungato.",
+      "body": [
+        "Gli esami evidenziano una lesione multilegamentosa della caviglia sinistra: l'attaccante rischia uno stop prolungato."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03T06:11:00.383Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/11/02/raimondo-frosinone-infortunio-news",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T06:11:00.383Z",
+        "dateEvidence": "Sky Sport «02 nov 2026 - 16:47», descrizione degli esami e rischio di stop fino al 2027.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-champions-quarta-giornata",
+      "eventKey": "champions-league-2026-quarta-giornata-calendario-italiane",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Champions, Inter e Roma in campo il 3 novembre",
+      "summary": "La quarta giornata della fase campionato propone Feyenoord-Inter e Manchester United-Roma martedì; Como e Napoli giocheranno mercoledì.",
+      "body": [
+        "La quarta giornata della fase campionato propone Feyenoord-Inter e Manchester United-Roma martedì; Como e Napoli giocheranno mercoledì."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03T06:11:00.383Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/champions-league/2026/11/02/champions-league-calendario-orari-partite-giornata-4",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T06:11:00.383Z",
+        "dateEvidence": "Sky Sport «02 nov 2026 - 14:00», calendario delle partite del 3 e 4 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-cobolli-rinuncia-parigi",
+      "eventKey": "cobolli-ritiro-masters-parigi-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Cobolli rinuncia al Masters di Parigi",
+      "summary": "Flavio Cobolli non parteciperà al torneo parigino dopo i problemi fisici accusati nei giorni precedenti.",
+      "body": [
+        "Flavio Cobolli non parteciperà al torneo parigino dopo i problemi fisici accusati nei giorni precedenti."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03T06:11:00.383Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/video/2026/11/02/cobolli-salta-atp-parigi-news-1136831",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T06:11:00.383Z",
+        "dateEvidence": "Sky Sport «02 nov 2026 - 19:55», titolo «Cobolli salta il Masters 1000 di Parigi: l'annuncio».",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "lastAttemptAt": "2026-11-03T06:11:00.383Z"
 }
