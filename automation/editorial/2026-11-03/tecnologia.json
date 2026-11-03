@@ -113,8 +113,7 @@
       }
     }
   ],
-  "reserveArticles": [],
-  "reserveDraft": [
+  "reserveArticles": [
     {
       "id": "tecnologia-claude-giochi",
       "eventKey": "claude-code-blocco-copie-videogiochi",
@@ -198,7 +197,27 @@
         "dateEvidence": "Everyeye mostra «2/11/2026, ore 22:37» e riporta l'intervista del director David Sears.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "tecnologia-game-pass-novembre",
+      "eventKey": "xbox-game-pass-novembre-2026-catalogo-nuovi-giochi",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Game Pass, nuovi arrivi a novembre tra sport e produzioni indipendenti",
+      "summary": "Il catalogo Xbox Game Pass si amplia a novembre con Football Manager 27, Escape Academy 2 e altri titoli annunciati per il mese.",
+      "body": [
+        "Tra le nuove uscite elencate figurano Football Manager 27 il 3 novembre e Escape Academy 2 il 5 novembre."
+      ],
+      "publishedAt": "2026-11-02T21:14:00+01:00",
+      "verifiedAt": "2026-11-03T06:10:47.505Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/xbox-game-pass-novembre-2026-mese-ricco-novit-esclusive-grandi-ritorni-909331.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T06:10:47.505Z",
+        "dateEvidence": "Everyeye indica «2/11/2026, ore 21:14» e presenta il calendario dei titoli in arrivo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
-  ],
-  "lastAttemptAt": "2026-11-03T06:10:39.640Z"
+  ]
 }
