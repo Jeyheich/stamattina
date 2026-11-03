@@ -110,5 +110,112 @@
       }
     }
   ],
-  "completedAt": "2026-11-03T17:01:03Z"
+  "completedAt": "2026-11-03T17:01:03Z",
+  "reserveArticles": [
+    {
+      "id": "sport-riserva-dimarco-inter-2028",
+      "eventKey": "inter-attiva-opzione-dimarco-contratto-2028",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Inter, esercitata l'opzione contrattuale per Dimarco fino al 2028",
+      "summary": "L'Inter ha attivato la clausola che prolunga di un anno il contratto di Federico Dimarco. Un ulteriore rinnovo resta oggetto di trattativa.",
+      "body": [
+        "L'Inter ha attivato la clausola che prolunga di un anno il contratto di Federico Dimarco. Un ulteriore rinnovo resta oggetto di trattativa."
+      ],
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-03T17:01:03Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/11/03/inter-dimarco-rinnovo-news",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T17:01:03Z",
+        "dateEvidence": "Sky Sport riporta 03 nov 2026 ore 12:25 e distingue l'opzione già esercitata dalla trattativa futura.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-riserva-juventus-capitale-250milioni",
+      "eventKey": "juventus-assemblea-approva-aumento-capitale-250-milioni-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Juventus, via libera degli azionisti a un aumento di capitale da 250 milioni",
+      "summary": "L'assemblea della Juventus ha approvato l'operazione per rafforzare il patrimonio del club, sostenere i conti e gli investimenti sportivi.",
+      "body": [
+        "L'assemblea della Juventus ha approvato l'operazione per rafforzare il patrimonio del club, sostenere i conti e gli investimenti sportivi."
+      ],
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-03T17:01:03Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/11/03/juventus-bilancio-aumento-capitale-assemblea-azionisti",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T17:01:03Z",
+        "dateEvidence": "Sky Sport indica 03 nov 2026 ore 16:15 e riporta l'approvazione dell'assemblea.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-riserva-atalanta-ritiro-sarri",
+      "eventKey": "atalanta-annuncia-ritiro-dopo-sconfitta-parma-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Atalanta in ritiro dopo la sconfitta con il Parma, confermato Sarri",
+      "summary": "Dopo il 3-0 subito dal Parma, il dirigente Cristiano Giuntoli ha annunciato il ritiro della squadra fino a domenica, ribadendo la fiducia nell'allenatore.",
+      "body": [
+        "Dopo il 3-0 subito dal Parma, il dirigente Cristiano Giuntoli ha annunciato il ritiro della squadra fino a domenica, ribadendo la fiducia nell'allenatore."
+      ],
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-03T17:01:03Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/11/02/atalanta-ritiro-sarri-giuntoli-intervista-video",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T17:01:03Z",
+        "dateEvidence": "Sky Sport pubblica alle 00:35 del 3 novembre 2026 l'intervista dopo Atalanta-Parma.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-riserva-cobolli-rinuncia-parigi",
+      "eventKey": "cobolli-rinuncia-atp-parigi-problema-muscolare-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Cobolli rinuncia al Masters 1000 di Parigi per un problema muscolare",
+      "summary": "Flavio Cobolli ha comunicato di non voler rischiare dopo aver avvertito ancora fastidio durante la preparazione. L'obiettivo resta il recupero in vista delle Finals.",
+      "body": [
+        "Flavio Cobolli ha comunicato di non voler rischiare dopo aver avvertito ancora fastidio durante la preparazione. L'obiettivo resta il recupero in vista delle Finals."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-03T17:01:03Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/2026/11/02/cobolli-infortunio-condizioni-news-atp-parigi",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T17:01:03Z",
+        "dateEvidence": "Sky Sport indica 02 nov 2026 ore 19:54 e riporta la dichiarazione del tennista.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-riserva-roma-manchester-united-champions",
+      "eventKey": "roma-manchester-united-champions-3-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Roma attesa a Old Trafford per la quarta giornata di Champions League",
+      "summary": "La Roma affronta il Manchester United alle 21 del 3 novembre nella fase campionato della Champions League, in una trasferta impegnativa per i giallorossi.",
+      "body": [
+        "La Roma affronta il Manchester United alle 21 del 3 novembre nella fase campionato della Champions League, in una trasferta impegnativa per i giallorossi."
+      ],
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-03T17:01:03Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/champions-league/2026/11/03/manchester-united-roma-tv-streaming-dove-vedere",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T17:01:03Z",
+        "dateEvidence": "Sky Sport pubblica 03 nov 2026 ore 12:30 e conferma la partita delle 21.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
 }
