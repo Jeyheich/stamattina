@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-03",
+  "collectionId": "2026-11-03-pomeriggio",
+  "category": "Roma",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-03T16:18:53.121Z",
+  "articles": [
+    {
+      "id": "roma-viabilita-cerimonie-4-novembre-2026",
+      "eventKey": "roma-cerimonie-4-novembre-2026-viabilita",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Roma, chiusure e deviazioni per le celebrazioni del 4 novembre",
+      "summary": "Per le cerimonie del 4 novembre sono previsti divieti di sosta e transito tra Circo Massimo e piazza Venezia. Dalle 7:30 di mercoledì chiusure anche in via dei Cerchi, via del Circo Massimo e via della Greca; alcune linee bus vengono deviate.",
+      "body": [
+        "Per le cerimonie del 4 novembre sono previsti divieti di sosta e transito tra Circo Massimo e piazza Venezia. Dalle 7:30 di mercoledì chiusure anche in via dei Cerchi, via del Circo Massimo e via della Greca; alcune linee bus vengono deviate."
+      ],
+      "publishedAt": "2026-10-28T12:00:00+01:00",
+      "verifiedAt": "2026-11-03T16:18:53.121Z",
+      "source": {
+        "name": "Roma Servizi per la Mobilità",
+        "url": "https://romamobilita.it/primo-piano/cerimonie-4-novembre-la-viabilita/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T16:18:53.121Z",
+        "dateEvidence": "Roma Servizi per la Mobilità indica pubblicazione 28/10/2026 e aggiornamento 02/11/2026; l'orario originario non è indicato.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "updatedAt": "2026-11-02"
+    }
+  ]
+}
