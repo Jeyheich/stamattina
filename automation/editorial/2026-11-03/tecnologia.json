@@ -1,221 +1,71 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-11-03",
-  "collectionId": "2026-11-03-mattina",
+  "collectionId": "2026-11-03-pomeriggio",
   "category": "Tecnologia · AI",
-  "completedAt": "2026-11-03T06:10:02.331Z",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-03T16:04:09Z",
   "articles": [
     {
-      "id": "tecnologia-danimarca-collabora-test-sospeso",
-      "eventKey": "danimarca-collabora-office-test-sospeso",
+      "id": "tecnologia-freezer-supermercati-attacco-italia",
+      "eventKey": "cyberattacco-freezer-supermercati-italia-novembre-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "Danimarca, il test di Collabora Office si è fermato senza una bocciatura",
-      "summary": "Collabora precisa che il progetto con i ministeri danesi è stato sospeso prima della valutazione finale, non respinto per incompatibilità.",
+      "title": "Attacco informatico ai freezer dei supermercati, segnalazioni anche in Italia",
+      "summary": "Un'intrusione nei sistemi di telecontrollo ha alterato le temperature dei banchi surgelati in alcuni supermercati italiani ed europei.",
       "body": [
-        "Collabora precisa che il progetto con i ministeri danesi è stato sospeso prima della valutazione finale, non respinto per incompatibilità.",
-        "La precisazione distingue la sospensione amministrativa dalla valutazione tecnica della suite."
+        "Un'intrusione nei sistemi di telecontrollo ha alterato le temperature dei banchi surgelati in alcuni supermercati italiani ed europei."
       ],
-      "publishedAt": "2026-11-02",
-      "verifiedAt": "2026-11-03T06:10:02.331Z",
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-03T16:04:09Z",
       "source": {
         "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/danimarca-collabora-non-alternativa-microsoft-office/",
+        "url": "https://www.punto-informatico.it/lattacco-freezer-supermercati-italia/",
         "access": "free",
-        "accessCheckedAt": "2026-11-03T06:10:02.331Z",
-        "dateEvidence": "La pagina indica esplicitamente «Pubblicato il 2 nov 2026»; descrive la sospensione della sperimentazione.",
+        "accessCheckedAt": "2026-11-03T16:04:09Z",
+        "dateEvidence": "La pagina riporta «Pubblicato il 3 nov 2026» e cita segnalazioni in Emilia-Romagna, Toscana e Sicilia.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
-      },
-      "leadPriority": 82
+      }
     },
     {
-      "id": "tecnologia-openai-campus-calcolo",
-      "eventKey": "openai-data-center-campus-comunicazione",
+      "id": "tecnologia-apple-homeview-ultra-robot-casa",
+      "eventKey": "apple-homeview-ultra-robot-domestico-indiscrezioni-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "OpenAI valuta un nuovo nome per i data center nel dibattito americano",
-      "summary": "Secondo Punto Informatico, l'azienda starebbe considerando la definizione di campus di calcolo per presentare le proprie infrastrutture AI.",
+      "title": "Apple, indiscrezioni su un robot domestico chiamato HomeView Ultra",
+      "summary": "Secondo fonti riportate da Punto Informatico, Apple lavorerebbe a un robot per la casa con schermo e funzioni intelligenti, senza annuncio ufficiale.",
       "body": [
-        "Secondo Punto Informatico, l'azienda starebbe considerando la definizione di campus di calcolo per presentare le proprie infrastrutture AI."
+        "Secondo fonti riportate da Punto Informatico, Apple lavorerebbe a un robot per la casa con schermo e funzioni intelligenti, senza annuncio ufficiale."
       ],
-      "publishedAt": "2026-11-02",
-      "verifiedAt": "2026-11-03T06:10:02.331Z",
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-03T16:04:09Z",
       "source": {
         "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/data-center-no-grazie-openai-campus-calcolo/",
+        "url": "https://www.punto-informatico.it/homeview-ultra-robot-apple-casa/",
         "access": "free",
-        "accessCheckedAt": "2026-11-03T06:10:02.331Z",
-        "dateEvidence": "La pagina riporta «Pubblicato il 2 nov 2026» e attribuisce la notizia ad Axios.",
+        "accessCheckedAt": "2026-11-03T16:04:09Z",
+        "dateEvidence": "La pagina indica «Pubblicato il 3 nov 2026» e precisa che Apple non ha annunciato ufficialmente il prodotto.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "tecnologia-android-sms-of-death",
-      "eventKey": "android-cve-2026-58882-sms-crash",
+      "id": "tecnologia-claude-code-limiti-cloni-videogiochi",
+      "eventKey": "claude-code-linea-guida-evitare-copie-videogiochi-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "Android, una falla nei messaggi SMS può bloccare le chiamate",
-      "summary": "La vulnerabilità CVE-2026-58882 può provocare il crash del processo telefonico; le patch di ottobre sono indicate come correttive.",
+      "title": "Claude Code, una linea guida contro la riproduzione di videogiochi esistenti",
+      "summary": "Punto Informatico riferisce che Claude Code ha introdotto istruzioni per scoraggiare la riproduzione di giochi già esistenti, distinguendola dalla creazione originale.",
       "body": [
-        "La vulnerabilità CVE-2026-58882 può provocare il crash del processo telefonico; le patch di ottobre sono indicate come correttive."
+        "Punto Informatico riferisce che Claude Code ha introdotto istruzioni per scoraggiare la riproduzione di giochi già esistenti, distinguendola dalla creazione originale."
       ],
       "publishedAt": "2026-11-02",
-      "verifiedAt": "2026-11-03T06:10:02.331Z",
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/sms-of-death-messaggio-blocca-smartphone-android/",
-        "access": "free",
-        "accessCheckedAt": "2026-11-03T06:10:02.331Z",
-        "dateEvidence": "La pagina indica «Pubblicato il 2 nov 2026» e identifica CVE-2026-58882.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "tecnologia-playstation-plus-novembre",
-      "eventKey": "playstation-plus-essential-novembre-2026-lineup",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "PlayStation Plus, tre titoli nel catalogo Essential di novembre",
-      "summary": "Dal 3 novembre gli abbonati possono riscattare Dead Island 2, Tomb Raider IV-VI Remastered e Monster Train 2, secondo Everyeye.",
-      "body": [
-        "Dal 3 novembre gli abbonati possono riscattare Dead Island 2, Tomb Raider IV-VI Remastered e Monster Train 2, secondo Everyeye."
-      ],
-      "publishedAt": "2026-11-03T06:02:00+01:00",
-      "verifiedAt": "2026-11-03T06:10:02.331Z",
-      "source": {
-        "name": "Everyeye",
-        "url": "https://www.everyeye.it/notizie/novembre-playstation-plus-porta-grandi-sorprese-giochi-gratis-tomb-raider-908523.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-03T06:10:02.331Z",
-        "dateEvidence": "Firma Davide Leoni, data visibile «3/11/2026, ore 06:02»; lista dei tre giochi nell'articolo.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "tecnologia-kojima-od-teaser",
-      "eventKey": "kojima-od-sophia-lillis-teaser-mostra",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "OD di Kojima, nuovo teaser con Sophia Lillis in una mostra a Tokyo",
-      "summary": "Una nuova immagine promozionale dell'horror OD è stata esposta per il decennale di Kojima Productions; i dettagli della trama restano ipotesi.",
-      "body": [
-        "Una nuova immagine promozionale dell'horror OD è stata esposta per il decennale di Kojima Productions; i dettagli della trama restano ipotesi."
-      ],
-      "publishedAt": "2026-11-03T00:05:00+01:00",
-      "verifiedAt": "2026-11-03T06:10:02.331Z",
-      "source": {
-        "name": "Everyeye",
-        "url": "https://www.everyeye.it/notizie/sophia-lillis-protagonista-immagine-teaser-horror-firmato-hideo-kojima-909407.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-03T06:10:02.331Z",
-        "dateEvidence": "Firma Mario Cariati, data visibile «3/11/2026, ore 00:05»; articolo cita l'immagine esposta a Tokyo.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    }
-  ],
-  "reserveArticles": [
-    {
-      "id": "tecnologia-claude-giochi",
-      "eventKey": "claude-code-blocco-copie-videogiochi",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "Claude Code, introdotta una regola contro le copie di videogiochi",
-      "summary": "Una nuova istruzione di Claude Code vieta di ricreare giochi esistenti, pur consentendo la produzione di titoli originali.",
-      "body": [
-        "Una nuova istruzione di Claude Code vieta di ricreare giochi esistenti, pur consentendo la produzione di titoli originali."
-      ],
-      "publishedAt": "2026-11-02",
-      "verifiedAt": "2026-11-03T06:10:39.640Z",
+      "verifiedAt": "2026-11-03T16:04:09Z",
       "source": {
         "name": "Punto Informatico",
         "url": "https://www.punto-informatico.it/claude-smesso-copiare-videogiochi/",
         "access": "free",
-        "accessCheckedAt": "2026-11-03T06:10:39.640Z",
-        "dateEvidence": "Punto Informatico indica «Pubblicato il 2 nov 2026» e riporta la linea guida confermata da Addy Osmani.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "tecnologia-chainalysis-intrusione",
-      "eventKey": "chainalysis-breach-dati-utenti-ottobre-2026",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "Chainalysis segnala una violazione dei sistemi interni",
-      "summary": "L'azienda riferisce accessi non autorizzati e sottrazione di alcuni dati identificativi; nega collegamenti con l'incidente Binance.",
-      "body": [
-        "L'azienda riferisce accessi non autorizzati e sottrazione di alcuni dati identificativi; nega collegamenti con l'incidente Binance."
-      ],
-      "publishedAt": "2026-11-02",
-      "verifiedAt": "2026-11-03T06:10:39.640Z",
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/fintech/criptovalute/attacco-agentico-contro-chainalysis/",
-        "access": "free",
-        "accessCheckedAt": "2026-11-03T06:10:39.640Z",
-        "dateEvidence": "Punto Informatico indica «Pubblicato il 2 nov 2026» e descrive la comunicazione inviata ai clienti.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "tecnologia-spacex-boost",
-      "eventKey": "spacex-boost-mobile-trattative-rete",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "SpaceX valuta Boost Mobile per ampliare la connettività terrestre",
-      "summary": "Secondo fonti giornalistiche citate da Punto Informatico, SpaceX starebbe discutendo con EchoStar l'acquisizione o l'uso della rete di Boost Mobile.",
-      "body": [
-        "Secondo fonti giornalistiche citate da Punto Informatico, SpaceX starebbe discutendo con EchoStar l'acquisizione o l'uso della rete di Boost Mobile."
-      ],
-      "publishedAt": "2026-11-02",
-      "verifiedAt": "2026-11-03T06:10:39.640Z",
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/spacex-vuole-acquisire-boost-mobile/",
-        "access": "free",
-        "accessCheckedAt": "2026-11-03T06:10:39.640Z",
-        "dateEvidence": "Punto Informatico indica «Pubblicato il 2 nov 2026» e attribuisce le indiscrezioni a fonti stampa.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "tecnologia-south-of-midnight",
-      "eventKey": "south-of-midnight-director-finanziamento-intervista",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "South of Midnight, il director riflette sui costi sostenuti da Xbox",
-      "summary": "David Sears ha dichiarato in un'intervista che, pur avendo voluto realizzare il gioco, probabilmente non avrebbe scelto personalmente di finanziarlo.",
-      "body": [
-        "David Sears ha dichiarato in un'intervista che, pur avendo voluto realizzare il gioco, probabilmente non avrebbe scelto personalmente di finanziarlo."
-      ],
-      "publishedAt": "2026-11-02",
-      "verifiedAt": "2026-11-03T06:10:39.640Z",
-      "source": {
-        "name": "Everyeye",
-        "url": "https://www.everyeye.it/notizie/south-of-midnight-microsoft-non-dovuto-finanziarlo-ammette-director-gioco-909401.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-03T06:10:39.640Z",
-        "dateEvidence": "Everyeye mostra «2/11/2026, ore 22:37» e riporta l'intervista del director David Sears.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "tecnologia-game-pass-novembre",
-      "eventKey": "xbox-game-pass-novembre-2026-catalogo-nuovi-giochi",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "Game Pass, nuovi arrivi a novembre tra sport e produzioni indipendenti",
-      "summary": "Il catalogo Xbox Game Pass si amplia a novembre con Football Manager 27, Escape Academy 2 e altri titoli annunciati per il mese.",
-      "body": [
-        "Tra le nuove uscite elencate figurano Football Manager 27 il 3 novembre e Escape Academy 2 il 5 novembre."
-      ],
-      "publishedAt": "2026-11-02T21:14:00+01:00",
-      "verifiedAt": "2026-11-03T06:10:47.505Z",
-      "source": {
-        "name": "Everyeye",
-        "url": "https://www.everyeye.it/notizie/xbox-game-pass-novembre-2026-mese-ricco-novit-esclusive-grandi-ritorni-909331.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-03T06:10:47.505Z",
-        "dateEvidence": "Everyeye indica «2/11/2026, ore 21:14» e presenta il calendario dei titoli in arrivo.",
+        "accessCheckedAt": "2026-11-03T16:04:09Z",
+        "dateEvidence": "La pagina riporta «Pubblicato il 2 nov 2026» e cita la conferma della nuova linea guida da parte di Addy Osmani.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
