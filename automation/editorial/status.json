@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-03",
-  "checkedAt": "2026-11-03T06:10:32.698Z",
+  "checkedAt": "2026-11-03T06:10:47.349Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -126,7 +126,7 @@
     "tecnologia": {
       "base": 0,
       "reserve": 0,
-      "draft": 0,
+      "draft": 4,
       "complete": false
     },
     "sport": {
