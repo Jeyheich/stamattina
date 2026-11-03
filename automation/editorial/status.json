@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-03",
-  "checkedAt": "2026-11-03T06:11:18.973Z",
+  "checkedAt": "2026-11-03T06:13:30.332Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -23,12 +23,15 @@
     {
       "slug": "cronaca",
       "count": 2
+    },
+    {
+      "slug": "cultura",
+      "count": 2
     }
   ],
   "missing": [
     "politica",
-    "roma",
-    "cultura"
+    "roma"
   ],
   "invalid": [
     {
@@ -67,6 +70,20 @@
       "category": "Cronaca",
       "title": "Trieste, due vittime nell'incendio di un magazzino al Porto Vecchio",
       "eventKey": "trieste-incendio-magazzino-porto-vecchio-due-vittime",
+      "pending": true
+    },
+    {
+      "id": "cultura-rossellini-retrospettiva-film-forum-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "New York dedica a Rossellini una retrospettiva di 25 film",
+      "eventKey": "rossellini-120-film-forum-retrospettiva-2026",
+      "pending": true
+    },
+    {
+      "id": "cultura-schermo-arte-firenze-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Lo Schermo dell'arte torna a Firenze con film su ambiente e conflitti",
+      "eventKey": "lo-schermo-dellarte-firenze-edizione-novembre-2026",
       "pending": true
     },
     {
