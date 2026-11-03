@@ -1,54 +1,29 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-11-03",
-  "collectionId": "2026-11-03-mattina",
+  "collectionId": "2026-11-03-pomeriggio",
   "category": "Cultura · Teatro · Cinema",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-03T06:13:18.220Z",
+  "lastAttemptAt": "2026-11-03T16:18:53.121Z",
   "articles": [
     {
-      "id": "cultura-rossellini-retrospettiva-film-forum-2026",
-      "eventKey": "rossellini-120-film-forum-retrospettiva-2026",
-      "title": "New York dedica a Rossellini una retrospettiva di 25 film",
-      "summary": "Dal 20 novembre al 10 dicembre il Film Forum celebra i 120 anni dalla nascita di Roberto Rossellini con copie restaurate e pellicole in 35 mm. Isabella Rossellini parteciperà alle proiezioni inaugurali.",
-      "publishedAt": "2026-11-02T17:18:00+01:00",
-      "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/ny-si-unisce-a-los-angeles-e-celebra-il-120o-anniversario-della-nascita-di-rossellini_788ae064-c782-4abc-bb19-192c6bbeabf6.html",
-      "dateEvidence": "La pagina ANSA riporta NEW YORK, 02 novembre 2026, 17:18.",
+      "id": "cultura-travolta-torino-film-festival-2026",
+      "eventKey": "john-travolta-torino-film-festival-2026",
       "category": "Cultura · Teatro · Cinema",
       "status": "verified",
+      "title": "Travolta al Torino Film Festival con il suo debutto alla regia",
+      "summary": "John Travolta parteciperà al Torino Film Festival, in programma dal 24 novembre al 2 dicembre, per presentare in anteprima italiana Propeller One-Way Night Coach, il primo film da lui diretto. Riceverà anche il Premio Stella della Mole nella serata inaugurale.",
       "body": [
-        "Dal 20 novembre al 10 dicembre il Film Forum celebra i 120 anni dalla nascita di Roberto Rossellini con copie restaurate e pellicole in 35 mm. Isabella Rossellini parteciperà alle proiezioni inaugurali."
+        "John Travolta parteciperà al Torino Film Festival, in programma dal 24 novembre al 2 dicembre, per presentare in anteprima italiana Propeller One-Way Night Coach, il primo film da lui diretto. Riceverà anche il Premio Stella della Mole nella serata inaugurale."
       ],
-      "verifiedAt": "2026-11-03T06:13:18.220Z",
+      "publishedAt": "2026-11-03T09:47:00+01:00",
+      "verifiedAt": "2026-11-03T16:18:53.121Z",
       "source": {
         "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/ny-si-unisce-a-los-angeles-e-celebra-il-120o-anniversario-della-nascita-di-rossellini_788ae064-c782-4abc-bb19-192c6bbeabf6.html",
+        "url": "https://www.ansa.it/amp/piemonte/notizie/2026/11/03/john-travolta-sara-ospite-del-torino-film-festival_ef522060-8265-4aa0-abd5-aac5c549ad07.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-03T06:13:18.220Z",
-        "dateEvidence": "La pagina ANSA riporta NEW YORK, 02 novembre 2026, 17:18.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cultura-schermo-arte-firenze-2026",
-      "eventKey": "lo-schermo-dellarte-firenze-edizione-novembre-2026",
-      "title": "Lo Schermo dell'arte torna a Firenze con film su ambiente e conflitti",
-      "summary": "La rassegna di cinema e arte contemporanea si svolgerà dall'11 al 15 novembre a Firenze, con anteprime dedicate anche alla crisi ecologica e alla guerra.",
-      "publishedAt": "2026-11-02T16:47:00+01:00",
-      "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/dalla-crisi-ecologica-alla-guerra-film-in-anteprima-con-lo-schermo-dellarte_2c3e9618-b2a9-4853-a666-b1051e483d33.html",
-      "dateEvidence": "La pagina ANSA Cinema indica 02 novembre 2026 - 16:47.",
-      "category": "Cultura · Teatro · Cinema",
-      "status": "verified",
-      "body": [
-        "La rassegna di cinema e arte contemporanea si svolgerà dall'11 al 15 novembre a Firenze, con anteprime dedicate anche alla crisi ecologica e alla guerra."
-      ],
-      "verifiedAt": "2026-11-03T06:13:18.220Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/dalla-crisi-ecologica-alla-guerra-film-in-anteprima-con-lo-schermo-dellarte_2c3e9618-b2a9-4853-a666-b1051e483d33.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-03T06:13:18.220Z",
-        "dateEvidence": "La pagina ANSA Cinema indica 02 novembre 2026 - 16:47.",
+        "accessCheckedAt": "2026-11-03T16:18:53.121Z",
+        "dateEvidence": "La sezione ANSA Cultura riporta 03 novembre 2026 - 09:47 per la notizia di John Travolta.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
