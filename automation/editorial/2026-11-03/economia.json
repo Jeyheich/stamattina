@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-03",
+  "collectionId": "2026-11-03-mattina",
+  "category": "Economia",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-03T06:15:00+01:00",
+  "articles": [
+    {
+      "id": "economia-ryanair-conti-semestrali-novembre-2026",
+      "eventKey": "ryanair-utile-semestrale-calo-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Ryanair, utile semestrale in calo nonostante più passeggeri",
+      "summary": "Il vettore registra un utile netto di 2,15 miliardi di euro, in flessione del 15%. Il traffico cresce, ma tariffe più basse e costi operativi più elevati comprimono il risultato.",
+      "body": [
+        "Il vettore registra un utile netto di 2,15 miliardi di euro, in flessione del 15%. Il traffico cresce, ma tariffe più basse e costi operativi più elevati comprimono il risultato."
+      ],
+      "publishedAt": "2026-11-02T08:28:00+01:00",
+      "verifiedAt": "2026-11-03T06:15:00+01:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/02/lutile-semestrale-di-ryanair-scivola-del-15-a-215-miliardi_abff0a1c-274b-4cdf-ba40-3a3f7c8ad3fa.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T06:15:00+01:00",
+        "dateEvidence": "ANSA, 2 novembre 2026 ore 08:28, indicato nell'intestazione dell'articolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-confesercenti-consumi-novembre-2026",
+      "eventKey": "confesercenti-ipsos-caro-vita-consumi-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Confesercenti: il caro vita mette a rischio i consumi del trimestre",
+      "summary": "Secondo un'indagine Confesercenti-Ipsos, più di nove intervistati su dieci hanno ridotto le spese o adottato strategie di risparmio. L'associazione stima 1,4 miliardi di consumi a rischio nel trimestre.",
+      "body": [
+        "Secondo un'indagine Confesercenti-Ipsos, più di nove intervistati su dieci hanno ridotto le spese o adottato strategie di risparmio. L'associazione stima 1,4 miliardi di consumi a rischio nel trimestre."
+      ],
+      "publishedAt": "2026-11-02T08:59:00+01:00",
+      "verifiedAt": "2026-11-03T06:15:00+01:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/amp/sito/notizie/economia/pmi/2026/11/02/confesercenti-allarme-caro-vita-nel-trimestre-a-rischio-consumi-per-14-miliardi_3f42ef3b-9228-41c7-a1a2-ac723fbb974c.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T06:15:00+01:00",
+        "dateEvidence": "ANSA, articolo datato 2 novembre 2026; indice Economia ore 08:59.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveDraft": []
+}
