@@ -110,5 +110,70 @@
       }
     }
   ],
-  "completedAt": "2026-11-03T17:01:03Z"
+  "completedAt": "2026-11-03T17:01:03Z",
+  "reserveDraft": [
+    {
+      "id": "tecnologia-riserva-openai-bug-bounty",
+      "eventKey": "openai-aumenta-premi-bug-bounty-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Aumentano i premi per le vulnerabilità segnalate a OpenAI",
+      "summary": "Il programma di segnalazione delle falle prevede ricompense fino a circa 172.000 dollari, calcolate anche in base alla qualità del rapporto e alla gravità del problema.",
+      "body": [
+        "Il programma di segnalazione delle falle prevede ricompense fino a circa 172.000 dollari, calcolate anche in base alla qualità del rapporto e alla gravità del problema."
+      ],
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-03T17:01:03Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/openai-aumenta-premi-scoperta-vulnerabilita/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T17:01:03Z",
+        "dateEvidence": "Punto Informatico riporta Pubblicato il 3 nov 2026 e descrive i nuovi massimali del bug bounty.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-riserva-brave-causa-editori",
+      "eventKey": "new-york-times-causa-brave-copyright-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Brave citata in giudizio da editori statunitensi per i contenuti destinati all'AI",
+      "summary": "Il New York Times e altri quotidiani contestano a Brave la raccolta e la distribuzione di contenuti protetti da copyright a società di intelligenza artificiale. Le accuse devono essere valutate in giudizio.",
+      "body": [
+        "Il New York Times e altri quotidiani contestano a Brave la raccolta e la distribuzione di contenuti protetti da copyright a società di intelligenza artificiale. Le accuse devono essere valutate in giudizio."
+      ],
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-03T17:01:03Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/brave-accusata-rubare-contenuti-giornali-venderli-ai/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T17:01:03Z",
+        "dateEvidence": "Punto Informatico indica Pubblicato il 3 nov 2026 e descrive i ricorsi a Manhattan.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-riserva-google-botnet-videostrong",
+      "eventKey": "google-smantella-botnet-videostrong-android-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Google smantella una botnet di set-top box Android",
+      "summary": "Google riferisce di avere interrotto una rete di oltre 1,3 milioni di dispositivi con backdoor XCPE e revocato la licenza Android al produttore Videostrong.",
+      "body": [
+        "Google riferisce di avere interrotto una rete di oltre 1,3 milioni di dispositivi con backdoor XCPE e revocato la licenza Android al produttore Videostrong."
+      ],
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-03T17:01:03Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/google-smantella-botnet-creata-partner-android/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T17:01:03Z",
+        "dateEvidence": "Punto Informatico riporta Pubblicato il 3 nov 2026 e spiega la revoca della licenza Android.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
 }
