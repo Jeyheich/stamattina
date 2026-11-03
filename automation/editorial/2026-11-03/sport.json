@@ -110,9 +110,7 @@
       }
     }
   ],
-  "reserveArticles": [],
-  "completedAt": "2026-11-03T06:10:28.452Z",
-  "reserveDraft": [
+  "reserveArticles": [
     {
       "id": "sport-raimondo-infortunio",
       "eventKey": "frosinone-raimondo-lesione-caviglia-novembre-2026",
@@ -175,7 +173,50 @@
         "dateEvidence": "Sky Sport «02 nov 2026 - 19:55», titolo «Cobolli salta il Masters 1000 di Parigi: l'annuncio».",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "sport-juventus-mckennie-affaticamento",
+      "eventKey": "juventus-mckennie-affaticamento-adduttore-europa-league-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Juventus, McKennie da valutare per l'Europa League",
+      "summary": "Dopo il successo sul Napoli, gli esami hanno rilevato un affaticamento all'adduttore per McKennie. Cabal e Alajbegovic non hanno riportato problemi significativi.",
+      "body": [
+        "Dopo il successo sul Napoli, gli esami hanno rilevato un affaticamento all'adduttore per McKennie. Cabal e Alajbegovic non hanno riportato problemi significativi."
+      ],
+      "publishedAt": "2026-11-02T13:11:00+01:00",
+      "verifiedAt": "2026-11-03T07:01:14.333Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://videoembed.ansa.it/sito/notizie/sport/calcio/2026/11/02/calcio-juve-affaticamento-per-mckennie-a-rischio-per-le.league_5b34cab3-cc99-432b-abea-2724d099c02b.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T07:01:14.333Z",
+        "dateEvidence": "La pagina ANSA riporta TORINO, 02 novembre 2026, 13:11 e descrive la valutazione medica dopo Juventus-Napoli.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-pioli-lautaro-inter",
+      "eventKey": "pioli-analisi-inter-assenza-lautaro-sky-calcio-club-2-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Pioli analizza le difficoltà dell'Inter senza Lautaro",
+      "summary": "Intervenendo allo Sky Calcio Club, Stefano Pioli ha sottolineato quanto l'assenza di Lautaro Martínez pesi sull'Inter, evidenziandone leadership e partecipazione al gioco.",
+      "body": [
+        "Intervenendo allo Sky Calcio Club, Stefano Pioli ha sottolineato quanto l'assenza di Lautaro Martínez pesi sull'Inter, evidenziandone leadership e partecipazione al gioco."
+      ],
+      "publishedAt": "2026-11-02T08:00:00+01:00",
+      "verifiedAt": "2026-11-03T07:01:14.333Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/11/02/pioli-inter-lautaro-martinez-sky-calcio-club",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T07:01:14.333Z",
+        "dateEvidence": "Sky Sport indica 02 nov 2026 - 08:00 sopra il testo dell'intervento di Stefano Pioli allo Sky Calcio Club.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
   ],
-  "lastAttemptAt": "2026-11-03T06:11:00.383Z"
+  "completedAt": "2026-11-03T06:10:28.452Z",
+  "lastAttemptAt": "2026-11-03T07:01:14.333Z"
 }
