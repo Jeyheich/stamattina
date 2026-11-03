@@ -111,7 +111,7 @@
     }
   ],
   "completedAt": "2026-11-03T17:01:03Z",
-  "reserveDraft": [
+  "reserveArticles": [
     {
       "id": "tecnologia-riserva-openai-bug-bounty",
       "eventKey": "openai-aumenta-premi-bug-bounty-novembre-2026",
@@ -172,6 +172,48 @@
         "access": "free",
         "accessCheckedAt": "2026-11-03T17:01:03Z",
         "dateEvidence": "Punto Informatico riporta Pubblicato il 3 nov 2026 e spiega la revoca della licenza Android.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-riserva-prince-persia-remake-offerta",
+      "eventKey": "fan-offre-cinque-milioni-euro-remake-prince-persia-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Un appassionato propone fondi per rilanciare il remake cancellato di Prince of Persia",
+      "summary": "Un fan ha pubblicato una proposta da oltre cinque milioni di euro per aiutare Ubisoft a completare il remake di Le Sabbie del Tempo. Non risulta un accordo con l'editore.",
+      "body": [
+        "Un fan ha pubblicato una proposta da oltre cinque milioni di euro per aiutare Ubisoft a completare il remake di Le Sabbie del Tempo. Non risulta un accordo con l'editore."
+      ],
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-03T17:01:03Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/prince-of-persia-offerta-ubisoft-5-milioni-dollari-finire-lavori-remake-cancellato-909537.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T17:01:03Z",
+        "dateEvidence": "Everyeye indica 3/11/2026 ore 16:04 e riporta la lettera aperta del fan.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-riserva-itchio-filtro-ai",
+      "eventKey": "itchio-introduce-filtro-no-ai-ricerca-videogiochi-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "itch.io introduce un filtro per escludere i videogiochi dichiarati come generati con AI",
+      "summary": "Il negozio indipendente ha aggiunto l'opzione No AI alle ricerche. Il filtro dipende dalle dichiarazioni degli sviluppatori e non garantisce di individuare tutti i giochi realizzati con strumenti generativi.",
+      "body": [
+        "Il negozio indipendente ha aggiunto l'opzione No AI alle ricerche. Il filtro dipende dalle dichiarazioni degli sviluppatori e non garantisce di individuare tutti i giochi realizzati con strumenti generativi."
+      ],
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-03T17:01:03Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/store-digitale-dichiara-guerra-ai-steam-riempie-robaccia-909566.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-03T17:01:03Z",
+        "dateEvidence": "Everyeye pubblica il 3/11/2026 alle 16:56 e cita la comunicazione di itch.io dello stesso giorno.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
