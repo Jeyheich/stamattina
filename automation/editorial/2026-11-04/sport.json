@@ -117,5 +117,51 @@
     }
   ],
   "reserveArticles": [],
-  "reserveDraft": []
+  "reserveDraft": [
+    {
+      "id": "sport-roma-ko-manchester-united",
+      "eventKey": "roma-rimonta-subita-manchester-united-20261103",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Roma battuta 3-2 dal Manchester United dopo il doppio vantaggio",
+      "summary": "La Roma ha perso 3-2 all'Old Trafford dopo essere stata avanti 2-0 nel primo tempo.",
+      "body": [
+        "La Roma ha perso 3-2 all'Old Trafford dopo essere stata avanti 2-0 nel primo tempo.",
+        "La squadra inglese ha ribaltato il risultato nella ripresa, con un rigore di Bruno Fernandes e una doppietta di Cunha."
+      ],
+      "publishedAt": "2026-11-03T23:28:00+01:00",
+      "verifiedAt": "2026-11-04T06:04:41.689Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/champions-league/2026/11/03/man-united-roma-pagelle",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T06:04:41.689Z",
+        "dateEvidence": "La pagina pagelle è datata 03 nov 2026 - 23:28 e riporta risultato e marcatori.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-antonelli-mondiale-f1-2026",
+      "eventKey": "antonelli-campione-mondiale-f1-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Kimi Antonelli conquista il Mondiale di Formula 1 2026",
+      "summary": "Kimi Antonelli ha vinto il titolo piloti di Formula 1 2026 con Mercedes, riportando il titolo in Italia dopo oltre settant'anni.",
+      "body": [
+        "Kimi Antonelli ha vinto il titolo piloti di Formula 1 2026 con Mercedes, riportando il titolo in Italia dopo oltre settant'anni.",
+        "Il resoconto della stagione evidenzia i successi in Cina, Giappone e Monza e la crescita del pilota italiano."
+      ],
+      "publishedAt": "2026-11-01T23:28:00+01:00",
+      "verifiedAt": "2026-11-04T06:04:41.689Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/formula-1/f1-kimi-antonelli-mondiale-2026",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T06:04:41.689Z",
+        "dateEvidence": "Il riepilogo del titolo mondiale è datato 01 nov 2026 - 23:28, entro 72 ore.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "lastAttemptAt": "2026-11-04T06:04:41.689Z"
 }
