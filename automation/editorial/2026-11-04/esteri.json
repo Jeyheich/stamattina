@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-04",
+  "collectionId": "2026-11-04-mattina",
+  "category": "Esteri",
+  "completedAt": "2026-11-04T11:20:51.638100+00:00",
+  "articles": [
+    {
+      "id": "esteri-usa-midterm-congresso-proiezioni-20261104",
+      "eventKey": "usa-midterm-congresso-proiezioni-20261104",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Midterm Usa, le proiezioni assegnano il Congresso ai democratici",
+      "summary": "RaiNews riporta proiezioni favorevoli ai democratici sia alla Camera sia al Senato.",
+      "body": [
+        "Il riepilogo cita NBC e Decision Desk HQ e riferisce le dichiarazioni di Trump sulla collaborazione con la nuova maggioranza. I numeri riportati restano proiezioni, da distinguere dai risultati definitivamente certificati."
+      ],
+      "publishedAt": "2026-11-04",
+      "verifiedAt": "2026-11-04T11:20:51.638100+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/maratona/2026/11/midterm-usa-2026-democratici-repubblicani-risultati-voto-donald-trump-cdee7466-51f5-4976-906e-c89377d0f963.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:20:51.638100+00:00",
+        "dateEvidence": "Diretta RaiNews con aggiornamenti del 04/11/2026; riepilogo attribuito alle proiezioni NBC e Decision Desk HQ.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-harvard-hum10-corso-senza-ai-20261104",
+      "eventKey": "harvard-hum10-corso-senza-ai-20261104",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Harvard, cresce la domanda per un corso senza dispositivi e AI",
+      "summary": "Le richieste per Humanities 10 aumentano del 40%: 180 matricole per novanta posti.",
+      "body": [
+        "Il corso richiede la lettura di un volume alla settimana ed esclude dispositivi elettronici e intelligenza artificiale. RaiNews presenta il caso come ricerca di uno studio più approfondito, senza dimostrare un cambiamento generalizzato dell’intero ateneo."
+      ],
+      "publishedAt": "2026-11-04T09:22:00+00:00",
+      "verifiedAt": "2026-11-04T11:20:51.638100+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/fuga-dal-digitale-ad-harvard-ce-la-fila-per-il-corso-di-letteratura-piu-duro-senza-smartphone-e-ia-d946b0ad-26c0-4a21-96da-9afc51aab727.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:20:51.638100+00:00",
+        "dateEvidence": "Articolo RaiNews e RSS della sezione Esteri del 4 novembre 2026; dati su iscrizioni e posti del corso Hum 10.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-israele-consultazioni-herzog-20261104",
+      "eventKey": "israele-consultazioni-herzog-20261104",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Israele, Herzog apre le consultazioni partendo dai piccoli partiti",
+      "summary": "Il presidente avvia il 4 novembre i colloqui per individuare chi possa formare il nuovo governo.",
+      "body": [
+        "L’annuncio del 2 novembre indica un ordine crescente per numero di seggi. Il deputato incaricato avrà ventotto giorni per costruire l’esecutivo, con una possibile proroga prevista dalla legge.",
+        "I colloqui riguardano le liste elette alla nuova Knesset. L’articolo descrive il calendario delle consultazioni, non un governo già formato."
+      ],
+      "publishedAt": "2026-11-02T17:23:00+01:00",
+      "verifiedAt": "2026-11-04T11:20:51.638100+00:00",
+      "source": {
+        "name": "ANSAmed",
+        "url": "https://www.ansa.it/ansamed/it/notizie/rubriche/politica/2026/11/02/israele-le-consultazioni-di-herzog-mercoledi-in-diretta-streaming_c7dc4198-db0d-4cf6-9da6-da70fd089814.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:20:51.638100+00:00",
+        "dateEvidence": "Pagina ANSAmed: 02 novembre 2026, 17:23; consultazioni previste per il 4 novembre, data distinta dall’annuncio.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Knesset_Building_%28From_Front%29.JPG",
+        "alt": "La Knesset, Gerusalemme",
+        "credit": "Effib",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG",
+        "rights": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · La Knesset, Gerusalemme. Fotografia non riferita agli eventi di oggi.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      },
+      "leadPriority": 85
+    },
+    {
+      "id": "esteri-ucraina-incontro-ricostruzione-bruxelles-20261104",
+      "eventKey": "ucraina-incontro-ricostruzione-bruxelles-20261104",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Ucraina, a Bruxelles il confronto su finanziamenti e ricostruzione",
+      "summary": "Il calendario diplomatico prevede un incontro con delegati ucraini, statunitensi ed europei, Nato e Banca Mondiale.",
+      "body": [
+        "RaiNews descrive un tavolo a prevalente contenuto economico sui bisogni finanziari e sulla ricostruzione. Non viene presentato come un accordo di pace raggiunto né come una riunione tra Putin e Zelensky."
+      ],
+      "publishedAt": "2026-11-04T03:30:00+01:00",
+      "verifiedAt": "2026-11-04T11:20:51.638100+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/maratona/2026/11/ucraina-guerra-bombe-russe-centro-aiuti-morti-trilaterale-russia-usa-ucraina-10-e-11-novembre-abu-dhabi-8516e3a6-8fcd-4356-81f4-59d4bd1c706f.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:20:51.638100+00:00",
+        "dateEvidence": "Diretta RaiNews: aggiornamento 03:30 del 04 Novembre, sezione sui vertici diplomatici e tavolo economico di Bruxelles.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-yemen-taiz-allarme-umanitario-onu-20261104",
+      "eventKey": "yemen-taiz-allarme-umanitario-onu-20261104",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Yemen, allarme Onu per la popolazione di Taiz",
+      "summary": "Circa un milione di persone rischia di restare senza beni essenziali, secondo l’allarme riportato da RaiNews.",
+      "body": [
+        "Il coordinatore umanitario Tom Fletcher denuncia minore disponibilità d’acqua, rincari alimentari e carenza di carburante e farmaci negli ospedali. Le difficoltà di accesso ostacolano anche l’arrivo dei convogli di aiuti."
+      ],
+      "publishedAt": "2026-11-04T00:31:00+01:00",
+      "verifiedAt": "2026-11-04T11:20:51.638100+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/amp/maratona/2026/11/medio-oriente-via-libera-khamenei-al-governo-per-negoziare-con-usa-cala-prezzo-petrolio-dc276a60-ca05-4660-a3bd-09dbfb34c40d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:20:51.638100+00:00",
+        "dateEvidence": "Diretta RaiNews, voce Yemen: Onu, situazione a Taiz, marcata 00:31 04 Novembre 2026; pagina aperta e letta.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
+}
