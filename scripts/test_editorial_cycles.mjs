@@ -44,6 +44,21 @@ try{
  ok('nessuna nuova edizione pronta: incoming obsoleto non pubblicato',()=>{const before=fs.readFileSync('dist/data/current.json','utf8');fs.unlinkSync(path.join(cyclePath(root,day+'-pomeriggio'),'roma.json'));runAssembly({cycle:day+'-pomeriggio',now});execFileSync(process.execPath,[promote]);assert.equal(fs.readFileSync('dist/data/current.json','utf8'),before);save({roma:pm.roma});});
  ok('migrazione legacy ripetibile, originali e parziali conservati',()=>{const legacy=path.join(root,day,'politica.json');writeJSON(legacy,pm.politica);assert.deepEqual(ingestLegacy(root,day),[]);const saved=fs.readFileSync(path.join(root,day,'legacy-imports.json'),'utf8');assert.deepEqual(ingestLegacy(root,day),[]);assert.equal(fs.readFileSync(path.join(root,day,'legacy-imports.json'),'utf8'),saved);assert.deepEqual(JSON.parse(fs.readFileSync(legacy)),pm.politica);assert.deepEqual(readBlocks(root,day+'-mattina'),am);});
  ok('conflitto non sovrascrive il canonico',()=>{const b=structuredClone(pm.politica);b.articles[0].title='Conflitto stesso timestamp';writeJSON(path.join(root,day,'politica.json'),b);assert(ingestLegacy(root,day).length);assert.deepEqual(readBlocks(root,day+'-pomeriggio').politica,pm.politica);});
+ ok('selettore workflow legge il ciclo nel commit originale, non nel checkout nuovo',()=>{
+  const selector=fileURLToPath(new URL('./select_editorial_cycle.mjs',import.meta.url));
+  const repo=path.join(temp,'event-test');fs.mkdirSync(repo);process.chdir(repo);
+  execFileSync('git',['init','-q']);execFileSync('git',['config','user.email','fixture@example.org']);execFileSync('git',['config','user.name','Fixture']);
+  writeJSON('initial.json',{});execFileSync('git',['add','.']);execFileSync('git',['commit','-qm','initial']);
+  const before=execFileSync('git',['rev-parse','HEAD'],{encoding:'utf8'}).trim();
+  const file=path.join(root,day,'politica.json');writeJSON(file,am.politica);execFileSync('git',['add','.']);execFileSync('git',['commit','-qm','morning']);
+  const sha=execFileSync('git',['rev-parse','HEAD'],{encoding:'utf8'}).trim();
+  writeJSON(file,pm.politica);execFileSync('git',['add','.']);execFileSync('git',['commit','-qm','afternoon']);
+  const event=path.join(repo,'event.json'),envFile=path.join(repo,'env');
+  writeJSON(event,{before,head_commit:{timestamp:day+'T22:00:00Z'}});
+  execFileSync(process.execPath,[selector],{env:{...process.env,GITHUB_EVENT_PATH:event,GITHUB_EVENT_NAME:'push',GITHUB_SHA:sha,GITHUB_ENV:envFile}});
+  assert(fs.readFileSync(envFile,'utf8').includes('EDITORIAL_COLLECTION_ID='+day+'-mattina'));
+  process.chdir(temp);
+ });
  ok('selezione ritardata, giorno previsto e cambio ora Europe/Rome',()=>{
   assert.equal(selectCycle({explicit:day+'-mattina',now:new Date(day+'T22:00:00Z')}),day+'-mattina');
   assert.equal(selectCycle({scheduledAt:'2026-07-03T04:05:00Z',now:new Date('2026-07-04T20:00:00Z')}),'2026-07-03-mattina');

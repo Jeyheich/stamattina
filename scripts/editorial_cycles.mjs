@@ -40,6 +40,18 @@ export function ingestLegacy(root,day,{history=false}={}){
   writeJSON(target,b);ledger[slug]=digest;
  }
  if(history){
+  // Preserve the last observed state of each cycle, including historical public proof.
+  const stateLog=execFileSync('git',['log','--format=%H','HEAD','--',path.join(root,'status.json')],{encoding:'utf8'}).trim().split('\n').filter(Boolean);
+  const restored=new Set();
+  for(const sha of stateLog){
+   try{
+    const state=JSON.parse(execFileSync('git',['show',sha+':'+path.join(root,'status.json')],{encoding:'utf8',stdio:['ignore','pipe','ignore']}));
+    if(!state.collectionId||restored.has(state.collectionId)||parseCycle(state.collectionId).day!==day)continue;
+    restored.add(state.collectionId);
+    const file=path.join(cyclePath(root,state.collectionId),'status.json');
+    if(!fs.existsSync(file))writeJSON(file,state);
+   }catch{}
+  }
   for(const slug of slugs){
    const file=path.join(root,day,slug+'.json');const seen=new Set();
    const commits=execFileSync('git',['log','--format=%H','HEAD','--',file],{encoding:'utf8'}).trim().split('\n').filter(Boolean);
