@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-04",
-  "checkedAt": "2026-11-04T11:12:55.276Z",
+  "checkedAt": "2026-11-04T11:14:37.633Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,7 +13,9 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [],
+  "completed": [
+    "tecnologia"
+  ],
   "inProgress": [],
   "missing": [
     "esteri"
@@ -40,15 +42,42 @@
       "reason": "Verifica scaduta o futura"
     },
     {
-      "slug": "tecnologia",
-      "reason": "Verifica scaduta o futura"
-    },
-    {
       "slug": "sport",
       "reason": "Verifica scaduta o futura"
     }
   ],
-  "stories": [],
+  "stories": [
+    {
+      "id": "tecnologia-openai-premi-bug-bounty",
+      "category": "Tecnologia · AI",
+      "title": "OpenAI aumenta i premi per chi scopre vulnerabilità",
+      "eventKey": "openai-aumento-premi-bug-bounty-20261103"
+    },
+    {
+      "id": "tecnologia-brave-causa-editori-ai",
+      "category": "Tecnologia · AI",
+      "title": "Il New York Times porta Brave in tribunale sui contenuti per l’AI",
+      "eventKey": "brave-causa-new-york-times-contenuti-ai-20261103"
+    },
+    {
+      "id": "tecnologia-google-botnet-videostrong",
+      "category": "Tecnologia · AI",
+      "title": "Google interviene contro una botnet di set-top box Android",
+      "eventKey": "google-smantella-botnet-videostrong-android-20261103"
+    },
+    {
+      "id": "tecnologia-xbox-cloud-pacchetti-ore",
+      "category": "Tecnologia · AI",
+      "title": "Xbox Cloud Gaming sperimenta pacchetti di ore a pagamento",
+      "eventKey": "xbox-cloud-gaming-pacchetti-ore-20261104"
+    },
+    {
+      "id": "tecnologia-gran-turismo-dualsense-speciale",
+      "category": "Tecnologia · AI",
+      "title": "Sony presenta un DualSense speciale per i trent’anni di Gran Turismo",
+      "eventKey": "sony-dualsense-gran-turismo-trentennale-20261103"
+    }
+  ],
   "collectionId": "2026-11-04-mattina",
   "reserveCounts": {
     "Politica": 0,
@@ -100,7 +129,7 @@
       "complete": false
     },
     "tecnologia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 2,
       "complete": false
