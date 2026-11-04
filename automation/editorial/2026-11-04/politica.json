@@ -3,7 +3,6 @@
   "editionDate": "2026-11-04",
   "collectionId": "2026-11-04-mattina",
   "category": "Politica",
-  "status": "in-progress",
   "lastAttemptAt": "2026-11-04T06:06:14+01:00",
   "articles": [
     {
@@ -18,16 +17,114 @@
         "Il capo dello Stato ha richiamato i principi costituzionali di pace e dialogo e ha ricordato i militari italiani morti nell'incidente in Bosnia."
       ],
       "publishedAt": "2026-11-03",
-      "verifiedAt": "2026-11-04T06:06:14+01:00",
+      "verifiedAt": "2026-11-04T11:18:29.628025+00:00",
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it/amp/sito/notizie/politica/2026/11/03/allarme-di-mattarella-subito-la-difesa-comune-ue-e-il-rafforzamento-della-nato_40e4cb7d-9452-4872-ad6f-3982a0a63655.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-04T06:06:14+01:00",
+        "accessCheckedAt": "2026-11-04T11:18:29.628025+00:00",
         "dateEvidence": "La pagina ANSA riporta esplicitamente 'ROMA - Novembre 03,2026 - News'.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-manovra-2027-esame-camera",
+      "eventKey": "manovra-2027-esame-camera",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Manovra, alla Camera il confronto sulle modifiche",
+      "summary": "Il testo della legge di bilancio arriva all’esame parlamentare; scuola, pensioni e Irpef restano al centro del confronto.",
+      "body": [
+        "Secondo RaiNews le audizioni inizieranno il 5 novembre. Il viceministro Maurizio Leo apre a miglioramenti purché siano individuate le risorse necessarie.",
+        "Il confronto si svolge nel perimetro finanziario della manovra: le ipotesi di modifica non sono ancora disposizioni approvate."
+      ],
+      "publishedAt": "2026-11-04T08:31:00+00:00",
+      "verifiedAt": "2026-11-04T11:18:29.628025+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/maratona/2026/11/manovra-economica-iter-parlamentare-legge-bilancio-2027-pensioni-tagli-scuola-difesa-nodi-nella-maggioranza-opposizione-69400351-ad30-4540-ae2e-780a0f717d41.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:18:29.628025+00:00",
+        "dateEvidence": "RSS pubDate: Wed, 04 Nov 2026 08:31:00 GMT; data confrontata con la pagina originale letta.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PalazzoChigi.jpeg",
+        "alt": "Palazzo Chigi, Roma",
+        "credit": "Arepo",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg",
+        "rights": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · Palazzo Chigi, Roma. Fotografia non riferita agli eventi di oggi.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      },
+      "leadPriority": 90
+    },
+    {
+      "id": "politica-ue-tetto-alunni-stranieri-20261103",
+      "eventKey": "ue-tetto-alunni-stranieri-20261103",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Scuola, Bruxelles richiama il divieto di discriminazione",
+      "summary": "La Commissione europea segue il decreto sul tetto agli alunni stranieri e richiama i limiti previsti dai trattati.",
+      "body": [
+        "Il ministro Giuseppe Valditara difende la misura come strumento di integrazione. Il Pd ne chiede il ritiro; il confronto riguarda anche le condizioni ammesse dal diritto europeo."
+      ],
+      "publishedAt": "2026-11-03T17:05:00+00:00",
+      "verifiedAt": "2026-11-04T11:18:29.628025+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/11/03/scuola-tetto-studenti-stranieri-ue-discriminazione",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:18:29.628025+00:00",
+        "dateEvidence": "RSS pubDate: mar, 03 nov 2026 17:05:00 GMT; data confrontata con la pagina originale letta.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-governo-attacco-frigoriferi-supermercati-20261103",
+      "eventKey": "governo-attacco-frigoriferi-supermercati-20261103",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Attacchi ai supermercati, il governo parla di danni limitati",
+      "summary": "Palazzo Chigi descrive come limitato l’impatto degli attacchi informatici ai frigoriferi di alcuni supermercati.",
+      "body": [
+        "La polizia postale sta indagando. Il governo invita la grande distribuzione a rafforzare la sicurezza dei dispositivi; l’origine dell’attacco non è stabilita in questa comunicazione."
+      ],
+      "publishedAt": "2026-11-03T20:54:33+00:00",
+      "verifiedAt": "2026-11-04T11:18:29.628025+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/video/2026/11/03/attacchi-cyber-palazzo-chigi-impatto-limitato-1137111",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:18:29.628025+00:00",
+        "dateEvidence": "RSS pubDate: mar, 03 nov 2026 20:54:33 GMT; data confrontata con la pagina originale letta.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-vannacci-cene-marcia-roma-20261102",
+      "eventKey": "vannacci-cene-marcia-roma-20261102",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Vannacci apre alla partecipazione alle cene sulla marcia su Roma",
+      "summary": "In dichiarazioni del 2 novembre, Roberto Vannacci sostiene che prenderebbe parte a iniziative dedicate alla ricorrenza.",
+      "body": [
+        "Il leader di Futuro Nazionale afferma di considerarle occasioni storiche. La notizia riprende dichiarazioni di due giorni fa, mantenute come contesto politico: non è un nuovo annuncio del 4 novembre."
+      ],
+      "publishedAt": "2026-11-02T16:18:00+01:00",
+      "verifiedAt": "2026-11-04T11:18:29.628025+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/11/02/vannacci-marcia-su-roma-cena-commemorazione",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:18:29.628025+00:00",
+        "dateEvidence": "Pagina Sky TG24: 02 nov 2026 - 16:18; dichiarazioni durante un punto stampa a Milano.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ],
-  "reserveDraft": []
+  "reserveDraft": [],
+  "completedAt": "2026-11-04T11:18:29.628025+00:00"
 }
