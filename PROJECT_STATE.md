@@ -18,6 +18,7 @@
 - Concorrenza: niente rebase dei dati dopo i controlli, push fast-forward e controllo revisione prima del deploy.
 
 ## Verifiche e prossimo passo
-- Test cloud di regressione in preparazione sul branch fix/editorial-cycles; non ancora dichiarati superati.
+- Codice candidato su fix/editorial-cycles, ultimo commit tecnico 327045a049f63c24d58f157fde246ebc638683a5. Test cloud run 41879092133 queued: runner non ancora assegnato, nessun test eseguito. Run intermedi 41878581673 e 41878871059 anch'essi queued. Non integrare su main prima dell'esito dei test.
+- La lettura pubblica dal web non è riuscita; confronto JSON senza cache e archivio previsti nel test cloud, non ancora eseguiti.
 - Dopo esito positivo: integrare su main senza sovrascrivere modifiche concorrenti; osservare Pubblica Stamattina e JSON pubblico senza cache.
 - Le verifiche editoriali scadute richiedono reale rilettura, non è compito della migrazione. Nessuna garanzia che i dodici avvii bastino per 80 fatti verificati.
