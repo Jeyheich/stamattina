@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-04",
-  "checkedAt": "2026-11-04T11:15:16.420Z",
+  "checkedAt": "2026-11-04T11:19:32.859Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,6 +14,9 @@
     "sport"
   ],
   "completed": [
+    "cronaca",
+    "roma",
+    "cultura",
     "tecnologia",
     "sport"
   ],
@@ -29,21 +32,99 @@
     {
       "slug": "economia",
       "reason": "Verifica scaduta o futura"
-    },
-    {
-      "slug": "cronaca",
-      "reason": "Verifica scaduta o futura"
-    },
-    {
-      "slug": "roma",
-      "reason": "Verifica scaduta o futura"
-    },
-    {
-      "slug": "cultura",
-      "reason": "Verifica scaduta o futura"
     }
   ],
   "stories": [
+    {
+      "id": "cronaca-meteo-perturbazione-7-8-novembre-2026",
+      "category": "Cronaca",
+      "title": "Meteo, una perturbazione potrebbe interessare l'Italia nel fine settimana",
+      "eventKey": "previsioni-perturbazione-italia-weekend-7-8-novembre-2026"
+    },
+    {
+      "id": "cronaca-casarano-incidente-cancello-20261104",
+      "category": "Cronaca",
+      "title": "Casarano, imprenditore muore durante lavori in un’abitazione",
+      "eventKey": "casarano-incidente-cancello-20261104"
+    },
+    {
+      "id": "cronaca-milano-richiesta-giudizio-maltrattamenti-manager-20261104",
+      "category": "Cronaca",
+      "title": "Milano, chiesto il processo per le violenze denunciate da un manager",
+      "eventKey": "milano-richiesta-giudizio-maltrattamenti-manager-20261104"
+    },
+    {
+      "id": "cronaca-operazione-sweet-strip-arresti-20261104",
+      "category": "Cronaca",
+      "title": "Abusi online sui minori, sette arresti nell’operazione Sweet Strip",
+      "eventKey": "operazione-sweet-strip-arresti-20261104"
+    },
+    {
+      "id": "cronaca-cremona-caso-dengue-disinfestazione-20261103",
+      "category": "Cronaca",
+      "title": "Cremona, disinfestazione dopo un caso di dengue",
+      "eventKey": "cremona-caso-dengue-disinfestazione-20261103"
+    },
+    {
+      "id": "roma-viabilita-celebrazioni-4-novembre-2026",
+      "category": "Roma",
+      "title": "Roma, chiusure e bus deviati per le cerimonie del 4 novembre",
+      "eventKey": "roma-chiusure-piazza-venezia-circo-massimo-4-novembre-2026"
+    },
+    {
+      "id": "roma-storni-viale-jonio-disagi-20261104",
+      "category": "Roma",
+      "title": "Viale Jonio, residenti e commercianti segnalano i disagi degli storni",
+      "eventKey": "storni-viale-jonio-disagi-20261104"
+    },
+    {
+      "id": "roma-castelverde-fiaccolata-legalita-20261103",
+      "category": "Roma",
+      "title": "Castelverde, una fiaccolata chiede sicurezza dopo le esplosioni",
+      "eventKey": "castelverde-fiaccolata-legalita-20261103"
+    },
+    {
+      "id": "roma-botteghe-oscure-apertura-thompson-rome-20261104",
+      "category": "Roma",
+      "title": "Botteghe Oscure, l’ex sede del Pci diventa un albergo",
+      "eventKey": "botteghe-oscure-apertura-thompson-rome-20261104"
+    },
+    {
+      "id": "roma-lavinio-aggressione-tre-arresti-20261104",
+      "category": "Roma",
+      "title": "Lavinio, tre arresti dopo un’aggressione a un automobilista",
+      "eventKey": "lavinio-aggressione-tre-arresti-20261104"
+    },
+    {
+      "id": "cultura-henze-voices-roma-4-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Romaeuropa e Santa Cecilia ricordano Henze con Voices",
+      "eventKey": "henze-voices-romaeuropa-santa-cecilia-4-novembre-2026"
+    },
+    {
+      "id": "cultura-jarrett-roma-ascolto-auditorium-20261105",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "L’Auditorium anticipa il disco Roma di Keith Jarrett",
+      "eventKey": "jarrett-roma-ascolto-auditorium-20261105"
+    },
+    {
+      "id": "cultura-sara-milani-atodomodo-20261107",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Sara Milani in concerto alla libreria aTodomodo",
+      "eventKey": "sara-milani-atodomodo-20261107"
+    },
+    {
+      "id": "cultura-beethoven-sestetto-ariccia-20261108",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Ad Ariccia la Pastorale di Beethoven in versione da camera",
+      "eventKey": "beethoven-sestetto-ariccia-20261108"
+    },
+    {
+      "id": "cultura-con-il-tuo-amore-casa-cinema-20261104",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Alla Casa del Cinema il documentario Con il tuo amore",
+      "eventKey": "con-il-tuo-amore-casa-cinema-20261104"
+    },
     {
       "id": "tecnologia-openai-premi-bug-bounty",
       "category": "Tecnologia · AI",
@@ -118,12 +199,22 @@
   },
   "photoCandidates": [
     {
+      "id": "roma-viabilita-celebrazioni-4-novembre-2026",
+      "category": "Roma",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bus_stop_in_Rome_01.jpg"
+    },
+    {
+      "id": "cultura-con-il-tuo-amore-casa-cinema-20261104",
+      "category": "Cultura · Teatro · Cinema",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Villa_Borghese_-_Casa_del_Cinema_P1020818.JPG"
+    },
+    {
       "id": "sport-inter-chivu-vittoria-feyenoord",
       "category": "Sport",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg"
     }
   ],
-  "photosAvailable": 1,
+  "photosAvailable": 3,
   "categoryProgress": {
     "politica": {
       "base": 0,
@@ -144,19 +235,19 @@
       "complete": false
     },
     "cronaca": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "roma": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cultura": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
