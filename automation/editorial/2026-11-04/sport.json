@@ -161,7 +161,28 @@
         "dateEvidence": "Il riepilogo del titolo mondiale è datato 01 nov 2026 - 23:28, entro 72 ore.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "sport-berrettini-batte-nakashima-parigi",
+      "eventKey": "berrettini-vittoria-nakashima-parigi-20261103",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Berrettini supera Nakashima al Masters 1000 di Parigi",
+      "summary": "Matteo Berrettini ha battuto Brandon Nakashima in tre set, 6-4, 3-6, 7-6, conquistando la prima vittoria in carriera nel Masters 1000 di Parigi.",
+      "body": [
+        "Matteo Berrettini ha battuto Brandon Nakashima in tre set, 6-4, 3-6, 7-6, conquistando la prima vittoria in carriera nel Masters 1000 di Parigi."
+      ],
+      "publishedAt": "2026-11-03T17:09:00+01:00",
+      "verifiedAt": "2026-11-04T07:06:20.574Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/video/2026/11/03/berrettini-nakashima-atp-parigi-highlights-1137063",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T07:06:20.574Z",
+        "dateEvidence": "La pagina Sky Sport riporta 03 nov 2026 - 17:09 e il risultato 6-4, 3-6, 7-6.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
   ],
-  "lastAttemptAt": "2026-11-04T06:04:41.689Z"
+  "lastAttemptAt": "2026-11-04T07:06:20.574Z"
 }
