@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-04",
+  "collectionId": "2026-11-04-mattina",
+  "category": "Roma",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-04T06:17:27.611Z",
+  "articles": [
+    {
+      "id": "roma-viabilita-celebrazioni-4-novembre-2026",
+      "eventKey": "roma-chiusure-piazza-venezia-circo-massimo-4-novembre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Roma, chiusure e bus deviati per le cerimonie del 4 novembre",
+      "summary": "Le celebrazioni all'Altare della Patria e al Circo Massimo comportano chiusure stradali, divieti di sosta e modifiche a numerose linee di autobus.",
+      "body": [
+        "Per la Giornata dell'Unità Nazionale e delle Forze Armate sono previste restrizioni alla circolazione tra piazza Venezia, i Fori Imperiali e il Circo Massimo. Le chiusure iniziano in varie zone dalle 7 e dalle 7:30 del 4 novembre.",
+        "Roma Servizi per la Mobilità segnala deviazioni o limitazioni per numerose linee bus e la sospensione temporanea della linea 119 fino a circa le 11. Ulteriori restrizioni sono previste in serata per la chiusura del Villaggio Difesa."
+      ],
+      "publishedAt": "2026-10-28T00:00:00+01:00",
+      "verifiedAt": "2026-11-04T06:17:27.611Z",
+      "source": {
+        "name": "Roma Servizi per la Mobilità",
+        "url": "https://romamobilita.it/primo-piano/cerimonie-4-novembre-la-viabilita/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T06:17:27.611Z",
+        "dateEvidence": "Pagina ufficiale: Pubblicato il 28/10/2026; Aggiornato il 03/11/2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
