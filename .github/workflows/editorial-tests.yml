@@ -21,6 +21,7 @@ jobs:
           node scripts/test_batches.mjs
           node scripts/test_editorial_cycles.mjs
           python3 scripts/test_candidate_slot.py
+          python3 scripts/test_publication.py
           node scripts/validate.mjs dist/data/current.json --production --balanced
           node --check dist/app.js
           node --check dist/sw.js

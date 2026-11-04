@@ -93,7 +93,7 @@ export function runAssembly({root='automation/editorial',cycle,now=Date.now(),hi
  const result=assemble(readBlocks(root,selected),day,now,selected);
  if(importErrors.length){result.state.invalid.push(...importErrors);result.state.ready=false;result.state.editorialComplete=false;delete result.edition;}
  if(!result.state.ready)result.state.preparation='in-preparazione';
- result.state.message=!result.state.ready?'Edizione in preparazione':result.state.editorialComplete?'Edizione editorialmente completa':'Edizione online, aggiuntive incomplete: '+result.state.reserveMissing.join(', ');
+ result.state.message=!result.state.ready?'Edizione in preparazione':result.state.editorialComplete?'Edizione editorialmente completa':'Edizione tecnicamente pubblicabile, aggiuntive incomplete: '+result.state.reserveMissing.join(', ');
  const current=fs.existsSync('dist/data/current.json')?JSON.parse(fs.readFileSync('dist/data/current.json')):null;
  const canAdvance=!current?.collectionId||selected>=current.collectionId;
  result.state.needsPublication=!!result.edition&&current?.id!==result.edition.id&&canAdvance;
