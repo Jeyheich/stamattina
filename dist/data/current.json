@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "collectionId": "2026-11-04-mattina",
-  "id": "2026-11-04-batches-6d2664167f97",
+  "id": "2026-11-04-batches-e17b5b4d5531",
   "mode": "live",
   "editionDate": "2026-11-04",
-  "generatedAt": "2026-11-04T11:34:15.135Z",
+  "generatedAt": "2026-11-04T11:35:49.198Z",
   "timezone": "Europe/Rome",
   "scheduledFor": "2026-11-04T09:00:00+01:00",
   "essentialIds": [
@@ -977,6 +977,111 @@
       }
     },
     {
+      "id": "politica-camera-calendario-autonomia-gennaio2027",
+      "eventKey": "camera-calendario-autonomia-gennaio2027",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Autonomia, la Camera fissa a gennaio l’esame delle intese",
+      "summary": "Quattro votazioni definiscono i termini per i disegni di legge che riguardano Veneto, Liguria, Lombardia e Piemonte.",
+      "body": [
+        "ANSA riporta scadenze fra il 20 e il 28 gennaio 2027. Il voto riguarda il calendario di esame: non viene descritto come approvazione definitiva di tutte le nuove competenze regionali."
+      ],
+      "publishedAt": "2026-11-03T16:50:00+01:00",
+      "verifiedAt": "2026-11-04T11:35:04.654062+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/03/intese-sullautonomia-entro-gennaio-via-libera-dalla-camera_35901ea7-ad8f-4c53-9d83-6be3b383e8c6.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:35:04.654062+00:00",
+        "dateEvidence": "Metadato ANSA datePublished 2026-11-03T16:50:00+0100; quattro voti sui termini di esame delle intese.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-camera-scontro-ascari-abu-safiya-20261103",
+      "eventKey": "camera-scontro-ascari-abu-safiya-20261103",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Camera, scontro tra FdI e M5S sulla conferenza promossa da Ascari",
+      "summary": "La controversia riguarda l’intervento del figlio del pediatra palestinese Hussam Abu Safiya e il riferimento alla figlia della premier.",
+      "body": [
+        "FdI chiede di valutare provvedimenti contro la deputata; il presidente Lorenzo Fontana coinvolge i questori. Giuseppe Conte difende Ascari. Il resoconto non attribuisce al collegio una sanzione già decisa."
+      ],
+      "publishedAt": "2026-11-03T18:12:00+01:00",
+      "verifiedAt": "2026-11-04T11:35:04.654070+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/03/tensione-in-aula-sul-caso-ascari-abu-safiya-e-le-parole-sulla-figlia_66a07a59-ade6-40c6-bc68-a347b9de1938.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:35:04.654070+00:00",
+        "dateEvidence": "ANSA: datePublished 03 novembre 2026 18:12, dateModified 18:28; articolo di Paola Lo Mele sul confronto in Aula.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-funerali-stato-militari-bosnia-20261103",
+      "eventKey": "funerali-stato-militari-bosnia-20261103",
+      "category": "Politica",
+      "status": "verified",
+      "title": "A Roma i funerali di Stato dei quattro militari morti in Bosnia",
+      "summary": "Le istituzioni hanno partecipato alla cerimonia del 3 novembre nella basilica di Santa Maria degli Angeli.",
+      "body": [
+        "Presenti Mattarella, Meloni e i presidenti delle Camere. Guido Crosetto rende omaggio ai caduti; le indagini sull’incidente proseguono e la cerimonia non ne stabilisce le cause."
+      ],
+      "publishedAt": "2026-11-03T18:09:00+01:00",
+      "verifiedAt": "2026-11-04T11:35:04.654074+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/03/incidente-elicottero-bosnia-funerali-stato-militari-morti",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:35:04.654074+00:00",
+        "dateEvidence": "Pagina Sky TG24: 03 nov 2026 - 18:09; celebrazione dei funerali quella mattina e interventi delle autorità.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-campo-largo-tavoli-programma-taruffi-20261102",
+      "eventKey": "campo-largo-tavoli-programma-taruffi-20261102",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Campo largo, Taruffi indica i tempi del lavoro sul programma",
+      "summary": "Il responsabile organizzazione del Pd parla dell’avvio dei tavoli tematici per una proposta di coalizione.",
+      "body": [
+        "Nell’intervento del 2 novembre a Sky TG24 Taruffi prospetta un programma entro fine mese. È un obiettivo politico annunciato, non la conferma che il documento sia già concluso."
+      ],
+      "publishedAt": "2026-11-02T12:32:00+01:00",
+      "verifiedAt": "2026-11-04T11:35:04.654078+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/video/2026/11/02/campo-largo-taruffi-programma-gia-a-fine-novembre-1136694",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:35:04.654078+00:00",
+        "dateEvidence": "Sky TG24 indica 02 nov 2026 - 12:32; didascalia sul calendario e sull’avvio dei tavoli tematici.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-camera-finanze-question-time-20261104",
+      "eventKey": "camera-finanze-question-time-20261104",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Commissione Finanze, interrogazioni al Mef nel pomeriggio",
+      "summary": "La Camera annuncia per il 4 novembre alle 15:15 interrogazioni a risposta immediata.",
+      "body": [
+        "Il comunicato ufficiale del 3 novembre riguarda questioni di competenza del Ministero dell’Economia e delle Finanze e prevede la diretta webtv. L’appuntamento è programmato: questa scheda non ne anticipa le risposte."
+      ],
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-04T11:35:04.654082+00:00",
+      "source": {
+        "name": "Camera dei deputati",
+        "url": "https://comunicazione.camera.it/comunicati-stampa/19-6669",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:35:04.654082+00:00",
+        "dateEvidence": "Comunicato Stampa 6669, 03 Novembre 2026; Commissione Finanze mercoledì 4 novembre alle 15.15.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
       "id": "esteri-belgio-dimissioni-offerte-de-wever-20261102",
       "eventKey": "belgio-dimissioni-offerte-de-wever-20261102",
       "category": "Esteri",
@@ -1078,6 +1183,111 @@
         "access": "free",
         "accessCheckedAt": "2026-11-04T11:33:56.798721+00:00",
         "dateEvidence": "Pagina Euronews pubblicata 2 novembre 2026 13:57 CET, aggiornata 3 novembre 09:18 CET; ritorno a Hull il 2 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-arkea-transazioni-fraudolente-20261104",
+      "eventKey": "arkea-transazioni-fraudolente-20261104",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Arkéa comunica un attacco informatico alla banca",
+      "summary": "L’istituto francese afferma di avere messo sotto controllo la situazione e sospeso temporaneamente alcune operazioni.",
+      "body": [
+        "AGI cita transazioni fraudolente per 133 milioni di dollari secondo Le Télégramme, precisando che la banca non conferma l’importo. Arkéa dichiara che non ci saranno conseguenze finanziarie per i clienti."
+      ],
+      "publishedAt": "2026-11-04",
+      "verifiedAt": "2026-11-04T11:35:04.653400+00:00",
+      "source": {
+        "name": "AGI",
+        "url": "https://www.agi.it/economia/news/2026-11-04/francia-attacco-cyber-banca-39874293/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:35:04.653400+00:00",
+        "dateEvidence": "Pagina AGI datata 04 novembre 2026; testo distingue l’importo riportato da Le Télégramme dalla conferma della banca.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-intesa-risultati-nove-mesi-2026",
+      "eventKey": "intesa-risultati-nove-mesi-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Intesa Sanpaolo, utile di 8,2 miliardi nei nove mesi",
+      "summary": "Il gruppo presenta risultati in crescita e alza le prospettive di utile per il 2026.",
+      "body": [
+        "AGI riporta un aumento dell’8,1% rispetto ai primi nove mesi del 2025. Carlo Messina conferma la fiducia nell’operazione Mps e il gruppo aggiorna il concambio: le previsioni restano distinte dai risultati già conseguiti."
+      ],
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-04T11:35:04.653484+00:00",
+      "source": {
+        "name": "AGI",
+        "url": "https://www.agi.it/economia/news/2026-11-03/utili-intesa-mps-39857480/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:35:04.653484+00:00",
+        "dateEvidence": "AGI, Annalisa Cretella, 03 novembre 2026; letto il testo sui risultati e sulla conference call del gruppo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-exilva-avvio-spegnimento-altiforni-20261103",
+      "eventKey": "exilva-avvio-spegnimento-altiforni-20261103",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Ex Ilva, iniziate le operazioni di spegnimento degli altiforni",
+      "summary": "L’azienda comunica ai sindacati l’avvio delle operazioni dopo la decisione della Cassazione.",
+      "body": [
+        "Sky TG24 riferisce lo stop dell’area a caldo e le richieste sindacali per lavoratori e indotto. I tempi di completamento e le ripartenze di altri reparti restano programmi distinti dalla chiusura degli altiforni."
+      ],
+      "publishedAt": "2026-11-03T12:45:00+01:00",
+      "verifiedAt": "2026-11-04T11:35:04.653489+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/03/ex-ilva-taranto-spegnimento-altiforni",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:35:04.653489+00:00",
+        "dateEvidence": "Sky TG24: 03 nov 2026 - 12:45; testo sull’avvio delle operazioni di spegnimento, non soltanto sulla sentenza.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-immatricolazioni-italia-ottobre-2026",
+      "eventKey": "immatricolazioni-italia-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Auto, immatricolazioni italiane in crescita a ottobre",
+      "summary": "Nel mese sono state immatricolate 131.921 vetture, il 4,81% in più rispetto a un anno prima.",
+      "body": [
+        "AGI riporta i dati del Ministero delle Infrastrutture e dei Trasporti: i primi dieci mesi segnano un aumento dell’8,32%. Il recupero resta incompleto rispetto ai livelli del 2019."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-04T11:35:04.653515+00:00",
+      "source": {
+        "name": "AGI",
+        "url": "https://www.agi.it/economia/news/2026-11-02/auto-mercato-immatricolazioni-dati-39838052/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:35:04.653515+00:00",
+        "dateEvidence": "Pagina AGI datata 02 novembre 2026; dati MIT sulle immatricolazioni di ottobre e primi dieci mesi.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-delvecchio-offerta-quote-delfin-20261102",
+      "eventKey": "delvecchio-offerta-quote-delfin-20261102",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Del Vecchio propone ai soci di acquistare le quote Delfin",
+      "summary": "Leonardo Maria Del Vecchio descrive in una lettera una nuova offerta e la disponibilità di finanziamento bancario.",
+      "body": [
+        "Il resoconto AGI del 2 novembre parla di acquisto immediato o diluito nel tempo e di rinuncia ad azioni legali. La proposta non viene presentata come un accordo già accettato dagli altri soci."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-04T11:35:04.653538+00:00",
+      "source": {
+        "name": "AGI",
+        "url": "https://www.agi.it/economia/news/2026-11-02/delfin-del-vecchio-offerta-soci-39825139/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:35:04.653538+00:00",
+        "dateEvidence": "AGI: 02 novembre 2026, lettera di Leonardo Maria Del Vecchio al Quotidiano Nazionale; offerta, non acquisizione conclusa.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -1610,11 +1820,21 @@
     }
   ],
   "reserveIds": [
+    "politica-camera-calendario-autonomia-gennaio2027",
+    "politica-camera-scontro-ascari-abu-safiya-20261103",
+    "politica-funerali-stato-militari-bosnia-20261103",
+    "politica-campo-largo-tavoli-programma-taruffi-20261102",
+    "politica-camera-finanze-question-time-20261104",
     "esteri-belgio-dimissioni-offerte-de-wever-20261102",
     "esteri-praga-protesta-emittenti-pubbliche-20261103",
     "esteri-spagna-dimissioni-oscar-puente-20261103",
     "esteri-florida-inchiesta-learjet-profilo-copilota-20261103",
     "esteri-karl-bushby-ritorno-hull-20261102",
+    "economia-arkea-transazioni-fraudolente-20261104",
+    "economia-intesa-risultati-nove-mesi-2026",
+    "economia-exilva-avvio-spegnimento-altiforni-20261103",
+    "economia-immatricolazioni-italia-ottobre-2026",
+    "economia-delvecchio-offerta-quote-delfin-20261102",
     "cronaca-svizzera-rinuncia-rimborso-cure-crans-20261104",
     "cronaca-garlasco-richiesta-processo-sempio-20261103",
     "cronaca-bologna-ammonimento-atti-persecutori-20261103",
