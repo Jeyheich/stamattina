@@ -17,8 +17,14 @@
 - Pubblicazione solo da assemblaggio pronto e controlli fonti riusciti; incoming obsoleto non basta. Stati parziale/pubblicabile/completo distinti. Archivi per id e ciclo.
 - Concorrenza: niente rebase dei dati dopo i controlli, push fast-forward e controllo revisione prima del deploy.
 
-## Verifiche e prossimo passo
-- Codice candidato su fix/editorial-cycles, ultimo commit tecnico 327045a049f63c24d58f157fde246ebc638683a5. Test cloud run 41879092133 queued: runner non ancora assegnato, nessun test eseguito. Run intermedi 41878581673 e 41878871059 anch'essi queued. Non integrare su main prima dell'esito dei test.
-- La lettura pubblica dal web non è riuscita; confronto JSON senza cache e archivio previsti nel test cloud, non ancora eseguiti.
-- Dopo esito positivo: integrare su main senza sovrascrivere modifiche concorrenti; osservare Pubblica Stamattina e JSON pubblico senza cache.
-- Le verifiche editoriali scadute richiedono reale rilettura, non è compito della migrazione. Nessuna garanzia che i dodici avvii bastino per 80 fatti verificati.
+## Verifiche eseguite nel cloud
+- Commit tecnico validato: 25bcbd6b57dc23656d7a53225a4019f2bbf057fb, run 41880467644. Log: test_batches PASS; 17 scenari test_editorial_cycles PASS; 3 test slot e 4 test pubblicazione OK; validatore production/balanced, sintassi app.js/sw.js e compilazione Python superati.
+- Migrazione sulla cronologia reale ripetuta due volte: nessun conflitto; recuperati otto blocchi mattutini 5+5 e quattro checkpoint pomeridiani (Economia, Cronaca, Roma, Cultura: uno ciascuno, zero riserve). ID mattutino riprodotto identico usando l'istante storico, senza rinnovare alcuna verifica.
+- JSON pubblico letto senza cache alle 18:47:17 Europe/Rome: identico a dist/data/current.json; collectionId 2026-11-04-mattina, 80 articoli totali, 40 reserveIds, archivio per id identico.
+- Il primo test candidato aveva un errore di sintassi nel nuovo lettore; corretto e tutta la suite rieseguita con successo prima dell'integrazione.
+- Alcune risposte di stato GitHub hanno continuato a indicare queued dopo il completamento; verificare anche i log dei job, senza inferire l'esito da una singola lettura.
+
+## Prossimo passo
+- Integrare il commit validato su main con controllo dello SHA atteso, osservare Pubblica Stamattina, verificare migrazione persistita e nuova lettura del JSON pubblico.
+- Pomeriggio non pronto: nessuna pubblicazione forzata. Le verifiche scadute richiedono reale rilettura delle fonti; la migrazione non le rinnova.
+- La disponibilità di 80 fatti verificati dipende dalla produzione editoriale e dalle fonti accessibili: nessuna garanzia che bastino i dodici avvii; requisiti invariati.
