@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-04",
+  "collectionId": "2026-11-04-mattina",
+  "category": "Economia",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-04T05:17:53.537Z",
+  "articles": [
+    {
+      "id": "economia-aumento-gas-vulnerabili-ottobre-2026",
+      "eventKey": "arera-aumento-gas-clienti-vulnerabili-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Gas, rincaro del 9,1% per i clienti vulnerabili a ottobre",
+      "summary": "ARERA comunica un aumento del 9,1% del prezzo della materia prima gas per ottobre. Il rialzo interessa circa 2,3 milioni di clienti vulnerabili.",
+      "body": [
+        "Secondo i dati ARERA riportati da ANSA il 3 novembre, il prezzo della materia prima gas per il servizio di tutela della vulnerabilità è salito a 88,36 euro per megawattora. Le associazioni dei consumatori stimano un aggravio annuo di 163 euro ipotizzando prezzi costanti."
+      ],
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-04T05:17:53.537Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/amp/sito/notizie/economia/2026/11/03/arera-91-il-prezzo-del-gas-a-ottobre-per-i-vulnerabili_c9498159-d7f1-4f21-9f8c-3599111c1ad5.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T05:17:53.537Z",
+        "dateEvidence": "La pagina ANSA riporta 'Redazione Ansa ROMA - Novembre 03,2026 - News'; ora di pubblicazione non indicata, mezzogiorno convenzionale non verificato.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
