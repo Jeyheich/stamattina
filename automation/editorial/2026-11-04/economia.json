@@ -1,222 +1,33 @@
 {
   "schemaVersion": 1,
   "editionDate": "2026-11-04",
-  "collectionId": "2026-11-04-mattina",
+  "collectionId": "2026-11-04-pomeriggio",
   "category": "Economia",
-  "completedAt": "2026-11-04T11:20:51.638100+00:00",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-04T16:15:19+01:00",
   "articles": [
     {
-      "id": "economia-aumento-gas-vulnerabili-ottobre-2026",
-      "eventKey": "arera-aumento-gas-clienti-vulnerabili-ottobre-2026",
+      "id": "economia-ms-utili-semestrali-ripresa-cyberattacco-20261104",
+      "eventKey": "marks-spencer-utili-semestrali-recupero-cyberattacco-20261104",
       "category": "Economia",
       "status": "verified",
-      "title": "Gas, rincaro del 9,1% per i clienti vulnerabili a ottobre",
-      "summary": "ARERA comunica un aumento del 9,1% del prezzo della materia prima gas per ottobre. Il rialzo interessa circa 2,3 milioni di clienti vulnerabili.",
+      "title": "Marks & Spencer, utili semestrali a 355 milioni di sterline dopo l'attacco informatico",
+      "summary": "Il gruppo britannico registra una ripresa dei profitti nei sei mesi terminati il 26 settembre, pur segnalando effetti prolungati dell'attacco informatico del 2025.",
       "body": [
-        "Secondo i dati ARERA riportati da ANSA il 3 novembre, il prezzo della materia prima gas per il servizio di tutela della vulnerabilità è salito a 88,36 euro per megawattora. Le associazioni dei consumatori stimano un aggravio annuo di 163 euro ipotizzando prezzi costanti."
+        "Marks & Spencer ha comunicato profitti per 355 milioni di sterline nel semestre, contro 3,4 milioni nello stesso periodo dell'anno precedente. Le vendite complessive sono cresciute del 16,2% a 9,2 miliardi di sterline.",
+        "Il gruppo ha spiegato che l'attacco informatico iniziato nella primavera 2025 ha condizionato le procedure di approvvigionamento e la disponibilità dei prodotti più a lungo del previsto. La direzione considera ora superati gli effetti operativi più gravi."
       ],
-      "publishedAt": "2026-11-03",
-      "verifiedAt": "2026-11-04T11:20:51.638100+00:00",
+      "publishedAt": "2026-11-04T09:17:00+01:00",
+      "verifiedAt": "2026-11-04T16:15:19+01:00",
       "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/amp/sito/notizie/economia/2026/11/03/arera-91-il-prezzo-del-gas-a-ottobre-per-i-vulnerabili_c9498159-d7f1-4f21-9f8c-3599111c1ad5.html",
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back",
         "access": "free",
-        "accessCheckedAt": "2026-11-04T11:20:51.638100+00:00",
-        "dateEvidence": "La pagina ANSA riporta 'Redazione Ansa ROMA - Novembre 03,2026 - News'; ora di pubblicazione non indicata, mezzogiorno convenzionale non verificato.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "economia-istat-istruzione-occupazione-2025",
-      "eventKey": "istat-istruzione-occupazione-2025",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Istat, cresce l’occupazione di neodiplomati e neolaureati",
-      "summary": "Nel 2025 il tasso di occupazione raggiunge il 62,9% tra i neodiplomati e il 78,7% tra i neolaureati.",
-      "body": [
-        "Il rapporto pubblicato il 3 novembre riguarda i giovani di 20–34 anni usciti dai percorsi di formazione da uno a tre anni. I valori restano inferiori alle medie europee; la quota di NEET scende al 13,3%."
-      ],
-      "publishedAt": "2026-11-03",
-      "verifiedAt": "2026-11-04T11:20:51.638100+00:00",
-      "source": {
-        "name": "Istat",
-        "url": "https://www.istat.it/comunicato-stampa/livelli-di-istruzione-e-ritorni-occupazionali-anno-2025/",
-        "access": "free",
-        "accessCheckedAt": "2026-11-04T11:20:51.638100+00:00",
-        "dateEvidence": "Pagina ufficiale Istat: Data pubblicazione 3 Novembre 2026; periodo di riferimento Anno 2025.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "economia-bmw-revisione-obiettivi-2026",
-      "eventKey": "bmw-revisione-obiettivi-2026",
-      "category": "Economia",
-      "status": "verified",
-      "title": "BMW riduce le previsioni sul margine Automotive",
-      "summary": "Il gruppo rivede gli obiettivi del 2026 dopo nuove misure sul portafoglio prodotti e sull’organizzazione.",
-      "body": [
-        "Radiocor riporta una previsione di margine operativo Automotive tra meno 0,5% e più 0,5%, rispetto al precedente intervallo 1–3%. Resta la previsione di un flusso di cassa libero superiore a 2,5 miliardi di euro."
-      ],
-      "publishedAt": "2026-11-03T19:58:35+01:00",
-      "verifiedAt": "2026-11-04T11:20:51.638100+00:00",
-      "source": {
-        "name": "Radiocor · Borsa Italiana",
-        "url": "https://www.borsaitaliana.it/borsa/notizie/radiocor/prima-pagina/dettaglio/bmw-rivede-ancora-al-ribasso-gli-obiettivi-per-il-2026-rco-nRC_03112026_1958_765235658.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-04T11:20:51.638100+00:00",
-        "dateEvidence": "Il dispaccio Radiocor reca 03-11-26 19:58:35 e distingue le previsioni Automotive dai flussi di cassa.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "economia-kelloggs-ricetta-cereali-uk-20261104",
-      "eventKey": "kelloggs-ricetta-cereali-uk-20261104",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Kellogg’s cambia la ricetta di due cereali nel Regno Unito",
-      "summary": "Rice Krispies e Coco Pops britannici passeranno dai chicchi interi a farine di riso e mais, con glutine di frumento.",
-      "body": [
-        "L’azienda collega la modifica alle difficoltà di approvvigionamento dovute alle condizioni meteorologiche. La BBC precisa che non sono previste le stesse modifiche negli Stati Uniti e in Canada."
-      ],
-      "publishedAt": "2026-11-04T01:14:00+00:00",
-      "verifiedAt": "2026-11-04T11:20:51.638100+00:00",
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo",
-        "access": "free",
-        "accessCheckedAt": "2026-11-04T11:20:51.638100+00:00",
-        "dateEvidence": "La pagina BBC indica Published 4 November 2026, 01:14 GMT; l’articolo riguarda il mercato britannico.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "economia-poundland-fornitori-rischio-crisi-20261104",
-      "eventKey": "poundland-fornitori-rischio-crisi-20261104",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Poundland, i fornitori temono perdite se la catena fallisce",
-      "summary": "Highcrest Retail Brands avverte che un eventuale dissesto del cliente potrebbe costarle milioni di sterline di vendite.",
-      "body": [
-        "La BBC descrive i rischi per la filiera e il confronto con il proprietario Gordon Brothers. La catena continua a operare: la notizia non certifica che sia già entrata in amministrazione."
-      ],
-      "publishedAt": "2026-11-04T00:03:00+00:00",
-      "verifiedAt": "2026-11-04T11:20:51.638100+00:00",
-      "source": {
-        "name": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do",
-        "access": "free",
-        "accessCheckedAt": "2026-11-04T11:20:51.638100+00:00",
-        "dateEvidence": "Pagina BBC: Published 4 November 2026, 00:03 GMT; dichiarazioni del fornitore e chiarimento che Poundland continua a operare.",
+        "accessCheckedAt": "2026-11-04T16:15:19+01:00",
+        "dateEvidence": "Pagina Guardian: First published on Wed 4 Nov 2026 09.17 CET; aggiornata alle 13.34 CET.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ],
-  "reserveArticles": [
-    {
-      "id": "economia-arkea-transazioni-fraudolente-20261104",
-      "eventKey": "arkea-transazioni-fraudolente-20261104",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Arkéa comunica un attacco informatico alla banca",
-      "summary": "L’istituto francese afferma di avere messo sotto controllo la situazione e sospeso temporaneamente alcune operazioni.",
-      "body": [
-        "AGI cita transazioni fraudolente per 133 milioni di dollari secondo Le Télégramme, precisando che la banca non conferma l’importo. Arkéa dichiara che non ci saranno conseguenze finanziarie per i clienti."
-      ],
-      "publishedAt": "2026-11-04",
-      "verifiedAt": "2026-11-04T11:35:04.653400+00:00",
-      "source": {
-        "name": "AGI",
-        "url": "https://www.agi.it/economia/news/2026-11-04/francia-attacco-cyber-banca-39874293/",
-        "access": "free",
-        "accessCheckedAt": "2026-11-04T11:35:04.653400+00:00",
-        "dateEvidence": "Pagina AGI datata 04 novembre 2026; testo distingue l’importo riportato da Le Télégramme dalla conferma della banca.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "economia-intesa-risultati-nove-mesi-2026",
-      "eventKey": "intesa-risultati-nove-mesi-2026",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Intesa Sanpaolo, utile di 8,2 miliardi nei nove mesi",
-      "summary": "Il gruppo presenta risultati in crescita e alza le prospettive di utile per il 2026.",
-      "body": [
-        "AGI riporta un aumento dell’8,1% rispetto ai primi nove mesi del 2025. Carlo Messina conferma la fiducia nell’operazione Mps e il gruppo aggiorna il concambio: le previsioni restano distinte dai risultati già conseguiti."
-      ],
-      "publishedAt": "2026-11-03",
-      "verifiedAt": "2026-11-04T11:35:04.653484+00:00",
-      "source": {
-        "name": "AGI",
-        "url": "https://www.agi.it/economia/news/2026-11-03/utili-intesa-mps-39857480/",
-        "access": "free",
-        "accessCheckedAt": "2026-11-04T11:35:04.653484+00:00",
-        "dateEvidence": "AGI, Annalisa Cretella, 03 novembre 2026; letto il testo sui risultati e sulla conference call del gruppo.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "economia-exilva-avvio-spegnimento-altiforni-20261103",
-      "eventKey": "exilva-avvio-spegnimento-altiforni-20261103",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Ex Ilva, iniziate le operazioni di spegnimento degli altiforni",
-      "summary": "L’azienda comunica ai sindacati l’avvio delle operazioni dopo la decisione della Cassazione.",
-      "body": [
-        "Sky TG24 riferisce lo stop dell’area a caldo e le richieste sindacali per lavoratori e indotto. I tempi di completamento e le ripartenze di altri reparti restano programmi distinti dalla chiusura degli altiforni."
-      ],
-      "publishedAt": "2026-11-03T12:45:00+01:00",
-      "verifiedAt": "2026-11-04T11:35:04.653489+00:00",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/11/03/ex-ilva-taranto-spegnimento-altiforni",
-        "access": "free",
-        "accessCheckedAt": "2026-11-04T11:35:04.653489+00:00",
-        "dateEvidence": "Sky TG24: 03 nov 2026 - 12:45; testo sull’avvio delle operazioni di spegnimento, non soltanto sulla sentenza.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "economia-immatricolazioni-italia-ottobre-2026",
-      "eventKey": "immatricolazioni-italia-ottobre-2026",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Auto, immatricolazioni italiane in crescita a ottobre",
-      "summary": "Nel mese sono state immatricolate 131.921 vetture, il 4,81% in più rispetto a un anno prima.",
-      "body": [
-        "AGI riporta i dati del Ministero delle Infrastrutture e dei Trasporti: i primi dieci mesi segnano un aumento dell’8,32%. Il recupero resta incompleto rispetto ai livelli del 2019."
-      ],
-      "publishedAt": "2026-11-02",
-      "verifiedAt": "2026-11-04T11:35:04.653515+00:00",
-      "source": {
-        "name": "AGI",
-        "url": "https://www.agi.it/economia/news/2026-11-02/auto-mercato-immatricolazioni-dati-39838052/",
-        "access": "free",
-        "accessCheckedAt": "2026-11-04T11:35:04.653515+00:00",
-        "dateEvidence": "Pagina AGI datata 02 novembre 2026; dati MIT sulle immatricolazioni di ottobre e primi dieci mesi.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "economia-delvecchio-offerta-quote-delfin-20261102",
-      "eventKey": "delvecchio-offerta-quote-delfin-20261102",
-      "category": "Economia",
-      "status": "verified",
-      "title": "Del Vecchio propone ai soci di acquistare le quote Delfin",
-      "summary": "Leonardo Maria Del Vecchio descrive in una lettera una nuova offerta e la disponibilità di finanziamento bancario.",
-      "body": [
-        "Il resoconto AGI del 2 novembre parla di acquisto immediato o diluito nel tempo e di rinuncia ad azioni legali. La proposta non viene presentata come un accordo già accettato dagli altri soci."
-      ],
-      "publishedAt": "2026-11-02",
-      "verifiedAt": "2026-11-04T11:35:04.653538+00:00",
-      "source": {
-        "name": "AGI",
-        "url": "https://www.agi.it/economia/news/2026-11-02/delfin-del-vecchio-offerta-soci-39825139/",
-        "access": "free",
-        "accessCheckedAt": "2026-11-04T11:35:04.653538+00:00",
-        "dateEvidence": "AGI: 02 novembre 2026, lettera di Leonardo Maria Del Vecchio al Quotidiano Nazionale; offerta, non acquisizione conclusa.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    }
-  ],
-  "lastAttemptAt": "2026-11-04T11:35:04.653782+00:00"
+  "reserveDraft": []
 }
