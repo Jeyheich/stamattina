@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "collectionId": "2026-11-04-mattina",
-  "id": "2026-11-04-batches-09b5c9073fd2",
+  "id": "2026-11-04-batches-6d2664167f97",
   "mode": "live",
   "editionDate": "2026-11-04",
-  "generatedAt": "2026-11-04T11:30:01.674Z",
+  "generatedAt": "2026-11-04T11:34:15.135Z",
   "timezone": "Europe/Rome",
   "scheduledFor": "2026-11-04T09:00:00+01:00",
   "essentialIds": [
@@ -977,6 +977,216 @@
       }
     },
     {
+      "id": "esteri-belgio-dimissioni-offerte-de-wever-20261102",
+      "eventKey": "belgio-dimissioni-offerte-de-wever-20261102",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Belgio, De Wever offre le dimissioni dopo lo stallo sul bilancio",
+      "summary": "Il resoconto del 2 novembre descrive la crisi della coalizione e la decisione del re di avviare consultazioni.",
+      "body": [
+        "Bart De Wever ha presentato le dimissioni; re Filippo le ha congelate mentre valuta possibili accordi. Questa scheda mantiene la data della fonte e non afferma che il governo sia già stato sostituito."
+      ],
+      "publishedAt": "2026-11-02T15:36:26+00:00",
+      "verifiedAt": "2026-11-04T11:33:56.798670+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/belgio-il-premier-si-dimette-per-il-mancato-accordo-sulla-legge-di-bilancio-il-re-consultazioni-75e3d678-d203-4c34-a730-de0d52750c31.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:33:56.798670+00:00",
+        "dateEvidence": "RaiNews: article:published_time 2026-11-02T15:36:26+0000; resoconto delle dimissioni offerte e congelate.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-praga-protesta-emittenti-pubbliche-20261103",
+      "eventKey": "praga-protesta-emittenti-pubbliche-20261103",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Praga, manifestazioni a sostegno dei media pubblici",
+      "summary": "Studenti e artisti hanno affiancato lo sciopero di ventiquattr’ore dei lavoratori di radio e televisione.",
+      "body": [
+        "La protesta riguarda una proposta di riforma del finanziamento delle emittenti. I manifestanti temono effetti sull’indipendenza; il governo sostiene di voler ridurre gli oneri per le famiglie."
+      ],
+      "publishedAt": "2026-11-03T21:35:12+00:00",
+      "verifiedAt": "2026-11-04T11:33:56.798686+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/a-praga-sfilano-in-migliaia-per-difendere-lemittenza-pubblica-sciopero-5614a771-7b44-4460-8a2c-5edcf1716e3e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:33:56.798686+00:00",
+        "dateEvidence": "RaiNews: metadato pubblicazione 2026-11-03T21:35:12+0000; manifestazioni del 3 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-spagna-dimissioni-oscar-puente-20261103",
+      "eventKey": "spagna-dimissioni-oscar-puente-20261103",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Spagna, il ministro dei Trasporti annuncia le dimissioni",
+      "summary": "Óscar Puente comunica la decisione dopo l’audizione parlamentare sull’incidente ferroviario di Urda.",
+      "body": [
+        "Il ministro collega la scelta alle due gravi tragedie ferroviarie avvenute nell’anno. Il resoconto riporta anche il ritiro del suo nome dalle liste per le elezioni del 29 novembre."
+      ],
+      "publishedAt": "2026-11-03T20:53:19+00:00",
+      "verifiedAt": "2026-11-04T11:33:56.798701+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/spagna-si-dimette-il-ministro-dei-trasporti-oscar-puente-dopo-due-stragi-9280c2a4-f8fa-475b-91e9-8a960a66b38d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:33:56.798701+00:00",
+        "dateEvidence": "RaiNews: article:published_time 2026-11-03T20:53:19+0000; annuncio al termine dell’audizione.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-florida-inchiesta-learjet-profilo-copilota-20261103",
+      "eventKey": "florida-inchiesta-learjet-profilo-copilota-20261103",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Jet precipitato in Florida, le cause restano da accertare",
+      "summary": "RaiNews ricostruisce il percorso della giovane copilota e i momenti precedenti all’incidente con nove vittime.",
+      "body": [
+        "L’articolo del 3 novembre riguarda lo schianto della domenica precedente. I messaggi sulle condizioni meteorologiche non provano la causa: l’indagine è affidata alla NTSB."
+      ],
+      "publishedAt": "2026-11-03T07:55:46+00:00",
+      "verifiedAt": "2026-11-04T11:33:56.798716+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/il-jet-precipitato-in-florida-la-copilota-aveva-20-anni-e-aveva-ottenuto-il-brevetto-a-17-c65f5e16-edb3-464f-894d-ecabd72d1cd5.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:33:56.798716+00:00",
+        "dateEvidence": "RaiNews: metadato pubblicazione 2026-11-03T07:55:46+0000; articolo distingue racconto dei familiari e indagine NTSB.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-karl-bushby-ritorno-hull-20261102",
+      "eventKey": "karl-bushby-ritorno-hull-20261102",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Karl Bushby torna a Hull dopo ventotto anni di viaggio",
+      "summary": "L’avventuriero britannico conclude la spedizione iniziata in Cile nel 1998.",
+      "body": [
+        "Euronews descrive il rientro del 2 novembre, dopo circa cinquantamila chilometri e lunghi stop per visti, finanziamenti e pandemia. La fonte è stata aggiornata il 3 novembre: il ritorno non è avvenuto oggi."
+      ],
+      "publishedAt": "2026-11-02T13:57:13+01:00",
+      "verifiedAt": "2026-11-04T11:33:56.798721+00:00",
+      "source": {
+        "name": "Euronews",
+        "url": "https://it.euronews.com/2026/11/02/karl-bushby-torna-a-casa-dopo-28-anni-e-50000-km-a-piedi",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:33:56.798721+00:00",
+        "dateEvidence": "Pagina Euronews pubblicata 2 novembre 2026 13:57 CET, aggiornata 3 novembre 09:18 CET; ritorno a Hull il 2 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-svizzera-rinuncia-rimborso-cure-crans-20261104",
+      "eventKey": "svizzera-rinuncia-rimborso-cure-crans-20261104",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Crans-Montana, la Svizzera rinuncia al rimborso delle cure",
+      "summary": "Il governo elvetico rinuncia in via eccezionale a recuperare le spese per i feriti italiani nell’incendio di Capodanno.",
+      "body": [
+        "RaiNews riporta una nota dell’esecutivo svizzero: il presidente Guy Parmelin ha informato Giorgia Meloni. Le spese indicate ammontano a 1,5 milioni di franchi."
+      ],
+      "publishedAt": "2026-11-04T11:12:20+00:00",
+      "verifiedAt": "2026-11-04T11:33:56.798041+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/crans-montana-la-svizzera-rinuncia-al-rimborso-delle-spese-mediche-dei-feriti-991e0e41-e902-45a7-8a9c-e70b00b24b37.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:33:56.798041+00:00",
+        "dateEvidence": "Metadato article:published_time 2026-11-04T11:12:20+0000; pagina RaiNews datata 04/11/2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-garlasco-richiesta-processo-sempio-20261103",
+      "eventKey": "garlasco-richiesta-processo-sempio-20261103",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Garlasco, la Procura chiede il processo per Andrea Sempio",
+      "summary": "La richiesta di rinvio a giudizio per l’omicidio di Chiara Poggi deve essere valutata dal giudice dell’udienza preliminare.",
+      "body": [
+        "La difesa si dichiara pronta ad affrontare il procedimento e ribadisce l’innocenza dell’assistito. La richiesta dei pm non equivale né all’apertura del dibattimento né a una condanna."
+      ],
+      "publishedAt": "2026-11-03T17:31:00+01:00",
+      "verifiedAt": "2026-11-04T11:33:56.798115+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/03/delitto-garlasco-sempio-ultime-notizie",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:33:56.798115+00:00",
+        "dateEvidence": "Sky TG24 indica 03 nov 2026 - 17:31; testo sulla richiesta dei pm e sulle dichiarazioni dei difensori.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-bologna-ammonimento-atti-persecutori-20261103",
+      "eventKey": "bologna-ammonimento-atti-persecutori-20261103",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Bologna, ammonito un uomo per le condotte verso l’ex compagna",
+      "summary": "La polizia ha ricostruito telefonate ripetute e l’uso di un localizzatore nascosto nel portafoglio della donna.",
+      "body": [
+        "Il questore ha disposto un ammonimento urgente nei confronti del venticinquenne dopo gli accertamenti della polizia postale. Il provvedimento descritto è un ammonimento, non una sentenza di condanna."
+      ],
+      "publishedAt": "2026-11-03T14:48:30+00:00",
+      "verifiedAt": "2026-11-04T11:33:56.798138+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/bologna-perseguita-la-ex-con-200-telefonate-al-giorno-e-un-airtag-per-pedinarla-7a3917b2-ea3b-4617-b0b9-d7137d003f43.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:33:56.798138+00:00",
+        "dateEvidence": "RaiNews: article:published_time 2026-11-03T14:48:30+0000; testo del provvedimento del questore.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-genini-nuovo-sequestro-abitazione-20261103",
+      "eventKey": "genini-nuovo-sequestro-abitazione-20261103",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Caso Genini, nuovo sequestro dell’appartamento di Milano",
+      "summary": "La polizia torna a sequestrare l’abitazione nell’ambito di accertamenti su un presunto furto di oggetti personali.",
+      "body": [
+        "RaiNews riferisce della denuncia presentata dopo il precedente dissequestro. L’accertamento sul furto è distinto dal procedimento sul femminicidio; le circostanze dell’accesso all’alloggio restano da chiarire."
+      ],
+      "publishedAt": "2026-11-03T17:03:49+00:00",
+      "verifiedAt": "2026-11-04T11:33:56.798154+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/dopo-il-furto-di-gioielli-e-stata-di-nuovo-sequestrata-la-casa-dove-e-stata-uccisa-pamela-genini-06d9d4d9-047d-4294-8560-7d5dfc5e99e6.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:33:56.798154+00:00",
+        "dateEvidence": "RaiNews: metadato pubblicazione 2026-11-03T17:03:49+0000, pagina del 03/11/2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-fiumicino-falsi-allarmi-due-voli-20261103",
+      "eventKey": "fiumicino-falsi-allarmi-due-voli-20261103",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Fiumicino, negativi i controlli dopo gli allarmi su due voli",
+      "summary": "Le verifiche su due aerei Ryanair provenienti da Lisbona e Dublino non hanno trovato ordigni.",
+      "body": [
+        "I voli sono stati scortati da caccia e controllati dopo l’atterraggio del 3 novembre. RaiNews segnala allarmi simili anche in altri Paesi; un eventuale collegamento tra le segnalazioni non è accertato."
+      ],
+      "publishedAt": "2026-11-03T14:05:01+00:00",
+      "verifiedAt": "2026-11-04T11:33:56.798171+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/a-fiumicino-falso-allarme-bomba-su-due-voli-ryanair-controlli-negativi-487a120c-23f7-4522-a298-f08ec7a90cbb.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:33:56.798171+00:00",
+        "dateEvidence": "RaiNews: article:published_time 2026-11-03T14:05:01+0000; controlli conclusi con esito negativo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
       "id": "roma-studio-tor-vergata-copatologia-parkinson-20261104",
       "eventKey": "studio-tor-vergata-copatologia-parkinson-20261104",
       "category": "Roma",
@@ -1400,6 +1610,16 @@
     }
   ],
   "reserveIds": [
+    "esteri-belgio-dimissioni-offerte-de-wever-20261102",
+    "esteri-praga-protesta-emittenti-pubbliche-20261103",
+    "esteri-spagna-dimissioni-oscar-puente-20261103",
+    "esteri-florida-inchiesta-learjet-profilo-copilota-20261103",
+    "esteri-karl-bushby-ritorno-hull-20261102",
+    "cronaca-svizzera-rinuncia-rimborso-cure-crans-20261104",
+    "cronaca-garlasco-richiesta-processo-sempio-20261103",
+    "cronaca-bologna-ammonimento-atti-persecutori-20261103",
+    "cronaca-genini-nuovo-sequestro-abitazione-20261103",
+    "cronaca-fiumicino-falsi-allarmi-due-voli-20261103",
     "roma-studio-tor-vergata-copatologia-parkinson-20261104",
     "roma-valmontone-ampliamento-area-commerciale-20261104",
     "roma-rome15k-programma-iscritti-20261108",

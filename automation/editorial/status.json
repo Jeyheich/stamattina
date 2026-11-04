@@ -1,13 +1,11 @@
 {
   "editionDate": "2026-11-04",
-  "checkedAt": "2026-11-04T11:30:01.674Z",
+  "checkedAt": "2026-11-04T11:34:15.135Z",
   "ready": true,
   "editorialComplete": false,
   "reserveMissing": [
     "politica",
-    "esteri",
-    "economia",
-    "cronaca"
+    "economia"
   ],
   "completed": [
     "politica",
@@ -264,6 +262,66 @@
       "eventKey": "tennis-parigi-rublev-etcheverry-risultato-20261103"
     },
     {
+      "id": "esteri-belgio-dimissioni-offerte-de-wever-20261102",
+      "category": "Esteri",
+      "title": "Belgio, De Wever offre le dimissioni dopo lo stallo sul bilancio",
+      "eventKey": "belgio-dimissioni-offerte-de-wever-20261102"
+    },
+    {
+      "id": "esteri-praga-protesta-emittenti-pubbliche-20261103",
+      "category": "Esteri",
+      "title": "Praga, manifestazioni a sostegno dei media pubblici",
+      "eventKey": "praga-protesta-emittenti-pubbliche-20261103"
+    },
+    {
+      "id": "esteri-spagna-dimissioni-oscar-puente-20261103",
+      "category": "Esteri",
+      "title": "Spagna, il ministro dei Trasporti annuncia le dimissioni",
+      "eventKey": "spagna-dimissioni-oscar-puente-20261103"
+    },
+    {
+      "id": "esteri-florida-inchiesta-learjet-profilo-copilota-20261103",
+      "category": "Esteri",
+      "title": "Jet precipitato in Florida, le cause restano da accertare",
+      "eventKey": "florida-inchiesta-learjet-profilo-copilota-20261103"
+    },
+    {
+      "id": "esteri-karl-bushby-ritorno-hull-20261102",
+      "category": "Esteri",
+      "title": "Karl Bushby torna a Hull dopo ventotto anni di viaggio",
+      "eventKey": "karl-bushby-ritorno-hull-20261102"
+    },
+    {
+      "id": "cronaca-svizzera-rinuncia-rimborso-cure-crans-20261104",
+      "category": "Cronaca",
+      "title": "Crans-Montana, la Svizzera rinuncia al rimborso delle cure",
+      "eventKey": "svizzera-rinuncia-rimborso-cure-crans-20261104"
+    },
+    {
+      "id": "cronaca-garlasco-richiesta-processo-sempio-20261103",
+      "category": "Cronaca",
+      "title": "Garlasco, la Procura chiede il processo per Andrea Sempio",
+      "eventKey": "garlasco-richiesta-processo-sempio-20261103"
+    },
+    {
+      "id": "cronaca-bologna-ammonimento-atti-persecutori-20261103",
+      "category": "Cronaca",
+      "title": "Bologna, ammonito un uomo per le condotte verso l’ex compagna",
+      "eventKey": "bologna-ammonimento-atti-persecutori-20261103"
+    },
+    {
+      "id": "cronaca-genini-nuovo-sequestro-abitazione-20261103",
+      "category": "Cronaca",
+      "title": "Caso Genini, nuovo sequestro dell’appartamento di Milano",
+      "eventKey": "genini-nuovo-sequestro-abitazione-20261103"
+    },
+    {
+      "id": "cronaca-fiumicino-falsi-allarmi-due-voli-20261103",
+      "category": "Cronaca",
+      "title": "Fiumicino, negativi i controlli dopo gli allarmi su due voli",
+      "eventKey": "fiumicino-falsi-allarmi-due-voli-20261103"
+    },
+    {
       "id": "roma-studio-tor-vergata-copatologia-parkinson-20261104",
       "category": "Roma",
       "title": "Tor Vergata, uno studio sul Parkinson e la copatologia Alzheimer",
@@ -387,9 +445,9 @@
   "collectionId": "2026-11-04-mattina",
   "reserveCounts": {
     "Politica": 0,
-    "Esteri": 0,
+    "Esteri": 5,
     "Economia": 0,
-    "Cronaca": 0,
+    "Cronaca": 5,
     "Roma": 5,
     "Cultura · Teatro · Cinema": 5,
     "Tecnologia · AI": 5,
@@ -432,9 +490,9 @@
     },
     "esteri": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "economia": {
       "base": 5,
@@ -444,9 +502,9 @@
     },
     "cronaca": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "roma": {
       "base": 5,
@@ -473,9 +531,6 @@
       "complete": true
     }
   },
-  "editionId": "2026-11-04-batches-09b5c9073fd2",
-  "needsPublication": false,
-  "publicVerifiedAt": "2026-11-04T11:30:22.216091+00:00",
-  "publicEditionId": "2026-11-04-batches-09b5c9073fd2",
-  "publication": "verified"
+  "editionId": "2026-11-04-batches-6d2664167f97",
+  "needsPublication": true
 }
