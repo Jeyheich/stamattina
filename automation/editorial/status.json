@@ -1,7 +1,7 @@
 {
   "editionDate": "2026-11-04",
-  "checkedAt": "2026-11-04T11:21:47.102Z",
-  "ready": false,
+  "checkedAt": "2026-11-04T11:22:10.709Z",
+  "ready": true,
   "editorialComplete": false,
   "reserveMissing": [
     "politica",
@@ -15,6 +15,7 @@
   ],
   "completed": [
     "politica",
+    "esteri",
     "economia",
     "cronaca",
     "roma",
@@ -23,9 +24,7 @@
     "sport"
   ],
   "inProgress": [],
-  "missing": [
-    "esteri"
-  ],
+  "missing": [],
   "invalid": [],
   "stories": [
     {
@@ -57,6 +56,36 @@
       "category": "Politica",
       "title": "Vannacci apre alla partecipazione alle cene sulla marcia su Roma",
       "eventKey": "vannacci-cene-marcia-roma-20261102"
+    },
+    {
+      "id": "esteri-usa-midterm-congresso-proiezioni-20261104",
+      "category": "Esteri",
+      "title": "Midterm Usa, le proiezioni assegnano il Congresso ai democratici",
+      "eventKey": "usa-midterm-congresso-proiezioni-20261104"
+    },
+    {
+      "id": "esteri-harvard-hum10-corso-senza-ai-20261104",
+      "category": "Esteri",
+      "title": "Harvard, cresce la domanda per un corso senza dispositivi e AI",
+      "eventKey": "harvard-hum10-corso-senza-ai-20261104"
+    },
+    {
+      "id": "esteri-israele-consultazioni-herzog-20261104",
+      "category": "Esteri",
+      "title": "Israele, Herzog apre le consultazioni partendo dai piccoli partiti",
+      "eventKey": "israele-consultazioni-herzog-20261104"
+    },
+    {
+      "id": "esteri-ucraina-incontro-ricostruzione-bruxelles-20261104",
+      "category": "Esteri",
+      "title": "Ucraina, a Bruxelles il confronto su finanziamenti e ricostruzione",
+      "eventKey": "ucraina-incontro-ricostruzione-bruxelles-20261104"
+    },
+    {
+      "id": "esteri-yemen-taiz-allarme-umanitario-onu-20261104",
+      "category": "Esteri",
+      "title": "Yemen, allarme Onu per la popolazione di Taiz",
+      "eventKey": "yemen-taiz-allarme-umanitario-onu-20261104"
     },
     {
       "id": "economia-aumento-gas-vulnerabili-ottobre-2026",
@@ -257,6 +286,11 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg"
     },
     {
+      "id": "esteri-israele-consultazioni-herzog-20261104",
+      "category": "Esteri",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG"
+    },
+    {
       "id": "roma-viabilita-celebrazioni-4-novembre-2026",
       "category": "Roma",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bus_stop_in_Rome_01.jpg"
@@ -272,7 +306,7 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg"
     }
   ],
-  "photosAvailable": 4,
+  "photosAvailable": 5,
   "categoryProgress": {
     "politica": {
       "base": 5,
@@ -281,7 +315,7 @@
       "complete": false
     },
     "esteri": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
@@ -323,5 +357,6 @@
       "complete": false
     }
   },
-  "needsPublication": false
+  "editionId": "2026-11-04-batches-efd1782bc1c9",
+  "needsPublication": true
 }
