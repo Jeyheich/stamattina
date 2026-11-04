@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-04",
-  "checkedAt": "2026-11-04T11:14:37.633Z",
+  "checkedAt": "2026-11-04T11:15:16.420Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,7 +14,8 @@
     "sport"
   ],
   "completed": [
-    "tecnologia"
+    "tecnologia",
+    "sport"
   ],
   "inProgress": [],
   "missing": [
@@ -39,10 +40,6 @@
     },
     {
       "slug": "cultura",
-      "reason": "Verifica scaduta o futura"
-    },
-    {
-      "slug": "sport",
       "reason": "Verifica scaduta o futura"
     }
   ],
@@ -76,6 +73,36 @@
       "category": "Tecnologia · AI",
       "title": "Sony presenta un DualSense speciale per i trent’anni di Gran Turismo",
       "eventKey": "sony-dualsense-gran-turismo-trentennale-20261103"
+    },
+    {
+      "id": "sport-inter-chivu-vittoria-feyenoord",
+      "category": "Sport",
+      "title": "Chivu: la vittoria a Rotterdam restituisce fiducia all’Inter",
+      "eventKey": "inter-chivu-analisi-vittoria-feyenoord-20261103"
+    },
+    {
+      "id": "sport-napoli-allegri-vigilia-porto",
+      "category": "Sport",
+      "title": "Allegri chiede al Napoli maggiore attenzione nei finali di gara",
+      "eventKey": "napoli-allegri-conferenza-porto-20261103"
+    },
+    {
+      "id": "sport-como-fabregas-vigilia-lens",
+      "category": "Sport",
+      "title": "Fabregas prepara il Como alla trasferta europea con il Lens",
+      "eventKey": "como-fabregas-vigilia-lens-20261103"
+    },
+    {
+      "id": "sport-fifpro-top11-candidati-italiani",
+      "category": "Sport",
+      "title": "FIFPro World 11: nessun italiano e nessun giocatore della Serie A tra i candidati",
+      "eventKey": "fifpro-top11-2026-assenza-serie-a-italiani"
+    },
+    {
+      "id": "sport-tennis-parigi-rublev-etcheverry",
+      "category": "Sport",
+      "title": "A Parigi Etcheverry supera Rublev in tre set",
+      "eventKey": "tennis-parigi-rublev-etcheverry-risultato-20261103"
     }
   ],
   "collectionId": "2026-11-04-mattina",
@@ -89,8 +116,14 @@
     "Tecnologia · AI": 0,
     "Sport": 0
   },
-  "photoCandidates": [],
-  "photosAvailable": 0,
+  "photoCandidates": [
+    {
+      "id": "sport-inter-chivu-vittoria-feyenoord",
+      "category": "Sport",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg"
+    }
+  ],
+  "photosAvailable": 1,
   "categoryProgress": {
     "politica": {
       "base": 0,
@@ -135,7 +168,7 @@
       "complete": false
     },
     "sport": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 3,
       "complete": false
