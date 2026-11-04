@@ -3,7 +3,6 @@
   "editionDate": "2026-11-04",
   "collectionId": "2026-11-04-mattina",
   "category": "Cronaca",
-  "status": "in-progress",
   "lastAttemptAt": "2026-11-04T05:17:53.537Z",
   "articles": [
     {
@@ -17,17 +16,102 @@
         "Sky TG24 segnala che sabato 7 novembre potrebbero verificarsi piogge e temporali sparsi nelle regioni centro-meridionali. Per domenica 8 è prevista un'attenuazione del maltempo su gran parte del Paese, salvo fenomeni isolati lungo le coste toscane. Si tratta di previsioni, soggette ad aggiornamento."
       ],
       "publishedAt": "2026-11-03T09:12:00+01:00",
-      "verifiedAt": "2026-11-04T05:17:53.537Z",
+      "verifiedAt": "2026-11-04T11:18:29.628025+00:00",
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it/cronaca/2026/11/03/meteo-piogge-sud-previsioni",
         "access": "free",
-        "accessCheckedAt": "2026-11-04T05:17:53.537Z",
+        "accessCheckedAt": "2026-11-04T11:18:29.628025+00:00",
         "dateEvidence": "La pagina Sky TG24 riporta espressamente '03 nov 2026 - 09:12' sopra l'introduzione.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-casarano-incidente-cancello-20261104",
+      "eventKey": "casarano-incidente-cancello-20261104",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Casarano, imprenditore muore durante lavori in un’abitazione",
+      "summary": "Un uomo di 61 anni è morto dopo essere rimasto schiacciato da un cancello scorrevole.",
+      "body": [
+        "RaiNews riferisce che l’incidente è avvenuto a Casarano, in contrada Spagnolo, durante lavori in un’abitazione privata. I soccorsi non hanno potuto salvare il titolare della ditta edile."
+      ],
+      "publishedAt": "2026-11-04T10:11:00+00:00",
+      "verifiedAt": "2026-11-04T11:18:29.628025+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/incidente-sul-lavoro-in-salento-muore-titolare-ditta-schiacciato-da-un-cancello-96067210-a70b-47e9-a5b0-b05f71b5d521.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:18:29.628025+00:00",
+        "dateEvidence": "RSS pubDate: Wed, 04 Nov 2026 10:11:00 GMT; data confrontata con la pagina originale letta.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-milano-richiesta-giudizio-maltrattamenti-manager-20261104",
+      "eventKey": "milano-richiesta-giudizio-maltrattamenti-manager-20261104",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Milano, chiesto il processo per le violenze denunciate da un manager",
+      "summary": "La Procura chiede il rinvio a giudizio dell’ex moglie dell’uomo per le accuse emerse nell’inchiesta.",
+      "body": [
+        "La donna deve affrontare l’udienza preliminare. Le contestazioni comprendono maltrattamenti e lesioni aggravate; si tratta di accuse da accertare nel procedimento, non di una condanna."
+      ],
+      "publishedAt": "2026-11-04T08:53:00+00:00",
+      "verifiedAt": "2026-11-04T11:18:29.628025+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/manager-seviziato-per-anni-dallex-moglie-chiesto-il-giudizio-per-la-donna-fba67c41-d9e4-4ab3-8856-676158cf7af1.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:18:29.628025+00:00",
+        "dateEvidence": "RSS pubDate: Wed, 04 Nov 2026 08:53:00 GMT; data confrontata con la pagina originale letta.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-operazione-sweet-strip-arresti-20261104",
+      "eventKey": "operazione-sweet-strip-arresti-20261104",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Abusi online sui minori, sette arresti nell’operazione Sweet Strip",
+      "summary": "L’indagine coordinata dalla Procura di Roma ha portato anche a 23 denunce e perquisizioni in più regioni.",
+      "body": [
+        "La Polizia di Stato riferisce di avere identificato trenta persone. L’inchiesta è partita dalla denuncia della madre di una quattordicenne e riguarda produzione e condivisione di materiale di abuso sessuale su minori."
+      ],
+      "publishedAt": "2026-11-04T07:42:07+00:00",
+      "verifiedAt": "2026-11-04T11:18:29.628025+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/04/pedopornografia-abusi-minori-arresti",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:18:29.628025+00:00",
+        "dateEvidence": "RSS pubDate: mer, 04 nov 2026 07:42:07 GMT; data confrontata con la pagina originale letta.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-cremona-caso-dengue-disinfestazione-20261103",
+      "eventKey": "cremona-caso-dengue-disinfestazione-20261103",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Cremona, disinfestazione dopo un caso di dengue",
+      "summary": "Ats Val Padana conferma un caso nel quartiere Po; il Comune dispone un intervento di disinfestazione.",
+      "body": [
+        "Il paziente è ricoverato all’ospedale Maggiore e resta sotto osservazione. Sky TG24 riferisce che i sintomi sarebbero comparsi dopo il rientro da Cuba."
+      ],
+      "publishedAt": "2026-11-03T22:21:04+00:00",
+      "verifiedAt": "2026-11-04T11:18:29.628025+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/03/dengue-cremona-disinfestazione",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:18:29.628025+00:00",
+        "dateEvidence": "RSS pubDate: mar, 03 nov 2026 22:21:04 GMT; data confrontata con la pagina originale letta.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ],
   "reserveArticles": [],
-  "reserveDraft": []
+  "reserveDraft": [],
+  "completedAt": "2026-11-04T11:18:29.628025+00:00"
 }
