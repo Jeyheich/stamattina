@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-04",
+  "collectionId": "2026-11-04-mattina",
+  "category": "Politica",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-04T06:06:14+01:00",
+  "articles": [
+    {
+      "id": "politica-mattarella-difesa-comune-ue-20261103",
+      "eventKey": "mattarella-appello-difesa-comune-ue-nato-20261103",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Mattarella sollecita una difesa europea più integrata",
+      "summary": "Nel messaggio per la ricorrenza del 4 novembre, il presidente della Repubblica ha chiesto un'accelerazione della cooperazione militare europea e un rafforzamento della Nato, ribadendo il rispetto del diritto internazionale.",
+      "body": [
+        "Sergio Mattarella ha indicato la necessità di strumenti militari europei maggiormente interoperabili, collegando la difesa comune alla tutela delle libertà e alla stabilità del continente.",
+        "Il capo dello Stato ha richiamato i principi costituzionali di pace e dialogo e ha ricordato i militari italiani morti nell'incidente in Bosnia."
+      ],
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-04T06:06:14+01:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/amp/sito/notizie/politica/2026/11/03/allarme-di-mattarella-subito-la-difesa-comune-ue-e-il-rafforzamento-della-nato_40e4cb7d-9452-4872-ad6f-3982a0a63655.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T06:06:14+01:00",
+        "dateEvidence": "La pagina ANSA riporta esplicitamente 'ROMA - Novembre 03,2026 - News'.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveDraft": []
+}
