@@ -11,6 +11,7 @@ on:
     paths:
       - 'incoming/edition.json'
       - 'automation/editorial/**'
+      - 'automation/BATCH_BRIEF.md'
       - 'dist/**'
       - 'scripts/**'
       - '.github/workflows/pages.yml'
@@ -82,6 +83,8 @@ jobs:
       - name: Conserva edizione e archivio validati
         run: |
           if [ -n "$(git status --porcelain -- dist/data incoming/edition.json automation/editorial)" ]; then
+            git fetch origin main
+            test "$(git rev-parse HEAD)" = "$(git rev-parse origin/main)"
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
             git add -- dist/data incoming/edition.json automation/editorial
