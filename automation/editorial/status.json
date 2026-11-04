@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-04",
-  "checkedAt": "2026-11-04T11:20:18.989Z",
+  "checkedAt": "2026-11-04T11:21:47.102Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,6 +14,8 @@
     "sport"
   ],
   "completed": [
+    "politica",
+    "economia",
     "cronaca",
     "roma",
     "cultura",
@@ -24,17 +26,68 @@
   "missing": [
     "esteri"
   ],
-  "invalid": [
+  "invalid": [],
+  "stories": [
     {
-      "slug": "politica",
-      "reason": "Verifica scaduta o futura"
+      "id": "politica-mattarella-difesa-comune-ue-20261103",
+      "category": "Politica",
+      "title": "Mattarella sollecita una difesa europea più integrata",
+      "eventKey": "mattarella-appello-difesa-comune-ue-nato-20261103"
     },
     {
-      "slug": "economia",
-      "reason": "Verifica scaduta o futura"
-    }
-  ],
-  "stories": [
+      "id": "politica-manovra-2027-esame-camera",
+      "category": "Politica",
+      "title": "Manovra, alla Camera il confronto sulle modifiche",
+      "eventKey": "manovra-2027-esame-camera"
+    },
+    {
+      "id": "politica-ue-tetto-alunni-stranieri-20261103",
+      "category": "Politica",
+      "title": "Scuola, Bruxelles richiama il divieto di discriminazione",
+      "eventKey": "ue-tetto-alunni-stranieri-20261103"
+    },
+    {
+      "id": "politica-governo-attacco-frigoriferi-supermercati-20261103",
+      "category": "Politica",
+      "title": "Attacchi ai supermercati, il governo parla di danni limitati",
+      "eventKey": "governo-attacco-frigoriferi-supermercati-20261103"
+    },
+    {
+      "id": "politica-vannacci-cene-marcia-roma-20261102",
+      "category": "Politica",
+      "title": "Vannacci apre alla partecipazione alle cene sulla marcia su Roma",
+      "eventKey": "vannacci-cene-marcia-roma-20261102"
+    },
+    {
+      "id": "economia-aumento-gas-vulnerabili-ottobre-2026",
+      "category": "Economia",
+      "title": "Gas, rincaro del 9,1% per i clienti vulnerabili a ottobre",
+      "eventKey": "arera-aumento-gas-clienti-vulnerabili-ottobre-2026"
+    },
+    {
+      "id": "economia-istat-istruzione-occupazione-2025",
+      "category": "Economia",
+      "title": "Istat, cresce l’occupazione di neodiplomati e neolaureati",
+      "eventKey": "istat-istruzione-occupazione-2025"
+    },
+    {
+      "id": "economia-bmw-revisione-obiettivi-2026",
+      "category": "Economia",
+      "title": "BMW riduce le previsioni sul margine Automotive",
+      "eventKey": "bmw-revisione-obiettivi-2026"
+    },
+    {
+      "id": "economia-kelloggs-ricetta-cereali-uk-20261104",
+      "category": "Economia",
+      "title": "Kellogg’s cambia la ricetta di due cereali nel Regno Unito",
+      "eventKey": "kelloggs-ricetta-cereali-uk-20261104"
+    },
+    {
+      "id": "economia-poundland-fornitori-rischio-crisi-20261104",
+      "category": "Economia",
+      "title": "Poundland, i fornitori temono perdite se la catena fallisce",
+      "eventKey": "poundland-fornitori-rischio-crisi-20261104"
+    },
     {
       "id": "cronaca-meteo-perturbazione-7-8-novembre-2026",
       "category": "Cronaca",
@@ -199,6 +252,11 @@
   },
   "photoCandidates": [
     {
+      "id": "politica-manovra-2027-esame-camera",
+      "category": "Politica",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg"
+    },
+    {
       "id": "roma-viabilita-celebrazioni-4-novembre-2026",
       "category": "Roma",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bus_stop_in_Rome_01.jpg"
@@ -214,10 +272,10 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg"
     }
   ],
-  "photosAvailable": 3,
+  "photosAvailable": 4,
   "categoryProgress": {
     "politica": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
@@ -229,7 +287,7 @@
       "complete": false
     },
     "economia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
