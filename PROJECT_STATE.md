@@ -10,7 +10,7 @@
 - Pomeriggio incompleto: non creare notizie o rinnovare timestamp per sbloccare il sistema.
 - Run 41865944252 SUCCESS tecnico: assemblaggio misto respinto, controlli fonti/promozione/deploy correttamente saltati. Il successo del run non è una nuova pubblicazione.
 
-## Correzione in validazione
+## Correzione integrata e distribuita
 - Percorsi canonici automation/editorial/YYYY-MM-DD/{mattina,pomeriggio}/SLUG.json e status.json separati.
 - Import legacy compatibile con prompt invariati; originali, checkpoint hash e recupero storico non distruttivo. Nessuna sostituzione del canonico dal recupero storico.
 - Selezione ciclo dal contenuto del push (anche in coda), input manuale esplicito; Europe/Rome e DST. Blocco dei cicli errati e di regressioni del pubblico.
@@ -24,7 +24,15 @@
 - Il primo test candidato aveva un errore di sintassi nel nuovo lettore; corretto e tutta la suite rieseguita con successo prima dell'integrazione.
 - Alcune risposte di stato GitHub hanno continuato a indicare queued dopo il completamento; verificare anche i log dei job, senza inferire l'esito da una singola lettura.
 
-## Prossimo passo
-- Integrare il commit validato su main con controllo dello SHA atteso, osservare Pubblica Stamattina, verificare migrazione persistita e nuova lettura del JSON pubblico.
-- Pomeriggio non pronto: nessuna pubblicazione forzata. Le verifiche scadute richiedono reale rilettura delle fonti; la migrazione non le rinnova.
-- La disponibilità di 80 fatti verificati dipende dalla produzione editoriale e dalle fonti accessibili: nessuna garanzia che bastino i dodici avvii; requisiti invariati.
+## Distribuzione conclusa
+- Integrazione fast-forward con SHA atteso, nessun reset o sovrascrittura concorrente. Commit principale 2a69a4ffcba611636c6ac1a077b14181905fb0a1; ulteriore guardia concorrenza/brief be2117a6710df812e4fba85aa18252e6070bfd73.
+- Test su main run 41881156530 SUCCESS. Pubblica Stamattina run 41881156925 SUCCESS: migrazione persistita, deploy Pages riuscito, confronto integrale del JSON pubblico senza cache superato alle 18:54:46 Europe/Rome.
+- Migrazione salvata in bdd1db09d299ed202fac6dcbbc7bc1955e117585; prova pubblica in e1f6a16fac36ea7944d3d04107992f3a3ba541dd e automation/editorial/publication.json.
+- Online: collectionId 2026-11-04-mattina, id 2026-11-04-batches-e17b5b4d5531, 40 principali + 40 aggiuntive, 40 reserveIds, cinque foto. Archivio per id identico. Il confronto Git non modifica UI, PWA, dati pubblici o archivio preesistente.
+- Stato mattutino recuperato dal checkpoint storico e prova di raggiungibilità pubblica aggiornata: NON è una nuova rilettura editoriale delle 80 fonti. Le date restano autentiche e invariate.
+- Pomeriggio: ready=false, editorialComplete=false, quattro checkpoint da un articolo in Economia/Cronaca/Roma/Cultura, zero aggiuntive; mancano Politica/Esteri/Tecnologia/Sport. invalid=[]: risolto l'errore di cicli mescolati. Nessuna promozione pomeridiana eseguita.
+- Automazioni ChatGPT, prompt, calendari e dodici avvii intatti. Nessuna nuova dipendenza, credenziale, API AI o costo.
+
+## Prossimo passo editoriale
+- Le attività esistenti proseguono solo i checkpoint del proprio ciclo. Completare il pomeriggio con fonti realmente lette; oltre tre ore rileggere le verifiche scadute. La migrazione non le rinnova.
+- La disponibilità di 80 fatti verificati dipende dalla produzione editoriale e dalle fonti accessibili: nessuna garanzia che bastino i dodici avvii; requisiti invariati. Non forzare una pubblicazione.
