@@ -117,5 +117,51 @@
     }
   ],
   "reserveArticles": [],
-  "reserveDraft": []
+  "reserveDraft": [
+    {
+      "id": "tecnologia-chat-work-unificazione",
+      "eventKey": "chatgpt-chat-work-unificazione-desktop-20261102",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "ChatGPT prepara un'esperienza unificata per Chat e Work",
+      "summary": "Secondo Punto Informatico, OpenAI sta sperimentando l'unione delle schede Chat e Work nella propria app desktop.",
+      "body": [
+        "Secondo Punto Informatico, OpenAI sta sperimentando l'unione delle schede Chat e Work nella propria app desktop.",
+        "La novità è inizialmente limitata a un gruppo di utenti; Codex rimane un'esperienza distinta."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-04T06:04:41.689Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/chatgpt-unisce-chat-work-finita-caccia-scheda-giusta/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T06:04:41.689Z",
+        "dateEvidence": "La pagina indica 'Pubblicato il 2 nov 2026', articolo su unificazione Chat/Work.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-ubisoft-arkane-interesse",
+      "eventKey": "ubisoft-interesse-acquisizione-arkane-20261103",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Ubisoft tra i possibili acquirenti di Arkane, secondo indiscrezioni",
+      "summary": "Un rapporto giornalistico citato da Everyeye indica Ubisoft tra i possibili interessati all'acquisizione di Arkane Studios.",
+      "body": [
+        "Un rapporto giornalistico citato da Everyeye indica Ubisoft tra i possibili interessati all'acquisizione di Arkane Studios.",
+        "Non esiste al momento una conferma ufficiale dell'operazione: la trattativa resta un'ipotesi."
+      ],
+      "publishedAt": "2026-11-03T23:13:00+01:00",
+      "verifiedAt": "2026-11-04T06:04:41.689Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/ubisoft-acquisire-arkane-studios-autori-marvel-s-blade-909625.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T06:04:41.689Z",
+        "dateEvidence": "Firma Giovanni Panzano, 3/11/2026 ore 23:13; il testo distingue il rumor da conferme.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "lastAttemptAt": "2026-11-04T06:04:41.689Z"
 }
