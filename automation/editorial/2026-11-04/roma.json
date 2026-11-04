@@ -3,7 +3,6 @@
   "editionDate": "2026-11-04",
   "collectionId": "2026-11-04-mattina",
   "category": "Roma",
-  "status": "in-progress",
   "lastAttemptAt": "2026-11-04T06:17:27.611Z",
   "articles": [
     {
@@ -12,23 +11,121 @@
       "category": "Roma",
       "status": "verified",
       "title": "Roma, chiusure e bus deviati per le cerimonie del 4 novembre",
-      "summary": "Le celebrazioni all'Altare della Patria e al Circo Massimo comportano chiusure stradali, divieti di sosta e modifiche a numerose linee di autobus.",
+      "summary": "Le cerimonie del 4 novembre e il Villaggio Difesa modificano la circolazione tra piazza Venezia e Circo Massimo.",
       "body": [
-        "Per la Giornata dell'Unità Nazionale e delle Forze Armate sono previste restrizioni alla circolazione tra piazza Venezia, i Fori Imperiali e il Circo Massimo. Le chiusure iniziano in varie zone dalle 7 e dalle 7:30 del 4 novembre.",
-        "Roma Servizi per la Mobilità segnala deviazioni o limitazioni per numerose linee bus e la sospensione temporanea della linea 119 fino a circa le 11. Ulteriori restrizioni sono previste in serata per la chiusura del Villaggio Difesa."
+        "Roma Mobilità segnala restrizioni nelle aree delle celebrazioni, con divieti di sosta e chiusure stradali. L’avviso del 28 ottobre è stato aggiornato il 4 novembre: non si tratta di una nuova pubblicazione.",
+        "Via dell’Ara Massima di Ercole è stata riaperta e sono state ripristinate le linee 51, 81, 118, 160 e 715. Nella notte del 5 novembre è prevista una chiusura tra Fori Imperiali e piazza Venezia, da mezzanotte alle 5."
       ],
       "publishedAt": "2026-10-28T00:00:00+01:00",
-      "verifiedAt": "2026-11-04T06:17:27.611Z",
+      "verifiedAt": "2026-11-04T11:18:29.628025+00:00",
       "source": {
         "name": "Roma Servizi per la Mobilità",
         "url": "https://romamobilita.it/primo-piano/cerimonie-4-novembre-la-viabilita/",
         "access": "free",
-        "accessCheckedAt": "2026-11-04T06:17:27.611Z",
-        "dateEvidence": "Pagina ufficiale: Pubblicato il 28/10/2026; Aggiornato il 03/11/2026.",
+        "accessCheckedAt": "2026-11-04T11:18:29.628025+00:00",
+        "dateEvidence": "Pagina ufficiale pubblicata il 28/10/2026 e aggiornata il 04/11/2026; riguarda le cerimonie odierne.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "updatedAt": "2026-11-04",
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bus_stop_in_Rome_01.jpg",
+        "alt": "Fermata di autobus a Roma",
+        "credit": "Nicholas Gemini",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bus_stop_in_Rome_01.jpg",
+        "rights": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · Fermata di autobus a Roma. La fotografia non ritrae le deviazioni delle cerimonie del 4 novembre.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      },
+      "leadPriority": 65
+    },
+    {
+      "id": "roma-storni-viale-jonio-disagi-20261104",
+      "eventKey": "storni-viale-jonio-disagi-20261104",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Viale Jonio, residenti e commercianti segnalano i disagi degli storni",
+      "summary": "Tra viale Jonio e viale Pantelleria proseguono le segnalazioni per escrementi e difficoltà a percorrere i marciapiedi.",
+      "body": [
+        "RomaToday riferisce di interventi di allontanamento incruento con richiami acustici e dissuasori luminosi. Alcuni residenti lamentano che il problema persiste."
+      ],
+      "publishedAt": "2026-11-04T11:55:00+01:00",
+      "verifiedAt": "2026-11-04T11:18:29.628025+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/attualita/invasione-storni-viale-jonio-viale-pantelleria-roma-video.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:18:29.628025+00:00",
+        "dateEvidence": "RSS pubDate: Wed, 04 Nov 2026 11:55:00 +0100; data confrontata con la pagina originale letta.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-castelverde-fiaccolata-legalita-20261103",
+      "eventKey": "castelverde-fiaccolata-legalita-20261103",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Castelverde, una fiaccolata chiede sicurezza dopo le esplosioni",
+      "summary": "Circa duecento persone hanno partecipato la sera del 3 novembre a una manifestazione per la legalità.",
+      "body": [
+        "Comitati e residenti di Roma est si sono riuniti nella zona del mercato di Castelverde. Chiedono sostegno ai commercianti e interventi delle istituzioni dopo la serie di esplosioni."
+      ],
+      "publishedAt": "2026-11-04T11:50:00+01:00",
+      "verifiedAt": "2026-11-04T11:18:29.628025+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/zone/torri/borghesiana/fiaccolata-bombe-roma-est-castelverde.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:18:29.628025+00:00",
+        "dateEvidence": "RSS pubDate: Wed, 04 Nov 2026 11:50:00 +0100; data confrontata con la pagina originale letta.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-botteghe-oscure-apertura-thompson-rome-20261104",
+      "eventKey": "botteghe-oscure-apertura-thompson-rome-20261104",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Botteghe Oscure, l’ex sede del Pci diventa un albergo",
+      "summary": "Nello storico edificio ha aperto il Thompson Rome, struttura del marchio Hyatt.",
+      "body": [
+        "RomaToday descrive un intervento conservativo che recupera elementi storici dell’edificio. La struttura comprende 69 camere e venti suite; l’apertura modifica la destinazione di un luogo simbolico della politica italiana."
+      ],
+      "publishedAt": "2026-11-04T11:45:00+01:00",
+      "verifiedAt": "2026-11-04T11:18:29.628025+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/attualita/hotel-5-stelle-botteghe-oscure.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:18:29.628025+00:00",
+        "dateEvidence": "RSS pubDate: Wed, 04 Nov 2026 11:45:00 +0100; data confrontata con la pagina originale letta.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-lavinio-aggressione-tre-arresti-20261104",
+      "eventKey": "lavinio-aggressione-tre-arresti-20261104",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Lavinio, tre arresti dopo un’aggressione a un automobilista",
+      "summary": "I carabinieri hanno rintracciato tre uomini sospettati di aver bloccato e aggredito una persona per un presunto debito d’affitto.",
+      "body": [
+        "Secondo la ricostruzione riportata da RomaToday, l’intervento dei residenti ha interrotto l’aggressione. I tre sono stati arrestati per tentata rapina; il telefono sottratto è stato recuperato e restituito."
+      ],
+      "publishedAt": "2026-11-04T11:12:00+01:00",
+      "verifiedAt": "2026-11-04T11:18:29.628025+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/cronaca/picchiato-auto-debito-lavinio.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:18:29.628025+00:00",
+        "dateEvidence": "RSS pubDate: Wed, 04 Nov 2026 11:12:00 +0100; data confrontata con la pagina originale letta.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ],
   "reserveArticles": [],
-  "reserveDraft": []
+  "reserveDraft": [],
+  "completedAt": "2026-11-04T11:18:29.628025+00:00"
 }
