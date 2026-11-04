@@ -19,7 +19,7 @@ export function selectCycle({explicit,scheduledAt,now=new Date()}={}){
 }
 export function writeJSON(file,value){fs.mkdirSync(path.dirname(file),{recursive:true});const out=JSON.stringify(value,null,2)+'\n';if(fs.existsSync(file)&&fs.readFileSync(file,'utf8')===out)return;fs.writeFileSync(file+'.tmp',out);fs.renameSync(file+'.tmp',file);}
 export function readBlocks(root,id){
- const blocks={};for(const slug of slugs){const file=path.join(cyclePath(root,id),slug+'.json');if(fs.existsSync(file)){try{blocks[slug]=JSON.parse(fs.readFileSync(file));}catch(e){blocks[slug]={error:e.message};}}return blocks;
+ const blocks={};for(const slug of slugs){const file=path.join(cyclePath(root,id),slug+'.json');if(fs.existsSync(file)){try{blocks[slug]=JSON.parse(fs.readFileSync(file));}catch(e){blocks[slug]={error:e.message};}}}return blocks;
 }
 const hash=b=>crypto.createHash('sha256').update(JSON.stringify(b)).digest('hex');
 export function ingestLegacy(root,day,{history=false}={}){
