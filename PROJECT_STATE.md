@@ -1,5 +1,11 @@
 # Stamattina — checkpoint 27 ottobre 2026
 
+## Completamento 40+40 — 4 novembre 2026
+- Richiesta esplicita di Fabio: completare subito le aggiuntive. Salvati e verificati tutti gli otto blocchi: cinque principali più cinque reserveArticles ciascuno; nessun reserveDraft residuo, 80 fatti/URL distinti. Tecnologia rispetta 3 Punto Informatico + 2 Everyeye anche nelle riserve. Fonti lette; indiscrezioni, accuse e appuntamenti futuri qualificati come tali.
+- Pubblicazione completa verificata alle 12:36 Europe/Rome: ciclo 2026-11-04-mattina, id 2026-11-04-batches-e17b5b4d5531, 80 articoli e 40 reserveIds. JSON pubblico confrontato integralmente con dist/data/current.json: identico. Cinque fotografie autentiche con licenze verificate.
+- Run 41822121355 SUCCESS: controllo fonti/foto/date, promozione, salvataggio, deploy e verifica pubblica tutti superati. Controllo locale indipendente sulle 80 fonti/foto e validazione production/balanced superati. Stato remoto editorialComplete=true, ready=true, reserveMissing=[], publication=verified.
+- Ultimo blocco editoriale salvato in 02dc7cc912722d4d27f663431b0433e03881dc56. Principali valide preservate. Nessuna UI, pianificazione, credenziale, servizio o API AI esterna modificata. Questo checkpoint supera lo stato incompleto riportato nelle sezioni storiche sottostanti.
+
 ## Esito recupero mattutino — 4 novembre 2026
 - Pubblicata e verificata alle 12:22 Europe/Rome la BASE del ciclo 2026-11-04-mattina: id 2026-11-04-batches-efd1782bc1c9, 40 articoli, cinque/categoria e cinque fotografie Commons distinte. JSON pubblico confrontato integralmente con dist/data/current.json: identico.
 - Run 41820250818 conclusa success; controlli fonti/foto, promozione, salvataggio, deploy e prova pubblica tutti superati. L'errore remoto commit_refs delle prove precedenti non si è ripresentato in questa run.
