@@ -1,6 +1,6 @@
 {
-  "editionDate": "2026-11-03",
-  "checkedAt": "2026-11-03T17:03:27.103Z",
+  "editionDate": "2026-11-04",
+  "checkedAt": "2026-11-04T05:07:04.264Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,14 +14,93 @@
     "sport"
   ],
   "completed": [],
-  "inProgress": [],
-  "missing": [],
-  "invalid": [
+  "inProgress": [
     {
-      "slug": "edition",
-      "reason": "Cicli editoriali differenti"
+      "slug": "politica",
+      "count": 1
     }
   ],
-  "stories": [],
+  "missing": [
+    "esteri",
+    "economia",
+    "cronaca",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
+  ],
+  "invalid": [],
+  "stories": [
+    {
+      "id": "politica-mattarella-difesa-comune-ue-20261103",
+      "category": "Politica",
+      "title": "Mattarella sollecita una difesa europea più integrata",
+      "eventKey": "mattarella-appello-difesa-comune-ue-nato-20261103",
+      "pending": true
+    }
+  ],
+  "collectionId": "2026-11-04-mattina",
+  "reserveCounts": {
+    "Politica": 0,
+    "Esteri": 0,
+    "Economia": 0,
+    "Cronaca": 0,
+    "Roma": 0,
+    "Cultura · Teatro · Cinema": 0,
+    "Tecnologia · AI": 0,
+    "Sport": 0
+  },
+  "photoCandidates": [],
+  "photosAvailable": 0,
+  "categoryProgress": {
+    "politica": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "esteri": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "economia": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "cronaca": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "roma": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "cultura": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "tecnologia": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "sport": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    }
+  },
   "needsPublication": false
 }
