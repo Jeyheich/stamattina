@@ -3,7 +3,6 @@
   "editionDate": "2026-11-04",
   "collectionId": "2026-11-04-mattina",
   "category": "Cultura · Teatro · Cinema",
-  "status": "in-progress",
   "lastAttemptAt": "2026-11-04T06:17:27.611Z",
   "articles": [
     {
@@ -18,17 +17,116 @@
         "L'appuntamento del 4 novembre al Parco della Musica coinvolge il New European Ensemble e Carlo Boccadoro e mette in luce la dimensione artistica e politica dell'opera del compositore."
       ],
       "publishedAt": "2026-11-02T14:19:00+01:00",
-      "verifiedAt": "2026-11-04T06:17:27.611Z",
+      "verifiedAt": "2026-11-04T11:18:29.628025+00:00",
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/02/voices-a-roma-omaggio-a-hans-werner-henze_a8dc5c99-ced9-4795-b116-f50ec67d6b63.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-04T06:17:27.611Z",
+        "accessCheckedAt": "2026-11-04T11:18:29.628025+00:00",
         "dateEvidence": "Articolo ANSA: ROMA, 02 novembre 2026, 14:19; concerto previsto 4 novembre.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "cultura-jarrett-roma-ascolto-auditorium-20261105",
+      "eventKey": "jarrett-roma-ascolto-auditorium-20261105",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "L’Auditorium anticipa il disco Roma di Keith Jarrett",
+      "summary": "Il 5 novembre gli spazi esterni ospiteranno l’ascolto in filodiffusione di una selezione del nuovo album.",
+      "body": [
+        "L’iniziativa precede l’uscita del 6 novembre. La registrazione documenta il concerto del 12 luglio 2016 alla Sala Santa Cecilia: non è un nuovo concerto dal vivo del pianista."
+      ],
+      "publishedAt": "2026-11-04T12:01:55+01:00",
+      "verifiedAt": "2026-11-04T11:18:29.628025+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/eventi/keith-jarrett-roma-album-filodiffusione-auditorium.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:18:29.628025+00:00",
+        "dateEvidence": "RSS pubDate: Wed, 04 Nov 2026 12:01:55 +0100; data confrontata con la pagina originale letta.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-sara-milani-atodomodo-20261107",
+      "eventKey": "sara-milani-atodomodo-20261107",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Sara Milani in concerto alla libreria aTodomodo",
+      "summary": "La cantautrice si esibirà il 7 novembre alle 21 in via Bellegra 46, a Roma.",
+      "body": [
+        "L’appuntamento promosso da Roma Cantautori prevede brani del suo repertorio. L’annuncio del 4 novembre indica prenotazione obbligatoria e una formula con concerto e drink card da cinque euro."
+      ],
+      "publishedAt": "2026-11-04T09:51:22+01:00",
+      "verifiedAt": "2026-11-04T11:18:29.628025+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/eventi/sara-milani-concerto-libreria-atodomodo-7-novembre-2026.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:18:29.628025+00:00",
+        "dateEvidence": "RSS pubDate: Wed, 04 Nov 2026 09:51:22 +0100; data confrontata con la pagina originale letta.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-beethoven-sestetto-ariccia-20261108",
+      "eventKey": "beethoven-sestetto-ariccia-20261108",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Ad Ariccia la Pastorale di Beethoven in versione da camera",
+      "summary": "L’8 novembre alle 18:30 Palazzo Chigi ospita la trascrizione per sestetto d’archi della Sesta Sinfonia.",
+      "body": [
+        "Il programma dei Concerti dell’Accademia degli Sfaccendati comprende anche la Sonata a quattro n. 1 di Rossini. L’annuncio del 4 novembre distingue la data della notizia da quella del concerto."
+      ],
+      "publishedAt": "2026-11-04T10:04:50+01:00",
+      "verifiedAt": "2026-11-04T11:18:29.628025+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/eventi/pastorale-beethoven-accademia-sfaccendati-ariccia-8-novembre-2026.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:18:29.628025+00:00",
+        "dateEvidence": "RSS pubDate: Wed, 04 Nov 2026 10:04:50 +0100; data confrontata con la pagina originale letta.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-con-il-tuo-amore-casa-cinema-20261104",
+      "eventKey": "con-il-tuo-amore-casa-cinema-20261104",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Alla Casa del Cinema il documentario Con il tuo amore",
+      "summary": "Il calendario di Culture Roma indica per il 4 novembre la proiezione dedicata a Giovanni Scambia.",
+      "body": [
+        "La scheda ufficiale presenta un documentario sulle testimonianze di chi ha affrontato il tumore e di chi lo ha combattuto nel proprio lavoro.",
+        "L’ingresso è gratuito fino a esaurimento posti; il programma può subire variazioni. La scheda certifica il giorno dell’evento, non una data recente di annuncio."
+      ],
+      "publishedAt": "2026-11-04",
+      "verifiedAt": "2026-11-04T11:18:29.628025+00:00",
+      "source": {
+        "name": "Culture Roma",
+        "url": "https://culture.roma.it/appuntamento/con-il-tuo-amore/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:18:29.628025+00:00",
+        "dateEvidence": "Calendario ufficiale: Con il tuo amore, 04.11.2026, Casa del Cinema; data dell’evento, annuncio non datato.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "dateKind": "event",
+      "eventDate": "2026-11-04",
+      "image": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Villa_Borghese_-_Casa_del_Cinema_P1020818.JPG/960px-Villa_Borghese_-_Casa_del_Cinema_P1020818.JPG",
+        "alt": "Casa del Cinema a Villa Borghese, Roma",
+        "credit": "Lalupa",
+        "rights": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Villa_Borghese_-_Casa_del_Cinema_P1020818.JPG",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "caption": "Repertorio · La Casa del Cinema a Villa Borghese. La fotografia non documenta la proiezione del 4 novembre.",
+        "reuseApproved": true
+      },
+      "leadPriority": 75
     }
   ],
   "reserveArticles": [],
-  "reserveDraft": []
+  "reserveDraft": [],
+  "completedAt": "2026-11-04T11:18:29.628025+00:00"
 }
