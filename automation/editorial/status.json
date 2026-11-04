@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-04",
-  "checkedAt": "2026-11-04T06:05:08.224Z",
+  "checkedAt": "2026-11-04T06:17:41.206Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -26,12 +26,18 @@
     {
       "slug": "cronaca",
       "count": 1
+    },
+    {
+      "slug": "roma",
+      "count": 1
+    },
+    {
+      "slug": "cultura",
+      "count": 1
     }
   ],
   "missing": [
-    "esteri",
-    "roma",
-    "cultura"
+    "esteri"
   ],
   "invalid": [
     {
@@ -63,6 +69,20 @@
       "category": "Cronaca",
       "title": "Meteo, una perturbazione potrebbe interessare l'Italia nel fine settimana",
       "eventKey": "previsioni-perturbazione-italia-weekend-7-8-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "roma-viabilita-celebrazioni-4-novembre-2026",
+      "category": "Roma",
+      "title": "Roma, chiusure e bus deviati per le cerimonie del 4 novembre",
+      "eventKey": "roma-chiusure-piazza-venezia-circo-massimo-4-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "cultura-henze-voices-roma-4-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Romaeuropa e Santa Cecilia ricordano Henze con Voices",
+      "eventKey": "henze-voices-romaeuropa-santa-cecilia-4-novembre-2026",
       "pending": true
     }
   ],
