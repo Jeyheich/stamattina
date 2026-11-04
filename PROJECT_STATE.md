@@ -1,5 +1,12 @@
 # Stamattina — checkpoint 27 ottobre 2026
 
+## Esito recupero mattutino — 4 novembre 2026
+- Pubblicata e verificata alle 12:22 Europe/Rome la BASE del ciclo 2026-11-04-mattina: id 2026-11-04-batches-efd1782bc1c9, 40 articoli, cinque/categoria e cinque fotografie Commons distinte. JSON pubblico confrontato integralmente con dist/data/current.json: identico.
+- Run 41820250818 conclusa success; controlli fonti/foto, promozione, salvataggio, deploy e prova pubblica tutti superati. L'errore remoto commit_refs delle prove precedenti non si è ripresentato in questa run.
+- Correzione RSS e dossier su main cdefcf6: generatedAt 2026-11-04T11:10:48.695070+00:00, 96 candidati e sette riferimenti foto, zero errori tecnici. Cron e orari invariati; ritardi recuperati senza duplicare lo slot, dossier parziali salvati prima della segnalazione.
+- Recuperati i blocchi base con lettura effettiva delle fonti; corretta l'ora della fonte tennis e aggiornato l'avviso di viabilità Roma con le riaperture. Date originali conservate, scheda cinema con dateKind:event esplicita. Nessuna UI o servizio esterno introdotto.
+- NON completa 40+40: editorialComplete=false, zero reserveIds pubblicati, reserveMissing tutte otto categorie. Conservate due bozze Tecnologia e tre Sport, non promosse né dichiarate rilette. Le 40 aggiuntive restano da completare/verificare. Non rifare le principali valide se ancora recenti; oltre tre ore rileggere davvero le fonti.
+
 ## Recupero RSS autorizzato — 4 novembre 2026
 - Richiesta esplicita: correggere il gate, aggiornare il dossier e tentare il recupero della mattutina senza inventare contenuti o derogare alle verifiche.
 - Baseline main f5a5050; correzione riserve già applicata. Run 41815169010 fallita due volte sul push automatico con errore remoto commit_refs; non è un errore di fonte.
