@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-04",
-  "checkedAt": "2026-11-04T05:18:21.656Z",
+  "checkedAt": "2026-11-04T06:04:18.353Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -32,10 +32,14 @@
     "esteri",
     "roma",
     "cultura",
-    "tecnologia",
-    "sport"
+    "tecnologia"
   ],
-  "invalid": [],
+  "invalid": [
+    {
+      "slug": "sport",
+      "reason": "Il blocco completo deve contenere 5 notizie distinte"
+    }
+  ],
   "stories": [
     {
       "id": "politica-mattarella-difesa-comune-ue-20261103",
