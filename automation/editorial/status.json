@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-04",
-  "checkedAt": "2026-11-04T11:22:10.709Z",
+  "checkedAt": "2026-11-04T11:27:34.280Z",
   "ready": true,
   "editorialComplete": false,
   "reserveMissing": [
@@ -8,9 +8,7 @@
     "esteri",
     "economia",
     "cronaca",
-    "roma",
     "cultura",
-    "tecnologia",
     "sport"
   ],
   "completed": [
@@ -266,6 +264,66 @@
       "category": "Sport",
       "title": "A Parigi Etcheverry supera Rublev in tre set",
       "eventKey": "tennis-parigi-rublev-etcheverry-risultato-20261103"
+    },
+    {
+      "id": "roma-studio-tor-vergata-copatologia-parkinson-20261104",
+      "category": "Roma",
+      "title": "Tor Vergata, uno studio sul Parkinson e la copatologia Alzheimer",
+      "eventKey": "studio-tor-vergata-copatologia-parkinson-20261104"
+    },
+    {
+      "id": "roma-valmontone-ampliamento-area-commerciale-20261104",
+      "category": "Roma",
+      "title": "Valmontone, avviata una nuova fase di ampliamento commerciale",
+      "eventKey": "valmontone-ampliamento-area-commerciale-20261104"
+    },
+    {
+      "id": "roma-rome15k-programma-iscritti-20261108",
+      "category": "Roma",
+      "title": "Rome 15K, oltre cinquemila partecipanti attesi l’8 novembre",
+      "eventKey": "rome15k-programma-iscritti-20261108"
+    },
+    {
+      "id": "roma-coro-gocce-di-luce-inclusione-roma-20261104",
+      "category": "Roma",
+      "title": "Gocce di Luce, il coro romano che unisce vedenti e non vedenti",
+      "eventKey": "coro-gocce-di-luce-inclusione-roma-20261104"
+    },
+    {
+      "id": "roma-magliana-aggressione-dodicenne-20261103",
+      "category": "Roma",
+      "title": "Magliana, dodicenne ferito: le ricostruzioni restano discordanti",
+      "eventKey": "magliana-aggressione-dodicenne-20261103"
+    },
+    {
+      "id": "tecnologia-chatgpt-chat-work-unificazione-desktop-20261102",
+      "category": "Tecnologia · AI",
+      "title": "ChatGPT sperimenta l’unione di Chat e Work",
+      "eventKey": "chatgpt-chat-work-unificazione-desktop-20261102"
+    },
+    {
+      "id": "tecnologia-governatori-usa-impegni-data-center-ai-20261104",
+      "category": "Tecnologia · AI",
+      "title": "Data center AI, i governatori democratici annunciano nuovi vincoli",
+      "eventKey": "governatori-usa-impegni-data-center-ai-20261104"
+    },
+    {
+      "id": "tecnologia-anthropic-flashprove-ricerca-inferenza-20261104",
+      "category": "Tecnologia · AI",
+      "title": "FlashProve studia come certificare il modello dietro una risposta",
+      "eventKey": "anthropic-flashprove-ricerca-inferenza-20261104"
+    },
+    {
+      "id": "tecnologia-ubisoft-interesse-acquisizione-arkane-20261103",
+      "category": "Tecnologia · AI",
+      "title": "Arkane, Ubisoft tra i possibili acquirenti secondo un report",
+      "eventKey": "ubisoft-interesse-acquisizione-arkane-20261103"
+    },
+    {
+      "id": "tecnologia-gta6-annuncio-materiali-mappa-leonida-20261104",
+      "category": "Tecnologia · AI",
+      "title": "GTA 6, annunciati poster e mappa digitale per il lancio",
+      "eventKey": "gta6-annuncio-materiali-mappa-leonida-20261104"
     }
   ],
   "collectionId": "2026-11-04-mattina",
@@ -274,9 +332,9 @@
     "Esteri": 0,
     "Economia": 0,
     "Cronaca": 0,
-    "Roma": 0,
+    "Roma": 5,
     "Cultura · Teatro · Cinema": 0,
-    "Tecnologia · AI": 0,
+    "Tecnologia · AI": 5,
     "Sport": 0
   },
   "photoCandidates": [
@@ -334,9 +392,9 @@
     },
     "roma": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "cultura": {
       "base": 5,
@@ -346,9 +404,9 @@
     },
     "tecnologia": {
       "base": 5,
-      "reserve": 0,
-      "draft": 2,
-      "complete": false
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
     },
     "sport": {
       "base": 5,
@@ -357,9 +415,6 @@
       "complete": false
     }
   },
-  "editionId": "2026-11-04-batches-efd1782bc1c9",
-  "needsPublication": false,
-  "publicVerifiedAt": "2026-11-04T11:22:43.600323+00:00",
-  "publicEditionId": "2026-11-04-batches-efd1782bc1c9",
-  "publication": "verified"
+  "editionId": "2026-11-04-batches-141cc9668fe2",
+  "needsPublication": true
 }

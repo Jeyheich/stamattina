@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "collectionId": "2026-11-04-mattina",
-  "id": "2026-11-04-batches-efd1782bc1c9",
+  "id": "2026-11-04-batches-141cc9668fe2",
   "mode": "live",
   "editionDate": "2026-11-04",
-  "generatedAt": "2026-11-04T11:22:10.709Z",
+  "generatedAt": "2026-11-04T11:27:34.280Z",
   "timezone": "Europe/Rome",
   "scheduledFor": "2026-11-04T09:00:00+01:00",
   "essentialIds": [
@@ -975,6 +975,228 @@
         "dateEvidence": "Sky Sport indica 03 nov 2026 - 21:30; tabella risultati: Rublev-Etcheverry 4-6, 7-6, 6-7.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "roma-studio-tor-vergata-copatologia-parkinson-20261104",
+      "eventKey": "studio-tor-vergata-copatologia-parkinson-20261104",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Tor Vergata, uno studio sul Parkinson e la copatologia Alzheimer",
+      "summary": "Ricercatori romani descrivono differenze nelle cellule immunitarie di pazienti con entrambe le alterazioni.",
+      "body": [
+        "Lo studio coinvolge 47 pazienti con Parkinson iniziale e cinquanta controlli sani. Gli autori chiedono conferme più ampie: il risultato non costituisce una nuova terapia o un test clinico già disponibile."
+      ],
+      "publishedAt": "2026-11-04T10:48:16+01:00",
+      "verifiedAt": "2026-11-04T11:27:16.841423+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/benessere/salute/parkinson-alzheimer-copatologia-sistema-immunitario.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:27:16.841423+00:00",
+        "dateEvidence": "RSS pubDate: Wed, 04 Nov 2026 10:48:16 +0100; data e contenuto confrontati con la pagina originale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-valmontone-ampliamento-area-commerciale-20261104",
+      "eventKey": "valmontone-ampliamento-area-commerciale-20261104",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Valmontone, avviata una nuova fase di ampliamento commerciale",
+      "summary": "Promos presenta un progetto da 13.500 metri quadrati aggiuntivi accanto all’outlet.",
+      "body": [
+        "RomaToday indica un’apertura prevista per l’estate 2027 e una prima fase con supermercato attesa a dicembre 2026. Nomi delle nuove insegne e impatto occupazionale non sono ancora comunicati."
+      ],
+      "publishedAt": "2026-11-04T10:37:00+01:00",
+      "verifiedAt": "2026-11-04T11:27:16.841431+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/economia/valmontone-outlet-ampliamento-nuovi-spazi-commerciali.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:27:16.841431+00:00",
+        "dateEvidence": "RSS pubDate: Wed, 04 Nov 2026 10:37:00 +0100; data e contenuto confrontati con la pagina originale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-rome15k-programma-iscritti-20261108",
+      "eventKey": "rome15k-programma-iscritti-20261108",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Rome 15K, oltre cinquemila partecipanti attesi l’8 novembre",
+      "summary": "La manifestazione comprende la corsa di quindici chilometri e una prova di cinque, con partenza dalle Terme di Caracalla.",
+      "body": [
+        "L’annuncio del 4 novembre presenta anche un villaggio della salute per il 6 e 7 novembre. I partecipanti sono attesi o iscritti: la gara non si è ancora svolta."
+      ],
+      "publishedAt": "2026-11-04T10:10:27+01:00",
+      "verifiedAt": "2026-11-04T11:27:16.841437+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/sport/rome-15k-ford-novembre-5000-runner.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:27:16.841437+00:00",
+        "dateEvidence": "RSS pubDate: Wed, 04 Nov 2026 10:10:27 +0100; data e contenuto confrontati con la pagina originale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-coro-gocce-di-luce-inclusione-roma-20261104",
+      "eventKey": "coro-gocce-di-luce-inclusione-roma-20261104",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Gocce di Luce, il coro romano che unisce vedenti e non vedenti",
+      "summary": "Il gruppo promosso dall’Unione Ciechi si ritrova in via Mentana ed è diretto da Carlo Alberto Gioja.",
+      "body": [
+        "Il reportage racconta come ascolto e respirazione consentano di coordinare il canto. Il testo riguarda persone vedenti, cieche e ipovedenti, non persone sorde come suggerisce erroneamente il titolo tecnico della pagina."
+      ],
+      "publishedAt": "2026-11-04T09:49:00+01:00",
+      "verifiedAt": "2026-11-04T11:27:16.841444+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/attualita/coro-roma-ipovedenti-inclusivo-ciechi-video.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:27:16.841444+00:00",
+        "dateEvidence": "RSS pubDate: Wed, 04 Nov 2026 09:49:00 +0100; data e contenuto confrontati con la pagina originale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-magliana-aggressione-dodicenne-20261103",
+      "eventKey": "magliana-aggressione-dodicenne-20261103",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Magliana, dodicenne ferito: le ricostruzioni restano discordanti",
+      "summary": "Il bambino è stato portato al San Camillo dopo un’aggressione avvenuta la sera del 3 novembre.",
+      "body": [
+        "RomaToday riporta la ricostruzione dei carabinieri e la diversa versione della madre. La donna denuncia una motivazione razzista, che gli investigatori devono ancora accertare; il minore non risulta in pericolo di vita."
+      ],
+      "publishedAt": "2026-11-04T09:37:00+01:00",
+      "verifiedAt": "2026-11-04T11:27:16.841450+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/cronaca/magliana-via-pescaglia-3-novembre-2026-cosa-e-successo.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:27:16.841450+00:00",
+        "dateEvidence": "RSS pubDate: Wed, 04 Nov 2026 09:37:00 +0100; data e contenuto confrontati con la pagina originale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-chatgpt-chat-work-unificazione-desktop-20261102",
+      "eventKey": "chatgpt-chat-work-unificazione-desktop-20261102",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "ChatGPT sperimenta l’unione di Chat e Work",
+      "summary": "Punto Informatico descrive un test su un’esperienza unificata nell’app desktop.",
+      "body": [
+        "La prova è limitata a un gruppo di utenti; Codex rimane separato. L’articolo del 2 novembre viene mantenuto come contesto recente, senza presentarlo come un annuncio odierno."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-04T11:27:16.840631+00:00",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/chatgpt-unisce-chat-work-finita-caccia-scheda-giusta/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:27:16.840631+00:00",
+        "dateEvidence": "Punto Informatico reca Pubblicato il 2 nov 2026; descrive un test limitato e la separazione di Codex.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-governatori-usa-impegni-data-center-ai-20261104",
+      "eventKey": "governatori-usa-impegni-data-center-ai-20261104",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Data center AI, i governatori democratici annunciano nuovi vincoli",
+      "summary": "Negli Stati Uniti alcuni governatori eletti o riconfermati promettono moratorie o approvazioni condizionate.",
+      "body": [
+        "Punto Informatico distingue gli impegni di Texas, Ohio, Georgia e Pennsylvania. Sono intenzioni e misure prospettate: non un divieto federale già entrato in vigore."
+      ],
+      "publishedAt": "2026-11-04T10:44:06+00:00",
+      "verifiedAt": "2026-11-04T11:27:16.840695+00:00",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/nuovi-governatori-democratici-stop-data-center-ai/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:27:16.840695+00:00",
+        "dateEvidence": "RSS pubDate: Wed, 04 Nov 2026 10:44:06 +0000; data e contenuto confrontati con la pagina originale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-anthropic-flashprove-ricerca-inferenza-20261104",
+      "eventKey": "anthropic-flashprove-ricerca-inferenza-20261104",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "FlashProve studia come certificare il modello dietro una risposta",
+      "summary": "Il progetto di ricerca presentato da Anthropic propone prove crittografiche per riconoscere il modello utilizzato.",
+      "body": [
+        "Secondo Punto Informatico sono disponibili specifiche e componenti open source. Il lavoro resta sperimentale e non è annunciato un impiego in produzione."
+      ],
+      "publishedAt": "2026-11-04T09:45:35+00:00",
+      "verifiedAt": "2026-11-04T11:27:16.840704+00:00",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/se-azienda-sostituisse-di-nascosto-suo-modello-ai/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:27:16.840704+00:00",
+        "dateEvidence": "RSS pubDate: Wed, 04 Nov 2026 09:45:35 +0000; data e contenuto confrontati con la pagina originale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-ubisoft-interesse-acquisizione-arkane-20261103",
+      "eventKey": "ubisoft-interesse-acquisizione-arkane-20261103",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Arkane, Ubisoft tra i possibili acquirenti secondo un report",
+      "summary": "Everyeye riprende indiscrezioni su aziende interessate allo studio di Marvel’s Blade.",
+      "body": [
+        "La ricostruzione è attribuita a Jason Schreier e Bloomberg. Nessun accordo concluso è confermato: l’acquisizione resta un’ipotesi."
+      ],
+      "publishedAt": "2026-11-03T23:13:00+01:00",
+      "verifiedAt": "2026-11-04T11:27:16.840707+00:00",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/ubisoft-acquisire-arkane-studios-autori-marvel-s-blade-909625.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:27:16.840707+00:00",
+        "dateEvidence": "Everyeye: Giovanni Panzano, 3/11/2026 ore 23:13; articolo distingue il report da conferme ufficiali.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-gta6-annuncio-materiali-mappa-leonida-20261104",
+      "eventKey": "gta6-annuncio-materiali-mappa-leonida-20261104",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "GTA 6, annunciati poster e mappa digitale per il lancio",
+      "summary": "Everyeye riferisce di materiali digitali gratuiti legati all’uscita del gioco e di un poster fisico sullo store Rockstar.",
+      "body": [
+        "L’articolo descrive l’iniziativa per il lancio del 19 novembre; la versione digitale non equivale a una confezione con disco. Si tratta di una notizia sul lancio, non di un’offerta di un rivenditore."
+      ],
+      "publishedAt": "2026-11-04T11:36:00+01:00",
+      "verifiedAt": "2026-11-04T11:27:16.840714+00:00",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/gta-6-come-mappa-fisica-leonida-909701.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:27:16.840714+00:00",
+        "dateEvidence": "RSS pubDate: Wed, 04 Nov 2026 11:36:00 +0100; data e contenuto confrontati con la pagina originale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
+  ],
+  "reserveIds": [
+    "roma-studio-tor-vergata-copatologia-parkinson-20261104",
+    "roma-valmontone-ampliamento-area-commerciale-20261104",
+    "roma-rome15k-programma-iscritti-20261108",
+    "roma-coro-gocce-di-luce-inclusione-roma-20261104",
+    "roma-magliana-aggressione-dodicenne-20261103",
+    "tecnologia-chatgpt-chat-work-unificazione-desktop-20261102",
+    "tecnologia-governatori-usa-impegni-data-center-ai-20261104",
+    "tecnologia-anthropic-flashprove-ricerca-inferenza-20261104",
+    "tecnologia-ubisoft-interesse-acquisizione-arkane-20261103",
+    "tecnologia-gta6-annuncio-materiali-mappa-leonida-20261104"
   ]
 }
