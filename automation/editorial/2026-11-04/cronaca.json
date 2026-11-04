@@ -3,7 +3,7 @@
   "editionDate": "2026-11-04",
   "collectionId": "2026-11-04-mattina",
   "category": "Cronaca",
-  "lastAttemptAt": "2026-11-04T05:17:53.537Z",
+  "lastAttemptAt": "2026-11-04T11:33:56.798371+00:00",
   "articles": [
     {
       "id": "cronaca-meteo-perturbazione-7-8-novembre-2026",
@@ -111,7 +111,112 @@
       }
     }
   ],
-  "reserveArticles": [],
-  "reserveDraft": [],
+  "reserveArticles": [
+    {
+      "id": "cronaca-svizzera-rinuncia-rimborso-cure-crans-20261104",
+      "eventKey": "svizzera-rinuncia-rimborso-cure-crans-20261104",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Crans-Montana, la Svizzera rinuncia al rimborso delle cure",
+      "summary": "Il governo elvetico rinuncia in via eccezionale a recuperare le spese per i feriti italiani nell’incendio di Capodanno.",
+      "body": [
+        "RaiNews riporta una nota dell’esecutivo svizzero: il presidente Guy Parmelin ha informato Giorgia Meloni. Le spese indicate ammontano a 1,5 milioni di franchi."
+      ],
+      "publishedAt": "2026-11-04T11:12:20+00:00",
+      "verifiedAt": "2026-11-04T11:33:56.798041+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/crans-montana-la-svizzera-rinuncia-al-rimborso-delle-spese-mediche-dei-feriti-991e0e41-e902-45a7-8a9c-e70b00b24b37.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:33:56.798041+00:00",
+        "dateEvidence": "Metadato article:published_time 2026-11-04T11:12:20+0000; pagina RaiNews datata 04/11/2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-garlasco-richiesta-processo-sempio-20261103",
+      "eventKey": "garlasco-richiesta-processo-sempio-20261103",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Garlasco, la Procura chiede il processo per Andrea Sempio",
+      "summary": "La richiesta di rinvio a giudizio per l’omicidio di Chiara Poggi deve essere valutata dal giudice dell’udienza preliminare.",
+      "body": [
+        "La difesa si dichiara pronta ad affrontare il procedimento e ribadisce l’innocenza dell’assistito. La richiesta dei pm non equivale né all’apertura del dibattimento né a una condanna."
+      ],
+      "publishedAt": "2026-11-03T17:31:00+01:00",
+      "verifiedAt": "2026-11-04T11:33:56.798115+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/03/delitto-garlasco-sempio-ultime-notizie",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:33:56.798115+00:00",
+        "dateEvidence": "Sky TG24 indica 03 nov 2026 - 17:31; testo sulla richiesta dei pm e sulle dichiarazioni dei difensori.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-bologna-ammonimento-atti-persecutori-20261103",
+      "eventKey": "bologna-ammonimento-atti-persecutori-20261103",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Bologna, ammonito un uomo per le condotte verso l’ex compagna",
+      "summary": "La polizia ha ricostruito telefonate ripetute e l’uso di un localizzatore nascosto nel portafoglio della donna.",
+      "body": [
+        "Il questore ha disposto un ammonimento urgente nei confronti del venticinquenne dopo gli accertamenti della polizia postale. Il provvedimento descritto è un ammonimento, non una sentenza di condanna."
+      ],
+      "publishedAt": "2026-11-03T14:48:30+00:00",
+      "verifiedAt": "2026-11-04T11:33:56.798138+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/bologna-perseguita-la-ex-con-200-telefonate-al-giorno-e-un-airtag-per-pedinarla-7a3917b2-ea3b-4617-b0b9-d7137d003f43.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:33:56.798138+00:00",
+        "dateEvidence": "RaiNews: article:published_time 2026-11-03T14:48:30+0000; testo del provvedimento del questore.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-genini-nuovo-sequestro-abitazione-20261103",
+      "eventKey": "genini-nuovo-sequestro-abitazione-20261103",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Caso Genini, nuovo sequestro dell’appartamento di Milano",
+      "summary": "La polizia torna a sequestrare l’abitazione nell’ambito di accertamenti su un presunto furto di oggetti personali.",
+      "body": [
+        "RaiNews riferisce della denuncia presentata dopo il precedente dissequestro. L’accertamento sul furto è distinto dal procedimento sul femminicidio; le circostanze dell’accesso all’alloggio restano da chiarire."
+      ],
+      "publishedAt": "2026-11-03T17:03:49+00:00",
+      "verifiedAt": "2026-11-04T11:33:56.798154+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/dopo-il-furto-di-gioielli-e-stata-di-nuovo-sequestrata-la-casa-dove-e-stata-uccisa-pamela-genini-06d9d4d9-047d-4294-8560-7d5dfc5e99e6.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:33:56.798154+00:00",
+        "dateEvidence": "RaiNews: metadato pubblicazione 2026-11-03T17:03:49+0000, pagina del 03/11/2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-fiumicino-falsi-allarmi-due-voli-20261103",
+      "eventKey": "fiumicino-falsi-allarmi-due-voli-20261103",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Fiumicino, negativi i controlli dopo gli allarmi su due voli",
+      "summary": "Le verifiche su due aerei Ryanair provenienti da Lisbona e Dublino non hanno trovato ordigni.",
+      "body": [
+        "I voli sono stati scortati da caccia e controllati dopo l’atterraggio del 3 novembre. RaiNews segnala allarmi simili anche in altri Paesi; un eventuale collegamento tra le segnalazioni non è accertato."
+      ],
+      "publishedAt": "2026-11-03T14:05:01+00:00",
+      "verifiedAt": "2026-11-04T11:33:56.798171+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/a-fiumicino-falso-allarme-bomba-su-due-voli-ryanair-controlli-negativi-487a120c-23f7-4522-a298-f08ec7a90cbb.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:33:56.798171+00:00",
+        "dateEvidence": "RaiNews: article:published_time 2026-11-03T14:05:01+0000; controlli conclusi con esito negativo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
   "completedAt": "2026-11-04T11:18:29.628025+00:00"
 }
