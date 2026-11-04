@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-04",
+  "collectionId": "2026-11-04-mattina",
+  "category": "Tecnologia · AI",
+  "completedAt": "2026-11-04T06:04:20.899Z",
+  "articles": [
+    {
+      "id": "tecnologia-openai-premi-bug-bounty",
+      "eventKey": "openai-aumento-premi-bug-bounty-20261103",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "OpenAI aumenta i premi per chi scopre vulnerabilità",
+      "summary": "Il programma di segnalazione dei bug di sicurezza prevede ricompense più elevate, fino a circa 172mila dollari nei casi eccezionali.",
+      "body": [
+        "Il programma di segnalazione dei bug di sicurezza prevede ricompense più elevate, fino a circa 172mila dollari nei casi eccezionali.",
+        "L'azienda ha inoltre annunciato una collaborazione con Cathedral Systems per rafforzare le verifiche delle proprie piattaforme."
+      ],
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-04T06:04:20.899Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/openai-aumenta-premi-scoperta-vulnerabilita/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T06:04:20.899Z",
+        "dateEvidence": "L'articolo mostra in chiusura 'Pubblicato il 3 nov 2026'.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-brave-causa-editori-ai",
+      "eventKey": "brave-causa-new-york-times-contenuti-ai-20261103",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Il New York Times porta Brave in tribunale sui contenuti per l’AI",
+      "summary": "Il quotidiano accusa Brave di avere copiato e distribuito a società di intelligenza artificiale contenuti editoriali protetti da copyright.",
+      "body": [
+        "Il quotidiano accusa Brave di avere copiato e distribuito a società di intelligenza artificiale contenuti editoriali protetti da copyright.",
+        "La causa riguarda anche le modalità di raccolta dei dati e la presunta elusione delle restrizioni degli editori; le contestazioni restano accuse da valutare in giudizio."
+      ],
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-04T06:04:20.899Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/brave-accusata-rubare-contenuti-giornali-venderli-ai/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T06:04:20.899Z",
+        "dateEvidence": "L'articolo riporta 'Pubblicato il 3 nov 2026' sotto la firma.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-google-botnet-videostrong",
+      "eventKey": "google-smantella-botnet-videostrong-android-20261103",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Google interviene contro una botnet di set-top box Android",
+      "summary": "Google afferma di aver smantellato una rete malevola che coinvolgeva oltre 1,3 milioni di dispositivi con una backdoor installata nel firmware.",
+      "body": [
+        "Google afferma di aver smantellato una rete malevola che coinvolgeva oltre 1,3 milioni di dispositivi con una backdoor installata nel firmware.",
+        "La società ha revocato la licenza Android a Videostrong, il produttore indicato come responsabile dell'infrastruttura compromessa."
+      ],
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-04T06:04:20.899Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/google-smantella-botnet-creata-partner-android/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T06:04:20.899Z",
+        "dateEvidence": "L'articolo riporta 'Pubblicato il 3 nov 2026' sotto la firma.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-xbox-cloud-pacchetti-ore",
+      "eventKey": "xbox-cloud-gaming-pacchetti-ore-20261104",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Xbox Cloud Gaming sperimenta pacchetti di ore a pagamento",
+      "summary": "Microsoft ha illustrato agli Xbox Insider prezzi in dollari per pacchetti da 10, 25 e 50 ore di gioco in streaming, accessibili anche senza Game Pass.",
+      "body": [
+        "Microsoft ha illustrato agli Xbox Insider prezzi in dollari per pacchetti da 10, 25 e 50 ore di gioco in streaming, accessibili anche senza Game Pass.",
+        "Le tariffe europee non sono ancora indicate e la disponibilità generale del nuovo sistema è prevista successivamente."
+      ],
+      "publishedAt": "2026-11-04T00:22:00+01:00",
+      "verifiedAt": "2026-11-04T06:04:20.899Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/xbox-cloud-gaming-costa-davvero-giocare-servizio-microsoft-907331.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T06:04:20.899Z",
+        "dateEvidence": "Firma Giovanni Panzano, 4/11/2026 ore 00:22, con prezzi e limiti della beta.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-gran-turismo-dualsense-speciale",
+      "eventKey": "sony-dualsense-gran-turismo-trentennale-20261103",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Sony presenta un DualSense speciale per i trent’anni di Gran Turismo",
+      "summary": "Il controller celebrativo per PlayStation 5 riprende il design del DualSense con dettagli neri, finiture ispirate alla fibra di carbonio e loghi dell'anniversario.",
+      "body": [
+        "Il controller celebrativo per PlayStation 5 riprende il design del DualSense con dettagli neri, finiture ispirate alla fibra di carbonio e loghi dell'anniversario.",
+        "Everyeye riferisce che la distribuzione comprenderà anche l'Italia e che l'uscita è fissata al 10 dicembre 2026."
+      ],
+      "publishedAt": "2026-11-03T21:02:00+01:00",
+      "verifiedAt": "2026-11-04T06:04:20.899Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/gran-turismo-ps5-controller-sony-realt-come-averlo-906006.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T06:04:20.899Z",
+        "dateEvidence": "Firma Giovanni Panzano, 3/11/2026 ore 21:02, annuncio del controller celebrativo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
