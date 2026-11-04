@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-04",
-  "checkedAt": "2026-11-04T11:28:23.991Z",
+  "checkedAt": "2026-11-04T11:29:11.401Z",
   "ready": true,
   "editorialComplete": false,
   "reserveMissing": [
@@ -8,7 +8,6 @@
     "esteri",
     "economia",
     "cronaca",
-    "cultura",
     "sport"
   ],
   "completed": [
@@ -296,6 +295,36 @@
       "eventKey": "magliana-aggressione-dodicenne-20261103"
     },
     {
+      "id": "cultura-castaldo-stokholma-80-90-roma-20261205",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Castaldo e Stokholma portano all’Auditorium la sfida fra due decenni",
+      "eventKey": "castaldo-stokholma-80-90-roma-20261205"
+    },
+    {
+      "id": "cultura-japan-days-capannelle-programma-20261114",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Japan Days, due giornate di cultura giapponese a Capannelle",
+      "eventKey": "japan-days-capannelle-programma-20261114"
+    },
+    {
+      "id": "cultura-blue-friday-rimessa-fab-20261113",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Blue Friday parte con Simone Alessandrini Storytellers",
+      "eventKey": "blue-friday-rimessa-fab-20261113"
+    },
+    {
+      "id": "cultura-ricarda-guantario-personale-roma-20261113",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "A via Merulana una personale di Ricarda Guantario",
+      "eventKey": "ricarda-guantario-personale-roma-20261113"
+    },
+    {
+      "id": "cultura-francesco-santi-apostoli-incontri-20261107",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Ai Santi Apostoli quattro incontri su Francesco d’Assisi",
+      "eventKey": "francesco-santi-apostoli-incontri-20261107"
+    },
+    {
       "id": "tecnologia-chatgpt-chat-work-unificazione-desktop-20261102",
       "category": "Tecnologia · AI",
       "title": "ChatGPT sperimenta l’unione di Chat e Work",
@@ -333,7 +362,7 @@
     "Economia": 0,
     "Cronaca": 0,
     "Roma": 5,
-    "Cultura · Teatro · Cinema": 0,
+    "Cultura · Teatro · Cinema": 5,
     "Tecnologia · AI": 5,
     "Sport": 0
   },
@@ -398,9 +427,9 @@
     },
     "cultura": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "tecnologia": {
       "base": 5,
@@ -415,9 +444,6 @@
       "complete": false
     }
   },
-  "editionId": "2026-11-04-batches-141cc9668fe2",
-  "needsPublication": false,
-  "publicEditionId": "2026-11-04-batches-141cc9668fe2",
-  "publicVerifiedAt": "2026-11-04T11:28:25.889100+00:00",
-  "publication": "verified"
+  "editionId": "2026-11-04-batches-72174fd9cf70",
+  "needsPublication": true
 }
