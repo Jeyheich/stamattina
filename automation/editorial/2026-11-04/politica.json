@@ -3,7 +3,7 @@
   "editionDate": "2026-11-04",
   "collectionId": "2026-11-04-mattina",
   "category": "Politica",
-  "lastAttemptAt": "2026-11-04T06:06:14+01:00",
+  "lastAttemptAt": "2026-11-04T11:35:04.654288+00:00",
   "articles": [
     {
       "id": "politica-mattarella-difesa-comune-ue-20261103",
@@ -125,6 +125,112 @@
       }
     }
   ],
-  "reserveDraft": [],
-  "completedAt": "2026-11-04T11:18:29.628025+00:00"
+  "completedAt": "2026-11-04T11:18:29.628025+00:00",
+  "reserveArticles": [
+    {
+      "id": "politica-camera-calendario-autonomia-gennaio2027",
+      "eventKey": "camera-calendario-autonomia-gennaio2027",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Autonomia, la Camera fissa a gennaio l’esame delle intese",
+      "summary": "Quattro votazioni definiscono i termini per i disegni di legge che riguardano Veneto, Liguria, Lombardia e Piemonte.",
+      "body": [
+        "ANSA riporta scadenze fra il 20 e il 28 gennaio 2027. Il voto riguarda il calendario di esame: non viene descritto come approvazione definitiva di tutte le nuove competenze regionali."
+      ],
+      "publishedAt": "2026-11-03T16:50:00+01:00",
+      "verifiedAt": "2026-11-04T11:35:04.654062+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/03/intese-sullautonomia-entro-gennaio-via-libera-dalla-camera_35901ea7-ad8f-4c53-9d83-6be3b383e8c6.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:35:04.654062+00:00",
+        "dateEvidence": "Metadato ANSA datePublished 2026-11-03T16:50:00+0100; quattro voti sui termini di esame delle intese.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-camera-scontro-ascari-abu-safiya-20261103",
+      "eventKey": "camera-scontro-ascari-abu-safiya-20261103",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Camera, scontro tra FdI e M5S sulla conferenza promossa da Ascari",
+      "summary": "La controversia riguarda l’intervento del figlio del pediatra palestinese Hussam Abu Safiya e il riferimento alla figlia della premier.",
+      "body": [
+        "FdI chiede di valutare provvedimenti contro la deputata; il presidente Lorenzo Fontana coinvolge i questori. Giuseppe Conte difende Ascari. Il resoconto non attribuisce al collegio una sanzione già decisa."
+      ],
+      "publishedAt": "2026-11-03T18:12:00+01:00",
+      "verifiedAt": "2026-11-04T11:35:04.654070+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/03/tensione-in-aula-sul-caso-ascari-abu-safiya-e-le-parole-sulla-figlia_66a07a59-ade6-40c6-bc68-a347b9de1938.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:35:04.654070+00:00",
+        "dateEvidence": "ANSA: datePublished 03 novembre 2026 18:12, dateModified 18:28; articolo di Paola Lo Mele sul confronto in Aula.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-funerali-stato-militari-bosnia-20261103",
+      "eventKey": "funerali-stato-militari-bosnia-20261103",
+      "category": "Politica",
+      "status": "verified",
+      "title": "A Roma i funerali di Stato dei quattro militari morti in Bosnia",
+      "summary": "Le istituzioni hanno partecipato alla cerimonia del 3 novembre nella basilica di Santa Maria degli Angeli.",
+      "body": [
+        "Presenti Mattarella, Meloni e i presidenti delle Camere. Guido Crosetto rende omaggio ai caduti; le indagini sull’incidente proseguono e la cerimonia non ne stabilisce le cause."
+      ],
+      "publishedAt": "2026-11-03T18:09:00+01:00",
+      "verifiedAt": "2026-11-04T11:35:04.654074+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/03/incidente-elicottero-bosnia-funerali-stato-militari-morti",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:35:04.654074+00:00",
+        "dateEvidence": "Pagina Sky TG24: 03 nov 2026 - 18:09; celebrazione dei funerali quella mattina e interventi delle autorità.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-campo-largo-tavoli-programma-taruffi-20261102",
+      "eventKey": "campo-largo-tavoli-programma-taruffi-20261102",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Campo largo, Taruffi indica i tempi del lavoro sul programma",
+      "summary": "Il responsabile organizzazione del Pd parla dell’avvio dei tavoli tematici per una proposta di coalizione.",
+      "body": [
+        "Nell’intervento del 2 novembre a Sky TG24 Taruffi prospetta un programma entro fine mese. È un obiettivo politico annunciato, non la conferma che il documento sia già concluso."
+      ],
+      "publishedAt": "2026-11-02T12:32:00+01:00",
+      "verifiedAt": "2026-11-04T11:35:04.654078+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/video/2026/11/02/campo-largo-taruffi-programma-gia-a-fine-novembre-1136694",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:35:04.654078+00:00",
+        "dateEvidence": "Sky TG24 indica 02 nov 2026 - 12:32; didascalia sul calendario e sull’avvio dei tavoli tematici.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-camera-finanze-question-time-20261104",
+      "eventKey": "camera-finanze-question-time-20261104",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Commissione Finanze, interrogazioni al Mef nel pomeriggio",
+      "summary": "La Camera annuncia per il 4 novembre alle 15:15 interrogazioni a risposta immediata.",
+      "body": [
+        "Il comunicato ufficiale del 3 novembre riguarda questioni di competenza del Ministero dell’Economia e delle Finanze e prevede la diretta webtv. L’appuntamento è programmato: questa scheda non ne anticipa le risposte."
+      ],
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-04T11:35:04.654082+00:00",
+      "source": {
+        "name": "Camera dei deputati",
+        "url": "https://comunicazione.camera.it/comunicati-stampa/19-6669",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:35:04.654082+00:00",
+        "dateEvidence": "Comunicato Stampa 6669, 03 Novembre 2026; Commissione Finanze mercoledì 4 novembre alle 15.15.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
 }
