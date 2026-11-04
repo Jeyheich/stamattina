@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-04",
-  "checkedAt": "2026-11-04T05:07:04.264Z",
+  "checkedAt": "2026-11-04T05:18:07.457Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -18,12 +18,18 @@
     {
       "slug": "politica",
       "count": 1
+    },
+    {
+      "slug": "economia",
+      "count": 1
+    },
+    {
+      "slug": "cronaca",
+      "count": 1
     }
   ],
   "missing": [
     "esteri",
-    "economia",
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -36,6 +42,20 @@
       "category": "Politica",
       "title": "Mattarella sollecita una difesa europea più integrata",
       "eventKey": "mattarella-appello-difesa-comune-ue-nato-20261103",
+      "pending": true
+    },
+    {
+      "id": "economia-aumento-gas-vulnerabili-ottobre-2026",
+      "category": "Economia",
+      "title": "Gas, rincaro del 9,1% per i clienti vulnerabili a ottobre",
+      "eventKey": "arera-aumento-gas-clienti-vulnerabili-ottobre-2026",
+      "pending": true
+    },
+    {
+      "id": "cronaca-meteo-perturbazione-7-8-novembre-2026",
+      "category": "Cronaca",
+      "title": "Meteo, una perturbazione potrebbe interessare l'Italia nel fine settimana",
+      "eventKey": "previsioni-perturbazione-italia-weekend-7-8-novembre-2026",
       "pending": true
     }
   ],
