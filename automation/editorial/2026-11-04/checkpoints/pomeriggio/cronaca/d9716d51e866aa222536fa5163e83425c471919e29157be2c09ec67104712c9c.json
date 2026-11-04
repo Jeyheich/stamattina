@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-04",
+  "collectionId": "2026-11-04-pomeriggio",
+  "category": "Cronaca",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-04T16:15:19+01:00",
+  "articles": [
+    {
+      "id": "cronaca-malcesine-fabriano-incidenti-lavoro-20261103",
+      "eventKey": "incidenti-lavoro-malcesine-fabriano-3-novembre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Due operai morti in incidenti sul lavoro a Malcesine e Fabriano",
+      "summary": "Il 3 novembre due lavoratori hanno perso la vita in distinti incidenti, sul lago di Garda e in un cartonificio marchigiano; sono in corso accertamenti.",
+      "body": [
+        "A Malcesine, sul lago di Garda, un operaio di 46 anni è morto dopo il ribaltamento di una piattaforma galleggiante che trasportava gru. A Fabriano un lavoratore di 57 anni è rimasto schiacciato da una pressa in un cartonificio.",
+        "Le autorità competenti stanno ricostruendo le dinamiche e verificando le condizioni di sicurezza. Nella stessa giornata due lavoratori sono rimasti ustionati in una raffineria nel Pavese."
+      ],
+      "publishedAt": "2026-11-03T19:53:00+01:00",
+      "verifiedAt": "2026-11-04T16:15:19+01:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/ancora-morti-sul-lavoro-le-vittime-sono-due-operai.-due-ustionati_ac7d8e59-a04e-489a-bb04-692df473379b.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T16:15:19+01:00",
+        "dateEvidence": "Articolo ANSA datato FABRIANO, 03 novembre 2026, 19:53, di Daniele Carotti.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveDraft": []
+}

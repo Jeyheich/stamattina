@@ -1,0 +1,235 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-04",
+  "collectionId": "2026-11-04-mattina",
+  "category": "Esteri",
+  "completedAt": "2026-11-04T11:20:51.638100+00:00",
+  "articles": [
+    {
+      "id": "esteri-usa-midterm-congresso-proiezioni-20261104",
+      "eventKey": "usa-midterm-congresso-proiezioni-20261104",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Midterm Usa, le proiezioni assegnano il Congresso ai democratici",
+      "summary": "RaiNews riporta proiezioni favorevoli ai democratici sia alla Camera sia al Senato.",
+      "body": [
+        "Il riepilogo cita NBC e Decision Desk HQ e riferisce le dichiarazioni di Trump sulla collaborazione con la nuova maggioranza. I numeri riportati restano proiezioni, da distinguere dai risultati definitivamente certificati."
+      ],
+      "publishedAt": "2026-11-04",
+      "verifiedAt": "2026-11-04T11:20:51.638100+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/maratona/2026/11/midterm-usa-2026-democratici-repubblicani-risultati-voto-donald-trump-cdee7466-51f5-4976-906e-c89377d0f963.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:20:51.638100+00:00",
+        "dateEvidence": "Diretta RaiNews con aggiornamenti del 04/11/2026; riepilogo attribuito alle proiezioni NBC e Decision Desk HQ.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-harvard-hum10-corso-senza-ai-20261104",
+      "eventKey": "harvard-hum10-corso-senza-ai-20261104",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Harvard, cresce la domanda per un corso senza dispositivi e AI",
+      "summary": "Le richieste per Humanities 10 aumentano del 40%: 180 matricole per novanta posti.",
+      "body": [
+        "Il corso richiede la lettura di un volume alla settimana ed esclude dispositivi elettronici e intelligenza artificiale. RaiNews presenta il caso come ricerca di uno studio più approfondito, senza dimostrare un cambiamento generalizzato dell’intero ateneo."
+      ],
+      "publishedAt": "2026-11-04T09:22:00+00:00",
+      "verifiedAt": "2026-11-04T11:20:51.638100+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/fuga-dal-digitale-ad-harvard-ce-la-fila-per-il-corso-di-letteratura-piu-duro-senza-smartphone-e-ia-d946b0ad-26c0-4a21-96da-9afc51aab727.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:20:51.638100+00:00",
+        "dateEvidence": "Articolo RaiNews e RSS della sezione Esteri del 4 novembre 2026; dati su iscrizioni e posti del corso Hum 10.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-israele-consultazioni-herzog-20261104",
+      "eventKey": "israele-consultazioni-herzog-20261104",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Israele, Herzog apre le consultazioni partendo dai piccoli partiti",
+      "summary": "Il presidente avvia il 4 novembre i colloqui per individuare chi possa formare il nuovo governo.",
+      "body": [
+        "L’annuncio del 2 novembre indica un ordine crescente per numero di seggi. Il deputato incaricato avrà ventotto giorni per costruire l’esecutivo, con una possibile proroga prevista dalla legge.",
+        "I colloqui riguardano le liste elette alla nuova Knesset. L’articolo descrive il calendario delle consultazioni, non un governo già formato."
+      ],
+      "publishedAt": "2026-11-02T17:23:00+01:00",
+      "verifiedAt": "2026-11-04T11:20:51.638100+00:00",
+      "source": {
+        "name": "ANSAmed",
+        "url": "https://www.ansa.it/ansamed/it/notizie/rubriche/politica/2026/11/02/israele-le-consultazioni-di-herzog-mercoledi-in-diretta-streaming_c7dc4198-db0d-4cf6-9da6-da70fd089814.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:20:51.638100+00:00",
+        "dateEvidence": "Pagina ANSAmed: 02 novembre 2026, 17:23; consultazioni previste per il 4 novembre, data distinta dall’annuncio.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Knesset_Building_%28From_Front%29.JPG",
+        "alt": "La Knesset, Gerusalemme",
+        "credit": "Effib",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG",
+        "rights": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · La Knesset, Gerusalemme. Fotografia non riferita agli eventi di oggi.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      },
+      "leadPriority": 85
+    },
+    {
+      "id": "esteri-ucraina-incontro-ricostruzione-bruxelles-20261104",
+      "eventKey": "ucraina-incontro-ricostruzione-bruxelles-20261104",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Ucraina, a Bruxelles il confronto su finanziamenti e ricostruzione",
+      "summary": "Il calendario diplomatico prevede un incontro con delegati ucraini, statunitensi ed europei, Nato e Banca Mondiale.",
+      "body": [
+        "RaiNews descrive un tavolo a prevalente contenuto economico sui bisogni finanziari e sulla ricostruzione. Non viene presentato come un accordo di pace raggiunto né come una riunione tra Putin e Zelensky."
+      ],
+      "publishedAt": "2026-11-04T03:30:00+01:00",
+      "verifiedAt": "2026-11-04T11:20:51.638100+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/maratona/2026/11/ucraina-guerra-bombe-russe-centro-aiuti-morti-trilaterale-russia-usa-ucraina-10-e-11-novembre-abu-dhabi-8516e3a6-8fcd-4356-81f4-59d4bd1c706f.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:20:51.638100+00:00",
+        "dateEvidence": "Diretta RaiNews: aggiornamento 03:30 del 04 Novembre, sezione sui vertici diplomatici e tavolo economico di Bruxelles.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-yemen-taiz-allarme-umanitario-onu-20261104",
+      "eventKey": "yemen-taiz-allarme-umanitario-onu-20261104",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Yemen, allarme Onu per la popolazione di Taiz",
+      "summary": "Circa un milione di persone rischia di restare senza beni essenziali, secondo l’allarme riportato da RaiNews.",
+      "body": [
+        "Il coordinatore umanitario Tom Fletcher denuncia minore disponibilità d’acqua, rincari alimentari e carenza di carburante e farmaci negli ospedali. Le difficoltà di accesso ostacolano anche l’arrivo dei convogli di aiuti."
+      ],
+      "publishedAt": "2026-11-04T00:31:00+01:00",
+      "verifiedAt": "2026-11-04T11:20:51.638100+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/amp/maratona/2026/11/medio-oriente-via-libera-khamenei-al-governo-per-negoziare-con-usa-cala-prezzo-petrolio-dc276a60-ca05-4660-a3bd-09dbfb34c40d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:20:51.638100+00:00",
+        "dateEvidence": "Diretta RaiNews, voce Yemen: Onu, situazione a Taiz, marcata 00:31 04 Novembre 2026; pagina aperta e letta.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "esteri-belgio-dimissioni-offerte-de-wever-20261102",
+      "eventKey": "belgio-dimissioni-offerte-de-wever-20261102",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Belgio, De Wever offre le dimissioni dopo lo stallo sul bilancio",
+      "summary": "Il resoconto del 2 novembre descrive la crisi della coalizione e la decisione del re di avviare consultazioni.",
+      "body": [
+        "Bart De Wever ha presentato le dimissioni; re Filippo le ha congelate mentre valuta possibili accordi. Questa scheda mantiene la data della fonte e non afferma che il governo sia già stato sostituito."
+      ],
+      "publishedAt": "2026-11-02T15:36:26+00:00",
+      "verifiedAt": "2026-11-04T11:33:56.798670+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/belgio-il-premier-si-dimette-per-il-mancato-accordo-sulla-legge-di-bilancio-il-re-consultazioni-75e3d678-d203-4c34-a730-de0d52750c31.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:33:56.798670+00:00",
+        "dateEvidence": "RaiNews: article:published_time 2026-11-02T15:36:26+0000; resoconto delle dimissioni offerte e congelate.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-praga-protesta-emittenti-pubbliche-20261103",
+      "eventKey": "praga-protesta-emittenti-pubbliche-20261103",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Praga, manifestazioni a sostegno dei media pubblici",
+      "summary": "Studenti e artisti hanno affiancato lo sciopero di ventiquattr’ore dei lavoratori di radio e televisione.",
+      "body": [
+        "La protesta riguarda una proposta di riforma del finanziamento delle emittenti. I manifestanti temono effetti sull’indipendenza; il governo sostiene di voler ridurre gli oneri per le famiglie."
+      ],
+      "publishedAt": "2026-11-03T21:35:12+00:00",
+      "verifiedAt": "2026-11-04T11:33:56.798686+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/a-praga-sfilano-in-migliaia-per-difendere-lemittenza-pubblica-sciopero-5614a771-7b44-4460-8a2c-5edcf1716e3e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:33:56.798686+00:00",
+        "dateEvidence": "RaiNews: metadato pubblicazione 2026-11-03T21:35:12+0000; manifestazioni del 3 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-spagna-dimissioni-oscar-puente-20261103",
+      "eventKey": "spagna-dimissioni-oscar-puente-20261103",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Spagna, il ministro dei Trasporti annuncia le dimissioni",
+      "summary": "Óscar Puente comunica la decisione dopo l’audizione parlamentare sull’incidente ferroviario di Urda.",
+      "body": [
+        "Il ministro collega la scelta alle due gravi tragedie ferroviarie avvenute nell’anno. Il resoconto riporta anche il ritiro del suo nome dalle liste per le elezioni del 29 novembre."
+      ],
+      "publishedAt": "2026-11-03T20:53:19+00:00",
+      "verifiedAt": "2026-11-04T11:33:56.798701+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/spagna-si-dimette-il-ministro-dei-trasporti-oscar-puente-dopo-due-stragi-9280c2a4-f8fa-475b-91e9-8a960a66b38d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:33:56.798701+00:00",
+        "dateEvidence": "RaiNews: article:published_time 2026-11-03T20:53:19+0000; annuncio al termine dell’audizione.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-florida-inchiesta-learjet-profilo-copilota-20261103",
+      "eventKey": "florida-inchiesta-learjet-profilo-copilota-20261103",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Jet precipitato in Florida, le cause restano da accertare",
+      "summary": "RaiNews ricostruisce il percorso della giovane copilota e i momenti precedenti all’incidente con nove vittime.",
+      "body": [
+        "L’articolo del 3 novembre riguarda lo schianto della domenica precedente. I messaggi sulle condizioni meteorologiche non provano la causa: l’indagine è affidata alla NTSB."
+      ],
+      "publishedAt": "2026-11-03T07:55:46+00:00",
+      "verifiedAt": "2026-11-04T11:33:56.798716+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/il-jet-precipitato-in-florida-la-copilota-aveva-20-anni-e-aveva-ottenuto-il-brevetto-a-17-c65f5e16-edb3-464f-894d-ecabd72d1cd5.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:33:56.798716+00:00",
+        "dateEvidence": "RaiNews: metadato pubblicazione 2026-11-03T07:55:46+0000; articolo distingue racconto dei familiari e indagine NTSB.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-karl-bushby-ritorno-hull-20261102",
+      "eventKey": "karl-bushby-ritorno-hull-20261102",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Karl Bushby torna a Hull dopo ventotto anni di viaggio",
+      "summary": "L’avventuriero britannico conclude la spedizione iniziata in Cile nel 1998.",
+      "body": [
+        "Euronews descrive il rientro del 2 novembre, dopo circa cinquantamila chilometri e lunghi stop per visti, finanziamenti e pandemia. La fonte è stata aggiornata il 3 novembre: il ritorno non è avvenuto oggi."
+      ],
+      "publishedAt": "2026-11-02T13:57:13+01:00",
+      "verifiedAt": "2026-11-04T11:33:56.798721+00:00",
+      "source": {
+        "name": "Euronews",
+        "url": "https://it.euronews.com/2026/11/02/karl-bushby-torna-a-casa-dopo-28-anni-e-50000-km-a-piedi",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:33:56.798721+00:00",
+        "dateEvidence": "Pagina Euronews pubblicata 2 novembre 2026 13:57 CET, aggiornata 3 novembre 09:18 CET; ritorno a Hull il 2 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "lastAttemptAt": "2026-11-04T11:33:56.798917+00:00"
+}

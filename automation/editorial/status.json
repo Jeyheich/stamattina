@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-04",
-  "checkedAt": "2026-11-04T16:29:49.978Z",
+  "checkedAt": "2026-11-04T17:52:46.965Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,14 +14,126 @@
     "sport"
   ],
   "completed": [],
-  "inProgress": [],
-  "missing": [],
-  "invalid": [
+  "inProgress": [
     {
-      "slug": "edition",
-      "reason": "Cicli editoriali differenti"
+      "slug": "economia",
+      "count": 1
+    },
+    {
+      "slug": "cronaca",
+      "count": 1
+    },
+    {
+      "slug": "roma",
+      "count": 1
+    },
+    {
+      "slug": "cultura",
+      "count": 1
     }
   ],
-  "stories": [],
-  "needsPublication": false
+  "missing": [
+    "politica",
+    "esteri",
+    "tecnologia",
+    "sport"
+  ],
+  "invalid": [],
+  "stories": [
+    {
+      "id": "economia-ms-utili-semestrali-ripresa-cyberattacco-20261104",
+      "category": "Economia",
+      "title": "Marks & Spencer, utili semestrali a 355 milioni di sterline dopo l'attacco informatico",
+      "eventKey": "marks-spencer-utili-semestrali-recupero-cyberattacco-20261104",
+      "pending": true
+    },
+    {
+      "id": "cronaca-malcesine-fabriano-incidenti-lavoro-20261103",
+      "category": "Cronaca",
+      "title": "Due operai morti in incidenti sul lavoro a Malcesine e Fabriano",
+      "eventKey": "incidenti-lavoro-malcesine-fabriano-3-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "roma-mattarella-altare-patria-4nov-2026",
+      "category": "Roma",
+      "title": "Mattarella rende omaggio al Milite Ignoto a Roma",
+      "eventKey": "cerimonia-mattarella-milite-ignoto-4-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "cultura-musei-statali-gratis-4nov-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Musei statali gratuiti per la ricorrenza del 4 novembre",
+      "eventKey": "ingresso-gratuito-musei-statali-4-novembre-2026",
+      "pending": true
+    }
+  ],
+  "collectionId": "2026-11-04-pomeriggio",
+  "reserveCounts": {
+    "Politica": 0,
+    "Esteri": 0,
+    "Economia": 0,
+    "Cronaca": 0,
+    "Roma": 0,
+    "Cultura · Teatro · Cinema": 0,
+    "Tecnologia · AI": 0,
+    "Sport": 0
+  },
+  "photoCandidates": [],
+  "photosAvailable": 0,
+  "categoryProgress": {
+    "politica": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "esteri": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "economia": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "cronaca": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "roma": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "cultura": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "tecnologia": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "sport": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    }
+  },
+  "preparation": "in-preparazione",
+  "message": "Edizione in preparazione",
+  "needsPublication": false,
+  "publicCollectionId": "2026-11-04-mattina"
 }

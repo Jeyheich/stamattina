@@ -1,0 +1,240 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-04",
+  "collectionId": "2026-11-04-mattina",
+  "category": "Sport",
+  "completedAt": "2026-11-04T11:14:03.555359+00:00",
+  "articles": [
+    {
+      "id": "sport-inter-chivu-vittoria-feyenoord",
+      "eventKey": "inter-chivu-analisi-vittoria-feyenoord-20261103",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Chivu: la vittoria a Rotterdam restituisce fiducia all’Inter",
+      "summary": "Dopo il successo sul Feyenoord, Cristian Chivu ha sottolineato la capacità dell’Inter di correggere gli errori delle ultime gare e di ritrovare una prestazione convincente.",
+      "body": [
+        "Dopo il successo sul Feyenoord, Cristian Chivu ha sottolineato la capacità dell’Inter di correggere gli errori delle ultime gare e di ritrovare una prestazione convincente.",
+        "Il tecnico ha indicato nella continuità il prossimo obiettivo, dopo una vittoria europea che considera importante per la consapevolezza del gruppo."
+      ],
+      "publishedAt": "2026-11-03T23:59:00+01:00",
+      "verifiedAt": "2026-11-04T11:14:03.555359+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/champions-league/2026/11/03/feyenoord-inter-chivu-intervista-video",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:14:03.555359+00:00",
+        "dateEvidence": "La pagina indica 03 nov 2026 - 23:59, con dichiarazioni postpartita di Chivu.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "image": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg/960px-Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg",
+        "alt": "Pallone da calcio su un prato",
+        "credit": "Peter Glaser baraida",
+        "rights": "CC0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "caption": "Repertorio · Un pallone da calcio su un prato. La fotografia non ritrae la partita o la cerimonia descritta nella notizia.",
+        "reuseApproved": true
+      },
+      "leadPriority": 70
+    },
+    {
+      "id": "sport-napoli-allegri-vigilia-porto",
+      "eventKey": "napoli-allegri-conferenza-porto-20261103",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Allegri chiede al Napoli maggiore attenzione nei finali di gara",
+      "summary": "Alla vigilia della trasferta di Champions League contro il Porto, Massimiliano Allegri ha evidenziato le difficoltà del Napoli nella gestione degli ultimi minuti.",
+      "body": [
+        "Alla vigilia della trasferta di Champions League contro il Porto, Massimiliano Allegri ha evidenziato le difficoltà del Napoli nella gestione degli ultimi minuti.",
+        "L'allenatore ha richiamato il dato degli undici gol subiti nell'ultima mezz'ora delle partite e ha chiesto una prestazione di carattere."
+      ],
+      "publishedAt": "2026-11-03T17:30:00+01:00",
+      "verifiedAt": "2026-11-04T11:14:03.555359+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/champions-league/2026/11/03/porto-napoli-allegri-conferenza-video",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:14:03.555359+00:00",
+        "dateEvidence": "La pagina riporta 03 nov 2026 - 17:30 e la conferenza prima di Porto-Napoli.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-como-fabregas-vigilia-lens",
+      "eventKey": "como-fabregas-vigilia-lens-20261103",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Fabregas prepara il Como alla trasferta europea con il Lens",
+      "summary": "Cesc Fabregas ha parlato della trasferta del Como contro il Lens, spiegando che le limitazioni della lista Champions riducono le possibilità di rotazione.",
+      "body": [
+        "Cesc Fabregas ha parlato della trasferta del Como contro il Lens, spiegando che le limitazioni della lista Champions riducono le possibilità di rotazione.",
+        "Il tecnico ha anche ricordato la scomparsa di Jesus de Miguel, in una conferenza segnata da considerazioni sportive e personali."
+      ],
+      "publishedAt": "2026-11-03T19:50:00+01:00",
+      "verifiedAt": "2026-11-04T11:14:03.555359+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/champions-league/2026/11/03/lens-como-fabregas-conferenza-video",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:14:03.555359+00:00",
+        "dateEvidence": "La pagina riporta 03 nov 2026 - 19:50, conferenza di Fabregas alla vigilia del Lens.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-fifpro-top11-candidati-italiani",
+      "eventKey": "fifpro-top11-2026-assenza-serie-a-italiani",
+      "category": "Sport",
+      "status": "verified",
+      "title": "FIFPro World 11: nessun italiano e nessun giocatore della Serie A tra i candidati",
+      "summary": "La lista dei 26 candidati al FIFPro World 11 del 2026 non comprende calciatori italiani né giocatori attualmente in Serie A.",
+      "body": [
+        "La lista dei 26 candidati al FIFPro World 11 del 2026 non comprende calciatori italiani né giocatori attualmente in Serie A.",
+        "La selezione è stata determinata dal voto di quasi ventimila professionisti; i vincitori saranno annunciati il 9 novembre."
+      ],
+      "publishedAt": "2026-11-03T12:15:00+01:00",
+      "verifiedAt": "2026-11-04T11:14:03.555359+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/2026/11/03/fifpro-world-top-11-2026-giocatori-candidati",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:14:03.555359+00:00",
+        "dateEvidence": "La pagina riporta 03 nov 2026 - 12:15 e descrive i 26 candidati alla top 11.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-tennis-parigi-rublev-etcheverry",
+      "eventKey": "tennis-parigi-rublev-etcheverry-risultato-20261103",
+      "category": "Sport",
+      "status": "verified",
+      "title": "A Parigi Etcheverry supera Rublev in tre set",
+      "summary": "Nel programma del Masters di Parigi del 3 novembre, Tomas Martín Etcheverry ha battuto Andrey Rublev in tre set, 6-4, 6-7, 7-6.",
+      "body": [
+        "Nel programma del Masters di Parigi del 3 novembre, Tomas Martín Etcheverry ha battuto Andrey Rublev in tre set, 6-4, 6-7, 7-6.",
+        "Il risultato compare nel riepilogo della giornata pubblicato da Sky Sport, che segue anche gli incontri di Djokovic e Berrettini."
+      ],
+      "publishedAt": "2026-11-03T21:30:00+01:00",
+      "verifiedAt": "2026-11-04T11:14:03.555359+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/2026/11/03/atp-parigi-2026-risultati-oggi-3-novembre",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:14:03.555359+00:00",
+        "dateEvidence": "Sky Sport indica 03 nov 2026 - 21:30; tabella risultati: Rublev-Etcheverry 4-6, 7-6, 6-7.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "sport-roma-ko-manchester-united",
+      "eventKey": "roma-rimonta-subita-manchester-united-20261103",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Roma battuta 3-2 dal Manchester United dopo il doppio vantaggio",
+      "summary": "La Roma ha perso 3-2 all'Old Trafford dopo essere stata avanti 2-0 nel primo tempo.",
+      "body": [
+        "La Roma ha perso 3-2 all'Old Trafford dopo essere stata avanti 2-0 nel primo tempo.",
+        "La squadra inglese ha ribaltato il risultato nella ripresa, con un rigore di Bruno Fernandes e una doppietta di Cunha."
+      ],
+      "publishedAt": "2026-11-03T23:28:00+01:00",
+      "verifiedAt": "2026-11-04T11:29:30.073591+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/champions-league/2026/11/03/man-united-roma-pagelle",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:29:30.073591+00:00",
+        "dateEvidence": "La pagina pagelle è datata 03 nov 2026 - 23:28 e riporta risultato e marcatori.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-antonelli-mondiale-f1-2026",
+      "eventKey": "antonelli-campione-mondiale-f1-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Kimi Antonelli conquista il Mondiale di Formula 1 2026",
+      "summary": "Kimi Antonelli ha vinto il titolo piloti di Formula 1 2026 con Mercedes, riportando il titolo in Italia dopo oltre settant'anni.",
+      "body": [
+        "Kimi Antonelli ha vinto il titolo piloti di Formula 1 2026 con Mercedes, riportando il titolo in Italia dopo oltre settant'anni.",
+        "Il resoconto della stagione evidenzia i successi in Cina, Giappone e Monza e la crescita del pilota italiano."
+      ],
+      "publishedAt": "2026-11-01T23:28:00+01:00",
+      "verifiedAt": "2026-11-04T11:29:30.073591+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/formula-1/f1-kimi-antonelli-mondiale-2026",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:29:30.073591+00:00",
+        "dateEvidence": "Il riepilogo del titolo mondiale è datato 01 nov 2026 - 23:28, entro 72 ore.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-berrettini-batte-nakashima-parigi",
+      "eventKey": "berrettini-vittoria-nakashima-parigi-20261103",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Berrettini supera Nakashima al Masters 1000 di Parigi",
+      "summary": "Matteo Berrettini ha battuto Brandon Nakashima in tre set, 6-4, 3-6, 7-6, conquistando la prima vittoria in carriera nel Masters 1000 di Parigi.",
+      "body": [
+        "Matteo Berrettini ha battuto Brandon Nakashima in tre set, 6-4, 3-6, 7-6, conquistando la prima vittoria in carriera nel Masters 1000 di Parigi."
+      ],
+      "publishedAt": "2026-11-03T17:09:00+01:00",
+      "verifiedAt": "2026-11-04T11:29:30.073591+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/video/2026/11/03/berrettini-nakashima-atp-parigi-highlights-1137063",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:29:30.073591+00:00",
+        "dateEvidence": "La pagina Sky Sport riporta 03 nov 2026 - 17:09 e il risultato 6-4, 3-6, 7-6.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-giro2027-presentazione-percorso-20261103",
+      "eventKey": "giro2027-presentazione-percorso-20261103",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Giro 2027, svelato il percorso da Trieste a Roma",
+      "summary": "La corsa si svolgerà dall’8 al 30 maggio, con ventuno tappe e passaggi sulle grandi salite alpine.",
+      "body": [
+        "Sky Sport riporta la presentazione del 3 novembre all’Auditorium di Roma. Il programma comprende Mortirolo, Gavia e Zoncolan: è l’annuncio della corsa del prossimo anno, non un risultato sportivo già ottenuto."
+      ],
+      "publishedAt": "2026-11-03T13:45:00+01:00",
+      "verifiedAt": "2026-11-04T11:29:30.073667+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/ciclismo/2026/11/03/giro-d-italia-2027-percorso-tappe",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:29:30.073667+00:00",
+        "dateEvidence": "La pagina Sky Sport indica 03 nov 2026 - 13:45; presentazione del percorso del Giro 2027.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-cobolli-qualificazione-atp-finals-20261103",
+      "eventKey": "cobolli-qualificazione-atp-finals-20261103",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Cobolli conquista il posto alle ATP Finals",
+      "summary": "Il tennista romano è aritmeticamente qualificato per il torneo di Torino.",
+      "body": [
+        "Secondo Sky Sport è decisiva la sconfitta di Jodar a Parigi. Per Cobolli sarà la prima partecipazione in singolare; restano da valutare le condizioni fisiche in vista del torneo dal 15 al 22 novembre."
+      ],
+      "publishedAt": "2026-11-03T22:32:00+01:00",
+      "verifiedAt": "2026-11-04T11:29:30.073670+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/atp-finals-2026-race-torino-classifica",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:29:30.073670+00:00",
+        "dateEvidence": "Pagina Sky Sport: 03 nov 2026 - 22:32; sezione Cobolli qualificato aritmeticamente alle ATP Finals.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "lastAttemptAt": "2026-11-04T11:29:30.073735+00:00"
+}

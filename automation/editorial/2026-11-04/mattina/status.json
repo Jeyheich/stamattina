@@ -1,0 +1,596 @@
+{
+  "editionDate": "2026-11-04",
+  "checkedAt": "2026-11-04T11:35:49.198Z",
+  "ready": true,
+  "editorialComplete": true,
+  "reserveMissing": [],
+  "completed": [
+    "politica",
+    "esteri",
+    "economia",
+    "cronaca",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
+  ],
+  "inProgress": [],
+  "missing": [],
+  "invalid": [],
+  "stories": [
+    {
+      "id": "politica-mattarella-difesa-comune-ue-20261103",
+      "category": "Politica",
+      "title": "Mattarella sollecita una difesa europea più integrata",
+      "eventKey": "mattarella-appello-difesa-comune-ue-nato-20261103"
+    },
+    {
+      "id": "politica-manovra-2027-esame-camera",
+      "category": "Politica",
+      "title": "Manovra, alla Camera il confronto sulle modifiche",
+      "eventKey": "manovra-2027-esame-camera"
+    },
+    {
+      "id": "politica-ue-tetto-alunni-stranieri-20261103",
+      "category": "Politica",
+      "title": "Scuola, Bruxelles richiama il divieto di discriminazione",
+      "eventKey": "ue-tetto-alunni-stranieri-20261103"
+    },
+    {
+      "id": "politica-governo-attacco-frigoriferi-supermercati-20261103",
+      "category": "Politica",
+      "title": "Attacchi ai supermercati, il governo parla di danni limitati",
+      "eventKey": "governo-attacco-frigoriferi-supermercati-20261103"
+    },
+    {
+      "id": "politica-vannacci-cene-marcia-roma-20261102",
+      "category": "Politica",
+      "title": "Vannacci apre alla partecipazione alle cene sulla marcia su Roma",
+      "eventKey": "vannacci-cene-marcia-roma-20261102"
+    },
+    {
+      "id": "esteri-usa-midterm-congresso-proiezioni-20261104",
+      "category": "Esteri",
+      "title": "Midterm Usa, le proiezioni assegnano il Congresso ai democratici",
+      "eventKey": "usa-midterm-congresso-proiezioni-20261104"
+    },
+    {
+      "id": "esteri-harvard-hum10-corso-senza-ai-20261104",
+      "category": "Esteri",
+      "title": "Harvard, cresce la domanda per un corso senza dispositivi e AI",
+      "eventKey": "harvard-hum10-corso-senza-ai-20261104"
+    },
+    {
+      "id": "esteri-israele-consultazioni-herzog-20261104",
+      "category": "Esteri",
+      "title": "Israele, Herzog apre le consultazioni partendo dai piccoli partiti",
+      "eventKey": "israele-consultazioni-herzog-20261104"
+    },
+    {
+      "id": "esteri-ucraina-incontro-ricostruzione-bruxelles-20261104",
+      "category": "Esteri",
+      "title": "Ucraina, a Bruxelles il confronto su finanziamenti e ricostruzione",
+      "eventKey": "ucraina-incontro-ricostruzione-bruxelles-20261104"
+    },
+    {
+      "id": "esteri-yemen-taiz-allarme-umanitario-onu-20261104",
+      "category": "Esteri",
+      "title": "Yemen, allarme Onu per la popolazione di Taiz",
+      "eventKey": "yemen-taiz-allarme-umanitario-onu-20261104"
+    },
+    {
+      "id": "economia-aumento-gas-vulnerabili-ottobre-2026",
+      "category": "Economia",
+      "title": "Gas, rincaro del 9,1% per i clienti vulnerabili a ottobre",
+      "eventKey": "arera-aumento-gas-clienti-vulnerabili-ottobre-2026"
+    },
+    {
+      "id": "economia-istat-istruzione-occupazione-2025",
+      "category": "Economia",
+      "title": "Istat, cresce l’occupazione di neodiplomati e neolaureati",
+      "eventKey": "istat-istruzione-occupazione-2025"
+    },
+    {
+      "id": "economia-bmw-revisione-obiettivi-2026",
+      "category": "Economia",
+      "title": "BMW riduce le previsioni sul margine Automotive",
+      "eventKey": "bmw-revisione-obiettivi-2026"
+    },
+    {
+      "id": "economia-kelloggs-ricetta-cereali-uk-20261104",
+      "category": "Economia",
+      "title": "Kellogg’s cambia la ricetta di due cereali nel Regno Unito",
+      "eventKey": "kelloggs-ricetta-cereali-uk-20261104"
+    },
+    {
+      "id": "economia-poundland-fornitori-rischio-crisi-20261104",
+      "category": "Economia",
+      "title": "Poundland, i fornitori temono perdite se la catena fallisce",
+      "eventKey": "poundland-fornitori-rischio-crisi-20261104"
+    },
+    {
+      "id": "cronaca-meteo-perturbazione-7-8-novembre-2026",
+      "category": "Cronaca",
+      "title": "Meteo, una perturbazione potrebbe interessare l'Italia nel fine settimana",
+      "eventKey": "previsioni-perturbazione-italia-weekend-7-8-novembre-2026"
+    },
+    {
+      "id": "cronaca-casarano-incidente-cancello-20261104",
+      "category": "Cronaca",
+      "title": "Casarano, imprenditore muore durante lavori in un’abitazione",
+      "eventKey": "casarano-incidente-cancello-20261104"
+    },
+    {
+      "id": "cronaca-milano-richiesta-giudizio-maltrattamenti-manager-20261104",
+      "category": "Cronaca",
+      "title": "Milano, chiesto il processo per le violenze denunciate da un manager",
+      "eventKey": "milano-richiesta-giudizio-maltrattamenti-manager-20261104"
+    },
+    {
+      "id": "cronaca-operazione-sweet-strip-arresti-20261104",
+      "category": "Cronaca",
+      "title": "Abusi online sui minori, sette arresti nell’operazione Sweet Strip",
+      "eventKey": "operazione-sweet-strip-arresti-20261104"
+    },
+    {
+      "id": "cronaca-cremona-caso-dengue-disinfestazione-20261103",
+      "category": "Cronaca",
+      "title": "Cremona, disinfestazione dopo un caso di dengue",
+      "eventKey": "cremona-caso-dengue-disinfestazione-20261103"
+    },
+    {
+      "id": "roma-viabilita-celebrazioni-4-novembre-2026",
+      "category": "Roma",
+      "title": "Roma, chiusure e bus deviati per le cerimonie del 4 novembre",
+      "eventKey": "roma-chiusure-piazza-venezia-circo-massimo-4-novembre-2026"
+    },
+    {
+      "id": "roma-storni-viale-jonio-disagi-20261104",
+      "category": "Roma",
+      "title": "Viale Jonio, residenti e commercianti segnalano i disagi degli storni",
+      "eventKey": "storni-viale-jonio-disagi-20261104"
+    },
+    {
+      "id": "roma-castelverde-fiaccolata-legalita-20261103",
+      "category": "Roma",
+      "title": "Castelverde, una fiaccolata chiede sicurezza dopo le esplosioni",
+      "eventKey": "castelverde-fiaccolata-legalita-20261103"
+    },
+    {
+      "id": "roma-botteghe-oscure-apertura-thompson-rome-20261104",
+      "category": "Roma",
+      "title": "Botteghe Oscure, l’ex sede del Pci diventa un albergo",
+      "eventKey": "botteghe-oscure-apertura-thompson-rome-20261104"
+    },
+    {
+      "id": "roma-lavinio-aggressione-tre-arresti-20261104",
+      "category": "Roma",
+      "title": "Lavinio, tre arresti dopo un’aggressione a un automobilista",
+      "eventKey": "lavinio-aggressione-tre-arresti-20261104"
+    },
+    {
+      "id": "cultura-henze-voices-roma-4-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Romaeuropa e Santa Cecilia ricordano Henze con Voices",
+      "eventKey": "henze-voices-romaeuropa-santa-cecilia-4-novembre-2026"
+    },
+    {
+      "id": "cultura-jarrett-roma-ascolto-auditorium-20261105",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "L’Auditorium anticipa il disco Roma di Keith Jarrett",
+      "eventKey": "jarrett-roma-ascolto-auditorium-20261105"
+    },
+    {
+      "id": "cultura-sara-milani-atodomodo-20261107",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Sara Milani in concerto alla libreria aTodomodo",
+      "eventKey": "sara-milani-atodomodo-20261107"
+    },
+    {
+      "id": "cultura-beethoven-sestetto-ariccia-20261108",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Ad Ariccia la Pastorale di Beethoven in versione da camera",
+      "eventKey": "beethoven-sestetto-ariccia-20261108"
+    },
+    {
+      "id": "cultura-con-il-tuo-amore-casa-cinema-20261104",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Alla Casa del Cinema il documentario Con il tuo amore",
+      "eventKey": "con-il-tuo-amore-casa-cinema-20261104"
+    },
+    {
+      "id": "tecnologia-openai-premi-bug-bounty",
+      "category": "Tecnologia · AI",
+      "title": "OpenAI aumenta i premi per chi scopre vulnerabilità",
+      "eventKey": "openai-aumento-premi-bug-bounty-20261103"
+    },
+    {
+      "id": "tecnologia-brave-causa-editori-ai",
+      "category": "Tecnologia · AI",
+      "title": "Il New York Times porta Brave in tribunale sui contenuti per l’AI",
+      "eventKey": "brave-causa-new-york-times-contenuti-ai-20261103"
+    },
+    {
+      "id": "tecnologia-google-botnet-videostrong",
+      "category": "Tecnologia · AI",
+      "title": "Google interviene contro una botnet di set-top box Android",
+      "eventKey": "google-smantella-botnet-videostrong-android-20261103"
+    },
+    {
+      "id": "tecnologia-xbox-cloud-pacchetti-ore",
+      "category": "Tecnologia · AI",
+      "title": "Xbox Cloud Gaming sperimenta pacchetti di ore a pagamento",
+      "eventKey": "xbox-cloud-gaming-pacchetti-ore-20261104"
+    },
+    {
+      "id": "tecnologia-gran-turismo-dualsense-speciale",
+      "category": "Tecnologia · AI",
+      "title": "Sony presenta un DualSense speciale per i trent’anni di Gran Turismo",
+      "eventKey": "sony-dualsense-gran-turismo-trentennale-20261103"
+    },
+    {
+      "id": "sport-inter-chivu-vittoria-feyenoord",
+      "category": "Sport",
+      "title": "Chivu: la vittoria a Rotterdam restituisce fiducia all’Inter",
+      "eventKey": "inter-chivu-analisi-vittoria-feyenoord-20261103"
+    },
+    {
+      "id": "sport-napoli-allegri-vigilia-porto",
+      "category": "Sport",
+      "title": "Allegri chiede al Napoli maggiore attenzione nei finali di gara",
+      "eventKey": "napoli-allegri-conferenza-porto-20261103"
+    },
+    {
+      "id": "sport-como-fabregas-vigilia-lens",
+      "category": "Sport",
+      "title": "Fabregas prepara il Como alla trasferta europea con il Lens",
+      "eventKey": "como-fabregas-vigilia-lens-20261103"
+    },
+    {
+      "id": "sport-fifpro-top11-candidati-italiani",
+      "category": "Sport",
+      "title": "FIFPro World 11: nessun italiano e nessun giocatore della Serie A tra i candidati",
+      "eventKey": "fifpro-top11-2026-assenza-serie-a-italiani"
+    },
+    {
+      "id": "sport-tennis-parigi-rublev-etcheverry",
+      "category": "Sport",
+      "title": "A Parigi Etcheverry supera Rublev in tre set",
+      "eventKey": "tennis-parigi-rublev-etcheverry-risultato-20261103"
+    },
+    {
+      "id": "politica-camera-calendario-autonomia-gennaio2027",
+      "category": "Politica",
+      "title": "Autonomia, la Camera fissa a gennaio l’esame delle intese",
+      "eventKey": "camera-calendario-autonomia-gennaio2027"
+    },
+    {
+      "id": "politica-camera-scontro-ascari-abu-safiya-20261103",
+      "category": "Politica",
+      "title": "Camera, scontro tra FdI e M5S sulla conferenza promossa da Ascari",
+      "eventKey": "camera-scontro-ascari-abu-safiya-20261103"
+    },
+    {
+      "id": "politica-funerali-stato-militari-bosnia-20261103",
+      "category": "Politica",
+      "title": "A Roma i funerali di Stato dei quattro militari morti in Bosnia",
+      "eventKey": "funerali-stato-militari-bosnia-20261103"
+    },
+    {
+      "id": "politica-campo-largo-tavoli-programma-taruffi-20261102",
+      "category": "Politica",
+      "title": "Campo largo, Taruffi indica i tempi del lavoro sul programma",
+      "eventKey": "campo-largo-tavoli-programma-taruffi-20261102"
+    },
+    {
+      "id": "politica-camera-finanze-question-time-20261104",
+      "category": "Politica",
+      "title": "Commissione Finanze, interrogazioni al Mef nel pomeriggio",
+      "eventKey": "camera-finanze-question-time-20261104"
+    },
+    {
+      "id": "esteri-belgio-dimissioni-offerte-de-wever-20261102",
+      "category": "Esteri",
+      "title": "Belgio, De Wever offre le dimissioni dopo lo stallo sul bilancio",
+      "eventKey": "belgio-dimissioni-offerte-de-wever-20261102"
+    },
+    {
+      "id": "esteri-praga-protesta-emittenti-pubbliche-20261103",
+      "category": "Esteri",
+      "title": "Praga, manifestazioni a sostegno dei media pubblici",
+      "eventKey": "praga-protesta-emittenti-pubbliche-20261103"
+    },
+    {
+      "id": "esteri-spagna-dimissioni-oscar-puente-20261103",
+      "category": "Esteri",
+      "title": "Spagna, il ministro dei Trasporti annuncia le dimissioni",
+      "eventKey": "spagna-dimissioni-oscar-puente-20261103"
+    },
+    {
+      "id": "esteri-florida-inchiesta-learjet-profilo-copilota-20261103",
+      "category": "Esteri",
+      "title": "Jet precipitato in Florida, le cause restano da accertare",
+      "eventKey": "florida-inchiesta-learjet-profilo-copilota-20261103"
+    },
+    {
+      "id": "esteri-karl-bushby-ritorno-hull-20261102",
+      "category": "Esteri",
+      "title": "Karl Bushby torna a Hull dopo ventotto anni di viaggio",
+      "eventKey": "karl-bushby-ritorno-hull-20261102"
+    },
+    {
+      "id": "economia-arkea-transazioni-fraudolente-20261104",
+      "category": "Economia",
+      "title": "Arkéa comunica un attacco informatico alla banca",
+      "eventKey": "arkea-transazioni-fraudolente-20261104"
+    },
+    {
+      "id": "economia-intesa-risultati-nove-mesi-2026",
+      "category": "Economia",
+      "title": "Intesa Sanpaolo, utile di 8,2 miliardi nei nove mesi",
+      "eventKey": "intesa-risultati-nove-mesi-2026"
+    },
+    {
+      "id": "economia-exilva-avvio-spegnimento-altiforni-20261103",
+      "category": "Economia",
+      "title": "Ex Ilva, iniziate le operazioni di spegnimento degli altiforni",
+      "eventKey": "exilva-avvio-spegnimento-altiforni-20261103"
+    },
+    {
+      "id": "economia-immatricolazioni-italia-ottobre-2026",
+      "category": "Economia",
+      "title": "Auto, immatricolazioni italiane in crescita a ottobre",
+      "eventKey": "immatricolazioni-italia-ottobre-2026"
+    },
+    {
+      "id": "economia-delvecchio-offerta-quote-delfin-20261102",
+      "category": "Economia",
+      "title": "Del Vecchio propone ai soci di acquistare le quote Delfin",
+      "eventKey": "delvecchio-offerta-quote-delfin-20261102"
+    },
+    {
+      "id": "cronaca-svizzera-rinuncia-rimborso-cure-crans-20261104",
+      "category": "Cronaca",
+      "title": "Crans-Montana, la Svizzera rinuncia al rimborso delle cure",
+      "eventKey": "svizzera-rinuncia-rimborso-cure-crans-20261104"
+    },
+    {
+      "id": "cronaca-garlasco-richiesta-processo-sempio-20261103",
+      "category": "Cronaca",
+      "title": "Garlasco, la Procura chiede il processo per Andrea Sempio",
+      "eventKey": "garlasco-richiesta-processo-sempio-20261103"
+    },
+    {
+      "id": "cronaca-bologna-ammonimento-atti-persecutori-20261103",
+      "category": "Cronaca",
+      "title": "Bologna, ammonito un uomo per le condotte verso l’ex compagna",
+      "eventKey": "bologna-ammonimento-atti-persecutori-20261103"
+    },
+    {
+      "id": "cronaca-genini-nuovo-sequestro-abitazione-20261103",
+      "category": "Cronaca",
+      "title": "Caso Genini, nuovo sequestro dell’appartamento di Milano",
+      "eventKey": "genini-nuovo-sequestro-abitazione-20261103"
+    },
+    {
+      "id": "cronaca-fiumicino-falsi-allarmi-due-voli-20261103",
+      "category": "Cronaca",
+      "title": "Fiumicino, negativi i controlli dopo gli allarmi su due voli",
+      "eventKey": "fiumicino-falsi-allarmi-due-voli-20261103"
+    },
+    {
+      "id": "roma-studio-tor-vergata-copatologia-parkinson-20261104",
+      "category": "Roma",
+      "title": "Tor Vergata, uno studio sul Parkinson e la copatologia Alzheimer",
+      "eventKey": "studio-tor-vergata-copatologia-parkinson-20261104"
+    },
+    {
+      "id": "roma-valmontone-ampliamento-area-commerciale-20261104",
+      "category": "Roma",
+      "title": "Valmontone, avviata una nuova fase di ampliamento commerciale",
+      "eventKey": "valmontone-ampliamento-area-commerciale-20261104"
+    },
+    {
+      "id": "roma-rome15k-programma-iscritti-20261108",
+      "category": "Roma",
+      "title": "Rome 15K, oltre cinquemila partecipanti attesi l’8 novembre",
+      "eventKey": "rome15k-programma-iscritti-20261108"
+    },
+    {
+      "id": "roma-coro-gocce-di-luce-inclusione-roma-20261104",
+      "category": "Roma",
+      "title": "Gocce di Luce, il coro romano che unisce vedenti e non vedenti",
+      "eventKey": "coro-gocce-di-luce-inclusione-roma-20261104"
+    },
+    {
+      "id": "roma-magliana-aggressione-dodicenne-20261103",
+      "category": "Roma",
+      "title": "Magliana, dodicenne ferito: le ricostruzioni restano discordanti",
+      "eventKey": "magliana-aggressione-dodicenne-20261103"
+    },
+    {
+      "id": "cultura-castaldo-stokholma-80-90-roma-20261205",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Castaldo e Stokholma portano all’Auditorium la sfida fra due decenni",
+      "eventKey": "castaldo-stokholma-80-90-roma-20261205"
+    },
+    {
+      "id": "cultura-japan-days-capannelle-programma-20261114",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Japan Days, due giornate di cultura giapponese a Capannelle",
+      "eventKey": "japan-days-capannelle-programma-20261114"
+    },
+    {
+      "id": "cultura-blue-friday-rimessa-fab-20261113",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Blue Friday parte con Simone Alessandrini Storytellers",
+      "eventKey": "blue-friday-rimessa-fab-20261113"
+    },
+    {
+      "id": "cultura-ricarda-guantario-personale-roma-20261113",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "A via Merulana una personale di Ricarda Guantario",
+      "eventKey": "ricarda-guantario-personale-roma-20261113"
+    },
+    {
+      "id": "cultura-francesco-santi-apostoli-incontri-20261107",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Ai Santi Apostoli quattro incontri su Francesco d’Assisi",
+      "eventKey": "francesco-santi-apostoli-incontri-20261107"
+    },
+    {
+      "id": "tecnologia-chatgpt-chat-work-unificazione-desktop-20261102",
+      "category": "Tecnologia · AI",
+      "title": "ChatGPT sperimenta l’unione di Chat e Work",
+      "eventKey": "chatgpt-chat-work-unificazione-desktop-20261102"
+    },
+    {
+      "id": "tecnologia-governatori-usa-impegni-data-center-ai-20261104",
+      "category": "Tecnologia · AI",
+      "title": "Data center AI, i governatori democratici annunciano nuovi vincoli",
+      "eventKey": "governatori-usa-impegni-data-center-ai-20261104"
+    },
+    {
+      "id": "tecnologia-anthropic-flashprove-ricerca-inferenza-20261104",
+      "category": "Tecnologia · AI",
+      "title": "FlashProve studia come certificare il modello dietro una risposta",
+      "eventKey": "anthropic-flashprove-ricerca-inferenza-20261104"
+    },
+    {
+      "id": "tecnologia-ubisoft-interesse-acquisizione-arkane-20261103",
+      "category": "Tecnologia · AI",
+      "title": "Arkane, Ubisoft tra i possibili acquirenti secondo un report",
+      "eventKey": "ubisoft-interesse-acquisizione-arkane-20261103"
+    },
+    {
+      "id": "tecnologia-gta6-annuncio-materiali-mappa-leonida-20261104",
+      "category": "Tecnologia · AI",
+      "title": "GTA 6, annunciati poster e mappa digitale per il lancio",
+      "eventKey": "gta6-annuncio-materiali-mappa-leonida-20261104"
+    },
+    {
+      "id": "sport-roma-ko-manchester-united",
+      "category": "Sport",
+      "title": "Roma battuta 3-2 dal Manchester United dopo il doppio vantaggio",
+      "eventKey": "roma-rimonta-subita-manchester-united-20261103"
+    },
+    {
+      "id": "sport-antonelli-mondiale-f1-2026",
+      "category": "Sport",
+      "title": "Kimi Antonelli conquista il Mondiale di Formula 1 2026",
+      "eventKey": "antonelli-campione-mondiale-f1-2026"
+    },
+    {
+      "id": "sport-berrettini-batte-nakashima-parigi",
+      "category": "Sport",
+      "title": "Berrettini supera Nakashima al Masters 1000 di Parigi",
+      "eventKey": "berrettini-vittoria-nakashima-parigi-20261103"
+    },
+    {
+      "id": "sport-giro2027-presentazione-percorso-20261103",
+      "category": "Sport",
+      "title": "Giro 2027, svelato il percorso da Trieste a Roma",
+      "eventKey": "giro2027-presentazione-percorso-20261103"
+    },
+    {
+      "id": "sport-cobolli-qualificazione-atp-finals-20261103",
+      "category": "Sport",
+      "title": "Cobolli conquista il posto alle ATP Finals",
+      "eventKey": "cobolli-qualificazione-atp-finals-20261103"
+    }
+  ],
+  "collectionId": "2026-11-04-mattina",
+  "reserveCounts": {
+    "Politica": 5,
+    "Esteri": 5,
+    "Economia": 5,
+    "Cronaca": 5,
+    "Roma": 5,
+    "Cultura · Teatro · Cinema": 5,
+    "Tecnologia · AI": 5,
+    "Sport": 5
+  },
+  "photoCandidates": [
+    {
+      "id": "politica-manovra-2027-esame-camera",
+      "category": "Politica",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg"
+    },
+    {
+      "id": "esteri-israele-consultazioni-herzog-20261104",
+      "category": "Esteri",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG"
+    },
+    {
+      "id": "roma-viabilita-celebrazioni-4-novembre-2026",
+      "category": "Roma",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bus_stop_in_Rome_01.jpg"
+    },
+    {
+      "id": "cultura-con-il-tuo-amore-casa-cinema-20261104",
+      "category": "Cultura · Teatro · Cinema",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Villa_Borghese_-_Casa_del_Cinema_P1020818.JPG"
+    },
+    {
+      "id": "sport-inter-chivu-vittoria-feyenoord",
+      "category": "Sport",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg"
+    }
+  ],
+  "photosAvailable": 5,
+  "categoryProgress": {
+    "politica": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "esteri": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "economia": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "cronaca": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "roma": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "cultura": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "tecnologia": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    },
+    "sport": {
+      "base": 5,
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
+    }
+  },
+  "editionId": "2026-11-04-batches-e17b5b4d5531",
+  "needsPublication": false,
+  "publicVerifiedAt": "2026-11-04T11:36:17.758454+00:00",
+  "publicEditionId": "2026-11-04-batches-e17b5b4d5531",
+  "publication": "verified"
+}

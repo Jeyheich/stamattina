@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-04",
+  "collectionId": "2026-11-04-pomeriggio",
+  "category": "Roma",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-04T16:18:09Z",
+  "articles": [
+    {
+      "id": "roma-mattarella-altare-patria-4nov-2026",
+      "eventKey": "cerimonia-mattarella-milite-ignoto-4-novembre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Mattarella rende omaggio al Milite Ignoto a Roma",
+      "summary": "Il Presidente della Repubblica ha deposto una corona d'alloro all'Altare della Patria durante le celebrazioni del 4 novembre.",
+      "body": [
+        "La cerimonia si è svolta in piazza Venezia alla presenza del ministro della Difesa e delle autorità istituzionali. Il programma della giornata comprende anche iniziative al Circo Massimo.",
+        "Le celebrazioni del 2026 hanno dato particolare spazio al ricordo dei militari italiani morti nell'incidente in Bosnia."
+      ],
+      "publishedAt": "2026-11-04T12:01:00+01:00",
+      "verifiedAt": "2026-11-04T16:18:09Z",
+      "source": {
+        "name": "Roma Netweek",
+        "url": "https://romanetweek.it/roma/4-novembre-a-roma-le-celebrazioni-per-unita-e-forze-armate/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T16:18:09Z",
+        "dateEvidence": "Articolo datato 4 novembre 2026, ore 12:01, letto nella pagina dell'editore.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}

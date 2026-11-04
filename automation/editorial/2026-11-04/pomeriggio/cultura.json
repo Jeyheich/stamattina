@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-04",
+  "collectionId": "2026-11-04-pomeriggio",
+  "category": "Cultura · Teatro · Cinema",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-04T16:18:09Z",
+  "articles": [
+    {
+      "id": "cultura-musei-statali-gratis-4nov-2026",
+      "eventKey": "ingresso-gratuito-musei-statali-4-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Musei statali gratuiti per la ricorrenza del 4 novembre",
+      "summary": "Il Ministero della Cultura conferma l'ingresso gratuito il 4 novembre in numerosi musei e luoghi statali, tra cui Palazzo Altemps e Castel Sant'Angelo.",
+      "body": [
+        "La pagina istituzionale elenca le sedi aderenti alla giornata di apertura gratuita. Le modalità di visita restano quelle delle singole strutture, con prenotazione dove prevista.",
+        "L'iniziativa è legata alla Giornata dell'Unità nazionale e delle Forze Armate; la data indicata è quella dell'evento, non una data di pubblicazione attribuita arbitrariamente."
+      ],
+      "publishedAt": "2026-11-04",
+      "verifiedAt": "2026-11-04T16:18:09Z",
+      "source": {
+        "name": "Ministero della Cultura",
+        "url": "https://cultura.gov.it/evento/4-novembre-2026",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T16:18:09Z",
+        "dateEvidence": "Calendario ufficiale del Ministero della Cultura: evento del 4 novembre 2026; data di pubblicazione non specificata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "dateKind": "event",
+      "eventDate": "2026-11-04"
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}

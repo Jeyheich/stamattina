@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-04",
+  "collectionId": "2026-11-04-pomeriggio",
+  "category": "Economia",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-04T16:15:19+01:00",
+  "articles": [
+    {
+      "id": "economia-ms-utili-semestrali-ripresa-cyberattacco-20261104",
+      "eventKey": "marks-spencer-utili-semestrali-recupero-cyberattacco-20261104",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Marks & Spencer, utili semestrali a 355 milioni di sterline dopo l'attacco informatico",
+      "summary": "Il gruppo britannico registra una ripresa dei profitti nei sei mesi terminati il 26 settembre, pur segnalando effetti prolungati dell'attacco informatico del 2025.",
+      "body": [
+        "Marks & Spencer ha comunicato profitti per 355 milioni di sterline nel semestre, contro 3,4 milioni nello stesso periodo dell'anno precedente. Le vendite complessive sono cresciute del 16,2% a 9,2 miliardi di sterline.",
+        "Il gruppo ha spiegato che l'attacco informatico iniziato nella primavera 2025 ha condizionato le procedure di approvvigionamento e la disponibilità dei prodotti più a lungo del previsto. La direzione considera ora superati gli effetti operativi più gravi."
+      ],
+      "publishedAt": "2026-11-04T09:17:00+01:00",
+      "verifiedAt": "2026-11-04T16:15:19+01:00",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T16:15:19+01:00",
+        "dateEvidence": "Pagina Guardian: First published on Wed 4 Nov 2026 09.17 CET; aggiornata alle 13.34 CET.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveDraft": []
+}
