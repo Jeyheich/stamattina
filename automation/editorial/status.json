@@ -1,14 +1,13 @@
 {
   "editionDate": "2026-11-04",
-  "checkedAt": "2026-11-04T11:29:11.401Z",
+  "checkedAt": "2026-11-04T11:30:01.674Z",
   "ready": true,
   "editorialComplete": false,
   "reserveMissing": [
     "politica",
     "esteri",
     "economia",
-    "cronaca",
-    "sport"
+    "cronaca"
   ],
   "completed": [
     "politica",
@@ -353,6 +352,36 @@
       "category": "Tecnologia · AI",
       "title": "GTA 6, annunciati poster e mappa digitale per il lancio",
       "eventKey": "gta6-annuncio-materiali-mappa-leonida-20261104"
+    },
+    {
+      "id": "sport-roma-ko-manchester-united",
+      "category": "Sport",
+      "title": "Roma battuta 3-2 dal Manchester United dopo il doppio vantaggio",
+      "eventKey": "roma-rimonta-subita-manchester-united-20261103"
+    },
+    {
+      "id": "sport-antonelli-mondiale-f1-2026",
+      "category": "Sport",
+      "title": "Kimi Antonelli conquista il Mondiale di Formula 1 2026",
+      "eventKey": "antonelli-campione-mondiale-f1-2026"
+    },
+    {
+      "id": "sport-berrettini-batte-nakashima-parigi",
+      "category": "Sport",
+      "title": "Berrettini supera Nakashima al Masters 1000 di Parigi",
+      "eventKey": "berrettini-vittoria-nakashima-parigi-20261103"
+    },
+    {
+      "id": "sport-giro2027-presentazione-percorso-20261103",
+      "category": "Sport",
+      "title": "Giro 2027, svelato il percorso da Trieste a Roma",
+      "eventKey": "giro2027-presentazione-percorso-20261103"
+    },
+    {
+      "id": "sport-cobolli-qualificazione-atp-finals-20261103",
+      "category": "Sport",
+      "title": "Cobolli conquista il posto alle ATP Finals",
+      "eventKey": "cobolli-qualificazione-atp-finals-20261103"
     }
   ],
   "collectionId": "2026-11-04-mattina",
@@ -364,7 +393,7 @@
     "Roma": 5,
     "Cultura · Teatro · Cinema": 5,
     "Tecnologia · AI": 5,
-    "Sport": 0
+    "Sport": 5
   },
   "photoCandidates": [
     {
@@ -439,14 +468,11 @@
     },
     "sport": {
       "base": 5,
-      "reserve": 0,
-      "draft": 3,
-      "complete": false
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
     }
   },
-  "editionId": "2026-11-04-batches-72174fd9cf70",
-  "needsPublication": false,
-  "publicVerifiedAt": "2026-11-04T11:29:47.589357+00:00",
-  "publicEditionId": "2026-11-04-batches-72174fd9cf70",
-  "publication": "verified"
+  "editionId": "2026-11-04-batches-09b5c9073fd2",
+  "needsPublication": true
 }
