@@ -1,25 +1,46 @@
 {
   "editionDate": "2026-11-04",
-  "checkedAt": "2026-11-04T11:34:53.560Z",
-  "ready": true,
+  "checkedAt": "2026-11-04T11:35:20.030Z",
+  "ready": false,
   "editorialComplete": false,
-  "reserveMissing": [
-    "politica",
-    "economia"
-  ],
-  "completed": [
-    "politica",
-    "esteri",
-    "economia",
-    "cronaca",
-    "roma",
-    "cultura",
-    "tecnologia",
-    "sport"
-  ],
+  "reserveMissing": [],
+  "completed": [],
   "inProgress": [],
   "missing": [],
-  "invalid": [],
+  "invalid": [
+    {
+      "slug": "politica",
+      "reason": "Controllo fonte/foto fallito: consultare sourceErrors"
+    },
+    {
+      "slug": "esteri",
+      "reason": "Controllo fonte/foto fallito: consultare sourceErrors"
+    },
+    {
+      "slug": "economia",
+      "reason": "Controllo fonte/foto fallito: consultare sourceErrors"
+    },
+    {
+      "slug": "cronaca",
+      "reason": "Controllo fonte/foto fallito: consultare sourceErrors"
+    },
+    {
+      "slug": "roma",
+      "reason": "Controllo fonte/foto fallito: consultare sourceErrors"
+    },
+    {
+      "slug": "cultura",
+      "reason": "Controllo fonte/foto fallito: consultare sourceErrors"
+    },
+    {
+      "slug": "tecnologia",
+      "reason": "Controllo fonte/foto fallito: consultare sourceErrors"
+    },
+    {
+      "slug": "sport",
+      "reason": "Controllo fonte/foto fallito: consultare sourceErrors"
+    }
+  ],
   "stories": [
     {
       "id": "politica-mattarella-difesa-comune-ue-20261103",
@@ -262,6 +283,36 @@
       "eventKey": "tennis-parigi-rublev-etcheverry-risultato-20261103"
     },
     {
+      "id": "politica-camera-calendario-autonomia-gennaio2027",
+      "category": "Politica",
+      "title": "Autonomia, la Camera fissa a gennaio l’esame delle intese",
+      "eventKey": "camera-calendario-autonomia-gennaio2027"
+    },
+    {
+      "id": "politica-camera-scontro-ascari-abu-safiya-20261103",
+      "category": "Politica",
+      "title": "Camera, scontro tra FdI e M5S sulla conferenza promossa da Ascari",
+      "eventKey": "camera-scontro-ascari-abu-safiya-20261103"
+    },
+    {
+      "id": "politica-funerali-stato-militari-bosnia-20261103",
+      "category": "Politica",
+      "title": "A Roma i funerali di Stato dei quattro militari morti in Bosnia",
+      "eventKey": "funerali-stato-militari-bosnia-20261103"
+    },
+    {
+      "id": "politica-campo-largo-tavoli-programma-taruffi-20261102",
+      "category": "Politica",
+      "title": "Campo largo, Taruffi indica i tempi del lavoro sul programma",
+      "eventKey": "campo-largo-tavoli-programma-taruffi-20261102"
+    },
+    {
+      "id": "politica-camera-finanze-question-time-20261104",
+      "category": "Politica",
+      "title": "Commissione Finanze, interrogazioni al Mef nel pomeriggio",
+      "eventKey": "camera-finanze-question-time-20261104"
+    },
+    {
       "id": "esteri-belgio-dimissioni-offerte-de-wever-20261102",
       "category": "Esteri",
       "title": "Belgio, De Wever offre le dimissioni dopo lo stallo sul bilancio",
@@ -290,6 +341,36 @@
       "category": "Esteri",
       "title": "Karl Bushby torna a Hull dopo ventotto anni di viaggio",
       "eventKey": "karl-bushby-ritorno-hull-20261102"
+    },
+    {
+      "id": "economia-arkea-transazioni-fraudolente-20261104",
+      "category": "Economia",
+      "title": "Arkéa comunica un attacco informatico alla banca",
+      "eventKey": "arkea-transazioni-fraudolente-20261104"
+    },
+    {
+      "id": "economia-intesa-risultati-nove-mesi-2026",
+      "category": "Economia",
+      "title": "Intesa Sanpaolo, utile di 8,2 miliardi nei nove mesi",
+      "eventKey": "intesa-risultati-nove-mesi-2026"
+    },
+    {
+      "id": "economia-exilva-avvio-spegnimento-altiforni-20261103",
+      "category": "Economia",
+      "title": "Ex Ilva, iniziate le operazioni di spegnimento degli altiforni",
+      "eventKey": "exilva-avvio-spegnimento-altiforni-20261103"
+    },
+    {
+      "id": "economia-immatricolazioni-italia-ottobre-2026",
+      "category": "Economia",
+      "title": "Auto, immatricolazioni italiane in crescita a ottobre",
+      "eventKey": "immatricolazioni-italia-ottobre-2026"
+    },
+    {
+      "id": "economia-delvecchio-offerta-quote-delfin-20261102",
+      "category": "Economia",
+      "title": "Del Vecchio propone ai soci di acquistare le quote Delfin",
+      "eventKey": "delvecchio-offerta-quote-delfin-20261102"
     },
     {
       "id": "cronaca-svizzera-rinuncia-rimborso-cure-crans-20261104",
@@ -444,9 +525,9 @@
   ],
   "collectionId": "2026-11-04-mattina",
   "reserveCounts": {
-    "Politica": 0,
+    "Politica": 5,
     "Esteri": 5,
-    "Economia": 0,
+    "Economia": 5,
     "Cronaca": 5,
     "Roma": 5,
     "Cultura · Teatro · Cinema": 5,
@@ -484,9 +565,9 @@
   "categoryProgress": {
     "politica": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "esteri": {
       "base": 5,
@@ -496,9 +577,9 @@
     },
     "economia": {
       "base": 5,
-      "reserve": 0,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "cronaca": {
       "base": 5,
@@ -531,9 +612,8 @@
       "complete": true
     }
   },
-  "editionId": "2026-11-04-batches-6d2664167f97",
+  "editionId": "2026-11-04-batches-e17b5b4d5531",
   "needsPublication": false,
-  "publicEditionId": "2026-11-04-batches-6d2664167f97",
-  "publicVerifiedAt": "2026-11-04T11:34:54.988611+00:00",
-  "publication": "verified"
+  "blocked": true,
+  "sourceErrors": "e insufficiente; check_article: economia-arkea-transazioni-fraudolente-20261104: economia-arkea-transazioni-fraudolente-20261104: contenuto verificabile insufficiente; check_article: economia-immatricolazioni-italia-ottobre-2026: economia-immatricolazioni-italia-ottobre-2026: contenuto verificabile insufficiente; check_article: economia-delvecchio-offerta-quote-delfin-20261102: economia-delvecchio-offerta-quote-delfin-20261102: contenuto verificabile insufficiente\npolitica-ue-tetto-alunni-stranieri-20261103: fonte raggiungibile\nesteri-usa-midterm-congresso-proiezioni-20261104: fonte raggiungibile\npolitica-governo-attacco-frigoriferi-supermercati-20261103: fonte raggiungibile\npolitica-manovra-2027-esame-camera: fonte raggiungibile\nesteri-harvard-hum10-corso-senza-ai-20261104: fonte raggiungibile\npolitica-vannacci-cene-marcia-roma-20261102: fonte raggiungibile\nesteri-yemen-taiz-allarme-umanitario-onu-20261104: fonte raggiungibile\nesteri-ucraina-incontro-ricostruzione-bruxelles-20261104: fonte raggiungibile\neconomia-kelloggs-ricetta-cereali-uk-20261104: fonte raggiungibile\neconomia-poundland-fornitori-rischio-crisi-20261104: fonte raggiungibile\neconomia-bmw-revisione-obiettivi-2026: fonte raggiungibile\npolitica-mattarella-difesa-comune-ue-20261103: fonte raggiungibile\nesteri-israele-consultazioni-herzog-20261104: fonte raggiungibile\ncronaca-casarano-incidente-cancello-20261104: fonte raggiungibile\neconomia-aumento-gas-vulnerabili-ottobre-2026: fonte raggiungibile\ncronaca-meteo-perturbazione-7-8-novembre-2026: fonte raggiungibile\ncronaca-milano-richiesta-giudizio-maltrattamenti-manager-20261104: fonte raggiungibile\ncronaca-cremona-caso-dengue-disinfestazione-20261103: fonte raggiungibile\ncronaca-operazione-sweet-strip-arresti-20261104: fonte raggiungibile\neconomia-istat-istruzione-occupazione-2025: fonte raggiungibile\nroma-viabilita-celebrazioni-4-novembre-2026: fonte raggiungibile\nroma-botteghe-oscure-apertura-thompson-rome-20261104: fonte raggiungibile\nroma-storni-viale-jonio-disagi-20261104: fonte raggiungibile\nroma-lavinio-aggressione-tre-arresti-20261104: fonte raggiungibile\nroma-castelverde-fiaccolata-legalita-20261103: fonte raggiungibile\ncultura-henze-voices-roma-4-novembre-2026: fonte raggiungibile\ncultura-jarrett-roma-ascolto-auditorium-20261105: fonte raggiungibile\ncultura-con-il-tuo-amore-casa-cinema-20261104: fonte raggiungibile\ntecnologia-openai-premi-bug-bounty: fonte raggiungibile\ncultura-sara-milani-atodomodo-20261107: fonte raggiungibile\ncultura-beethoven-sestetto-ariccia-20261108: fonte raggiungibile\ntecnologia-gran-turismo-dualsense-speciale: fonte raggiungibile\ntecnologia-xbox-cloud-pacchetti-ore: fonte raggiungibile\nsport-fifpro-top11-candidati-italiani: fonte raggiungibile\nsport-napoli-allegri-vigilia-porto: fonte raggiungibile\nsport-como-fabregas-vigilia-lens: fonte raggiungibile\ntecnologia-google-botnet-videostrong: fonte raggiungibile\ntecnologia-brave-causa-editori-ai: fonte raggiungibile\npolitica-campo-largo-tavoli-programma-taruffi-20261102: fonte raggiungibile\nsport-inter-chivu-vittoria-feyenoord: fonte raggiungibile\npolitica-funerali-stato-militari-bosnia-20261103: fonte raggiungibile\nesteri-belgio-dimissioni-offerte-de-wever-20261102: fonte raggiungibile\nesteri-praga-protesta-emittenti-pubbliche-20261103: fonte raggiungibile\nsport-tennis-parigi-rublev-etcheverry: fonte raggiungibile\nesteri-spagna-dimissioni-oscar-puente-20261103: fonte raggiungibile\npolitica-camera-scontro-ascari-abu-safiya-20261103: fonte raggiungibile\nesteri-florida-inchiesta-learjet-profilo-copilota-20261103: fonte raggiungibile\nesteri-karl-bushby-ritorno-hull-20261102: fonte raggiungibile\npolitica-camera-calendario-autonomia-gennaio2027: fonte raggiungibile\neconomia-exilva-avvio-spegnimento-altiforni-20261103: fonte raggiungibile\ncronaca-svizzera-rinuncia-rimborso-cure-crans-20261104: fonte raggiungibile\npolitica-camera-finanze-question-time-20261104: fonte raggiungibile\ncronaca-genini-nuovo-sequestro-abitazione-20261103: fonte raggiungibile\ncronaca-fiumicino-falsi-allarmi-due-voli-20261103: fonte raggiungibile\ncronaca-garlasco-richiesta-processo-sempio-20261103: fonte raggiungibile\ncronaca-bologna-ammonimento-atti-persecutori-20261103: fonte raggiungibile\nroma-studio-tor-vergata-copatologia-parkinson-20261104: fonte raggiungibile\nroma-valmontone-ampliamento-area-commerciale-20261104: fonte raggiungibile\nroma-coro-gocce-di-luce-inclusione-roma-20261104: fonte raggiungibile\nroma-rome15k-programma-iscritti-20261108: fonte raggiungibile\nroma-magliana-aggressione-dodicenne-20261103: fonte raggiungibile\ncultura-castaldo-stokholma-80-90-roma-20261205: fonte raggiungibile\ntecnologia-chatgpt-chat-work-unificazione-desktop-20261102: fonte raggiungibile\ncultura-blue-friday-rimessa-fab-20261113: fonte raggiungibile\ncultura-japan-days-capannelle-programma-20261114: fonte raggiungibile\ncultura-ricarda-guantario-personale-roma-20261113: fonte raggiungibile\ncultura-francesco-santi-apostoli-incontri-20261107: fonte raggiungibile\ntecnologia-gta6-annuncio-materiali-mappa-leonida-20261104: fonte raggiungibile\ntecnologia-ubisoft-interesse-acquisizione-arkane-20261103: fonte raggiungibile\nsport-berrettini-batte-nakashima-parigi: fonte raggiungibile\nsport-roma-ko-manchester-united: fonte raggiungibile\ntecnologia-governatori-usa-impegni-data-center-ai-20261104: fonte raggiungibile\nsport-antonelli-mondiale-f1-2026: fonte raggiungibile\nsport-cobolli-qualificazione-atp-finals-20261103: fonte raggiungibile\npolitica-manovra-2027-esame-camera: fotografia e licenza verificate\nesteri-israele-consultazioni-herzog-20261104: fotografia e licenza verificate\nsport-giro2027-presentazione-percorso-20261103: fonte raggiungibile\nsport-inter-chivu-vittoria-feyenoord: fotografia e licenza verificate\ncultura-con-il-tuo-amore-casa-cinema-20261104: fotografia e licenza verificate\nroma-viabilita-celebrazioni-4-novembre-2026: fotografia e licenza verificate\ntecnologia-anthropic-flashprove-ricerca-inferenza-20261104: fonte raggiungibile\n"
 }
