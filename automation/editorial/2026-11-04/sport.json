@@ -127,8 +127,7 @@
       }
     }
   ],
-  "reserveArticles": [],
-  "reserveDraft": [
+  "reserveArticles": [
     {
       "id": "sport-roma-ko-manchester-united",
       "eventKey": "roma-rimonta-subita-manchester-united-20261103",
@@ -141,12 +140,12 @@
         "La squadra inglese ha ribaltato il risultato nella ripresa, con un rigore di Bruno Fernandes e una doppietta di Cunha."
       ],
       "publishedAt": "2026-11-03T23:28:00+01:00",
-      "verifiedAt": "2026-11-04T06:04:41.689Z",
+      "verifiedAt": "2026-11-04T11:29:30.073591+00:00",
       "source": {
         "name": "Sky Sport",
         "url": "https://sport.sky.it/calcio/champions-league/2026/11/03/man-united-roma-pagelle",
         "access": "free",
-        "accessCheckedAt": "2026-11-04T06:04:41.689Z",
+        "accessCheckedAt": "2026-11-04T11:29:30.073591+00:00",
         "dateEvidence": "La pagina pagelle è datata 03 nov 2026 - 23:28 e riporta risultato e marcatori.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -163,12 +162,12 @@
         "Il resoconto della stagione evidenzia i successi in Cina, Giappone e Monza e la crescita del pilota italiano."
       ],
       "publishedAt": "2026-11-01T23:28:00+01:00",
-      "verifiedAt": "2026-11-04T06:04:41.689Z",
+      "verifiedAt": "2026-11-04T11:29:30.073591+00:00",
       "source": {
         "name": "Sky Sport",
         "url": "https://sport.sky.it/formula-1/f1-kimi-antonelli-mondiale-2026",
         "access": "free",
-        "accessCheckedAt": "2026-11-04T06:04:41.689Z",
+        "accessCheckedAt": "2026-11-04T11:29:30.073591+00:00",
         "dateEvidence": "Il riepilogo del titolo mondiale è datato 01 nov 2026 - 23:28, entro 72 ore.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -184,16 +183,58 @@
         "Matteo Berrettini ha battuto Brandon Nakashima in tre set, 6-4, 3-6, 7-6, conquistando la prima vittoria in carriera nel Masters 1000 di Parigi."
       ],
       "publishedAt": "2026-11-03T17:09:00+01:00",
-      "verifiedAt": "2026-11-04T07:06:20.574Z",
+      "verifiedAt": "2026-11-04T11:29:30.073591+00:00",
       "source": {
         "name": "Sky Sport",
         "url": "https://sport.sky.it/tennis/video/2026/11/03/berrettini-nakashima-atp-parigi-highlights-1137063",
         "access": "free",
-        "accessCheckedAt": "2026-11-04T07:06:20.574Z",
+        "accessCheckedAt": "2026-11-04T11:29:30.073591+00:00",
         "dateEvidence": "La pagina Sky Sport riporta 03 nov 2026 - 17:09 e il risultato 6-4, 3-6, 7-6.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-giro2027-presentazione-percorso-20261103",
+      "eventKey": "giro2027-presentazione-percorso-20261103",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Giro 2027, svelato il percorso da Trieste a Roma",
+      "summary": "La corsa si svolgerà dall’8 al 30 maggio, con ventuno tappe e passaggi sulle grandi salite alpine.",
+      "body": [
+        "Sky Sport riporta la presentazione del 3 novembre all’Auditorium di Roma. Il programma comprende Mortirolo, Gavia e Zoncolan: è l’annuncio della corsa del prossimo anno, non un risultato sportivo già ottenuto."
+      ],
+      "publishedAt": "2026-11-03T13:45:00+01:00",
+      "verifiedAt": "2026-11-04T11:29:30.073667+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/ciclismo/2026/11/03/giro-d-italia-2027-percorso-tappe",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:29:30.073667+00:00",
+        "dateEvidence": "La pagina Sky Sport indica 03 nov 2026 - 13:45; presentazione del percorso del Giro 2027.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-cobolli-qualificazione-atp-finals-20261103",
+      "eventKey": "cobolli-qualificazione-atp-finals-20261103",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Cobolli conquista il posto alle ATP Finals",
+      "summary": "Il tennista romano è aritmeticamente qualificato per il torneo di Torino.",
+      "body": [
+        "Secondo Sky Sport è decisiva la sconfitta di Jodar a Parigi. Per Cobolli sarà la prima partecipazione in singolare; restano da valutare le condizioni fisiche in vista del torneo dal 15 al 22 novembre."
+      ],
+      "publishedAt": "2026-11-03T22:32:00+01:00",
+      "verifiedAt": "2026-11-04T11:29:30.073670+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/atp-finals-2026-race-torino-classifica",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:29:30.073670+00:00",
+        "dateEvidence": "Pagina Sky Sport: 03 nov 2026 - 22:32; sezione Cobolli qualificato aritmeticamente alle ATP Finals.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ],
-  "lastAttemptAt": "2026-11-04T07:06:20.574Z"
+  "lastAttemptAt": "2026-11-04T11:29:30.073735+00:00"
 }
