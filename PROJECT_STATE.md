@@ -1,5 +1,15 @@
 # Stamattina — checkpoint 27 ottobre 2026
 
+## Diagnosi tecnica — 4 novembre 2026, mattina
+- Baseline remota osservata: main 7e3df1e; richiesta attuale limita le modifiche ai guasti tecnici di pubblicazione, senza UI, servizi, credenziali o variazioni di orari.
+- Ciclo 2026-11-04-mattina: 15 principali presenti (5 Tecnologia, 5 Sport, 1 ciascuna Politica/Economia/Cronaca/Roma/Cultura), Esteri assente; zero reserveArticles completi, 5 reserveDraft (2 Tecnologia, 3 Sport), zero foto. I conteggi sono file salvati, non una nuova verifica giornalistica.
+- Run 41789954314 riuscita ma promozione, controlli fonti e deploy saltati: ready=false. Pubblico verificato senza cache: 2026-11-02-batches-854a18d527ad, ciclo 2026-11-02-pomeriggio, 80 articoli/40 riserve.
+- Bug riprodotto all'orario della run: reserveArticles=[] invalidava anche le cinque principali. Corretto distinguendo array vuoto da riserve malformate o 1–4; test di regressione aggiunti. Riserve assenti/vuote restano incomplete, nessuna deroga ai 40+40.
+- Workflow fonti: shell bash esplicita abilita -eo pipefail, impedendo che tee nasconda il fallimento del validatore prima del controllo HTTP. Nessuna modifica degli orari.
+- Test test_batches.mjs e diff --check superati. Replay 07:06Z: Tecnologia/Sport riconosciute 5+0, ready=false. Al controllo 10:32Z tutte le verifiche salvate superano tre ore: da rileggere realmente, nessun timestamp aggiornato artificialmente.
+- Dossier ancora del 27 ottobre; ultima run candidati esaminata 41712100102 (3 novembre 20:23Z) ha saltato raccolta/salvataggio per il gate orario. Non prova una raccolta odierna e non basta per attribuire un guasto al raccoglitore.
+- Residuo: produzione/verifica dei contenuti mancanti e cinque foto; ripristino tecnico non equivale a pubblicazione della mattutina. Decisioni correnti: BATCH_BRIEF.md e richiesta più recente prevalgono sulle sezioni storiche sotto.
+
 ## Decisioni approvate
 - PWA personale su https://jeyheich.github.io/stamattina/, solo Plus già pagato e GitHub: zero costi aggiuntivi, niente API AI esterne. Fabio autorizza quota condivisa e scritture automatiche e rivaluterà il consumo.
 - Cinque fatti distinti per ciascuna delle otto categorie, Sport incluso: 40 articoli, cinque principali con foto autentiche, cinque essenziali sugli stessi articoli e 35 compatte. Date/fonti gratuite/attribuzioni verificabili, repertorio dichiarato.

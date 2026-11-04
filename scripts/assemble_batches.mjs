@@ -53,7 +53,7 @@ export function assemble(blocks,today=romeDay(),now=Date.now()){
     try{
       const partial=blocks[slug].status==='in-progress';validateBlock(blocks[slug],slug,today,now,partial);
       if(partial){state.inProgress.push({slug,count:blocks[slug].articles.length});state.stories.push(...blocks[slug].articles.map(({id,category,title,eventKey})=>({id,category,title,eventKey,pending:true})));}
-      else{if(blocks[slug].reserveArticles!==undefined){validateBlock({...blocks[slug],articles:blocks[slug].reserveArticles},slug,today,now);reserves.push(...blocks[slug].reserveArticles.map(a=>{const copy={...a};delete copy.image;delete copy.leadPriority;return copy;}));}state.completed.push(slug);articles.push(...blocks[slug].articles);}
+      else{if(blocks[slug].reserveArticles!==undefined&&!(Array.isArray(blocks[slug].reserveArticles)&&blocks[slug].reserveArticles.length===0)){validateBlock({...blocks[slug],articles:blocks[slug].reserveArticles},slug,today,now);reserves.push(...blocks[slug].reserveArticles.map(a=>{const copy={...a};delete copy.image;delete copy.leadPriority;return copy;}));}state.completed.push(slug);articles.push(...blocks[slug].articles);}
     }
     catch(e){state.invalid.push({slug,reason:e.message});}
   }

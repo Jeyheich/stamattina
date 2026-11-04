@@ -23,6 +23,17 @@ assert.deepEqual(assemble(partial,today,now).state.missing,['sport']);
 const progress=structuredClone(blocks);progress.sport.status='in-progress';progress.sport.lastAttemptAt=stamp;delete progress.sport.completedAt;progress.sport.articles=progress.sport.articles.slice(0,3);
 assert.equal(assemble(progress,today,now).edition,undefined);assert.deepEqual(assemble(progress,today,now).state.inProgress,[{slug:'sport',count:3}]);
 const complete=assemble(blocks,today,now);assert.equal(complete.state.ready,true);
+const emptyReserve=structuredClone(blocks);
+for(const b of Object.values(emptyReserve))b.reserveArticles=[];
+const emptyResult=assemble(emptyReserve,today,now);
+assert.equal(emptyResult.state.ready,true,'Una riserva vuota conserva le cinque principali valide');
+assert.equal(emptyResult.state.categoryProgress.tecnologia.base,5);
+assert.equal(emptyResult.state.editorialComplete,false,'Riserve vuote non completano 40+40');
+assert.equal(emptyResult.state.reserveMissing.length,8);
+for(const value of [null,{},...Array.from({length:4},(_,i)=>blocks.sport.articles.slice(0,i+1))]){
+ const malformed=structuredClone(blocks);malformed.sport.reserveArticles=value;
+ assert.equal(assemble(malformed,today,now).edition,undefined,'Riserve malformate o da 1–4 non pubblicano');
+}
 assert.equal(complete.edition.articles.length,40);assert.equal(complete.edition.compactIds.length,35);
 assert.equal(complete.edition.leadIds.length,5);
 const extraPhoto=structuredClone(blocks);extraPhoto.sport.articles[0].image=structuredClone(photos[0]);extraPhoto.sport.articles[0].image.sourceUrl+='?fixture=distinct';
