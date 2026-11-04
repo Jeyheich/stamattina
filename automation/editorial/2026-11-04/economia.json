@@ -110,5 +110,113 @@
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
-  ]
+  ],
+  "reserveArticles": [
+    {
+      "id": "economia-arkea-transazioni-fraudolente-20261104",
+      "eventKey": "arkea-transazioni-fraudolente-20261104",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Arkéa comunica un attacco informatico alla banca",
+      "summary": "L’istituto francese afferma di avere messo sotto controllo la situazione e sospeso temporaneamente alcune operazioni.",
+      "body": [
+        "AGI cita transazioni fraudolente per 133 milioni di dollari secondo Le Télégramme, precisando che la banca non conferma l’importo. Arkéa dichiara che non ci saranno conseguenze finanziarie per i clienti."
+      ],
+      "publishedAt": "2026-11-04",
+      "verifiedAt": "2026-11-04T11:35:04.653400+00:00",
+      "source": {
+        "name": "AGI",
+        "url": "https://www.agi.it/economia/news/2026-11-04/francia-attacco-cyber-banca-39874293/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:35:04.653400+00:00",
+        "dateEvidence": "Pagina AGI datata 04 novembre 2026; testo distingue l’importo riportato da Le Télégramme dalla conferma della banca.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-intesa-risultati-nove-mesi-2026",
+      "eventKey": "intesa-risultati-nove-mesi-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Intesa Sanpaolo, utile di 8,2 miliardi nei nove mesi",
+      "summary": "Il gruppo presenta risultati in crescita e alza le prospettive di utile per il 2026.",
+      "body": [
+        "AGI riporta un aumento dell’8,1% rispetto ai primi nove mesi del 2025. Carlo Messina conferma la fiducia nell’operazione Mps e il gruppo aggiorna il concambio: le previsioni restano distinte dai risultati già conseguiti."
+      ],
+      "publishedAt": "2026-11-03",
+      "verifiedAt": "2026-11-04T11:35:04.653484+00:00",
+      "source": {
+        "name": "AGI",
+        "url": "https://www.agi.it/economia/news/2026-11-03/utili-intesa-mps-39857480/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:35:04.653484+00:00",
+        "dateEvidence": "AGI, Annalisa Cretella, 03 novembre 2026; letto il testo sui risultati e sulla conference call del gruppo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-exilva-avvio-spegnimento-altiforni-20261103",
+      "eventKey": "exilva-avvio-spegnimento-altiforni-20261103",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Ex Ilva, iniziate le operazioni di spegnimento degli altiforni",
+      "summary": "L’azienda comunica ai sindacati l’avvio delle operazioni dopo la decisione della Cassazione.",
+      "body": [
+        "Sky TG24 riferisce lo stop dell’area a caldo e le richieste sindacali per lavoratori e indotto. I tempi di completamento e le ripartenze di altri reparti restano programmi distinti dalla chiusura degli altiforni."
+      ],
+      "publishedAt": "2026-11-03T12:45:00+01:00",
+      "verifiedAt": "2026-11-04T11:35:04.653489+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/03/ex-ilva-taranto-spegnimento-altiforni",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:35:04.653489+00:00",
+        "dateEvidence": "Sky TG24: 03 nov 2026 - 12:45; testo sull’avvio delle operazioni di spegnimento, non soltanto sulla sentenza.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-immatricolazioni-italia-ottobre-2026",
+      "eventKey": "immatricolazioni-italia-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Auto, immatricolazioni italiane in crescita a ottobre",
+      "summary": "Nel mese sono state immatricolate 131.921 vetture, il 4,81% in più rispetto a un anno prima.",
+      "body": [
+        "AGI riporta i dati del Ministero delle Infrastrutture e dei Trasporti: i primi dieci mesi segnano un aumento dell’8,32%. Il recupero resta incompleto rispetto ai livelli del 2019."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-04T11:35:04.653515+00:00",
+      "source": {
+        "name": "AGI",
+        "url": "https://www.agi.it/economia/news/2026-11-02/auto-mercato-immatricolazioni-dati-39838052/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:35:04.653515+00:00",
+        "dateEvidence": "Pagina AGI datata 02 novembre 2026; dati MIT sulle immatricolazioni di ottobre e primi dieci mesi.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-delvecchio-offerta-quote-delfin-20261102",
+      "eventKey": "delvecchio-offerta-quote-delfin-20261102",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Del Vecchio propone ai soci di acquistare le quote Delfin",
+      "summary": "Leonardo Maria Del Vecchio descrive in una lettera una nuova offerta e la disponibilità di finanziamento bancario.",
+      "body": [
+        "Il resoconto AGI del 2 novembre parla di acquisto immediato o diluito nel tempo e di rinuncia ad azioni legali. La proposta non viene presentata come un accordo già accettato dagli altri soci."
+      ],
+      "publishedAt": "2026-11-02",
+      "verifiedAt": "2026-11-04T11:35:04.653538+00:00",
+      "source": {
+        "name": "AGI",
+        "url": "https://www.agi.it/economia/news/2026-11-02/delfin-del-vecchio-offerta-soci-39825139/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:35:04.653538+00:00",
+        "dateEvidence": "AGI: 02 novembre 2026, lettera di Leonardo Maria Del Vecchio al Quotidiano Nazionale; offerta, non acquisizione conclusa.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "lastAttemptAt": "2026-11-04T11:35:04.653782+00:00"
 }
