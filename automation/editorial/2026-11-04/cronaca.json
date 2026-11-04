@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-04",
+  "collectionId": "2026-11-04-mattina",
+  "category": "Cronaca",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-04T05:17:53.537Z",
+  "articles": [
+    {
+      "id": "cronaca-meteo-perturbazione-7-8-novembre-2026",
+      "eventKey": "previsioni-perturbazione-italia-weekend-7-8-novembre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Meteo, una perturbazione potrebbe interessare l'Italia nel fine settimana",
+      "summary": "Le previsioni diffuse il 3 novembre indicano una possibile nuova fase di instabilità tra sabato 7 e domenica 8, con precipitazioni soprattutto al Centro-Sud.",
+      "body": [
+        "Sky TG24 segnala che sabato 7 novembre potrebbero verificarsi piogge e temporali sparsi nelle regioni centro-meridionali. Per domenica 8 è prevista un'attenuazione del maltempo su gran parte del Paese, salvo fenomeni isolati lungo le coste toscane. Si tratta di previsioni, soggette ad aggiornamento."
+      ],
+      "publishedAt": "2026-11-03T09:12:00+01:00",
+      "verifiedAt": "2026-11-04T05:17:53.537Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/03/meteo-piogge-sud-previsioni",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T05:17:53.537Z",
+        "dateEvidence": "La pagina Sky TG24 riporta espressamente '03 nov 2026 - 09:12' sopra l'introduzione.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
