@@ -2,8 +2,8 @@ name: Prepara candidati rassegna
 on:
   workflow_dispatch:
   schedule:
-    # 06:00 e 16:00 Europe/Rome: il controllo sotto sceglie gli slot corretti
-    # tra ora solare e ora legale. GitHub può avviare in ritardo.
+    # 06:00 e 16:00 Europe/Rome; il gate recupera lo slot dovuto anche in ritardo
+    # e non ripete una raccolta già salvata per quello slot.
     - cron: '0 4,5,14,15 * * *'
 permissions:
   contents: write
@@ -16,26 +16,24 @@ jobs:
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Verifica recupero slot e duplicati
+        run: python3 scripts/test_candidate_slot.py
       - name: Controlla lo slot di Roma
         id: slot
         env:
           EVENT_NAME: ${{ github.event_name }}
-        run: |
-          python3 - <<'PY'
-          import datetime, os
-          from zoneinfo import ZoneInfo
-          now = datetime.datetime.now(ZoneInfo('Europe/Rome'))
-          run = os.environ['EVENT_NAME'] == 'workflow_dispatch' or now.hour in (6, 16)
-          with open(os.environ['GITHUB_OUTPUT'], 'a') as out:
-              out.write('run=' + str(run).lower() + '\n')
-          PY
+        run: python3 scripts/candidate_slot.py
       - name: Raccogli e controlla accesso ai candidati
+        id: collect
         if: steps.slot.outputs.run == 'true'
+        continue-on-error: true
         env:
           PYTHONDONTWRITEBYTECODE: '1'
         run: python3 scripts/collect_candidates.py --verify-pages --output automation/candidates/latest.json
       - name: Conserva soltanto il dossier dei candidati
-        if: steps.slot.outputs.run == 'true'
+        if: steps.slot.outputs.run == 'true' && (steps.collect.outcome == 'success' || steps.collect.outcome == 'failure')
         run: |
           if [ -n "$(git status --porcelain -- automation/candidates/latest.json)" ]; then
             git config user.name 'github-actions[bot]'
@@ -45,3 +43,6 @@ jobs:
             git pull --rebase origin main
             git push origin HEAD:main
           fi
+      - name: Segnala raccolta insufficiente dopo il salvataggio
+        if: steps.collect.outcome == 'failure'
+        run: exit 1

@@ -1,5 +1,12 @@
 # Stamattina — checkpoint 27 ottobre 2026
 
+## Recupero RSS autorizzato — 4 novembre 2026
+- Richiesta esplicita: correggere il gate, aggiornare il dossier e tentare il recupero della mattutina senza inventare contenuti o derogare alle verifiche.
+- Baseline main f5a5050; correzione riserve già applicata. Run 41815169010 fallita due volte sul push automatico con errore remoto commit_refs; non è un errore di fonte.
+- Gate RSS: recupera l'ultimo slot 06/16 Europe/Rome dovuto, anche con partenza ritardata; generatedAt evita raccolte duplicate nello stesso slot. Cron invariato. Test ritardi, duplicati, estate/inverno, date invalide e avvio manuale superati.
+- Raccolta insufficiente: il workflow conserva il dossier prodotto prima di segnalare fallimento, anziché perderlo. Non promuove i candidati a notizie verificate.
+- Raccolta manuale effettiva generatedAt 2026-11-04T11:10:48.695070+00:00: 12 candidati per ognuna delle otto categorie, sette photoReferences, zero errori tecnici. Richiesta editoriale ancora aperta: leggere le fonti, mantenere ciclo mattina esplicito e completare solo quanto realmente verificabile.
+
 ## Diagnosi tecnica — 4 novembre 2026, mattina
 - Baseline remota osservata: main 7e3df1e; richiesta attuale limita le modifiche ai guasti tecnici di pubblicazione, senza UI, servizi, credenziali o variazioni di orari.
 - Ciclo 2026-11-04-mattina: 15 principali presenti (5 Tecnologia, 5 Sport, 1 ciascuna Politica/Economia/Cronaca/Roma/Cultura), Esteri assente; zero reserveArticles completi, 5 reserveDraft (2 Tecnologia, 3 Sport), zero foto. I conteggi sono file salvati, non una nuova verifica giornalistica.
