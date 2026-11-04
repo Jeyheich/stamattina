@@ -25,6 +25,27 @@ jobs:
           node --check dist/app.js
           node --check dist/sw.js
           python3 -m py_compile scripts/verify_publication.py scripts/verify_sources.py
+      - name: Collauda migrazione reale non distruttiva della cronologia
+        run: |
+          node --input-type=module <<'JS'
+          import fs from 'node:fs';
+          import assert from 'node:assert/strict';
+          import {ingestLegacy,readBlocks} from './scripts/editorial_cycles.mjs';
+          import {assemble,romeDay} from './scripts/assemble_batches.mjs';
+          const current=JSON.parse(fs.readFileSync('dist/data/current.json'));
+          const day=romeDay();
+          assert.deepEqual(ingestLegacy('automation/editorial',day,{history:true}),[]);
+          assert.deepEqual(ingestLegacy('automation/editorial',day,{history:true}),[]);
+          for(const slot of ['mattina','pomeriggio']){
+            const blocks=readBlocks('automation/editorial',day+'-'+slot);
+            console.log(slot,JSON.stringify(Object.fromEntries(Object.entries(blocks).map(([s,b])=>[s,{cycle:b.collectionId,base:b.articles?.length,reserve:b.reserveArticles?.length||0,draft:b.reserveDraft?.length||0}]))));
+          }
+          if(current.editionDate===day){
+            const reproduced=assemble(readBlocks('automation/editorial',current.collectionId),day,Date.parse(current.generatedAt),current.collectionId);
+            assert.equal(reproduced.edition?.id,current.id,'Riproduzione storica identica, senza rinnovare verifiche');
+            console.log('Historical published edition reconstructed:',current.id);
+          }
+          JS
       - name: Verifica pubblica indipendente senza cache e archivio
         run: |
           python3 - <<'PY'

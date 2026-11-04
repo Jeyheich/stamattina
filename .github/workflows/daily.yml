@@ -13,6 +13,8 @@ concurrency:
   cancel-in-progress: false
 jobs:
   update:
+    # Legacy entry point disabled: pages.yml is the only publication chain.
+    if: ${{ false }}
     runs-on: ubuntu-latest
     environment: github-pages
     steps:
