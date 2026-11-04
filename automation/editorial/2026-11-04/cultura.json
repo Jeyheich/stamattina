@@ -3,7 +3,7 @@
   "editionDate": "2026-11-04",
   "collectionId": "2026-11-04-mattina",
   "category": "Cultura · Teatro · Cinema",
-  "lastAttemptAt": "2026-11-04T06:17:27.611Z",
+  "lastAttemptAt": "2026-11-04T11:28:43.498998+00:00",
   "articles": [
     {
       "id": "cultura-henze-voices-roma-4-novembre-2026",
@@ -126,7 +126,112 @@
       "leadPriority": 75
     }
   ],
-  "reserveArticles": [],
-  "reserveDraft": [],
+  "reserveArticles": [
+    {
+      "id": "cultura-castaldo-stokholma-80-90-roma-20261205",
+      "eventKey": "castaldo-stokholma-80-90-roma-20261205",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Castaldo e Stokholma portano all’Auditorium la sfida fra due decenni",
+      "summary": "Lo spettacolo ’80 contro ’90 è annunciato per il 5 dicembre alle 20 nella Sala Sinopoli.",
+      "body": [
+        "Il racconto intreccia musica e cultura pop con immagini e brani dei due periodi; il pubblico è chiamato a scegliere il decennio preferito. L’annuncio è del 4 novembre, mentre lo spettacolo è previsto a dicembre."
+      ],
+      "publishedAt": "2026-11-04T10:09:16+01:00",
+      "verifiedAt": "2026-11-04T11:28:43.498689+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/eventi/anni-80-contro-anni-90-gino-castaldo-ema-stockholma-5-diicembre-2026.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:28:43.498689+00:00",
+        "dateEvidence": "RSS pubDate: Wed, 04 Nov 2026 10:09:16 +0100; data e contenuto confrontati con la pagina originale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-japan-days-capannelle-programma-20261114",
+      "eventKey": "japan-days-capannelle-programma-20261114",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Japan Days, due giornate di cultura giapponese a Capannelle",
+      "summary": "L’appuntamento del 14 e 15 novembre comprende incontri, laboratori e spettacoli.",
+      "body": [
+        "Il programma annunciato il 4 novembre include fumetto, doppiaggio, animazione e presentazioni di libri. Il market è una delle componenti dell’evento, accanto alle attività culturali."
+      ],
+      "publishedAt": "2026-11-04T10:00:59+01:00",
+      "verifiedAt": "2026-11-04T11:28:43.498757+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/eventi/japan-days-ippodromo-capannelle-14-15-novembre-2026.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:28:43.498757+00:00",
+        "dateEvidence": "RSS pubDate: Wed, 04 Nov 2026 10:00:59 +0100; data e contenuto confrontati con la pagina originale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-blue-friday-rimessa-fab-20261113",
+      "eventKey": "blue-friday-rimessa-fab-20261113",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Blue Friday parte con Simone Alessandrini Storytellers",
+      "summary": "La rassegna di Rimessa FAB inizierà il 13 novembre e proseguirà il venerdì fino al 18 dicembre.",
+      "body": [
+        "La direzione artistica è di Danilo Blaiotta. L’annuncio presenta jazz, blues e incontri con il teatro; l’accesso prevede consumazione obbligatoria, quindi non viene descritto come gratuito senza condizioni."
+      ],
+      "publishedAt": "2026-11-04T09:53:04+01:00",
+      "verifiedAt": "2026-11-04T11:28:43.498765+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/eventi/simone-alessandrini-storytellers-blue-friday-rimessa-fab.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:28:43.498765+00:00",
+        "dateEvidence": "RSS pubDate: Wed, 04 Nov 2026 09:53:04 +0100; data e contenuto confrontati con la pagina originale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-ricarda-guantario-personale-roma-20261113",
+      "eventKey": "ricarda-guantario-personale-roma-20261113",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "A via Merulana una personale di Ricarda Guantario",
+      "summary": "Medina Art Gallery annuncia l’esposizione dal 13 al 19 novembre, con apertura il 13 alle 18.",
+      "body": [
+        "La scheda del 4 novembre descrive lavori pittorici e scultorei che impiegano ceramica, resine e tessuti. L’indirizzo indicato è via Merulana 220; non si tratta di una mostra già inaugurata."
+      ],
+      "publishedAt": "2026-11-04T09:44:45+01:00",
+      "verifiedAt": "2026-11-04T11:28:43.498774+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/eventi/mostra-personale-ricarda-guantario-13-19-novembre-2026.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:28:43.498774+00:00",
+        "dateEvidence": "RSS pubDate: Wed, 04 Nov 2026 09:44:45 +0100; data e contenuto confrontati con la pagina originale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-francesco-santi-apostoli-incontri-20261107",
+      "eventKey": "francesco-santi-apostoli-incontri-20261107",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Ai Santi Apostoli quattro incontri su Francesco d’Assisi",
+      "summary": "Dal 7 al 28 novembre il sabato sono previsti visite, approfondimenti e concerti di musica sacra.",
+      "body": [
+        "Il programma per l’ottavo centenario della morte del santo comincia alle 16. La scheda del 4 novembre indica ingresso gratuito fino a esaurimento posti, senza prenotazione."
+      ],
+      "publishedAt": "2026-11-04T09:26:38+01:00",
+      "verifiedAt": "2026-11-04T11:28:43.498782+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/eventi/san-francesco-incontri-basilica-santi-xii-apostoli-7-28-novembre-2026.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-04T11:28:43.498782+00:00",
+        "dateEvidence": "RSS pubDate: Wed, 04 Nov 2026 09:26:38 +0100; data e contenuto confrontati con la pagina originale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
   "completedAt": "2026-11-04T11:18:29.628025+00:00"
 }
