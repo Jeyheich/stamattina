@@ -100,6 +100,10 @@ try{
  fs.mkdirSync(path.join(temp,'incoming'),{recursive:true});fs.mkdirSync(path.join(temp,'dist/data'),{recursive:true});
  fs.writeFileSync(path.join(temp,'dist/data/current.json'),JSON.stringify(amEdition.edition));
  fs.writeFileSync(path.join(temp,'incoming/edition.json'),JSON.stringify(pmEdition.edition));
+ fs.mkdirSync(path.join(temp,'automation/editorial',today,'pomeriggio'),{recursive:true});
+ for(const [slug,b] of Object.entries(pm))fs.writeFileSync(path.join(temp,'automation/editorial',today,'pomeriggio',slug+'.json'),JSON.stringify(b));
+ fs.writeFileSync(path.join(temp,'automation/editorial/status.json'),JSON.stringify({...pmEdition.state,needsPublication:true}));
+
  execFileSync(process.execPath,[fileURLToPath(new URL('./promote.mjs',import.meta.url))],{cwd:temp});
  assert.deepEqual(JSON.parse(fs.readFileSync(path.join(temp,'dist/data/archive',amEdition.edition.id+'.json'))),amEdition.edition);
  assert.deepEqual(JSON.parse(fs.readFileSync(path.join(temp,'dist/data/archive',pmEdition.edition.id+'.json'))),pmEdition.edition);

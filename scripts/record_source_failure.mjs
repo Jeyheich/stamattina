@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
+import {cyclePath,writeJSON} from './editorial_cycles.mjs';
 import {categories} from './assemble_batches.mjs';
 export function recordFailure(state,edition,log){
   const text=String(log).slice(-6000);
@@ -15,5 +16,5 @@ if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.ur
   const state=JSON.parse(fs.readFileSync(file));
   const edition=JSON.parse(fs.readFileSync('incoming/edition.json'));
   const log=fs.readFileSync(process.argv[2],'utf8');
-  fs.writeFileSync(file,JSON.stringify(recordFailure(state,edition,log),null,2)+'\n');
+  const failed=recordFailure(state,edition,log);writeJSON(file,failed);if(state.collectionId)writeJSON(path.join(cyclePath('automation/editorial',state.collectionId),'status.json'),failed);
 }

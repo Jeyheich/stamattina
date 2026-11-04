@@ -1,6 +1,11 @@
 name: Pubblica Stamattina
 on:
   workflow_dispatch:
+    inputs:
+      collectionId:
+        description: 'Ciclo esplicito YYYY-MM-DD-mattina o YYYY-MM-DD-pomeriggio (vuoto: ciclo corrente Roma)'
+        required: false
+        type: string
   push:
     branches: [main]
     paths:
@@ -31,11 +36,15 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Seleziona il ciclo dell evento senza dipendere dalla coda
+        run: node scripts/select_editorial_cycle.mjs
+      - name: Verifica regressioni dei cicli persistenti
+        run: node scripts/test_editorial_cycles.mjs
       - name: Verifica ripresa e completezza delle aggiuntive
         run: node scripts/test_batches.mjs
       - name: Ricomponi i blocchi editoriali senza perdere progressi
         id: batches
-        run: node scripts/assemble_batches.mjs
+        run: node scripts/assemble_batches.mjs automation/editorial --recover-history
       - name: Rileva una nuova edizione proposta
         id: incoming
         env:
@@ -44,8 +53,6 @@ jobs:
           BATCH_READY: ${{ steps.batches.outputs.ready }}
         run: |
           if [ "$BATCH_READY" = 'true' ]; then
-            echo 'changed=true' >> "$GITHUB_OUTPUT"
-          elif [ "$EVENT_NAME" = 'push' ] && ! git diff --quiet "$BEFORE" "$GITHUB_SHA" -- incoming/edition.json; then
             echo 'changed=true' >> "$GITHUB_OUTPUT"
           fi
           if [ "$EVENT_NAME" = 'workflow_dispatch' ]; then
@@ -59,6 +66,7 @@ jobs:
         continue-on-error: true
         shell: bash
         run: |
+          set -euo pipefail
           node scripts/validate.mjs incoming/edition.json --production --balanced 2>&1 | tee /tmp/brief-source-check.log
           python3 scripts/verify_sources.py incoming/edition.json 2>&1 | tee -a /tmp/brief-source-check.log
       - name: Conserva la causa dei controlli falliti per la ripresa
@@ -71,17 +79,21 @@ jobs:
         run: node scripts/validate.mjs dist/data/current.json --production
       - name: Conserva edizione e archivio validati
         run: |
-          if [ -n "$(git status --porcelain -- dist/data incoming/edition.json automation/editorial/status.json)" ]; then
+          if [ -n "$(git status --porcelain -- dist/data incoming/edition.json automation/editorial)" ]; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git add -- dist/data incoming/edition.json automation/editorial/status.json
+            git add -- dist/data incoming/edition.json automation/editorial
             git commit -m 'Save editorial progress and verified edition'
-            git pull --rebase origin main
             git push origin HEAD:main
           fi
       - name: Impedisci la pubblicazione dopo un controllo fallito
         if: steps.sources.outcome == 'failure'
         run: exit 1
+      - name: Impedisci deploy di una revisione superata da modifiche concorrenti
+        if: steps.incoming.outputs.changed == 'true' || steps.incoming.outputs.ui == 'true'
+        run: |
+          git fetch origin main
+          test "$(git rev-parse HEAD)" = "$(git rev-parse origin/main)"
       - uses: actions/configure-pages@v5
         if: steps.incoming.outputs.changed == 'true' || steps.incoming.outputs.ui == 'true'
       - uses: actions/upload-pages-artifact@v3
@@ -100,9 +112,8 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -- automation/editorial/status.json
+          git add -- automation/editorial
           if ! git diff --cached --quiet; then
             git commit -m 'Record verified public edition'
-            git pull --rebase origin main
             git push origin HEAD:main
           fi

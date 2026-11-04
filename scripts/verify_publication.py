@@ -29,6 +29,15 @@ if __name__ == '__main__':
     checked = verify(expected)
     file = Path('automation/editorial/status.json')
     state = json.loads(file.read_text())
-    state.update(publicVerifiedAt=checked, publicEditionId=expected['id'], publication='verified', needsPublication=False)
+    if state.get('collectionId') != expected.get('collectionId') or state.get('editionId') != expected['id']:
+        raise RuntimeError('Stato editoriale e pubblico di cicli diversi')
+    state.update(publicCollectionId=expected['collectionId'], publicVerifiedAt=checked, publicEditionId=expected['id'], publication='verified', needsPublication=False)
     file.write_text(json.dumps(state, ensure_ascii=False, indent=2) + '\n')
+    cycle = expected['collectionId']
+    day, slot = cycle.rsplit('-', 1)
+    if slot not in ('mattina', 'pomeriggio') or day != expected['editionDate']:
+        raise RuntimeError('collectionId pubblico non valido')
+    cycle_file = Path('automation/editorial') / day / slot / 'status.json'
+    cycle_file.parent.mkdir(parents=True, exist_ok=True)
+    cycle_file.write_text(json.dumps(state, ensure_ascii=False, indent=2) + '\n')
     print('Edizione pubblica verificata: ' + expected['id'])

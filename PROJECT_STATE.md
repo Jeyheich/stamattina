@@ -1,154 +1,23 @@
-# Stamattina — checkpoint 27 ottobre 2026
+# Stamattina — stato operativo
+## Stato approvato
+- Mandato Fabio 4 novembre 2026: isolare mattina/pomeriggio, conservare dati e PWA, correggere e distribuire via GitHub senza API AI, dipendenze, credenziali o costi aggiuntivi.
+- Due automazioni ChatGPT e dodici avvii invariati. 5 principali + 5 aggiuntive per ognuna delle otto categorie; Tecnologia 3 Punto Informatico + 2 Everyeye, IGN solo fallback ammesso. Nessuna deroga a verifiche, fonti, date o foto.
+- AFTERNOON_TRIAL.md è storico superato. Le vecchie configurazioni/fonti nelle versioni precedenti di questo documento non sono baseline.
 
-## Completamento 40+40 — 4 novembre 2026
-- Richiesta esplicita di Fabio: completare subito le aggiuntive. Salvati e verificati tutti gli otto blocchi: cinque principali più cinque reserveArticles ciascuno; nessun reserveDraft residuo, 80 fatti/URL distinti. Tecnologia rispetta 3 Punto Informatico + 2 Everyeye anche nelle riserve. Fonti lette; indiscrezioni, accuse e appuntamenti futuri qualificati come tali.
-- Pubblicazione completa verificata alle 12:36 Europe/Rome: ciclo 2026-11-04-mattina, id 2026-11-04-batches-e17b5b4d5531, 80 articoli e 40 reserveIds. JSON pubblico confrontato integralmente con dist/data/current.json: identico. Cinque fotografie autentiche con licenze verificate.
-- Run 41822121355 SUCCESS: controllo fonti/foto/date, promozione, salvataggio, deploy e verifica pubblica tutti superati. Controllo locale indipendente sulle 80 fonti/foto e validazione production/balanced superati. Stato remoto editorialComplete=true, ready=true, reserveMissing=[], publication=verified.
-- Ultimo blocco editoriale salvato in 02dc7cc912722d4d27f663431b0433e03881dc56. Principali valide preservate. Nessuna UI, pianificazione, credenziale, servizio o API AI esterna modificata. Questo checkpoint supera lo stato incompleto riportato nelle sezioni storiche sottostanti.
+## Stato osservato prima della correzione
+- main 01096f4310cc99a3c5e46d6da20722c5d785ddd3: percorsi giornalieri condivisi, quattro checkpoint pomeridiani hanno sostituito i blocchi mattutini. status globale: cicli differenti, ready=false.
+- Mattutina storicamente pubblicata da run 41822121355 SUCCESS: 2026-11-04-batches-e17b5b4d5531, collectionId 2026-11-04-mattina, 40 base + 40 riserve, cinque foto. dist/data/current.json e archivio presenti; verifica pubblica corrente demandata ai test cloud.
+- Pomeriggio incompleto: non creare notizie o rinnovare timestamp per sbloccare il sistema.
+- Run 41865944252 SUCCESS tecnico: assemblaggio misto respinto, controlli fonti/promozione/deploy correttamente saltati. Il successo del run non è una nuova pubblicazione.
 
-## Esito recupero mattutino — 4 novembre 2026
-- Pubblicata e verificata alle 12:22 Europe/Rome la BASE del ciclo 2026-11-04-mattina: id 2026-11-04-batches-efd1782bc1c9, 40 articoli, cinque/categoria e cinque fotografie Commons distinte. JSON pubblico confrontato integralmente con dist/data/current.json: identico.
-- Run 41820250818 conclusa success; controlli fonti/foto, promozione, salvataggio, deploy e prova pubblica tutti superati. L'errore remoto commit_refs delle prove precedenti non si è ripresentato in questa run.
-- Correzione RSS e dossier su main cdefcf6: generatedAt 2026-11-04T11:10:48.695070+00:00, 96 candidati e sette riferimenti foto, zero errori tecnici. Cron e orari invariati; ritardi recuperati senza duplicare lo slot, dossier parziali salvati prima della segnalazione.
-- Recuperati i blocchi base con lettura effettiva delle fonti; corretta l'ora della fonte tennis e aggiornato l'avviso di viabilità Roma con le riaperture. Date originali conservate, scheda cinema con dateKind:event esplicita. Nessuna UI o servizio esterno introdotto.
-- NON completa 40+40: editorialComplete=false, zero reserveIds pubblicati, reserveMissing tutte otto categorie. Conservate due bozze Tecnologia e tre Sport, non promosse né dichiarate rilette. Le 40 aggiuntive restano da completare/verificare. Non rifare le principali valide se ancora recenti; oltre tre ore rileggere davvero le fonti.
+## Correzione in validazione
+- Percorsi canonici automation/editorial/YYYY-MM-DD/{mattina,pomeriggio}/SLUG.json e status.json separati.
+- Import legacy compatibile con prompt invariati; originali, checkpoint hash e recupero storico non distruttivo. Nessuna sostituzione del canonico dal recupero storico.
+- Selezione ciclo dal contenuto del push (anche in coda), input manuale esplicito; Europe/Rome e DST. Blocco dei cicli errati e di regressioni del pubblico.
+- Pubblicazione solo da assemblaggio pronto e controlli fonti riusciti; incoming obsoleto non basta. Stati parziale/pubblicabile/completo distinti. Archivi per id e ciclo.
+- Concorrenza: niente rebase dei dati dopo i controlli, push fast-forward e controllo revisione prima del deploy.
 
-## Recupero RSS autorizzato — 4 novembre 2026
-- Richiesta esplicita: correggere il gate, aggiornare il dossier e tentare il recupero della mattutina senza inventare contenuti o derogare alle verifiche.
-- Baseline main f5a5050; correzione riserve già applicata. Run 41815169010 fallita due volte sul push automatico con errore remoto commit_refs; non è un errore di fonte.
-- Gate RSS: recupera l'ultimo slot 06/16 Europe/Rome dovuto, anche con partenza ritardata; generatedAt evita raccolte duplicate nello stesso slot. Cron invariato. Test ritardi, duplicati, estate/inverno, date invalide e avvio manuale superati.
-- Raccolta insufficiente: il workflow conserva il dossier prodotto prima di segnalare fallimento, anziché perderlo. Non promuove i candidati a notizie verificate.
-- Raccolta manuale effettiva generatedAt 2026-11-04T11:10:48.695070+00:00: 12 candidati per ognuna delle otto categorie, sette photoReferences, zero errori tecnici. Richiesta editoriale ancora aperta: leggere le fonti, mantenere ciclo mattina esplicito e completare solo quanto realmente verificabile.
-
-## Diagnosi tecnica — 4 novembre 2026, mattina
-- Baseline remota osservata: main 7e3df1e; richiesta attuale limita le modifiche ai guasti tecnici di pubblicazione, senza UI, servizi, credenziali o variazioni di orari.
-- Ciclo 2026-11-04-mattina: 15 principali presenti (5 Tecnologia, 5 Sport, 1 ciascuna Politica/Economia/Cronaca/Roma/Cultura), Esteri assente; zero reserveArticles completi, 5 reserveDraft (2 Tecnologia, 3 Sport), zero foto. I conteggi sono file salvati, non una nuova verifica giornalistica.
-- Run 41789954314 riuscita ma promozione, controlli fonti e deploy saltati: ready=false. Pubblico verificato senza cache: 2026-11-02-batches-854a18d527ad, ciclo 2026-11-02-pomeriggio, 80 articoli/40 riserve.
-- Bug riprodotto all'orario della run: reserveArticles=[] invalidava anche le cinque principali. Corretto distinguendo array vuoto da riserve malformate o 1–4; test di regressione aggiunti. Riserve assenti/vuote restano incomplete, nessuna deroga ai 40+40.
-- Workflow fonti: shell bash esplicita abilita -eo pipefail, impedendo che tee nasconda il fallimento del validatore prima del controllo HTTP. Nessuna modifica degli orari.
-- Test test_batches.mjs e diff --check superati. Replay 07:06Z: Tecnologia/Sport riconosciute 5+0, ready=false. Al controllo 10:32Z tutte le verifiche salvate superano tre ore: da rileggere realmente, nessun timestamp aggiornato artificialmente.
-- Dossier ancora del 27 ottobre; ultima run candidati esaminata 41712100102 (3 novembre 20:23Z) ha saltato raccolta/salvataggio per il gate orario. Non prova una raccolta odierna e non basta per attribuire un guasto al raccoglitore.
-- Residuo: produzione/verifica dei contenuti mancanti e cinque foto; ripristino tecnico non equivale a pubblicazione della mattutina. Decisioni correnti: BATCH_BRIEF.md e richiesta più recente prevalgono sulle sezioni storiche sotto.
-
-## Decisioni approvate
-- PWA personale su https://jeyheich.github.io/stamattina/, solo Plus già pagato e GitHub: zero costi aggiuntivi, niente API AI esterne. Fabio autorizza quota condivisa e scritture automatiche e rivaluterà il consumo.
-- Cinque fatti distinti per ciascuna delle otto categorie, Sport incluso: 40 articoli, cinque principali con foto autentiche, cinque essenziali sugli stessi articoli e 35 compatte. Date/fonti gratuite/attribuzioni verificabili, repertorio dichiarato.
-- UI moderna, font di sistema, temi, salvati, swipe e movimento ridotto. Scartati grafica serif/cartacea, limite 12–15, produzione monolitica da 40 e API a pagamento.
-- Obiettivo entro 09:00 Europe/Rome anche a Mac spento; nessuna garanzia assoluta di puntualità.
-
-## Stato osservato — 28 ottobre 2026
-- Pubblica 2026-10-28-batches-c29dd129955d, preparata alle 08:05 Europe/Rome: 40 principali + cinque aggiuntive solo Tecnologia. Le altre sette categorie senza reserveArticles né reserveDraft. Il successo del workflow provava la pubblicazione dei 45 articoli, non il risultato 80 richiesto.
-- Il collaudo manuale di ieri con 80 articoli resta valido per UI/dati; non dimostra produzione giornaliera autonoma delle 40 aggiuntive.
-- Correzione approvata oggi: 5+5 richiesti in ogni categoria, tolti facoltatività e stop dopo le cinque principali. Recuperi sulle categorie con riserve mancanti della propria attività, massimo due per avvio; bozze salvate e cause esplicite se non completate.
-- Nuovo stato server editorialComplete, reserveMissing e categoryProgress: completezza editoriale solo con otto categorie 5+5 valide. ready/publication=verified rimangono esito tecnico dei contenuti disponibili; la base verificata resta pubblicabile. Avviso finale distingue pubblicazione parziale e rassegna completa.
-- Test locali: base40 e Tecnologia-sola45 incomplete con categorie mancanti; 80 validi completi; duplicati, scadenze e riserve parziali respinti. Test inseriti nel workflow.
-
-## Programmazione approvata — due edizioni quotidiane dal 28 ottobre
-- Fabio autorizza il pomeriggio ricorrente riprendendo la prova del 27. Due attività, dodici avvii totali, sei per edizione; nessuna nuova task. Obiettivi indicativi 09:00 e 19:00 Europe/Rome, senza garanzia.
-- Principale: 06:05/16:05 Politica–Esteri, 07:05/17:05 Tecnologia–Sport, 08:05/18:05 recupero massimo due categorie proprie.
-- Seconda: 06:15/16:15 Economia–Cronaca, 07:15/17:15 Roma–Cultura, 08:15/18:15 recupero e avviso finale corretto. Terza Roma/Cultura in pausa, altre attività personali intatte.
-- Dossier GitHub 06:00 e 16:00; cambio ora legale gestito dal controllo Europe/Rome. Nessun servizio a pagamento; raddoppia il numero degli avvii sulla quota Plus condivisa.
-- collectionId obbligatorio YYYY-MM-DD-mattina oppure YYYY-MM-DD-pomeriggio. Un blocco dell'altro ciclo non può essere saltato come già completato. Fonti realmente rilette, sviluppi recenti, date originali, cinque principali + cinque aggiuntive richieste in entrambi i cicli.
-- Il server pubblica collectionId e deriva ID distinti per ciclo, respinge dati mescolati o parziali e conserva l'ultima edizione. AFTERNOON_TRIAL.md storico superato, non usare come istruzioni correnti.
-- Test locali passati: due cicli 5+5, identificativi pubblici distinti, blocco di mix mattina/pomeriggio e nuovi parziali; restano passati test riserve/date/fonti/foto.
-- Prompt delle due attività aggiornati. Gestore nativo conferma salvataggio e rilettura dei calendari quotidiani con i sei orari per attività; prossimi avvii pomeridiani oggi 28 ottobre. Entrambi i prompt finali riletti e corrispondenti dopo l'aggiornamento dei calendari; UI Programmate mostra per entrambe il prossimo avvio fra quattro ore.
-- Codice due cicli/dossier pubblicato in cd9ef36ce07dd73293597192a30d159d829b6c87; run40677059043 SUCCESS. Archivio esteso per ID: prima della promozione conserva sia la precedente sia la nuova edizione, mantenendo anche il file giornaliero compatibile. Test promozione mattina→pomeriggio passato. Ultimo commit 05738bef9843f4ad7afcd944cc38cae5316147ff; run40677372665 SUCCESS.
-
-## Ripresa e problemi aperti
-- Prima esecuzione del flusso corretto ancora da osservare: non garantire 80 domattina dal solo test. Oggi le 35 aggiuntive mancanti non sono state generate da questa correzione.
-- Quota condivisa non attribuibile precisamente al progetto: niente conteggi inventati, monitoraggio quote o acquisti crediti. Massimo sei avvii, lavoro completato saltato.
-- Verifica nuova edizione scarica una pubblicazione disponibile, non avvia ricerche. Controlla anche all'apertura/ritorno dopo cinque minuti.
-- Git locale main/HEAD v6 27e5adc conserva modifiche intenzionali e differisce dal remoto: verificare remoto prima di modificare; niente reset/push del vecchio checkout.
-- Test: node scripts/test_batches.mjs; node scripts/validate.mjs dist/data/current.json --production --balanced; node --check dist/app.js e dist/sw.js. Verifiche HTTP nel workflow prima della promozione.
-
-## Aggiornamento fonti approvato 27 ottobre
-- Politica/Cronaca: esclusi TGR regionali, priorità testate nazionali italiane (Sky TG24, ANSA, Open, Adnkronos/RaiNews nazionale e alternative gratuite).
-- Roma: Leggo oltre RomaToday/fonti ufficiali; preferire anche fatti diversi dai trasporti. Leggo feed Roma provato non affidabile come feed dedicato: raccolta home filtrata per riferimenti romani espliciti, revisione editoriale indispensabile.
-- Sport: calcio soprattutto italiano, F1, tennis e altri sport nazionali; rimossi feed BBC/Guardian Sport, esclusi riempitivi NFL/cricket. Aggiunti Sky Sport e Leggo Sport. Google News solo scoperta, link finale all'editore.
-- Sky TG24 feed usa guid al posto di link e date italiane, ora riconosciuti senza alterare evidenza originale. Il Post feed ha risposto 403: nessun aggiramento, disponibile solo se leggibile tramite ricerca diretta.
-- Preferenze applicate alla produzione futura; l'edizione pubblicata non viene riscritta attribuendo vecchi fatti a nuove fonti. Nessuna modifica UI o orari.
-- Collaudo raccolta mirato: Sky TG24 38 candidati Politica/90 Cronaca, Open 3 Politica, Sky Sport 66, Leggo Sport 18; prima pagina di ciascuno raggiungibile con gate HTTP. Feed Sky corretto agli URL finali HTTPS flipboard dopo redirect rifiutato, sicurezza invariata. Leggo Roma filtrato: zero candidati pertinenti in questa prova, quindi ricerca diretta editoriale necessaria, non dichiarare copertura RSS garantita. Date italiane, esclusione TGR e NFL e filtro Roma verificati con assert mirati.
-
-## Refresh odierno autorizzato esplicitamente
-- Fabio ha chiesto di applicare subito le nuove preferenze all'edizione già pubblicata. Sostituiti articolo TGR Liguria con Sky TG24 e TGR Piemonte con ANSA, dopo rilettura e riscrittura fedele; due notizie Leggo cittadine al posto di due trasporti; Sport tre calcio (Serie A, Pulisic, Pallone d'Oro), una F1 Antonelli, una tennis Paolini. Nessuna semplice rietichettatura di vecchi testi.
-- Conservate altre quattro categorie e le notizie pertinenti nelle categorie toccate. Backup originali locale work/refresh/blocks; nessun reset Git o variazione UI/orari.
-- Quattro blocchi aggiornati in commit unico 628f367861d37622482bdb497ef362b1144720f0. Assemblaggio locale: 40, cinque/categoria, cinque foto, invalid vuoto. Verifiche HTTP/fonti/foto dei venti articoli dei quattro blocchi superate. Run pubblicazione 40513077417 SUCCESS; edizione pubblica 2026-10-27-batches-b9bee48dc05a verificata con 40 notizie, cinque foto, zero TGR in Politica/Cronaca, due Leggo in Roma e tre calcio/F1/tennis. Stato server publication=verified e publicEditionId identico.
-
-## Prova due slot — pomeriggio 27 ottobre, autorizzata
-- Fabio approva prova pomeridiana prima di consolidare la riduzione a due slot; accetta obiettivo mattutino fino alle 09:00. Durante la prova nessuna modifica definitiva agli orari mattutini o alle attività personali.
-- Richiesti avvii datati SOLO oggi sulle due attività esistenti: principale 16:05 Politica/Esteri e 17:05 Tecnologia/Sport; Economia/Cronaca 16:15 le due categorie e 17:15 Roma/Cultura. Nessun nuovo slot, nessun pomeriggio ricorrente. Gestore: entrambe aggiornate e rilette; eccezioni RDATE solo 27 ottobre confermate, orari mattutini dal 28 conservati. UI lista mostra prossimi avvii tra un’ora e prompt delle due attività contiene la precedenza pomeridiana. Terza task invariata.
-- Procedura automation/AFTERNOON_TRIAL.md pubblicata. CollectionId 2026-10-27-pomeriggio su tutti i blocchi, incluse bozze: il gate pubblica solo otto blocchi dello stesso ciclo, senza mescolare vecchia e nuova edizione. Giorno successivo usa nuovo percorso giornaliero senza ereditare il ciclo pomeridiano.
-- Test mirati passati: un blocco nuovo + sette vecchi NON pubblica, otto del nuovo ciclo pubblicano, cicli discordanti bloccano; test precedenti ancora passati. Commit gate 5774ce2, test 60bba81, procedura d7da5e1.
-- Esito ancora futuro: quattro avvii, otto blocchi e pubblicazione vanno osservati; non dichiarare liberato uno slot o prova riuscita sulla sola pianificazione. Backup prompt principale in work/afternoon/main-task-before.json. Non ripetere la prova ogni giorno automaticamente.
-- Procedura GitHub confermata presente dopo il salvataggio dei calendari (il primo controllo nativo l’aveva letta prima della creazione). Prompt finali conservati in work/afternoon/. Nessuna ricerca avviata manualmente: si attende il test realmente programmato.
-
-## Tecnologia — fonti tre/due
-- Nuova richiesta: esattamente tre notizie Lega Nerd e due MegaNerd, superate le vecchie fonti, anche al prossimo avvio pomeridiano 17:05. Categoria UI conservata; MegaNerd cultura nerd dichiarata senza inventare AI.
-- Feed Lega Nerd generale/tecnologia e MegaNerd provati: HTTP 403. Home Lega Nerd leggibile con web, home MegaNerd bloccata al tentativo diretto; ricerca editoriale articolo per articolo necessaria. Non dichiarare collaudata la disponibilità di cinque notizie.
-- Raccolta ora usa soltanto i due editori per Tecnologia e conserva spazio per entrambi; se manca solo il pool RSS Tecnologia, consegna comunque il dossier degli altri sette e indica ricerca diretta richiesta. Nessuna deroga al gate finale: servono ancora otto blocchi/40 notizie/fonti realmente verificabili.
-- Rapporto 3/2 richiesto nei due brief letti dalle attività; nessun nuovo avvio o slot. Edizione attuale invariata fino alla produzione verificata successiva.
-
-## Tecnologia — decisione sostitutiva PromptOps/Everyeye
-- Fabio approva tre PromptOps e due Everyeye videogiochi; superata la precedente coppia Lega Nerd/MegaNerd. Wired Italia scartata: editoriale di chiusura 30 giugno 2026 e feed fermo a luglio.
-- Everyeye pagina, feed ufficiale feed_news_rss.asp e due articoli provati rispondono 200; contiene anche pubblicità/offerte da escludere. PromptOps feed news/rss.xml leggibile, ultimi elementi osservati 24 ottobre: non garantite tre notizie entro 72 ore, obbligatoria verifica della freschezza e fonte originale.
-- Configurazione aggiornata nei due brief letti dalle task e nel raccoglitore. Nessun nuovo slot/orario; UI ed edizione pubblica invariate fino a produzione valida. Non dichiarare completo il nuovo blocco prima del suo salvataggio e dei controlli.
-
-- Fabio autorizza IGN Italia come fallback delle due notizie gaming se Everyeye non funziona. Feed https://it.ign.com/feed.xml e home verificati HTTP 200; Everyeye resta fonte primaria (già verificata 200). Aggiunto pool IGN di riserva, precedenza nei brief esplicita; nessuna sostituzione delle tre PromptOps e nessuna nuova attività.
-
-## Carica altre cinque — implementazione autorizzata
-- UI v11: una categoria mostra cinque notizie iniziali e, quando presenti, cinque riserve al clic. Stato separato per categoria e azzerato quando cambia edizione. Pulsante nascosto senza riserva, dopo apertura e nella vista salvati; salvati delle riserve restano leggibili. Focus sulla prima nuova scheda, annuncio accessibile, movimento ridotto rispettato.
-- Formato compatibile: articles dei blocchi resta cinque; reserveArticles facoltativo esattamente cinque senza foto, reserveDraft non pubblicato. Edizione: reserveIds separati; 40 base + fino a 40 riserve, cinque foto totali. Validazione, deduplica e controlli fonti includono tutte le riserve presenti.
-- Procedura quotidiana aggiornata: prima entrambi i blocchi principali, poi riserve. Niente nuovi slot o orari. Tecnologia mantiene il rapporto 3 PromptOps/2 gaming anche nella riserva. Disponibilità di ottanta notizie NON garantita se fonti o run insufficienti.
-- Test dati passati: 80 totali/40 iniziali, compatibilità edizione precedente, riserva parziale/duplicata/scaduta bloccata. Fixture UI soltanto in work/load-more, nessuna fixture destinata al sito pubblico.
-- Modifiche sviluppate in work/load-more/project da snapshot remoto verificato; checkout storico outputs/rassegna preservato. Test mobile 390px passati su tutte otto categorie: 5→10, pulsante esaurito nascosto, focus sulla prima aggiuntiva, salvati riserva, reload iniziale a 5, nessun overflow; verifica visuale eseguita. Pubblicazione confermata: commit 9a04549971ae94f3c7ed15e4539d3ad6c1f66643, run 40535813706 SUCCESS; pagina pubblica app.js?v=11 e controllo presente, nascosto con zero riserve. Apertura cinque aggiuntive già scaricate provata offline, connessione ripristinata.
-
-- Stato dati alla pubblicazione della funzione: nessuna riserva reale ancora salvata. Il collaudo completo 5→10 usa fixture locali esplicitamente marcate; non dichiarare 80 notizie reali online. Procedura produttiva attiva nei brief, senza nuovi slot né esecuzioni aggiuntive.
-
-## Raggruppamento definitivo autorizzato e verificato
-## Pianificazione effettiva — due slot, dal 28 ottobre 2026
-Tutti gli orari Europe/Rome, obiettivo disponibilità entro le 09:00 (non garanzia). Nessuna nuova attività.
-- Rassegna stampa quotidiana, id 6ae05f1b65048191ab49a6b1efa795ee: 06:05 Politica poi Esteri; 07:05 Tecnologia poi Sport; 08:05 recupero massimo due blocchi incompleti/invalidi, foto, riserve facoltative e verifica pubblicazione.
-- Rassegna · Economia, Cronaca, Roma e Cultura, id 6ae0984223088191b89da89ca650b81c: 06:15 Economia poi Cronaca; 07:15 Roma poi Cultura; 08:15 recupero massimo due blocchi, foto, riserve e verifica finale.
-- Rassegna · Roma e Cultura, id 6ae098447b7481919b203e1a5610dfee: IN PAUSA, non eliminata, non va riattivata automaticamente. Le sue categorie sono assegnate al secondo slot.
-Due categorie per avvio, file e commit separati. I recuperi danno priorità alle quaranta principali; il lavoro validamente completato non si rifà. Raccolta GitHub alle 06:00 invariata. Almeno un'ora fra avvii della stessa attività, sei avvii complessivi su due slot. Le altre attività personali restano intatte.
-Solo per il 27 ottobre si conservano gli avvii pomeridiani già autorizzati (17:05 prima attività Tecnologia/Sport, 17:15 seconda Roma/Cultura), anche se una run è in corso. Non riavviare gli orari già passati e non creare una ricorrenza pomeridiana dal 28. Seguire AFTERNOON_TRIAL.md e collectionId della prova. Raggruppamento salvato non equivale a prova editoriale riuscita.
-
-- Gestore cloud: configurazioni aggiornate e rilette, terza sospesa dopo verifica di tutte le otto categorie. Verifica indipendente elenco Attivo: due rassegne. Uno slot liberato; attività personali intatte. Prova odierna conservata, suo esito editoriale non ancora dimostrato.
-
-## Avviso finale senza nuove integrazioni
-- Fabio autorizza un avviso finale tramite l'attività esistente. Preferenze ChatGPT Attività osservate: Notifiche push già abilitate; nessuna preferenza globale modificata.
-- Prompt della seconda attività verificato dal gestore: istruzione iniziale presente, stato attivo, 06:15/07:15/08:15 e prova 27 ottobre17:15 conservati. Ultimo passaggio produce risposta visibile con link solo dopo pubblicazione verificata/id del ciclo; altrimenti esito incompleta/errore/in attesa e causa concreta. Attesa workflow limitata a cinque minuti, niente nuovo slot.
-- BATCH_BRIEF e AFTERNOON_TRIAL aggiornati. Nessun webhook, email, servizio o push PWA aggiunto. Non garantire recapito iPhone: permessi iOS e consegna effettiva non verificati; prova di notifica finale ancora da osservare.
-
-## Pulsante verifica edizione in alto
-Richiesta Fabio: spostato nella toolbar sticky delle categorie, rimosso il duplicato dal fondo. Su mobile icona di aggiornamento con target 44px, nome accessibile e stato occupato; su desktop testo completo. Logica di verifica notizie invariata, nessuna nuova ricerca al clic. UI/SW v12. Test mobile 390px superato: un solo pulsante, area44px, nella barra sticky a10px dall’alto anche dopo scorrimento; nessun overflow, verifica edizione e feedback funzionanti. Verifica visiva eseguita; pubblicazione confermata (8fade9654249a8c1abc83f5fa97cb7ef3ec54e6b, run40539557894 SUCCESS). Verificato sul pubblico: app.js?v=12, unico pulsante nella toolbar, nessun overflow a390px.
-
-## Tecnologia sbloccata e nuova edizione pubblicata
-- Punto Informatico sostituisce PromptOps: feed ufficiale https://www.punto-informatico.it/feed/ e tre articoli del 27 ottobre realmente letti e verificati 200. DDay feed provato 500, Hardware Upgrade403. Rapporto ora tre Punto Informatico/due Everyeye, IGN Italia solo alternativa gaming; rimossi requisiti PromptOps dai brief e dai due prompt cloud, entrambi riletti dal gestore. Orari, due slot, pausa terza, riserve e avviso finale invariati.
-- Completato il checkpoint Tecnologia (due Everyeye precedenti conservate, tre nuove PI): WebAI Opera, indiscrezioni MacBook OLED esplicitamente attribuite, ZelixOS. Commit7b80e91d1ad8c65c8ee387dd6071baadf5420e4d; ciclo2026-10-27-pomeriggio ora completo e pubblicato, id2026-10-27-batches-56dc0c58fe91, 17:27 Rome. Run40541067222 SUCCESS e confronto pubblico verificato, UI categoria mostra le cinque nuove notizie.
-- La prova cloud ha prodotto sette blocchi completi e due articoli Tecnologia; quest'ultimo è stato completato da Lola dopo cambio fonte autorizzato. NON presentare questo come prova dell'intero ciclo completamente autonomo. Nessuna riserva reale online (40 articoli), pulsante altre cinque resta nascosto dove assente.
-
-## Riserve reali — 27 ottobre, pubblicate e collaudate
-- Preparati otto blocchi reserveArticles da cinque: 40 base + 40 aggiuntive, fatti e URL distinti; nessun fixture. Cultura con date evento esplicite; Tecnologia tre Punto Informatico e due Everyeye anche nelle aggiuntive.
-- Controlli locali formato/assemblaggio e HTTP su tutte le 80 fonti e cinque foto superati. Una principale Cronaca ora segnalata non gratuita da Il Fatto sostituita con il resoconto Adnkronos dello stesso evento, letto integralmente. Nessuna modifica UI, orari o attività.
-- Pubblicazione 2026-10-27-batches-25240eef4798 verificata sul JSON pubblico: 80 articoli, 40 reserveIds, cinque riserve per categoria. Browser: tutte le otto categorie passano 5→10 al clic; controllo visuale 390px superato. Edizione preparata alle 17:49, run40544624077 SUCCESS. Pulsante ↻ carica questa edizione, poi Carica altre 5 rivela le riserve senza ricerca al clic.
-
-## Checkpoint correzione riserve 28 ottobre
-- Istruzioni e stato server pubblicati nel commit d838837e73eb60f334afa390e1192366d39cf956; run40675012624 SUCCESS. Entrambi i prompt nativi corretti, salvati e riletti, anche dopo ricaricamento: 5+5 obbligatori, recuperi e avviso parziale/completo. Calendari non modificati.
-- Controllo aggiuntivo: anche un errore HTTP/foto annulla editorialComplete; test dedicato passato.
-- Lo stato ricalcolato a metà giornata segnala onestamente verifiche mattutine scadute oltre tre ore; nessuna data aggiornata artificialmente. Il pubblico resta quello delle 08:05 con 45 articoli.
-- Nessuna modifica ai contenuti pubblicati, alla UI o alle fonti approvate. Modificare il flusso non crea retroattivamente le notizie mancanti.
-
-## Saluto per edizione — 29 ottobre
-- Richiesta Fabio: nella pomeridiana mostrare «Buonasera, Fabio.»; mattutina «Buongiorno, Fabio.». Il saluto dipende da collectionId, non dall'ora in cui si apre la PWA. Per edizioni precedenti prive di ciclo usa generatedAt in Europe/Rome.
-- Modifica mirata al titolo Tutte; categorie e resto della UI invariati. Cache PWA v13 per distribuire il nuovo app.js. Sintassi JS e casi mattina/pomeriggio/legacy verificati; pubblicazione run40839428160 SUCCESS, commit400df564aca515212aeb07337f301c752cec74bd. Browser pubblico serve app.js?v=13; saluto mattutino presente e logica Buonasera pomeridiana verificata nel codice pubblico.
-
-## Link personale Manuela
-- Autorizzato da Fabio: https://jeyheich.github.io/stamattina/?per=manuela mostra Manuela nel saluto; URL standard resta Fabio. Parametro con due nomi ammessi, nessuna identificazione del dispositivo o nome immesso dall'utente.
-- Saluto mattina/sera continua a dipendere dall'edizione. Link del logo conserva il profilo; manifest personale con start_url e id ./?per=manuela per l'avvio Home. Nessun nuovo account, servizio o cambio alle attività/contenuti. Cache PWA v14.
-- Sintassi e casi Fabio/Manuela mattina/sera, parametro sconosciuto e manifest verificati; pubblicazione run40942672369 SUCCESS, commit4602364944c9b98db8dc8e03a29b9a3e547681b7. Browser pubblico verificato: link personale «Buonasera, Manuela.», standard «Buonasera, Fabio.», manifest personale raggiungibile con start_url corretto. Installazione fisica iPhone non effettuata.
-
-## Correzione Home di Manuela
-- Fabio segnala che l'icona iPhone del link con ?per=manuela torna al suo nome: la verifica browser precedente non dimostrava installazione iOS corretta.
-- Sostituzione con pagina statica dedicata /stamattina/manuela/, manifest personale già nel markup con id/start_url/scope sul percorso. Saluto riconosciuto dal percorso; vecchio link con parametro reindirizza alla pagina dedicata. Nessun nome condiviso salvato in storage.
-- Cache v15 include la pagina personale e relativo fallback offline; logo e ancore conservano /manuela/. La shell personale segue dist/index.html: mantenere coerenti le future modifiche comuni. Pubblicata in 8f01d4cd6da4c8d66e49be72171277eded668e1e, run40943729343 SUCCESS. Browser pubblico: Buonasera Manuela su /manuela/, manifest con percorso dedicato, reload offline mantiene Manuela, vecchio link reindirizza correttamente. Connessione ripristinata. Per l'icona iOS già creata occorre rimuovere solo quell'icona e aggiungere il nuovo percorso; installazione fisica iPhone ancora da provare dall'utente.
+## Verifiche e prossimo passo
+- Test cloud di regressione in preparazione sul branch fix/editorial-cycles; non ancora dichiarati superati.
+- Dopo esito positivo: integrare su main senza sovrascrivere modifiche concorrenti; osservare Pubblica Stamattina e JSON pubblico senza cache.
+- Le verifiche editoriali scadute richiedono reale rilettura, non è compito della migrazione. Nessuna garanzia che i dodici avvii bastino per 80 fatti verificati.

@@ -1,0 +1,41 @@
+name: Test cicli editoriali
+on:
+  push:
+    branches: [main, fix/editorial-cycles]
+    paths: ['scripts/**', '.github/workflows/**']
+  pull_request:
+    paths: ['scripts/**', '.github/workflows/**']
+permissions:
+  contents: read
+jobs:
+  regression:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: |
+          node scripts/test_batches.mjs
+          node scripts/test_editorial_cycles.mjs
+          python3 scripts/test_candidate_slot.py
+          node scripts/validate.mjs dist/data/current.json --production --balanced
+          node --check dist/app.js
+          node --check dist/sw.js
+          python3 -m py_compile scripts/verify_publication.py scripts/verify_sources.py
+      - name: Verifica pubblica indipendente senza cache e archivio
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          import sys
+          sys.path.insert(0, 'scripts')
+          from verify_publication import verify
+          edition = json.loads(Path('dist/data/current.json').read_text())
+          print('Public checked at:', verify(edition))
+          print('Public collection:', edition.get('collectionId'), 'total:', len(edition['articles']), 'reserves:', len(edition.get('reserveIds', [])))
+          assert json.loads(Path('dist/data/archive', edition['id'] + '.json').read_text()) == edition
+          print('Archive identical')
+          PY

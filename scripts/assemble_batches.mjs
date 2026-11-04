@@ -4,6 +4,7 @@ import crypto from 'node:crypto';
 import assert from 'node:assert/strict';
 import {fileURLToPath} from 'node:url';
 import {validate} from './validate.mjs';
+import {parseCycle,cyclePath,selectCycle,readBlocks,ingestLegacy,writeJSON} from './editorial_cycles.mjs';
 
 export const categories = [
   ['politica','Politica'],['esteri','Esteri'],['economia','Economia'],
@@ -40,16 +41,16 @@ export function validateBlock(block,slug,today,now=Date.now(),partial=false){
   assert.equal(new Set(block.articles.map(a=>a.eventKey)).size,block.articles.length,'Stesso fatto ripetuto');
   return block;
 }
-export function assemble(blocks,today=romeDay(),now=Date.now()){
+export function assemble(blocks,today=romeDay(),now=Date.now(),requestedCycle){
   const state={editionDate:today,checkedAt:new Date(now).toISOString(),ready:false,editorialComplete:false,reserveMissing:categories.map(([slug])=>slug),completed:[],inProgress:[],missing:[],invalid:[],stories:[]};
   const articles=[],reserves=[];
   // A same-day refresh must not mix freshly reviewed blocks with the earlier edition.
   const cycles=[...new Set(Object.values(blocks).filter(b=>b.editionDate===today).map(b=>b.collectionId).filter(Boolean))];
-  if(cycles.length>1){state.invalid.push({slug:'edition',reason:'Cicli editoriali differenti'});return {state};}
-  const cycle=cycles[0];if(cycle)state.collectionId=cycle;
+  if(!requestedCycle&&cycles.length>1){state.invalid.push({slug:'edition',reason:'Cicli editoriali differenti'});return {state};}
+  const cycle=requestedCycle||cycles[0];if(cycle){try{assert.equal(parseCycle(cycle).day,today);}catch(e){state.invalid.push({slug:'edition',reason:e.message});return {state};}state.collectionId=cycle;}
   for(const [slug,name] of categories){
     if(!blocks[slug]){state.missing.push(slug);continue;}
-    if(cycle&&blocks[slug].collectionId!==cycle){state.missing.push(slug);continue;}
+    if(cycle&&blocks[slug].collectionId!==cycle){state.missing.push(slug);state.invalid.push({slug,reason:'collectionId errato: atteso '+cycle});continue;}
     try{
       const partial=blocks[slug].status==='in-progress';validateBlock(blocks[slug],slug,today,now,partial);
       if(partial){state.inProgress.push({slug,count:blocks[slug].articles.length});state.stories.push(...blocks[slug].articles.map(({id,category,title,eventKey})=>({id,category,title,eventKey,pending:true})));}
@@ -80,22 +81,32 @@ export function assemble(blocks,today=romeDay(),now=Date.now()){
     const edition={schemaVersion:1,...(cycle?{collectionId:cycle}:{}),id:today+'-batches-'+fingerprint,mode:'live',editionDate:today,
       generatedAt:new Date(now).toISOString(),timezone:'Europe/Rome',scheduledFor:today+(cycle?.endsWith('-pomeriggio')?'T19:00:00':'T09:00:00')+offset,
       essentialIds:leadIds,leadIds,compactIds:articles.filter(a=>!leadSet.has(a.id)).map(a=>a.id),articles:editionArticles,...(reserves.length?{reserveIds:reserves.map(a=>a.id)}:{})};
-    validate(edition,true,true);state.ready=true;state.editorialComplete=state.reserveMissing.length===0;state.editionId=edition.id;return {state,edition};
+    validate(edition,true,true);state.ready=true;state.editorialComplete=state.reserveMissing.length===0;state.preparation=state.editorialComplete?'editorialmente-completa':'tecnicamente-pubblicabile';state.editionId=edition.id;return {state,edition};
   }catch(e){state.invalid.push({slug:'edition',reason:e.message});return {state};}
 }
+export function runAssembly({root='automation/editorial',cycle,now=Date.now(),history=false}={}){
+ const selected=selectCycle({explicit:cycle,scheduledAt:process.env.EDITORIAL_SCHEDULED_AT,now:new Date(now)});
+ const {day}=parseCycle(selected);
+ const importErrors=ingestLegacy(root,day,{history});
+ const file=path.join(cyclePath(root,selected),'status.json');
+ const previous=fs.existsSync(file)?JSON.parse(fs.readFileSync(file)):null;
+ const result=assemble(readBlocks(root,selected),day,now,selected);
+ if(importErrors.length){result.state.invalid.push(...importErrors);result.state.ready=false;result.state.editorialComplete=false;delete result.edition;}
+ if(!result.state.ready)result.state.preparation='in-preparazione';
+ result.state.message=!result.state.ready?'Edizione in preparazione':result.state.editorialComplete?'Edizione editorialmente completa':'Edizione online, aggiuntive incomplete: '+result.state.reserveMissing.join(', ');
+ const current=fs.existsSync('dist/data/current.json')?JSON.parse(fs.readFileSync('dist/data/current.json')):null;
+ const canAdvance=!current?.collectionId||selected>=current.collectionId;
+ result.state.needsPublication=!!result.edition&&current?.id!==result.edition.id&&canAdvance;
+ result.state.publicCollectionId=current?.collectionId;
+ if(!canAdvance)result.state.publicationBlocked='Ciclo precedente a quello online';
+ if(current?.id===result.state.editionId&&previous?.publicEditionId===current.id&&previous.publication==='verified'){
+  Object.assign(result.state,{publicEditionId:previous.publicEditionId,publicVerifiedAt:previous.publicVerifiedAt,publication:'verified'});
+ }
+ writeJSON(file,result.state);writeJSON(path.join(root,'status.json'),result.state);
+ if(result.state.needsPublication)writeJSON('incoming/edition.json',result.edition);
+ if(process.env.GITHUB_OUTPUT)fs.appendFileSync(process.env.GITHUB_OUTPUT,'ready='+String(result.state.needsPublication)+'\ncomplete='+String(result.state.ready)+'\ncollectionId='+selected+'\n');
+ return result;
+}
 if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url)){
-  const today=romeDay(),root=process.argv[2]||'automation/editorial';const blocks={};
-  for(const [slug] of categories){const file=path.join(root,today,slug+'.json');if(fs.existsSync(file)){try{blocks[slug]=JSON.parse(fs.readFileSync(file));}catch(e){blocks[slug]={schemaVersion:0,error:e.message};}}}
-  const savedStateFile=path.join(root,'status.json');
-  const previous=fs.existsSync(savedStateFile)?JSON.parse(fs.readFileSync(savedStateFile)):null;
-  const result=assemble(blocks,today);fs.mkdirSync(root,{recursive:true});
-  const current=fs.existsSync('dist/data/current.json')?JSON.parse(fs.readFileSync('dist/data/current.json')):null;
-  result.state.needsPublication=!!result.edition&&current?.id!==result.edition.id;
-  if(current?.id===result.state.editionId&&previous?.publicEditionId===current.id&&previous.publication==='verified'){
-    Object.assign(result.state,{publicEditionId:previous.publicEditionId,publicVerifiedAt:previous.publicVerifiedAt,publication:'verified'});
-  }
-  fs.writeFileSync(path.join(root,'status.json'),JSON.stringify(result.state,null,2)+'\n');
-  if(result.state.needsPublication){fs.mkdirSync('incoming',{recursive:true});fs.writeFileSync('incoming/edition.json',JSON.stringify(result.edition,null,2)+'\n');}
-  if(process.env.GITHUB_OUTPUT)fs.appendFileSync(process.env.GITHUB_OUTPUT,'ready='+String(result.state.needsPublication)+'\ncomplete='+String(result.state.ready)+'\n');
-  console.log(JSON.stringify(result.state));
+ console.log(JSON.stringify(runAssembly({root:process.argv[2]||'automation/editorial',cycle:process.env.EDITORIAL_COLLECTION_ID,history:process.argv.includes('--recover-history')}).state));
 }
