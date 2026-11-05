@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-05",
+  "collectionId": "2026-11-05-pomeriggio",
+  "category": "Sport",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-05T17:09:29.165Z",
+  "articles": [
+    {
+      "id": "sport-f1-brasile-antonelli-programma-20261105",
+      "eventKey": "formula-1-gran-premio-brasile-programma-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Formula 1 a Interlagos: il programma del Gran Premio del Brasile",
+      "summary": "Il Mondiale di Formula 1 arriva a São Paulo dal 5 all'8 novembre. Il fine settimana prevede prove libere venerdì e sabato, qualifiche sabato e gara domenica alle 18, ora italiana.",
+      "body": [
+        "La Formula 1 fa tappa a Interlagos per il Gran Premio di São Paulo, in programma dal 5 all'8 novembre. La giornata di giovedì apre il weekend con la conferenza stampa dei piloti.",
+        "Secondo il programma pubblicato da Sky Sport, le prove libere si disputano venerdì e sabato; le qualifiche sono fissate sabato alle 19 e il Gran Premio domenica alle 18, negli orari italiani."
+      ],
+      "publishedAt": "2026-11-05T08:00:00Z",
+      "verifiedAt": "2026-11-05T17:09:29.165Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/formula-1/2026/11/04/f1-orari-gp-brasile-2026-interlagos",
+        "access": "free",
+        "accessCheckedAt": "2026-11-05T17:09:29.165Z",
+        "dateEvidence": "Pagina Sky Sport aperta e letta: intestazione articolo '05 nov 2026 - 09:00'; il percorso URL contiene /2026/11/04, ma prevale la data visibile dell'articolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveDraft": []
+}
