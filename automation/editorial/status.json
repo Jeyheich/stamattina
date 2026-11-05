@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-05",
-  "checkedAt": "2026-11-05T07:03:21.027Z",
+  "checkedAt": "2026-11-05T07:11:38.262Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -23,7 +23,7 @@
     },
     {
       "slug": "cronaca",
-      "count": 1
+      "count": 2
     },
     {
       "slug": "cultura",
@@ -53,6 +53,13 @@
       "category": "Cronaca",
       "title": "Castellammare di Stabia, indagine su un loculo occupato da un'altra salma",
       "eventKey": "castellammare-stabia-loculo-occupato-indagine-2026",
+      "pending": true
+    },
+    {
+      "id": "cronaca-cinque-morti-lavoro-italia-20261104",
+      "category": "Cronaca",
+      "title": "Cinque lavoratori morti in un giorno, incidenti in cinque regioni",
+      "eventKey": "cinque-vittime-incidenti-lavoro-italia-4-novembre-2026",
       "pending": true
     },
     {
