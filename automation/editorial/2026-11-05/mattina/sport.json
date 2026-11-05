@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-05",
+  "collectionId": "2026-11-05-mattina",
+  "category": "Sport",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-05T06:10:42.647Z",
+  "articles": [
+    {
+      "id": "sport-juventus-az-probabili-20261104",
+      "eventKey": "az-juventus-formazioni-assenza-mckennie-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Juventus verso l'AZ Alkmaar: McKennie fuori, spazio a Sarr",
+      "summary": "La Juventus prepara la trasferta di Europa League del 5 novembre contro l'AZ Alkmaar. McKennie è indisponibile per affaticamento; tra le ipotesi di formazione figurano Sarr e Koopmeiners in mezzo al campo.",
+      "body": [
+        "La squadra di Spalletti affronta l'AZ Alkmaar alle 21 del 5 novembre. Le probabili formazioni pubblicate da Sky Sport indicano l'assenza di McKennie per affaticamento muscolare.",
+        "La formazione non è ufficiale: sono previsti Sarr e Koopmeiners a centrocampo e la coppia offensiva Woltemade-Kolo Muani."
+      ],
+      "publishedAt": "2026-11-04T19:15:00+01:00",
+      "verifiedAt": "2026-11-05T06:10:42.647Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/europa-league/2026/11/04/az-alkmaar-juventus-probabili-formazioni-4-giornata",
+        "access": "free",
+        "accessCheckedAt": "2026-11-05T06:10:42.647Z",
+        "dateEvidence": "Sky Sport indica «04 nov 2026 - 19:15» nell'articolo originale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-usa-convocati-pulisic-mckennie-20261104",
+      "eventKey": "usa-convocazioni-pochettino-haiti-pulisic-mckennie-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Stati Uniti, convocati Pulisic e McKennie per la sfida con Haiti",
+      "summary": "Mauricio Pochettino ha incluso i due calciatori di Serie A nell'elenco dei 25 convocati per i quarti di Concacaf Nations League contro Haiti del 14 e 17 novembre. McKennie è chiamato nonostante un affaticamento muscolare.",
+      "body": [
+        "La nazionale statunitense ha diramato la lista dei giocatori per le due partite di novembre contro Haiti. Nell'elenco figurano Christian Pulisic del Milan e Weston McKennie della Juventus.",
+        "McKennie, pur convocato, è indicato come indisponibile per la partita di Europa League della Juventus contro l'AZ Alkmaar a causa di affaticamento muscolare."
+      ],
+      "publishedAt": "2026-11-04T20:35:00+01:00",
+      "verifiedAt": "2026-11-05T06:10:42.647Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/2026/11/04/usa-convocati-pochettino",
+        "access": "free",
+        "accessCheckedAt": "2026-11-05T06:10:42.647Z",
+        "dateEvidence": "Sky Sport indica «04 nov 2026 - 20:35» nell'articolo originale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
+}
