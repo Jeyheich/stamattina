@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-05",
-  "checkedAt": "2026-11-05T05:18:59.423Z",
+  "checkedAt": "2026-11-05T06:10:59.180Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,7 +13,9 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [],
+  "completed": [
+    "tecnologia"
+  ],
   "inProgress": [
     {
       "slug": "economia",
@@ -22,15 +24,17 @@
     {
       "slug": "cronaca",
       "count": 1
+    },
+    {
+      "slug": "sport",
+      "count": 2
     }
   ],
   "missing": [
     "politica",
     "esteri",
     "roma",
-    "cultura",
-    "tecnologia",
-    "sport"
+    "cultura"
   ],
   "invalid": [],
   "stories": [
@@ -47,6 +51,50 @@
       "title": "Castellammare di Stabia, indagine su un loculo occupato da un'altra salma",
       "eventKey": "castellammare-stabia-loculo-occupato-indagine-2026",
       "pending": true
+    },
+    {
+      "id": "sport-juventus-az-probabili-20261104",
+      "category": "Sport",
+      "title": "Juventus verso l'AZ Alkmaar: McKennie fuori, spazio a Sarr",
+      "eventKey": "az-juventus-formazioni-assenza-mckennie-2026",
+      "pending": true
+    },
+    {
+      "id": "sport-usa-convocati-pulisic-mckennie-20261104",
+      "category": "Sport",
+      "title": "Stati Uniti, convocati Pulisic e McKennie per la sfida con Haiti",
+      "eventKey": "usa-convocazioni-pochettino-haiti-pulisic-mckennie-2026",
+      "pending": true
+    },
+    {
+      "id": "pi-midterm-ai-datacenter-20261104",
+      "category": "Tecnologia · AI",
+      "title": "Midterm USA, possibili nuovi ostacoli per i data center AI",
+      "eventKey": "midterm-usa-2026-impatto-ai-datacenter"
+    },
+    {
+      "id": "pi-netflix-ai-discover-20261104",
+      "category": "Tecnologia · AI",
+      "title": "Netflix sperimenta AI Discover per scegliere cosa guardare",
+      "eventKey": "netflix-ai-discover-test-usa-2026"
+    },
+    {
+      "id": "pi-francia-tassa-traffico-videolan-20261104",
+      "category": "Tecnologia · AI",
+      "title": "Francia, VideoLAN contesta una proposta di tassa sul traffico dati",
+      "eventKey": "francia-emendamento-tassa-traffico-dati-videolan-2026"
+    },
+    {
+      "id": "tech-final-fantasy-kitase-futuro-20261104",
+      "category": "Tecnologia · AI",
+      "title": "Final Fantasy, Kitase preferisce nuovi progetti ad altri remake",
+      "eventKey": "final-fantasy-kitase-futuro-remake-nuovi-giochi-2026"
+    },
+    {
+      "id": "tech-phantom-blade-zero-patch-20261104",
+      "category": "Tecnologia · AI",
+      "title": "Phantom Blade Zero, prima patch con bilanciamento e ottimizzazioni",
+      "eventKey": "phantom-blade-zero-primo-update-bilanciamento-2026"
     }
   ],
   "collectionId": "2026-11-05-mattina",
@@ -100,7 +148,7 @@
       "complete": false
     },
     "tecnologia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
