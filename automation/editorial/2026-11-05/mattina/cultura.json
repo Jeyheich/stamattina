@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-05",
+  "collectionId": "2026-11-05-mattina",
+  "category": "Cultura · Teatro · Cinema",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-05T06:20:03.020Z",
+  "articles": [
+    {
+      "id": "cultura-arte-salute-25-anni-teatro-20261104",
+      "eventKey": "arte-salute-bologna-25-anni-compagnia-teatrale-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Arte e Salute compie 25 anni: il teatro come professione e inclusione",
+      "summary": "La compagnia bolognese nata nel 2001 celebra un quarto di secolo di attività. Una nuova intervista racconta il lavoro degli attori e la collaborazione con Emilia Romagna Teatro.",
+      "body": [
+        "Fondata nel 2001 dall'incontro fra professionisti della scena e della salute mentale, Arte e Salute celebra venticinque anni di attività teatrale. Il progetto ha sviluppato produzioni e percorsi professionali in collaborazione con importanti realtà culturali dell'Emilia-Romagna.",
+        "In un'intervista pubblicata il 4 novembre, attori e operatori distinguono il loro lavoro dalla teatroterapia e sottolineano la qualità artistica delle produzioni. La compagnia torna al Teatro delle Moline con Lazin’ on a sunny afternoon, mentre prepara Così è se vi pare per aprile 2027."
+      ],
+      "publishedAt": "2026-11-04T00:00:00+01:00",
+      "verifiedAt": "2026-11-05T06:20:03.020Z",
+      "source": {
+        "name": "Teatro e Critica",
+        "url": "https://www.teatroecritica.net/2026/11/i-venticinque-anni-di-arte-e-salute-larte-la-relazione-e-la-cultura-come-strumenti-di-liberta/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-05T06:20:03.020Z",
+        "dateEvidence": "La pagina dell'intervista firmata Silvia Maiuri riporta esplicitamente 4 Novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
