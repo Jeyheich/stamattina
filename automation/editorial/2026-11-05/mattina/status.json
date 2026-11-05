@@ -1,0 +1,119 @@
+{
+  "editionDate": "2026-11-05",
+  "checkedAt": "2026-11-05T05:18:44.902Z",
+  "ready": false,
+  "editorialComplete": false,
+  "reserveMissing": [
+    "politica",
+    "esteri",
+    "economia",
+    "cronaca",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
+  ],
+  "completed": [],
+  "inProgress": [
+    {
+      "slug": "economia",
+      "count": 1
+    },
+    {
+      "slug": "cronaca",
+      "count": 1
+    }
+  ],
+  "missing": [
+    "politica",
+    "esteri",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
+  ],
+  "invalid": [],
+  "stories": [
+    {
+      "id": "economia-borse-usa-dollaro-midterm-20261104",
+      "category": "Economia",
+      "title": "Wall Street sale dopo le elezioni di metà mandato, dollaro in calo",
+      "eventKey": "mercati-usa-dollaro-reazione-midterm-2026",
+      "pending": true
+    },
+    {
+      "id": "cronaca-loculo-castellammare-salma-20261104",
+      "category": "Cronaca",
+      "title": "Castellammare di Stabia, indagine su un loculo occupato da un'altra salma",
+      "eventKey": "castellammare-stabia-loculo-occupato-indagine-2026",
+      "pending": true
+    }
+  ],
+  "collectionId": "2026-11-05-mattina",
+  "reserveCounts": {
+    "Politica": 0,
+    "Esteri": 0,
+    "Economia": 0,
+    "Cronaca": 0,
+    "Roma": 0,
+    "Cultura · Teatro · Cinema": 0,
+    "Tecnologia · AI": 0,
+    "Sport": 0
+  },
+  "photoCandidates": [],
+  "photosAvailable": 0,
+  "categoryProgress": {
+    "politica": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "esteri": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "economia": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "cronaca": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "roma": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "cultura": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "tecnologia": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "sport": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    }
+  },
+  "preparation": "in-preparazione",
+  "message": "Edizione in preparazione",
+  "needsPublication": false,
+  "publicCollectionId": "2026-11-04-mattina"
+}

@@ -1,6 +1,6 @@
 {
-  "editionDate": "2026-11-04",
-  "checkedAt": "2026-11-04T17:55:01.511Z",
+  "editionDate": "2026-11-05",
+  "checkedAt": "2026-11-05T05:18:44.902Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -22,54 +22,34 @@
     {
       "slug": "cronaca",
       "count": 1
-    },
-    {
-      "slug": "roma",
-      "count": 1
-    },
-    {
-      "slug": "cultura",
-      "count": 1
     }
   ],
   "missing": [
     "politica",
     "esteri",
+    "roma",
+    "cultura",
     "tecnologia",
     "sport"
   ],
   "invalid": [],
   "stories": [
     {
-      "id": "economia-ms-utili-semestrali-ripresa-cyberattacco-20261104",
+      "id": "economia-borse-usa-dollaro-midterm-20261104",
       "category": "Economia",
-      "title": "Marks & Spencer, utili semestrali a 355 milioni di sterline dopo l'attacco informatico",
-      "eventKey": "marks-spencer-utili-semestrali-recupero-cyberattacco-20261104",
+      "title": "Wall Street sale dopo le elezioni di metà mandato, dollaro in calo",
+      "eventKey": "mercati-usa-dollaro-reazione-midterm-2026",
       "pending": true
     },
     {
-      "id": "cronaca-malcesine-fabriano-incidenti-lavoro-20261103",
+      "id": "cronaca-loculo-castellammare-salma-20261104",
       "category": "Cronaca",
-      "title": "Due operai morti in incidenti sul lavoro a Malcesine e Fabriano",
-      "eventKey": "incidenti-lavoro-malcesine-fabriano-3-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "roma-mattarella-altare-patria-4nov-2026",
-      "category": "Roma",
-      "title": "Mattarella rende omaggio al Milite Ignoto a Roma",
-      "eventKey": "cerimonia-mattarella-milite-ignoto-4-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "cultura-musei-statali-gratis-4nov-2026",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Musei statali gratuiti per la ricorrenza del 4 novembre",
-      "eventKey": "ingresso-gratuito-musei-statali-4-novembre-2026",
+      "title": "Castellammare di Stabia, indagine su un loculo occupato da un'altra salma",
+      "eventKey": "castellammare-stabia-loculo-occupato-indagine-2026",
       "pending": true
     }
   ],
-  "collectionId": "2026-11-04-pomeriggio",
+  "collectionId": "2026-11-05-mattina",
   "reserveCounts": {
     "Politica": 0,
     "Esteri": 0,
