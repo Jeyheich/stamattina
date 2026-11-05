@@ -3,7 +3,7 @@
   "editionDate": "2026-11-05",
   "collectionId": "2026-11-05-mattina",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-05T05:18:32.028Z",
+  "lastAttemptAt": "2026-11-05T07:10:47Z",
   "reserveDraft": [],
   "reserveArticles": [],
   "category": "Cronaca",
@@ -29,6 +29,28 @@
       },
       "status": "verified",
       "verifiedAt": "2026-11-05T05:18:32.028Z"
+    },
+    {
+      "id": "cronaca-cinque-morti-lavoro-italia-20261104",
+      "eventKey": "cinque-vittime-incidenti-lavoro-italia-4-novembre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Cinque lavoratori morti in un giorno, incidenti in cinque regioni",
+      "summary": "Il 4 novembre cinque persone hanno perso la vita in incidenti sul lavoro in diverse regioni italiane, dal Salento al Novarese. Le autorità indagano sulle dinamiche.",
+      "body": [
+        "A Casarano un imprenditore edile è stato travolto da un cancello scorrevole; nel Piacentino un addetto ai contatori è stato investito durante una manovra automobilistica. Un altro operaio è morto nel Beneventano dopo una caduta.",
+        "A Marghera si indaga su possibili esalazioni tossiche in un cantiere navale; a Trecate un lavoratore è stato colpito dal braccio di una gru. RaiNews ha ricostruito i cinque casi nella giornata del 4 novembre."
+      ],
+      "publishedAt": "2026-11-04T00:00:00+01:00",
+      "verifiedAt": "2026-11-05T07:10:47Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/incidente-sul-lavoro-in-salento-muore-titolare-ditta-schiacciato-da-un-cancello-96067210-a70b-47e9-a5b0-b05f71b5d521.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-05T07:10:47Z",
+        "dateEvidence": "L'articolo RaiNews mostra esplicitamente la data 04/11/2026, senza orario di pubblicazione.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
   ]
 }
