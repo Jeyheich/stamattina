@@ -1,0 +1,126 @@
+{
+  "editionDate": "2026-11-05",
+  "checkedAt": "2026-11-05T15:16:23.123Z",
+  "ready": false,
+  "editorialComplete": false,
+  "reserveMissing": [
+    "politica",
+    "esteri",
+    "economia",
+    "cronaca",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
+  ],
+  "completed": [],
+  "inProgress": [
+    {
+      "slug": "economia",
+      "count": 2
+    },
+    {
+      "slug": "cronaca",
+      "count": 1
+    }
+  ],
+  "missing": [
+    "politica",
+    "esteri",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
+  ],
+  "invalid": [],
+  "stories": [
+    {
+      "id": "economia-south-west-water-perdite-20261105",
+      "category": "Economia",
+      "title": "Inghilterra, perdite idriche e siccità mettono a rischio le forniture",
+      "eventKey": "south-west-water-perdite-rischio-forniture-2026",
+      "pending": true
+    },
+    {
+      "id": "economia-rinnovabili-usa-midterm-20261105",
+      "category": "Economia",
+      "title": "Rinnovabili in rialzo dopo le elezioni americane di metà mandato",
+      "eventKey": "rinnovabili-usa-rialzo-borsa-dopo-midterm-2026",
+      "pending": true
+    },
+    {
+      "id": "cronaca-monza-direttrice-asilo-arrestata-20261105",
+      "category": "Cronaca",
+      "title": "Monza, direttrice di asilo arrestata per presunti maltrattamenti",
+      "eventKey": "monza-arresto-direttrice-asilo-maltrattamenti-2026",
+      "pending": true
+    }
+  ],
+  "collectionId": "2026-11-05-pomeriggio",
+  "reserveCounts": {
+    "Politica": 0,
+    "Esteri": 0,
+    "Economia": 0,
+    "Cronaca": 0,
+    "Roma": 0,
+    "Cultura · Teatro · Cinema": 0,
+    "Tecnologia · AI": 0,
+    "Sport": 0
+  },
+  "photoCandidates": [],
+  "photosAvailable": 0,
+  "categoryProgress": {
+    "politica": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "esteri": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "economia": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "cronaca": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "roma": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "cultura": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "tecnologia": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "sport": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    }
+  },
+  "preparation": "in-preparazione",
+  "message": "Edizione in preparazione",
+  "needsPublication": false,
+  "publicCollectionId": "2026-11-04-mattina"
+}

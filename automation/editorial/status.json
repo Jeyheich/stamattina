@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-05",
-  "checkedAt": "2026-11-05T07:11:38.262Z",
+  "checkedAt": "2026-11-05T15:16:23.123Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,115 +13,50 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [
-    "tecnologia"
-  ],
+  "completed": [],
   "inProgress": [
     {
       "slug": "economia",
-      "count": 1
-    },
-    {
-      "slug": "cronaca",
       "count": 2
     },
     {
-      "slug": "cultura",
+      "slug": "cronaca",
       "count": 1
-    },
-    {
-      "slug": "sport",
-      "count": 3
     }
   ],
   "missing": [
     "politica",
     "esteri",
-    "roma"
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
   ],
   "invalid": [],
   "stories": [
     {
-      "id": "economia-borse-usa-dollaro-midterm-20261104",
+      "id": "economia-south-west-water-perdite-20261105",
       "category": "Economia",
-      "title": "Wall Street sale dopo le elezioni di metà mandato, dollaro in calo",
-      "eventKey": "mercati-usa-dollaro-reazione-midterm-2026",
+      "title": "Inghilterra, perdite idriche e siccità mettono a rischio le forniture",
+      "eventKey": "south-west-water-perdite-rischio-forniture-2026",
       "pending": true
     },
     {
-      "id": "cronaca-loculo-castellammare-salma-20261104",
+      "id": "economia-rinnovabili-usa-midterm-20261105",
+      "category": "Economia",
+      "title": "Rinnovabili in rialzo dopo le elezioni americane di metà mandato",
+      "eventKey": "rinnovabili-usa-rialzo-borsa-dopo-midterm-2026",
+      "pending": true
+    },
+    {
+      "id": "cronaca-monza-direttrice-asilo-arrestata-20261105",
       "category": "Cronaca",
-      "title": "Castellammare di Stabia, indagine su un loculo occupato da un'altra salma",
-      "eventKey": "castellammare-stabia-loculo-occupato-indagine-2026",
+      "title": "Monza, direttrice di asilo arrestata per presunti maltrattamenti",
+      "eventKey": "monza-arresto-direttrice-asilo-maltrattamenti-2026",
       "pending": true
-    },
-    {
-      "id": "cronaca-cinque-morti-lavoro-italia-20261104",
-      "category": "Cronaca",
-      "title": "Cinque lavoratori morti in un giorno, incidenti in cinque regioni",
-      "eventKey": "cinque-vittime-incidenti-lavoro-italia-4-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "cultura-arte-salute-25-anni-teatro-20261104",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Arte e Salute compie 25 anni: il teatro come professione e inclusione",
-      "eventKey": "arte-salute-bologna-25-anni-compagnia-teatrale-2026",
-      "pending": true
-    },
-    {
-      "id": "sport-juventus-az-probabili-20261104",
-      "category": "Sport",
-      "title": "Juventus verso l'AZ Alkmaar: McKennie fuori, spazio a Sarr",
-      "eventKey": "az-juventus-formazioni-assenza-mckennie-2026",
-      "pending": true
-    },
-    {
-      "id": "sport-usa-convocati-pulisic-mckennie-20261104",
-      "category": "Sport",
-      "title": "Stati Uniti, convocati Pulisic e McKennie per la sfida con Haiti",
-      "eventKey": "usa-convocazioni-pochettino-haiti-pulisic-mckennie-2026",
-      "pending": true
-    },
-    {
-      "id": "sport-f1-brasile-programma-antonelli-20261104",
-      "category": "Sport",
-      "title": "Formula 1 in Brasile, Antonelli al primo GP da campione del mondo",
-      "eventKey": "formula-uno-gp-brasile-2026-programma-interlagos",
-      "pending": true
-    },
-    {
-      "id": "pi-midterm-ai-datacenter-20261104",
-      "category": "Tecnologia · AI",
-      "title": "Midterm USA, possibili nuovi ostacoli per i data center AI",
-      "eventKey": "midterm-usa-2026-impatto-ai-datacenter"
-    },
-    {
-      "id": "pi-netflix-ai-discover-20261104",
-      "category": "Tecnologia · AI",
-      "title": "Netflix sperimenta AI Discover per scegliere cosa guardare",
-      "eventKey": "netflix-ai-discover-test-usa-2026"
-    },
-    {
-      "id": "pi-francia-tassa-traffico-videolan-20261104",
-      "category": "Tecnologia · AI",
-      "title": "Francia, VideoLAN contesta una proposta di tassa sul traffico dati",
-      "eventKey": "francia-emendamento-tassa-traffico-dati-videolan-2026"
-    },
-    {
-      "id": "tech-final-fantasy-kitase-futuro-20261104",
-      "category": "Tecnologia · AI",
-      "title": "Final Fantasy, Kitase preferisce nuovi progetti ad altri remake",
-      "eventKey": "final-fantasy-kitase-futuro-remake-nuovi-giochi-2026"
-    },
-    {
-      "id": "tech-phantom-blade-zero-patch-20261104",
-      "category": "Tecnologia · AI",
-      "title": "Phantom Blade Zero, prima patch con bilanciamento e ottimizzazioni",
-      "eventKey": "phantom-blade-zero-primo-update-bilanciamento-2026"
     }
   ],
-  "collectionId": "2026-11-05-mattina",
+  "collectionId": "2026-11-05-pomeriggio",
   "reserveCounts": {
     "Politica": 0,
     "Esteri": 0,
@@ -172,7 +107,7 @@
       "complete": false
     },
     "tecnologia": {
-      "base": 5,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
