@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-05",
-  "checkedAt": "2026-11-05T16:07:09.309Z",
+  "checkedAt": "2026-11-05T17:09:49.637Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -26,14 +26,17 @@
     {
       "slug": "tecnologia",
       "count": 1
+    },
+    {
+      "slug": "sport",
+      "count": 1
     }
   ],
   "missing": [
     "politica",
     "esteri",
     "roma",
-    "cultura",
-    "sport"
+    "cultura"
   ],
   "invalid": [],
   "stories": [
@@ -63,6 +66,13 @@
       "category": "Tecnologia · AI",
       "title": "HP nomina Emma Walmsley amministratrice delegata: entrerà in carica a gennaio",
       "eventKey": "hp-nomina-emma-walmsley-ceo-2027",
+      "pending": true
+    },
+    {
+      "id": "sport-f1-brasile-antonelli-programma-20261105",
+      "category": "Sport",
+      "title": "Formula 1 a Interlagos: il programma del Gran Premio del Brasile",
+      "eventKey": "formula-1-gran-premio-brasile-programma-2026",
       "pending": true
     }
   ],
