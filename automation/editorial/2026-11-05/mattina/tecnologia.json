@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-05",
+  "collectionId": "2026-11-05-mattina",
+  "category": "Tecnologia · AI",
+  "completedAt": "2026-11-05T06:10:23.292Z",
+  "articles": [
+    {
+      "id": "pi-midterm-ai-datacenter-20261104",
+      "eventKey": "midterm-usa-2026-impatto-ai-datacenter",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Midterm USA, possibili nuovi ostacoli per i data center AI",
+      "summary": "Il nuovo equilibrio al Congresso statunitense potrebbe rendere più complessa l'approvazione di norme favorevoli all'espansione dell'intelligenza artificiale. L'analisi distingue i progetti già avviati dalle future infrastrutture, sulle quali potrebbe crescere l'opposizione locale.",
+      "body": [
+        "Le elezioni di metà mandato negli Stati Uniti cambiano il quadro politico nel quale operano le grandi imprese dell'intelligenza artificiale.",
+        "Secondo l'analisi di Punto Informatico, l'espansione dei data center potrebbe incontrare più resistenze, mentre i progetti già autorizzati potrebbero proseguire. Si tratta di possibili conseguenze politiche, non di blocchi già deliberati."
+      ],
+      "publishedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05T06:10:23.292Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/midterm-usa-cosa-cambia-futuro-ai-data-center/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-05T06:10:23.292Z",
+        "dateEvidence": "La pagina originale indica esplicitamente «Pubblicato il 4 nov 2026».",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "pi-netflix-ai-discover-20261104",
+      "eventKey": "netflix-ai-discover-test-usa-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Netflix sperimenta AI Discover per scegliere cosa guardare",
+      "summary": "Netflix prova negli Stati Uniti una sezione che propone film e serie in base a umore, preferenze e tempo disponibile. L'esperimento è limitato inizialmente agli utenti in inglese su televisori compatibili.",
+      "body": [
+        "AI Discover è una nuova modalità sperimentale per esplorare il catalogo Netflix: permette di indicare l'umore o il tempo a disposizione e di affinare le proposte.",
+        "La disponibilità iniziale è circoscritta agli Stati Uniti e a televisori compatibili; non è un lancio generalizzato."
+      ],
+      "publishedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05T06:10:23.292Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/ai-discover-netflix-consiglia-film-serie-come-funziona/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-05T06:10:23.292Z",
+        "dateEvidence": "La pagina originale indica esplicitamente «Pubblicato il 4 nov 2026».",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "pi-francia-tassa-traffico-videolan-20261104",
+      "eventKey": "francia-emendamento-tassa-traffico-dati-videolan-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Francia, VideoLAN contesta una proposta di tassa sul traffico dati",
+      "summary": "Un emendamento alla legge finanziaria francese propone un prelievo di 0,055 euro per gigabyte inviato agli utenti. VideoLAN critica il possibile impatto sulle organizzazioni senza scopo di lucro; il testo non è ancora una legge definitiva.",
+      "body": [
+        "L'Assemblea nazionale francese ha approvato un emendamento che prevede un prelievo sul traffico dati delle aziende, con limiti rapportati al fatturato.",
+        "L'organizzazione senza scopo di lucro VideoLAN, nota per VLC, ha contestato la misura. Il provvedimento deve ancora superare il restante iter parlamentare."
+      ],
+      "publishedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05T06:10:23.292Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/tassa-gb-inviati-utenti-francia-ira-videolan/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-05T06:10:23.292Z",
+        "dateEvidence": "La pagina originale indica esplicitamente «Pubblicato il 4 nov 2026».",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tech-final-fantasy-kitase-futuro-20261104",
+      "eventKey": "final-fantasy-kitase-futuro-remake-nuovi-giochi-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Final Fantasy, Kitase preferisce nuovi progetti ad altri remake",
+      "summary": "Il produttore Yoshinori Kitase ha spiegato che, dopo la trilogia dedicata a Final Fantasy VII, preferirebbe lavorare a giochi nuovi piuttosto che guidare subito un altro remake. Ha citato l'interesse per un progetto più orientato all'azione.",
+      "body": [
+        "Durante un'intervista riportata da Everyeye, Yoshinori Kitase ha parlato del futuro di Final Fantasy dopo la conclusione della trilogia remake di Final Fantasy VII.",
+        "Il produttore non ha annunciato un nuovo titolo: ha espresso una preferenza personale per progetti originali e più orientati ai combattimenti."
+      ],
+      "publishedAt": "2026-11-04T20:47:00+01:00",
+      "verifiedAt": "2026-11-05T06:10:23.292Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/square-enix-final-fantasy-futuro-ff7-revelation-kitase-parla-remake-progetti-909837.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-05T06:10:23.292Z",
+        "dateEvidence": "La pagina Everyeye indica «4/11/2026, ore 20:47» accanto all'autore Mario Cariati.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tech-phantom-blade-zero-patch-20261104",
+      "eventKey": "phantom-blade-zero-primo-update-bilanciamento-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Phantom Blade Zero, prima patch con bilanciamento e ottimizzazioni",
+      "summary": "Il primo aggiornamento gratuito di Phantom Blade Zero riduce la difficoltà di un boss opzionale nelle modalità Facile e Normale e introduce regolazioni audio e miglioramenti delle prestazioni su PC e PlayStation 5.",
+      "body": [
+        "S-Game ha distribuito il primo aggiornamento post-lancio di Phantom Blade Zero su PC e PS5, con correzioni legate alle segnalazioni dei giocatori.",
+        "Tra le novità figurano la revisione del boss opzionale Hua nelle difficoltà inferiori, opzioni audio aggiuntive e interventi alle prestazioni."
+      ],
+      "publishedAt": "2026-11-04T20:30:00+01:00",
+      "verifiedAt": "2026-11-05T06:10:23.292Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/phantom-blade-zero-evolve-novita-update-909831.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-05T06:10:23.292Z",
+        "dateEvidence": "La pagina Everyeye indica «4/11/2026, ore 20:30» accanto all'autore Michele Galluzzi.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
+}
