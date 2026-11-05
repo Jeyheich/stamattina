@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-05",
+  "collectionId": "2026-11-05-pomeriggio",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-05T16:15:22+01:00",
+  "reserveArticles": [],
+  "reserveDraft": [],
+  "category": "Economia",
+  "articles": [
+    {
+      "id": "economia-south-west-water-perdite-20261105",
+      "eventKey": "south-west-water-perdite-rischio-forniture-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Inghilterra, perdite idriche e siccità mettono a rischio le forniture",
+      "summary": "Le autorità britanniche contestano a South West Water perdite superiori agli obiettivi e chiedono un piano correttivo entro sei settimane.",
+      "body": [
+        "Le autorità di regolazione hanno avvertito che le perdite nella rete di South West Water aumentano il rischio di interruzioni dell'acqua nel sud-ovest inglese. Secondo i dati citati, le tubature disperdono 113,5 milioni di litri al giorno.",
+        "La società dovrà presentare un piano d'azione entro sei settimane. La siccità ancora grave in alcune zone rende più urgente la riduzione degli sprechi."
+      ],
+      "publishedAt": "2026-11-05T11:00:00+01:00",
+      "verifiedAt": "2026-11-05T16:15:22+01:00",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/05/south-west-water-failure-fix-leaks-putting-customer-supplies-at-risk",
+        "access": "free",
+        "accessCheckedAt": "2026-11-05T16:15:22+01:00",
+        "dateEvidence": "Pagina articolo: Thu 5 Nov 2026 11.00 CET; aggiornamento 11.02 CET.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-rinnovabili-usa-midterm-20261105",
+      "eventKey": "rinnovabili-usa-rialzo-borsa-dopo-midterm-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Rinnovabili in rialzo dopo le elezioni americane di metà mandato",
+      "summary": "Le aziende dell'energia pulita guadagnano terreno in Borsa dopo il successo democratico al Congresso, tra aspettative di minori ostacoli regolatori.",
+      "body": [
+        "Il successo democratico alle elezioni di metà mandato negli Stati Uniti ha sostenuto le quotazioni di diversi produttori di energia rinnovabile. Ørsted ha guadagnato terreno, insieme a EDP Renewables, Engie e RWE.",
+        "Gli analisti citati sottolineano che un Congresso più favorevole potrebbe ridurre l'incertezza normativa sui progetti eolici e solari, senza però garantire un'inversione immediata della politica energetica."
+      ],
+      "publishedAt": "2026-11-05T06:00:00Z",
+      "verifiedAt": "2026-11-05T16:15:22+01:00",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/05/democrats-midterms-triumph-renewable-energy-industry-donald-trump",
+        "access": "free",
+        "accessCheckedAt": "2026-11-05T16:15:22+01:00",
+        "dateEvidence": "Pagina articolo: First published Thu 5 Nov 2026 06.00 GMT; aggiornato 09.04 GMT.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
+}
