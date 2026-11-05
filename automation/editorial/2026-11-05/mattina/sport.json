@@ -4,7 +4,7 @@
   "collectionId": "2026-11-05-mattina",
   "category": "Sport",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-05T06:10:42.647Z",
+  "lastAttemptAt": "2026-11-05T07:03:02.950Z",
   "articles": [
     {
       "id": "sport-juventus-az-probabili-20261104",
@@ -47,6 +47,28 @@
         "access": "free",
         "accessCheckedAt": "2026-11-05T06:10:42.647Z",
         "dateEvidence": "Sky Sport indica «04 nov 2026 - 20:35» nell'articolo originale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-f1-brasile-programma-antonelli-20261104",
+      "eventKey": "formula-uno-gp-brasile-2026-programma-interlagos",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Formula 1 in Brasile, Antonelli al primo GP da campione del mondo",
+      "summary": "Il Mondiale di Formula 1 fa tappa a Interlagos dal 5 all'8 novembre. Per Kimi Antonelli è il primo Gran Premio dopo il titolo conquistato in Messico; prove libere venerdì, qualifiche sabato e gara domenica alle 18 italiane.",
+      "body": [
+        "Il Gran Premio di San Paolo apre giovedì 5 novembre con gli incontri dei piloti con la stampa. Le sessioni in pista cominciano venerdì, mentre le qualifiche sono previste sabato alle 19 italiane.",
+        "Domenica 8 novembre alle 18 è in programma la gara. Per il pilota Mercedes Kimi Antonelli sarà la prima apparizione in un weekend di gara dopo la conquista del campionato mondiale."
+      ],
+      "publishedAt": "2026-11-04T08:00:00+01:00",
+      "verifiedAt": "2026-11-05T07:03:02.950Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/formula-1/2026/11/04/f1-orari-gp-brasile-2026-interlagos",
+        "access": "free",
+        "accessCheckedAt": "2026-11-05T07:03:02.950Z",
+        "dateEvidence": "La pagina Sky Sport riporta esplicitamente «04 nov 2026 - 08:00» sotto il titolo della guida al GP del Brasile.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
