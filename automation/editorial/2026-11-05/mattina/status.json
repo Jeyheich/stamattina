@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-05",
-  "checkedAt": "2026-11-05T06:20:18.166Z",
+  "checkedAt": "2026-11-05T07:03:21.027Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -31,7 +31,7 @@
     },
     {
       "slug": "sport",
-      "count": 2
+      "count": 3
     }
   ],
   "missing": [
@@ -74,6 +74,13 @@
       "category": "Sport",
       "title": "Stati Uniti, convocati Pulisic e McKennie per la sfida con Haiti",
       "eventKey": "usa-convocazioni-pochettino-haiti-pulisic-mckennie-2026",
+      "pending": true
+    },
+    {
+      "id": "sport-f1-brasile-programma-antonelli-20261104",
+      "category": "Sport",
+      "title": "Formula 1 in Brasile, Antonelli al primo GP da campione del mondo",
+      "eventKey": "formula-uno-gp-brasile-2026-programma-interlagos",
       "pending": true
     },
     {
