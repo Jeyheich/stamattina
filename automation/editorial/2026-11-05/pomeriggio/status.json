@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-05",
-  "checkedAt": "2026-11-05T15:16:38.483Z",
+  "checkedAt": "2026-11-05T16:07:09.309Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -22,6 +22,10 @@
     {
       "slug": "cronaca",
       "count": 1
+    },
+    {
+      "slug": "tecnologia",
+      "count": 1
     }
   ],
   "missing": [
@@ -29,7 +33,6 @@
     "esteri",
     "roma",
     "cultura",
-    "tecnologia",
     "sport"
   ],
   "invalid": [],
@@ -53,6 +56,13 @@
       "category": "Cronaca",
       "title": "Monza, direttrice di asilo arrestata per presunti maltrattamenti",
       "eventKey": "monza-arresto-direttrice-asilo-maltrattamenti-2026",
+      "pending": true
+    },
+    {
+      "id": "tecnologia-hp-emma-walmsley-ceo-20261105",
+      "category": "Tecnologia · AI",
+      "title": "HP nomina Emma Walmsley amministratrice delegata: entrerà in carica a gennaio",
+      "eventKey": "hp-nomina-emma-walmsley-ceo-2027",
       "pending": true
     }
   ],
