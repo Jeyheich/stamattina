@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-05",
+  "collectionId": "2026-11-05-pomeriggio",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-05T16:15:22+01:00",
+  "reserveArticles": [],
+  "reserveDraft": [],
+  "category": "Cronaca",
+  "articles": [
+    {
+      "id": "cronaca-monza-direttrice-asilo-arrestata-20261105",
+      "eventKey": "monza-arresto-direttrice-asilo-maltrattamenti-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Monza, direttrice di asilo arrestata per presunti maltrattamenti",
+      "summary": "Le indagini dei carabinieri, avviate dopo segnalazioni dei genitori, hanno documentato episodi di violenza sui bambini.",
+      "body": [
+        "Una direttrice di 55 anni di un asilo nel Monzese è stata arrestata per maltrattamenti aggravati. Le riprese autorizzate dalla Procura avrebbero documentato schiaffi e strattoni ai danni di bambini affidati alla struttura.",
+        "L'arresto è avvenuto il 27 ottobre; la notizia è stata pubblicata il 5 novembre. Dopo il passaggio in carcere, il giudice ha disposto l'obbligo di dimora per la donna."
+      ],
+      "publishedAt": "2026-11-05T10:39:00+01:00",
+      "verifiedAt": "2026-11-05T16:15:22+01:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/cronaca/schiaffi-percosse-bimbi-arrestata-direttrice-asilo_2tjAdMN8QiWppi3z6MRWfS",
+        "access": "free",
+        "accessCheckedAt": "2026-11-05T16:15:22+01:00",
+        "dateEvidence": "Articolo Adnkronos datato 05 novembre 2026, ore 10.39; arresto riferito al 27 ottobre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
+}
