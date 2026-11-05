@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-05",
-  "checkedAt": "2026-11-05T06:10:59.180Z",
+  "checkedAt": "2026-11-05T06:20:18.166Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -26,6 +26,10 @@
       "count": 1
     },
     {
+      "slug": "cultura",
+      "count": 1
+    },
+    {
       "slug": "sport",
       "count": 2
     }
@@ -33,8 +37,7 @@
   "missing": [
     "politica",
     "esteri",
-    "roma",
-    "cultura"
+    "roma"
   ],
   "invalid": [],
   "stories": [
@@ -50,6 +53,13 @@
       "category": "Cronaca",
       "title": "Castellammare di Stabia, indagine su un loculo occupato da un'altra salma",
       "eventKey": "castellammare-stabia-loculo-occupato-indagine-2026",
+      "pending": true
+    },
+    {
+      "id": "cultura-arte-salute-25-anni-teatro-20261104",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Arte e Salute compie 25 anni: il teatro come professione e inclusione",
+      "eventKey": "arte-salute-bologna-25-anni-compagnia-teatrale-2026",
       "pending": true
     },
     {
