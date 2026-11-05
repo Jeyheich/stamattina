@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-05",
+  "collectionId": "2026-11-05-pomeriggio",
+  "category": "Tecnologia · AI",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-05T16:06:53.297Z",
+  "articles": [
+    {
+      "id": "tecnologia-hp-emma-walmsley-ceo-20261105",
+      "eventKey": "hp-nomina-emma-walmsley-ceo-2027",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "HP nomina Emma Walmsley amministratrice delegata: entrerà in carica a gennaio",
+      "summary": "L'ex CEO di GSK assumerà la guida di HP il 4 gennaio 2027. Bruce Broussard, finora amministratore delegato ad interim, diventerà presidente del consiglio di amministrazione.",
+      "body": [
+        "HP ha annunciato la nomina di Emma Walmsley a nuova amministratrice delegata, con ingresso in carica previsto per il 4 gennaio 2027. La dirigente ha guidato GSK dal 2017 e arriva nel gruppo tecnologico in una fase di trasformazione legata anche all'intelligenza artificiale.",
+        "Bruce Broussard, che ricopriva il ruolo di CEO ad interim, assumerà la presidenza del consiglio di amministrazione nella stessa data. La riorganizzazione definisce così la successione alla guida dell'azienda."
+      ],
+      "publishedAt": "2026-11-05T10:56:14Z",
+      "verifiedAt": "2026-11-05T16:06:53.297Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/hp-nuova-ceo-emma-walmsley/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-05T16:06:53.297Z",
+        "dateEvidence": "Articolo integrale Punto Informatico con indicazione 'Pubblicato il 5 nov 2026'; dossier RSS pubDate Thu, 05 Nov 2026 10:56:14 +0000.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveDraft": []
+}
