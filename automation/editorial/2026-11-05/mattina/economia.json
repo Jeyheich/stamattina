@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-05",
+  "collectionId": "2026-11-05-mattina",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-05T05:18:32.028Z",
+  "reserveDraft": [],
+  "reserveArticles": [],
+  "category": "Economia",
+  "articles": [
+    {
+      "category": "Economia",
+      "id": "economia-borse-usa-dollaro-midterm-20261104",
+      "eventKey": "mercati-usa-dollaro-reazione-midterm-2026",
+      "title": "Wall Street sale dopo le elezioni di metà mandato, dollaro in calo",
+      "summary": "Le borse statunitensi hanno chiuso in rialzo il 4 novembre dopo la vittoria democratica alle elezioni di metà mandato; il dollaro si è indebolito e sono scesi i rendimenti dei titoli di Stato.",
+      "body": [
+        "Il Dow Jones ha guadagnato quasi il 3%, mentre Nasdaq e S&P 500 sono avanzati di circa l'1,5%, secondo la ricostruzione dei mercati pubblicata dal Guardian.",
+        "Il dollaro ha raggiunto il minimo di un mese rispetto a un paniere di valute; gli investitori hanno valutato le conseguenze politiche del nuovo equilibrio al Congresso."
+      ],
+      "publishedAt": "2026-11-04T09:55:00Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
+        "access": "free",
+        "accessCheckedAt": "2026-11-05T05:18:32.028Z",
+        "dateEvidence": "Pagina consultata: First published on Wed 4 Nov 2026 09.55 GMT; aggiornata alle 16.38 GMT.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "status": "verified",
+      "verifiedAt": "2026-11-05T05:18:32.028Z"
+    }
+  ]
+}
