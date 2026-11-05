@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-05",
+  "collectionId": "2026-11-05-mattina",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-05T05:18:32.028Z",
+  "reserveDraft": [],
+  "reserveArticles": [],
+  "category": "Cronaca",
+  "articles": [
+    {
+      "category": "Cronaca",
+      "id": "cronaca-loculo-castellammare-salma-20261104",
+      "eventKey": "castellammare-stabia-loculo-occupato-indagine-2026",
+      "title": "Castellammare di Stabia, indagine su un loculo occupato da un'altra salma",
+      "summary": "Una donna ha denunciato di aver trovato nel cimitero comunale il loculo di famiglia murato e contrassegnato dalla lapide di un'altra persona. La Procura di Torre Annunziata ha avviato accertamenti.",
+      "body": [
+        "La scoperta è avvenuta quando una donna di 43 anni è tornata al cimitero dopo circa un anno e ha trovato una lapide diversa sul loculo acquistato.",
+        "I carabinieri stanno verificando autorizzazioni e passaggi amministrativi; non è ancora chiarito se si tratti di un errore o di un'occupazione illecita."
+      ],
+      "publishedAt": "2026-11-04T12:59:00Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/04/napoli-cimitero-loculo-occupato",
+        "access": "free",
+        "accessCheckedAt": "2026-11-05T05:18:32.028Z",
+        "dateEvidence": "Pagina Sky TG24 letta integralmente: data mostrata 04 nov 2026 - 13:59 ora italiana.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "status": "verified",
+      "verifiedAt": "2026-11-05T05:18:32.028Z"
+    }
+  ]
+}
