@@ -3,8 +3,6 @@
   "editionDate": "2026-11-06",
   "collectionId": "2026-11-06-mattina",
   "category": "Tecnologia · AI",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-06T06:10:06.271Z",
   "articles": [
     {
       "id": "tecnologia-openai-gpt6-cyber-partner-sicurezza-2026-20261106",
@@ -89,7 +87,30 @@
         "dateEvidence": "Pagina originale Everyeye: di Francesco Mustacchio, 5/11/2026 ore 21:49.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "tecnologia-honkai-nexus-anima-beta-finale-20261106",
+      "eventKey": "honkai-nexus-anima-finestra-primavera-2027-beta-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Honkai Nexus Anima arriverà nella primavera 2027: annunciata la beta finale",
+      "summary": "HoYoverse colloca il debutto di Honkai Nexus Anima nella primavera 2027 su PC, iOS e Android. L'ultima beta chiusa inizierà il 25 novembre 2026, con partecipazione limitata agli iscritti selezionati.",
+      "body": [
+        "HoYoverse ha annunciato una finestra di lancio nella primavera 2027 per Honkai Nexus Anima, gioco previsto per PC e dispositivi mobili Android e iOS.",
+        "Prima dell'uscita è prevista una Final Closed Beta dal 25 novembre 2026: la partecipazione sarà riservata agli utenti selezionati tra quelli registrati."
+      ],
+      "publishedAt": "2026-11-05T08:43:00+01:00",
+      "verifiedAt": "2026-11-06T07:09:19.814Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/honkai-nexus-anima-gioco-gratis-finestra-lancio-arrivo-beta-finale-909871.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T07:09:19.814Z",
+        "dateEvidence": "Pagina Everyeye firmata Giovanni Panzano: 5/11/2026, ore 08:43; testo letto integralmente.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
   ],
-  "reserveDraft": []
+  "reserveDraft": [],
+  "completedAt": "2026-11-06T07:09:19.814Z"
 }
