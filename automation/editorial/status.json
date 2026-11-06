@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-06",
-  "checkedAt": "2026-11-06T16:06:44.959Z",
+  "checkedAt": "2026-11-06T16:18:39.094Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -22,13 +22,16 @@
     {
       "slug": "cronaca",
       "count": 3
+    },
+    {
+      "slug": "cultura",
+      "count": 2
     }
   ],
   "missing": [
     "politica",
     "esteri",
     "roma",
-    "cultura",
     "sport"
   ],
   "invalid": [
@@ -85,6 +88,20 @@
       "category": "Cronaca",
       "title": "Milano, la Procura rinuncia al Riesame nel caso Siher",
       "eventKey": "milano-siher-procura-rinuncia-riesame-2026",
+      "pending": true
+    },
+    {
+      "id": "cultura-pirandello-serafino-gubbio-mercadante-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Pirandello al Ridotto del Mercadante: Serafino Gubbio osserva il potere delle immagini",
+      "eventKey": "pirandello-serafino-gubbio-mercadante-2026",
+      "pending": true
+    },
+    {
+      "id": "cultura-virgilio-sieni-preghiera-tempi-guerra-torino-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Virgilio Sieni porta a Torino undici preghiere danzate contro la guerra",
+      "eventKey": "virgilio-sieni-preghiera-tempi-guerra-torino-2026",
       "pending": true
     }
   ],
