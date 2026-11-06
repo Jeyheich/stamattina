@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-06",
+  "collectionId": "2026-11-06-mattina",
+  "category": "Tecnologia · AI",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-06T06:10:06.271Z",
+  "articles": [
+    {
+      "id": "tecnologia-openai-gpt6-cyber-partner-sicurezza-2026-20261106",
+      "eventKey": "openai-gpt6-cyber-partner-sicurezza-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "GPT-6 Cyber destinato ai partner per la ricerca di vulnerabilità",
+      "summary": "Punto Informatico riferisce che OpenAI ha annunciato GPT-6 Cyber, modello specializzato nella ricerca di vulnerabilità e nella produzione di exploit, con accesso limitato ai partner del programma Daybreak Red.",
+      "body": [
+        "Punto Informatico riferisce che OpenAI ha annunciato GPT-6 Cyber, modello specializzato nella ricerca di vulnerabilità e nella produzione di exploit, con accesso limitato ai partner del programma Daybreak Red."
+      ],
+      "publishedAt": "2026-11-05T18:29:15Z",
+      "verifiedAt": "2026-11-06T06:10:06.271Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/gpt-6-cyber-trova-le-vulnerabilita-e-non-attacca-nessuno/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T06:10:06.271Z",
+        "dateEvidence": "Pagina originale: 'Pubblicato il 5 nov 2026'; RSS: Thu, 05 Nov 2026 18:29:15 +0000.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-soundcloud-elevenlabs-pubblicazione-musica-ai-2026-20261106",
+      "eventKey": "soundcloud-elevenlabs-pubblicazione-musica-ai-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "SoundCloud integra la pubblicazione diretta della musica generata con ElevenLabs",
+      "summary": "L'accordo consente di inviare a SoundCloud i brani creati con ElevenLabs senza esportazione manuale. Le tracce pubblicate tramite l'integrazione sono etichettate come generate dall'intelligenza artificiale.",
+      "body": [
+        "L'accordo consente di inviare a SoundCloud i brani creati con ElevenLabs senza esportazione manuale. Le tracce pubblicate tramite l'integrazione sono etichettate come generate dall'intelligenza artificiale."
+      ],
+      "publishedAt": "2026-11-05T17:11:53Z",
+      "verifiedAt": "2026-11-06T06:10:06.271Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/musica-ai-su-soundcloud-con-elevenlabs-si-pubblica-con-un-clic/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T06:10:06.271Z",
+        "dateEvidence": "Pagina originale: 'Pubblicato il 5 nov 2026'; RSS: Thu, 05 Nov 2026 17:11:53 +0000.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-whatsapp-eventi-inviti-persone-senza-account-2026-20261106",
+      "eventKey": "whatsapp-eventi-inviti-persone-senza-account-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "WhatsApp apre gli inviti agli eventi anche a chi non possiede un account",
+      "summary": "Gli organizzatori possono condividere un link all'evento anche con persone prive di WhatsApp. È inoltre annunciato un hub per consultare eventi passati e futuri, con distribuzione graduale delle novità.",
+      "body": [
+        "Gli organizzatori possono condividere un link all'evento anche con persone prive di WhatsApp. È inoltre annunciato un hub per consultare eventi passati e futuri, con distribuzione graduale delle novità."
+      ],
+      "publishedAt": "2026-11-05T17:06:58Z",
+      "verifiedAt": "2026-11-06T06:10:06.271Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/novita-eventi-whatsapp-inviti-anche-senza-account/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T06:10:06.271Z",
+        "dateEvidence": "Pagina originale: 'Pubblicato il 5 nov 2026'; RSS: Thu, 05 Nov 2026 17:06:58 +0000.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-nier-automata-steam-bug-366-gb-2026-20261106",
+      "eventKey": "nier-automata-steam-bug-366-gb-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Un bug su Steam fa richiedere 366 GB per installare NieR: Automata",
+      "summary": "Un aggiornamento linguistico di NieR: Automata su Steam ha prodotto per alcuni utenti una richiesta anomala di 366 GB, contro circa 50 GB abituali. Everyeye attribuisce il problema alla gestione delle dimensioni dei DLC; le segnalazioni sull'effettiva persistenza del bug sono discordanti.",
+      "body": [
+        "Un aggiornamento linguistico di NieR: Automata su Steam ha prodotto per alcuni utenti una richiesta anomala di 366 GB, contro circa 50 GB abituali. Everyeye attribuisce il problema alla gestione delle dimensioni dei DLC; le segnalazioni sull'effettiva persistenza del bug sono discordanti."
+      ],
+      "publishedAt": "2026-11-05T21:49:00+01:00",
+      "verifiedAt": "2026-11-06T06:10:06.271Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/gta-6-aggiornamento-lievitare-nier-automata-366-gb-910066.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T06:10:06.271Z",
+        "dateEvidence": "Pagina originale Everyeye: di Francesco Mustacchio, 5/11/2026 ore 21:49.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveDraft": []
+}
