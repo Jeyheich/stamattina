@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-06",
+  "collectionId": "2026-11-06-mattina",
+  "category": "Cronaca",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-06T05:12:09.319Z",
+  "articles": [
+    {
+      "id": "cronaca-kaufmann-ergastolo-villa-pamphili-20261105",
+      "eventKey": "sentenza-kaufmann-ergastolo-villa-pamphili-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Villa Pamphili, ergastolo per Francis Kaufmann",
+      "summary": "La prima Corte d'Assise ha condannato Francis Kaufmann per gli omicidi di Anastasia Trofimova e della figlia Andromeda. La difesa ha annunciato che valuterà un appello dopo le motivazioni.",
+      "body": [
+        "La prima Corte d'Assise ha condannato Francis Kaufmann per gli omicidi di Anastasia Trofimova e della figlia Andromeda. La difesa ha annunciato che valuterà un appello dopo le motivazioni."
+      ],
+      "publishedAt": "2026-11-05T19:16:00Z",
+      "verifiedAt": "2026-11-06T05:12:09.319Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/femminicidi-di-villa-pamphili-madre-figlia-per-kaufmann-ergastolo-la-sentenza-c3e8a5bd-9c05-4ecf-bdcc-9e6f20854568.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T05:12:09.319Z",
+        "dateEvidence": "L'articolo riporta 05/11/2026; l'ora 19:16 UTC proviene dal dossier RSS RaiNews.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-allarmi-voli-cani-artificieri-20261105",
+      "eventKey": "allarmi-bomba-aeroporti-europei-cinofili-novembre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Allarmi bomba negli aeroporti, controlli con unità cinofile",
+      "summary": "Dopo segnalazioni di ordigni in diversi scali europei, squadre con cani antiesplosivo sono intervenute anche a Fiumicino e Charleroi. Le verifiche hanno coinvolto passeggeri e strutture aeroportuali.",
+      "body": [
+        "Dopo segnalazioni di ordigni in diversi scali europei, squadre con cani antiesplosivo sono intervenute anche a Fiumicino e Charleroi. Le verifiche hanno coinvolto passeggeri e strutture aeroportuali."
+      ],
+      "publishedAt": "2026-11-05T17:26:00Z",
+      "verifiedAt": "2026-11-06T05:12:09.319Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/05/allarme-bomba-voli-cani",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T05:12:09.319Z",
+        "dateEvidence": "La pagina indica 05 nov 2026 - 18:26, ora italiana CET.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": []
+}
