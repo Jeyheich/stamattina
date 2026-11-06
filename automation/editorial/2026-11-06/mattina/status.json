@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-06",
-  "checkedAt": "2026-11-06T06:19:27.455Z",
+  "checkedAt": "2026-11-06T07:09:38.009Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,7 +13,9 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [],
+  "completed": [
+    "tecnologia"
+  ],
   "inProgress": [
     {
       "slug": "politica",
@@ -34,10 +36,6 @@
     {
       "slug": "cultura",
       "count": 3
-    },
-    {
-      "slug": "tecnologia",
-      "count": 4
     },
     {
       "slug": "sport",
@@ -141,34 +139,6 @@
       "pending": true
     },
     {
-      "id": "tecnologia-openai-gpt6-cyber-partner-sicurezza-2026-20261106",
-      "category": "Tecnologia · AI",
-      "title": "GPT-6 Cyber destinato ai partner per la ricerca di vulnerabilità",
-      "eventKey": "openai-gpt6-cyber-partner-sicurezza-2026",
-      "pending": true
-    },
-    {
-      "id": "tecnologia-soundcloud-elevenlabs-pubblicazione-musica-ai-2026-20261106",
-      "category": "Tecnologia · AI",
-      "title": "SoundCloud integra la pubblicazione diretta della musica generata con ElevenLabs",
-      "eventKey": "soundcloud-elevenlabs-pubblicazione-musica-ai-2026",
-      "pending": true
-    },
-    {
-      "id": "tecnologia-whatsapp-eventi-inviti-persone-senza-account-2026-20261106",
-      "category": "Tecnologia · AI",
-      "title": "WhatsApp apre gli inviti agli eventi anche a chi non possiede un account",
-      "eventKey": "whatsapp-eventi-inviti-persone-senza-account-2026",
-      "pending": true
-    },
-    {
-      "id": "tecnologia-nier-automata-steam-bug-366-gb-2026-20261106",
-      "category": "Tecnologia · AI",
-      "title": "Un bug su Steam fa richiedere 366 GB per installare NieR: Automata",
-      "eventKey": "nier-automata-steam-bug-366-gb-2026",
-      "pending": true
-    },
-    {
       "id": "sport-milan-ferencvaros-europa-league-0-2-20261105-20261106",
       "category": "Sport",
       "title": "Il Milan perde 0-2 contro il Ferencváros in Europa League",
@@ -188,6 +158,36 @@
       "title": "Baldini convoca 26 giocatori dell'Italia Under 21 per Francia e Belgio",
       "eventKey": "italia-under21-convocati-francia-belgio-baldini-20261105",
       "pending": true
+    },
+    {
+      "id": "tecnologia-openai-gpt6-cyber-partner-sicurezza-2026-20261106",
+      "category": "Tecnologia · AI",
+      "title": "GPT-6 Cyber destinato ai partner per la ricerca di vulnerabilità",
+      "eventKey": "openai-gpt6-cyber-partner-sicurezza-2026"
+    },
+    {
+      "id": "tecnologia-soundcloud-elevenlabs-pubblicazione-musica-ai-2026-20261106",
+      "category": "Tecnologia · AI",
+      "title": "SoundCloud integra la pubblicazione diretta della musica generata con ElevenLabs",
+      "eventKey": "soundcloud-elevenlabs-pubblicazione-musica-ai-2026"
+    },
+    {
+      "id": "tecnologia-whatsapp-eventi-inviti-persone-senza-account-2026-20261106",
+      "category": "Tecnologia · AI",
+      "title": "WhatsApp apre gli inviti agli eventi anche a chi non possiede un account",
+      "eventKey": "whatsapp-eventi-inviti-persone-senza-account-2026"
+    },
+    {
+      "id": "tecnologia-nier-automata-steam-bug-366-gb-2026-20261106",
+      "category": "Tecnologia · AI",
+      "title": "Un bug su Steam fa richiedere 366 GB per installare NieR: Automata",
+      "eventKey": "nier-automata-steam-bug-366-gb-2026"
+    },
+    {
+      "id": "tecnologia-honkai-nexus-anima-beta-finale-20261106",
+      "category": "Tecnologia · AI",
+      "title": "Honkai Nexus Anima arriverà nella primavera 2027: annunciata la beta finale",
+      "eventKey": "honkai-nexus-anima-finestra-primavera-2027-beta-novembre-2026"
     }
   ],
   "collectionId": "2026-11-06-mattina",
@@ -241,7 +241,7 @@
       "complete": false
     },
     "tecnologia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
