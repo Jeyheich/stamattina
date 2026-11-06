@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-06",
+  "collectionId": "2026-11-06-mattina",
+  "category": "Cultura · Teatro · Cinema",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-06T06:19:00Z",
+  "articles": [
+    {
+      "id": "cultura-quaderni-serafino-gubbio-20261106",
+      "eventKey": "pirandello-serafino-gubbio-adattamento-capuzzo-dolcetta-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Pirandello torna in scena con una riflessione sul potere delle immagini",
+      "summary": "Al Ridotto del Mercadante, Flavio Capuzzo Dolcetta rilegge Quaderni di Serafino Gubbio operatore. Lo spettacolo intreccia riprese in tempo reale e interpretazione teatrale per interrogare il rapporto tra osservare e agire.",
+      "body": [
+        "Al Ridotto del Mercadante, Flavio Capuzzo Dolcetta rilegge Quaderni di Serafino Gubbio operatore. Lo spettacolo intreccia riprese in tempo reale e interpretazione teatrale per interrogare il rapporto tra osservare e agire."
+      ],
+      "publishedAt": "2026-11-05T17:31:01Z",
+      "verifiedAt": "2026-11-06T06:19:00Z",
+      "source": {
+        "name": "Teatro e Critica",
+        "url": "https://www.teatroecritica.net/2026/11/quaderni-di-serafino-gubbio-operatore-di-flavio-capuzzo-dolcetta/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T06:19:00Z",
+        "dateEvidence": "Pagina originale consultata: data visibile 5 Novembre 2026; RSS del 5 novembre 2026 conferma l'orario.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-screensaver-series-20261106",
+      "eventKey": "screensaver-series-neve-harrington-spazio-korper-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Screensaver Series: cinque danzatori come un organismo collettivo",
+      "summary": "La coreografia di Neve Harrington, presentata a Spazio Körper, dispone cinque performer in un continuo intreccio di corpi. Il pubblico può cambiare posizione e osservare la composizione da prospettive differenti.",
+      "body": [
+        "La coreografia di Neve Harrington, presentata a Spazio Körper, dispone cinque performer in un continuo intreccio di corpi. Il pubblico può cambiare posizione e osservare la composizione da prospettive differenti."
+      ],
+      "publishedAt": "2026-11-05T17:30:36Z",
+      "verifiedAt": "2026-11-06T06:19:00Z",
+      "source": {
+        "name": "Teatro e Critica",
+        "url": "https://www.teatroecritica.net/2026/11/screensaver-series-di-neve-harrington/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T06:19:00Z",
+        "dateEvidence": "Pagina originale consultata: data visibile 5 Novembre 2026; RSS del 5 novembre 2026 conferma l'orario.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-preghiera-tempi-guerra-20261106",
+      "eventKey": "virgilio-sieni-preghiera-tempi-guerra-teatro-astra-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "La nuova coreografia di Virgilio Sieni affronta il tema della guerra",
+      "summary": "Preghiera in tempi di guerra, vista al Teatro Astra di Torino, alterna assoli, duetti e gruppi in undici sequenze danzate. La recensione di Stefano Tomassini ne mette in discussione la forza espressiva.",
+      "body": [
+        "Preghiera in tempi di guerra, vista al Teatro Astra di Torino, alterna assoli, duetti e gruppi in undici sequenze danzate. La recensione di Stefano Tomassini ne mette in discussione la forza espressiva."
+      ],
+      "publishedAt": "2026-11-05T16:40:01Z",
+      "verifiedAt": "2026-11-06T06:19:00Z",
+      "source": {
+        "name": "Teatro e Critica",
+        "url": "https://www.teatroecritica.net/2026/11/preghiera-in-tempi-di-guerra-coreografia-spazio-e-luci-di-virgilio-sieni/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T06:19:00Z",
+        "dateEvidence": "Pagina originale consultata: data visibile 5 Novembre 2026; RSS del 5 novembre 2026 conferma l'orario.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
+}
