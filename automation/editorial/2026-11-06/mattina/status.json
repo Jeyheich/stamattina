@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-06",
-  "checkedAt": "2026-11-06T06:10:39.349Z",
+  "checkedAt": "2026-11-06T06:19:27.455Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -32,6 +32,10 @@
       "count": 2
     },
     {
+      "slug": "cultura",
+      "count": 3
+    },
+    {
       "slug": "tecnologia",
       "count": 4
     },
@@ -41,8 +45,7 @@
     }
   ],
   "missing": [
-    "roma",
-    "cultura"
+    "roma"
   ],
   "invalid": [],
   "stories": [
@@ -114,6 +117,27 @@
       "category": "Cronaca",
       "title": "Allarmi bomba negli aeroporti, controlli con unità cinofile",
       "eventKey": "allarmi-bomba-aeroporti-europei-cinofili-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "cultura-quaderni-serafino-gubbio-20261106",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Pirandello torna in scena con una riflessione sul potere delle immagini",
+      "eventKey": "pirandello-serafino-gubbio-adattamento-capuzzo-dolcetta-2026",
+      "pending": true
+    },
+    {
+      "id": "cultura-screensaver-series-20261106",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Screensaver Series: cinque danzatori come un organismo collettivo",
+      "eventKey": "screensaver-series-neve-harrington-spazio-korper-2026",
+      "pending": true
+    },
+    {
+      "id": "cultura-preghiera-tempi-guerra-20261106",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "La nuova coreografia di Virgilio Sieni affronta il tema della guerra",
+      "eventKey": "virgilio-sieni-preghiera-tempi-guerra-teatro-astra-2026",
       "pending": true
     },
     {
