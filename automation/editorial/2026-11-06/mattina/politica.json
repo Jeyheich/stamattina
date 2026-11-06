@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-06",
+  "collectionId": "2026-11-06-mattina",
+  "category": "Politica",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-06T05:05:11.915Z",
+  "articles": [
+    {
+      "id": "politica-meloni-costa-negoziatore-ucraina-20261106",
+      "eventKey": "meloni-lettera-costa-negoziatore-ucraina-dicembre-2026",
+      "title": "Ucraina, Meloni sollecita una posizione comune dell’Unione europea",
+      "summary": "In una lettera ad Antonio Costa, la presidente del Consiglio chiede che l’Europa individui entro dicembre un negoziatore per i colloqui sull’Ucraina. Crosetto annuncia un passaggio al Copasir sul nuovo pacchetto di aiuti a Kiev.",
+      "body": [
+        "Giorgia Meloni ha scritto al presidente del Consiglio europeo Antonio Costa per chiedere un orientamento unitario dell’Unione nei prossimi negoziati sull’Ucraina. Secondo la ricostruzione di Sky TG24, la premier auspica una scelta entro dicembre sul nome del negoziatore.",
+        "Il ministro della Difesa Guido Crosetto ha inoltre annunciato che il prossimo pacchetto di aiuti a Kiev sarà discusso al Copasir la settimana successiva."
+      ],
+      "publishedAt": "2026-11-05T19:12:00Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/video/2026/11/05/ucraina-meloni-a-costa-improcrastinabile-voce-unica-ue-1137712",
+        "dateEvidence": "La pagina originale indica «05 nov 2026 - 20:12» in ora italiana.",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T05:05:11.915Z",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "category": "Politica",
+      "status": "verified",
+      "verifiedAt": "2026-11-06T05:05:11.915Z"
+    },
+    {
+      "id": "politica-amoroso-legge-elettorale-consulta-20261106",
+      "eventKey": "amoroso-consulta-possibile-pronuncia-legge-elettorale-2026",
+      "title": "Legge elettorale, Amoroso affronta i tempi di un possibile giudizio della Consulta",
+      "summary": "Il presidente della Corte costituzionale Giovanni Amoroso, intervistato da Sky TG24, affronta la possibilità che la Consulta si pronunci sulla legge elettorale prima delle prossime elezioni. Nell’intervista si parla anche di fine vita.",
+      "body": [
+        "In un’intervista a Sky TG24, il presidente della Corte costituzionale Giovanni Amoroso ha affrontato i tempi di un eventuale giudizio sulla legge elettorale, con particolare riferimento alla possibilità di una pronuncia prima del prossimo voto.",
+        "L’intervista, condotta da Diletta Giuffrida, comprende anche il tema del fine vita. La fonte non presenta una decisione già adottata dalla Corte."
+      ],
+      "publishedAt": "2026-11-05T18:55:00Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/video/2026/11/05/legge-elettorale-amoroso-corte-costituzionale-1137707",
+        "dateEvidence": "La pagina originale indica «05 nov 2026 - 19:55» in ora italiana.",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T05:05:11.915Z",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "category": "Politica",
+      "status": "verified",
+      "verifiedAt": "2026-11-06T05:05:11.915Z"
+    }
+  ],
+  "reserveDraft": []
+}
