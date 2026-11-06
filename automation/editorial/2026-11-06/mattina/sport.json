@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-06",
+  "collectionId": "2026-11-06-mattina",
+  "category": "Sport",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-06T06:10:06.271Z",
+  "articles": [
+    {
+      "id": "sport-milan-ferencvaros-europa-league-0-2-20261105-20261106",
+      "eventKey": "milan-ferencvaros-europa-league-0-2-20261105",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Il Milan perde 0-2 contro il Ferencváros in Europa League",
+      "summary": "A San Siro il Ferencváros batte il Milan 2-0 con una doppietta di Joseph nella ripresa. Sky Sport segnala un errore del portiere Torriani in occasione della prima rete e la terza sconfitta rossonera in quattro giornate.",
+      "body": [
+        "A San Siro il Ferencváros batte il Milan 2-0 con una doppietta di Joseph nella ripresa. Sky Sport segnala un errore del portiere Torriani in occasione della prima rete e la terza sconfitta rossonera in quattro giornate."
+      ],
+      "publishedAt": "2026-11-05T20:39:00Z",
+      "verifiedAt": "2026-11-06T06:10:06.271Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/europa-league/partite/2026/giornata-4/milan-ferencvaros/risultato-gol",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T06:10:06.271Z",
+        "dateEvidence": "Cronaca originale: Europa League giornata 4, giovedì 5 novembre 2026; RSS 20:39 GMT.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-atalanta-kairat-conference-league-1-1-20261105-20261106",
+      "eventKey": "atalanta-kairat-conference-league-1-1-20261105",
+      "category": "Sport",
+      "status": "verified",
+      "title": "L'Atalanta pareggia 1-1 con il Kairat in Conference League",
+      "summary": "Il Kairat passa in vantaggio con Gual al 53'; Krstovic pareggia all'82' per l'Atalanta. La squadra bergamasca chiude sull'1-1 e sale a quattro punti nella fase campionato.",
+      "body": [
+        "Il Kairat passa in vantaggio con Gual al 53'; Krstovic pareggia all'82' per l'Atalanta. La squadra bergamasca chiude sull'1-1 e sale a quattro punti nella fase campionato."
+      ],
+      "publishedAt": "2026-11-05T20:40:00Z",
+      "verifiedAt": "2026-11-06T06:10:06.271Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/conference-league/partite/2026/giornata-3/atalanta-kairat/risultato-gol",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T06:10:06.271Z",
+        "dateEvidence": "Cronaca originale: Conference League giornata 3, giovedì 5 novembre 2026; RSS 20:40 GMT.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-italia-under21-convocati-francia-belgio-baldini-20261105-20261106",
+      "eventKey": "italia-under21-convocati-francia-belgio-baldini-20261105",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Baldini convoca 26 giocatori dell'Italia Under 21 per Francia e Belgio",
+      "summary": "Sono 26 i calciatori chiamati da Silvio Baldini per le amichevoli contro Francia e Belgio. Fra le novità figurano Inacio, Pessina e Kouadio; torna anche Amatucci.",
+      "body": [
+        "Sono 26 i calciatori chiamati da Silvio Baldini per le amichevoli contro Francia e Belgio. Fra le novità figurano Inacio, Pessina e Kouadio; torna anche Amatucci."
+      ],
+      "publishedAt": "2026-11-05T20:00:00+01:00",
+      "verifiedAt": "2026-11-06T06:10:06.271Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/nazionale/2026/11/05/convocati-italia-under-21-amichevoli-francia-belgio",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T06:10:06.271Z",
+        "dateEvidence": "Pagina originale Sky Sport: 05 nov 2026 - 20:00, galleria dei 26 convocati.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveDraft": []
+}
