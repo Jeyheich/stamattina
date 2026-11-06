@@ -4,7 +4,7 @@
   "collectionId": "2026-11-06-mattina",
   "category": "Sport",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-06T06:10:06.271Z",
+  "lastAttemptAt": "2026-11-06T07:09:40.340Z",
   "articles": [
     {
       "id": "sport-milan-ferencvaros-europa-league-0-2-20261105-20261106",
@@ -66,6 +66,28 @@
         "access": "free",
         "accessCheckedAt": "2026-11-06T06:10:06.271Z",
         "dateEvidence": "Pagina originale Sky Sport: 05 nov 2026 - 20:00, galleria dei 26 convocati.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-gp-san-paolo-prove-libere-programma-20261106",
+      "eventKey": "formula1-gp-san-paolo-2026-programma-prove-libere",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Formula 1 a Interlagos: venerdì le prime due sessioni di prove libere",
+      "summary": "Il GP di São Paulo apre la giornata di pista venerdì 6 novembre con le libere alle 16:30 e alle 20:00 italiane. Qualifiche sabato alle 19:00, gara domenica alle 18:00; per Kimi Antonelli è il primo appuntamento da campione del mondo.",
+      "body": [
+        "Il fine settimana di Formula 1 a Interlagos entra nel vivo venerdì 6 novembre con due sessioni di prove libere, alle 16:30 e alle 20:00 italiane. Sabato sono previste le qualifiche alle 19:00 e domenica la gara alle 18:00.",
+        "Sky Sport segnala che si tratta del primo Gran Premio di Kimi Antonelli dopo la conquista del titolo mondiale. Il programma sportivo è distinto dalle sessioni già disputate e non ne anticipa i risultati."
+      ],
+      "publishedAt": "2026-11-05T09:00:00+01:00",
+      "verifiedAt": "2026-11-06T07:09:40.340Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/formula-1/2026/11/04/f1-orari-gp-brasile-2026-interlagos",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T07:09:40.340Z",
+        "dateEvidence": "Pagina Sky Sport con data esplicita '05 nov 2026 - 09:00'; calendario delle prove del 6 novembre letto nel testo.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
