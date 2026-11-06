@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-06",
+  "collectionId": "2026-11-06-pomeriggio",
+  "category": "Economia",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-06T15:22:00Z",
+  "articles": [
+    {
+      "id": "economia-case-regno-unito-calo-ottobre-2026",
+      "eventKey": "case-regno-unito-calo-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Regno Unito, prezzi delle case in calo dello 0,6% a ottobre",
+      "summary": "Secondo Lloyds il prezzo medio è sceso a 296.285 sterline; i mutui costosi frenano gli acquisti.",
+      "body": [
+        "Secondo Lloyds il prezzo medio è sceso a 296.285 sterline; i mutui costosi frenano gli acquisti.",
+        "La flessione mensile dello 0,6% è la più marcata da oltre tre anni e segue tre mesi consecutivi di ribassi."
+      ],
+      "publishedAt": "2026-11-06T08:05:00Z",
+      "verifiedAt": "2026-11-06T15:22:00Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/06/uk-house-prices-fall-at-steepest-rate-in-more-than-three-years",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T15:22:00Z",
+        "dateEvidence": "Prima pubblicazione 6 novembre 2026 alle 09:05 CET, indicata nella pagina; aggiornamento 13:54 CET.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-regno-unito-obbligo-stipendi-annunci-lavoro-2026",
+      "eventKey": "regno-unito-obbligo-stipendi-annunci-lavoro-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Regno Unito, annunci di lavoro con stipendio obbligatorio nella proposta del governo",
+      "summary": "Il premier Andy Burnham annuncia una futura norma per rendere trasparenti le retribuzioni negli annunci di lavoro.",
+      "body": [
+        "Il premier Andy Burnham annuncia una futura norma per rendere trasparenti le retribuzioni negli annunci di lavoro.",
+        "L'obiettivo dichiarato è aiutare candidati e lavoratori a confrontare le offerte e contrastare disparità salariali; modalità e applicazione restano da definire."
+      ],
+      "publishedAt": "2026-11-06T08:54:00Z",
+      "verifiedAt": "2026-11-06T15:22:00Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/law/2026/nov/06/uk-employers-forced-put-salaries-job-adverts-andy-burnham",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T15:22:00Z",
+        "dateEvidence": "Pagina datata 6 novembre 2026 alle 09:54 CET, con aggiornamento alle 12:32 CET.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-londra-scioperi-metropolitana-rmt-novembre-2026",
+      "eventKey": "londra-scioperi-metropolitana-rmt-novembre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Londra, otto scioperi annunciati dai macchinisti della metropolitana",
+      "summary": "Il sindacato RMT ha proclamato otto astensioni di 24 ore distribuite tra novembre e febbraio.",
+      "body": [
+        "Il sindacato RMT ha proclamato otto astensioni di 24 ore distribuite tra novembre e febbraio.",
+        "La protesta riguarda la proposta di settimana lavorativa di quattro giorni, considerata volontaria dall'azienda ma contestata dal sindacato; previste ricadute sul commercio natalizio."
+      ],
+      "publishedAt": "2026-11-06T11:12:00Z",
+      "verifiedAt": "2026-11-06T15:22:00Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/06/commuters-and-shoppers-face-disruption-from-tube-driver-strikes-in-run-up-to-christmas",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T15:22:00Z",
+        "dateEvidence": "Prima pubblicazione 6 novembre 2026 alle 12:12 CET, aggiornamento 14:45 CET.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-panipat-riciclo-tessile-infortuni-lavoratori-2026",
+      "eventKey": "panipat-riciclo-tessile-infortuni-lavoratori-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "India, il riciclo tessile di Panipat espone i lavoratori a gravi incidenti",
+      "summary": "Un'inchiesta documenta amputazioni e carenze di sicurezza nelle fabbriche che trasformano vestiti usati in filati.",
+      "body": [
+        "Un'inchiesta documenta amputazioni e carenze di sicurezza nelle fabbriche che trasformano vestiti usati in filati.",
+        "Nell'arco di una settimana di agosto i reporter hanno rilevato sei gravi lesioni agli arti attraverso tredici ospedali; l'elevata informalità del lavoro ostacola tutela e risarcimenti."
+      ],
+      "publishedAt": "2026-11-06T07:00:00Z",
+      "verifiedAt": "2026-11-06T15:22:00Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/global-development/2026/nov/06/india-textile-recycling-industry-workers-factories-accidents-safety-amputations",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T15:22:00Z",
+        "dateEvidence": "Articolo pubblicato 6 novembre 2026 alle 07:00 GMT e aggiornato 12:48 GMT.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
