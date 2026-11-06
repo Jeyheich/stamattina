@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-06",
-  "checkedAt": "2026-11-06T07:09:38.009Z",
+  "checkedAt": "2026-11-06T07:09:55.015Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -39,7 +39,7 @@
     },
     {
       "slug": "sport",
-      "count": 3
+      "count": 4
     }
   ],
   "missing": [
@@ -157,6 +157,13 @@
       "category": "Sport",
       "title": "Baldini convoca 26 giocatori dell'Italia Under 21 per Francia e Belgio",
       "eventKey": "italia-under21-convocati-francia-belgio-baldini-20261105",
+      "pending": true
+    },
+    {
+      "id": "sport-gp-san-paolo-prove-libere-programma-20261106",
+      "category": "Sport",
+      "title": "Formula 1 a Interlagos: venerdì le prime due sessioni di prove libere",
+      "eventKey": "formula1-gp-san-paolo-2026-programma-prove-libere",
       "pending": true
     },
     {
