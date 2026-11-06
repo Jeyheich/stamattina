@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-06",
-  "checkedAt": "2026-11-06T05:05:25.728Z",
+  "checkedAt": "2026-11-06T05:05:41.353Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -18,10 +18,13 @@
     {
       "slug": "politica",
       "count": 2
+    },
+    {
+      "slug": "esteri",
+      "count": 2
     }
   ],
   "missing": [
-    "esteri",
     "economia",
     "cronaca",
     "roma",
@@ -43,6 +46,20 @@
       "category": "Politica",
       "title": "Legge elettorale, Amoroso affronta i tempi di un possibile giudizio della Consulta",
       "eventKey": "amoroso-consulta-possibile-pronuncia-legge-elettorale-2026",
+      "pending": true
+    },
+    {
+      "id": "esteri-paraguay-pena-dimissioni-ueno-20261106",
+      "category": "Esteri",
+      "title": "Paraguay, Peña annuncia le dimissioni dopo il crac bancario",
+      "eventKey": "paraguay-pena-dimissioni-crac-ueno-bank-2026",
+      "pending": true
+    },
+    {
+      "id": "esteri-francia-sciopero-generale-20261106",
+      "category": "Esteri",
+      "title": "Francia, sciopero nazionale e manifestazioni contro il carovita",
+      "eventKey": "francia-sciopero-generale-5-novembre-2026",
       "pending": true
     }
   ],
