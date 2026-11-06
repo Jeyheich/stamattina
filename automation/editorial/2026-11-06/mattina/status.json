@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-06",
-  "checkedAt": "2026-11-06T05:05:41.353Z",
+  "checkedAt": "2026-11-06T05:12:22.108Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -22,11 +22,17 @@
     {
       "slug": "esteri",
       "count": 2
+    },
+    {
+      "slug": "economia",
+      "count": 4
+    },
+    {
+      "slug": "cronaca",
+      "count": 2
     }
   ],
   "missing": [
-    "economia",
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -60,6 +66,48 @@
       "category": "Esteri",
       "title": "Francia, sciopero nazionale e manifestazioni contro il carovita",
       "eventKey": "francia-sciopero-generale-5-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "economia-nasdaq-crollo-ai-midterm-20261105",
+      "category": "Economia",
+      "title": "Nasdaq in forte calo, pesano i timori sulle restrizioni ai data center",
+      "eventKey": "nasdaq-crollo-titoli-ai-post-midterm-2026",
+      "pending": true
+    },
+    {
+      "id": "economia-boe-rialzo-tassi-20261105",
+      "category": "Economia",
+      "title": "La Banca d'Inghilterra porta i tassi al 4%",
+      "eventKey": "banca-inghilterra-tassi-quattro-percento-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "economia-bt-tagli-occupazione-20261105",
+      "category": "Economia",
+      "title": "BT riduce l'organico di quasi ottomila persone",
+      "eventKey": "bt-riduzione-personale-7731-marzo-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "economia-debito-paesi-sviluppo-20261105",
+      "category": "Economia",
+      "title": "Debito dei paesi in via di sviluppo a 9.400 miliardi di dollari",
+      "eventKey": "banca-mondiale-debito-paesi-sviluppo-record-2026",
+      "pending": true
+    },
+    {
+      "id": "cronaca-kaufmann-ergastolo-villa-pamphili-20261105",
+      "category": "Cronaca",
+      "title": "Villa Pamphili, ergastolo per Francis Kaufmann",
+      "eventKey": "sentenza-kaufmann-ergastolo-villa-pamphili-2026",
+      "pending": true
+    },
+    {
+      "id": "cronaca-allarmi-voli-cani-artificieri-20261105",
+      "category": "Cronaca",
+      "title": "Allarmi bomba negli aeroporti, controlli con unità cinofile",
+      "eventKey": "allarmi-bomba-aeroporti-europei-cinofili-novembre-2026",
       "pending": true
     }
   ],
