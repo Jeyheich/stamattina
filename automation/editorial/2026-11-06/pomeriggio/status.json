@@ -1,0 +1,134 @@
+{
+  "editionDate": "2026-11-06",
+  "checkedAt": "2026-11-06T15:17:33.168Z",
+  "ready": false,
+  "editorialComplete": false,
+  "reserveMissing": [
+    "politica",
+    "esteri",
+    "economia",
+    "cronaca",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
+  ],
+  "completed": [],
+  "inProgress": [
+    {
+      "slug": "economia",
+      "count": 4
+    }
+  ],
+  "missing": [
+    "politica",
+    "esteri",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
+  ],
+  "invalid": [
+    {
+      "slug": "cronaca",
+      "reason": "Verifica scaduta o futura"
+    }
+  ],
+  "stories": [
+    {
+      "id": "economia-case-regno-unito-calo-ottobre-2026",
+      "category": "Economia",
+      "title": "Regno Unito, prezzi delle case in calo dello 0,6% a ottobre",
+      "eventKey": "case-regno-unito-calo-ottobre-2026",
+      "pending": true
+    },
+    {
+      "id": "economia-regno-unito-obbligo-stipendi-annunci-lavoro-2026",
+      "category": "Economia",
+      "title": "Regno Unito, annunci di lavoro con stipendio obbligatorio nella proposta del governo",
+      "eventKey": "regno-unito-obbligo-stipendi-annunci-lavoro-2026",
+      "pending": true
+    },
+    {
+      "id": "economia-londra-scioperi-metropolitana-rmt-novembre-2026",
+      "category": "Economia",
+      "title": "Londra, otto scioperi annunciati dai macchinisti della metropolitana",
+      "eventKey": "londra-scioperi-metropolitana-rmt-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "economia-panipat-riciclo-tessile-infortuni-lavoratori-2026",
+      "category": "Economia",
+      "title": "India, il riciclo tessile di Panipat espone i lavoratori a gravi incidenti",
+      "eventKey": "panipat-riciclo-tessile-infortuni-lavoratori-2026",
+      "pending": true
+    }
+  ],
+  "collectionId": "2026-11-06-pomeriggio",
+  "reserveCounts": {
+    "Politica": 0,
+    "Esteri": 0,
+    "Economia": 0,
+    "Cronaca": 0,
+    "Roma": 0,
+    "Cultura · Teatro · Cinema": 0,
+    "Tecnologia · AI": 0,
+    "Sport": 0
+  },
+  "photoCandidates": [],
+  "photosAvailable": 0,
+  "categoryProgress": {
+    "politica": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "esteri": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "economia": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "cronaca": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "roma": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "cultura": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "tecnologia": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "sport": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    }
+  },
+  "preparation": "in-preparazione",
+  "message": "Edizione in preparazione",
+  "needsPublication": false,
+  "publicCollectionId": "2026-11-04-mattina"
+}

@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-06",
-  "checkedAt": "2026-11-06T07:09:55.015Z",
+  "checkedAt": "2026-11-06T15:17:33.168Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,191 +13,58 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [
-    "tecnologia"
-  ],
+  "completed": [],
   "inProgress": [
     {
-      "slug": "politica",
-      "count": 2
-    },
-    {
-      "slug": "esteri",
-      "count": 2
-    },
-    {
       "slug": "economia",
-      "count": 4
-    },
-    {
-      "slug": "cronaca",
-      "count": 2
-    },
-    {
-      "slug": "cultura",
-      "count": 3
-    },
-    {
-      "slug": "sport",
       "count": 4
     }
   ],
   "missing": [
-    "roma"
+    "politica",
+    "esteri",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
   ],
-  "invalid": [],
-  "stories": [
+  "invalid": [
     {
-      "id": "politica-meloni-costa-negoziatore-ucraina-20261106",
-      "category": "Politica",
-      "title": "Ucraina, Meloni sollecita una posizione comune dell’Unione europea",
-      "eventKey": "meloni-lettera-costa-negoziatore-ucraina-dicembre-2026",
-      "pending": true
-    },
-    {
-      "id": "politica-amoroso-legge-elettorale-consulta-20261106",
-      "category": "Politica",
-      "title": "Legge elettorale, Amoroso affronta i tempi di un possibile giudizio della Consulta",
-      "eventKey": "amoroso-consulta-possibile-pronuncia-legge-elettorale-2026",
-      "pending": true
-    },
-    {
-      "id": "esteri-paraguay-pena-dimissioni-ueno-20261106",
-      "category": "Esteri",
-      "title": "Paraguay, Peña annuncia le dimissioni dopo il crac bancario",
-      "eventKey": "paraguay-pena-dimissioni-crac-ueno-bank-2026",
-      "pending": true
-    },
-    {
-      "id": "esteri-francia-sciopero-generale-20261106",
-      "category": "Esteri",
-      "title": "Francia, sciopero nazionale e manifestazioni contro il carovita",
-      "eventKey": "francia-sciopero-generale-5-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "economia-nasdaq-crollo-ai-midterm-20261105",
-      "category": "Economia",
-      "title": "Nasdaq in forte calo, pesano i timori sulle restrizioni ai data center",
-      "eventKey": "nasdaq-crollo-titoli-ai-post-midterm-2026",
-      "pending": true
-    },
-    {
-      "id": "economia-boe-rialzo-tassi-20261105",
-      "category": "Economia",
-      "title": "La Banca d'Inghilterra porta i tassi al 4%",
-      "eventKey": "banca-inghilterra-tassi-quattro-percento-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "economia-bt-tagli-occupazione-20261105",
-      "category": "Economia",
-      "title": "BT riduce l'organico di quasi ottomila persone",
-      "eventKey": "bt-riduzione-personale-7731-marzo-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "economia-debito-paesi-sviluppo-20261105",
-      "category": "Economia",
-      "title": "Debito dei paesi in via di sviluppo a 9.400 miliardi di dollari",
-      "eventKey": "banca-mondiale-debito-paesi-sviluppo-record-2026",
-      "pending": true
-    },
-    {
-      "id": "cronaca-kaufmann-ergastolo-villa-pamphili-20261105",
-      "category": "Cronaca",
-      "title": "Villa Pamphili, ergastolo per Francis Kaufmann",
-      "eventKey": "sentenza-kaufmann-ergastolo-villa-pamphili-2026",
-      "pending": true
-    },
-    {
-      "id": "cronaca-allarmi-voli-cani-artificieri-20261105",
-      "category": "Cronaca",
-      "title": "Allarmi bomba negli aeroporti, controlli con unità cinofile",
-      "eventKey": "allarmi-bomba-aeroporti-europei-cinofili-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "cultura-quaderni-serafino-gubbio-20261106",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Pirandello torna in scena con una riflessione sul potere delle immagini",
-      "eventKey": "pirandello-serafino-gubbio-adattamento-capuzzo-dolcetta-2026",
-      "pending": true
-    },
-    {
-      "id": "cultura-screensaver-series-20261106",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Screensaver Series: cinque danzatori come un organismo collettivo",
-      "eventKey": "screensaver-series-neve-harrington-spazio-korper-2026",
-      "pending": true
-    },
-    {
-      "id": "cultura-preghiera-tempi-guerra-20261106",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "La nuova coreografia di Virgilio Sieni affronta il tema della guerra",
-      "eventKey": "virgilio-sieni-preghiera-tempi-guerra-teatro-astra-2026",
-      "pending": true
-    },
-    {
-      "id": "sport-milan-ferencvaros-europa-league-0-2-20261105-20261106",
-      "category": "Sport",
-      "title": "Il Milan perde 0-2 contro il Ferencváros in Europa League",
-      "eventKey": "milan-ferencvaros-europa-league-0-2-20261105",
-      "pending": true
-    },
-    {
-      "id": "sport-atalanta-kairat-conference-league-1-1-20261105-20261106",
-      "category": "Sport",
-      "title": "L'Atalanta pareggia 1-1 con il Kairat in Conference League",
-      "eventKey": "atalanta-kairat-conference-league-1-1-20261105",
-      "pending": true
-    },
-    {
-      "id": "sport-italia-under21-convocati-francia-belgio-baldini-20261105-20261106",
-      "category": "Sport",
-      "title": "Baldini convoca 26 giocatori dell'Italia Under 21 per Francia e Belgio",
-      "eventKey": "italia-under21-convocati-francia-belgio-baldini-20261105",
-      "pending": true
-    },
-    {
-      "id": "sport-gp-san-paolo-prove-libere-programma-20261106",
-      "category": "Sport",
-      "title": "Formula 1 a Interlagos: venerdì le prime due sessioni di prove libere",
-      "eventKey": "formula1-gp-san-paolo-2026-programma-prove-libere",
-      "pending": true
-    },
-    {
-      "id": "tecnologia-openai-gpt6-cyber-partner-sicurezza-2026-20261106",
-      "category": "Tecnologia · AI",
-      "title": "GPT-6 Cyber destinato ai partner per la ricerca di vulnerabilità",
-      "eventKey": "openai-gpt6-cyber-partner-sicurezza-2026"
-    },
-    {
-      "id": "tecnologia-soundcloud-elevenlabs-pubblicazione-musica-ai-2026-20261106",
-      "category": "Tecnologia · AI",
-      "title": "SoundCloud integra la pubblicazione diretta della musica generata con ElevenLabs",
-      "eventKey": "soundcloud-elevenlabs-pubblicazione-musica-ai-2026"
-    },
-    {
-      "id": "tecnologia-whatsapp-eventi-inviti-persone-senza-account-2026-20261106",
-      "category": "Tecnologia · AI",
-      "title": "WhatsApp apre gli inviti agli eventi anche a chi non possiede un account",
-      "eventKey": "whatsapp-eventi-inviti-persone-senza-account-2026"
-    },
-    {
-      "id": "tecnologia-nier-automata-steam-bug-366-gb-2026-20261106",
-      "category": "Tecnologia · AI",
-      "title": "Un bug su Steam fa richiedere 366 GB per installare NieR: Automata",
-      "eventKey": "nier-automata-steam-bug-366-gb-2026"
-    },
-    {
-      "id": "tecnologia-honkai-nexus-anima-beta-finale-20261106",
-      "category": "Tecnologia · AI",
-      "title": "Honkai Nexus Anima arriverà nella primavera 2027: annunciata la beta finale",
-      "eventKey": "honkai-nexus-anima-finestra-primavera-2027-beta-novembre-2026"
+      "slug": "cronaca",
+      "reason": "Verifica scaduta o futura"
     }
   ],
-  "collectionId": "2026-11-06-mattina",
+  "stories": [
+    {
+      "id": "economia-case-regno-unito-calo-ottobre-2026",
+      "category": "Economia",
+      "title": "Regno Unito, prezzi delle case in calo dello 0,6% a ottobre",
+      "eventKey": "case-regno-unito-calo-ottobre-2026",
+      "pending": true
+    },
+    {
+      "id": "economia-regno-unito-obbligo-stipendi-annunci-lavoro-2026",
+      "category": "Economia",
+      "title": "Regno Unito, annunci di lavoro con stipendio obbligatorio nella proposta del governo",
+      "eventKey": "regno-unito-obbligo-stipendi-annunci-lavoro-2026",
+      "pending": true
+    },
+    {
+      "id": "economia-londra-scioperi-metropolitana-rmt-novembre-2026",
+      "category": "Economia",
+      "title": "Londra, otto scioperi annunciati dai macchinisti della metropolitana",
+      "eventKey": "londra-scioperi-metropolitana-rmt-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "economia-panipat-riciclo-tessile-infortuni-lavoratori-2026",
+      "category": "Economia",
+      "title": "India, il riciclo tessile di Panipat espone i lavoratori a gravi incidenti",
+      "eventKey": "panipat-riciclo-tessile-infortuni-lavoratori-2026",
+      "pending": true
+    }
+  ],
+  "collectionId": "2026-11-06-pomeriggio",
   "reserveCounts": {
     "Politica": 0,
     "Esteri": 0,
@@ -248,7 +115,7 @@
       "complete": false
     },
     "tecnologia": {
-      "base": 5,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
