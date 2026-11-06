@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-06",
+  "collectionId": "2026-11-06-mattina",
+  "category": "Economia",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-06T05:12:09.319Z",
+  "articles": [
+    {
+      "id": "economia-nasdaq-crollo-ai-midterm-20261105",
+      "eventKey": "nasdaq-crollo-titoli-ai-post-midterm-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Nasdaq in forte calo, pesano i timori sulle restrizioni ai data center",
+      "summary": "L'indice tecnologico statunitense ha perso il 5,5% nella seduta del 5 novembre. Gli investitori temono nuove restrizioni all'espansione dei data center dopo il voto di metà mandato.",
+      "body": [
+        "L'indice tecnologico statunitense ha perso il 5,5% nella seduta del 5 novembre. Gli investitori temono nuove restrizioni all'espansione dei data center dopo il voto di metà mandato."
+      ],
+      "publishedAt": "2026-11-05T17:31:00Z",
+      "verifiedAt": "2026-11-06T05:12:09.319Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T05:12:09.319Z",
+        "dateEvidence": "La pagina indica First published Thu 5 Nov 2026 17.31 GMT, aggiornamento 21.23 GMT.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-boe-rialzo-tassi-20261105",
+      "eventKey": "banca-inghilterra-tassi-quattro-percento-novembre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "La Banca d'Inghilterra porta i tassi al 4%",
+      "summary": "Il comitato monetario ha alzato il tasso di riferimento dal 3,75% al 4%, con otto voti favorevoli. La banca teme nuove pressioni inflazionistiche legate ai prezzi dell'energia.",
+      "body": [
+        "Il comitato monetario ha alzato il tasso di riferimento dal 3,75% al 4%, con otto voti favorevoli. La banca teme nuove pressioni inflazionistiche legate ai prezzi dell'energia."
+      ],
+      "publishedAt": "2026-11-05T12:00:00Z",
+      "verifiedAt": "2026-11-06T05:12:09.319Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T05:12:09.319Z",
+        "dateEvidence": "La pagina indica First published Thu 5 Nov 2026 13.00 CET, ossia 12.00 UTC.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-bt-tagli-occupazione-20261105",
+      "eventKey": "bt-riduzione-personale-7731-marzo-novembre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "BT riduce l'organico di quasi ottomila persone",
+      "summary": "Il gruppo britannico delle telecomunicazioni riferisce 7.731 posti in meno rispetto a fine marzo, mentre prosegue il programma di contenimento dei costi. L'utile ante imposte semestrale è salito a 1,1 miliardi di sterline.",
+      "body": [
+        "Il gruppo britannico delle telecomunicazioni riferisce 7.731 posti in meno rispetto a fine marzo, mentre prosegue il programma di contenimento dei costi. L'utile ante imposte semestrale è salito a 1,1 miliardi di sterline."
+      ],
+      "publishedAt": "2026-11-05T14:40:00Z",
+      "verifiedAt": "2026-11-06T05:12:09.319Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/05/bt-cuts-jobs-cost-saving-programme-profit-share-price",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T05:12:09.319Z",
+        "dateEvidence": "La pagina indica Thu 5 Nov 2026 09.40 EST, modificato 10.32 EST.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-debito-paesi-sviluppo-20261105",
+      "eventKey": "banca-mondiale-debito-paesi-sviluppo-record-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Debito dei paesi in via di sviluppo a 9.400 miliardi di dollari",
+      "summary": "Secondo i dati della Banca mondiale, il debito estero dei paesi in via di sviluppo ha raggiunto un massimo storico. I costi del servizio del debito limitano la capacità di investimento.",
+      "body": [
+        "Secondo i dati della Banca mondiale, il debito estero dei paesi in via di sviluppo ha raggiunto un massimo storico. I costi del servizio del debito limitano la capacità di investimento."
+      ],
+      "publishedAt": "2026-11-05T14:30:00Z",
+      "verifiedAt": "2026-11-06T05:12:09.319Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T05:12:09.319Z",
+        "dateEvidence": "La pagina indica Thu 5 Nov 2026 09.30 EST, modificato 09.31 EST.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": []
+}
