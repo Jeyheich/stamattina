@@ -1,6 +1,6 @@
 {
-  "editionDate": "2026-11-05",
-  "checkedAt": "2026-11-05T17:09:49.637Z",
+  "editionDate": "2026-11-06",
+  "checkedAt": "2026-11-06T05:05:25.728Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -16,67 +16,37 @@
   "completed": [],
   "inProgress": [
     {
-      "slug": "economia",
+      "slug": "politica",
       "count": 2
-    },
-    {
-      "slug": "cronaca",
-      "count": 1
-    },
-    {
-      "slug": "tecnologia",
-      "count": 1
-    },
-    {
-      "slug": "sport",
-      "count": 1
     }
   ],
   "missing": [
-    "politica",
     "esteri",
+    "economia",
+    "cronaca",
     "roma",
-    "cultura"
+    "cultura",
+    "tecnologia",
+    "sport"
   ],
   "invalid": [],
   "stories": [
     {
-      "id": "economia-south-west-water-perdite-20261105",
-      "category": "Economia",
-      "title": "Inghilterra, perdite idriche e siccità mettono a rischio le forniture",
-      "eventKey": "south-west-water-perdite-rischio-forniture-2026",
+      "id": "politica-meloni-costa-negoziatore-ucraina-20261106",
+      "category": "Politica",
+      "title": "Ucraina, Meloni sollecita una posizione comune dell’Unione europea",
+      "eventKey": "meloni-lettera-costa-negoziatore-ucraina-dicembre-2026",
       "pending": true
     },
     {
-      "id": "economia-rinnovabili-usa-midterm-20261105",
-      "category": "Economia",
-      "title": "Rinnovabili in rialzo dopo le elezioni americane di metà mandato",
-      "eventKey": "rinnovabili-usa-rialzo-borsa-dopo-midterm-2026",
-      "pending": true
-    },
-    {
-      "id": "cronaca-monza-direttrice-asilo-arrestata-20261105",
-      "category": "Cronaca",
-      "title": "Monza, direttrice di asilo arrestata per presunti maltrattamenti",
-      "eventKey": "monza-arresto-direttrice-asilo-maltrattamenti-2026",
-      "pending": true
-    },
-    {
-      "id": "tecnologia-hp-emma-walmsley-ceo-20261105",
-      "category": "Tecnologia · AI",
-      "title": "HP nomina Emma Walmsley amministratrice delegata: entrerà in carica a gennaio",
-      "eventKey": "hp-nomina-emma-walmsley-ceo-2027",
-      "pending": true
-    },
-    {
-      "id": "sport-f1-brasile-antonelli-programma-20261105",
-      "category": "Sport",
-      "title": "Formula 1 a Interlagos: il programma del Gran Premio del Brasile",
-      "eventKey": "formula-1-gran-premio-brasile-programma-2026",
+      "id": "politica-amoroso-legge-elettorale-consulta-20261106",
+      "category": "Politica",
+      "title": "Legge elettorale, Amoroso affronta i tempi di un possibile giudizio della Consulta",
+      "eventKey": "amoroso-consulta-possibile-pronuncia-legge-elettorale-2026",
       "pending": true
     }
   ],
-  "collectionId": "2026-11-05-pomeriggio",
+  "collectionId": "2026-11-06-mattina",
   "reserveCounts": {
     "Politica": 0,
     "Esteri": 0,
