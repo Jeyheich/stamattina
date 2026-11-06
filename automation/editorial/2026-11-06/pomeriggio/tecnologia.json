@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-06",
+  "collectionId": "2026-11-06-pomeriggio",
+  "category": "Tecnologia · AI",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-06T16:05:45Z",
+  "articles": [
+    {
+      "id": "tecnologia-perplexity-teammates-agenti-ai-lavoro",
+      "eventKey": "perplexity-teammates-agenti-ai-sempre-attivi-lavoro",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Perplexity presenta agenti Teammates per incarichi continuativi",
+      "summary": "Perplexity ha introdotto Teammates, agenti AI destinati a gestire progetti di lavoro continuativi e paralleli. Il servizio si integra con Perplexity Computer e Slack ed è previsto per il piano Max.",
+      "body": [
+        "Perplexity ha introdotto Teammates, agenti AI destinati a gestire progetti di lavoro continuativi e paralleli. Il servizio si integra con Perplexity Computer e Slack ed è previsto per il piano Max."
+      ],
+      "publishedAt": "2026-11-06T12:00:00+01:00",
+      "verifiedAt": "2026-11-06T16:05:45Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/perplexity-teammates-agenti-ai-sempre-attivi-lavoro/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T16:05:45Z",
+        "dateEvidence": "Pagina originale consultata: dicitura 'Pubblicato il 6 nov 2026'; ora di pubblicazione non indicata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-claude-personal-finance-conti",
+      "eventKey": "claude-personal-finance-collegamento-conti-bancari",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Claude introduce l'analisi delle spese con Personal Finance",
+      "summary": "La funzione Personal Finance collega Claude a conti e carte attraverso Plaid, con accesso in sola lettura per analizzare movimenti, saldi e spese. La distribuzione iniziale riguarda gli abbonati statunitensi.",
+      "body": [
+        "La funzione Personal Finance collega Claude a conti e carte attraverso Plaid, con accesso in sola lettura per analizzare movimenti, saldi e spese. La distribuzione iniziale riguarda gli abbonati statunitensi."
+      ],
+      "publishedAt": "2026-11-06T12:00:00+01:00",
+      "verifiedAt": "2026-11-06T16:05:45Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/claude-si-collega-conto-banca-analizza-spese-personal-finance/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T16:05:45Z",
+        "dateEvidence": "Pagina originale consultata: dicitura 'Pubblicato il 6 nov 2026'; ora di pubblicazione non indicata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-gemini-omni-video-15-secondi",
+      "eventKey": "gemini-omni-1-2-flash-video-15-secondi",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Gemini Omni 1.2 Flash estende i video generati fino a 15 secondi",
+      "summary": "Google ha annunciato Gemini Omni 1.2 Flash, che permette di generare video da 3 a 15 secondi con maggior controllo su riferimenti, dialoghi e inquadrature. La disponibilità iniziale riguarda API e strumenti business.",
+      "body": [
+        "Google ha annunciato Gemini Omni 1.2 Flash, che permette di generare video da 3 a 15 secondi con maggior controllo su riferimenti, dialoghi e inquadrature. La disponibilità iniziale riguarda API e strumenti business."
+      ],
+      "publishedAt": "2026-11-06T12:00:00+01:00",
+      "verifiedAt": "2026-11-06T16:05:45Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/gemini-omni-1-2-flash-crea-video-15-secondi/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T16:05:45Z",
+        "dateEvidence": "Pagina originale consultata: dicitura 'Pubblicato il 6 nov 2026'; ora di pubblicazione non indicata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveDraft": []
+}
