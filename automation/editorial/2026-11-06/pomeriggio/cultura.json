@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-06",
+  "collectionId": "2026-11-06-pomeriggio",
+  "category": "Cultura · Teatro · Cinema",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-06T17:20:00+01:00",
+  "articles": [
+    {
+      "id": "cultura-pirandello-serafino-gubbio-mercadante-2026",
+      "eventKey": "pirandello-serafino-gubbio-mercadante-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Pirandello al Ridotto del Mercadante: Serafino Gubbio osserva il potere delle immagini",
+      "summary": "Flavio Capuzzo Dolcetta rilegge il romanzo di Pirandello mettendo al centro il rapporto fra ripresa, responsabilità e incapacità di intervenire.",
+      "body": [
+        "Al Ridotto del Mercadante, l'adattamento di Quaderni di Serafino Gubbio operatore firmato da Flavio Capuzzo Dolcetta impiega riprese proiettate in tempo reale e una scena affidata a tre interpreti.",
+        "La recensione di Sara Raia mette in evidenza il confronto fra lo sguardo della macchina da presa e le scelte di chi osserva, interrogando la circolazione contemporanea delle immagini."
+      ],
+      "publishedAt": "2026-11-05",
+      "verifiedAt": "2026-11-06T17:20:00+01:00",
+      "source": {
+        "name": "Teatro e Critica",
+        "url": "https://www.teatroecritica.net/2026/11/quaderni-di-serafino-gubbio-operatore-di-flavio-capuzzo-dolcetta/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T17:20:00+01:00",
+        "dateEvidence": "La pagina originale indica esplicitamente 5 Novembre 2026; l'ora di pubblicazione non è riportata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-virgilio-sieni-preghiera-tempi-guerra-torino-2026",
+      "eventKey": "virgilio-sieni-preghiera-tempi-guerra-torino-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Virgilio Sieni porta a Torino undici preghiere danzate contro la guerra",
+      "summary": "Al Teatro Astra di Torino, la nuova coreografia di Virgilio Sieni suscita una lettura critica sulla capacità della danza di affrontare il conflitto.",
+      "body": [
+        "Preghiera in tempi di guerra, con coreografia, spazio e luci di Virgilio Sieni, alterna assoli, duetti e gruppi in undici quadri danzati, con musica originale di Ascari.",
+        "Nella recensione pubblicata da Teatro e Critica, Stefano Tomassini contesta l'efficacia politica e artistica della scelta simbolica, giudicandola distante dalla forza di una reale opposizione alla violenza."
+      ],
+      "publishedAt": "2026-11-05",
+      "verifiedAt": "2026-11-06T17:20:00+01:00",
+      "source": {
+        "name": "Teatro e Critica",
+        "url": "https://www.teatroecritica.net/2026/11/preghiera-in-tempi-di-guerra-coreografia-spazio-e-luci-di-virgilio-sieni/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T17:20:00+01:00",
+        "dateEvidence": "La pagina originale indica esplicitamente 5 Novembre 2026; l'ora di pubblicazione non è riportata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveDraft": []
+}
