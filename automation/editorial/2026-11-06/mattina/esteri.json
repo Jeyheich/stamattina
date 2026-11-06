@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-06",
+  "collectionId": "2026-11-06-mattina",
+  "category": "Esteri",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-06T05:05:26.906Z",
+  "articles": [
+    {
+      "id": "esteri-paraguay-pena-dimissioni-ueno-20261106",
+      "eventKey": "paraguay-pena-dimissioni-crac-ueno-bank-2026",
+      "title": "Paraguay, Peña annuncia le dimissioni dopo il crac bancario",
+      "summary": "Il presidente Santiago Peña ha annunciato le dimissioni mentre si avvicinava una procedura di impeachment collegata al collasso di Ueno Bank. Le proteste dei risparmiatori continuano ad Asunción.",
+      "body": [
+        "Santiago Peña ha comunicato le dimissioni dalla presidenza del Paraguay nel pieno della crisi provocata dal dissesto di Ueno Bank, che ha impedito a numerosi correntisti di accedere ai depositi.",
+        "RaiNews riferisce di manifestazioni nella capitale Asunción e di un procedimento parlamentare per la destituzione. L'articolo distingue la dichiarazione di dimissioni dai passaggi istituzionali ancora necessari per il subentro del vicepresidente."
+      ],
+      "publishedAt": "2026-11-05T19:47:00Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/caos-in-paraguay-si-dimette-il-presidente-pea-10380868-4095-49b0-baa6-3471cd8413ab.html",
+        "dateEvidence": "Feed RaiNews del 5 novembre 2026 ore 19:47 UTC; pagina consultata riporta aggiornamento 06/11/2026.",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T05:05:26.906Z",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "category": "Esteri",
+      "status": "verified",
+      "verifiedAt": "2026-11-06T05:05:26.906Z"
+    },
+    {
+      "id": "esteri-francia-sciopero-generale-20261106",
+      "eventKey": "francia-sciopero-generale-5-novembre-2026",
+      "title": "Francia, sciopero nazionale e manifestazioni contro il carovita",
+      "summary": "La mobilitazione sindacale del 5 novembre ha coinvolto numerose città francesi, con la Torre Eiffel chiusa ai visitatori. Le stime sulla partecipazione differiscono sensibilmente fra sindacati e ministero dell’Interno.",
+      "body": [
+        "Lo sciopero nazionale francese ha portato cortei e manifestazioni contro l'aumento del costo della vita e per maggiori salari. La Torre Eiffel è rimasta chiusa ai visitatori e alcune sale del Louvre non hanno aperto.",
+        "La Cgt ha stimato quasi 1,6 milioni di manifestanti, mentre il ministero dell’Interno ha indicato circa 600.000 partecipanti. RaiNews segnala anche episodi di tensione e un incendio in un liceo vicino a Tolosa."
+      ],
+      "publishedAt": "2026-11-05T18:32:00Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/mobilitazioni-in-francia-la-tour-eiffel-chiusa-per-lo-sciopero-nazionale-4f92af5e-7d14-47c2-95bd-2c4580b23714.html",
+        "dateEvidence": "Feed RaiNews 05 novembre 2026 ore 18:32 UTC; pagina originale riporta 05/11/2026.",
+        "access": "free",
+        "accessCheckedAt": "2026-11-06T05:05:26.906Z",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "category": "Esteri",
+      "status": "verified",
+      "verifiedAt": "2026-11-06T05:05:26.906Z"
+    }
+  ],
+  "reserveDraft": []
+}
