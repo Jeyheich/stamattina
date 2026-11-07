@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-07",
+  "collectionId": "2026-11-07-mattina",
+  "category": "Esteri",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-07T05:02:56.171Z",
+  "articles": [
+    {
+      "id": "esteri-ucraina-russia-negoziati-trilaterali-20261107",
+      "eventKey": "ucraina-russia-proposta-negoziati-trilaterali-novembre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Ucraina, apertura ai colloqui trilaterali ma Mosca esclude una tregua",
+      "summary": "La Russia si dice disponibile a riprendere il formato negoziale con Stati Uniti e Ucraina, senza accettare per ora un cessate il fuoco. Zelensky sostiene un incontro a tre il prima possibile.",
+      "body": [
+        "Nel resoconto RaiNews del 7 novembre, Mosca propone di tornare ai colloqui trilaterali dopo il 10 novembre ad Abu Dhabi, ma non si impegna a sospendere le ostilità.",
+        "Il presidente ucraino Volodymyr Zelensky ha dichiarato di essere favorevole a un confronto tra Kiev, Mosca e Washington quanto prima. Donald Trump ha espresso ottimismo sulle prospettive diplomatiche; non risulta tuttavia annunciato un accordo."
+      ],
+      "publishedAt": "2026-11-07T00:04:00+01:00",
+      "verifiedAt": "2026-11-07T05:02:56.171Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/amp/maratona/2026/10/ucraina-guerra-pressing-di-trump-perche-kiev-ceda-territori-witkoff-in-russia-ee250686-2a50-4a87-984c-a2a16b850302.html",
+        "dateEvidence": "La pagina della diretta RaiNews reca l'intestazione 07 Novembre 2026 - 00:04; pagina aggiornata con sviluppi del negoziato.",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T05:02:56.171Z",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
