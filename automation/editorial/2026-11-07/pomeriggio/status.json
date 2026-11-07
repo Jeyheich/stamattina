@@ -1,0 +1,119 @@
+{
+  "editionDate": "2026-11-07",
+  "checkedAt": "2026-11-07T15:06:16.401Z",
+  "ready": false,
+  "editorialComplete": false,
+  "reserveMissing": [
+    "politica",
+    "esteri",
+    "economia",
+    "cronaca",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
+  ],
+  "completed": [],
+  "inProgress": [
+    {
+      "slug": "politica",
+      "count": 1
+    },
+    {
+      "slug": "esteri",
+      "count": 1
+    }
+  ],
+  "missing": [
+    "economia",
+    "cronaca",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
+  ],
+  "invalid": [],
+  "stories": [
+    {
+      "id": "politica-vannacci-coverciano-contestazioni-20261107",
+      "category": "Politica",
+      "title": "Contestazioni a Coverciano per l'apertura della sede di Futuro Nazionale",
+      "eventKey": "vannacci-coverciano-inaugurazione-contestazioni-20261107",
+      "pending": true
+    },
+    {
+      "id": "esteri-germania-patriot-ucraina-pistorius-20261107",
+      "category": "Esteri",
+      "title": "Berlino segnala il limite alle nuove forniture di Patriot all'Ucraina",
+      "eventKey": "germania-pistorius-stop-ulteriori-patriot-ucraina-20261107",
+      "pending": true
+    }
+  ],
+  "collectionId": "2026-11-07-pomeriggio",
+  "reserveCounts": {
+    "Politica": 0,
+    "Esteri": 0,
+    "Economia": 0,
+    "Cronaca": 0,
+    "Roma": 0,
+    "Cultura · Teatro · Cinema": 0,
+    "Tecnologia · AI": 0,
+    "Sport": 0
+  },
+  "photoCandidates": [],
+  "photosAvailable": 0,
+  "categoryProgress": {
+    "politica": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "esteri": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "economia": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "cronaca": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "roma": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "cultura": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "tecnologia": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "sport": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    }
+  },
+  "preparation": "in-preparazione",
+  "message": "Edizione in preparazione",
+  "needsPublication": false,
+  "publicCollectionId": "2026-11-07-mattina"
+}
