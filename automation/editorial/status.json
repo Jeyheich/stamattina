@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-06",
-  "checkedAt": "2026-11-07T00:29:44.510Z",
+  "checkedAt": "2026-11-07T00:36:34.989Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,12 +14,16 @@
     "sport"
   ],
   "completed": [
+    "esteri",
     "roma"
   ],
-  "inProgress": [],
+  "inProgress": [
+    {
+      "slug": "politica",
+      "count": 4
+    }
+  ],
   "missing": [
-    "politica",
-    "esteri",
     "sport"
   ],
   "invalid": [
@@ -41,6 +45,64 @@
     }
   ],
   "stories": [
+    {
+      "id": "politica-decaro-prospettive-ex-ilva-20261106",
+      "category": "Politica",
+      "title": "Ex Ilva, Decaro propone una fabbrica a minore impatto",
+      "eventKey": "decaro-prospettive-ex-ilva-20261106",
+      "pending": true
+    },
+    {
+      "id": "politica-governo-impugna-legge-veneto-fine-vita-20261106",
+      "category": "Politica",
+      "title": "Fine vita, il ricorso sulla legge veneta riapre il dibattito",
+      "eventKey": "governo-impugna-legge-veneto-fine-vita-20261106",
+      "pending": true
+    },
+    {
+      "id": "politica-schierarsi-ipotesi-liste-20261106",
+      "category": "Politica",
+      "title": "Schierarsi valuta la partecipazione alle prossime politiche",
+      "eventKey": "schierarsi-ipotesi-liste-20261106",
+      "pending": true
+    },
+    {
+      "id": "politica-meloni-mandato-ue-ucraina-20261106",
+      "category": "Politica",
+      "title": "Ucraina, Meloni chiede un mandato comune europeo",
+      "eventKey": "meloni-mandato-ue-ucraina-20261106",
+      "pending": true
+    },
+    {
+      "id": "esteri-midterm-spoglio-alaska-mississippi-20261106",
+      "category": "Esteri",
+      "title": "Midterm, ancora aperte due sfide per il Senato statunitense",
+      "eventKey": "midterm-spoglio-alaska-mississippi-20261106"
+    },
+    {
+      "id": "esteri-paraguay-pena-crisi-ueno-20261106",
+      "category": "Esteri",
+      "title": "Paraguay, Peña annuncia le dimissioni dopo il caso Ueno Bank",
+      "eventKey": "paraguay-pena-crisi-ueno-20261106"
+    },
+    {
+      "id": "esteri-papa-leone-viaggio-sudamerica-20261106",
+      "category": "Esteri",
+      "title": "Papa Leone parte per il viaggio in Sudamerica",
+      "eventKey": "papa-leone-viaggio-sudamerica-20261106"
+    },
+    {
+      "id": "esteri-francia-incidente-scuolabus-lent-20261106",
+      "category": "Esteri",
+      "title": "Francia, due morti nell’incidente di uno scuolabus",
+      "eventKey": "francia-incidente-scuolabus-lent-20261106"
+    },
+    {
+      "id": "esteri-causa-google-sicurezza-minori-20261106",
+      "category": "Esteri",
+      "title": "Stati Uniti, una famiglia cita Google per le risposte di Gemini",
+      "eventKey": "causa-google-sicurezza-minori-20261106"
+    },
     {
       "id": "roma-outlet-sant-oreste-20261106",
       "category": "Roma",
@@ -93,7 +155,7 @@
       "complete": false
     },
     "esteri": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
