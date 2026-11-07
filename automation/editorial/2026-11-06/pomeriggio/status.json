@@ -1,7 +1,7 @@
 {
   "editionDate": "2026-11-06",
-  "checkedAt": "2026-11-07T00:41:14.064Z",
-  "ready": false,
+  "checkedAt": "2026-11-07T00:48:48.436Z",
+  "ready": true,
   "editorialComplete": false,
   "reserveMissing": [
     "politica",
@@ -25,12 +25,7 @@
   ],
   "inProgress": [],
   "missing": [],
-  "invalid": [
-    {
-      "slug": "edition",
-      "reason": "Controllo completo fallito: consultare sourceErrors"
-    }
-  ],
+  "invalid": [],
   "stories": [
     {
       "id": "politica-decaro-prospettive-ex-ilva-20261106",
@@ -365,8 +360,6 @@
   "preparation": "tecnicamente-pubblicabile",
   "editionId": "2026-11-06-batches-a68dc822f0c0",
   "message": "Edizione tecnicamente pubblicabile, aggiuntive incomplete: politica, esteri, economia, cronaca, roma, cultura, tecnologia, sport",
-  "needsPublication": false,
-  "publicCollectionId": "2026-11-04-mattina",
-  "blocked": true,
-  "sourceErrors": "Edizione valida\nEdizione non reale o non corrispondente a oggi a Roma\n"
+  "needsPublication": true,
+  "publicCollectionId": "2026-11-04-mattina"
 }
