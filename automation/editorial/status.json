@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-07",
-  "checkedAt": "2026-11-07T07:07:20.806Z",
+  "checkedAt": "2026-11-07T09:19:15.357Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,125 +14,68 @@
     "sport"
   ],
   "completed": [
-    "tecnologia"
+    "sport"
   ],
-  "inProgress": [
-    {
-      "slug": "politica",
-      "count": 1
-    },
-    {
-      "slug": "esteri",
-      "count": 1
-    },
-    {
-      "slug": "economia",
-      "count": 2
-    },
-    {
-      "slug": "cronaca",
-      "count": 2
-    },
-    {
-      "slug": "cultura",
-      "count": 2
-    }
-  ],
+  "inProgress": [],
   "missing": [
     "roma"
   ],
   "invalid": [
     {
-      "slug": "sport",
+      "slug": "politica",
+      "reason": "Verifica scaduta o futura"
+    },
+    {
+      "slug": "esteri",
+      "reason": "Verifica scaduta o futura"
+    },
+    {
+      "slug": "economia",
+      "reason": "Verifica scaduta o futura"
+    },
+    {
+      "slug": "cronaca",
+      "reason": "Verifica scaduta o futura"
+    },
+    {
+      "slug": "cultura",
+      "reason": "Verifica scaduta o futura"
+    },
+    {
+      "slug": "tecnologia",
       "reason": "Verifica scaduta o futura"
     }
   ],
   "stories": [
     {
-      "id": "politica-decreto-bollette-rinvio-cdm-20261105",
-      "category": "Politica",
-      "title": "Decreto bollette rinviato: il governo punta al 9 novembre",
-      "eventKey": "rinvio-decreto-bollette-cdm-20261105",
-      "pending": true
+      "id": "sport-napoli-di-lorenzo-lesione-adduttore-20261106",
+      "category": "Sport",
+      "title": "Napoli, lesione all'adduttore per Di Lorenzo: salta la Lazio",
+      "eventKey": "napoli-di-lorenzo-lesione-adduttore-novembre-2026"
     },
     {
-      "id": "esteri-ucraina-russia-negoziati-trilaterali-20261107",
-      "category": "Esteri",
-      "title": "Ucraina, apertura ai colloqui trilaterali ma Mosca esclude una tregua",
-      "eventKey": "ucraina-russia-proposta-negoziati-trilaterali-novembre-2026",
-      "pending": true
+      "id": "sport-venezia-udinese-2-1-20261106",
+      "category": "Sport",
+      "title": "Venezia batte Udinese 2-1 e lascia l'ultimo posto",
+      "eventKey": "venezia-udinese-vittoria-20261106"
     },
     {
-      "id": "economia-taglio-prezzo-latte-freshways-20261106",
-      "category": "Economia",
-      "title": "Latte britannico, Freshways taglia il prezzo ai produttori",
-      "eventKey": "taglio-prezzo-latte-freshways-20261106",
-      "pending": true
+      "id": "sport-juventus-az-alkmaar-vittoria-20261106",
+      "category": "Sport",
+      "title": "Juventus vince 2-1 ad Alkmaar, finale in sofferenza",
+      "eventKey": "juventus-az-alkmaar-europa-league-20261106"
     },
     {
-      "id": "economia-crollo-borse-globali-titoli-ai-20261106",
-      "category": "Economia",
-      "title": "Borse globali in calo, pesa il timore di una frenata dell'AI",
-      "eventKey": "crollo-borse-globali-titoli-ai-20261106",
-      "pending": true
+      "id": "sport-antonelli-libere-brasile-20261106",
+      "category": "Sport",
+      "title": "Antonelli davanti a tutti nelle seconde libere in Brasile",
+      "eventKey": "antonelli-f1-libere2-brasile-20261106"
     },
     {
-      "id": "cronaca-allarmi-bomba-voli-europa-20261106",
-      "category": "Cronaca",
-      "title": "Nuovi allarmi bomba: coinvolti almeno 18 voli europei",
-      "eventKey": "allarmi-bomba-voli-europa-20261106",
-      "pending": true
-    },
-    {
-      "id": "cronaca-neonato-ritrovato-chiesa-magliana-20261106",
-      "category": "Cronaca",
-      "title": "Roma, neonato trovato in una chiesa alla Magliana",
-      "eventKey": "neonato-ritrovato-chiesa-magliana-20261106",
-      "pending": true
-    },
-    {
-      "id": "cultura-factory-fest-reportage-20261106",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Factory Fest, il teatro contemporaneo attraversa cinque città umbre",
-      "eventKey": "factory-fest-umbria-sesta-edizione-2026",
-      "pending": true
-    },
-    {
-      "id": "cultura-oriente-occidente-residenze-2027",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Oriente Occidente apre sei residenze artistiche per il 2027",
-      "eventKey": "oriente-occidente-bando-residenze-artistiche-2027",
-      "pending": true
-    },
-    {
-      "id": "tecnologia-iphone-parole-escluse-tastiera-ios",
-      "category": "Tecnologia · AI",
-      "title": "iPhone, scoperto un elenco di parole escluse dai suggerimenti",
-      "eventKey": "iphone-parole-escluse-tastiera-ios"
-    },
-    {
-      "id": "tecnologia-spotify-libreria-carosello-test",
-      "category": "Tecnologia · AI",
-      "title": "Spotify sperimenta una Libreria con i contenuti fissati in evidenza",
-      "eventKey": "spotify-libreria-carosello-test"
-    },
-    {
-      "id": "tecnologia-chainalysis-credenziali-token-clienti",
-      "category": "Tecnologia · AI",
-      "title": "Chainalysis amplia la portata della violazione: coinvolti token e password",
-      "eventKey": "chainalysis-credenziali-token-clienti"
-    },
-    {
-      "id": "tecnologia-gta6-mappa-leonida-digitale",
-      "category": "Tecnologia · AI",
-      "title": "GTA 6 avrà una mappa digitale di Leonida scaricabile gratuitamente",
-      "eventKey": "gta6-mappa-leonida-digitale"
-    },
-    {
-      "id": "tecnologia-gta6-kodak-black-personaggio",
-      "category": "Tecnologia · AI",
-      "title": "GTA 6, confermata la presenza di Kodak Black tra i personaggi",
-      "eventKey": "gta6-kodak-black-personaggio"
+      "id": "sport-sinner-cahill-norman-20261106",
+      "category": "Sport",
+      "title": "Sinner saluta Cahill: Magnus Norman entra nel team",
+      "eventKey": "sinner-cahill-addio-norman-nuovo-coach-20261106"
     }
   ],
   "collectionId": "2026-11-07-mattina",
@@ -186,13 +129,13 @@
       "complete": false
     },
     "tecnologia": {
-      "base": 5,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "sport": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
