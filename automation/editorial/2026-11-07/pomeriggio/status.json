@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-07",
-  "checkedAt": "2026-11-07T16:16:44.611Z",
+  "checkedAt": "2026-11-07T17:03:54.073Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -8,12 +8,13 @@
     "esteri",
     "economia",
     "cronaca",
-    "roma",
     "cultura",
     "tecnologia",
     "sport"
   ],
-  "completed": [],
+  "completed": [
+    "roma"
+  ],
   "inProgress": [
     {
       "slug": "politica",
@@ -31,7 +32,6 @@
   "missing": [
     "economia",
     "cronaca",
-    "roma",
     "tecnologia",
     "sport"
   ],
@@ -57,6 +57,66 @@
       "title": "Factory Fest, un viaggio fra teatro e danza nelle città umbre",
       "eventKey": "factory-fest-umbria-reportage-sesta-edizione-2026",
       "pending": true
+    },
+    {
+      "id": "roma-dylan-biglietti-contraffatti-20261107",
+      "category": "Roma",
+      "title": "Concerto di Bob Dylan a Roma, segnalati biglietti falsi",
+      "eventKey": "dylan-biglietti-contraffatti-20261107"
+    },
+    {
+      "id": "roma-colle-oppio-retake-rifiuti-20261107",
+      "category": "Roma",
+      "title": "Colle Oppio, volontari raccolgono oltre una tonnellata di rifiuti",
+      "eventKey": "colle-oppio-retake-rifiuti-20261107"
+    },
+    {
+      "id": "roma-gualtieri-campagna-comunali-2027-20261107",
+      "category": "Roma",
+      "title": "Gualtieri lancia la campagna per un secondo mandato",
+      "eventKey": "gualtieri-campagna-comunali-2027-20261107"
+    },
+    {
+      "id": "roma-fiumicino-riattivazione-telecamere-20261107",
+      "category": "Roma",
+      "title": "Fiumicino riattiva 49 telecamere in otto località",
+      "eventKey": "fiumicino-riattivazione-telecamere-20261107"
+    },
+    {
+      "id": "roma-plinio-seniore-rimozione-scritta-20261107",
+      "category": "Roma",
+      "title": "Liceo Plinio Seniore, Valditara annuncia la rimozione di una scritta",
+      "eventKey": "plinio-seniore-rimozione-scritta-20261107"
+    },
+    {
+      "id": "roma-olio-roma-igp-stime-campagna-20261107",
+      "category": "Roma",
+      "title": "Olio di Roma IGP, stimata una crescita della produzione",
+      "eventKey": "olio-roma-igp-stime-campagna-20261107"
+    },
+    {
+      "id": "roma-camera-commercio-bando-imprese-femminili-20261107",
+      "category": "Roma",
+      "title": "Roma, un bando premia sei progetti di imprese femminili",
+      "eventKey": "camera-commercio-bando-imprese-femminili-20261107"
+    },
+    {
+      "id": "roma-quarticciolo-controlli-carabinieri-20261107",
+      "category": "Roma",
+      "title": "Quarticciolo, undici arresti durante i controlli antidroga",
+      "eventKey": "quarticciolo-controlli-carabinieri-20261107"
+    },
+    {
+      "id": "roma-vitinia-fosso-segnalazioni-interrogazioni-20261107",
+      "category": "Roma",
+      "title": "Vitinia, interrogazioni sugli scarichi nel fosso",
+      "eventKey": "vitinia-fosso-segnalazioni-interrogazioni-20261107"
+    },
+    {
+      "id": "roma-citta-giardino-tutor-notte-20261107",
+      "category": "Roma",
+      "title": "A Città Giardino arrivano i tutor della notte",
+      "eventKey": "citta-giardino-tutor-notte-20261107"
     }
   ],
   "collectionId": "2026-11-07-pomeriggio",
@@ -65,7 +125,7 @@
     "Esteri": 0,
     "Economia": 0,
     "Cronaca": 0,
-    "Roma": 0,
+    "Roma": 5,
     "Cultura · Teatro · Cinema": 0,
     "Tecnologia · AI": 0,
     "Sport": 0
@@ -98,10 +158,10 @@
       "complete": false
     },
     "roma": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "cultura": {
       "base": 0,
