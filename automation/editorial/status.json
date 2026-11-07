@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-07",
-  "checkedAt": "2026-11-07T06:02:31.403Z",
+  "checkedAt": "2026-11-07T06:13:49.421Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -34,13 +34,16 @@
       "count": 2
     },
     {
+      "slug": "cultura",
+      "count": 2
+    },
+    {
       "slug": "sport",
       "count": 1
     }
   ],
   "missing": [
-    "roma",
-    "cultura"
+    "roma"
   ],
   "invalid": [],
   "stories": [
@@ -84,6 +87,20 @@
       "category": "Cronaca",
       "title": "Roma, neonato trovato in una chiesa alla Magliana",
       "eventKey": "neonato-ritrovato-chiesa-magliana-20261106",
+      "pending": true
+    },
+    {
+      "id": "cultura-factory-fest-reportage-20261106",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Factory Fest, il teatro contemporaneo attraversa cinque città umbre",
+      "eventKey": "factory-fest-umbria-sesta-edizione-2026",
+      "pending": true
+    },
+    {
+      "id": "cultura-oriente-occidente-residenze-2027",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Oriente Occidente apre sei residenze artistiche per il 2027",
+      "eventKey": "oriente-occidente-bando-residenze-artistiche-2027",
       "pending": true
     },
     {
