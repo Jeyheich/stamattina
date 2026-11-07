@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-07",
+  "collectionId": "2026-11-07-mattina",
+  "category": "Sport",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-07T06:02:09.772Z",
+  "articles": [
+    {
+      "id": "sport-napoli-di-lorenzo-lesione-adduttore-20261106",
+      "eventKey": "napoli-di-lorenzo-lesione-adduttore-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Napoli, lesione all'adduttore per Di Lorenzo: salta la Lazio",
+      "summary": "Gli esami hanno evidenziato una lesione distrattiva all'adduttore sinistro per il capitano del Napoli, già assente nella trasferta europea contro il Porto.",
+      "body": [
+        "Giovanni Di Lorenzo ha iniziato il percorso riabilitativo dopo gli accertamenti medici. Il Napoli dovrà fare a meno del capitano nella partita di campionato contro la Lazio.",
+        "La società deve gestire numerose altre assenze; i tempi precisi di rientro non sono stati comunicati nell'articolo."
+      ],
+      "publishedAt": "2026-11-06T18:10:00+01:00",
+      "verifiedAt": "2026-11-07T06:02:09.772Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/11/06/napoli-di-lorenzo-infortunio-news",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T06:02:09.772Z",
+        "dateEvidence": "La pagina riporta «06 nov 2026 - 18:10» sopra il testo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": []
+}
