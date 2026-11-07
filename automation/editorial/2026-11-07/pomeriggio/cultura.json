@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-07",
+  "collectionId": "2026-11-07-pomeriggio",
+  "category": "Cultura · Teatro · Cinema",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-07T17:16:24+01:00",
+  "articles": [
+    {
+      "id": "cultura-factory-fest-reportage-umbria-20261106",
+      "eventKey": "factory-fest-umbria-reportage-sesta-edizione-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Factory Fest, un viaggio fra teatro e danza nelle città umbre",
+      "summary": "Un reportage ripercorre la sesta edizione di Factory Fest, festival di arti performative che ha attraversato Foligno, Spoleto, Perugia, Campello e Spello, mettendo al centro lo straniamento e il rapporto fra realtà e rappresentazione.",
+      "body": [
+        "Nel racconto pubblicato da Teatro e Critica, il festival multidisciplinare curato dalla cooperativa Ge.Ci.Te. con La Mama Umbria International esplora il tema «fuori di sé» attraverso danza, musica, teatro e performance.",
+        "Tra i lavori esaminati figurano La svastica sul sole di lacasadargilla, la ricerca sonora di Enrico Malatesta, Verso la specie! di Claudia Castellucci e Arlecchino di Zaches Teatro. Il pezzo è una lettura critica dell'edizione conclusa, non l'annuncio di un nuovo evento."
+      ],
+      "publishedAt": "2026-11-06",
+      "verifiedAt": "2026-11-07T17:16:24+01:00",
+      "source": {
+        "name": "Teatro e Critica",
+        "url": "https://www.teatroecritica.net/2026/11/factory-fest-da-foligno-fuori-di-se/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T17:16:24+01:00",
+        "dateEvidence": "La pagina originale riporta sotto il nome dell'autrice Viviana Raciti la data '6 Novembre 2026'.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
