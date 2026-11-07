@@ -38,6 +38,7 @@ Ogni articolo richiede:
 - eventKey: chiave stabile del fatto, 6–160 caratteri alfanumerici/trattini;
 - category, status: verified, title, summary, body: array di paragrafi;
 - publishedAt reale, verifiedAt reale; eventuali dateKind: event ed eventDate con limite dichiarato;
+- Se la fonte indica soltanto il giorno di pubblicazione, salvalo nel campo publishedAt in formato YYYY-MM-DD e documenta in source.dateEvidence dove compare la data. Non inventare l’ora e non lasciare publishedAt vuoto quando il giorno è verificato.
 - source: name, url HTTPS DIRETTO, access: free, accessCheckedAt reale, dateEvidence (almeno 20 caratteri con evidenza concreta della data), reviewedBy: Verifica automatizzata ChatGPT;
 - per la candidata principale: leadPriority da 0 a 100 e image con src HTTPS Wikimedia, alt, credit, rights, sourceUrl della pagina Commons File, licenseUrl, caption, reuseApproved: true. La licenza e l'autore devono corrispondere ai metadati. Puoi riusare una foto del repository solo se hai controllato nuovamente pertinenza e provenienza.
 
