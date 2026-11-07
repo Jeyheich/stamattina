@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-07",
-  "checkedAt": "2026-11-07T15:06:32.880Z",
+  "checkedAt": "2026-11-07T16:16:44.611Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -22,13 +22,16 @@
     {
       "slug": "esteri",
       "count": 1
+    },
+    {
+      "slug": "cultura",
+      "count": 1
     }
   ],
   "missing": [
     "economia",
     "cronaca",
     "roma",
-    "cultura",
     "tecnologia",
     "sport"
   ],
@@ -46,6 +49,13 @@
       "category": "Esteri",
       "title": "Berlino segnala il limite alle nuove forniture di Patriot all'Ucraina",
       "eventKey": "germania-pistorius-stop-ulteriori-patriot-ucraina-20261107",
+      "pending": true
+    },
+    {
+      "id": "cultura-factory-fest-reportage-umbria-20261106",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Factory Fest, un viaggio fra teatro e danza nelle città umbre",
+      "eventKey": "factory-fest-umbria-reportage-sesta-edizione-2026",
       "pending": true
     }
   ],
