@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-07",
+  "collectionId": "2026-11-07-mattina",
+  "category": "Politica",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-07T05:02:56.171Z",
+  "articles": [
+    {
+      "id": "politica-decreto-bollette-rinvio-cdm-20261105",
+      "eventKey": "rinvio-decreto-bollette-cdm-20261105",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Decreto bollette rinviato: il governo punta al 9 novembre",
+      "summary": "Il Consiglio dei ministri ha rinviato l'approvazione del decreto destinato a ridurre i costi di elettricità e gas per famiglie e imprese. Il ministero dell'Ambiente indica lunedì 9 novembre come prossima occasione per il voto.",
+      "body": [
+        "Il decreto bollette non ha ricevuto il via libera nella riunione del Consiglio dei ministri del 5 novembre. La Ragioneria ha chiesto chiarimenti sul coordinamento temporale tra risorse e impieghi; secondo fonti governative occorrono inoltre adempimenti dell'Arera.",
+        "Il ministero dell'Ambiente considera definitivo il testo illustrato in Consiglio e prevede un nuovo esame lunedì 9 novembre. La misura resta dunque in attesa di approvazione, senza effetti già operativi."
+      ],
+      "publishedAt": "2026-11-05T17:38:00+01:00",
+      "verifiedAt": "2026-11-07T05:02:56.171Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/05/in-cdm-slitta-ancora-lapprovazione-del-decreto-bollette_8d67ddb9-4bd5-4ec2-bcd1-c3d360b2e537.html",
+        "dateEvidence": "La pagina ANSA riporta ROMA, 05 novembre 2026, 17:38.",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T05:02:56.171Z",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
