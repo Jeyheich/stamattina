@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-06",
-  "checkedAt": "2026-11-07T00:36:48.037Z",
+  "checkedAt": "2026-11-07T00:37:43.707Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -15,7 +15,9 @@
   ],
   "completed": [
     "esteri",
-    "roma"
+    "roma",
+    "tecnologia",
+    "sport"
   ],
   "inProgress": [
     {
@@ -23,9 +25,7 @@
       "count": 4
     }
   ],
-  "missing": [
-    "sport"
-  ],
+  "missing": [],
   "invalid": [
     {
       "slug": "economia",
@@ -37,10 +37,6 @@
     },
     {
       "slug": "cultura",
-      "reason": "Verifica scaduta o futura"
-    },
-    {
-      "slug": "tecnologia",
       "reason": "Verifica scaduta o futura"
     }
   ],
@@ -132,6 +128,66 @@
       "category": "Roma",
       "title": "Recuperati i bagagli rubati a una scolaresca belga",
       "eventKey": "tor-bella-monaca-furto-bagagli-20261106"
+    },
+    {
+      "id": "tecnologia-perplexity-teammates-agenti-ai-lavoro",
+      "category": "Tecnologia · AI",
+      "title": "Perplexity presenta agenti Teammates per incarichi continuativi",
+      "eventKey": "perplexity-teammates-agenti-ai-sempre-attivi-lavoro"
+    },
+    {
+      "id": "tecnologia-claude-personal-finance-conti",
+      "category": "Tecnologia · AI",
+      "title": "Claude introduce l'analisi delle spese con Personal Finance",
+      "eventKey": "claude-personal-finance-collegamento-conti-bancari"
+    },
+    {
+      "id": "tecnologia-gemini-omni-video-15-secondi",
+      "category": "Tecnologia · AI",
+      "title": "Gemini Omni 1.2 Flash estende i video generati fino a 15 secondi",
+      "eventKey": "gemini-omni-1-2-flash-video-15-secondi"
+    },
+    {
+      "id": "tecnologia-take-two-pirateria-gta6-20261106",
+      "category": "Tecnologia · AI",
+      "title": "Take-Two spiega come risponderebbe alla pirateria di GTA 6",
+      "eventKey": "take-two-pirateria-gta6-20261106"
+    },
+    {
+      "id": "tecnologia-exodus-restyling-jun-20261106",
+      "category": "Tecnologia · AI",
+      "title": "Exodus mostra il nuovo aspetto di Jun Aslan",
+      "eventKey": "exodus-restyling-jun-20261106"
+    },
+    {
+      "id": "sport-di-lorenzo-infortunio-20261106",
+      "category": "Sport",
+      "title": "Napoli, lesione all’adduttore per Di Lorenzo",
+      "eventKey": "di-lorenzo-infortunio-20261106"
+    },
+    {
+      "id": "sport-milan-ferencvaros-europa-league-20261106",
+      "category": "Sport",
+      "title": "Europa League, il Ferencváros batte il Milan a San Siro",
+      "eventKey": "milan-ferencvaros-europa-league-20261106"
+    },
+    {
+      "id": "sport-italia-convocati-nations-league-20261106",
+      "category": "Sport",
+      "title": "Nations League, Mancini convoca 31 giocatori per Francia e Belgio",
+      "eventKey": "italia-convocati-nations-league-20261106"
+    },
+    {
+      "id": "sport-parigi-masters-quarti-torino-20261106",
+      "category": "Sport",
+      "title": "Masters di Parigi, i quarti pesano sulla corsa alle Finals",
+      "eventKey": "parigi-masters-quarti-torino-20261106"
+    },
+    {
+      "id": "sport-interlagos-fp1-mini-fornaroli-20261106",
+      "category": "Sport",
+      "title": "Interlagos, Minì settimo e Fornaroli undicesimo nelle prime libere",
+      "eventKey": "interlagos-fp1-mini-fornaroli-20261106"
     }
   ],
   "collectionId": "2026-11-06-pomeriggio",
@@ -185,13 +241,13 @@
       "complete": false
     },
     "tecnologia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "sport": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
