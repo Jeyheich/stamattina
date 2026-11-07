@@ -3,8 +3,6 @@
   "editionDate": "2026-11-06",
   "collectionId": "2026-11-06-pomeriggio",
   "category": "Cronaca",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-06T15:25:00Z",
   "articles": [
     {
       "id": "cronaca-pietracatella-perquisizione-casa-di-vita-novembre-2026",
@@ -18,12 +16,12 @@
         "Gli investigatori hanno effettuato nuovi accertamenti nell'immobile, che potrebbe essere dissequestrato al termine delle operazioni."
       ],
       "publishedAt": "2026-11-06T10:26:00Z",
-      "verifiedAt": "2026-11-06T15:25:00Z",
+      "verifiedAt": "2026-11-07T00:38:37.736344+00:00",
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com/cronaca/giallo-di-pietracatella-ultimi-sviluppi-notizie-oggi-6-novembre_1fKgzqjTsrNU6zU1cgnK1",
         "access": "free",
-        "accessCheckedAt": "2026-11-06T15:25:00Z",
+        "accessCheckedAt": "2026-11-07T00:38:37.736344+00:00",
         "dateEvidence": "Data originale visibile sulla pagina Adnkronos: 06 novembre 2026, ore 11.26 italiane.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -40,12 +38,12 @@
         "La conducente si era allontanata senza soccorrere la vittima e si è poi presentata agli uffici della polizia locale; le indagini proseguono."
       ],
       "publishedAt": "2026-11-06T09:40:00Z",
-      "verifiedAt": "2026-11-06T15:25:00Z",
+      "verifiedAt": "2026-11-07T00:38:37.736344+00:00",
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com/cronaca/incidente-roma-ragazzo-morto-foro-italico-denuncia_6d6kktwxMHoGdj8yZtrhag",
         "access": "free",
-        "accessCheckedAt": "2026-11-06T15:25:00Z",
+        "accessCheckedAt": "2026-11-07T00:38:37.736344+00:00",
         "dateEvidence": "Data originale visibile sulla pagina Adnkronos: 06 novembre 2026, ore 10.40 italiane.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -62,17 +60,60 @@
         "La decisione non interrompe le indagini, che proseguono anche con l'analisi dei dispositivi sequestrati."
       ],
       "publishedAt": "2026-11-06T11:06:00Z",
-      "verifiedAt": "2026-11-06T15:25:00Z",
+      "verifiedAt": "2026-11-07T00:38:37.736344+00:00",
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com/cronaca/youssef-siher-procura-milano-rinuncia-a-riesame-cosa-succede-ora_148Kbwv631s2KNick3jtMu",
         "access": "free",
-        "accessCheckedAt": "2026-11-06T15:25:00Z",
+        "accessCheckedAt": "2026-11-07T00:38:37.736344+00:00",
         "dateEvidence": "Data originale visibile sulla pagina Adnkronos: 06 novembre 2026, ore 12.06 italiane.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-allarmi-voli-europa-italia-20261106",
+      "eventKey": "allarmi-voli-europa-italia-20261106",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Nuovi allarmi sui voli in Europa, coinvolti anche collegamenti italiani",
+      "summary": "Secondo il Guardian, gli allarmi del 6 novembre hanno interessato almeno 18 voli in Europa, tra cui un collegamento da Lisbona a Roma. I velivoli coinvolti sono atterrati in sicurezza e i controlli non hanno trovato esplosivi.",
+      "body": [
+        "Secondo il Guardian, gli allarmi del 6 novembre hanno interessato almeno 18 voli in Europa, tra cui un collegamento da Lisbona a Roma. I velivoli coinvolti sono atterrati in sicurezza e i controlli non hanno trovato esplosivi."
+      ],
+      "publishedAt": "2026-11-06",
+      "verifiedAt": "2026-11-07T00:38:37.736344+00:00",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T00:38:37.736344+00:00",
+        "dateEvidence": "Pagina originale di The Guardian: articolo datato 6 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-oristano-indagine-rapina-20261106",
+      "eventKey": "oristano-indagine-rapina-20261106",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Oristano, arrestato un minorenne nell’indagine su una rapina",
+      "summary": "La polizia ha arrestato un minorenne sospettato di aver rapinato un giovane insieme a un’altra persona. Gli investigatori collegano l’episodio a una serie di furti e tentativi di furto nelle auto in sosta.",
+      "body": [
+        "La polizia ha arrestato un minorenne sospettato di aver rapinato un giovane insieme a un’altra persona. Gli investigatori collegano l’episodio a una serie di furti e tentativi di furto nelle auto in sosta."
+      ],
+      "publishedAt": "2026-11-06",
+      "verifiedAt": "2026-11-07T00:38:37.736344+00:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/cronaca/oristano-rapina-giovane-furti-auto-arrestato-minore-video_6sjkn0kYJyNT3i8dHsZkWd",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T00:38:37.736344+00:00",
+        "dateEvidence": "Pagina originale di Adnkronos: articolo datato 6 novembre 2026.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ],
   "reserveArticles": [],
-  "reserveDraft": []
+  "reserveDraft": [],
+  "completedAt": "2026-11-07T00:38:37.736344+00:00"
 }
