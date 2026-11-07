@@ -1,6 +1,6 @@
 {
-  "editionDate": "2026-11-07",
-  "checkedAt": "2026-11-07T00:24:52.970Z",
+  "editionDate": "2026-11-06",
+  "checkedAt": "2026-11-07T00:29:44.510Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,21 +13,66 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [],
+  "completed": [
+    "roma"
+  ],
   "inProgress": [],
   "missing": [
     "politica",
     "esteri",
-    "economia",
-    "cronaca",
-    "roma",
-    "cultura",
-    "tecnologia",
     "sport"
   ],
-  "invalid": [],
-  "stories": [],
-  "collectionId": "2026-11-07-mattina",
+  "invalid": [
+    {
+      "slug": "economia",
+      "reason": "Verifica scaduta o futura"
+    },
+    {
+      "slug": "cronaca",
+      "reason": "Verifica scaduta o futura"
+    },
+    {
+      "slug": "cultura",
+      "reason": "Verifica scaduta o futura"
+    },
+    {
+      "slug": "tecnologia",
+      "reason": "Verifica scaduta o futura"
+    }
+  ],
+  "stories": [
+    {
+      "id": "roma-outlet-sant-oreste-20261106",
+      "category": "Roma",
+      "title": "A Sant’Oreste inaugurato il nuovo polo commerciale",
+      "eventKey": "outlet-sant-oreste-20261106"
+    },
+    {
+      "id": "roma-mic-card-estensione-20261106",
+      "category": "Roma",
+      "title": "La MIC Card si estende a concerti e spettacoli",
+      "eventKey": "mic-card-estensione-20261106"
+    },
+    {
+      "id": "roma-asl-roma-2-ritardo-referti-20261106",
+      "category": "Roma",
+      "title": "ASL Roma 2, ritardi nei referti degli esami del sangue",
+      "eventKey": "asl-roma-2-ritardo-referti-20261106"
+    },
+    {
+      "id": "roma-tevere-roma-sud-banchina-20261106",
+      "category": "Roma",
+      "title": "Tevere, riqualificato un tratto di banchina a Roma sud",
+      "eventKey": "tevere-roma-sud-banchina-20261106"
+    },
+    {
+      "id": "roma-tor-bella-monaca-furto-bagagli-20261106",
+      "category": "Roma",
+      "title": "Recuperati i bagagli rubati a una scolaresca belga",
+      "eventKey": "tor-bella-monaca-furto-bagagli-20261106"
+    }
+  ],
+  "collectionId": "2026-11-06-pomeriggio",
   "reserveCounts": {
     "Politica": 0,
     "Esteri": 0,
@@ -66,7 +111,7 @@
       "complete": false
     },
     "roma": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false

@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-06",
-  "checkedAt": "2026-11-06T16:18:39.094Z",
+  "checkedAt": "2026-11-07T00:29:44.510Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,96 +13,63 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [],
-  "inProgress": [
-    {
-      "slug": "economia",
-      "count": 4
-    },
-    {
-      "slug": "cronaca",
-      "count": 3
-    },
-    {
-      "slug": "cultura",
-      "count": 2
-    }
+  "completed": [
+    "roma"
   ],
+  "inProgress": [],
   "missing": [
     "politica",
     "esteri",
-    "roma",
     "sport"
   ],
   "invalid": [
     {
+      "slug": "economia",
+      "reason": "Verifica scaduta o futura"
+    },
+    {
+      "slug": "cronaca",
+      "reason": "Verifica scaduta o futura"
+    },
+    {
+      "slug": "cultura",
+      "reason": "Verifica scaduta o futura"
+    },
+    {
       "slug": "tecnologia",
-      "reason": "Data fonte mancante"
+      "reason": "Verifica scaduta o futura"
     }
   ],
   "stories": [
     {
-      "id": "economia-case-regno-unito-calo-ottobre-2026",
-      "category": "Economia",
-      "title": "Regno Unito, prezzi delle case in calo dello 0,6% a ottobre",
-      "eventKey": "case-regno-unito-calo-ottobre-2026",
-      "pending": true
+      "id": "roma-outlet-sant-oreste-20261106",
+      "category": "Roma",
+      "title": "A Sant’Oreste inaugurato il nuovo polo commerciale",
+      "eventKey": "outlet-sant-oreste-20261106"
     },
     {
-      "id": "economia-regno-unito-obbligo-stipendi-annunci-lavoro-2026",
-      "category": "Economia",
-      "title": "Regno Unito, annunci di lavoro con stipendio obbligatorio nella proposta del governo",
-      "eventKey": "regno-unito-obbligo-stipendi-annunci-lavoro-2026",
-      "pending": true
+      "id": "roma-mic-card-estensione-20261106",
+      "category": "Roma",
+      "title": "La MIC Card si estende a concerti e spettacoli",
+      "eventKey": "mic-card-estensione-20261106"
     },
     {
-      "id": "economia-londra-scioperi-metropolitana-rmt-novembre-2026",
-      "category": "Economia",
-      "title": "Londra, otto scioperi annunciati dai macchinisti della metropolitana",
-      "eventKey": "londra-scioperi-metropolitana-rmt-novembre-2026",
-      "pending": true
+      "id": "roma-asl-roma-2-ritardo-referti-20261106",
+      "category": "Roma",
+      "title": "ASL Roma 2, ritardi nei referti degli esami del sangue",
+      "eventKey": "asl-roma-2-ritardo-referti-20261106"
     },
     {
-      "id": "economia-panipat-riciclo-tessile-infortuni-lavoratori-2026",
-      "category": "Economia",
-      "title": "India, il riciclo tessile di Panipat espone i lavoratori a gravi incidenti",
-      "eventKey": "panipat-riciclo-tessile-infortuni-lavoratori-2026",
-      "pending": true
+      "id": "roma-tevere-roma-sud-banchina-20261106",
+      "category": "Roma",
+      "title": "Tevere, riqualificato un tratto di banchina a Roma sud",
+      "eventKey": "tevere-roma-sud-banchina-20261106"
     },
     {
-      "id": "cronaca-pietracatella-perquisizione-casa-di-vita-novembre-2026",
-      "category": "Cronaca",
-      "title": "Pietracatella, nuova perquisizione nell'abitazione delle vittime",
-      "eventKey": "pietracatella-perquisizione-casa-di-vita-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "cronaca-foro-italico-roma-denunciata-conducente-incidente-2026",
-      "category": "Cronaca",
-      "title": "Roma, denunciata una ventunenne dopo l'incidente mortale al Foro Italico",
-      "eventKey": "foro-italico-roma-denunciata-conducente-incidente-2026",
-      "pending": true
-    },
-    {
-      "id": "cronaca-milano-siher-procura-rinuncia-riesame-2026",
-      "category": "Cronaca",
-      "title": "Milano, la Procura rinuncia al Riesame nel caso Siher",
-      "eventKey": "milano-siher-procura-rinuncia-riesame-2026",
-      "pending": true
-    },
-    {
-      "id": "cultura-pirandello-serafino-gubbio-mercadante-2026",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Pirandello al Ridotto del Mercadante: Serafino Gubbio osserva il potere delle immagini",
-      "eventKey": "pirandello-serafino-gubbio-mercadante-2026",
-      "pending": true
-    },
-    {
-      "id": "cultura-virgilio-sieni-preghiera-tempi-guerra-torino-2026",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Virgilio Sieni porta a Torino undici preghiere danzate contro la guerra",
-      "eventKey": "virgilio-sieni-preghiera-tempi-guerra-torino-2026",
-      "pending": true
+      "id": "roma-tor-bella-monaca-furto-bagagli-20261106",
+      "category": "Roma",
+      "title": "Recuperati i bagagli rubati a una scolaresca belga",
+      "eventKey": "tor-bella-monaca-furto-bagagli-20261106"
     }
   ],
   "collectionId": "2026-11-06-pomeriggio",
@@ -144,7 +111,7 @@
       "complete": false
     },
     "roma": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
