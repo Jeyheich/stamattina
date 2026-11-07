@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-06",
-  "checkedAt": "2026-11-07T00:40:38.161Z",
+  "checkedAt": "2026-11-07T00:41:14.064Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -25,7 +25,12 @@
   ],
   "inProgress": [],
   "missing": [],
-  "invalid": [],
+  "invalid": [
+    {
+      "slug": "edition",
+      "reason": "Controllo completo fallito: consultare sourceErrors"
+    }
+  ],
   "stories": [
     {
       "id": "politica-decaro-prospettive-ex-ilva-20261106",
@@ -289,9 +294,24 @@
       "id": "esteri-midterm-spoglio-alaska-mississippi-20261106",
       "category": "Esteri",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Capitol_of_the_United_States%2C_Washington%2C_D.C_-_NARA_-_525116.jpg"
+    },
+    {
+      "id": "economia-uk-freshways-prezzo-latte-20261106",
+      "category": "Economia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cattle%2C_Red_Hills_Farm_-_geograph.org.uk_-_985600.jpg"
+    },
+    {
+      "id": "roma-tevere-roma-sud-banchina-20261106",
+      "category": "Roma",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tevere_-_ponte_Industria_1030875.JPG"
+    },
+    {
+      "id": "sport-milan-ferencvaros-europa-league-20261106",
+      "category": "Sport",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg"
     }
   ],
-  "photosAvailable": 2,
+  "photosAvailable": 5,
   "categoryProgress": {
     "politica": {
       "base": 5,
@@ -342,9 +362,11 @@
       "complete": false
     }
   },
-  "photosMissing": 3,
-  "preparation": "in-preparazione",
-  "message": "Edizione in preparazione",
+  "preparation": "tecnicamente-pubblicabile",
+  "editionId": "2026-11-06-batches-a68dc822f0c0",
+  "message": "Edizione tecnicamente pubblicabile, aggiuntive incomplete: politica, esteri, economia, cronaca, roma, cultura, tecnologia, sport",
   "needsPublication": false,
-  "publicCollectionId": "2026-11-04-mattina"
+  "publicCollectionId": "2026-11-04-mattina",
+  "blocked": true,
+  "sourceErrors": "Edizione valida\nEdizione non reale o non corrispondente a oggi a Roma\n"
 }
