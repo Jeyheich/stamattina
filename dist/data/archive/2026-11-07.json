@@ -1,0 +1,1862 @@
+{
+  "schemaVersion": 1,
+  "collectionId": "2026-11-07-mattina",
+  "id": "2026-11-07-batches-ee0d5e30749c",
+  "mode": "live",
+  "editionDate": "2026-11-07",
+  "generatedAt": "2026-11-07T09:32:23.704Z",
+  "timezone": "Europe/Rome",
+  "scheduledFor": "2026-11-07T09:00:00+01:00",
+  "essentialIds": [
+    "politica-anac-altieri-ritiro-20261107",
+    "esteri-israele-eisenkot-proposta-governo-emergenza-20261106",
+    "economia-taglio-prezzo-latte-freshways-20261106",
+    "roma-censis-quartieri-mobilita-20261107",
+    "sport-venezia-udinese-2-1-20261106"
+  ],
+  "leadIds": [
+    "politica-anac-altieri-ritiro-20261107",
+    "esteri-israele-eisenkot-proposta-governo-emergenza-20261106",
+    "economia-taglio-prezzo-latte-freshways-20261106",
+    "roma-censis-quartieri-mobilita-20261107",
+    "sport-venezia-udinese-2-1-20261106"
+  ],
+  "compactIds": [
+    "politica-decreto-bollette-rinvio-cdm-20261105",
+    "politica-meloni-giorgetti-manovra-20261106",
+    "politica-governo-ricorso-fine-vita-veneto-20261106",
+    "politica-speranza-commissione-covid-20261106",
+    "esteri-ucraina-russia-negoziati-trilaterali-20261107",
+    "esteri-kiev-ponte-nord-raid-feriti-20261107",
+    "esteri-trump-miller-capo-staff-20261107",
+    "esteri-paraguay-pena-arresto-ueno-20261107",
+    "economia-crollo-borse-globali-titoli-ai-20261106",
+    "economia-bce-successione-lagarde-candidati-20261106",
+    "economia-mps-conti-nove-mesi-20261106",
+    "economia-ex-ilva-completato-spegnimento-area-caldo-20261106",
+    "cronaca-allarmi-bomba-voli-europa-20261106",
+    "cronaca-neonato-ritrovato-chiesa-magliana-20261106",
+    "cronaca-taranto-mensa-scolastica-morosita-20261107",
+    "cronaca-firenze-amministrazione-giudiziaria-moda-20261107",
+    "cronaca-sarno-incidente-stradale-20261107",
+    "roma-fleming-blackout-cabina-20261107",
+    "roma-ares-contratti-autisti-barellieri-20261107",
+    "roma-campidoglio-contratto-integrativo-20261107",
+    "roma-capannelle-interrogazioni-raggi-20261107",
+    "cultura-factory-fest-reportage-20261106",
+    "cultura-oriente-occidente-residenze-2027",
+    "cultura-sanremo-2027-presentazione-de-martino",
+    "cultura-torino-film-festival-2026-programma",
+    "cultura-the-label-de-sica-santamaria-20261107",
+    "tecnologia-iphone-parole-escluse-tastiera-ios",
+    "tecnologia-spotify-libreria-carosello-test",
+    "tecnologia-chainalysis-credenziali-token-clienti",
+    "tecnologia-gta6-mappa-leonida-digitale",
+    "tecnologia-gta6-kodak-black-personaggio",
+    "sport-napoli-di-lorenzo-lesione-adduttore-20261106",
+    "sport-juventus-az-alkmaar-vittoria-20261106",
+    "sport-antonelli-libere-brasile-20261106",
+    "sport-sinner-cahill-norman-20261106"
+  ],
+  "articles": [
+    {
+      "id": "politica-decreto-bollette-rinvio-cdm-20261105",
+      "eventKey": "rinvio-decreto-bollette-cdm-20261105",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Decreto bollette rinviato: il governo punta al 9 novembre",
+      "summary": "Il Consiglio dei ministri ha rinviato l'approvazione del decreto destinato a ridurre i costi di elettricità e gas per famiglie e imprese. Il ministero dell'Ambiente indica lunedì 9 novembre come prossima occasione per il voto.",
+      "body": [
+        "Il decreto bollette non ha ricevuto il via libera nella riunione del Consiglio dei ministri del 5 novembre. La Ragioneria ha chiesto chiarimenti sul coordinamento temporale tra risorse e impieghi; secondo fonti governative occorrono inoltre adempimenti dell'Arera.",
+        "Il ministero dell'Ambiente considera definitivo il testo illustrato in Consiglio e prevede un nuovo esame lunedì 9 novembre. La misura resta dunque in attesa di approvazione, senza effetti già operativi."
+      ],
+      "publishedAt": "2026-11-05T17:38:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:19.150057+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/05/in-cdm-slitta-ancora-lapprovazione-del-decreto-bollette_8d67ddb9-4bd5-4ec2-bcd1-c3d360b2e537.html",
+        "dateEvidence": "La pagina ANSA riporta ROMA, 05 novembre 2026, 17:38.",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:19.150057+00:00",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-anac-altieri-ritiro-20261107",
+      "eventKey": "anac-altieri-ritiro-20261107",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Anac, Altieri ritira la disponibilità alla presidenza",
+      "summary": "Trifone Altieri ha rinunciato alla designazione dopo il confronto tra opposizioni e governo sulla compatibilità con l’incarico.",
+      "body": [
+        "Trifone Altieri ha rinunciato alla designazione dopo il confronto tra opposizioni e governo sulla compatibilità con l’incarico.",
+        "Il Consiglio dei ministri aveva indicato Altieri come candidato alla guida dell’Autorità nazionale anticorruzione."
+      ],
+      "publishedAt": "2026-11-07T08:54:17+00:00",
+      "verifiedAt": "2026-11-07T09:27:15.318996+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/11/07/anac-altieri",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:15.318996+00:00",
+        "dateEvidence": "Data riportata sulla pagina di Sky TG24 o nei metadati: 2026-11-07T08:54:17+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PalazzoChigi.jpeg",
+        "alt": "Palazzo Chigi, Roma",
+        "credit": "Arepo",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg",
+        "rights": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · Palazzo Chigi, Roma. Fotografia non riferita agli eventi di oggi.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      },
+      "leadPriority": 85
+    },
+    {
+      "id": "politica-meloni-giorgetti-manovra-20261106",
+      "eventKey": "meloni-giorgetti-manovra-20261106",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Manovra, Meloni difende la linea di Giorgetti",
+      "summary": "La presidente del Consiglio ha difeso l’impostazione del ministro dell’Economia, mentre nella maggioranza resta aperta la trattativa sulle misure.",
+      "body": [
+        "La presidente del Consiglio ha difeso l’impostazione del ministro dell’Economia, mentre nella maggioranza resta aperta la trattativa sulle misure."
+      ],
+      "publishedAt": "2026-11-06T17:09:18+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.454862+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/06/manovra-lunedi-al-via-le-audizioni-attese-imprese-banche-sindacati-e-regioni_0ec0aa84-e641-47e8-af76-d966564ce5a0.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.454862+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T17:09:18+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-governo-ricorso-fine-vita-veneto-20261106",
+      "eventKey": "governo-ricorso-fine-vita-veneto-20261106",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Fine vita, il ricorso sulla legge veneta riapre il confronto",
+      "summary": "L’impugnazione del governo riporta in primo piano il dibattito sulla mancanza di una legge nazionale.",
+      "body": [
+        "L’impugnazione del governo riporta in primo piano il dibattito sulla mancanza di una legge nazionale."
+      ],
+      "publishedAt": "2026-11-06T17:23:42+00:00",
+      "verifiedAt": "2026-11-07T09:27:15.465506+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/video/2026/11/06/legge-fine-vita-italia-1137987",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:15.465506+00:00",
+        "dateEvidence": "Data riportata sulla pagina di Sky TG24 o nei metadati: 2026-11-06T17:23:42+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-speranza-commissione-covid-20261106",
+      "eventKey": "speranza-commissione-covid-20261106",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Commissione Covid, nuove tensioni durante l’audizione di Speranza",
+      "summary": "La commissione ha ascoltato per la seconda volta l’ex ministro della Salute. La presidenza ha sospeso più volte la seduta durante gli scontri tra maggioranza e opposizioni.",
+      "body": [
+        "La commissione ha ascoltato per la seconda volta l’ex ministro della Salute. La presidenza ha sospeso più volte la seduta durante gli scontri tra maggioranza e opposizioni."
+      ],
+      "publishedAt": "2026-11-06T18:10:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.878587+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/06/nuovo-scontro-in-commissione-covid-scintille-fdi-speranza_6075f4ca-9f2a-40b0-b474-c7e4634abb58.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.878587+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T18:10:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-ucraina-russia-negoziati-trilaterali-20261107",
+      "eventKey": "ucraina-russia-proposta-negoziati-trilaterali-novembre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Ucraina, apertura ai colloqui trilaterali ma Mosca esclude una tregua",
+      "summary": "La Russia si dice disponibile a riprendere il formato negoziale con Stati Uniti e Ucraina, senza accettare per ora un cessate il fuoco. Zelensky sostiene un incontro a tre il prima possibile.",
+      "body": [
+        "Nel resoconto RaiNews del 7 novembre, Mosca propone di tornare ai colloqui trilaterali dopo il 10 novembre ad Abu Dhabi, ma non si impegna a sospendere le ostilità.",
+        "Il presidente ucraino Volodymyr Zelensky ha dichiarato di essere favorevole a un confronto tra Kiev, Mosca e Washington quanto prima. Donald Trump ha espresso ottimismo sulle prospettive diplomatiche; non risulta tuttavia annunciato un accordo."
+      ],
+      "publishedAt": "2026-11-07T00:04:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:18.819990+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/amp/maratona/2026/10/ucraina-guerra-pressing-di-trump-perche-kiev-ceda-territori-witkoff-in-russia-ee250686-2a50-4a87-984c-a2a16b850302.html",
+        "dateEvidence": "La pagina della diretta RaiNews reca l'intestazione 07 Novembre 2026 - 00:04; pagina aggiornata con sviluppi del negoziato.",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:18.819990+00:00",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-kiev-ponte-nord-raid-feriti-20261107",
+      "eventKey": "kiev-ponte-nord-raid-feriti-20261107",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Raid su Kiev, danni a un ponte e alle infrastrutture energetiche",
+      "summary": "Secondo il sindaco, il bilancio iniziale è di cinque feriti, tra cui un quattordicenne. Le autorità locali hanno segnalato rischi per acqua e riscaldamento.",
+      "body": [
+        "Secondo il sindaco, il bilancio iniziale è di cinque feriti, tra cui un quattordicenne. Le autorità locali hanno segnalato rischi per acqua e riscaldamento."
+      ],
+      "publishedAt": "2026-11-07T08:14:00+00:00",
+      "verifiedAt": "2026-11-07T09:27:15.684768+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/notte-di-attacchi-russi-su-kiev-danni-a-ponte-ed-energia-feriti-49b2c091-67e2-467f-be8b-66d970b03118.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:15.684768+00:00",
+        "dateEvidence": "Data riportata sulla pagina di RaiNews o nei metadati: 2026-11-07T08:14:00+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-trump-miller-capo-staff-20261107",
+      "eventKey": "trump-miller-capo-staff-20261107",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Casa Bianca, Trump nomina Stephen Miller capo dello staff",
+      "summary": "Miller prende il posto di Susie Wiles. Il cambio arriva dopo le elezioni di metà mandato, in cui i democratici hanno conquistato la maggioranza al Congresso.",
+      "body": [
+        "Miller prende il posto di Susie Wiles. Il cambio arriva dopo le elezioni di metà mandato, in cui i democratici hanno conquistato la maggioranza al Congresso."
+      ],
+      "publishedAt": "2026-11-06T16:34:08+00:00",
+      "verifiedAt": "2026-11-07T09:27:16.060892+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/maratona/2026/11/dopo-londa-blu-trump-possiamo-collaborare-con-i-dem-c445ff6c-6393-46d9-9dc9-3ffb08b44d4d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:16.060892+00:00",
+        "dateEvidence": "Data riportata sulla pagina di RaiNews o nei metadati: 2026-11-06T16:34:08+0000.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-paraguay-pena-arresto-ueno-20261107",
+      "eventKey": "paraguay-pena-arresto-ueno-20261107",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Paraguay, arrestato l’ex presidente Santiago Peña",
+      "summary": "RaiNews riferisce che la polizia ha eseguito il provvedimento ad Asunción nell’inchiesta sulla Ueno Bank. Pedro Alliana ha giurato come presidente.",
+      "body": [
+        "RaiNews riferisce che la polizia ha eseguito il provvedimento ad Asunción nell’inchiesta sulla Ueno Bank. Pedro Alliana ha giurato come presidente."
+      ],
+      "publishedAt": "2026-11-07T00:00:20+00:00",
+      "verifiedAt": "2026-11-07T09:27:15.752191+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/paraguay-arrestato-lex-presidente-pea-per-il-caso-ueno-bank-31739406-8564-4c4a-a7db-a22333231901.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:15.752191+00:00",
+        "dateEvidence": "Data riportata sulla pagina di RaiNews o nei metadati: 2026-11-07T00:00:20+0000.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-israele-eisenkot-proposta-governo-emergenza-20261106",
+      "eventKey": "israele-eisenkot-proposta-governo-emergenza-20261106",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Israele, Eisenkot propone un governo di emergenza",
+      "summary": "Il leader di Yashar ha detto di sperare di ricevere l’incarico all’inizio della settimana e propone di partire dai partiti del blocco del cambiamento.",
+      "body": [
+        "Il leader di Yashar ha detto di sperare di ricevere l’incarico all’inizio della settimana e propone di partire dai partiti del blocco del cambiamento.",
+        "La proposta prevede di ampliare il sostegno parlamentare a partire dai partiti del blocco del cambiamento."
+      ],
+      "publishedAt": "2026-11-06T15:18:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.395964+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/06/eisenkot-nutro-la-speranza-di-formare-il-nuovo-governo-un-esecutivo-di-emergenza_07d9e7f2-608f-4aec-a43e-988329c1f67c.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.395964+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T15:18:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Knesset_Building_%28From_Front%29.JPG",
+        "alt": "La Knesset, Gerusalemme",
+        "credit": "Effib",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG",
+        "rights": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · La Knesset, Gerusalemme. Fotografia non riferita agli eventi di oggi.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      },
+      "leadPriority": 85
+    },
+    {
+      "id": "economia-taglio-prezzo-latte-freshways-20261106",
+      "eventKey": "taglio-prezzo-latte-freshways-20261106",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Latte britannico, Freshways taglia il prezzo ai produttori",
+      "summary": "Dal primo dicembre Freshways ridurrà di sette penny al litro il prezzo riconosciuto agli allevatori, portandolo a 29,4 penny. Le associazioni agricole segnalano margini già compressi dai costi di produzione.",
+      "body": [
+        "Dal primo dicembre Freshways ridurrà di sette penny al litro il prezzo riconosciuto agli allevatori, portandolo a 29,4 penny. Le associazioni agricole segnalano margini già compressi dai costi di produzione.",
+        "Secondo il Guardian, il taglio di sette pence al litro si aggiunge alla pressione già esercitata dai costi di produzione."
+      ],
+      "publishedAt": "2026-11-06",
+      "verifiedAt": "2026-11-07T09:27:18.881703+00:00",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/environment/2026/nov/06/uk-dairy-farmers-face-squeeze-as-milk-processor-cuts-prices",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:18.881703+00:00",
+        "dateEvidence": "L'articolo indica Fri 6 Nov 2026 11.27 EST, aggiornato alle 11.46 EST.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Cattle%2C_Red_Hills_Farm_-_geograph.org.uk_-_985600.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cattle%2C_Red_Hills_Farm_-_geograph.org.uk_-_985600.jpg",
+        "alt": "Bovini da latte al pascolo presso Red Hills Farm",
+        "caption": "Repertorio · Bovini da latte al pascolo presso Red Hills Farm.",
+        "credit": "Trish Steel",
+        "rights": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "reuseApproved": true
+      },
+      "leadPriority": 85
+    },
+    {
+      "id": "economia-crollo-borse-globali-titoli-ai-20261106",
+      "eventKey": "crollo-borse-globali-titoli-ai-20261106",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Borse globali in calo, pesa il timore di una frenata dell'AI",
+      "summary": "Le vendite dei titoli tecnologici statunitensi si sono propagate venerdì ai listini asiatici ed europei. Il FTSE 100 ha recuperato parte delle perdite e il Nasdaq ha chiuso in rialzo dopo il forte ribasso del giorno precedente.",
+      "body": [
+        "Le vendite dei titoli tecnologici statunitensi si sono propagate venerdì ai listini asiatici ed europei. Il FTSE 100 ha recuperato parte delle perdite e il Nasdaq ha chiuso in rialzo dopo il forte ribasso del giorno precedente."
+      ],
+      "publishedAt": "2026-11-06",
+      "verifiedAt": "2026-11-07T09:27:18.918728+00:00",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:18.918728+00:00",
+        "dateEvidence": "L'articolo riporta First published on Fri 6 Nov 2026 03.58 EST, aggiornato alle 16.23 EST.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-bce-successione-lagarde-candidati-20261106",
+      "eventKey": "bce-successione-lagarde-candidati-20261106",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Bce, due candidati alla successione di Christine Lagarde",
+      "summary": "L’Eurogruppo ha ricevuto le candidature di Pablo Hernández de Cos e Klaas Knot. Un primo confronto tra i ministri dell’Eurozona è previsto il 9 novembre.",
+      "body": [
+        "L’Eurogruppo ha ricevuto le candidature di Pablo Hernández de Cos e Klaas Knot. Un primo confronto tra i ministri dell’Eurozona è previsto il 9 novembre."
+      ],
+      "publishedAt": "2026-11-06T17:33:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.183599+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/06/per-la-presidenza-a-bce-si-conferma-corsa-a-due-tra-spagna-e-olanda_733d33e6-7f30-48d2-b24d-a751684ff9a7.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.183599+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T17:33:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-mps-conti-nove-mesi-20261106",
+      "eventKey": "mps-conti-nove-mesi-20261106",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Mps, utile di 1,66 miliardi nei primi nove mesi",
+      "summary": "L’utile netto cresce del 21,2% rispetto allo stesso periodo del 2025. Il risultato del terzo trimestre è pari a 543 milioni di euro.",
+      "body": [
+        "L’utile netto cresce del 21,2% rispetto allo stesso periodo del 2025. Il risultato del terzo trimestre è pari a 543 milioni di euro."
+      ],
+      "publishedAt": "2026-11-06T08:16:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.134794+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/06/lutile-di-mps-sale-del-21-a-166-miliardi-il-trimestre-batte-le-attese_ef7dae9d-077f-4da1-bbdf-7db225a22a02.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.134794+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T08:16:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-ex-ilva-completato-spegnimento-area-caldo-20261106",
+      "eventKey": "ex-ilva-completato-spegnimento-area-caldo-20261106",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Ex Ilva di Taranto, completato lo spegnimento dell’area a caldo",
+      "summary": "Secondo quanto riferito da ANSA sull’incontro al ministero del Lavoro, la direzione ha comunicato ai sindacati che gli impianti dell’area a caldo sono spenti.",
+      "body": [
+        "Secondo quanto riferito da ANSA sull’incontro al ministero del Lavoro, la direzione ha comunicato ai sindacati che gli impianti dell’area a caldo sono spenti."
+      ],
+      "publishedAt": "2026-11-06T14:21:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.245138+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/06/tutti-spenti-gli-impianti-dellarea-a-caldo-dellex-ilva_7958b4e0-a2d1-4fb8-a1d7-4842a4085088.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.245138+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T14:21:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-allarmi-bomba-voli-europa-20261106",
+      "eventKey": "allarmi-bomba-voli-europa-20261106",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Nuovi allarmi bomba: coinvolti almeno 18 voli europei",
+      "summary": "Venerdì almeno 18 collegamenti aerei europei sono stati interessati da allarmi bomba; gli aerei coinvolti sono atterrati senza incidenti e le ispezioni non hanno trovato esplosivi. Le autorità indagano sull'origine delle minacce.",
+      "body": [
+        "Venerdì almeno 18 collegamenti aerei europei sono stati interessati da allarmi bomba; gli aerei coinvolti sono atterrati senza incidenti e le ispezioni non hanno trovato esplosivi. Le autorità indagano sull'origine delle minacce."
+      ],
+      "publishedAt": "2026-11-06",
+      "verifiedAt": "2026-11-07T09:27:19.290568+00:00",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:19.290568+00:00",
+        "dateEvidence": "The Guardian indica First published on Fri 6 Nov 2026 08.34 EST e aggiornamento alle 12.14 EST.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-neonato-ritrovato-chiesa-magliana-20261106",
+      "eventKey": "neonato-ritrovato-chiesa-magliana-20261106",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Roma, neonato trovato in una chiesa alla Magliana",
+      "summary": "Un neonato è stato trovato in una borsa nella chiesa di San Gregorio Magno. Soccorso dal 118 e trasferito in ospedale, risultava in buone condizioni; i carabinieri stanno esaminando le immagini di videosorveglianza.",
+      "body": [
+        "Un neonato è stato trovato in una borsa nella chiesa di San Gregorio Magno. Soccorso dal 118 e trasferito in ospedale, risultava in buone condizioni; i carabinieri stanno esaminando le immagini di videosorveglianza."
+      ],
+      "publishedAt": "2026-11-06",
+      "verifiedAt": "2026-11-07T09:27:19.435963+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/06/roma-neonato-chiesa",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:19.435963+00:00",
+        "dateEvidence": "Sky TG24 mostra esplicitamente la data 06 nov 2026 - 19:25 sopra il testo dell'articolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-taranto-mensa-scolastica-morosita-20261107",
+      "eventKey": "taranto-mensa-scolastica-morosita-20261107",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Taranto, famiglia e Comune danno versioni diverse sul caso della mensa",
+      "summary": "La famiglia sostiene che la figlia non abbia potuto pranzare a scuola per un debito. Il Comune riferisce che la famiglia era stata avvisata e che la bambina era stata prelevata prima del pasto.",
+      "body": [
+        "La famiglia sostiene che la figlia non abbia potuto pranzare a scuola per un debito. Il Comune riferisce che la famiglia era stata avvisata e che la bambina era stata prelevata prima del pasto."
+      ],
+      "publishedAt": "2026-11-07T06:00:48+00:00",
+      "verifiedAt": "2026-11-07T09:27:16.941008+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/bimba-di-9-anni-esclusa-dalla-mensa-scolastica-per-un-debito-di-12-euro-la-denuncia-della-famiglia-9fd6e625-556a-4613-8c3d-89026fe1f08f.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:16.941008+00:00",
+        "dateEvidence": "Data riportata sulla pagina di RaiNews o nei metadati: 2026-11-07T06:00:48+0000.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-firenze-amministrazione-giudiziaria-moda-20261107",
+      "eventKey": "firenze-amministrazione-giudiziaria-moda-20261107",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Moda, due società in amministrazione giudiziaria a Firenze",
+      "summary": "Il tribunale ha disposto la misura per un anno nei confronti di Tessilform e Dixie nell’ambito di un’indagine sullo sfruttamento del lavoro presso fornitori. Tessilform riferisce di aver già interrotto i rapporti con i terzisti interessati.",
+      "body": [
+        "Il tribunale ha disposto la misura per un anno nei confronti di Tessilform e Dixie nell’ambito di un’indagine sullo sfruttamento del lavoro presso fornitori. Tessilform riferisce di aver già interrotto i rapporti con i terzisti interessati."
+      ],
+      "publishedAt": "2026-11-07T01:44:00+00:00",
+      "verifiedAt": "2026-11-07T09:27:16.903297+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/lombra-del-caporalato-sul-made-in-italy-colpiti-i-marchi-patrizia-pepe-e-dixie-dff91787-9709-4b74-bc95-c750862aa10d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:16.903297+00:00",
+        "dateEvidence": "Data riportata sulla pagina di RaiNews o nei metadati: 2026-11-07T01:44:00+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-sarno-incidente-stradale-20261107",
+      "eventKey": "sarno-incidente-stradale-20261107",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Sarno, una ragazza di 17 anni muore in un incidente",
+      "summary": "L’auto è uscita di strada e si è ribaltata in via San Valentino. Un altro occupante è rimasto ferito. La dinamica è in corso di accertamento.",
+      "body": [
+        "L’auto è uscita di strada e si è ribaltata in via San Valentino. Un altro occupante è rimasto ferito. La dinamica è in corso di accertamento."
+      ],
+      "publishedAt": "2026-11-07T09:37:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.195408+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/auto-finisce-fuori-strada-e-poi-si-ribalta-morta-17enne-nel-salernitano_4fcc5390-5c4d-4320-a20b-a2953a9ca667.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.195408+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-07T09:37:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-censis-quartieri-mobilita-20261107",
+      "eventKey": "censis-quartieri-mobilita-20261107",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Censis, i romani apprezzano il quartiere ma segnalano la mobilità",
+      "summary": "Nell’indagine su 1.500 residenti, l’85% si dice molto o abbastanza soddisfatto del quartiere in cui abita. Per il 46,3% il principale problema della città è la mobilità.",
+      "body": [
+        "Nell’indagine su 1.500 residenti, l’85% si dice molto o abbastanza soddisfatto del quartiere in cui abita. Per il 46,3% il principale problema della città è la mobilità.",
+        "Tra gli intervistati, il 70,5% indica il miglioramento del trasporto pubblico come intervento per rendere Roma più sostenibile."
+      ],
+      "publishedAt": "2026-11-07T08:48:43+01:00",
+      "verifiedAt": "2026-11-07T09:27:19.492046+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/politica/censis-romani-quartieri-trasporti-sicurezza.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:19.492046+00:00",
+        "dateEvidence": "Pagina originale RomaToday con data e ora visibili: 07/11/2026 alle 08:48, ora italiana.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bus_stop_in_Rome_01.jpg",
+        "alt": "Fermata di autobus a Roma",
+        "credit": "Nicholas Gemini",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bus_stop_in_Rome_01.jpg",
+        "rights": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · Una fermata del trasporto pubblico a Roma, 2018.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      },
+      "leadPriority": 85
+    },
+    {
+      "id": "roma-fleming-blackout-cabina-20261107",
+      "eventKey": "fleming-blackout-cabina-20261107",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Blackout al Fleming dopo l’incendio di una cabina elettrica",
+      "summary": "Il rogo è scoppiato la sera del 6 novembre in via Città di Castello. Nessuno è rimasto ferito. Areti ha attivato gruppi elettrogeni di emergenza.",
+      "body": [
+        "Il rogo è scoppiato la sera del 6 novembre in via Città di Castello. Nessuno è rimasto ferito. Areti ha attivato gruppi elettrogeni di emergenza."
+      ],
+      "publishedAt": "2026-11-07T08:41:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:19.581387+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/cronaca/incendio-fleming-senza-corrente-7-novembre-2026.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:19.581387+00:00",
+        "dateEvidence": "Pagina originale RomaToday con data e ora visibili: 07/11/2026 alle 08:41, ora italiana.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-ares-contratti-autisti-barellieri-20261107",
+      "eventKey": "ares-contratti-autisti-barellieri-20261107",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Ares 118, il sindacato segnala 111 contratti in scadenza",
+      "summary": "Secondo l’Ugl, i contratti in scadenza il 30 novembre riguardano 56 autisti e 55 barellieri. L’azienda riferisce di avere avviato un confronto istituzionale per salvaguardare i posti di lavoro.",
+      "body": [
+        "Secondo l’Ugl, i contratti in scadenza il 30 novembre riguardano 56 autisti e 55 barellieri. L’azienda riferisce di avere avviato un confronto istituzionale per salvaguardare i posti di lavoro."
+      ],
+      "publishedAt": "2026-11-07T07:35:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:19.539192+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/economia/contratti-tempo-determinato-ares-ugl.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:19.539192+00:00",
+        "dateEvidence": "Pagina originale RomaToday con data e ora visibili: 07/11/2026 alle 07:35, ora italiana.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-campidoglio-contratto-integrativo-20261107",
+      "eventKey": "campidoglio-contratto-integrativo-20261107",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Roma Capitale firma il contratto integrativo dei dipendenti",
+      "summary": "L’intesa del 6 novembre porta il fondo per il salario accessorio a oltre 210 milioni. Prevede circa 250 euro annui di welfare a dipendente e più flessibilità in ingresso.",
+      "body": [
+        "L’intesa del 6 novembre porta il fondo per il salario accessorio a oltre 210 milioni. Prevede circa 250 euro annui di welfare a dipendente e più flessibilità in ingresso."
+      ],
+      "publishedAt": "2026-11-07T07:19:46+01:00",
+      "verifiedAt": "2026-11-07T09:27:19.680667+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/politica/contratto-integrativo-roma-capitale-buoni-pasto-smart-working.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:19.680667+00:00",
+        "dateEvidence": "Pagina originale RomaToday con data e ora visibili: 07/11/2026 alle 07:19, ora italiana.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-capannelle-interrogazioni-raggi-20261107",
+      "eventKey": "capannelle-interrogazioni-raggi-20261107",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Capannelle, Raggi chiede chiarimenti sulla gestione dell’ippodromo",
+      "summary": "Le interrogazioni in Campidoglio riguardano i costi, le modalità di raccolta delle scommesse e il ruolo di Zétema dopo la riapertura dell’impianto.",
+      "body": [
+        "Le interrogazioni in Campidoglio riguardano i costi, le modalità di raccolta delle scommesse e il ruolo di Zétema dopo la riapertura dell’impianto."
+      ],
+      "publishedAt": "2026-11-07T06:39:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:19.633445+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/politica/ippodromo-capannelle-.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:19.633445+00:00",
+        "dateEvidence": "Pagina originale RomaToday con data e ora visibili: 07/11/2026 alle 06:39, ora italiana.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-factory-fest-reportage-20261106",
+      "eventKey": "factory-fest-umbria-sesta-edizione-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Factory Fest, il teatro contemporaneo attraversa cinque città umbre",
+      "summary": "Un reportage racconta la sesta edizione di Factory Fest, tra Foligno, Spoleto, Perugia, Campello e Spello: danza, musica e teatro esplorano il tema dello straniamento e del rapporto con la realtà.",
+      "body": [
+        "La sesta edizione di Factory Fest ha riunito spettacoli e performance in diversi centri umbri, con un programma multidisciplinare curato dalla cooperativa Ge.Ci.Te. insieme a La Mama Umbria International.",
+        "Nel reportage pubblicato il 6 novembre, Viviana Raciti analizza fra gli altri i lavori di lacasadargilla, Enrico Malatesta, Claudia Castellucci e Zaches Teatro, collegandoli al filo conduttore «fuori di sé»."
+      ],
+      "publishedAt": "2026-11-06",
+      "verifiedAt": "2026-11-07T09:27:18.983487+00:00",
+      "source": {
+        "name": "Teatro e Critica",
+        "url": "https://www.teatroecritica.net/2026/11/factory-fest-da-foligno-fuori-di-se/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:18.983487+00:00",
+        "dateEvidence": "Nella pagina originale compare la data 6 Novembre 2026 sotto il nome dell'autrice Viviana Raciti.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-oriente-occidente-residenze-2027",
+      "eventKey": "oriente-occidente-bando-residenze-artistiche-2027",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Oriente Occidente apre sei residenze artistiche per il 2027",
+      "summary": "Il progetto di Rovereto seleziona sei proposte di ricerca sul corpo e sul movimento, suddivise in tre percorsi. Le candidature chiudono il 18 novembre 2026 alle 14.",
+      "body": [
+        "La nuova call di Oriente Occidente comprende due residenze D.Arte in collaborazione con il Mart, una residenza partecipativa e tre residenze di ricerca. I compensi lordi previsti sono di 7.000 euro per le prime due linee e 5.000 euro per la terza.",
+        "Le proposte possono arrivare da artisti, collettivi e compagnie di qualunque provenienza geografica. La comunicazione degli esiti è prevista entro il 18 dicembre 2026."
+      ],
+      "publishedAt": "2026-11-06",
+      "verifiedAt": "2026-11-07T09:27:18.946377+00:00",
+      "source": {
+        "name": "Teatro e Critica",
+        "url": "https://www.teatroecritica.net/2026/11/oriente-occidente-open-call-residenze-artistiche-2027-tre-linee-per-corpo-e-movimento-compensi-fino-a-7-000-euro/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:18.946377+00:00",
+        "dateEvidence": "La pagina dell'annuncio riporta 6 Novembre 2026 e scadenza del bando 18 novembre 2026 ore 14.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-sanremo-2027-presentazione-de-martino",
+      "eventKey": "sanremo-2027-presentazione-de-martino",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Sanremo 2027, De Martino anticipa una serata dedicata alle performance",
+      "summary": "Il Festival è in programma dal 16 al 20 febbraio. Per venerdì 19 il conduttore e direttore artistico ha annunciato una serata ispirata alle esibizioni dell’Eurovision.",
+      "body": [
+        "Il Festival è in programma dal 16 al 20 febbraio. Per venerdì 19 il conduttore e direttore artistico ha annunciato una serata ispirata alle esibizioni dell’Eurovision."
+      ],
+      "publishedAt": "2026-11-06T16:55:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.453958+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/2026/11/06/sanremo-prende-forma-de-martino-sara-alla-mia-maniera_0c4e149e-2c24-4012-971e-5f68f2c4c1b2.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.453958+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T16:55:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-torino-film-festival-2026-programma",
+      "eventKey": "torino-film-festival-2026-programma",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Torino Film Festival, annunciati apertura e ospiti",
+      "summary": "La 44ª edizione si terrà dal 24 novembre al 2 dicembre. John Travolta è atteso all’apertura al Teatro Regio e il festival dedica la retrospettiva a Marilyn Monroe.",
+      "body": [
+        "La 44ª edizione si terrà dal 24 novembre al 2 dicembre. John Travolta è atteso all’apertura al Teatro Regio e il festival dedica la retrospettiva a Marilyn Monroe."
+      ],
+      "publishedAt": "2026-11-05T14:28:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.656911+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/05/al-torino-film-festival-john-travolta-pamela-anderson-e-fanny-ardant_c4e261cd-99f9-4790-a142-fb2e62b32988.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.656911+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-05T14:28:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-the-label-de-sica-santamaria-20261107",
+      "eventKey": "the-label-de-sica-santamaria-20261107",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "De Sica e Santamaria insieme nella serie The Label",
+      "summary": "Netflix ha presentato una prima immagine della serie diretta da Luca Miniero. I sei episodi raccontano una famiglia che guida un’etichetta musicale indipendente.",
+      "body": [
+        "Netflix ha presentato una prima immagine della serie diretta da Luca Miniero. I sei episodi raccontano una famiglia che guida un’etichetta musicale indipendente."
+      ],
+      "publishedAt": "2026-11-07T06:40:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:17.726931+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/eventi/cultura/de-sica-santamaria-the-label-netflix.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:17.726931+00:00",
+        "dateEvidence": "Data riportata sulla pagina di RomaToday o nei metadati: 2026-11-07T06:40:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-iphone-parole-escluse-tastiera-ios",
+      "eventKey": "iphone-parole-escluse-tastiera-ios",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "iPhone, scoperto un elenco di parole escluse dai suggerimenti",
+      "summary": "Un ricercatore ha individuato una lista di oltre centomila espressioni che la tastiera iOS evita di suggerire automaticamente.",
+      "body": [
+        "Un ricercatore ha individuato una lista di oltre centomila espressioni che la tastiera iOS evita di suggerire automaticamente.",
+        "L'elenco riguarda diverse lingue e comprende termini offensivi ma anche espressioni politiche. Apple precisa che gli utenti possono comunque digitare liberamente queste parole."
+      ],
+      "publishedAt": "2026-11-06",
+      "verifiedAt": "2026-11-07T09:27:19.342511+00:00",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/perche-tastiera-iphone-non-suggerisce-certe-parole/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:19.342511+00:00",
+        "dateEvidence": "La pagina originale riporta «Pubblicato il 6 nov 2026».",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-spotify-libreria-carosello-test",
+      "eventKey": "spotify-libreria-carosello-test",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Spotify sperimenta una Libreria con i contenuti fissati in evidenza",
+      "summary": "Spotify sta provando un carosello dedicato ai contenuti fissati nella Libreria, separandoli dagli ascolti recenti.",
+      "body": [
+        "Spotify sta provando un carosello dedicato ai contenuti fissati nella Libreria, separandoli dagli ascolti recenti.",
+        "L'interfaccia in prova offre visualizzazioni a lista o griglia, ma non è disponibile per tutti gli utenti. La novità è stata individuata attraverso screenshot condivisi da un utente."
+      ],
+      "publishedAt": "2026-11-06",
+      "verifiedAt": "2026-11-07T09:27:19.381345+00:00",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/nuova-libreria-spotify-carosello-griglia-lista-cosa-cambia/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:19.381345+00:00",
+        "dateEvidence": "La pagina originale riporta «Pubblicato il 6 nov 2026».",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-chainalysis-credenziali-token-clienti",
+      "eventKey": "chainalysis-credenziali-token-clienti",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Chainalysis amplia la portata della violazione: coinvolti token e password",
+      "summary": "Chainalysis ha confermato che l'incidente informatico di ottobre ha esposto credenziali e token dei suoi clienti.",
+      "body": [
+        "Chainalysis ha confermato che l'incidente informatico di ottobre ha esposto credenziali e token dei suoi clienti.",
+        "Dopo le prime comunicazioni, l'azienda ha esteso la valutazione dell'accesso non autorizzato e avviato il ripristino graduale di alcuni servizi, chiedendo il cambio delle credenziali."
+      ],
+      "publishedAt": "2026-11-06",
+      "verifiedAt": "2026-11-07T09:27:19.389412+00:00",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/fintech/criptovalute/chainalysis-conferma-accesso-credenziali-token/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:19.389412+00:00",
+        "dateEvidence": "La pagina originale riporta «Pubblicato il 6 nov 2026».",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-gta6-mappa-leonida-digitale",
+      "eventKey": "gta6-mappa-leonida-digitale",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "GTA 6 avrà una mappa digitale di Leonida scaricabile gratuitamente",
+      "summary": "Rockstar ha annunciato una mappa digitale dello stato immaginario di Leonida, disponibile gratuitamente al lancio del gioco.",
+      "body": [
+        "Rockstar ha annunciato una mappa digitale dello stato immaginario di Leonida, disponibile gratuitamente al lancio del gioco.",
+        "Il download includerà anche un poster stampabile. Una versione fisica è prevista successivamente sul negozio ufficiale, con dettagli commerciali ancora limitati ad alcuni mercati."
+      ],
+      "publishedAt": "2026-11-06T20:12:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:19.319923+00:00",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/rockstar-sorprende-fan-mappa-ufficiale-leonida-gta-6-gratis-tutti-909575.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:19.319923+00:00",
+        "dateEvidence": "Nella pagina originale: «6/11/2026, ore 20:12».",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-gta6-kodak-black-personaggio",
+      "eventKey": "gta6-kodak-black-personaggio",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "GTA 6, confermata la presenza di Kodak Black tra i personaggi",
+      "summary": "Rockstar ha confermato la presenza del rapper Kodak Black nell'universo di GTA 6, dopo che i fan avevano riconosciuto la sua somiglianza in alcune immagini.",
+      "body": [
+        "Rockstar ha confermato la presenza del rapper Kodak Black nell'universo di GTA 6, dopo che i fan avevano riconosciuto la sua somiglianza in alcune immagini.",
+        "La conferma riguarda il suo coinvolgimento nel gioco. L'eventuale partecipazione di altri musicisti resta invece un'ipotesi discussa dai fan, non un annuncio ufficiale."
+      ],
+      "publishedAt": "2026-11-06T19:15:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:19.407752+00:00",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/gta-6-rockstar-conferma-rapper-kodak-black-png-presenti-artisti-910225.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:19.407752+00:00",
+        "dateEvidence": "Nella pagina originale: «6/11/2026, ore 19:15».",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-napoli-di-lorenzo-lesione-adduttore-20261106",
+      "eventKey": "napoli-di-lorenzo-lesione-adduttore-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Napoli, lesione all'adduttore per Di Lorenzo: salta la Lazio",
+      "summary": "Gli esami hanno evidenziato una lesione distrattiva all'adduttore sinistro per il capitano del Napoli, già assente nella trasferta europea contro il Porto.",
+      "body": [
+        "Giovanni Di Lorenzo ha iniziato il percorso riabilitativo dopo gli accertamenti medici. Il Napoli dovrà fare a meno del capitano nella partita di campionato contro la Lazio.",
+        "La società deve gestire numerose altre assenze; i tempi precisi di rientro non sono stati comunicati nell'articolo."
+      ],
+      "publishedAt": "2026-11-06T18:10:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:19.033505+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/11/06/napoli-di-lorenzo-infortunio-news",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:19.033505+00:00",
+        "dateEvidence": "La pagina riporta «06 nov 2026 - 18:10» sopra il testo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-venezia-udinese-2-1-20261106",
+      "eventKey": "venezia-udinese-vittoria-20261106",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Venezia batte Udinese 2-1 e lascia l'ultimo posto",
+      "summary": "Il Venezia conquista tre punti contro l'Udinese nell'anticipo dell'undicesima giornata di Serie A.",
+      "body": [
+        "Basic porta avanti i padroni di casa; l'autorete di Moreno riporta il risultato in parità prima del gol decisivo di Kike Pérez.",
+        "Il 2-1 permette ai lagunari di superare l'Udinese in classifica; la squadra friulana resta ultima.",
+        "Il risultato dell’anticipo ha permesso al Venezia di scavalcare l’Udinese in classifica."
+      ],
+      "publishedAt": "2026-11-06T23:03:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:19.239876+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/06/il-venezia-torna-a-vincere-2-1-alludinese-ultima-e-in-crisi_b7f53128-638d-409c-a912-b3265c94615c.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:19.239876+00:00",
+        "dateEvidence": "Articolo ANSA del 6 novembre 2026, data indicata nella pagina originale consultata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "image": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg/960px-Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg",
+        "alt": "Pallone da calcio su un prato",
+        "credit": "Peter Glaser baraida",
+        "rights": "CC0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "caption": "Repertorio · Un pallone da calcio su un campo in erba.",
+        "reuseApproved": true
+      },
+      "leadPriority": 85
+    },
+    {
+      "id": "sport-juventus-az-alkmaar-vittoria-20261106",
+      "eventKey": "juventus-az-alkmaar-europa-league-20261106",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Juventus vince 2-1 ad Alkmaar, finale in sofferenza",
+      "summary": "La squadra di Spalletti conquista la seconda vittoria consecutiva tra campionato ed Europa League.",
+      "body": [
+        "Koopmeiners e Kolo Muani segnano nel primo tempo, mentre Meerdink accorcia nel finale per l'AZ.",
+        "Un successivo pareggio degli olandesi viene annullato per fuorigioco e i bianconeri raggiungono quota dieci punti."
+      ],
+      "publishedAt": "2026-11-06T15:33:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:19.262450+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/06/la-juve-batte-laz-alkmaar-con-brivido-finale_696fefa0-f035-411d-b3dc-5d940994dce9.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:19.262450+00:00",
+        "dateEvidence": "Articolo ANSA del 6 novembre 2026, data indicata nella pagina originale consultata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-antonelli-libere-brasile-20261106",
+      "eventKey": "antonelli-f1-libere2-brasile-20261106",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Antonelli davanti a tutti nelle seconde libere in Brasile",
+      "summary": "Il pilota Mercedes registra il miglior tempo della seconda sessione di prove libere a Interlagos.",
+      "body": [
+        "Alle spalle di Antonelli si classificano Lando Norris e Max Verstappen, seguiti da George Russell.",
+        "Le Ferrari chiudono sesta e settima, rispettivamente con Hamilton e Leclerc."
+      ],
+      "publishedAt": "2026-11-06T21:08:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:19.114933+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://videoembed.ansa.it/sito/notizie/sport/f1/2026/11/06/f1-antonelli-domina-le-seconde-libere-del-brasile_779e6846-d08a-4a88-bf9a-40cd549e1a64.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:19.114933+00:00",
+        "dateEvidence": "Articolo ANSA del 6 novembre 2026, data indicata nella pagina originale consultata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-sinner-cahill-norman-20261106",
+      "eventKey": "sinner-cahill-addio-norman-nuovo-coach-20261106",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Sinner saluta Cahill: Magnus Norman entra nel team",
+      "summary": "Finisce la collaborazione tra Jannik Sinner e Darren Cahill, iniziata nel 2022.",
+      "body": [
+        "Il tennista italiano ha ringraziato pubblicamente il tecnico australiano per il percorso sportivo e personale condiviso.",
+        "Magnus Norman, già allenatore di Stan Wawrinka, entrerà nella squadra di Sinner il mese prossimo accanto a Simone Vagnozzi."
+      ],
+      "publishedAt": "2026-11-06",
+      "verifiedAt": "2026-11-07T09:27:19.222232+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/amp/sito/notizie/sport/tennis/2026/11/06/sinner-saluta-cahill-molto-piu-di-un-coach.-e-al-suo-posto-ce-norman_9b0f0b4c-0d83-484b-9c1f-f9abf30a1504.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:19.222232+00:00",
+        "dateEvidence": "Articolo ANSA del 6 novembre 2026, data indicata nella pagina originale consultata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-mattarella-ascolto-giovani-20261106",
+      "eventKey": "mattarella-ascolto-giovani-20261106",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Mattarella chiede più ascolto per i giovani",
+      "summary": "Al Quirinale, il presidente della Repubblica ha richiamato l’attenzione sulle conseguenze dei conflitti e dei traumi per le nuove generazioni.",
+      "body": [
+        "Al Quirinale, il presidente della Repubblica ha richiamato l’attenzione sulle conseguenze dei conflitti e dei traumi per le nuove generazioni."
+      ],
+      "publishedAt": "2026-11-06T13:10:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.845511+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/06/mattarella-domandiamoci-se-sappiamo-ascoltare-adeguatamente-i-giovani_db2c46de-4906-4ed8-b711-f5454d369d1a.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.845511+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T13:10:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-consulta-bartolozzi-camera-20261106",
+      "eventKey": "consulta-bartolozzi-camera-20261106",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Caso Almasri, la Consulta chiarisce come possono procedere i pm",
+      "summary": "I magistrati possono proseguire l’indagine su Giusi Bartolozzi per presunte false dichiarazioni. Prima dovranno informare la Camera.",
+      "body": [
+        "I magistrati possono proseguire l’indagine su Giusi Bartolozzi per presunte false dichiarazioni. Prima dovranno informare la Camera."
+      ],
+      "publishedAt": "2026-11-06T18:32:24+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.176172+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/i-pm-possono-procedere-su-giusi-bartolozzi-per-false-dichiarazioni_74eb6ec2-3f83-44f8-ae3f-ec47cd839574.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.176172+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T18:32:24+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-farnesina-volontari-fermati-20261106",
+      "eventKey": "farnesina-volontari-fermati-20261106",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Farnesina, assistenza agli italiani fermati in Cisgiordania",
+      "summary": "Ambasciata e consolato hanno chiesto il rilascio degli italiani fermati vicino a Kafr Ni’ma. Il ministero riferisce che sono previste procedure di rimpatrio.",
+      "body": [
+        "Ambasciata e consolato hanno chiesto il rilascio degli italiani fermati vicino a Kafr Ni’ma. Il ministero riferisce che sono previste procedure di rimpatrio."
+      ],
+      "publishedAt": "2026-11-06T14:29:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.391010+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/06/farnesina-domani-previste-procedure-di-espulsione-dei-6-italiani-fermati_6ad10f13-8aaf-4322-9ef7-7f88aa9b0d92.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.391010+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T14:29:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-meloni-cybersicurezza-sanita-20261106",
+      "eventKey": "meloni-cybersicurezza-sanita-20261106",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Meloni richiama la sicurezza informatica dei servizi essenziali",
+      "summary": "A Verona la presidente del Consiglio ha collegato gli investimenti in sicurezza informatica alla protezione della popolazione e della sanità.",
+      "body": [
+        "A Verona la presidente del Consiglio ha collegato gli investimenti in sicurezza informatica alla protezione della popolazione e della sanità."
+      ],
+      "publishedAt": "2026-11-06T19:52:17+00:00",
+      "verifiedAt": "2026-11-07T09:27:15.252741+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/video/2026/11/06/attacchi-hacker-meloni-mettere-in-sicurezza-quotidianita-1138051",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:15.252741+00:00",
+        "dateEvidence": "Data riportata sulla pagina di Sky TG24 o nei metadati: 2026-11-06T19:52:17+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-meloni-eicma-domande-elezioni-20261106",
+      "eventKey": "meloni-eicma-domande-elezioni-20261106",
+      "category": "Politica",
+      "status": "verified",
+      "title": "A Eicma Meloni risponde alle domande sul voto",
+      "summary": "Durante la visita alla fiera di Milano Rho, la presidente del Consiglio ha detto ai cronisti di essere concentrata sul lavoro del governo, senza indicare una data per le elezioni.",
+      "body": [
+        "Durante la visita alla fiera di Milano Rho, la presidente del Consiglio ha detto ai cronisti di essere concentrata sul lavoro del governo, senza indicare una data per le elezioni."
+      ],
+      "publishedAt": "2026-11-06T12:34:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.653093+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/06/meloni-ai-giornalisti-voi-avete-la-fissazione-del-voto-ma-io-sto-lavorando_7ddaabf1-4b78-46bb-a2af-46d83f438363.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.653093+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T12:34:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-leone-vespri-montevideo-20261107",
+      "eventKey": "leone-vespri-montevideo-20261107",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Papa Leone XIV celebra i Vespri a Montevideo",
+      "summary": "Il pontefice ha concluso la prima giornata in Uruguay con la preghiera nella cattedrale metropolitana. Il viaggio proseguirà in Argentina e Perù.",
+      "body": [
+        "Il pontefice ha concluso la prima giornata in Uruguay con la preghiera nella cattedrale metropolitana. Il viaggio proseguirà in Argentina e Perù."
+      ],
+      "publishedAt": "2026-11-07T05:56:00+00:00",
+      "verifiedAt": "2026-11-07T09:27:16.859123+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/papa-leone-conclude-la-prima-giornata-in-uruguay-a-montevideo-bf86e13e-b145-4256-9608-e87df3cca950.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:16.859123+00:00",
+        "dateEvidence": "Data riportata sulla pagina di RaiNews o nei metadati: 2026-11-07T05:56:00+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-qeshm-usa-iran-dichiarazioni-20261107",
+      "eventKey": "qeshm-usa-iran-dichiarazioni-20261107",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Qeshm, Trump conferma un’azione statunitense in Iran",
+      "summary": "Trump ha detto che le forze statunitensi hanno colpito un dispositivo antiaereo. L’agenzia iraniana Tasnim ha riferito segnalazioni iniziali di due missili e ha precisato che mancavano informazioni ufficiali sui danni.",
+      "body": [
+        "Trump ha detto che le forze statunitensi hanno colpito un dispositivo antiaereo. L’agenzia iraniana Tasnim ha riferito segnalazioni iniziali di due missili e ha precisato che mancavano informazioni ufficiali sui danni."
+      ],
+      "publishedAt": "2026-11-07T07:53:28+01:00",
+      "verifiedAt": "2026-11-07T09:29:27.933673+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/07/liran-esercito-piu-forte-dallinizio-della-guerra.-attacco-rapido-usa_d3eb6266-aaec-4271-9d11-336fd196698b.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:29:27.933673+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-07T07:53:28+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-francia-manifestazioni-dispositivo-20261107",
+      "eventKey": "francia-manifestazioni-dispositivo-20261107",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Francia, il governo annuncia 70.000 agenti per i cortei",
+      "summary": "Il ministro dell’Interno Laurent Nuñez ha confermato il dispositivo per le manifestazioni del 7 novembre, promosse dai sindacati con la partecipazione di studenti e gilet gialli.",
+      "body": [
+        "Il ministro dell’Interno Laurent Nuñez ha confermato il dispositivo per le manifestazioni del 7 novembre, promosse dai sindacati con la partecipazione di studenti e gilet gialli."
+      ],
+      "publishedAt": "2026-11-06T18:27:00+01:00",
+      "verifiedAt": "2026-11-07T09:28:57.849071+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/06/domani-la-francia-di-nuovo-in-piazza-polizia-schierata-al-massimo-con-70.000-agenti_707c8697-f1ce-4ab9-85ed-1b3735e589f2.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:28:57.849071+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T18:27:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-francia-scuolabus-lent-inchiesta-20261106",
+      "eventKey": "francia-scuolabus-lent-inchiesta-20261106",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Francia, due morti nell’incidente di uno scuolabus",
+      "summary": "Il mezzo è uscito di strada vicino a Lent, nel dipartimento dell’Ain. La procura ha aperto un’inchiesta per chiarire la dinamica.",
+      "body": [
+        "Il mezzo è uscito di strada vicino a Lent, nel dipartimento dell’Ain. La procura ha aperto un’inchiesta per chiarire la dinamica."
+      ],
+      "publishedAt": "2026-11-06T10:09:36+00:00",
+      "verifiedAt": "2026-11-07T09:28:57.797584+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/scuolabus-esce-fuori-strada-in-francia-morti-feriti-minori-8cb291e2-3a48-4b50-8973-cd5df334a56b.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:28:57.797584+00:00",
+        "dateEvidence": "Data riportata sulla pagina di RaiNews o nei metadati: 2026-11-06T10:09:36+0000.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-usa-famiglia-causa-google-gemini-20261106",
+      "eventKey": "usa-famiglia-causa-google-gemini-20261106",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Stati Uniti, una famiglia cita Google per le risposte di Gemini",
+      "summary": "Nella denuncia depositata in California, i genitori di una tredicenne sostengono che il sistema abbia contribuito alla morte della figlia. Le accuse dovranno essere accertate.",
+      "body": [
+        "Nella denuncia depositata in California, i genitori di una tredicenne sostengono che il sistema abbia contribuito alla morte della figlia. Le accuse dovranno essere accertate."
+      ],
+      "publishedAt": "2026-11-06T07:10:45+00:00",
+      "verifiedAt": "2026-11-07T09:28:57.794585+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/usa-genitori-fanno-causa-a-google-gemini-ha-spinto-nostra-figlia-verso-il-suicidio-23352813-dfd8-43ce-8df7-21cef92f70b5.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:28:57.794585+00:00",
+        "dateEvidence": "Data riportata sulla pagina di RaiNews o nei metadati: 2026-11-06T07:10:45+0000.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-italo-sciopero-9-novembre-revoca",
+      "eventKey": "italo-sciopero-9-novembre-revoca",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Italo, revocato lo sciopero del 9 novembre",
+      "summary": "La società riferisce che i sindacati hanno revocato lo sciopero dopo un provvedimento della Commissione di garanzia. Italo prevede la circolazione regolare dei propri treni.",
+      "body": [
+        "La società riferisce che i sindacati hanno revocato lo sciopero dopo un provvedimento della Commissione di garanzia. Italo prevede la circolazione regolare dei propri treni."
+      ],
+      "publishedAt": "2026-11-06T17:35:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.977168+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/06/italo-revocato-sciopero-del-9-novembre_f4fdcdef-9d0b-4df8-aaa4-542bd391e9df.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.977168+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T17:35:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-confcommercio-disagio-sociale-ottobre-2026",
+      "eventKey": "confcommercio-disagio-sociale-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Confcommercio, l’indice di disagio sociale sale a 13",
+      "summary": "La stima di ottobre aumenta di mezzo punto rispetto a settembre. Confcommercio attribuisce il rialzo soprattutto all’accelerazione dei prezzi.",
+      "body": [
+        "La stima di ottobre aumenta di mezzo punto rispetto a settembre. Confcommercio attribuisce il rialzo soprattutto all’accelerazione dei prezzi."
+      ],
+      "publishedAt": "2026-11-06T09:56:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.067529+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/06/confcommercio-misery-index-ottobre-sale-a-13-valore-piu-alto-dal-2023_123dfeba-739a-4e24-b8a7-7f8cbd322a42.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.067529+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T09:56:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-mimit-rilevazione-carburanti-20261106",
+      "eventKey": "mimit-rilevazione-carburanti-20261106",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Carburanti, il Mimit rileva un lieve calo dei prezzi medi",
+      "summary": "Il 6 novembre il ministero ha rilevato prezzi medi self sulla rete stradale di 2,003 euro al litro per la benzina e 2,227 per il gasolio.",
+      "body": [
+        "Il 6 novembre il ministero ha rilevato prezzi medi self sulla rete stradale di 2,003 euro al litro per la benzina e 2,227 per il gasolio."
+      ],
+      "publishedAt": "2026-11-06T09:32:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.051525+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/06/mimit-prezzi-carburanti-in-calo-benzina-self-a-2003-euro_b34f3539-38e3-4adc-adfe-2d500594175e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.051525+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T09:32:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-pirelli-nove-mesi-2026",
+      "eventKey": "pirelli-nove-mesi-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Pirelli, utile in aumento nei primi nove mesi",
+      "summary": "Il gruppo ha comunicato un utile netto di 430,2 milioni, in crescita del 7,4%. Il consiglio ha approvato anche un programma di emissioni obbligazionarie.",
+      "body": [
+        "Il gruppo ha comunicato un utile netto di 430,2 milioni, in crescita del 7,4%. Il consiglio ha approvato anche un programma di emissioni obbligazionarie."
+      ],
+      "publishedAt": "2026-11-05T18:01:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.815492+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/05/pirelli-in-9-mesi-utile-74-a-4302-milioni_6df52638-24c2-4c84-9d31-7f14bb6a7513.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.815492+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-05T18:01:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-commissione-ue-tiktok-feed-dsa-20261106",
+      "eventKey": "commissione-ue-tiktok-feed-dsa-20261106",
+      "category": "Economia",
+      "status": "verified",
+      "title": "La Commissione europea contesta il sistema di raccomandazione di TikTok",
+      "summary": "La valutazione preliminare riguarda i rischi di contenuti ripetitivi nel feed e una possibile violazione del Digital Services Act. TikTok contesta le conclusioni.",
+      "body": [
+        "La valutazione preliminare riguarda i rischi di contenuti ripetitivi nel feed e una possibile violazione del Digital Services Act. TikTok contesta le conclusioni."
+      ],
+      "publishedAt": "2026-11-06T14:11:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.364350+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/06/ue-contro-tiktok-sul-feed-per-te-contenuti-dannosi-per-gli-utenti_873aefbb-baf6-4c1a-a988-08cb9e3433dc.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.364350+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T14:11:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-parma-furto-abitazione-toure-20261107",
+      "eventKey": "parma-furto-abitazione-toure-20261107",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Parma, la polizia indaga sul furto a casa di El Bilal Touré",
+      "summary": "Dall’abitazione dell’attaccante del Parma sono stati sottratti orologi e altri preziosi. Il valore riportato da ANSA è una stima.",
+      "body": [
+        "Dall’abitazione dell’attaccante del Parma sono stati sottratti orologi e altri preziosi. Il valore riportato da ANSA è una stima."
+      ],
+      "publishedAt": "2026-11-07T10:13:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.234144+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/furto-da-mezzo-milione-nella-villa-del-calciatore-del-parma-el-bilal_e8617f75-e8bd-42f2-8a86-04c95f9732bb.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.234144+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-07T10:13:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-ramy-elgaml-richiesta-perizia-20261106",
+      "eventKey": "ramy-elgaml-richiesta-perizia-20261106",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Caso Ramy, i pm chiedono ancora una perizia indipendente",
+      "summary": "La Procura di Milano vuole chiarire le divergenze tra le ricostruzioni dell’incidente in cui è morto Ramy Elgaml nel 2024. La richiesta è stata riproposta all’udienza preliminare.",
+      "body": [
+        "La Procura di Milano vuole chiarire le divergenze tra le ricostruzioni dell’incidente in cui è morto Ramy Elgaml nel 2024. La richiesta è stata riproposta all’udienza preliminare."
+      ],
+      "publishedAt": "2026-11-06T21:02:52+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.026159+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/i-pm-insistono-sul-caso-ramy-una-perizia-in-incidente-probatorio_c833b7dd-318c-4dcf-b55f-3629bfbbafd8.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.026159+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T21:02:52+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-genova-polizia-locale-richiesta-processo-20261106",
+      "eventKey": "genova-polizia-locale-richiesta-processo-20261106",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Genova, chiesto il processo per presunti abusi della polizia locale",
+      "summary": "L’inchiesta riguarda trenta agenti e altri due indagati. Le contestazioni sono a vario titolo e la richiesta della procura non equivale a una condanna.",
+      "body": [
+        "L’inchiesta riguarda trenta agenti e altri due indagati. Le contestazioni sono a vario titolo e la richiesta della procura non equivale a una condanna."
+      ],
+      "publishedAt": "2026-11-06T21:06:17+01:00",
+      "verifiedAt": "2026-11-07T09:27:19.939912+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/chiesto-il-processo-per-30-agenti-della-polizia-locale-di-genova_d28b0fd7-292b-45f8-b349-ff1a2bdbd3c8.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:19.939912+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T21:06:17+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-bergamasca-cessna-pilota-ritrovato-20261106",
+      "eventKey": "bergamasca-cessna-pilota-ritrovato-20261106",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Bergamasca, ritrovato morto il pilota del Cessna disperso",
+      "summary": "Il pilota è stato trovato a Pontida. Alcuni rottami erano stati individuati poco prima vicino all’abbazia di Fontanella.",
+      "body": [
+        "Il pilota è stato trovato a Pontida. Alcuni rottami erano stati individuati poco prima vicino all’abbazia di Fontanella."
+      ],
+      "publishedAt": "2026-11-06T19:18:04+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.131881+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/trovato-morto-il-pilota-del-cessna-disperso-nella-bergamasca_419546ed-5f0f-4ee5-91bf-68b962557e18.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.131881+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T19:18:04+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-scampia-cocaina-auto-sequestro-20261107",
+      "eventKey": "scampia-cocaina-auto-sequestro-20261107",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Scampia, sequestrati 84 chili di cocaina in un’auto",
+      "summary": "I carabinieri hanno trovato 71 panetti in due borsoni nel cofano di un’auto parcheggiata che risultava rubata.",
+      "body": [
+        "I carabinieri hanno trovato 71 panetti in due borsoni nel cofano di un’auto parcheggiata che risultava rubata."
+      ],
+      "publishedAt": "2026-11-07T09:25:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.330625+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/maxi-sequestro-di-cocaina-a-scampia-84-chili-in-unauto-parcheggiata_b87ccd0c-037b-4ec2-b329-35a9dc1db1c6.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.330625+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-07T09:25:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-laurentino-quinto-ponte-inchiesta-20261107",
+      "eventKey": "laurentino-quinto-ponte-inchiesta-20261107",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Laurentino 38, quattro misure eseguite nell’inchiesta sullo spaccio",
+      "summary": "Il giudice ha disposto sei misure cautelari. La polizia ne ha eseguite quattro il 7 novembre. L’indagine riguarda una presunta rete di spaccio nell’area del quinto ponte.",
+      "body": [
+        "Il giudice ha disposto sei misure cautelari. La polizia ne ha eseguite quattro il 7 novembre. L’indagine riguarda una presunta rete di spaccio nell’area del quinto ponte."
+      ],
+      "publishedAt": "2026-11-07T09:00:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:19.728359+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/cronaca/arresti-pusher-laurentino-38-quinto-ponte.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:19.728359+00:00",
+        "dateEvidence": "Pagina originale RomaToday con data e ora visibili: 07/11/2026 alle 09:00, ora italiana.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-marconi-bonifica-mira-lanza-20261107",
+      "eventKey": "marconi-bonifica-mira-lanza-20261107",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Conclusa la bonifica dell’ex Mira Lanza a Marconi",
+      "summary": "Il municipio riferisce che sono stati rimossi rifiuti e vegetazione infestante. L’ex complesso è stato recintato e dotato di videosorveglianza. Lo studentato pubblico resta un progetto futuro.",
+      "body": [
+        "Il municipio riferisce che sono stati rimossi rifiuti e vegetazione infestante. L’ex complesso è stato recintato e dotato di videosorveglianza. Lo studentato pubblico resta un progetto futuro."
+      ],
+      "publishedAt": "2026-11-07T07:24:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:19.765075+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/zone/arvalia/marconi/video-drone-bonifica-ex-mira-lanza.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:19.765075+00:00",
+        "dateEvidence": "Pagina originale RomaToday con data e ora visibili: 07/11/2026 alle 07:24, ora italiana.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-roma-collettivo-cancro-rabbia-20261107",
+      "eventKey": "roma-collettivo-cancro-rabbia-20261107",
+      "category": "Roma",
+      "status": "verified",
+      "title": "A Roma si presenta il collettivo Cancro Rabbia",
+      "summary": "Il gruppo di pazienti oncologici, familiari e sostenitori si è riunito alla libreria Stendhal. Chiede che il dibattito pubblico sulla salute affronti anche le esposizioni ambientali.",
+      "body": [
+        "Il gruppo di pazienti oncologici, familiari e sostenitori si è riunito alla libreria Stendhal. Chiede che il dibattito pubblico sulla salute affronti anche le esposizioni ambientali."
+      ],
+      "publishedAt": "2026-11-07T05:22:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:19.847742+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/attualita/cancro-rabbia-collettivo-pazienti-oncologici-libreria-francese.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:19.847742+00:00",
+        "dateEvidence": "Pagina originale RomaToday con data e ora visibili: 07/11/2026 alle 05:22, ora italiana.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-settecamini-incendio-autocarro-20261107",
+      "eventKey": "settecamini-incendio-autocarro-20261107",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Settecamini, autocarro in fiamme in via di Salone",
+      "summary": "Il conducente è sceso dopo aver visto uscire fumo dal motore. I vigili del fuoco hanno spento il rogo. Nessuno è rimasto ferito e le cause sono da accertare.",
+      "body": [
+        "Il conducente è sceso dopo aver visto uscire fumo dal motore. I vigili del fuoco hanno spento il rogo. Nessuno è rimasto ferito e le cause sono da accertare."
+      ],
+      "publishedAt": "2026-11-06T18:12:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:19.864877+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/cronaca/incendio-furgone-via-di-salone.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:19.864877+00:00",
+        "dateEvidence": "Pagina originale RomaToday con data e ora visibili: 06/11/2026 alle 18:12, ora italiana.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-atac-sindacati-replica-assenze-20261107",
+      "eventKey": "atac-sindacati-replica-assenze-20261107",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Atac, i sindacati replicano alle dichiarazioni sulle assenze",
+      "summary": "Filt Cgil, Fit Cisl, Uil e Ugl contestano la lettura del direttore generale sulle assenze degli autisti e richiamano l’attenzione su turni, stipendi e ferie arretrate.",
+      "body": [
+        "Filt Cgil, Fit Cisl, Uil e Ugl contestano la lettura del direttore generale sulle assenze degli autisti e richiamano l’attenzione su turni, stipendi e ferie arretrate."
+      ],
+      "publishedAt": "2026-11-06T23:05:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.397017+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/politica/atac-risposta-sindacati-assenteismo.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.397017+00:00",
+        "dateEvidence": "Pagina originale RomaToday con data e ora visibili: 06/11/2026 alle 23:05, ora italiana.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-milano-quel-gran-genio-battisti-20261106",
+      "eventKey": "milano-quel-gran-genio-battisti-20261106",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Milano, quattro giorni dedicati a Lucio Battisti",
+      "summary": "La rassegna Quel Gran Genio si svolge dal 16 al 19 novembre. Tra gli appuntamenti, un concerto dedicato ad Anima Latina.",
+      "body": [
+        "La rassegna Quel Gran Genio si svolge dal 16 al 19 novembre. Tra gli appuntamenti, un concerto dedicato ad Anima Latina."
+      ],
+      "publishedAt": "2026-11-06T18:09:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.379277+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/2026/11/06/a-milano-torna-quel-gran-genio-un-viaggio-tra-le-diverse-anime-di-battisti_ff54093a-e42c-40d6-9db9-f8bd99ed335f.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.379277+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T18:09:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-stranger-things-other-worlds-annuncio-20261106",
+      "eventKey": "stranger-things-other-worlds-annuncio-20261106",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Netflix annuncia un prequel di Stranger Things",
+      "summary": "Other Worlds: A Stranger Things Adventure è ambientato negli anni Cinquanta ed è atteso per il 2028. Joe Wright dirigerà i primi tre episodi.",
+      "body": [
+        "Other Worlds: A Stranger Things Adventure è ambientato negli anni Cinquanta ed è atteso per il 2028. Joe Wright dirigerà i primi tre episodi."
+      ],
+      "publishedAt": "2026-11-06T16:55:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.903436+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/06/netflix-annuncia-serie-spin-off-di-stranger-things-adventure-other-worlds_feaefc3f-694d-4817-88a1-a80bb4a8be60.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.903436+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T16:55:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-raiplay-dark-lines-seconda-stagione-20261106",
+      "eventKey": "raiplay-dark-lines-seconda-stagione-20261106",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Dark Lines torna su RaiPlay dal 10 novembre",
+      "summary": "La seconda stagione unisce illustrazione e materiali d’archivio per raccontare quattro casi di cronaca. Valentina Romani conduce il racconto.",
+      "body": [
+        "La seconda stagione unisce illustrazione e materiali d’archivio per raccontare quattro casi di cronaca. Valentina Romani conduce il racconto."
+      ],
+      "publishedAt": "2026-11-06T14:45:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.874083+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/06/torna-dark-lines.-valentina-romani-educare-al-rispetto_64e52184-af18-4b47-ade3-1724c5c9cd6b.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.874083+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T14:45:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-luana-ragazza-festival-popoli-20261106",
+      "eventKey": "luana-ragazza-festival-popoli-20261106",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Al Festival dei Popoli il documentario su Luana D’Orazio",
+      "summary": "Ernesto Pagano presenta a Firenze un film che ricostruisce la vita dell’operaia attraverso anche i materiali che aveva lasciato sul proprio telefono.",
+      "body": [
+        "Ernesto Pagano presenta a Firenze un film che ricostruisce la vita dell’operaia attraverso anche i materiali che aveva lasciato sul proprio telefono."
+      ],
+      "publishedAt": "2026-11-06T19:59:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.673833+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/06/pagano-presenta-luana-ragazza-spero-aiuti-la-battaglia-del-lavoro_b65a74de-c669-457c-9df5-78a157242173.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.673833+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T19:59:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-carrara-restauro-maesta-moneta-20261106",
+      "eventKey": "carrara-restauro-maesta-moneta-20261106",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Carrara, restaurata la Maestà di Moneta",
+      "summary": "L’opera votiva seicentesca raffigura l’Annunciazione. L’intervento ha pulito e consolidato il marmo. Sul sentiero storico è stata installata una copia.",
+      "body": [
+        "L’opera votiva seicentesca raffigura l’Annunciazione. L’intervento ha pulito e consolidato il marmo. Sul sentiero storico è stata installata una copia."
+      ],
+      "publishedAt": "2026-11-06T19:55:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.564211+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/06/restaurata-maesta-di-moneta-opera-votiva-del-600-degli-scultori-di-carrara_f0197f82-ef43-4503-b6c0-15cd31704451.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.564211+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T19:55:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-chatgpt-gif-animate-20261107",
+      "eventKey": "chatgpt-gif-animate-20261107",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "ChatGPT, immagini animate in formato GIF",
+      "summary": "Punto Informatico descrive una funzione che genera sequenze animate da una foto o da una descrizione, con possibilità di regolare il ritmo e intervenire sui fotogrammi.",
+      "body": [
+        "Punto Informatico descrive una funzione che genera sequenze animate da una foto o da una descrizione, con possibilità di regolare il ritmo e intervenire sui fotogrammi."
+      ],
+      "publishedAt": "2026-11-07T08:30:23+00:00",
+      "verifiedAt": "2026-11-07T09:27:18.012112+00:00",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/come-usare-chatgpt-trasformare-foto-gif-animate-gratis/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:18.012112+00:00",
+        "dateEvidence": "Data riportata sulla pagina di Punto Informatico o nei metadati: 2026-11-07T08:30:23+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-perplexity-teammates-20261106",
+      "eventKey": "perplexity-teammates-20261106",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Perplexity presenta gli agenti Teammates",
+      "summary": "Gli agenti sono pensati per attività continuative in parallelo negli spazi di lavoro. Si appoggiano a Perplexity Computer e possono interagire con Slack.",
+      "body": [
+        "Gli agenti sono pensati per attività continuative in parallelo negli spazi di lavoro. Si appoggiano a Perplexity Computer e possono interagire con Slack."
+      ],
+      "publishedAt": "2026-11-06T08:27:37+00:00",
+      "verifiedAt": "2026-11-07T09:27:37.493048+00:00",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/perplexity-teammates-agenti-ai-sempre-attivi-lavoro/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:37.493048+00:00",
+        "dateEvidence": "Data riportata sulla pagina di Punto Informatico o nei metadati: 2026-11-06T08:27:37+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-gemini-omni-video-15-secondi-20261106",
+      "eventKey": "gemini-omni-video-15-secondi-20261106",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Gemini Omni 1.2 Flash genera video fino a 15 secondi",
+      "summary": "Il modello annunciato da Google estende la durata massima rispetto alla versione precedente e offre più controllo sui riferimenti usati per generare il video.",
+      "body": [
+        "Il modello annunciato da Google estende la durata massima rispetto alla versione precedente e offre più controllo sui riferimenti usati per generare il video."
+      ],
+      "publishedAt": "2026-11-06T07:05:30+00:00",
+      "verifiedAt": "2026-11-07T09:27:37.468972+00:00",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/gemini-omni-1-2-flash-crea-video-15-secondi/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:37.468972+00:00",
+        "dateEvidence": "Data riportata sulla pagina di Punto Informatico o nei metadati: 2026-11-06T07:05:30+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-evercade-doom-banjo-20261107",
+      "eventKey": "evercade-doom-banjo-20261107",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Evercade, due raccolte dedicate a DOOM e Banjo-Kazooie",
+      "summary": "Everyeye ha provato le cartucce sulla console portatile Nexus. La raccolta DOOM comprende i primi due giochi, espansioni e i capitoli Sigil.",
+      "body": [
+        "Everyeye ha provato le cartucce sulla console portatile Nexus. La raccolta DOOM comprende i primi due giochi, espansioni e i capitoli Sigil."
+      ],
+      "publishedAt": "2026-11-07T08:31:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:18.108844+00:00",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/evercade-nexus-riaccende-nostalgia-doppio-centro-doom-collection-banjo-kazooie-910253.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:18.108844+00:00",
+        "dateEvidence": "Data riportata sulla pagina di Everyeye o nei metadati: 2026-11-07T08:31:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-resident-evil-requiem-stime-ps5-20261107",
+      "eventKey": "resident-evil-requiem-stime-ps5-20261107",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Resident Evil Requiem, un’analisi stima più vendite su PlayStation",
+      "summary": "Secondo Alinea Analytics, le copie fisiche vendute su PS5 supererebbero il totale fisico e digitale su Xbox. Si tratta di una stima citata da Everyeye.",
+      "body": [
+        "Secondo Alinea Analytics, le copie fisiche vendute su PS5 supererebbero il totale fisico e digitale su Xbox. Si tratta di una stima citata da Everyeye."
+      ],
+      "publishedAt": "2026-11-07T06:02:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:18.087908+00:00",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/resident-evil-requiem-successo-playstation-supera-vendite-xbox-907240.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:18.087908+00:00",
+        "dateEvidence": "Data riportata sulla pagina di Everyeye o nei metadati: 2026-11-07T06:02:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-zurigo-del-piero-ronaldinho-20261106",
+      "eventKey": "zurigo-del-piero-ronaldinho-20261106",
+      "category": "Sport",
+      "status": "verified",
+      "title": "A Zurigo la selezione di Ronaldinho batte quella di Del Piero",
+      "summary": "Il Brasile delle vecchie glorie ha vinto 5–4 al Letzigrund. Ronaldinho ha segnato su rigore e ha ricevuto un’ovazione quando ha lasciato il campo.",
+      "body": [
+        "Il Brasile delle vecchie glorie ha vinto 5–4 al Letzigrund. Ronaldinho ha segnato su rigore e ha ricevuto un’ovazione quando ha lasciato il campo."
+      ],
+      "publishedAt": "2026-11-07T09:12:33+01:00",
+      "verifiedAt": "2026-11-07T09:27:18.363444+00:00",
+      "source": {
+        "name": "Leggo Sport",
+        "url": "https://www.leggo.it/sport/calcio/07_novembre_2026_ronaldinho_alex_del_piero_zurigo_partita_cosa_e_successo-9875092.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:18.363444+00:00",
+        "dateEvidence": "Data riportata sulla pagina di Leggo Sport o nei metadati: 2026-11-07T09:12:33+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-serie-a-calendario-sabato-20261107",
+      "eventKey": "serie-a-calendario-sabato-20261107",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Serie A, quattro partite in programma sabato",
+      "summary": "Cagliari–Frosinone e Torino–Lecce aprono il programma alle 15. Seguono Parma–Bologna alle 18 e Roma–Sassuolo alle 20:45.",
+      "body": [
+        "Cagliari–Frosinone e Torino–Lecce aprono il programma alle 15. Seguono Parma–Bologna alle 18 e Roma–Sassuolo alle 20:45."
+      ],
+      "publishedAt": "2026-11-07T09:00:00+00:00",
+      "verifiedAt": "2026-11-07T09:27:18.411209+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/11/07/partite-serie-a-oggi-sabato",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:18.411209+00:00",
+        "dateEvidence": "Data riportata sulla pagina di Sky Sport o nei metadati: 2026-11-07T09:00:00+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-milano-daspo-tifoso-ferencvaros-20261106",
+      "eventKey": "milano-daspo-tifoso-ferencvaros-20261106",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Milano, Daspo di cinque anni per un tifoso del Ferencváros",
+      "summary": "La polizia ha denunciato un tifoso e sequestrato la maglietta con il volto di Mussolini. Il provvedimento riguarda i fatti di ordine pubblico legati alla trasferta.",
+      "body": [
+        "La polizia ha denunciato un tifoso e sequestrato la maglietta con il volto di Mussolini. Il provvedimento riguarda i fatti di ordine pubblico legati alla trasferta."
+      ],
+      "publishedAt": "2026-11-06T15:25:41+01:00",
+      "verifiedAt": "2026-11-07T09:27:18.596630+00:00",
+      "source": {
+        "name": "Leggo Sport",
+        "url": "https://www.leggo.it/sport/calcio/06_novembre_2026_ferencvaros_tifosi_fascisti_mussolini_daspo_denuncia-9873363.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:18.596630+00:00",
+        "dateEvidence": "Data riportata sulla pagina di Leggo Sport o nei metadati: 2026-11-06T15:25:41+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-qatar-di-giannantonio-prequalifiche-20261106",
+      "eventKey": "qatar-di-giannantonio-prequalifiche-20261106",
+      "category": "Sport",
+      "status": "verified",
+      "title": "MotoGP, Di Giannantonio il più veloce nelle prequalifiche in Qatar",
+      "summary": "Il pilota VR46 ha segnato il record della pista a Losail con 1:50.406. Marc Márquez ha chiuso secondo e Marco Bezzecchi terzo.",
+      "body": [
+        "Il pilota VR46 ha segnato il record della pista a Losail con 1:50.406. Marc Márquez ha chiuso secondo e Marco Bezzecchi terzo."
+      ],
+      "publishedAt": "2026-11-06T18:16:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.684731+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/sport/moto/2026/11/06/motogp-a-di-giannantonio-le-pre-qualifiche-in-qatar-marquez-secondo_0a8d853f-797f-48b0-a552-e72589a6358e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.684731+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T18:16:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-olimpia-milano-poeta-banchi-20261106",
+      "eventKey": "olimpia-milano-poeta-banchi-20261106",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Olimpia Milano, esonerato Peppe Poeta",
+      "summary": "La società ha interrotto il rapporto con il tecnico dopo l’ottava sconfitta consecutiva in Eurolega. Marco Ramondino guiderà la squadra contro Trento in attesa di Luca Banchi.",
+      "body": [
+        "La società ha interrotto il rapporto con il tecnico dopo l’ottava sconfitta consecutiva in Eurolega. Marco Ramondino guiderà la squadra contro Trento in attesa di Luca Banchi."
+      ],
+      "publishedAt": "2026-11-06T20:05:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.565782+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/06/basket-il-ct-dellitalia-banchi-nuovo-coach-dellarmani-milano_2b7e75a1-c4da-4354-a0e5-624a639cea56.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.565782+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T20:05:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveIds": [
+    "politica-mattarella-ascolto-giovani-20261106",
+    "politica-consulta-bartolozzi-camera-20261106",
+    "politica-farnesina-volontari-fermati-20261106",
+    "politica-meloni-cybersicurezza-sanita-20261106",
+    "politica-meloni-eicma-domande-elezioni-20261106",
+    "esteri-leone-vespri-montevideo-20261107",
+    "esteri-qeshm-usa-iran-dichiarazioni-20261107",
+    "esteri-francia-manifestazioni-dispositivo-20261107",
+    "esteri-francia-scuolabus-lent-inchiesta-20261106",
+    "esteri-usa-famiglia-causa-google-gemini-20261106",
+    "economia-italo-sciopero-9-novembre-revoca",
+    "economia-confcommercio-disagio-sociale-ottobre-2026",
+    "economia-mimit-rilevazione-carburanti-20261106",
+    "economia-pirelli-nove-mesi-2026",
+    "economia-commissione-ue-tiktok-feed-dsa-20261106",
+    "cronaca-parma-furto-abitazione-toure-20261107",
+    "cronaca-ramy-elgaml-richiesta-perizia-20261106",
+    "cronaca-genova-polizia-locale-richiesta-processo-20261106",
+    "cronaca-bergamasca-cessna-pilota-ritrovato-20261106",
+    "cronaca-scampia-cocaina-auto-sequestro-20261107",
+    "roma-laurentino-quinto-ponte-inchiesta-20261107",
+    "roma-marconi-bonifica-mira-lanza-20261107",
+    "roma-roma-collettivo-cancro-rabbia-20261107",
+    "roma-settecamini-incendio-autocarro-20261107",
+    "roma-atac-sindacati-replica-assenze-20261107",
+    "cultura-milano-quel-gran-genio-battisti-20261106",
+    "cultura-stranger-things-other-worlds-annuncio-20261106",
+    "cultura-raiplay-dark-lines-seconda-stagione-20261106",
+    "cultura-luana-ragazza-festival-popoli-20261106",
+    "cultura-carrara-restauro-maesta-moneta-20261106",
+    "tecnologia-chatgpt-gif-animate-20261107",
+    "tecnologia-perplexity-teammates-20261106",
+    "tecnologia-gemini-omni-video-15-secondi-20261106",
+    "tecnologia-evercade-doom-banjo-20261107",
+    "tecnologia-resident-evil-requiem-stime-ps5-20261107",
+    "sport-zurigo-del-piero-ronaldinho-20261106",
+    "sport-serie-a-calendario-sabato-20261107",
+    "sport-milano-daspo-tifoso-ferencvaros-20261106",
+    "sport-qatar-di-giannantonio-prequalifiche-20261106",
+    "sport-olimpia-milano-poeta-banchi-20261106"
+  ]
+}
