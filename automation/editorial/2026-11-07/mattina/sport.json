@@ -3,8 +3,6 @@
   "editionDate": "2026-11-07",
   "collectionId": "2026-11-07-mattina",
   "category": "Sport",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-07T06:02:09.772Z",
   "articles": [
     {
       "id": "sport-napoli-di-lorenzo-lesione-adduttore-20261106",
@@ -27,7 +25,96 @@
         "dateEvidence": "La pagina riporta «06 nov 2026 - 18:10» sopra il testo.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "sport-venezia-udinese-2-1-20261106",
+      "eventKey": "venezia-udinese-vittoria-20261106",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Venezia batte Udinese 2-1 e lascia l'ultimo posto",
+      "summary": "Il Venezia conquista tre punti contro l'Udinese nell'anticipo dell'undicesima giornata di Serie A.",
+      "body": [
+        "Basic porta avanti i padroni di casa; l'autorete di Moreno riporta il risultato in parità prima del gol decisivo di Kike Pérez.",
+        "Il 2-1 permette ai lagunari di superare l'Udinese in classifica; la squadra friulana resta ultima."
+      ],
+      "publishedAt": "2026-11-06T23:03:00+01:00",
+      "verifiedAt": "2026-11-07T07:20:00Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/06/il-venezia-torna-a-vincere-2-1-alludinese-ultima-e-in-crisi_b7f53128-638d-409c-a912-b3265c94615c.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T07:20:00Z",
+        "dateEvidence": "Articolo ANSA del 6 novembre 2026, data indicata nella pagina originale consultata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-juventus-az-alkmaar-vittoria-20261106",
+      "eventKey": "juventus-az-alkmaar-europa-league-20261106",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Juventus vince 2-1 ad Alkmaar, finale in sofferenza",
+      "summary": "La squadra di Spalletti conquista la seconda vittoria consecutiva tra campionato ed Europa League.",
+      "body": [
+        "Koopmeiners e Kolo Muani segnano nel primo tempo, mentre Meerdink accorcia nel finale per l'AZ.",
+        "Un successivo pareggio degli olandesi viene annullato per fuorigioco e i bianconeri raggiungono quota dieci punti."
+      ],
+      "publishedAt": "2026-11-06T15:33:00+01:00",
+      "verifiedAt": "2026-11-07T07:20:00Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/06/la-juve-batte-laz-alkmaar-con-brivido-finale_696fefa0-f035-411d-b3dc-5d940994dce9.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T07:20:00Z",
+        "dateEvidence": "Articolo ANSA del 6 novembre 2026, data indicata nella pagina originale consultata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-antonelli-libere-brasile-20261106",
+      "eventKey": "antonelli-f1-libere2-brasile-20261106",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Antonelli davanti a tutti nelle seconde libere in Brasile",
+      "summary": "Il pilota Mercedes registra il miglior tempo della seconda sessione di prove libere a Interlagos.",
+      "body": [
+        "Alle spalle di Antonelli si classificano Lando Norris e Max Verstappen, seguiti da George Russell.",
+        "Le Ferrari chiudono sesta e settima, rispettivamente con Hamilton e Leclerc."
+      ],
+      "publishedAt": "2026-11-06T21:08:00+01:00",
+      "verifiedAt": "2026-11-07T07:20:00Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://videoembed.ansa.it/sito/notizie/sport/f1/2026/11/06/f1-antonelli-domina-le-seconde-libere-del-brasile_779e6846-d08a-4a88-bf9a-40cd549e1a64.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T07:20:00Z",
+        "dateEvidence": "Articolo ANSA del 6 novembre 2026, data indicata nella pagina originale consultata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-sinner-cahill-norman-20261106",
+      "eventKey": "sinner-cahill-addio-norman-nuovo-coach-20261106",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Sinner saluta Cahill: Magnus Norman entra nel team",
+      "summary": "Finisce la collaborazione tra Jannik Sinner e Darren Cahill, iniziata nel 2022.",
+      "body": [
+        "Il tennista italiano ha ringraziato pubblicamente il tecnico australiano per il percorso sportivo e personale condiviso.",
+        "Magnus Norman, già allenatore di Stan Wawrinka, entrerà nella squadra di Sinner il mese prossimo accanto a Simone Vagnozzi."
+      ],
+      "publishedAt": "2026-11-06",
+      "verifiedAt": "2026-11-07T07:20:00Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/amp/sito/notizie/sport/tennis/2026/11/06/sinner-saluta-cahill-molto-piu-di-un-coach.-e-al-suo-posto-ce-norman_9b0f0b4c-0d83-484b-9c1f-f9abf30a1504.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T07:20:00Z",
+        "dateEvidence": "Articolo ANSA del 6 novembre 2026, data indicata nella pagina originale consultata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
   ],
-  "reserveArticles": []
+  "reserveArticles": [],
+  "completedAt": "2026-11-07T07:20:00Z"
 }
