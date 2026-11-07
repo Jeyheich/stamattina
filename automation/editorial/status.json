@@ -359,7 +359,10 @@
   },
   "preparation": "tecnicamente-pubblicabile",
   "editionId": "2026-11-06-batches-a68dc822f0c0",
-  "message": "Edizione tecnicamente pubblicabile, aggiuntive incomplete: politica, esteri, economia, cronaca, roma, cultura, tecnologia, sport",
-  "needsPublication": true,
-  "publicCollectionId": "2026-11-04-mattina"
+  "message": "Edizione online, aggiuntive incomplete: politica, esteri, economia, cronaca, roma, cultura, tecnologia, sport",
+  "needsPublication": false,
+  "publicCollectionId": "2026-11-06-pomeriggio",
+  "publicVerifiedAt": "2026-11-07T00:49:08.163245+00:00",
+  "publicEditionId": "2026-11-06-batches-a68dc822f0c0",
+  "publication": "verified"
 }
