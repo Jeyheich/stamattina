@@ -1,5 +1,10 @@
 # Stamattina — stato operativo
 
+## Pomeridiana del 7 novembre — pubblicazione verificata
+- Pubblicata e verificata alle 19:00 Europe/Rome: ciclo 2026-11-07-pomeriggio, edizione 2026-11-07-batches-e5d1b917852e. 40 principali, 40 riserve, cinque foto. Il JSON pubblico letto senza cache coincide con dist/data/current.json. editorialComplete=true, publication=verified, reserveMissing=[].
+- Blocchi 77d3e321b94adb497be8bbf099aba699c0755e8a, run 42399048535. Controlli locali e GitHub sulle 80 fonti e cinque foto superati. Privilegiati gli sviluppi del pomeriggio, con fonti originali rilette per le notizie ancora rilevanti del mattino.
+- Il recupero RSS introdotto in 4b0d342 è stato provato sul checkpoint reale Roma nella run 42394409161: dossier pomeridiano con 96 candidati. Il completamento editoriale del 40+40 è stato manuale; il prossimo ciclo serve a verificare il flusso automatico completo.
+
 ## Pomeridiana 7 novembre — recupero della raccolta
 - Alle 17:16 Europe/Rome erano salvati solo tre articoli parziali, nessuna aggiuntiva o foto. Il dossier era delle 10:19. Le task hanno segnalato accesso limitato a RomaToday/Leggo o verifiche editoriali non concluse. Il deploy è stato saltato prima del controllo delle fonti.
 - La run Pages richiama ora il raccoglitore RSS esistente dopo un checkpoint editoriale quando non c'è un'edizione da pubblicare. Il gate dello slot evita raccolte duplicate. Gli orari pianificati e il requisito 40+40 restano invariati.
