@@ -3,8 +3,6 @@
   "editionDate": "2026-11-07",
   "collectionId": "2026-11-07-mattina",
   "category": "Esteri",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-07T05:02:56.171Z",
   "articles": [
     {
       "id": "esteri-ucraina-russia-negoziati-trilaterali-20261107",
@@ -18,17 +16,220 @@
         "Il presidente ucraino Volodymyr Zelensky ha dichiarato di essere favorevole a un confronto tra Kiev, Mosca e Washington quanto prima. Donald Trump ha espresso ottimismo sulle prospettive diplomatiche; non risulta tuttavia annunciato un accordo."
       ],
       "publishedAt": "2026-11-07T00:04:00+01:00",
-      "verifiedAt": "2026-11-07T05:02:56.171Z",
+      "verifiedAt": "2026-11-07T09:27:18.819990+00:00",
       "source": {
         "name": "RaiNews",
         "url": "https://www.rainews.it/amp/maratona/2026/10/ucraina-guerra-pressing-di-trump-perche-kiev-ceda-territori-witkoff-in-russia-ee250686-2a50-4a87-984c-a2a16b850302.html",
         "dateEvidence": "La pagina della diretta RaiNews reca l'intestazione 07 Novembre 2026 - 00:04; pagina aggiornata con sviluppi del negoziato.",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T05:02:56.171Z",
+        "accessCheckedAt": "2026-11-07T09:27:18.819990+00:00",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-kiev-ponte-nord-raid-feriti-20261107",
+      "eventKey": "kiev-ponte-nord-raid-feriti-20261107",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Raid su Kiev, danni a un ponte e alle infrastrutture energetiche",
+      "summary": "Secondo il sindaco, il bilancio iniziale è di cinque feriti, tra cui un quattordicenne. Le autorità locali hanno segnalato rischi per acqua e riscaldamento.",
+      "body": [
+        "Secondo il sindaco, il bilancio iniziale è di cinque feriti, tra cui un quattordicenne. Le autorità locali hanno segnalato rischi per acqua e riscaldamento."
+      ],
+      "publishedAt": "2026-11-07T08:14:00+00:00",
+      "verifiedAt": "2026-11-07T09:27:15.684768+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/notte-di-attacchi-russi-su-kiev-danni-a-ponte-ed-energia-feriti-49b2c091-67e2-467f-be8b-66d970b03118.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:15.684768+00:00",
+        "dateEvidence": "Data riportata sulla pagina di RaiNews o nei metadati: 2026-11-07T08:14:00+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-trump-miller-capo-staff-20261107",
+      "eventKey": "trump-miller-capo-staff-20261107",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Casa Bianca, Trump nomina Stephen Miller capo dello staff",
+      "summary": "Miller prende il posto di Susie Wiles. Il cambio arriva dopo le elezioni di metà mandato, in cui i democratici hanno conquistato la maggioranza al Congresso.",
+      "body": [
+        "Miller prende il posto di Susie Wiles. Il cambio arriva dopo le elezioni di metà mandato, in cui i democratici hanno conquistato la maggioranza al Congresso."
+      ],
+      "publishedAt": "2026-11-06T16:34:08+00:00",
+      "verifiedAt": "2026-11-07T09:27:16.060892+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/maratona/2026/11/dopo-londa-blu-trump-possiamo-collaborare-con-i-dem-c445ff6c-6393-46d9-9dc9-3ffb08b44d4d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:16.060892+00:00",
+        "dateEvidence": "Data riportata sulla pagina di RaiNews o nei metadati: 2026-11-06T16:34:08+0000.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-paraguay-pena-arresto-ueno-20261107",
+      "eventKey": "paraguay-pena-arresto-ueno-20261107",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Paraguay, arrestato l’ex presidente Santiago Peña",
+      "summary": "RaiNews riferisce che la polizia ha eseguito il provvedimento ad Asunción nell’inchiesta sulla Ueno Bank. Pedro Alliana ha giurato come presidente.",
+      "body": [
+        "RaiNews riferisce che la polizia ha eseguito il provvedimento ad Asunción nell’inchiesta sulla Ueno Bank. Pedro Alliana ha giurato come presidente."
+      ],
+      "publishedAt": "2026-11-07T00:00:20+00:00",
+      "verifiedAt": "2026-11-07T09:27:15.752191+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/paraguay-arrestato-lex-presidente-pea-per-il-caso-ueno-bank-31739406-8564-4c4a-a7db-a22333231901.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:15.752191+00:00",
+        "dateEvidence": "Data riportata sulla pagina di RaiNews o nei metadati: 2026-11-07T00:00:20+0000.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-israele-eisenkot-proposta-governo-emergenza-20261106",
+      "eventKey": "israele-eisenkot-proposta-governo-emergenza-20261106",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Israele, Eisenkot propone un governo di emergenza",
+      "summary": "Il leader di Yashar ha detto di sperare di ricevere l’incarico all’inizio della settimana e propone di partire dai partiti del blocco del cambiamento.",
+      "body": [
+        "Il leader di Yashar ha detto di sperare di ricevere l’incarico all’inizio della settimana e propone di partire dai partiti del blocco del cambiamento.",
+        "La proposta prevede di ampliare il sostegno parlamentare a partire dai partiti del blocco del cambiamento."
+      ],
+      "publishedAt": "2026-11-06T15:18:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.395964+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/06/eisenkot-nutro-la-speranza-di-formare-il-nuovo-governo-un-esecutivo-di-emergenza_07d9e7f2-608f-4aec-a43e-988329c1f67c.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.395964+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T15:18:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Knesset_Building_%28From_Front%29.JPG",
+        "alt": "La Knesset, Gerusalemme",
+        "credit": "Effib",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG",
+        "rights": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · La Knesset, Gerusalemme. Fotografia non riferita agli eventi di oggi.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      },
+      "leadPriority": 85
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "esteri-leone-vespri-montevideo-20261107",
+      "eventKey": "leone-vespri-montevideo-20261107",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Papa Leone XIV celebra i Vespri a Montevideo",
+      "summary": "Il pontefice ha concluso la prima giornata in Uruguay con la preghiera nella cattedrale metropolitana. Il viaggio proseguirà in Argentina e Perù.",
+      "body": [
+        "Il pontefice ha concluso la prima giornata in Uruguay con la preghiera nella cattedrale metropolitana. Il viaggio proseguirà in Argentina e Perù."
+      ],
+      "publishedAt": "2026-11-07T05:56:00+00:00",
+      "verifiedAt": "2026-11-07T09:27:16.859123+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/papa-leone-conclude-la-prima-giornata-in-uruguay-a-montevideo-bf86e13e-b145-4256-9608-e87df3cca950.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:16.859123+00:00",
+        "dateEvidence": "Data riportata sulla pagina di RaiNews o nei metadati: 2026-11-07T05:56:00+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-qeshm-usa-iran-dichiarazioni-20261107",
+      "eventKey": "qeshm-usa-iran-dichiarazioni-20261107",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Qeshm, Trump conferma un’azione statunitense in Iran",
+      "summary": "Trump ha detto che le forze statunitensi hanno colpito un dispositivo antiaereo. L’agenzia iraniana Tasnim ha riferito segnalazioni iniziali di due missili e ha precisato che mancavano informazioni ufficiali sui danni.",
+      "body": [
+        "Trump ha detto che le forze statunitensi hanno colpito un dispositivo antiaereo. L’agenzia iraniana Tasnim ha riferito segnalazioni iniziali di due missili e ha precisato che mancavano informazioni ufficiali sui danni."
+      ],
+      "publishedAt": "2026-11-07T07:53:28+01:00",
+      "verifiedAt": "2026-11-07T09:29:27.933673+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/07/liran-esercito-piu-forte-dallinizio-della-guerra.-attacco-rapido-usa_d3eb6266-aaec-4271-9d11-336fd196698b.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:29:27.933673+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-07T07:53:28+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-francia-manifestazioni-dispositivo-20261107",
+      "eventKey": "francia-manifestazioni-dispositivo-20261107",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Francia, il governo annuncia 70.000 agenti per i cortei",
+      "summary": "Il ministro dell’Interno Laurent Nuñez ha confermato il dispositivo per le manifestazioni del 7 novembre, promosse dai sindacati con la partecipazione di studenti e gilet gialli.",
+      "body": [
+        "Il ministro dell’Interno Laurent Nuñez ha confermato il dispositivo per le manifestazioni del 7 novembre, promosse dai sindacati con la partecipazione di studenti e gilet gialli."
+      ],
+      "publishedAt": "2026-11-06T18:27:00+01:00",
+      "verifiedAt": "2026-11-07T09:28:57.849071+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/06/domani-la-francia-di-nuovo-in-piazza-polizia-schierata-al-massimo-con-70.000-agenti_707c8697-f1ce-4ab9-85ed-1b3735e589f2.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:28:57.849071+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T18:27:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-francia-scuolabus-lent-inchiesta-20261106",
+      "eventKey": "francia-scuolabus-lent-inchiesta-20261106",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Francia, due morti nell’incidente di uno scuolabus",
+      "summary": "Il mezzo è uscito di strada vicino a Lent, nel dipartimento dell’Ain. La procura ha aperto un’inchiesta per chiarire la dinamica.",
+      "body": [
+        "Il mezzo è uscito di strada vicino a Lent, nel dipartimento dell’Ain. La procura ha aperto un’inchiesta per chiarire la dinamica."
+      ],
+      "publishedAt": "2026-11-06T10:09:36+00:00",
+      "verifiedAt": "2026-11-07T09:28:57.797584+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/scuolabus-esce-fuori-strada-in-francia-morti-feriti-minori-8cb291e2-3a48-4b50-8973-cd5df334a56b.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:28:57.797584+00:00",
+        "dateEvidence": "Data riportata sulla pagina di RaiNews o nei metadati: 2026-11-06T10:09:36+0000.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-usa-famiglia-causa-google-gemini-20261106",
+      "eventKey": "usa-famiglia-causa-google-gemini-20261106",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Stati Uniti, una famiglia cita Google per le risposte di Gemini",
+      "summary": "Nella denuncia depositata in California, i genitori di una tredicenne sostengono che il sistema abbia contribuito alla morte della figlia. Le accuse dovranno essere accertate.",
+      "body": [
+        "Nella denuncia depositata in California, i genitori di una tredicenne sostengono che il sistema abbia contribuito alla morte della figlia. Le accuse dovranno essere accertate."
+      ],
+      "publishedAt": "2026-11-06T07:10:45+00:00",
+      "verifiedAt": "2026-11-07T09:28:57.794585+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/usa-genitori-fanno-causa-a-google-gemini-ha-spinto-nostra-figlia-verso-il-suicidio-23352813-dfd8-43ce-8df7-21cef92f70b5.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:28:57.794585+00:00",
+        "dateEvidence": "Data riportata sulla pagina di RaiNews o nei metadati: 2026-11-06T07:10:45+0000.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ],
-  "reserveArticles": [],
-  "reserveDraft": []
+  "completedAt": "2026-11-07T09:30:56.207074+00:00"
 }

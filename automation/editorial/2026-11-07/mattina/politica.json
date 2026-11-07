@@ -3,8 +3,6 @@
   "editionDate": "2026-11-07",
   "collectionId": "2026-11-07-mattina",
   "category": "Politica",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-07T05:02:56.171Z",
   "articles": [
     {
       "id": "politica-decreto-bollette-rinvio-cdm-20261105",
@@ -18,17 +16,220 @@
         "Il ministero dell'Ambiente considera definitivo il testo illustrato in Consiglio e prevede un nuovo esame lunedì 9 novembre. La misura resta dunque in attesa di approvazione, senza effetti già operativi."
       ],
       "publishedAt": "2026-11-05T17:38:00+01:00",
-      "verifiedAt": "2026-11-07T05:02:56.171Z",
+      "verifiedAt": "2026-11-07T09:27:19.150057+00:00",
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it/sito/notizie/politica/2026/11/05/in-cdm-slitta-ancora-lapprovazione-del-decreto-bollette_8d67ddb9-4bd5-4ec2-bcd1-c3d360b2e537.html",
         "dateEvidence": "La pagina ANSA riporta ROMA, 05 novembre 2026, 17:38.",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T05:02:56.171Z",
+        "accessCheckedAt": "2026-11-07T09:27:19.150057+00:00",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-anac-altieri-ritiro-20261107",
+      "eventKey": "anac-altieri-ritiro-20261107",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Anac, Altieri ritira la disponibilità alla presidenza",
+      "summary": "Trifone Altieri ha rinunciato alla designazione dopo il confronto tra opposizioni e governo sulla compatibilità con l’incarico.",
+      "body": [
+        "Trifone Altieri ha rinunciato alla designazione dopo il confronto tra opposizioni e governo sulla compatibilità con l’incarico.",
+        "Il Consiglio dei ministri aveva indicato Altieri come candidato alla guida dell’Autorità nazionale anticorruzione."
+      ],
+      "publishedAt": "2026-11-07T08:54:17+00:00",
+      "verifiedAt": "2026-11-07T09:27:15.318996+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/11/07/anac-altieri",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:15.318996+00:00",
+        "dateEvidence": "Data riportata sulla pagina di Sky TG24 o nei metadati: 2026-11-07T08:54:17+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PalazzoChigi.jpeg",
+        "alt": "Palazzo Chigi, Roma",
+        "credit": "Arepo",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg",
+        "rights": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · Palazzo Chigi, Roma. Fotografia non riferita agli eventi di oggi.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      },
+      "leadPriority": 85
+    },
+    {
+      "id": "politica-meloni-giorgetti-manovra-20261106",
+      "eventKey": "meloni-giorgetti-manovra-20261106",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Manovra, Meloni difende la linea di Giorgetti",
+      "summary": "La presidente del Consiglio ha difeso l’impostazione del ministro dell’Economia, mentre nella maggioranza resta aperta la trattativa sulle misure.",
+      "body": [
+        "La presidente del Consiglio ha difeso l’impostazione del ministro dell’Economia, mentre nella maggioranza resta aperta la trattativa sulle misure."
+      ],
+      "publishedAt": "2026-11-06T17:09:18+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.454862+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/06/manovra-lunedi-al-via-le-audizioni-attese-imprese-banche-sindacati-e-regioni_0ec0aa84-e641-47e8-af76-d966564ce5a0.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.454862+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T17:09:18+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-governo-ricorso-fine-vita-veneto-20261106",
+      "eventKey": "governo-ricorso-fine-vita-veneto-20261106",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Fine vita, il ricorso sulla legge veneta riapre il confronto",
+      "summary": "L’impugnazione del governo riporta in primo piano il dibattito sulla mancanza di una legge nazionale.",
+      "body": [
+        "L’impugnazione del governo riporta in primo piano il dibattito sulla mancanza di una legge nazionale."
+      ],
+      "publishedAt": "2026-11-06T17:23:42+00:00",
+      "verifiedAt": "2026-11-07T09:27:15.465506+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/video/2026/11/06/legge-fine-vita-italia-1137987",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:15.465506+00:00",
+        "dateEvidence": "Data riportata sulla pagina di Sky TG24 o nei metadati: 2026-11-06T17:23:42+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-speranza-commissione-covid-20261106",
+      "eventKey": "speranza-commissione-covid-20261106",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Commissione Covid, nuove tensioni durante l’audizione di Speranza",
+      "summary": "La commissione ha ascoltato per la seconda volta l’ex ministro della Salute. La presidenza ha sospeso più volte la seduta durante gli scontri tra maggioranza e opposizioni.",
+      "body": [
+        "La commissione ha ascoltato per la seconda volta l’ex ministro della Salute. La presidenza ha sospeso più volte la seduta durante gli scontri tra maggioranza e opposizioni."
+      ],
+      "publishedAt": "2026-11-06T18:10:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.878587+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/06/nuovo-scontro-in-commissione-covid-scintille-fdi-speranza_6075f4ca-9f2a-40b0-b474-c7e4634abb58.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.878587+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T18:10:00+0100.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ],
-  "reserveArticles": [],
-  "reserveDraft": []
+  "reserveArticles": [
+    {
+      "id": "politica-mattarella-ascolto-giovani-20261106",
+      "eventKey": "mattarella-ascolto-giovani-20261106",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Mattarella chiede più ascolto per i giovani",
+      "summary": "Al Quirinale, il presidente della Repubblica ha richiamato l’attenzione sulle conseguenze dei conflitti e dei traumi per le nuove generazioni.",
+      "body": [
+        "Al Quirinale, il presidente della Repubblica ha richiamato l’attenzione sulle conseguenze dei conflitti e dei traumi per le nuove generazioni."
+      ],
+      "publishedAt": "2026-11-06T13:10:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.845511+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/06/mattarella-domandiamoci-se-sappiamo-ascoltare-adeguatamente-i-giovani_db2c46de-4906-4ed8-b711-f5454d369d1a.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.845511+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T13:10:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-consulta-bartolozzi-camera-20261106",
+      "eventKey": "consulta-bartolozzi-camera-20261106",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Caso Almasri, la Consulta chiarisce come possono procedere i pm",
+      "summary": "I magistrati possono proseguire l’indagine su Giusi Bartolozzi per presunte false dichiarazioni. Prima dovranno informare la Camera.",
+      "body": [
+        "I magistrati possono proseguire l’indagine su Giusi Bartolozzi per presunte false dichiarazioni. Prima dovranno informare la Camera."
+      ],
+      "publishedAt": "2026-11-06T18:32:24+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.176172+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/i-pm-possono-procedere-su-giusi-bartolozzi-per-false-dichiarazioni_74eb6ec2-3f83-44f8-ae3f-ec47cd839574.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.176172+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T18:32:24+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-farnesina-volontari-fermati-20261106",
+      "eventKey": "farnesina-volontari-fermati-20261106",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Farnesina, assistenza agli italiani fermati in Cisgiordania",
+      "summary": "Ambasciata e consolato hanno chiesto il rilascio degli italiani fermati vicino a Kafr Ni’ma. Il ministero riferisce che sono previste procedure di rimpatrio.",
+      "body": [
+        "Ambasciata e consolato hanno chiesto il rilascio degli italiani fermati vicino a Kafr Ni’ma. Il ministero riferisce che sono previste procedure di rimpatrio."
+      ],
+      "publishedAt": "2026-11-06T14:29:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.391010+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/06/farnesina-domani-previste-procedure-di-espulsione-dei-6-italiani-fermati_6ad10f13-8aaf-4322-9ef7-7f88aa9b0d92.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.391010+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T14:29:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-meloni-cybersicurezza-sanita-20261106",
+      "eventKey": "meloni-cybersicurezza-sanita-20261106",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Meloni richiama la sicurezza informatica dei servizi essenziali",
+      "summary": "A Verona la presidente del Consiglio ha collegato gli investimenti in sicurezza informatica alla protezione della popolazione e della sanità.",
+      "body": [
+        "A Verona la presidente del Consiglio ha collegato gli investimenti in sicurezza informatica alla protezione della popolazione e della sanità."
+      ],
+      "publishedAt": "2026-11-06T19:52:17+00:00",
+      "verifiedAt": "2026-11-07T09:27:15.252741+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/video/2026/11/06/attacchi-hacker-meloni-mettere-in-sicurezza-quotidianita-1138051",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:15.252741+00:00",
+        "dateEvidence": "Data riportata sulla pagina di Sky TG24 o nei metadati: 2026-11-06T19:52:17+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-meloni-eicma-domande-elezioni-20261106",
+      "eventKey": "meloni-eicma-domande-elezioni-20261106",
+      "category": "Politica",
+      "status": "verified",
+      "title": "A Eicma Meloni risponde alle domande sul voto",
+      "summary": "Durante la visita alla fiera di Milano Rho, la presidente del Consiglio ha detto ai cronisti di essere concentrata sul lavoro del governo, senza indicare una data per le elezioni.",
+      "body": [
+        "Durante la visita alla fiera di Milano Rho, la presidente del Consiglio ha detto ai cronisti di essere concentrata sul lavoro del governo, senza indicare una data per le elezioni."
+      ],
+      "publishedAt": "2026-11-06T12:34:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.653093+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/06/meloni-ai-giornalisti-voi-avete-la-fissazione-del-voto-ma-io-sto-lavorando_7ddaabf1-4b78-46bb-a2af-46d83f438363.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.653093+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T12:34:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "completedAt": "2026-11-07T09:28:31.870847+00:00"
 }

@@ -3,8 +3,6 @@
   "editionDate": "2026-11-07",
   "collectionId": "2026-11-07-mattina",
   "category": "Cultura · Teatro · Cinema",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-07T06:13:00Z",
   "articles": [
     {
       "id": "cultura-factory-fest-reportage-20261106",
@@ -18,12 +16,12 @@
         "Nel reportage pubblicato il 6 novembre, Viviana Raciti analizza fra gli altri i lavori di lacasadargilla, Enrico Malatesta, Claudia Castellucci e Zaches Teatro, collegandoli al filo conduttore «fuori di sé»."
       ],
       "publishedAt": "2026-11-06",
-      "verifiedAt": "2026-11-07T06:13:00Z",
+      "verifiedAt": "2026-11-07T09:27:18.983487+00:00",
       "source": {
         "name": "Teatro e Critica",
         "url": "https://www.teatroecritica.net/2026/11/factory-fest-da-foligno-fuori-di-se/",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T06:13:00Z",
+        "accessCheckedAt": "2026-11-07T09:27:18.983487+00:00",
         "dateEvidence": "Nella pagina originale compare la data 6 Novembre 2026 sotto il nome dell'autrice Viviana Raciti.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -40,16 +38,186 @@
         "Le proposte possono arrivare da artisti, collettivi e compagnie di qualunque provenienza geografica. La comunicazione degli esiti è prevista entro il 18 dicembre 2026."
       ],
       "publishedAt": "2026-11-06",
-      "verifiedAt": "2026-11-07T06:13:00Z",
+      "verifiedAt": "2026-11-07T09:27:18.946377+00:00",
       "source": {
         "name": "Teatro e Critica",
         "url": "https://www.teatroecritica.net/2026/11/oriente-occidente-open-call-residenze-artistiche-2027-tre-linee-per-corpo-e-movimento-compensi-fino-a-7-000-euro/",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T06:13:00Z",
+        "accessCheckedAt": "2026-11-07T09:27:18.946377+00:00",
         "dateEvidence": "La pagina dell'annuncio riporta 6 Novembre 2026 e scadenza del bando 18 novembre 2026 ore 14.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-sanremo-2027-presentazione-de-martino",
+      "eventKey": "sanremo-2027-presentazione-de-martino",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Sanremo 2027, De Martino anticipa una serata dedicata alle performance",
+      "summary": "Il Festival è in programma dal 16 al 20 febbraio. Per venerdì 19 il conduttore e direttore artistico ha annunciato una serata ispirata alle esibizioni dell’Eurovision.",
+      "body": [
+        "Il Festival è in programma dal 16 al 20 febbraio. Per venerdì 19 il conduttore e direttore artistico ha annunciato una serata ispirata alle esibizioni dell’Eurovision."
+      ],
+      "publishedAt": "2026-11-06T16:55:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.453958+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/2026/11/06/sanremo-prende-forma-de-martino-sara-alla-mia-maniera_0c4e149e-2c24-4012-971e-5f68f2c4c1b2.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.453958+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T16:55:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-torino-film-festival-2026-programma",
+      "eventKey": "torino-film-festival-2026-programma",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Torino Film Festival, annunciati apertura e ospiti",
+      "summary": "La 44ª edizione si terrà dal 24 novembre al 2 dicembre. John Travolta è atteso all’apertura al Teatro Regio e il festival dedica la retrospettiva a Marilyn Monroe.",
+      "body": [
+        "La 44ª edizione si terrà dal 24 novembre al 2 dicembre. John Travolta è atteso all’apertura al Teatro Regio e il festival dedica la retrospettiva a Marilyn Monroe."
+      ],
+      "publishedAt": "2026-11-05T14:28:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.656911+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/05/al-torino-film-festival-john-travolta-pamela-anderson-e-fanny-ardant_c4e261cd-99f9-4790-a142-fb2e62b32988.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.656911+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-05T14:28:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-the-label-de-sica-santamaria-20261107",
+      "eventKey": "the-label-de-sica-santamaria-20261107",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "De Sica e Santamaria insieme nella serie The Label",
+      "summary": "Netflix ha presentato una prima immagine della serie diretta da Luca Miniero. I sei episodi raccontano una famiglia che guida un’etichetta musicale indipendente.",
+      "body": [
+        "Netflix ha presentato una prima immagine della serie diretta da Luca Miniero. I sei episodi raccontano una famiglia che guida un’etichetta musicale indipendente."
+      ],
+      "publishedAt": "2026-11-07T06:40:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:17.726931+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/eventi/cultura/de-sica-santamaria-the-label-netflix.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:17.726931+00:00",
+        "dateEvidence": "Data riportata sulla pagina di RomaToday o nei metadati: 2026-11-07T06:40:00+01:00.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ],
-  "reserveDraft": []
+  "reserveArticles": [
+    {
+      "id": "cultura-milano-quel-gran-genio-battisti-20261106",
+      "eventKey": "milano-quel-gran-genio-battisti-20261106",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Milano, quattro giorni dedicati a Lucio Battisti",
+      "summary": "La rassegna Quel Gran Genio si svolge dal 16 al 19 novembre. Tra gli appuntamenti, un concerto dedicato ad Anima Latina.",
+      "body": [
+        "La rassegna Quel Gran Genio si svolge dal 16 al 19 novembre. Tra gli appuntamenti, un concerto dedicato ad Anima Latina."
+      ],
+      "publishedAt": "2026-11-06T18:09:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.379277+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/2026/11/06/a-milano-torna-quel-gran-genio-un-viaggio-tra-le-diverse-anime-di-battisti_ff54093a-e42c-40d6-9db9-f8bd99ed335f.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.379277+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T18:09:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-stranger-things-other-worlds-annuncio-20261106",
+      "eventKey": "stranger-things-other-worlds-annuncio-20261106",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Netflix annuncia un prequel di Stranger Things",
+      "summary": "Other Worlds: A Stranger Things Adventure è ambientato negli anni Cinquanta ed è atteso per il 2028. Joe Wright dirigerà i primi tre episodi.",
+      "body": [
+        "Other Worlds: A Stranger Things Adventure è ambientato negli anni Cinquanta ed è atteso per il 2028. Joe Wright dirigerà i primi tre episodi."
+      ],
+      "publishedAt": "2026-11-06T16:55:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.903436+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/06/netflix-annuncia-serie-spin-off-di-stranger-things-adventure-other-worlds_feaefc3f-694d-4817-88a1-a80bb4a8be60.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.903436+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T16:55:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-raiplay-dark-lines-seconda-stagione-20261106",
+      "eventKey": "raiplay-dark-lines-seconda-stagione-20261106",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Dark Lines torna su RaiPlay dal 10 novembre",
+      "summary": "La seconda stagione unisce illustrazione e materiali d’archivio per raccontare quattro casi di cronaca. Valentina Romani conduce il racconto.",
+      "body": [
+        "La seconda stagione unisce illustrazione e materiali d’archivio per raccontare quattro casi di cronaca. Valentina Romani conduce il racconto."
+      ],
+      "publishedAt": "2026-11-06T14:45:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.874083+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/06/torna-dark-lines.-valentina-romani-educare-al-rispetto_64e52184-af18-4b47-ade3-1724c5c9cd6b.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.874083+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T14:45:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-luana-ragazza-festival-popoli-20261106",
+      "eventKey": "luana-ragazza-festival-popoli-20261106",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Al Festival dei Popoli il documentario su Luana D’Orazio",
+      "summary": "Ernesto Pagano presenta a Firenze un film che ricostruisce la vita dell’operaia attraverso anche i materiali che aveva lasciato sul proprio telefono.",
+      "body": [
+        "Ernesto Pagano presenta a Firenze un film che ricostruisce la vita dell’operaia attraverso anche i materiali che aveva lasciato sul proprio telefono."
+      ],
+      "publishedAt": "2026-11-06T19:59:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.673833+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/06/pagano-presenta-luana-ragazza-spero-aiuti-la-battaglia-del-lavoro_b65a74de-c669-457c-9df5-78a157242173.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.673833+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T19:59:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-carrara-restauro-maesta-moneta-20261106",
+      "eventKey": "carrara-restauro-maesta-moneta-20261106",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Carrara, restaurata la Maestà di Moneta",
+      "summary": "L’opera votiva seicentesca raffigura l’Annunciazione. L’intervento ha pulito e consolidato il marmo. Sul sentiero storico è stata installata una copia.",
+      "body": [
+        "L’opera votiva seicentesca raffigura l’Annunciazione. L’intervento ha pulito e consolidato il marmo. Sul sentiero storico è stata installata una copia."
+      ],
+      "publishedAt": "2026-11-06T19:55:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.564211+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/06/restaurata-maesta-di-moneta-opera-votiva-del-600-degli-scultori-di-carrara_f0197f82-ef43-4503-b6c0-15cd31704451.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.564211+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T19:55:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "completedAt": "2026-11-07T09:30:26.552875+00:00"
 }

@@ -16,12 +16,12 @@
         "La società deve gestire numerose altre assenze; i tempi precisi di rientro non sono stati comunicati nell'articolo."
       ],
       "publishedAt": "2026-11-06T18:10:00+01:00",
-      "verifiedAt": "2026-11-07T09:19:02.815Z",
+      "verifiedAt": "2026-11-07T09:27:19.033505+00:00",
       "source": {
         "name": "Sky Sport",
         "url": "https://sport.sky.it/calcio/serie-a/2026/11/06/napoli-di-lorenzo-infortunio-news",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T09:19:02.815Z",
+        "accessCheckedAt": "2026-11-07T09:27:19.033505+00:00",
         "dateEvidence": "La pagina riporta «06 nov 2026 - 18:10» sopra il testo.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -35,18 +35,30 @@
       "summary": "Il Venezia conquista tre punti contro l'Udinese nell'anticipo dell'undicesima giornata di Serie A.",
       "body": [
         "Basic porta avanti i padroni di casa; l'autorete di Moreno riporta il risultato in parità prima del gol decisivo di Kike Pérez.",
-        "Il 2-1 permette ai lagunari di superare l'Udinese in classifica; la squadra friulana resta ultima."
+        "Il 2-1 permette ai lagunari di superare l'Udinese in classifica; la squadra friulana resta ultima.",
+        "Il risultato dell’anticipo ha permesso al Venezia di scavalcare l’Udinese in classifica."
       ],
       "publishedAt": "2026-11-06T23:03:00+01:00",
-      "verifiedAt": "2026-11-07T09:19:02.815Z",
+      "verifiedAt": "2026-11-07T09:27:19.239876+00:00",
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/06/il-venezia-torna-a-vincere-2-1-alludinese-ultima-e-in-crisi_b7f53128-638d-409c-a912-b3265c94615c.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T09:19:02.815Z",
+        "accessCheckedAt": "2026-11-07T09:27:19.239876+00:00",
         "dateEvidence": "Articolo ANSA del 6 novembre 2026, data indicata nella pagina originale consultata.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
+      },
+      "image": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg/960px-Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg",
+        "alt": "Pallone da calcio su un prato",
+        "credit": "Peter Glaser baraida",
+        "rights": "CC0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "caption": "Repertorio · Un pallone da calcio su un campo in erba.",
+        "reuseApproved": true
+      },
+      "leadPriority": 85
     },
     {
       "id": "sport-juventus-az-alkmaar-vittoria-20261106",
@@ -60,12 +72,12 @@
         "Un successivo pareggio degli olandesi viene annullato per fuorigioco e i bianconeri raggiungono quota dieci punti."
       ],
       "publishedAt": "2026-11-06T15:33:00+01:00",
-      "verifiedAt": "2026-11-07T09:19:02.815Z",
+      "verifiedAt": "2026-11-07T09:27:19.262450+00:00",
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/06/la-juve-batte-laz-alkmaar-con-brivido-finale_696fefa0-f035-411d-b3dc-5d940994dce9.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T09:19:02.815Z",
+        "accessCheckedAt": "2026-11-07T09:27:19.262450+00:00",
         "dateEvidence": "Articolo ANSA del 6 novembre 2026, data indicata nella pagina originale consultata.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -82,12 +94,12 @@
         "Le Ferrari chiudono sesta e settima, rispettivamente con Hamilton e Leclerc."
       ],
       "publishedAt": "2026-11-06T21:08:00+01:00",
-      "verifiedAt": "2026-11-07T09:19:02.815Z",
+      "verifiedAt": "2026-11-07T09:27:19.114933+00:00",
       "source": {
         "name": "ANSA",
         "url": "https://videoembed.ansa.it/sito/notizie/sport/f1/2026/11/06/f1-antonelli-domina-le-seconde-libere-del-brasile_779e6846-d08a-4a88-bf9a-40cd549e1a64.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T09:19:02.815Z",
+        "accessCheckedAt": "2026-11-07T09:27:19.114933+00:00",
         "dateEvidence": "Articolo ANSA del 6 novembre 2026, data indicata nella pagina originale consultata.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -104,17 +116,123 @@
         "Magnus Norman, già allenatore di Stan Wawrinka, entrerà nella squadra di Sinner il mese prossimo accanto a Simone Vagnozzi."
       ],
       "publishedAt": "2026-11-06",
-      "verifiedAt": "2026-11-07T09:19:02.815Z",
+      "verifiedAt": "2026-11-07T09:27:19.222232+00:00",
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it/amp/sito/notizie/sport/tennis/2026/11/06/sinner-saluta-cahill-molto-piu-di-un-coach.-e-al-suo-posto-ce-norman_9b0f0b4c-0d83-484b-9c1f-f9abf30a1504.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T09:19:02.815Z",
+        "accessCheckedAt": "2026-11-07T09:27:19.222232+00:00",
         "dateEvidence": "Articolo ANSA del 6 novembre 2026, data indicata nella pagina originale consultata.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ],
-  "reserveArticles": [],
-  "completedAt": "2026-11-07T09:19:02.815Z"
+  "reserveArticles": [
+    {
+      "id": "sport-zurigo-del-piero-ronaldinho-20261106",
+      "eventKey": "zurigo-del-piero-ronaldinho-20261106",
+      "category": "Sport",
+      "status": "verified",
+      "title": "A Zurigo la selezione di Ronaldinho batte quella di Del Piero",
+      "summary": "Il Brasile delle vecchie glorie ha vinto 5–4 al Letzigrund. Ronaldinho ha segnato su rigore e ha ricevuto un’ovazione quando ha lasciato il campo.",
+      "body": [
+        "Il Brasile delle vecchie glorie ha vinto 5–4 al Letzigrund. Ronaldinho ha segnato su rigore e ha ricevuto un’ovazione quando ha lasciato il campo."
+      ],
+      "publishedAt": "2026-11-07T09:12:33+01:00",
+      "verifiedAt": "2026-11-07T09:27:18.363444+00:00",
+      "source": {
+        "name": "Leggo Sport",
+        "url": "https://www.leggo.it/sport/calcio/07_novembre_2026_ronaldinho_alex_del_piero_zurigo_partita_cosa_e_successo-9875092.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:18.363444+00:00",
+        "dateEvidence": "Data riportata sulla pagina di Leggo Sport o nei metadati: 2026-11-07T09:12:33+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-serie-a-calendario-sabato-20261107",
+      "eventKey": "serie-a-calendario-sabato-20261107",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Serie A, quattro partite in programma sabato",
+      "summary": "Cagliari–Frosinone e Torino–Lecce aprono il programma alle 15. Seguono Parma–Bologna alle 18 e Roma–Sassuolo alle 20:45.",
+      "body": [
+        "Cagliari–Frosinone e Torino–Lecce aprono il programma alle 15. Seguono Parma–Bologna alle 18 e Roma–Sassuolo alle 20:45."
+      ],
+      "publishedAt": "2026-11-07T09:00:00+00:00",
+      "verifiedAt": "2026-11-07T09:27:18.411209+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/11/07/partite-serie-a-oggi-sabato",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:18.411209+00:00",
+        "dateEvidence": "Data riportata sulla pagina di Sky Sport o nei metadati: 2026-11-07T09:00:00+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-milano-daspo-tifoso-ferencvaros-20261106",
+      "eventKey": "milano-daspo-tifoso-ferencvaros-20261106",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Milano, Daspo di cinque anni per un tifoso del Ferencváros",
+      "summary": "La polizia ha denunciato un tifoso e sequestrato la maglietta con il volto di Mussolini. Il provvedimento riguarda i fatti di ordine pubblico legati alla trasferta.",
+      "body": [
+        "La polizia ha denunciato un tifoso e sequestrato la maglietta con il volto di Mussolini. Il provvedimento riguarda i fatti di ordine pubblico legati alla trasferta."
+      ],
+      "publishedAt": "2026-11-06T15:25:41+01:00",
+      "verifiedAt": "2026-11-07T09:27:18.596630+00:00",
+      "source": {
+        "name": "Leggo Sport",
+        "url": "https://www.leggo.it/sport/calcio/06_novembre_2026_ferencvaros_tifosi_fascisti_mussolini_daspo_denuncia-9873363.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:18.596630+00:00",
+        "dateEvidence": "Data riportata sulla pagina di Leggo Sport o nei metadati: 2026-11-06T15:25:41+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-qatar-di-giannantonio-prequalifiche-20261106",
+      "eventKey": "qatar-di-giannantonio-prequalifiche-20261106",
+      "category": "Sport",
+      "status": "verified",
+      "title": "MotoGP, Di Giannantonio il più veloce nelle prequalifiche in Qatar",
+      "summary": "Il pilota VR46 ha segnato il record della pista a Losail con 1:50.406. Marc Márquez ha chiuso secondo e Marco Bezzecchi terzo.",
+      "body": [
+        "Il pilota VR46 ha segnato il record della pista a Losail con 1:50.406. Marc Márquez ha chiuso secondo e Marco Bezzecchi terzo."
+      ],
+      "publishedAt": "2026-11-06T18:16:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.684731+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/sport/moto/2026/11/06/motogp-a-di-giannantonio-le-pre-qualifiche-in-qatar-marquez-secondo_0a8d853f-797f-48b0-a552-e72589a6358e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.684731+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T18:16:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-olimpia-milano-poeta-banchi-20261106",
+      "eventKey": "olimpia-milano-poeta-banchi-20261106",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Olimpia Milano, esonerato Peppe Poeta",
+      "summary": "La società ha interrotto il rapporto con il tecnico dopo l’ottava sconfitta consecutiva in Eurolega. Marco Ramondino guiderà la squadra contro Trento in attesa di Luca Banchi.",
+      "body": [
+        "La società ha interrotto il rapporto con il tecnico dopo l’ottava sconfitta consecutiva in Eurolega. Marco Ramondino guiderà la squadra contro Trento in attesa di Luca Banchi."
+      ],
+      "publishedAt": "2026-11-06T20:05:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.565782+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/06/basket-il-ct-dellitalia-banchi-nuovo-coach-dellarmani-milano_2b7e75a1-c4da-4354-a0e5-624a639cea56.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.565782+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T20:05:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "completedAt": "2026-11-07T09:28:31.869478+00:00"
 }

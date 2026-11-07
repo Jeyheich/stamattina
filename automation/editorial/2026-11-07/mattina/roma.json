@@ -3,7 +3,7 @@
   "editionDate": "2026-11-07",
   "collectionId": "2026-11-07-mattina",
   "category": "Roma",
-  "completedAt": "2026-11-07T09:20:54.676443+00:00",
+  "completedAt": "2026-11-07T09:28:31.871617+00:00",
   "articles": [
     {
       "id": "roma-censis-quartieri-mobilita-20261107",
@@ -13,18 +13,31 @@
       "title": "Censis, i romani apprezzano il quartiere ma segnalano la mobilità",
       "summary": "Nell’indagine su 1.500 residenti, l’85% si dice molto o abbastanza soddisfatto del quartiere in cui abita. Per il 46,3% il principale problema della città è la mobilità.",
       "body": [
-        "Nell’indagine su 1.500 residenti, l’85% si dice molto o abbastanza soddisfatto del quartiere in cui abita. Per il 46,3% il principale problema della città è la mobilità."
+        "Nell’indagine su 1.500 residenti, l’85% si dice molto o abbastanza soddisfatto del quartiere in cui abita. Per il 46,3% il principale problema della città è la mobilità.",
+        "Tra gli intervistati, il 70,5% indica il miglioramento del trasporto pubblico come intervento per rendere Roma più sostenibile."
       ],
       "publishedAt": "2026-11-07T08:48:43+01:00",
-      "verifiedAt": "2026-11-07T09:20:54.676443+00:00",
+      "verifiedAt": "2026-11-07T09:27:19.492046+00:00",
       "source": {
         "name": "RomaToday",
         "url": "https://www.romatoday.it/politica/censis-romani-quartieri-trasporti-sicurezza.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T09:20:54.676443+00:00",
+        "accessCheckedAt": "2026-11-07T09:27:19.492046+00:00",
         "dateEvidence": "Pagina originale RomaToday con data e ora visibili: 07/11/2026 alle 08:48, ora italiana.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bus_stop_in_Rome_01.jpg",
+        "alt": "Fermata di autobus a Roma",
+        "credit": "Nicholas Gemini",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bus_stop_in_Rome_01.jpg",
+        "rights": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · Una fermata del trasporto pubblico a Roma, 2018.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      },
+      "leadPriority": 85
     },
     {
       "id": "roma-fleming-blackout-cabina-20261107",
@@ -37,12 +50,12 @@
         "Il rogo è scoppiato la sera del 6 novembre in via Città di Castello. Nessuno è rimasto ferito. Areti ha attivato gruppi elettrogeni di emergenza."
       ],
       "publishedAt": "2026-11-07T08:41:00+01:00",
-      "verifiedAt": "2026-11-07T09:20:54.676443+00:00",
+      "verifiedAt": "2026-11-07T09:27:19.581387+00:00",
       "source": {
         "name": "RomaToday",
         "url": "https://www.romatoday.it/cronaca/incendio-fleming-senza-corrente-7-novembre-2026.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T09:20:54.676443+00:00",
+        "accessCheckedAt": "2026-11-07T09:27:19.581387+00:00",
         "dateEvidence": "Pagina originale RomaToday con data e ora visibili: 07/11/2026 alle 08:41, ora italiana.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -58,12 +71,12 @@
         "Secondo l’Ugl, i contratti in scadenza il 30 novembre riguardano 56 autisti e 55 barellieri. L’azienda riferisce di avere avviato un confronto istituzionale per salvaguardare i posti di lavoro."
       ],
       "publishedAt": "2026-11-07T07:35:00+01:00",
-      "verifiedAt": "2026-11-07T09:20:54.676443+00:00",
+      "verifiedAt": "2026-11-07T09:27:19.539192+00:00",
       "source": {
         "name": "RomaToday",
         "url": "https://www.romatoday.it/economia/contratti-tempo-determinato-ares-ugl.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T09:20:54.676443+00:00",
+        "accessCheckedAt": "2026-11-07T09:27:19.539192+00:00",
         "dateEvidence": "Pagina originale RomaToday con data e ora visibili: 07/11/2026 alle 07:35, ora italiana.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -79,12 +92,12 @@
         "L’intesa del 6 novembre porta il fondo per il salario accessorio a oltre 210 milioni. Prevede circa 250 euro annui di welfare a dipendente e più flessibilità in ingresso."
       ],
       "publishedAt": "2026-11-07T07:19:46+01:00",
-      "verifiedAt": "2026-11-07T09:20:54.676443+00:00",
+      "verifiedAt": "2026-11-07T09:27:19.680667+00:00",
       "source": {
         "name": "RomaToday",
         "url": "https://www.romatoday.it/politica/contratto-integrativo-roma-capitale-buoni-pasto-smart-working.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T09:20:54.676443+00:00",
+        "accessCheckedAt": "2026-11-07T09:27:19.680667+00:00",
         "dateEvidence": "Pagina originale RomaToday con data e ora visibili: 07/11/2026 alle 07:19, ora italiana.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -100,12 +113,12 @@
         "Le interrogazioni in Campidoglio riguardano i costi, le modalità di raccolta delle scommesse e il ruolo di Zétema dopo la riapertura dell’impianto."
       ],
       "publishedAt": "2026-11-07T06:39:00+01:00",
-      "verifiedAt": "2026-11-07T09:20:54.676443+00:00",
+      "verifiedAt": "2026-11-07T09:27:19.633445+00:00",
       "source": {
         "name": "RomaToday",
         "url": "https://www.romatoday.it/politica/ippodromo-capannelle-.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T09:20:54.676443+00:00",
+        "accessCheckedAt": "2026-11-07T09:27:19.633445+00:00",
         "dateEvidence": "Pagina originale RomaToday con data e ora visibili: 07/11/2026 alle 06:39, ora italiana.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -123,12 +136,12 @@
         "Il giudice ha disposto sei misure cautelari. La polizia ne ha eseguite quattro il 7 novembre. L’indagine riguarda una presunta rete di spaccio nell’area del quinto ponte."
       ],
       "publishedAt": "2026-11-07T09:00:00+01:00",
-      "verifiedAt": "2026-11-07T09:20:54.676443+00:00",
+      "verifiedAt": "2026-11-07T09:27:19.728359+00:00",
       "source": {
         "name": "RomaToday",
         "url": "https://www.romatoday.it/cronaca/arresti-pusher-laurentino-38-quinto-ponte.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T09:20:54.676443+00:00",
+        "accessCheckedAt": "2026-11-07T09:27:19.728359+00:00",
         "dateEvidence": "Pagina originale RomaToday con data e ora visibili: 07/11/2026 alle 09:00, ora italiana.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -144,12 +157,12 @@
         "Il municipio riferisce che sono stati rimossi rifiuti e vegetazione infestante. L’ex complesso è stato recintato e dotato di videosorveglianza. Lo studentato pubblico resta un progetto futuro."
       ],
       "publishedAt": "2026-11-07T07:24:00+01:00",
-      "verifiedAt": "2026-11-07T09:20:54.676443+00:00",
+      "verifiedAt": "2026-11-07T09:27:19.765075+00:00",
       "source": {
         "name": "RomaToday",
         "url": "https://www.romatoday.it/zone/arvalia/marconi/video-drone-bonifica-ex-mira-lanza.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T09:20:54.676443+00:00",
+        "accessCheckedAt": "2026-11-07T09:27:19.765075+00:00",
         "dateEvidence": "Pagina originale RomaToday con data e ora visibili: 07/11/2026 alle 07:24, ora italiana.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -165,12 +178,12 @@
         "Il gruppo di pazienti oncologici, familiari e sostenitori si è riunito alla libreria Stendhal. Chiede che il dibattito pubblico sulla salute affronti anche le esposizioni ambientali."
       ],
       "publishedAt": "2026-11-07T05:22:00+01:00",
-      "verifiedAt": "2026-11-07T09:20:54.676443+00:00",
+      "verifiedAt": "2026-11-07T09:27:19.847742+00:00",
       "source": {
         "name": "RomaToday",
         "url": "https://www.romatoday.it/attualita/cancro-rabbia-collettivo-pazienti-oncologici-libreria-francese.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T09:20:54.676443+00:00",
+        "accessCheckedAt": "2026-11-07T09:27:19.847742+00:00",
         "dateEvidence": "Pagina originale RomaToday con data e ora visibili: 07/11/2026 alle 05:22, ora italiana.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -186,12 +199,12 @@
         "Il conducente è sceso dopo aver visto uscire fumo dal motore. I vigili del fuoco hanno spento il rogo. Nessuno è rimasto ferito e le cause sono da accertare."
       ],
       "publishedAt": "2026-11-06T18:12:00+01:00",
-      "verifiedAt": "2026-11-07T09:20:54.676443+00:00",
+      "verifiedAt": "2026-11-07T09:27:19.864877+00:00",
       "source": {
         "name": "RomaToday",
         "url": "https://www.romatoday.it/cronaca/incendio-furgone-via-di-salone.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T09:20:54.676443+00:00",
+        "accessCheckedAt": "2026-11-07T09:27:19.864877+00:00",
         "dateEvidence": "Pagina originale RomaToday con data e ora visibili: 06/11/2026 alle 18:12, ora italiana.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -207,12 +220,12 @@
         "Filt Cgil, Fit Cisl, Uil e Ugl contestano la lettura del direttore generale sulle assenze degli autisti e richiamano l’attenzione su turni, stipendi e ferie arretrate."
       ],
       "publishedAt": "2026-11-06T23:05:00+01:00",
-      "verifiedAt": "2026-11-07T09:20:54.676443+00:00",
+      "verifiedAt": "2026-11-07T09:27:20.397017+00:00",
       "source": {
         "name": "RomaToday",
         "url": "https://www.romatoday.it/politica/atac-risposta-sindacati-assenteismo.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T09:20:54.676443+00:00",
+        "accessCheckedAt": "2026-11-07T09:27:20.397017+00:00",
         "dateEvidence": "Pagina originale RomaToday con data e ora visibili: 06/11/2026 alle 23:05, ora italiana.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }

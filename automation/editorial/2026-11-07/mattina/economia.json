@@ -3,8 +3,6 @@
   "editionDate": "2026-11-07",
   "collectionId": "2026-11-07-mattina",
   "category": "Economia",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-07T05:14:45.610Z",
   "articles": [
     {
       "id": "economia-taglio-prezzo-latte-freshways-20261106",
@@ -14,18 +12,30 @@
       "title": "Latte britannico, Freshways taglia il prezzo ai produttori",
       "summary": "Dal primo dicembre Freshways ridurrà di sette penny al litro il prezzo riconosciuto agli allevatori, portandolo a 29,4 penny. Le associazioni agricole segnalano margini già compressi dai costi di produzione.",
       "body": [
-        "Dal primo dicembre Freshways ridurrà di sette penny al litro il prezzo riconosciuto agli allevatori, portandolo a 29,4 penny. Le associazioni agricole segnalano margini già compressi dai costi di produzione."
+        "Dal primo dicembre Freshways ridurrà di sette penny al litro il prezzo riconosciuto agli allevatori, portandolo a 29,4 penny. Le associazioni agricole segnalano margini già compressi dai costi di produzione.",
+        "Secondo il Guardian, il taglio di sette pence al litro si aggiunge alla pressione già esercitata dai costi di produzione."
       ],
       "publishedAt": "2026-11-06",
-      "verifiedAt": "2026-11-07T05:14:45.610Z",
+      "verifiedAt": "2026-11-07T09:27:18.881703+00:00",
       "source": {
         "name": "The Guardian",
         "url": "https://www.theguardian.com/environment/2026/nov/06/uk-dairy-farmers-face-squeeze-as-milk-processor-cuts-prices",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T05:14:45.610Z",
+        "accessCheckedAt": "2026-11-07T09:27:18.881703+00:00",
         "dateEvidence": "L'articolo indica Fri 6 Nov 2026 11.27 EST, aggiornato alle 11.46 EST.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Cattle%2C_Red_Hills_Farm_-_geograph.org.uk_-_985600.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cattle%2C_Red_Hills_Farm_-_geograph.org.uk_-_985600.jpg",
+        "alt": "Bovini da latte al pascolo presso Red Hills Farm",
+        "caption": "Repertorio · Bovini da latte al pascolo presso Red Hills Farm.",
+        "credit": "Trish Steel",
+        "rights": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "reuseApproved": true
+      },
+      "leadPriority": 85
     },
     {
       "id": "economia-crollo-borse-globali-titoli-ai-20261106",
@@ -38,16 +48,186 @@
         "Le vendite dei titoli tecnologici statunitensi si sono propagate venerdì ai listini asiatici ed europei. Il FTSE 100 ha recuperato parte delle perdite e il Nasdaq ha chiuso in rialzo dopo il forte ribasso del giorno precedente."
       ],
       "publishedAt": "2026-11-06",
-      "verifiedAt": "2026-11-07T05:14:45.610Z",
+      "verifiedAt": "2026-11-07T09:27:18.918728+00:00",
       "source": {
         "name": "The Guardian",
         "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T05:14:45.610Z",
+        "accessCheckedAt": "2026-11-07T09:27:18.918728+00:00",
         "dateEvidence": "L'articolo riporta First published on Fri 6 Nov 2026 03.58 EST, aggiornato alle 16.23 EST.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-bce-successione-lagarde-candidati-20261106",
+      "eventKey": "bce-successione-lagarde-candidati-20261106",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Bce, due candidati alla successione di Christine Lagarde",
+      "summary": "L’Eurogruppo ha ricevuto le candidature di Pablo Hernández de Cos e Klaas Knot. Un primo confronto tra i ministri dell’Eurozona è previsto il 9 novembre.",
+      "body": [
+        "L’Eurogruppo ha ricevuto le candidature di Pablo Hernández de Cos e Klaas Knot. Un primo confronto tra i ministri dell’Eurozona è previsto il 9 novembre."
+      ],
+      "publishedAt": "2026-11-06T17:33:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.183599+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/06/per-la-presidenza-a-bce-si-conferma-corsa-a-due-tra-spagna-e-olanda_733d33e6-7f30-48d2-b24d-a751684ff9a7.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.183599+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T17:33:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-mps-conti-nove-mesi-20261106",
+      "eventKey": "mps-conti-nove-mesi-20261106",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Mps, utile di 1,66 miliardi nei primi nove mesi",
+      "summary": "L’utile netto cresce del 21,2% rispetto allo stesso periodo del 2025. Il risultato del terzo trimestre è pari a 543 milioni di euro.",
+      "body": [
+        "L’utile netto cresce del 21,2% rispetto allo stesso periodo del 2025. Il risultato del terzo trimestre è pari a 543 milioni di euro."
+      ],
+      "publishedAt": "2026-11-06T08:16:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.134794+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/06/lutile-di-mps-sale-del-21-a-166-miliardi-il-trimestre-batte-le-attese_ef7dae9d-077f-4da1-bbdf-7db225a22a02.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.134794+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T08:16:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-ex-ilva-completato-spegnimento-area-caldo-20261106",
+      "eventKey": "ex-ilva-completato-spegnimento-area-caldo-20261106",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Ex Ilva di Taranto, completato lo spegnimento dell’area a caldo",
+      "summary": "Secondo quanto riferito da ANSA sull’incontro al ministero del Lavoro, la direzione ha comunicato ai sindacati che gli impianti dell’area a caldo sono spenti.",
+      "body": [
+        "Secondo quanto riferito da ANSA sull’incontro al ministero del Lavoro, la direzione ha comunicato ai sindacati che gli impianti dell’area a caldo sono spenti."
+      ],
+      "publishedAt": "2026-11-06T14:21:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.245138+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/06/tutti-spenti-gli-impianti-dellarea-a-caldo-dellex-ilva_7958b4e0-a2d1-4fb8-a1d7-4842a4085088.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.245138+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T14:21:00+0100.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ],
-  "reserveDraft": []
+  "reserveArticles": [
+    {
+      "id": "economia-italo-sciopero-9-novembre-revoca",
+      "eventKey": "italo-sciopero-9-novembre-revoca",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Italo, revocato lo sciopero del 9 novembre",
+      "summary": "La società riferisce che i sindacati hanno revocato lo sciopero dopo un provvedimento della Commissione di garanzia. Italo prevede la circolazione regolare dei propri treni.",
+      "body": [
+        "La società riferisce che i sindacati hanno revocato lo sciopero dopo un provvedimento della Commissione di garanzia. Italo prevede la circolazione regolare dei propri treni."
+      ],
+      "publishedAt": "2026-11-06T17:35:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.977168+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/06/italo-revocato-sciopero-del-9-novembre_f4fdcdef-9d0b-4df8-aaa4-542bd391e9df.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.977168+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T17:35:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-confcommercio-disagio-sociale-ottobre-2026",
+      "eventKey": "confcommercio-disagio-sociale-ottobre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Confcommercio, l’indice di disagio sociale sale a 13",
+      "summary": "La stima di ottobre aumenta di mezzo punto rispetto a settembre. Confcommercio attribuisce il rialzo soprattutto all’accelerazione dei prezzi.",
+      "body": [
+        "La stima di ottobre aumenta di mezzo punto rispetto a settembre. Confcommercio attribuisce il rialzo soprattutto all’accelerazione dei prezzi."
+      ],
+      "publishedAt": "2026-11-06T09:56:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.067529+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/06/confcommercio-misery-index-ottobre-sale-a-13-valore-piu-alto-dal-2023_123dfeba-739a-4e24-b8a7-7f8cbd322a42.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.067529+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T09:56:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-mimit-rilevazione-carburanti-20261106",
+      "eventKey": "mimit-rilevazione-carburanti-20261106",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Carburanti, il Mimit rileva un lieve calo dei prezzi medi",
+      "summary": "Il 6 novembre il ministero ha rilevato prezzi medi self sulla rete stradale di 2,003 euro al litro per la benzina e 2,227 per il gasolio.",
+      "body": [
+        "Il 6 novembre il ministero ha rilevato prezzi medi self sulla rete stradale di 2,003 euro al litro per la benzina e 2,227 per il gasolio."
+      ],
+      "publishedAt": "2026-11-06T09:32:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.051525+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/06/mimit-prezzi-carburanti-in-calo-benzina-self-a-2003-euro_b34f3539-38e3-4adc-adfe-2d500594175e.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.051525+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T09:32:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-pirelli-nove-mesi-2026",
+      "eventKey": "pirelli-nove-mesi-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Pirelli, utile in aumento nei primi nove mesi",
+      "summary": "Il gruppo ha comunicato un utile netto di 430,2 milioni, in crescita del 7,4%. Il consiglio ha approvato anche un programma di emissioni obbligazionarie.",
+      "body": [
+        "Il gruppo ha comunicato un utile netto di 430,2 milioni, in crescita del 7,4%. Il consiglio ha approvato anche un programma di emissioni obbligazionarie."
+      ],
+      "publishedAt": "2026-11-05T18:01:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.815492+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/05/pirelli-in-9-mesi-utile-74-a-4302-milioni_6df52638-24c2-4c84-9d31-7f14bb6a7513.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.815492+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-05T18:01:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-commissione-ue-tiktok-feed-dsa-20261106",
+      "eventKey": "commissione-ue-tiktok-feed-dsa-20261106",
+      "category": "Economia",
+      "status": "verified",
+      "title": "La Commissione europea contesta il sistema di raccomandazione di TikTok",
+      "summary": "La valutazione preliminare riguarda i rischi di contenuti ripetitivi nel feed e una possibile violazione del Digital Services Act. TikTok contesta le conclusioni.",
+      "body": [
+        "La valutazione preliminare riguarda i rischi di contenuti ripetitivi nel feed e una possibile violazione del Digital Services Act. TikTok contesta le conclusioni."
+      ],
+      "publishedAt": "2026-11-06T14:11:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:21.364350+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/economia/2026/11/06/ue-contro-tiktok-sul-feed-per-te-contenuti-dannosi-per-gli-utenti_873aefbb-baf6-4c1a-a988-08cb9e3433dc.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:21.364350+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T14:11:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "completedAt": "2026-11-07T09:30:26.551084+00:00"
 }

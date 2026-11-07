@@ -3,8 +3,6 @@
   "editionDate": "2026-11-07",
   "collectionId": "2026-11-07-mattina",
   "category": "Cronaca",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-07T05:14:45.610Z",
   "articles": [
     {
       "id": "cronaca-allarmi-bomba-voli-europa-20261106",
@@ -17,12 +15,12 @@
         "Venerdì almeno 18 collegamenti aerei europei sono stati interessati da allarmi bomba; gli aerei coinvolti sono atterrati senza incidenti e le ispezioni non hanno trovato esplosivi. Le autorità indagano sull'origine delle minacce."
       ],
       "publishedAt": "2026-11-06",
-      "verifiedAt": "2026-11-07T05:14:45.610Z",
+      "verifiedAt": "2026-11-07T09:27:19.290568+00:00",
       "source": {
         "name": "The Guardian",
         "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T05:14:45.610Z",
+        "accessCheckedAt": "2026-11-07T09:27:19.290568+00:00",
         "dateEvidence": "The Guardian indica First published on Fri 6 Nov 2026 08.34 EST e aggiornamento alle 12.14 EST.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -38,16 +36,186 @@
         "Un neonato è stato trovato in una borsa nella chiesa di San Gregorio Magno. Soccorso dal 118 e trasferito in ospedale, risultava in buone condizioni; i carabinieri stanno esaminando le immagini di videosorveglianza."
       ],
       "publishedAt": "2026-11-06",
-      "verifiedAt": "2026-11-07T05:14:45.610Z",
+      "verifiedAt": "2026-11-07T09:27:19.435963+00:00",
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it/cronaca/2026/11/06/roma-neonato-chiesa",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T05:14:45.610Z",
+        "accessCheckedAt": "2026-11-07T09:27:19.435963+00:00",
         "dateEvidence": "Sky TG24 mostra esplicitamente la data 06 nov 2026 - 19:25 sopra il testo dell'articolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-taranto-mensa-scolastica-morosita-20261107",
+      "eventKey": "taranto-mensa-scolastica-morosita-20261107",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Taranto, famiglia e Comune danno versioni diverse sul caso della mensa",
+      "summary": "La famiglia sostiene che la figlia non abbia potuto pranzare a scuola per un debito. Il Comune riferisce che la famiglia era stata avvisata e che la bambina era stata prelevata prima del pasto.",
+      "body": [
+        "La famiglia sostiene che la figlia non abbia potuto pranzare a scuola per un debito. Il Comune riferisce che la famiglia era stata avvisata e che la bambina era stata prelevata prima del pasto."
+      ],
+      "publishedAt": "2026-11-07T06:00:48+00:00",
+      "verifiedAt": "2026-11-07T09:27:16.941008+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/bimba-di-9-anni-esclusa-dalla-mensa-scolastica-per-un-debito-di-12-euro-la-denuncia-della-famiglia-9fd6e625-556a-4613-8c3d-89026fe1f08f.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:16.941008+00:00",
+        "dateEvidence": "Data riportata sulla pagina di RaiNews o nei metadati: 2026-11-07T06:00:48+0000.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-firenze-amministrazione-giudiziaria-moda-20261107",
+      "eventKey": "firenze-amministrazione-giudiziaria-moda-20261107",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Moda, due società in amministrazione giudiziaria a Firenze",
+      "summary": "Il tribunale ha disposto la misura per un anno nei confronti di Tessilform e Dixie nell’ambito di un’indagine sullo sfruttamento del lavoro presso fornitori. Tessilform riferisce di aver già interrotto i rapporti con i terzisti interessati.",
+      "body": [
+        "Il tribunale ha disposto la misura per un anno nei confronti di Tessilform e Dixie nell’ambito di un’indagine sullo sfruttamento del lavoro presso fornitori. Tessilform riferisce di aver già interrotto i rapporti con i terzisti interessati."
+      ],
+      "publishedAt": "2026-11-07T01:44:00+00:00",
+      "verifiedAt": "2026-11-07T09:27:16.903297+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/lombra-del-caporalato-sul-made-in-italy-colpiti-i-marchi-patrizia-pepe-e-dixie-dff91787-9709-4b74-bc95-c750862aa10d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:16.903297+00:00",
+        "dateEvidence": "Data riportata sulla pagina di RaiNews o nei metadati: 2026-11-07T01:44:00+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-sarno-incidente-stradale-20261107",
+      "eventKey": "sarno-incidente-stradale-20261107",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Sarno, una ragazza di 17 anni muore in un incidente",
+      "summary": "L’auto è uscita di strada e si è ribaltata in via San Valentino. Un altro occupante è rimasto ferito. La dinamica è in corso di accertamento.",
+      "body": [
+        "L’auto è uscita di strada e si è ribaltata in via San Valentino. Un altro occupante è rimasto ferito. La dinamica è in corso di accertamento."
+      ],
+      "publishedAt": "2026-11-07T09:37:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.195408+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/auto-finisce-fuori-strada-e-poi-si-ribalta-morta-17enne-nel-salernitano_4fcc5390-5c4d-4320-a20b-a2953a9ca667.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.195408+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-07T09:37:00+0100.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ],
-  "reserveDraft": []
+  "reserveArticles": [
+    {
+      "id": "cronaca-parma-furto-abitazione-toure-20261107",
+      "eventKey": "parma-furto-abitazione-toure-20261107",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Parma, la polizia indaga sul furto a casa di El Bilal Touré",
+      "summary": "Dall’abitazione dell’attaccante del Parma sono stati sottratti orologi e altri preziosi. Il valore riportato da ANSA è una stima.",
+      "body": [
+        "Dall’abitazione dell’attaccante del Parma sono stati sottratti orologi e altri preziosi. Il valore riportato da ANSA è una stima."
+      ],
+      "publishedAt": "2026-11-07T10:13:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.234144+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/furto-da-mezzo-milione-nella-villa-del-calciatore-del-parma-el-bilal_e8617f75-e8bd-42f2-8a86-04c95f9732bb.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.234144+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-07T10:13:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-ramy-elgaml-richiesta-perizia-20261106",
+      "eventKey": "ramy-elgaml-richiesta-perizia-20261106",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Caso Ramy, i pm chiedono ancora una perizia indipendente",
+      "summary": "La Procura di Milano vuole chiarire le divergenze tra le ricostruzioni dell’incidente in cui è morto Ramy Elgaml nel 2024. La richiesta è stata riproposta all’udienza preliminare.",
+      "body": [
+        "La Procura di Milano vuole chiarire le divergenze tra le ricostruzioni dell’incidente in cui è morto Ramy Elgaml nel 2024. La richiesta è stata riproposta all’udienza preliminare."
+      ],
+      "publishedAt": "2026-11-06T21:02:52+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.026159+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/i-pm-insistono-sul-caso-ramy-una-perizia-in-incidente-probatorio_c833b7dd-318c-4dcf-b55f-3629bfbbafd8.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.026159+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T21:02:52+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-genova-polizia-locale-richiesta-processo-20261106",
+      "eventKey": "genova-polizia-locale-richiesta-processo-20261106",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Genova, chiesto il processo per presunti abusi della polizia locale",
+      "summary": "L’inchiesta riguarda trenta agenti e altri due indagati. Le contestazioni sono a vario titolo e la richiesta della procura non equivale a una condanna.",
+      "body": [
+        "L’inchiesta riguarda trenta agenti e altri due indagati. Le contestazioni sono a vario titolo e la richiesta della procura non equivale a una condanna."
+      ],
+      "publishedAt": "2026-11-06T21:06:17+01:00",
+      "verifiedAt": "2026-11-07T09:27:19.939912+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/chiesto-il-processo-per-30-agenti-della-polizia-locale-di-genova_d28b0fd7-292b-45f8-b349-ff1a2bdbd3c8.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:19.939912+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T21:06:17+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-bergamasca-cessna-pilota-ritrovato-20261106",
+      "eventKey": "bergamasca-cessna-pilota-ritrovato-20261106",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Bergamasca, ritrovato morto il pilota del Cessna disperso",
+      "summary": "Il pilota è stato trovato a Pontida. Alcuni rottami erano stati individuati poco prima vicino all’abbazia di Fontanella.",
+      "body": [
+        "Il pilota è stato trovato a Pontida. Alcuni rottami erano stati individuati poco prima vicino all’abbazia di Fontanella."
+      ],
+      "publishedAt": "2026-11-06T19:18:04+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.131881+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/trovato-morto-il-pilota-del-cessna-disperso-nella-bergamasca_419546ed-5f0f-4ee5-91bf-68b962557e18.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.131881+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T19:18:04+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-scampia-cocaina-auto-sequestro-20261107",
+      "eventKey": "scampia-cocaina-auto-sequestro-20261107",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Scampia, sequestrati 84 chili di cocaina in un’auto",
+      "summary": "I carabinieri hanno trovato 71 panetti in due borsoni nel cofano di un’auto parcheggiata che risultava rubata.",
+      "body": [
+        "I carabinieri hanno trovato 71 panetti in due borsoni nel cofano di un’auto parcheggiata che risultava rubata."
+      ],
+      "publishedAt": "2026-11-07T09:25:00+01:00",
+      "verifiedAt": "2026-11-07T09:27:20.330625+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/maxi-sequestro-di-cocaina-a-scampia-84-chili-in-unauto-parcheggiata_b87ccd0c-037b-4ec2-b329-35a9dc1db1c6.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T09:27:20.330625+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-07T09:25:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "completedAt": "2026-11-07T09:30:26.552511+00:00"
 }
