@@ -1,4 +1,10 @@
 # Stamattina — stato operativo
+
+## Recupero 6 novembre pomeriggio — 7 novembre
+- Ciclo 2026-11-06-pomeriggio. Salvate 40 principali, cinque per categoria, e cinque foto Commons con licenze e crediti verificati. Ultimo checkpoint foto 7328dac7254ea364766669af4dd6791365cf5be7. Assemblaggio locale bilanciato e controllo HTTP indipendente delle 40 fonti e delle cinque foto superati.
+- Restano 40 aggiuntive e verifica finale. Rileggere le fonti se scadono le tre ore. Non datare nuovamente gli articoli. Escludere fonti pubblicate dopo le 19:00 del 6 novembre nel recupero storico.
+- Sul Mac, work/recover-nov6/repo contiene la proposta per l’avvio manuale arretrato, con ciclo esplicito, completezza 40+40, verifiche correnti e guardia contro la regressione. Modifica ancora locale. Il sito mantiene la mattutina del 4 novembre.
+
 ## Stato approvato
 - Mandato Fabio 4 novembre 2026: isolare mattina/pomeriggio, conservare dati e PWA, correggere e distribuire via GitHub senza API AI, dipendenze, credenziali o costi aggiuntivi.
 - Due automazioni ChatGPT e dodici avvii invariati. 5 principali + 5 aggiuntive per ognuna delle otto categorie; Tecnologia 3 Punto Informatico + 2 Everyeye, IGN solo fallback ammesso. Nessuna deroga a verifiche, fonti, date o foto.
