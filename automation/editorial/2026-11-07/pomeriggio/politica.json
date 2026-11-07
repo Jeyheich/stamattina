@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-07",
+  "collectionId": "2026-11-07-pomeriggio",
+  "category": "Politica",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-07T15:06:01.299Z",
+  "articles": [
+    {
+      "id": "politica-vannacci-coverciano-contestazioni-20261107",
+      "eventKey": "vannacci-coverciano-inaugurazione-contestazioni-20261107",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Contestazioni a Coverciano per l'apertura della sede di Futuro Nazionale",
+      "summary": "L'inaugurazione di una nuova sede del partito di Roberto Vannacci a Firenze è stata accompagnata da proteste e momenti di tensione tra manifestanti e forze dell'ordine.",
+      "body": [
+        "A Coverciano, durante l'inaugurazione della seconda sede fiorentina di Futuro Nazionale, un presidio di Firenze Antifascista ha contestato Roberto Vannacci. L'eurodeputato ha rivolto parole polemiche ai manifestanti.",
+        "Al termine dell'intervento alcuni contestatori hanno tentato di avvicinarsi al politico. Gli agenti sono intervenuti per separarli; Vannacci ha lasciato il luogo senza subire aggressioni fisiche, secondo il resoconto dell'agenzia."
+      ],
+      "publishedAt": "2026-11-07T13:58:00+01:00",
+      "verifiedAt": "2026-11-07T15:06:01.299Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/07/vannacci-inaugura-una-sede-di-fnv-a-coverciano-contestazioni-e-scontri_011c5b4a-75b0-49ef-9335-b9367fb45128.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T15:06:01.299Z",
+        "dateEvidence": "La pagina dell'articolo ANSA indica 07 novembre 2026, 13:58.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
+}
