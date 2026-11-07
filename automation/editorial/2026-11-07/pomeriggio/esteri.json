@@ -3,9 +3,71 @@
   "editionDate": "2026-11-07",
   "collectionId": "2026-11-07-pomeriggio",
   "category": "Esteri",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-07T15:06:08.826Z",
+  "completedAt": "2026-11-07T17:58:22.051319+00:00",
   "articles": [
+    {
+      "id": "esteri-cracovia-sparatoria-piazza-20261107",
+      "eventKey": "cracovia-sparatoria-piazza-20261107",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Sparatoria nel centro di Cracovia, almeno sei morti secondo il primo bilancio",
+      "summary": "RaiNews riferisce di almeno 15 feriti. La polizia ha fermato l’uomo che, secondo gli agenti, avrebbe sparato da un’auto. Il movente resta da chiarire.",
+      "body": [
+        "RaiNews riferisce di almeno 15 feriti. La polizia ha fermato l’uomo che, secondo gli agenti, avrebbe sparato da un’auto. Il movente resta da chiarire."
+      ],
+      "publishedAt": "2026-11-07T16:56:00+00:00",
+      "verifiedAt": "2026-11-07T17:55:50.947640+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/polonia-spari-sulla-folla-a-cracovia-morti-e-feriti-74ae4e70-8cca-49c5-a8e1-3ace721ce5f1.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T17:55:50.947640+00:00",
+        "dateEvidence": "Data della pagina originale di RaiNews, controllata con i metadati o la data del feed: 2026-11-07T16:56:00+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-trump-miller-reazioni-repubblicane-20261107",
+      "eventKey": "trump-miller-reazioni-repubblicane-20261107",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Casa Bianca, la nomina di Miller suscita critiche anche tra i repubblicani",
+      "summary": "Stephen Miller sostituisce Susie Wiles come capo dello staff. Il cambio dopo le elezioni di metà mandato ha suscitato critiche interne al partito.",
+      "body": [
+        "Stephen Miller sostituisce Susie Wiles come capo dello staff. Il cambio dopo le elezioni di metà mandato ha suscitato critiche interne al partito."
+      ],
+      "publishedAt": "2026-11-07T16:10:00+00:00",
+      "verifiedAt": "2026-11-07T17:55:51.168911+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/maratona/2026/11/dopo-londa-blu-trump-possiamo-collaborare-con-i-dem-c445ff6c-6393-46d9-9dc9-3ffb08b44d4d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T17:55:51.168911+00:00",
+        "dateEvidence": "Data della pagina originale di RaiNews, controllata con i metadati o la data del feed: 2026-11-07T16:10:00+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-paraguay-alliana-insediamento-ueno-20261107",
+      "eventKey": "paraguay-alliana-insediamento-ueno-20261107",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Paraguay, Alliana assume la presidenza dopo la destituzione di Peña",
+      "summary": "RaiNews riferisce che Peña è agli arresti domiciliari nell’inchiesta sulla Ueno Bank. Il nuovo presidente ha promesso interventi per i correntisti rimasti senza accesso ai risparmi.",
+      "body": [
+        "RaiNews riferisce che Peña è agli arresti domiciliari nell’inchiesta sulla Ueno Bank. Il nuovo presidente ha promesso interventi per i correntisti rimasti senza accesso ai risparmi."
+      ],
+      "publishedAt": "2026-11-07T14:40:00+00:00",
+      "verifiedAt": "2026-11-07T17:55:51.297746+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/paraguay-arrestato-lex-presidente-pea-per-il-caso-ueno-bank-31739406-8564-4c4a-a7db-a22333231901.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T17:55:51.297746+00:00",
+        "dateEvidence": "Data della pagina originale di RaiNews, controllata con i metadati o la data del feed: 2026-11-07T14:40:00+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
     {
       "id": "esteri-germania-patriot-ucraina-pistorius-20261107",
       "eventKey": "germania-pistorius-stop-ulteriori-patriot-ucraina-20261107",
@@ -18,13 +80,155 @@
         "Pistorius ha chiesto ai partner internazionali un contributo maggiore, indicando la prossima riunione del Gruppo di contatto per l'Ucraina, prevista a metà novembre, come occasione per affrontare il problema."
       ],
       "publishedAt": "2026-11-07T15:14:00+01:00",
-      "verifiedAt": "2026-11-07T15:06:08.826Z",
+      "verifiedAt": "2026-11-07T17:55:54.068126+00:00",
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/pistorius-al-momento-non-possiamo-piu-dare-patriot-a-kiev_864ac63b-1f0c-4f82-9a7c-970f1720e2ef.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T15:06:08.826Z",
+        "accessCheckedAt": "2026-11-07T17:55:54.068126+00:00",
         "dateEvidence": "Nell'articolo ANSA compare ROMA, 07 novembre 2026, 15:14.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-israele-eisenkot-proposta-governo-emergenza-20261106",
+      "eventKey": "israele-eisenkot-proposta-governo-emergenza-20261106",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Israele, Eisenkot propone un governo di emergenza",
+      "summary": "Il leader di Yashar ha detto di sperare di ricevere l’incarico all’inizio della settimana e propone di partire dai partiti del blocco del cambiamento.",
+      "body": [
+        "Il leader di Yashar ha detto di sperare di ricevere l’incarico all’inizio della settimana e propone di partire dai partiti del blocco del cambiamento.",
+        "La proposta prevede di ampliare il sostegno parlamentare a partire dai partiti del blocco del cambiamento.",
+        "Eisenkot ha espresso l’intenzione di cercare un sostegno parlamentare più ampio. La formazione del governo resta da definire."
+      ],
+      "publishedAt": "2026-11-06T15:18:00+01:00",
+      "verifiedAt": "2026-11-07T17:55:55.323315+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/06/eisenkot-nutro-la-speranza-di-formare-il-nuovo-governo-un-esecutivo-di-emergenza_07d9e7f2-608f-4aec-a43e-988329c1f67c.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T17:55:55.323315+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T15:18:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Knesset_Building_%28From_Front%29.JPG",
+        "alt": "La Knesset, Gerusalemme",
+        "credit": "Effib",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG",
+        "rights": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · La Knesset, Gerusalemme. Fotografia non riferita agli eventi di oggi.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      },
+      "leadPriority": 85
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "esteri-oleshky-reportage-civili-20261107",
+      "eventKey": "oleshky-reportage-civili-20261107",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Oleshky, il Tg1 racconta la vita dei civili sulla linea del fronte",
+      "summary": "La troupe ha raggiunto la città occupata con i militari russi. Il reportage raccoglie testimonianze sulle difficoltà di accesso a viveri, riscaldamento e medicinali.",
+      "body": [
+        "La troupe ha raggiunto la città occupata con i militari russi. Il reportage raccoglie testimonianze sulle difficoltà di accesso a viveri, riscaldamento e medicinali."
+      ],
+      "publishedAt": "2026-11-07T14:27:00+00:00",
+      "verifiedAt": "2026-11-07T17:55:51.245916+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/ucraina-nellinferno-di-oleshky-la-citta-occupata-dai-russi-d84e610b-1310-4d81-a70a-9fbb18fe8aa9.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T17:55:51.245916+00:00",
+        "dateEvidence": "Data della pagina originale di RaiNews, controllata con i metadati o la data del feed: 2026-11-07T14:27:00+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-leone-vespri-montevideo-20261107",
+      "eventKey": "leone-vespri-montevideo-20261107",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Papa Leone XIV celebra i Vespri a Montevideo",
+      "summary": "Il pontefice ha concluso la prima giornata in Uruguay con la preghiera nella cattedrale metropolitana. Il viaggio proseguirà in Argentina e Perù.",
+      "body": [
+        "Il pontefice ha concluso la prima giornata in Uruguay con la preghiera nella cattedrale metropolitana. Il viaggio proseguirà in Argentina e Perù."
+      ],
+      "publishedAt": "2026-11-07T05:56:00+00:00",
+      "verifiedAt": "2026-11-07T17:55:55.241761+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/papa-leone-conclude-la-prima-giornata-in-uruguay-a-montevideo-bf86e13e-b145-4256-9608-e87df3cca950.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T17:55:55.241761+00:00",
+        "dateEvidence": "Data riportata sulla pagina di RaiNews o nei metadati: 2026-11-07T05:56:00+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-qeshm-usa-iran-dichiarazioni-20261107",
+      "eventKey": "qeshm-usa-iran-dichiarazioni-20261107",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Qeshm, Trump conferma un’azione statunitense in Iran",
+      "summary": "Trump ha detto che le forze statunitensi hanno colpito un dispositivo antiaereo. L’agenzia iraniana Tasnim ha riferito segnalazioni iniziali di due missili e ha precisato che mancavano informazioni ufficiali sui danni.",
+      "body": [
+        "Trump ha detto che le forze statunitensi hanno colpito un dispositivo antiaereo. L’agenzia iraniana Tasnim ha riferito segnalazioni iniziali di due missili e ha precisato che mancavano informazioni ufficiali sui danni."
+      ],
+      "publishedAt": "2026-11-07T07:53:28+01:00",
+      "verifiedAt": "2026-11-07T17:55:55.401809+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/07/liran-esercito-piu-forte-dallinizio-della-guerra.-attacco-rapido-usa_d3eb6266-aaec-4271-9d11-336fd196698b.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T17:55:55.401809+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-07T07:53:28+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-francia-manifestazioni-dispositivo-20261107",
+      "eventKey": "francia-manifestazioni-dispositivo-20261107",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Francia, il governo annuncia 70.000 agenti per i cortei",
+      "summary": "Il ministro dell’Interno Laurent Nuñez ha confermato il dispositivo per le manifestazioni del 7 novembre, promosse dai sindacati con la partecipazione di studenti e gilet gialli.",
+      "body": [
+        "Il ministro dell’Interno Laurent Nuñez ha confermato il dispositivo per le manifestazioni del 7 novembre, promosse dai sindacati con la partecipazione di studenti e gilet gialli."
+      ],
+      "publishedAt": "2026-11-06T18:27:00+01:00",
+      "verifiedAt": "2026-11-07T17:55:55.381360+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/06/domani-la-francia-di-nuovo-in-piazza-polizia-schierata-al-massimo-con-70.000-agenti_707c8697-f1ce-4ab9-85ed-1b3735e589f2.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T17:55:55.381360+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T18:27:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-francia-scuolabus-lent-inchiesta-20261106",
+      "eventKey": "francia-scuolabus-lent-inchiesta-20261106",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Francia, due morti nell’incidente di uno scuolabus",
+      "summary": "Il mezzo è uscito di strada vicino a Lent, nel dipartimento dell’Ain. La procura ha aperto un’inchiesta per chiarire la dinamica.",
+      "body": [
+        "Il mezzo è uscito di strada vicino a Lent, nel dipartimento dell’Ain. La procura ha aperto un’inchiesta per chiarire la dinamica."
+      ],
+      "publishedAt": "2026-11-06T10:09:36+00:00",
+      "verifiedAt": "2026-11-07T17:55:55.631470+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/scuolabus-esce-fuori-strada-in-francia-morti-feriti-minori-8cb291e2-3a48-4b50-8973-cd5df334a56b.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T17:55:55.631470+00:00",
+        "dateEvidence": "Data riportata sulla pagina di RaiNews o nei metadati: 2026-11-06T10:09:36+0000.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }

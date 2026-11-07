@@ -3,9 +3,105 @@
   "editionDate": "2026-11-07",
   "collectionId": "2026-11-07-pomeriggio",
   "category": "Politica",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-07T15:06:01.299Z",
+  "completedAt": "2026-11-07T17:58:22.050723+00:00",
   "articles": [
+    {
+      "id": "politica-anac-salvini-nuovo-nome-cdm-20261107",
+      "eventKey": "anac-salvini-nuovo-nome-cdm-20261107",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Anac, Salvini annuncia un nuovo nome per il Consiglio dei ministri",
+      "summary": "Dopo il ritiro di Trifone Altieri, il vicepremier ha detto che lunedì sarà proposto un altro nome. La nuova nomina deve ancora essere decisa.",
+      "body": [
+        "Dopo il ritiro di Trifone Altieri, il vicepremier ha detto che lunedì sarà proposto un altro nome. La nuova nomina deve ancora essere decisa.",
+        "La prima designazione aveva aperto un confronto tra maggioranza e opposizioni sulla compatibilità del candidato con l’incarico."
+      ],
+      "publishedAt": "2026-11-07T11:31:00+00:00",
+      "verifiedAt": "2026-11-07T17:55:50.999113+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/11/07/anac-altieri",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T17:55:50.999113+00:00",
+        "dateEvidence": "Data della pagina originale di Sky TG24, controllata con i metadati o la data del feed: 2026-11-07T11:31:00+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PalazzoChigi.jpeg",
+        "alt": "Palazzo Chigi, Roma",
+        "credit": "Arepo",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg",
+        "rights": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · Palazzo Chigi, Roma. Fotografia non riferita agli eventi di oggi.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      },
+      "leadPriority": 85
+    },
+    {
+      "id": "politica-coalizione-centrosinistra-tavoli-programma-20261107",
+      "eventKey": "coalizione-centrosinistra-tavoli-programma-20261107",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Centrosinistra, avviato il confronto sul programma nazionale",
+      "summary": "Le forze della coalizione hanno tenuto la prima riunione e annunciano dieci tavoli tematici. Puntano a definire le basi del programma entro fine novembre.",
+      "body": [
+        "Le forze della coalizione hanno tenuto la prima riunione e annunciano dieci tavoli tematici. Puntano a definire le basi del programma entro fine novembre."
+      ],
+      "publishedAt": "2026-11-07T16:42:10+00:00",
+      "verifiedAt": "2026-11-07T17:55:50.648050+00:00",
+      "source": {
+        "name": "Open",
+        "url": "https://www.open.online/2026/11/07/campo-largo-riunione-programma-governo-gualtieri-roma/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T17:55:50.648050+00:00",
+        "dateEvidence": "Data della pagina originale di Open, controllata con i metadati o la data del feed: 2026-11-07T16:42:10+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-tajani-diffusione-dati-risposta-20261107",
+      "eventKey": "tajani-diffusione-dati-risposta-20261107",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Tajani denuncia la diffusione di suoi dati sul dark web",
+      "summary": "Il ministro ha detto di essere nel mirino per la posizione italiana sull’Ucraina. Palazzo Chigi ha espresso preoccupazione per la diffusione di informazioni riservate.",
+      "body": [
+        "Il ministro ha detto di essere nel mirino per la posizione italiana sull’Ucraina. Palazzo Chigi ha espresso preoccupazione per la diffusione di informazioni riservate."
+      ],
+      "publishedAt": "2026-11-07T13:00:00+00:00",
+      "verifiedAt": "2026-11-07T17:55:52.188340+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/07/antonio-tajani-dati-dark-web-russia",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T17:55:52.188340+00:00",
+        "dateEvidence": "Data della pagina originale di Sky TG24, controllata con i metadati o la data del feed: 2026-11-07T13:00:00+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-ddl-bilancio-tabacchi-accise-20261107",
+      "eventKey": "ddl-bilancio-tabacchi-accise-20261107",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Nel disegno di legge di bilancio due rialzi per i tabacchi nel 2027",
+      "summary": "Il testo all’esame del Parlamento anticipa a luglio un aumento che era previsto per il 2028 e lo aggiunge a quello di gennaio. Le misure sono ancora in discussione.",
+      "body": [
+        "Il testo all’esame del Parlamento anticipa a luglio un aumento che era previsto per il 2028 e lo aggiunge a quello di gennaio. Le misure sono ancora in discussione."
+      ],
+      "publishedAt": "2026-11-07T13:28:57+00:00",
+      "verifiedAt": "2026-11-07T17:55:50.625541+00:00",
+      "source": {
+        "name": "Open",
+        "url": "https://www.open.online/2026/11/07/manovra-2027-aumenti-tabacchi-sigarette-stop-ecommerce/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T17:55:50.625541+00:00",
+        "dateEvidence": "Data della pagina originale di Open, controllata con i metadati o la data del feed: 2026-11-07T13:28:57+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
     {
       "id": "politica-vannacci-coverciano-contestazioni-20261107",
       "eventKey": "vannacci-coverciano-inaugurazione-contestazioni-20261107",
@@ -18,13 +114,121 @@
         "Al termine dell'intervento alcuni contestatori hanno tentato di avvicinarsi al politico. Gli agenti sono intervenuti per separarli; Vannacci ha lasciato il luogo senza subire aggressioni fisiche, secondo il resoconto dell'agenzia."
       ],
       "publishedAt": "2026-11-07T13:58:00+01:00",
-      "verifiedAt": "2026-11-07T15:06:01.299Z",
+      "verifiedAt": "2026-11-07T17:55:54.012695+00:00",
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it/sito/notizie/politica/2026/11/07/vannacci-inaugura-una-sede-di-fnv-a-coverciano-contestazioni-e-scontri_011c5b4a-75b0-49ef-9335-b9367fb45128.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-07T15:06:01.299Z",
+        "accessCheckedAt": "2026-11-07T17:55:54.012695+00:00",
         "dateEvidence": "La pagina dell'articolo ANSA indica 07 novembre 2026, 13:58.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [
+    {
+      "id": "politica-governo-ricorso-fine-vita-veneto-20261106",
+      "eventKey": "governo-ricorso-fine-vita-veneto-20261106",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Fine vita, il ricorso sulla legge veneta riapre il confronto",
+      "summary": "L’impugnazione del governo riporta in primo piano il dibattito sulla mancanza di una legge nazionale.",
+      "body": [
+        "L’impugnazione del governo riporta in primo piano il dibattito sulla mancanza di una legge nazionale."
+      ],
+      "publishedAt": "2026-11-06T17:23:42+00:00",
+      "verifiedAt": "2026-11-07T17:55:54.733914+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/video/2026/11/06/legge-fine-vita-italia-1137987",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T17:55:54.733914+00:00",
+        "dateEvidence": "Data riportata sulla pagina di Sky TG24 o nei metadati: 2026-11-06T17:23:42+00:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-speranza-commissione-covid-20261106",
+      "eventKey": "speranza-commissione-covid-20261106",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Commissione Covid, nuove tensioni durante l’audizione di Speranza",
+      "summary": "La commissione ha ascoltato per la seconda volta l’ex ministro della Salute. La presidenza ha sospeso più volte la seduta durante gli scontri tra maggioranza e opposizioni.",
+      "body": [
+        "La commissione ha ascoltato per la seconda volta l’ex ministro della Salute. La presidenza ha sospeso più volte la seduta durante gli scontri tra maggioranza e opposizioni."
+      ],
+      "publishedAt": "2026-11-06T18:10:00+01:00",
+      "verifiedAt": "2026-11-07T17:55:54.714437+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/06/nuovo-scontro-in-commissione-covid-scintille-fdi-speranza_6075f4ca-9f2a-40b0-b474-c7e4634abb58.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T17:55:54.714437+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T18:10:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-mattarella-ascolto-giovani-20261106",
+      "eventKey": "mattarella-ascolto-giovani-20261106",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Mattarella chiede più ascolto per i giovani",
+      "summary": "Al Quirinale, il presidente della Repubblica ha richiamato l’attenzione sulle conseguenze dei conflitti e dei traumi per le nuove generazioni.",
+      "body": [
+        "Al Quirinale, il presidente della Repubblica ha richiamato l’attenzione sulle conseguenze dei conflitti e dei traumi per le nuove generazioni."
+      ],
+      "publishedAt": "2026-11-06T13:10:00+01:00",
+      "verifiedAt": "2026-11-07T17:55:54.806839+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/06/mattarella-domandiamoci-se-sappiamo-ascoltare-adeguatamente-i-giovani_db2c46de-4906-4ed8-b711-f5454d369d1a.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T17:55:54.806839+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T13:10:00+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-consulta-bartolozzi-camera-20261106",
+      "eventKey": "consulta-bartolozzi-camera-20261106",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Caso Almasri, la Consulta chiarisce come possono procedere i pm",
+      "summary": "I magistrati possono proseguire l’indagine su Giusi Bartolozzi per presunte false dichiarazioni. Prima dovranno informare la Camera.",
+      "body": [
+        "I magistrati possono proseguire l’indagine su Giusi Bartolozzi per presunte false dichiarazioni. Prima dovranno informare la Camera."
+      ],
+      "publishedAt": "2026-11-06T18:32:24+01:00",
+      "verifiedAt": "2026-11-07T17:55:54.946055+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/i-pm-possono-procedere-su-giusi-bartolozzi-per-false-dichiarazioni_74eb6ec2-3f83-44f8-ae3f-ec47cd839574.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T17:55:54.946055+00:00",
+        "dateEvidence": "Data riportata sulla pagina di ANSA o nei metadati: 2026-11-06T18:32:24+0100.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-decreto-bollette-rinvio-cdm-20261105",
+      "eventKey": "rinvio-decreto-bollette-cdm-20261105",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Decreto bollette rinviato: il governo punta al 9 novembre",
+      "summary": "Il Consiglio dei ministri ha rinviato l'approvazione del decreto destinato a ridurre i costi di elettricità e gas per famiglie e imprese. Il ministero dell'Ambiente indica lunedì 9 novembre come prossima occasione per il voto.",
+      "body": [
+        "Il decreto bollette non ha ricevuto il via libera nella riunione del Consiglio dei ministri del 5 novembre. La Ragioneria ha chiesto chiarimenti sul coordinamento temporale tra risorse e impieghi; secondo fonti governative occorrono inoltre adempimenti dell'Arera.",
+        "Il ministero dell'Ambiente considera definitivo il testo illustrato in Consiglio e prevede un nuovo esame lunedì 9 novembre. La misura resta dunque in attesa di approvazione, senza effetti già operativi."
+      ],
+      "publishedAt": "2026-11-05T17:38:00+01:00",
+      "verifiedAt": "2026-11-07T17:55:54.849669+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/05/in-cdm-slitta-ancora-lapprovazione-del-decreto-bollette_8d67ddb9-4bd5-4ec2-bcd1-c3d360b2e537.html",
+        "dateEvidence": "La pagina ANSA riporta ROMA, 05 novembre 2026, 17:38.",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T17:55:54.849669+00:00",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
