@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-07",
-  "checkedAt": "2026-11-07T05:03:22.813Z",
+  "checkedAt": "2026-11-07T05:14:59.588Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -22,11 +22,17 @@
     {
       "slug": "esteri",
       "count": 1
+    },
+    {
+      "slug": "economia",
+      "count": 2
+    },
+    {
+      "slug": "cronaca",
+      "count": 2
     }
   ],
   "missing": [
-    "economia",
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -46,6 +52,34 @@
       "category": "Esteri",
       "title": "Ucraina, apertura ai colloqui trilaterali ma Mosca esclude una tregua",
       "eventKey": "ucraina-russia-proposta-negoziati-trilaterali-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "economia-taglio-prezzo-latte-freshways-20261106",
+      "category": "Economia",
+      "title": "Latte britannico, Freshways taglia il prezzo ai produttori",
+      "eventKey": "taglio-prezzo-latte-freshways-20261106",
+      "pending": true
+    },
+    {
+      "id": "economia-crollo-borse-globali-titoli-ai-20261106",
+      "category": "Economia",
+      "title": "Borse globali in calo, pesa il timore di una frenata dell'AI",
+      "eventKey": "crollo-borse-globali-titoli-ai-20261106",
+      "pending": true
+    },
+    {
+      "id": "cronaca-allarmi-bomba-voli-europa-20261106",
+      "category": "Cronaca",
+      "title": "Nuovi allarmi bomba: coinvolti almeno 18 voli europei",
+      "eventKey": "allarmi-bomba-voli-europa-20261106",
+      "pending": true
+    },
+    {
+      "id": "cronaca-neonato-ritrovato-chiesa-magliana-20261106",
+      "category": "Cronaca",
+      "title": "Roma, neonato trovato in una chiesa alla Magliana",
+      "eventKey": "neonato-ritrovato-chiesa-magliana-20261106",
       "pending": true
     }
   ],
