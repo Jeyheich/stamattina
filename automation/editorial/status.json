@@ -1,6 +1,6 @@
 {
-  "editionDate": "2026-11-06",
-  "checkedAt": "2026-11-06T16:18:39.094Z",
+  "editionDate": "2026-11-07",
+  "checkedAt": "2026-11-07T00:24:52.970Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,98 +14,20 @@
     "sport"
   ],
   "completed": [],
-  "inProgress": [
-    {
-      "slug": "economia",
-      "count": 4
-    },
-    {
-      "slug": "cronaca",
-      "count": 3
-    },
-    {
-      "slug": "cultura",
-      "count": 2
-    }
-  ],
+  "inProgress": [],
   "missing": [
     "politica",
     "esteri",
+    "economia",
+    "cronaca",
     "roma",
+    "cultura",
+    "tecnologia",
     "sport"
   ],
-  "invalid": [
-    {
-      "slug": "tecnologia",
-      "reason": "Data fonte mancante"
-    }
-  ],
-  "stories": [
-    {
-      "id": "economia-case-regno-unito-calo-ottobre-2026",
-      "category": "Economia",
-      "title": "Regno Unito, prezzi delle case in calo dello 0,6% a ottobre",
-      "eventKey": "case-regno-unito-calo-ottobre-2026",
-      "pending": true
-    },
-    {
-      "id": "economia-regno-unito-obbligo-stipendi-annunci-lavoro-2026",
-      "category": "Economia",
-      "title": "Regno Unito, annunci di lavoro con stipendio obbligatorio nella proposta del governo",
-      "eventKey": "regno-unito-obbligo-stipendi-annunci-lavoro-2026",
-      "pending": true
-    },
-    {
-      "id": "economia-londra-scioperi-metropolitana-rmt-novembre-2026",
-      "category": "Economia",
-      "title": "Londra, otto scioperi annunciati dai macchinisti della metropolitana",
-      "eventKey": "londra-scioperi-metropolitana-rmt-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "economia-panipat-riciclo-tessile-infortuni-lavoratori-2026",
-      "category": "Economia",
-      "title": "India, il riciclo tessile di Panipat espone i lavoratori a gravi incidenti",
-      "eventKey": "panipat-riciclo-tessile-infortuni-lavoratori-2026",
-      "pending": true
-    },
-    {
-      "id": "cronaca-pietracatella-perquisizione-casa-di-vita-novembre-2026",
-      "category": "Cronaca",
-      "title": "Pietracatella, nuova perquisizione nell'abitazione delle vittime",
-      "eventKey": "pietracatella-perquisizione-casa-di-vita-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "cronaca-foro-italico-roma-denunciata-conducente-incidente-2026",
-      "category": "Cronaca",
-      "title": "Roma, denunciata una ventunenne dopo l'incidente mortale al Foro Italico",
-      "eventKey": "foro-italico-roma-denunciata-conducente-incidente-2026",
-      "pending": true
-    },
-    {
-      "id": "cronaca-milano-siher-procura-rinuncia-riesame-2026",
-      "category": "Cronaca",
-      "title": "Milano, la Procura rinuncia al Riesame nel caso Siher",
-      "eventKey": "milano-siher-procura-rinuncia-riesame-2026",
-      "pending": true
-    },
-    {
-      "id": "cultura-pirandello-serafino-gubbio-mercadante-2026",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Pirandello al Ridotto del Mercadante: Serafino Gubbio osserva il potere delle immagini",
-      "eventKey": "pirandello-serafino-gubbio-mercadante-2026",
-      "pending": true
-    },
-    {
-      "id": "cultura-virgilio-sieni-preghiera-tempi-guerra-torino-2026",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Virgilio Sieni porta a Torino undici preghiere danzate contro la guerra",
-      "eventKey": "virgilio-sieni-preghiera-tempi-guerra-torino-2026",
-      "pending": true
-    }
-  ],
-  "collectionId": "2026-11-06-pomeriggio",
+  "invalid": [],
+  "stories": [],
+  "collectionId": "2026-11-07-mattina",
   "reserveCounts": {
     "Politica": 0,
     "Esteri": 0,
