@@ -1,8 +1,12 @@
 # Stamattina — stato operativo
 
+## Decisione di pubblicazione — 7 novembre
+- Fabio autorizza la sola base del ciclo 2026-11-06-pomeriggio: 40 principali e cinque foto. La pubblicazione è richiesta tramite il commit dedicato «Pubblica la base verificata del 6 novembre 2026». Le verifiche di fonti e foto e il blocco contro la regressione del ciclo pubblico restano obbligatori.
+- Dal 7 novembre la promozione attende 40 principali e 40 aggiuntive verificate. Il recupero manuale degli altri arretrati conserva il requisito 40+40. Il ciclo del 6 rimane editorialmente incompleto.
+
 ## Recupero 6 novembre pomeriggio — 7 novembre
 - Ciclo 2026-11-06-pomeriggio. Salvate 40 principali, cinque per categoria, e cinque foto Commons con licenze e crediti verificati. Ultimo checkpoint foto 7328dac7254ea364766669af4dd6791365cf5be7. Assemblaggio locale bilanciato e controllo HTTP indipendente delle 40 fonti e delle cinque foto superati.
-- Restano 40 aggiuntive e verifica finale. Rileggere le fonti se scadono le tre ore. Non datare nuovamente gli articoli. Escludere fonti pubblicate dopo le 19:00 del 6 novembre nel recupero storico.
+- Il piano precedente prevedeva 40 aggiuntive e verifica finale. Rileggere le fonti se scadono le tre ore. Non datare nuovamente gli articoli. Escludere fonti pubblicate dopo le 19:00 del 6 novembre nel recupero storico.
 - Recupero arretrato: in Pubblica Stamattina, avvio manuale su main con collectionId esplicito e recoverOlderEdition attivo. Mantiene la data originale e richiede 40+40, cinque foto, verifiche recenti e un ciclo almeno pari a quello pubblico. Le pubblicazioni automatiche dei cicli arretrati restano escluse. Il sito mantiene la mattutina del 4 novembre finché il recupero non supera i controlli.
 
 ## Stato approvato

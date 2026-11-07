@@ -88,7 +88,10 @@ def verify(edition):
         raise ValueError('Edizione non reale')
     today = NOW.astimezone(ZoneInfo('Europe/Rome')).date().isoformat()
     day = edition['editionDate']
-    if day != today:
+    release_base = (edition.get('collectionId') == '2026-11-06-pomeriggio'
+                    and day == '2026-11-06'
+                    and os.environ.get('EDITORIAL_RELEASE_NOV6_BASE') == 'true')
+    if day != today and not release_base:
         event_path = os.environ.get('GITHUB_EVENT_PATH')
         event = {}
         if os.environ.get('GITHUB_EVENT_NAME') == 'workflow_dispatch' and event_path:
@@ -98,8 +101,9 @@ def verify(edition):
         inputs = event.get('inputs', {})
         if day >= today or not cycle or inputs.get('recoverOlderEdition') != 'true' or inputs.get('collectionId') != cycle:
             raise ValueError('Edizione arretrata: selezionare esplicitamente il ciclo in un avvio manuale')
+    if not release_base and (day != today or day >= '2026-11-07'):
         if len(edition['articles']) != 80 or len(edition.get('reserveIds', [])) != 40:
-            raise ValueError('Edizione arretrata: servono 40 principali e 40 aggiuntive')
+            raise ValueError('Servono 40 principali e 40 aggiuntive')
     if not -300 <= (NOW - instant(edition['generatedAt'])).total_seconds() <= 10800:
         raise ValueError('Edizione preparata troppo tempo fa o con ora futura')
     articles = edition['articles']

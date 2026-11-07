@@ -4,7 +4,7 @@ import crypto from 'node:crypto';
 import assert from 'node:assert/strict';
 import {fileURLToPath} from 'node:url';
 import {validate} from './validate.mjs';
-import {parseCycle,cyclePath,selectCycle,readBlocks,ingestLegacy,writeJSON} from './editorial_cycles.mjs';
+import {parseCycle,cyclePath,selectCycle,readBlocks,ingestLegacy,writeJSON,november6BaseCycle} from './editorial_cycles.mjs';
 
 export const categories = [
   ['politica','Politica'],['esteri','Esteri'],['economia','Economia'],
@@ -98,9 +98,12 @@ export function runAssembly({root='automation/editorial',cycle,now=Date.now(),hi
  const canAdvance=!current?.collectionId||selected>=current.collectionId;
  const today=romeDay(new Date(now));
  const recovery=process.env.EDITORIAL_RECOVERY==='true';
- const canPublishDate=day===today||day<today&&recovery&&result.state.editorialComplete;
- result.state.needsPublication=!!result.edition&&current?.id!==result.edition.id&&canAdvance&&canPublishDate;
- if(result.edition&&!canPublishDate)result.state.publicationBlocked='Ciclo arretrato: richiesti avvio manuale e 40+40';
+ const releaseBase=selected===november6BaseCycle&&process.env.EDITORIAL_RELEASE_NOV6_BASE==='true';
+ const canPublishDate=day===today||day<today&&(recovery||releaseBase);
+ const hasRequiredReserves=result.state.editorialComplete||releaseBase||day<'2026-11-07'&&day===today;
+ result.state.needsPublication=!!result.edition&&current?.id!==result.edition.id&&canAdvance&&canPublishDate&&hasRequiredReserves;
+ if(result.edition&&!canPublishDate)result.state.publicationBlocked='Ciclo arretrato: richiesto avvio esplicito';
+ if(result.edition&&!hasRequiredReserves)result.state.publicationBlocked='Servono tutte le 40 aggiuntive';
  result.state.publicCollectionId=current?.collectionId;
  if(!canAdvance)result.state.publicationBlocked='Ciclo precedente a quello online';
  if(current?.id===result.state.editionId&&previous?.publicEditionId===current.id&&previous.publication==='verified'){

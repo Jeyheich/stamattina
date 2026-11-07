@@ -1,8 +1,9 @@
 import fs from 'node:fs';
 import {execFileSync} from 'node:child_process';
-import {parseCycle,selectCycle} from './editorial_cycles.mjs';
+import {parseCycle,selectCycle,november6BaseCycle,november6BaseCommit} from './editorial_cycles.mjs';
 const event=JSON.parse(fs.readFileSync(process.env.GITHUB_EVENT_PATH));
-let selected=event.inputs?.collectionId;
+const releaseBase=process.env.GITHUB_EVENT_NAME==='push' && event.head_commit?.message===november6BaseCommit;
+let selected=releaseBase?november6BaseCycle:event.inputs?.collectionId;
 const recovery=process.env.GITHUB_EVENT_NAME==='workflow_dispatch' && event.inputs?.recoverOlderEdition==='true';
 if(recovery&&!selected)throw Error('Selezionare il ciclo da recuperare');
 if(!selected&&process.env.GITHUB_EVENT_NAME==='push'){
@@ -17,5 +18,5 @@ if(!selected&&process.env.GITHUB_EVENT_NAME==='push'){
  selected=[...cycles][0];
 }
 selected=selectCycle({explicit:selected,scheduledAt:event.head_commit?.timestamp});
-fs.appendFileSync(process.env.GITHUB_ENV,'EDITORIAL_COLLECTION_ID='+selected+'\nEDITORIAL_RECOVERY='+recovery+'\n');
+fs.appendFileSync(process.env.GITHUB_ENV,'EDITORIAL_COLLECTION_ID='+selected+'\nEDITORIAL_RECOVERY='+recovery+'\nEDITORIAL_RELEASE_NOV6_BASE='+releaseBase+'\n');
 console.log('Ciclo selezionato dal contenuto dell evento, indipendente dal ritardo: '+selected);

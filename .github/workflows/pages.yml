@@ -67,7 +67,7 @@ jobs:
             if [ "$EDITORIAL_RECOVERY" != 'true' ]; then
               echo 'ui=true' >> "$GITHUB_OUTPUT"
             fi
-          elif ! git diff --quiet "$BEFORE" "$GITHUB_SHA" -- dist scripts .github/workflows/pages.yml; then
+          elif [ "$EDITORIAL_RELEASE_NOV6_BASE" != 'true' ] && ! git diff --quiet "$BEFORE" "$GITHUB_SHA" -- dist scripts .github/workflows/pages.yml; then
             echo 'ui=true' >> "$GITHUB_OUTPUT"
           fi
       - name: Controlla fonti, foto e date prima della pubblicazione

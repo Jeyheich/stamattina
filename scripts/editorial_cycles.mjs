@@ -61,3 +61,7 @@ export function ingestLegacy(root,day,{history=false}={}){
  for(const slug of slugs){const file=path.join(root,day,slug+'.json');if(fs.existsSync(file)){try{ingest(JSON.parse(fs.readFileSync(file)),slug,file);}catch(e){errors.push({slug,reason:e.message});}}}
  writeJSON(ledgerFile,ledger);return errors;
 }
+
+// Explicit, single-cycle authorization to release the verified November 6 base.
+export const november6BaseCycle = '2026-11-06-pomeriggio';
+export const november6BaseCommit = 'Pubblica la base verificata del 6 novembre 2026';
