@@ -42,14 +42,14 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Seleziona il ciclo dell evento senza dipendere dalla coda
-        run: node scripts/select_editorial_cycle.mjs
       - name: Verifica regressioni dei cicli persistenti
         run: |
           node scripts/test_editorial_cycles.mjs
           python3 scripts/test_publication.py
       - name: Verifica ripresa e completezza delle aggiuntive
         run: node scripts/test_batches.mjs
+      - name: Seleziona il ciclo dell evento senza dipendere dalla coda
+        run: node scripts/select_editorial_cycle.mjs
       - name: Ricomponi i blocchi editoriali senza perdere progressi
         id: batches
         run: node scripts/assemble_batches.mjs automation/editorial --recover-history
