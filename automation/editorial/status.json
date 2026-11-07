@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-07",
-  "checkedAt": "2026-11-07T05:15:15.555Z",
+  "checkedAt": "2026-11-07T06:02:17.435Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,7 +13,9 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [],
+  "completed": [
+    "tecnologia"
+  ],
   "inProgress": [
     {
       "slug": "politica",
@@ -30,13 +32,15 @@
     {
       "slug": "cronaca",
       "count": 2
+    },
+    {
+      "slug": "sport",
+      "count": 1
     }
   ],
   "missing": [
     "roma",
-    "cultura",
-    "tecnologia",
-    "sport"
+    "cultura"
   ],
   "invalid": [],
   "stories": [
@@ -81,6 +85,43 @@
       "title": "Roma, neonato trovato in una chiesa alla Magliana",
       "eventKey": "neonato-ritrovato-chiesa-magliana-20261106",
       "pending": true
+    },
+    {
+      "id": "sport-napoli-di-lorenzo-lesione-adduttore-20261106",
+      "category": "Sport",
+      "title": "Napoli, lesione all'adduttore per Di Lorenzo: salta la Lazio",
+      "eventKey": "napoli-di-lorenzo-lesione-adduttore-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "tecnologia-iphone-parole-escluse-tastiera-ios",
+      "category": "Tecnologia · AI",
+      "title": "iPhone, scoperto un elenco di parole escluse dai suggerimenti",
+      "eventKey": "iphone-parole-escluse-tastiera-ios"
+    },
+    {
+      "id": "tecnologia-spotify-libreria-carosello-test",
+      "category": "Tecnologia · AI",
+      "title": "Spotify sperimenta una Libreria con i contenuti fissati in evidenza",
+      "eventKey": "spotify-libreria-carosello-test"
+    },
+    {
+      "id": "tecnologia-chainalysis-credenziali-token-clienti",
+      "category": "Tecnologia · AI",
+      "title": "Chainalysis amplia la portata della violazione: coinvolti token e password",
+      "eventKey": "chainalysis-credenziali-token-clienti"
+    },
+    {
+      "id": "tecnologia-gta6-mappa-leonida-digitale",
+      "category": "Tecnologia · AI",
+      "title": "GTA 6 avrà una mappa digitale di Leonida scaricabile gratuitamente",
+      "eventKey": "gta6-mappa-leonida-digitale"
+    },
+    {
+      "id": "tecnologia-gta6-kodak-black-personaggio",
+      "category": "Tecnologia · AI",
+      "title": "GTA 6, confermata la presenza di Kodak Black tra i personaggi",
+      "eventKey": "gta6-kodak-black-personaggio"
     }
   ],
   "collectionId": "2026-11-07-mattina",
@@ -134,7 +175,7 @@
       "complete": false
     },
     "tecnologia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
