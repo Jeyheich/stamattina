@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-07",
-  "checkedAt": "2026-11-07T09:19:15.357Z",
+  "checkedAt": "2026-11-07T09:22:09.479Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -8,18 +8,16 @@
     "esteri",
     "economia",
     "cronaca",
-    "roma",
     "cultura",
     "tecnologia",
     "sport"
   ],
   "completed": [
+    "roma",
     "sport"
   ],
   "inProgress": [],
-  "missing": [
-    "roma"
-  ],
+  "missing": [],
   "invalid": [
     {
       "slug": "politica",
@@ -47,6 +45,36 @@
     }
   ],
   "stories": [
+    {
+      "id": "roma-censis-quartieri-mobilita-20261107",
+      "category": "Roma",
+      "title": "Censis, i romani apprezzano il quartiere ma segnalano la mobilità",
+      "eventKey": "censis-quartieri-mobilita-20261107"
+    },
+    {
+      "id": "roma-fleming-blackout-cabina-20261107",
+      "category": "Roma",
+      "title": "Blackout al Fleming dopo l’incendio di una cabina elettrica",
+      "eventKey": "fleming-blackout-cabina-20261107"
+    },
+    {
+      "id": "roma-ares-contratti-autisti-barellieri-20261107",
+      "category": "Roma",
+      "title": "Ares 118, il sindacato segnala 111 contratti in scadenza",
+      "eventKey": "ares-contratti-autisti-barellieri-20261107"
+    },
+    {
+      "id": "roma-campidoglio-contratto-integrativo-20261107",
+      "category": "Roma",
+      "title": "Roma Capitale firma il contratto integrativo dei dipendenti",
+      "eventKey": "campidoglio-contratto-integrativo-20261107"
+    },
+    {
+      "id": "roma-capannelle-interrogazioni-raggi-20261107",
+      "category": "Roma",
+      "title": "Capannelle, Raggi chiede chiarimenti sulla gestione dell’ippodromo",
+      "eventKey": "capannelle-interrogazioni-raggi-20261107"
+    },
     {
       "id": "sport-napoli-di-lorenzo-lesione-adduttore-20261106",
       "category": "Sport",
@@ -76,6 +104,36 @@
       "category": "Sport",
       "title": "Sinner saluta Cahill: Magnus Norman entra nel team",
       "eventKey": "sinner-cahill-addio-norman-nuovo-coach-20261106"
+    },
+    {
+      "id": "roma-laurentino-quinto-ponte-inchiesta-20261107",
+      "category": "Roma",
+      "title": "Laurentino 38, quattro misure eseguite nell’inchiesta sullo spaccio",
+      "eventKey": "laurentino-quinto-ponte-inchiesta-20261107"
+    },
+    {
+      "id": "roma-marconi-bonifica-mira-lanza-20261107",
+      "category": "Roma",
+      "title": "Conclusa la bonifica dell’ex Mira Lanza a Marconi",
+      "eventKey": "marconi-bonifica-mira-lanza-20261107"
+    },
+    {
+      "id": "roma-roma-collettivo-cancro-rabbia-20261107",
+      "category": "Roma",
+      "title": "A Roma si presenta il collettivo Cancro Rabbia",
+      "eventKey": "roma-collettivo-cancro-rabbia-20261107"
+    },
+    {
+      "id": "roma-settecamini-incendio-autocarro-20261107",
+      "category": "Roma",
+      "title": "Settecamini, autocarro in fiamme in via di Salone",
+      "eventKey": "settecamini-incendio-autocarro-20261107"
+    },
+    {
+      "id": "roma-atac-sindacati-replica-assenze-20261107",
+      "category": "Roma",
+      "title": "Atac, i sindacati replicano alle dichiarazioni sulle assenze",
+      "eventKey": "atac-sindacati-replica-assenze-20261107"
     }
   ],
   "collectionId": "2026-11-07-mattina",
@@ -84,7 +142,7 @@
     "Esteri": 0,
     "Economia": 0,
     "Cronaca": 0,
-    "Roma": 0,
+    "Roma": 5,
     "Cultura · Teatro · Cinema": 0,
     "Tecnologia · AI": 0,
     "Sport": 0
@@ -117,10 +175,10 @@
       "complete": false
     },
     "roma": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "cultura": {
       "base": 0,
