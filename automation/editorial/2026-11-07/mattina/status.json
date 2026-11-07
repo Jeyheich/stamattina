@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-07",
-  "checkedAt": "2026-11-07T00:44:55.555Z",
+  "checkedAt": "2026-11-07T05:03:09.465Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,10 +14,17 @@
     "sport"
   ],
   "completed": [],
-  "inProgress": [],
+  "inProgress": [
+    {
+      "slug": "politica",
+      "count": 1
+    },
+    {
+      "slug": "esteri",
+      "count": 1
+    }
+  ],
   "missing": [
-    "politica",
-    "esteri",
     "economia",
     "cronaca",
     "roma",
@@ -26,7 +33,22 @@
     "sport"
   ],
   "invalid": [],
-  "stories": [],
+  "stories": [
+    {
+      "id": "politica-decreto-bollette-rinvio-cdm-20261105",
+      "category": "Politica",
+      "title": "Decreto bollette rinviato: il governo punta al 9 novembre",
+      "eventKey": "rinvio-decreto-bollette-cdm-20261105",
+      "pending": true
+    },
+    {
+      "id": "esteri-ucraina-russia-negoziati-trilaterali-20261107",
+      "category": "Esteri",
+      "title": "Ucraina, apertura ai colloqui trilaterali ma Mosca esclude una tregua",
+      "eventKey": "ucraina-russia-proposta-negoziati-trilaterali-novembre-2026",
+      "pending": true
+    }
+  ],
   "collectionId": "2026-11-07-mattina",
   "reserveCounts": {
     "Politica": 0,
@@ -93,5 +115,5 @@
   "preparation": "in-preparazione",
   "message": "Edizione in preparazione",
   "needsPublication": false,
-  "publicCollectionId": "2026-11-04-mattina"
+  "publicCollectionId": "2026-11-06-pomeriggio"
 }
