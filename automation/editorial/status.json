@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-07",
-  "checkedAt": "2026-11-07T06:13:49.421Z",
+  "checkedAt": "2026-11-07T07:07:20.806Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -36,16 +36,17 @@
     {
       "slug": "cultura",
       "count": 2
-    },
-    {
-      "slug": "sport",
-      "count": 1
     }
   ],
   "missing": [
     "roma"
   ],
-  "invalid": [],
+  "invalid": [
+    {
+      "slug": "sport",
+      "reason": "Verifica scaduta o futura"
+    }
+  ],
   "stories": [
     {
       "id": "politica-decreto-bollette-rinvio-cdm-20261105",
@@ -101,13 +102,6 @@
       "category": "Cultura · Teatro · Cinema",
       "title": "Oriente Occidente apre sei residenze artistiche per il 2027",
       "eventKey": "oriente-occidente-bando-residenze-artistiche-2027",
-      "pending": true
-    },
-    {
-      "id": "sport-napoli-di-lorenzo-lesione-adduttore-20261106",
-      "category": "Sport",
-      "title": "Napoli, lesione all'adduttore per Di Lorenzo: salta la Lazio",
-      "eventKey": "napoli-di-lorenzo-lesione-adduttore-novembre-2026",
       "pending": true
     },
     {
