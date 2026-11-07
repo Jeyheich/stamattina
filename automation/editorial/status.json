@@ -1,62 +1,142 @@
 {
   "editionDate": "2026-11-07",
-  "checkedAt": "2026-11-07T17:03:54.073Z",
-  "ready": false,
-  "editorialComplete": false,
-  "reserveMissing": [
+  "checkedAt": "2026-11-07T18:00:21.476Z",
+  "ready": true,
+  "editorialComplete": true,
+  "reserveMissing": [],
+  "completed": [
     "politica",
     "esteri",
     "economia",
     "cronaca",
+    "roma",
     "cultura",
     "tecnologia",
     "sport"
   ],
-  "completed": [
-    "roma"
-  ],
-  "inProgress": [
-    {
-      "slug": "politica",
-      "count": 1
-    },
-    {
-      "slug": "esteri",
-      "count": 1
-    },
-    {
-      "slug": "cultura",
-      "count": 1
-    }
-  ],
-  "missing": [
-    "economia",
-    "cronaca",
-    "tecnologia",
-    "sport"
-  ],
+  "inProgress": [],
+  "missing": [],
   "invalid": [],
   "stories": [
+    {
+      "id": "politica-anac-salvini-nuovo-nome-cdm-20261107",
+      "category": "Politica",
+      "title": "Anac, Salvini annuncia un nuovo nome per il Consiglio dei ministri",
+      "eventKey": "anac-salvini-nuovo-nome-cdm-20261107"
+    },
+    {
+      "id": "politica-coalizione-centrosinistra-tavoli-programma-20261107",
+      "category": "Politica",
+      "title": "Centrosinistra, avviato il confronto sul programma nazionale",
+      "eventKey": "coalizione-centrosinistra-tavoli-programma-20261107"
+    },
+    {
+      "id": "politica-tajani-diffusione-dati-risposta-20261107",
+      "category": "Politica",
+      "title": "Tajani denuncia la diffusione di suoi dati sul dark web",
+      "eventKey": "tajani-diffusione-dati-risposta-20261107"
+    },
+    {
+      "id": "politica-ddl-bilancio-tabacchi-accise-20261107",
+      "category": "Politica",
+      "title": "Nel disegno di legge di bilancio due rialzi per i tabacchi nel 2027",
+      "eventKey": "ddl-bilancio-tabacchi-accise-20261107"
+    },
     {
       "id": "politica-vannacci-coverciano-contestazioni-20261107",
       "category": "Politica",
       "title": "Contestazioni a Coverciano per l'apertura della sede di Futuro Nazionale",
-      "eventKey": "vannacci-coverciano-inaugurazione-contestazioni-20261107",
-      "pending": true
+      "eventKey": "vannacci-coverciano-inaugurazione-contestazioni-20261107"
+    },
+    {
+      "id": "esteri-cracovia-sparatoria-piazza-20261107",
+      "category": "Esteri",
+      "title": "Sparatoria nel centro di Cracovia, almeno sei morti secondo il primo bilancio",
+      "eventKey": "cracovia-sparatoria-piazza-20261107"
+    },
+    {
+      "id": "esteri-trump-miller-reazioni-repubblicane-20261107",
+      "category": "Esteri",
+      "title": "Casa Bianca, la nomina di Miller suscita critiche anche tra i repubblicani",
+      "eventKey": "trump-miller-reazioni-repubblicane-20261107"
+    },
+    {
+      "id": "esteri-paraguay-alliana-insediamento-ueno-20261107",
+      "category": "Esteri",
+      "title": "Paraguay, Alliana assume la presidenza dopo la destituzione di Peña",
+      "eventKey": "paraguay-alliana-insediamento-ueno-20261107"
     },
     {
       "id": "esteri-germania-patriot-ucraina-pistorius-20261107",
       "category": "Esteri",
       "title": "Berlino segnala il limite alle nuove forniture di Patriot all'Ucraina",
-      "eventKey": "germania-pistorius-stop-ulteriori-patriot-ucraina-20261107",
-      "pending": true
+      "eventKey": "germania-pistorius-stop-ulteriori-patriot-ucraina-20261107"
     },
     {
-      "id": "cultura-factory-fest-reportage-umbria-20261106",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Factory Fest, un viaggio fra teatro e danza nelle città umbre",
-      "eventKey": "factory-fest-umbria-reportage-sesta-edizione-2026",
-      "pending": true
+      "id": "esteri-israele-eisenkot-proposta-governo-emergenza-20261106",
+      "category": "Esteri",
+      "title": "Israele, Eisenkot propone un governo di emergenza",
+      "eventKey": "israele-eisenkot-proposta-governo-emergenza-20261106"
+    },
+    {
+      "id": "economia-national-trust-gara-partner-bancario-20261107",
+      "category": "Economia",
+      "title": "Il National Trust avvia la ricerca di un nuovo partner bancario",
+      "eventKey": "national-trust-gara-partner-bancario-20261107"
+    },
+    {
+      "id": "economia-great-british-railways-riforma-lords-20261107",
+      "category": "Economia",
+      "title": "Ferrovie britanniche, la riforma avanza alla Camera dei Lord",
+      "eventKey": "great-british-railways-riforma-lords-20261107"
+    },
+    {
+      "id": "economia-virgin-media-o2-costi-debito-20261107",
+      "category": "Economia",
+      "title": "Virgin Media O2 annuncia un piano per ridurre i costi",
+      "eventKey": "virgin-media-o2-costi-debito-20261107"
+    },
+    {
+      "id": "economia-sudest-asiatico-data-center-rallentamento-20261107",
+      "category": "Economia",
+      "title": "I progetti per centri dati nel Sudest asiatico rallentano",
+      "eventKey": "sudest-asiatico-data-center-rallentamento-20261107"
+    },
+    {
+      "id": "economia-bce-successione-lagarde-candidati-20261106",
+      "category": "Economia",
+      "title": "Bce, due candidati alla successione di Christine Lagarde",
+      "eventKey": "bce-successione-lagarde-candidati-20261106"
+    },
+    {
+      "id": "cronaca-cortei-carovita-riarmo-citta-20261107",
+      "category": "Cronaca",
+      "title": "Cortei in diverse città contro carovita e riarmo",
+      "eventKey": "cortei-carovita-riarmo-citta-20261107"
+    },
+    {
+      "id": "cronaca-meteo-instabile-adriatico-20261107",
+      "category": "Cronaca",
+      "title": "Piogge sul versante adriatico, atteso un miglioramento domenica",
+      "eventKey": "meteo-instabile-adriatico-20261107"
+    },
+    {
+      "id": "cronaca-vicenza-tentato-omicidio-compagna-arresto-20261107",
+      "category": "Cronaca",
+      "title": "Vicenza, arrestato un uomo accusato di tentato omicidio della compagna",
+      "eventKey": "vicenza-tentato-omicidio-compagna-arresto-20261107"
+    },
+    {
+      "id": "cronaca-brennero-attacco-informatico-reso-noto-20261107",
+      "category": "Cronaca",
+      "title": "Galleria del Brennero, reso noto un tentativo di attacco informatico",
+      "eventKey": "brennero-attacco-informatico-reso-noto-20261107"
+    },
+    {
+      "id": "cronaca-pietracatella-dissequestro-abitazione-20261107",
+      "category": "Cronaca",
+      "title": "Pietracatella, restituita l’abitazione della famiglia Di Vita",
+      "eventKey": "pietracatella-dissequestro-abitazione-20261107"
     },
     {
       "id": "roma-dylan-biglietti-contraffatti-20261107",
@@ -89,6 +169,216 @@
       "eventKey": "plinio-seniore-rimozione-scritta-20261107"
     },
     {
+      "id": "cultura-faust-castellucci-romaeuropa-20261107",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Il Faust di Romeo Castellucci debutta al Teatro Argentina",
+      "eventKey": "faust-castellucci-romaeuropa-20261107"
+    },
+    {
+      "id": "cultura-trailers-filmfest-vincitori-20261107",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Trailers FilmFest, La valle dei sorrisi premiato come miglior trailer italiano",
+      "eventKey": "trailers-filmfest-vincitori-20261107"
+    },
+    {
+      "id": "cultura-factory-fest-reportage-umbria-20261106",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Factory Fest, un viaggio fra teatro e danza nelle città umbre",
+      "eventKey": "factory-fest-umbria-reportage-sesta-edizione-2026"
+    },
+    {
+      "id": "cultura-torino-film-festival-2026-programma",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Torino Film Festival, annunciati apertura e ospiti",
+      "eventKey": "torino-film-festival-2026-programma"
+    },
+    {
+      "id": "cultura-the-label-de-sica-santamaria-20261107",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "De Sica e Santamaria insieme nella serie The Label",
+      "eventKey": "the-label-de-sica-santamaria-20261107"
+    },
+    {
+      "id": "tecnologia-campagna-sekoia-zero-click-mobile-20261107",
+      "category": "Tecnologia · AI",
+      "title": "Ricercatori segnalano una campagna contro Android e iOS",
+      "eventKey": "campagna-sekoia-zero-click-mobile-20261107"
+    },
+    {
+      "id": "tecnologia-windows-insider-ricerca-26h2-20261107",
+      "category": "Tecnologia · AI",
+      "title": "Windows 11, nuova interfaccia di ricerca nel canale Beta",
+      "eventKey": "windows-insider-ricerca-26h2-20261107"
+    },
+    {
+      "id": "tecnologia-meta-muse-spaces-20261107",
+      "category": "Tecnologia · AI",
+      "title": "Meta annuncia gli spazi tematici per Muse",
+      "eventKey": "meta-muse-spaces-20261107"
+    },
+    {
+      "id": "tecnologia-sony-pulse-elevate-rinvio-20261107",
+      "category": "Tecnologia · AI",
+      "title": "Sony rinvia gli altoparlanti PlayStation Pulse Elevate",
+      "eventKey": "sony-pulse-elevate-rinvio-20261107"
+    },
+    {
+      "id": "tecnologia-tomb-raider-remastered-catalogo-plus-20261107",
+      "category": "Tecnologia · AI",
+      "title": "Tomb Raider IV–VI Remastered entra nel catalogo mensile PlayStation Plus",
+      "eventKey": "tomb-raider-remastered-catalogo-plus-20261107"
+    },
+    {
+      "id": "sport-cagliari-frosinone-gol-adopo-20261107",
+      "category": "Sport",
+      "title": "Serie A, il Cagliari batte il Frosinone 1–0",
+      "eventKey": "cagliari-frosinone-gol-adopo-20261107"
+    },
+    {
+      "id": "sport-serie-b-risultati-sabato-20261107",
+      "category": "Sport",
+      "title": "Serie B, Cesena e Juve Stabia vincono, Pisa fermato sul pari",
+      "eventKey": "serie-b-risultati-sabato-20261107"
+    },
+    {
+      "id": "sport-napoli-annullata-conferenza-allegri-20261107",
+      "category": "Sport",
+      "title": "Napoli, annullata la conferenza di Allegri",
+      "eventKey": "napoli-annullata-conferenza-allegri-20261107"
+    },
+    {
+      "id": "sport-qatar-sprint-caduta-bagnaia-20261107",
+      "category": "Sport",
+      "title": "MotoGP, caduta di Bagnaia nella Sprint del Qatar",
+      "eventKey": "qatar-sprint-caduta-bagnaia-20261107"
+    },
+    {
+      "id": "sport-parigi-shelton-van-assche-semifinale-20261107",
+      "category": "Sport",
+      "title": "Parigi, Shelton batte Van Assche e raggiunge la finale",
+      "eventKey": "parigi-shelton-van-assche-semifinale-20261107"
+    },
+    {
+      "id": "politica-governo-ricorso-fine-vita-veneto-20261106",
+      "category": "Politica",
+      "title": "Fine vita, il ricorso sulla legge veneta riapre il confronto",
+      "eventKey": "governo-ricorso-fine-vita-veneto-20261106"
+    },
+    {
+      "id": "politica-speranza-commissione-covid-20261106",
+      "category": "Politica",
+      "title": "Commissione Covid, nuove tensioni durante l’audizione di Speranza",
+      "eventKey": "speranza-commissione-covid-20261106"
+    },
+    {
+      "id": "politica-mattarella-ascolto-giovani-20261106",
+      "category": "Politica",
+      "title": "Mattarella chiede più ascolto per i giovani",
+      "eventKey": "mattarella-ascolto-giovani-20261106"
+    },
+    {
+      "id": "politica-consulta-bartolozzi-camera-20261106",
+      "category": "Politica",
+      "title": "Caso Almasri, la Consulta chiarisce come possono procedere i pm",
+      "eventKey": "consulta-bartolozzi-camera-20261106"
+    },
+    {
+      "id": "politica-decreto-bollette-rinvio-cdm-20261105",
+      "category": "Politica",
+      "title": "Decreto bollette rinviato: il governo punta al 9 novembre",
+      "eventKey": "rinvio-decreto-bollette-cdm-20261105"
+    },
+    {
+      "id": "esteri-oleshky-reportage-civili-20261107",
+      "category": "Esteri",
+      "title": "Oleshky, il Tg1 racconta la vita dei civili sulla linea del fronte",
+      "eventKey": "oleshky-reportage-civili-20261107"
+    },
+    {
+      "id": "esteri-leone-vespri-montevideo-20261107",
+      "category": "Esteri",
+      "title": "Papa Leone XIV celebra i Vespri a Montevideo",
+      "eventKey": "leone-vespri-montevideo-20261107"
+    },
+    {
+      "id": "esteri-qeshm-usa-iran-dichiarazioni-20261107",
+      "category": "Esteri",
+      "title": "Qeshm, Trump conferma un’azione statunitense in Iran",
+      "eventKey": "qeshm-usa-iran-dichiarazioni-20261107"
+    },
+    {
+      "id": "esteri-francia-manifestazioni-dispositivo-20261107",
+      "category": "Esteri",
+      "title": "Francia, il governo annuncia 70.000 agenti per i cortei",
+      "eventKey": "francia-manifestazioni-dispositivo-20261107"
+    },
+    {
+      "id": "esteri-francia-scuolabus-lent-inchiesta-20261106",
+      "category": "Esteri",
+      "title": "Francia, due morti nell’incidente di uno scuolabus",
+      "eventKey": "francia-scuolabus-lent-inchiesta-20261106"
+    },
+    {
+      "id": "economia-usa-centri-dati-subacquei-proposte-20261107",
+      "category": "Economia",
+      "title": "Negli Stati Uniti si valutano progetti per centri dati subacquei",
+      "eventKey": "usa-centri-dati-subacquei-proposte-20261107"
+    },
+    {
+      "id": "economia-mps-conti-nove-mesi-20261106",
+      "category": "Economia",
+      "title": "Mps, utile di 1,66 miliardi nei primi nove mesi",
+      "eventKey": "mps-conti-nove-mesi-20261106"
+    },
+    {
+      "id": "economia-ex-ilva-completato-spegnimento-area-caldo-20261106",
+      "category": "Economia",
+      "title": "Ex Ilva di Taranto, completato lo spegnimento dell’area a caldo",
+      "eventKey": "ex-ilva-completato-spegnimento-area-caldo-20261106"
+    },
+    {
+      "id": "economia-confcommercio-disagio-sociale-ottobre-2026",
+      "category": "Economia",
+      "title": "Confcommercio, l’indice di disagio sociale sale a 13",
+      "eventKey": "confcommercio-disagio-sociale-ottobre-2026"
+    },
+    {
+      "id": "economia-mimit-rilevazione-carburanti-20261106",
+      "category": "Economia",
+      "title": "Carburanti, il Mimit rileva un lieve calo dei prezzi medi",
+      "eventKey": "mimit-rilevazione-carburanti-20261106"
+    },
+    {
+      "id": "cronaca-reggiano-allontanamento-divieto-avvicinamento-20261107",
+      "category": "Cronaca",
+      "title": "Nel Reggiano, allontanamento e divieto di avvicinamento dopo una denuncia",
+      "eventKey": "reggiano-allontanamento-divieto-avvicinamento-20261107"
+    },
+    {
+      "id": "cronaca-firenze-amministrazione-giudiziaria-moda-20261107",
+      "category": "Cronaca",
+      "title": "Moda, due società in amministrazione giudiziaria a Firenze",
+      "eventKey": "firenze-amministrazione-giudiziaria-moda-20261107"
+    },
+    {
+      "id": "cronaca-taranto-mensa-scolastica-morosita-20261107",
+      "category": "Cronaca",
+      "title": "Taranto, famiglia e Comune danno versioni diverse sul caso della mensa",
+      "eventKey": "taranto-mensa-scolastica-morosita-20261107"
+    },
+    {
+      "id": "cronaca-sarno-incidente-stradale-20261107",
+      "category": "Cronaca",
+      "title": "Sarno, una ragazza di 17 anni muore in un incidente",
+      "eventKey": "sarno-incidente-stradale-20261107"
+    },
+    {
+      "id": "cronaca-scampia-cocaina-auto-sequestro-20261107",
+      "category": "Cronaca",
+      "title": "Scampia, sequestrati 84 chili di cocaina in un’auto",
+      "eventKey": "scampia-cocaina-auto-sequestro-20261107"
+    },
+    {
       "id": "roma-olio-roma-igp-stime-campagna-20261107",
       "category": "Roma",
       "title": "Olio di Roma IGP, stimata una crescita della produzione",
@@ -117,45 +407,161 @@
       "category": "Roma",
       "title": "A Città Giardino arrivano i tutor della notte",
       "eventKey": "citta-giardino-tutor-notte-20261107"
+    },
+    {
+      "id": "cultura-oriente-occidente-residenze-2027",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Oriente Occidente apre sei residenze artistiche per il 2027",
+      "eventKey": "oriente-occidente-bando-residenze-artistiche-2027"
+    },
+    {
+      "id": "cultura-sanremo-2027-presentazione-de-martino",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Sanremo 2027, De Martino anticipa una serata dedicata alle performance",
+      "eventKey": "sanremo-2027-presentazione-de-martino"
+    },
+    {
+      "id": "cultura-milano-quel-gran-genio-battisti-20261106",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Milano, quattro giorni dedicati a Lucio Battisti",
+      "eventKey": "milano-quel-gran-genio-battisti-20261106"
+    },
+    {
+      "id": "cultura-raiplay-dark-lines-seconda-stagione-20261106",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Dark Lines torna su RaiPlay dal 10 novembre",
+      "eventKey": "raiplay-dark-lines-seconda-stagione-20261106"
+    },
+    {
+      "id": "cultura-luana-ragazza-festival-popoli-20261106",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Al Festival dei Popoli il documentario su Luana D’Orazio",
+      "eventKey": "luana-ragazza-festival-popoli-20261106"
+    },
+    {
+      "id": "tecnologia-chatgpt-gif-animate-20261107",
+      "category": "Tecnologia · AI",
+      "title": "ChatGPT, immagini animate in formato GIF",
+      "eventKey": "chatgpt-gif-animate-20261107"
+    },
+    {
+      "id": "tecnologia-perplexity-teammates-20261106",
+      "category": "Tecnologia · AI",
+      "title": "Perplexity presenta gli agenti Teammates",
+      "eventKey": "perplexity-teammates-20261106"
+    },
+    {
+      "id": "tecnologia-gemini-omni-video-15-secondi-20261106",
+      "category": "Tecnologia · AI",
+      "title": "Gemini Omni 1.2 Flash genera video fino a 15 secondi",
+      "eventKey": "gemini-omni-video-15-secondi-20261106"
+    },
+    {
+      "id": "tecnologia-evercade-doom-banjo-20261107",
+      "category": "Tecnologia · AI",
+      "title": "Evercade, due raccolte dedicate a DOOM e Banjo-Kazooie",
+      "eventKey": "evercade-doom-banjo-20261107"
+    },
+    {
+      "id": "tecnologia-resident-evil-requiem-stime-ps5-20261107",
+      "category": "Tecnologia · AI",
+      "title": "Resident Evil Requiem, un’analisi stima più vendite su PlayStation",
+      "eventKey": "resident-evil-requiem-stime-ps5-20261107"
+    },
+    {
+      "id": "sport-como-fabregas-vigilia-inter-20261107",
+      "category": "Sport",
+      "title": "Fabregas presenta la sfida del Como contro l’Inter",
+      "eventKey": "como-fabregas-vigilia-inter-20261107"
+    },
+    {
+      "id": "sport-missaglia-maresso-squalifica-dirigente-20261107",
+      "category": "Sport",
+      "title": "Prima Categoria, squalificato un dirigente del Missaglia Maresso",
+      "eventKey": "missaglia-maresso-squalifica-dirigente-20261107"
+    },
+    {
+      "id": "sport-zurigo-del-piero-ronaldinho-20261106",
+      "category": "Sport",
+      "title": "A Zurigo la selezione di Ronaldinho batte quella di Del Piero",
+      "eventKey": "zurigo-del-piero-ronaldinho-20261106"
+    },
+    {
+      "id": "sport-olimpia-milano-poeta-banchi-20261106",
+      "category": "Sport",
+      "title": "Olimpia Milano, esonerato Peppe Poeta",
+      "eventKey": "olimpia-milano-poeta-banchi-20261106"
+    },
+    {
+      "id": "sport-sinner-cahill-norman-20261106",
+      "category": "Sport",
+      "title": "Sinner saluta Cahill: Magnus Norman entra nel team",
+      "eventKey": "sinner-cahill-addio-norman-nuovo-coach-20261106"
     }
   ],
   "collectionId": "2026-11-07-pomeriggio",
   "reserveCounts": {
-    "Politica": 0,
-    "Esteri": 0,
-    "Economia": 0,
-    "Cronaca": 0,
+    "Politica": 5,
+    "Esteri": 5,
+    "Economia": 5,
+    "Cronaca": 5,
     "Roma": 5,
-    "Cultura · Teatro · Cinema": 0,
-    "Tecnologia · AI": 0,
-    "Sport": 0
+    "Cultura · Teatro · Cinema": 5,
+    "Tecnologia · AI": 5,
+    "Sport": 5
   },
-  "photoCandidates": [],
-  "photosAvailable": 0,
+  "photoCandidates": [
+    {
+      "id": "politica-anac-salvini-nuovo-nome-cdm-20261107",
+      "category": "Politica",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg"
+    },
+    {
+      "id": "esteri-israele-eisenkot-proposta-governo-emergenza-20261106",
+      "category": "Esteri",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG"
+    },
+    {
+      "id": "roma-colle-oppio-retake-rifiuti-20261107",
+      "category": "Roma",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parco_Del_Colle_Oppio_-_panoramio.jpg"
+    },
+    {
+      "id": "cultura-faust-castellucci-romaeuropa-20261107",
+      "category": "Cultura · Teatro · Cinema",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Teatro_di_Argentina_Roma.jpg"
+    },
+    {
+      "id": "sport-cagliari-frosinone-gol-adopo-20261107",
+      "category": "Sport",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg"
+    }
+  ],
+  "photosAvailable": 5,
   "categoryProgress": {
     "politica": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "esteri": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "economia": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "cronaca": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "roma": {
       "base": 5,
@@ -164,26 +570,27 @@
       "complete": true
     },
     "cultura": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "tecnologia": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "sport": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     }
   },
-  "preparation": "in-preparazione",
-  "message": "Edizione in preparazione",
-  "needsPublication": false,
+  "preparation": "editorialmente-completa",
+  "editionId": "2026-11-07-batches-e5d1b917852e",
+  "message": "Edizione editorialmente completa",
+  "needsPublication": true,
   "publicCollectionId": "2026-11-07-mattina"
 }
