@@ -3,8 +3,7 @@
   "editionDate": "2026-11-06",
   "collectionId": "2026-11-06-pomeriggio",
   "category": "Tecnologia · AI",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-06T16:05:45Z",
+  "completedAt": "2026-11-07T00:37:22.448086+00:00",
   "articles": [
     {
       "id": "tecnologia-perplexity-teammates-agenti-ai-lavoro",
@@ -16,12 +15,12 @@
       "body": [
         "Perplexity ha introdotto Teammates, agenti AI destinati a gestire progetti di lavoro continuativi e paralleli. Il servizio si integra con Perplexity Computer e Slack ed è previsto per il piano Max."
       ],
-      "verifiedAt": "2026-11-06T16:05:45Z",
+      "verifiedAt": "2026-11-07T00:37:22.448086+00:00",
       "source": {
         "name": "Punto Informatico",
         "url": "https://www.punto-informatico.it/perplexity-teammates-agenti-ai-sempre-attivi-lavoro/",
         "access": "free",
-        "accessCheckedAt": "2026-11-06T16:05:45Z",
+        "accessCheckedAt": "2026-11-07T00:37:22.448086+00:00",
         "dateEvidence": "La pagina originale indica 'Pubblicato il 6 nov 2026' senza ora; data giornaliera verificata, timestamp esatto non disponibile.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
@@ -37,12 +36,12 @@
       "body": [
         "La funzione Personal Finance collega Claude a conti e carte attraverso Plaid, con accesso in sola lettura per analizzare movimenti, saldi e spese. La distribuzione iniziale riguarda gli abbonati statunitensi."
       ],
-      "verifiedAt": "2026-11-06T16:05:45Z",
+      "verifiedAt": "2026-11-07T00:37:22.448086+00:00",
       "source": {
         "name": "Punto Informatico",
         "url": "https://www.punto-informatico.it/claude-si-collega-conto-banca-analizza-spese-personal-finance/",
         "access": "free",
-        "accessCheckedAt": "2026-11-06T16:05:45Z",
+        "accessCheckedAt": "2026-11-07T00:37:22.448086+00:00",
         "dateEvidence": "La pagina originale indica 'Pubblicato il 6 nov 2026' senza ora; data giornaliera verificata, timestamp esatto non disponibile.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
@@ -58,17 +57,58 @@
       "body": [
         "Google ha annunciato Gemini Omni 1.2 Flash, che permette di generare video da 3 a 15 secondi con maggior controllo su riferimenti, dialoghi e inquadrature. La disponibilità iniziale riguarda API e strumenti business."
       ],
-      "verifiedAt": "2026-11-06T16:05:45Z",
+      "verifiedAt": "2026-11-07T00:37:22.448086+00:00",
       "source": {
         "name": "Punto Informatico",
         "url": "https://www.punto-informatico.it/gemini-omni-1-2-flash-crea-video-15-secondi/",
         "access": "free",
-        "accessCheckedAt": "2026-11-06T16:05:45Z",
+        "accessCheckedAt": "2026-11-07T00:37:22.448086+00:00",
         "dateEvidence": "La pagina originale indica 'Pubblicato il 6 nov 2026' senza ora; data giornaliera verificata, timestamp esatto non disponibile.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       },
       "publishedAt": "2026-11-06"
+    },
+    {
+      "id": "tecnologia-take-two-pirateria-gta6-20261106",
+      "eventKey": "take-two-pirateria-gta6-20261106",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Take-Two spiega come risponderebbe alla pirateria di GTA 6",
+      "summary": "Strauss Zelnick ha detto che, se la pirateria diventasse un problema serio, la società ricorrerebbe a strumenti legali e contromisure tecniche. È una risposta ipotetica illustrata durante un’intervista.",
+      "body": [
+        "Strauss Zelnick ha detto che, se la pirateria diventasse un problema serio, la società ricorrerebbe a strumenti legali e contromisure tecniche. È una risposta ipotetica illustrata durante un’intervista."
+      ],
+      "publishedAt": "2026-11-05T23:37:00+01:00",
+      "verifiedAt": "2026-11-07T00:37:22.448086+00:00",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/gta-6-rischio-pirateria-take-two-pronta-passare-vie-legali-910077.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T00:37:22.448086+00:00",
+        "dateEvidence": "Pagina originale di Everyeye: pubblicazione del 2026-11-05, data verificata nel testo o nei metadati.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-exodus-restyling-jun-20261106",
+      "eventKey": "exodus-restyling-jun-20261106",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Exodus mostra il nuovo aspetto di Jun Aslan",
+      "summary": "Archetype ha mostrato in video l’aspetto aggiornato del protagonista maschile. Lo studio attribuisce il cambiamento ai riscontri dei giocatori e conferma che alcuni tratti estetici saranno personalizzabili.",
+      "body": [
+        "Archetype ha mostrato in video l’aspetto aggiornato del protagonista maschile. Lo studio attribuisce il cambiamento ai riscontri dei giocatori e conferma che alcuni tratti estetici saranno personalizzabili."
+      ],
+      "publishedAt": "2026-11-06T00:22:00+01:00",
+      "verifiedAt": "2026-11-07T00:37:22.448086+00:00",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/exodus-rinnova-eroe-action-gdr-erede-mass-effect-cambia-volto-907966.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T00:37:22.448086+00:00",
+        "dateEvidence": "Pagina originale di Everyeye: pubblicazione del 2026-11-06, data verificata nel testo o nei metadati.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
-  ],
-  "reserveDraft": []
+  ]
 }
