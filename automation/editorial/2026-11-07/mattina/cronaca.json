@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-07",
+  "collectionId": "2026-11-07-mattina",
+  "category": "Cronaca",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-07T05:14:45.610Z",
+  "articles": [
+    {
+      "id": "cronaca-allarmi-bomba-voli-europa-20261106",
+      "eventKey": "allarmi-bomba-voli-europa-20261106",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Nuovi allarmi bomba: coinvolti almeno 18 voli europei",
+      "summary": "Venerdì almeno 18 collegamenti aerei europei sono stati interessati da allarmi bomba; gli aerei coinvolti sono atterrati senza incidenti e le ispezioni non hanno trovato esplosivi. Le autorità indagano sull'origine delle minacce.",
+      "body": [
+        "Venerdì almeno 18 collegamenti aerei europei sono stati interessati da allarmi bomba; gli aerei coinvolti sono atterrati senza incidenti e le ispezioni non hanno trovato esplosivi. Le autorità indagano sull'origine delle minacce."
+      ],
+      "publishedAt": "2026-11-06",
+      "verifiedAt": "2026-11-07T05:14:45.610Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T05:14:45.610Z",
+        "dateEvidence": "The Guardian indica First published on Fri 6 Nov 2026 08.34 EST e aggiornamento alle 12.14 EST.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-neonato-ritrovato-chiesa-magliana-20261106",
+      "eventKey": "neonato-ritrovato-chiesa-magliana-20261106",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Roma, neonato trovato in una chiesa alla Magliana",
+      "summary": "Un neonato è stato trovato in una borsa nella chiesa di San Gregorio Magno. Soccorso dal 118 e trasferito in ospedale, risultava in buone condizioni; i carabinieri stanno esaminando le immagini di videosorveglianza.",
+      "body": [
+        "Un neonato è stato trovato in una borsa nella chiesa di San Gregorio Magno. Soccorso dal 118 e trasferito in ospedale, risultava in buone condizioni; i carabinieri stanno esaminando le immagini di videosorveglianza."
+      ],
+      "publishedAt": "2026-11-06",
+      "verifiedAt": "2026-11-07T05:14:45.610Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/06/roma-neonato-chiesa",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T05:14:45.610Z",
+        "dateEvidence": "Sky TG24 mostra esplicitamente la data 06 nov 2026 - 19:25 sopra il testo dell'articolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveDraft": []
+}
