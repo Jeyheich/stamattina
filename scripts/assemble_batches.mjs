@@ -96,7 +96,11 @@ export function runAssembly({root='automation/editorial',cycle,now=Date.now(),hi
  result.state.message=!result.state.ready?'Edizione in preparazione':result.state.editorialComplete?'Edizione editorialmente completa':'Edizione tecnicamente pubblicabile, aggiuntive incomplete: '+result.state.reserveMissing.join(', ');
  const current=fs.existsSync('dist/data/current.json')?JSON.parse(fs.readFileSync('dist/data/current.json')):null;
  const canAdvance=!current?.collectionId||selected>=current.collectionId;
- result.state.needsPublication=!!result.edition&&current?.id!==result.edition.id&&canAdvance;
+ const today=romeDay(new Date(now));
+ const recovery=process.env.EDITORIAL_RECOVERY==='true';
+ const canPublishDate=day===today||day<today&&recovery&&result.state.editorialComplete;
+ result.state.needsPublication=!!result.edition&&current?.id!==result.edition.id&&canAdvance&&canPublishDate;
+ if(result.edition&&!canPublishDate)result.state.publicationBlocked='Ciclo arretrato: richiesti avvio manuale e 40+40';
  result.state.publicCollectionId=current?.collectionId;
  if(!canAdvance)result.state.publicationBlocked='Ciclo precedente a quello online';
  if(current?.id===result.state.editionId&&previous?.publicEditionId===current.id&&previous.publication==='verified'){

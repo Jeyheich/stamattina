@@ -42,6 +42,38 @@ try{
  ok('promozione preserva entrambe le edizioni e archivio per ciclo',()=>{execFileSync(process.execPath,[promote]);const afternoon=JSON.parse(fs.readFileSync('dist/data/current.json'));assert.equal(afternoon.collectionId,day+'-pomeriggio');assert.deepEqual(JSON.parse(fs.readFileSync('dist/data/archive/'+morning.edition.id+'.json')),morning.edition);assert.equal(JSON.parse(fs.readFileSync('dist/data/archive/'+day+'-pomeriggio.json')).id,afternoon.id);});
  ok('ritardo del mattino non fa regredire il pubblico',()=>{const before=fs.readFileSync('dist/data/current.json','utf8');assert(!runAssembly({cycle:day+'-mattina',now}).state.needsPublication);execFileSync(process.execPath,[promote]);assert.equal(fs.readFileSync('dist/data/current.json','utf8'),before);});
  ok('nessuna nuova edizione pronta: incoming obsoleto non pubblicato',()=>{const before=fs.readFileSync('dist/data/current.json','utf8');fs.unlinkSync(path.join(cyclePath(root,day+'-pomeriggio'),'roma.json'));runAssembly({cycle:day+'-pomeriggio',now});execFileSync(process.execPath,[promote]);assert.equal(fs.readFileSync('dist/data/current.json','utf8'),before);save({roma:pm.roma});});
+ ok('arretrato completo solo con avvio manuale e ciclo esplicito',()=>{
+  const oldDay=romeDay(new Date(now-86400000));
+  const oldCycle=oldDay+'-pomeriggio';
+  const blocks=structuredClone(pm);
+  for(const block of Object.values(blocks)){
+   block.editionDate=oldDay;
+   block.collectionId=oldCycle;
+   for(const article of [...block.articles,...block.reserveArticles]) article.publishedAt=oldDay;
+  }
+  const current=JSON.parse(fs.readFileSync('dist/data/current.json'));
+  writeJSON('dist/data/current.json',{...original,collectionId:undefined});
+  save(blocks);
+  assert(!runAssembly({cycle:oldCycle,now}).state.needsPublication);
+  process.env.EDITORIAL_RECOVERY='true';
+  assert(runAssembly({cycle:oldCycle,now}).state.needsPublication);
+  writeJSON('test-event.json',{inputs:{collectionId:oldCycle,recoverOlderEdition:'true'}});
+  const manual={...process.env,GITHUB_EVENT_NAME:'workflow_dispatch',GITHUB_EVENT_PATH:path.resolve('test-event.json')};
+  const automatic={...manual,GITHUB_EVENT_NAME:'push'};
+  assert.throws(()=>execFileSync(process.execPath,[promote],{env:automatic,stdio:'pipe'}),/occorre selezionare/);
+  delete blocks.sport.reserveArticles;
+  save(blocks);
+  assert(!runAssembly({cycle:oldCycle,now}).state.needsPublication);
+  save({sport:{...blocks.sport,reserveArticles:pm.sport.reserveArticles.map(a=>({...a,publishedAt:oldDay}))}});
+  assert(runAssembly({cycle:oldCycle,now}).state.editorialComplete);
+  execFileSync(process.execPath,[promote],{env:manual,stdio:'pipe'});
+  const recovered=JSON.parse(fs.readFileSync('dist/data/current.json'));
+  assert.equal(recovered.collectionId,oldCycle);
+  assert.equal(recovered.editionDate,oldDay);
+  assert.equal(recovered.articles.length,80);
+  delete process.env.EDITORIAL_RECOVERY;
+  writeJSON('dist/data/current.json',current);
+ });
  ok('migrazione legacy ripetibile, originali e parziali conservati',()=>{const legacy=path.join(root,day,'politica.json');writeJSON(legacy,pm.politica);assert.deepEqual(ingestLegacy(root,day),[]);const saved=fs.readFileSync(path.join(root,day,'legacy-imports.json'),'utf8');assert.deepEqual(ingestLegacy(root,day),[]);assert.equal(fs.readFileSync(path.join(root,day,'legacy-imports.json'),'utf8'),saved);assert.deepEqual(JSON.parse(fs.readFileSync(legacy)),pm.politica);assert.deepEqual(readBlocks(root,day+'-mattina'),am);});
  ok('conflitto non sovrascrive il canonico',()=>{const b=structuredClone(pm.politica);b.articles[0].title='Conflitto stesso timestamp';writeJSON(path.join(root,day,'politica.json'),b);assert(ingestLegacy(root,day).length);assert.deepEqual(readBlocks(root,day+'-pomeriggio').politica,pm.politica);});
  ok('selettore workflow legge il ciclo nel commit originale, non nel checkout nuovo',()=>{

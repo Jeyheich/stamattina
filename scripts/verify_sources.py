@@ -1,5 +1,5 @@
 """Publication gate. Checks access and Commons metadata; editorial fact checking stays upstream."""
-import concurrent.futures, datetime as dt, html, ipaddress, json, re, socket, sys, urllib.parse, urllib.request
+import concurrent.futures, datetime as dt, html, ipaddress, json, os, re, socket, sys, urllib.parse, urllib.request
 from zoneinfo import ZoneInfo
 UA = 'Stamattina/1.0 (https://github.com/Jeyheich/stamattina; personal briefing)'
 NOW = dt.datetime.now(dt.timezone.utc)
@@ -84,8 +84,22 @@ def check_photo(a):
     return a['id'] + ': fotografia e licenza verificate'
 
 def verify(edition):
-    if edition['mode'] != 'live' or edition['editionDate'] != NOW.astimezone(ZoneInfo('Europe/Rome')).date().isoformat():
-        raise ValueError('Edizione non reale o non corrispondente a oggi a Roma')
+    if edition['mode'] != 'live':
+        raise ValueError('Edizione non reale')
+    today = NOW.astimezone(ZoneInfo('Europe/Rome')).date().isoformat()
+    day = edition['editionDate']
+    if day != today:
+        event_path = os.environ.get('GITHUB_EVENT_PATH')
+        event = {}
+        if os.environ.get('GITHUB_EVENT_NAME') == 'workflow_dispatch' and event_path:
+            with open(event_path, encoding='utf-8') as f:
+                event = json.load(f)
+        cycle = edition.get('collectionId')
+        inputs = event.get('inputs', {})
+        if day >= today or not cycle or inputs.get('recoverOlderEdition') != 'true' or inputs.get('collectionId') != cycle:
+            raise ValueError('Edizione arretrata: selezionare esplicitamente il ciclo in un avvio manuale')
+        if len(edition['articles']) != 80 or len(edition.get('reserveIds', [])) != 40:
+            raise ValueError('Edizione arretrata: servono 40 principali e 40 aggiuntive')
     if not -300 <= (NOW - instant(edition['generatedAt'])).total_seconds() <= 10800:
         raise ValueError('Edizione preparata troppo tempo fa o con ora futura')
     articles = edition['articles']

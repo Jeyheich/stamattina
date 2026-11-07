@@ -6,6 +6,11 @@ on:
         description: 'Ciclo esplicito YYYY-MM-DD-mattina o YYYY-MM-DD-pomeriggio (vuoto: ciclo corrente Roma)'
         required: false
         type: string
+      recoverOlderEdition:
+        description: Pubblica un ciclo arretrato completo con la sua data originale
+        required: false
+        type: boolean
+        default: false
   push:
     branches: [main]
     paths:
@@ -59,7 +64,9 @@ jobs:
             echo 'changed=true' >> "$GITHUB_OUTPUT"
           fi
           if [ "$EVENT_NAME" = 'workflow_dispatch' ]; then
-            echo 'ui=true' >> "$GITHUB_OUTPUT"
+            if [ "$EDITORIAL_RECOVERY" != 'true' ]; then
+              echo 'ui=true' >> "$GITHUB_OUTPUT"
+            fi
           elif ! git diff --quiet "$BEFORE" "$GITHUB_SHA" -- dist scripts .github/workflows/pages.yml; then
             echo 'ui=true' >> "$GITHUB_OUTPUT"
           fi
@@ -75,7 +82,7 @@ jobs:
       - name: Conserva la causa dei controlli falliti per la ripresa
         if: steps.sources.outcome == 'failure'
         run: node scripts/record_source_failure.mjs /tmp/brief-source-check.log
-      - name: Promuovi una nuova edizione soltanto se valida e di oggi
+      - name: Promuovi una nuova edizione soltanto dopo i controlli
         if: steps.incoming.outputs.changed == 'true' && steps.sources.outcome == 'success'
         run: node scripts/promote.mjs
       - name: Verifica rassegna reale
