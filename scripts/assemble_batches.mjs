@@ -12,12 +12,18 @@ export const categories = [
   ['tecnologia','Tecnologia · AI'],['sport','Sport'],
 ];
 export const romeDay = (date=new Date()) => new Intl.DateTimeFormat('sv-SE',{timeZone:'Europe/Rome'}).format(date);
-function recent(value,now){const t=Date.parse(value);assert(Number.isFinite(t),'Data di verifica mancante');assert(t<=now+300000&&now-t<=10800000,'Verifica scaduta o futura');}
+function recent(value,now,field){
+  const t=Date.parse(value);
+  assert(Number.isFinite(t),field+': data di verifica mancante o non valida');
+  const times=()=>' (verifica '+new Date(t).toISOString()+', controllo '+new Date(now).toISOString()+')';
+  if(t>now+300000)throw Error(field+': verifica futura'+times());
+  if(now-t>10800000)throw Error(field+': verifica scaduta'+times());
+}
 export function validateBlock(block,slug,today,now=Date.now(),partial=false){
   const name=categories.find(([s])=>s===slug)?.[1];
   assert(name,'Categoria sconosciuta');assert.equal(block.schemaVersion,1);
   assert.equal(block.editionDate,today,'Blocco di un altro giorno');
-  assert.equal(block.category,name,'Categoria del file errata');recent(partial?block.lastAttemptAt:block.completedAt,now);
+  assert.equal(block.category,name,'Categoria del file errata');const blockStamp=partial?'lastAttemptAt':'completedAt';recent(block[blockStamp],now,blockStamp);
   assert(Array.isArray(block.articles)&&(partial?block.articles.length>=1&&block.articles.length<5:block.articles.length===5),'Il blocco completo deve contenere 5 notizie distinte');
   for(const a of block.articles){
     assert.equal(a.category,name);assert.equal(a.status,'verified');
@@ -27,7 +33,7 @@ export function validateBlock(block,slug,today,now=Date.now(),partial=false){
     assert(Array.isArray(a.body)&&a.body.length&&a.body.every(p=>typeof p==='string'&&p.trim()),'Approfondimento mancante');
     assert(Number.isFinite(Date.parse(a.publishedAt)),'Data fonte mancante');
     if(a.dateKind!=='event')assert(Date.parse(a.publishedAt)<=now+300000,'Pubblicazione futura');
-    recent(a.verifiedAt,now);recent(a.source?.accessCheckedAt,now);
+    recent(a.verifiedAt,now,a.id+' verifiedAt');recent(a.source?.accessCheckedAt,now,a.id+' source.accessCheckedAt');
     assert.equal(a.source?.access,'free');assert.equal(new URL(a.source.url).protocol,'https:');
     assert(a.source.name?.trim()&&a.source.dateEvidence?.length>=20&&a.source.reviewedBy?.trim(),'Evidenze fonte incomplete');
     if(a.image){

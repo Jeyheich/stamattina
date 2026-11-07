@@ -1,5 +1,10 @@
 # Stamattina — stato operativo
 
+## Prevenzione dei blocchi editoriali — 7 novembre
+- Il 7 novembre il dossier delle 06:00 era ancora quello della sera precedente. Le run pianificate del 4–6 erano partite diverse ore dopo l'orario atteso. I resoconti editoriali registrano anche errori di apertura di singole pagine, tra cui RomaToday e RaiNews, mentre il recupero ha letto fonti originali e pubblicato 40+40. Il ritardo preciso della coda GitHub e il motivo del singolo errore di lettura non sono desumibili dai resoconti.
+- Il checkpoint Sport 7391fa1 è stato salvato alle 08:07 Europe/Rome con completedAt e quattro verifiche alle 08:20. Il validatore ha respinto il blocco prima del deploy. Ora distingue campo, istante futuro e scadenza. Verificato sul checkpoint storico senza alterarlo.
+- BATCH_BRIEF.md esplicita controllo dello slot, ricerca immediata su fonti approvate se il dossier è vecchio, cambio di fonte o di fatto se una pagina è illeggibile, orario effettivo e regola 40+40. Orari pianificati invariati. I prossimi cicli dovranno confermare l'efficacia del recupero editoriale automatico.
+
 ## Mattutina del 7 novembre — pubblicazione verificata
 - Ciclo 2026-11-07-mattina pubblicato alle 10:32 Europe/Rome. Edizione 2026-11-07-batches-ee0d5e30749c, 40 principali e 40 aggiuntive, cinque foto Commons e dieci schede per categoria. JSON pubblico senza cache identico a dist/data/current.json. Stato editorialComplete=true, publication=verified, reserveMissing=[].
 - Blocchi completi in 7caed2bad668abd834647aedd2e6ace617ba25a8. Run 42360145989 riuscita con verifica delle fonti, foto e deploy. Controlli locali delle 80 fonti e cinque licenze superati. Uniformato il formato dei fusi orari nei dati mantenendo gli istanti originali.
