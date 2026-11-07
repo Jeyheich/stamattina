@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-07",
+  "collectionId": "2026-11-07-mattina",
+  "category": "Economia",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-07T05:14:45.610Z",
+  "articles": [
+    {
+      "id": "economia-taglio-prezzo-latte-freshways-20261106",
+      "eventKey": "taglio-prezzo-latte-freshways-20261106",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Latte britannico, Freshways taglia il prezzo ai produttori",
+      "summary": "Dal primo dicembre Freshways ridurrà di sette penny al litro il prezzo riconosciuto agli allevatori, portandolo a 29,4 penny. Le associazioni agricole segnalano margini già compressi dai costi di produzione.",
+      "body": [
+        "Dal primo dicembre Freshways ridurrà di sette penny al litro il prezzo riconosciuto agli allevatori, portandolo a 29,4 penny. Le associazioni agricole segnalano margini già compressi dai costi di produzione."
+      ],
+      "publishedAt": "2026-11-06",
+      "verifiedAt": "2026-11-07T05:14:45.610Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/environment/2026/nov/06/uk-dairy-farmers-face-squeeze-as-milk-processor-cuts-prices",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T05:14:45.610Z",
+        "dateEvidence": "L'articolo indica Fri 6 Nov 2026 11.27 EST, aggiornato alle 11.46 EST.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-crollo-borse-globali-titoli-ai-20261106",
+      "eventKey": "crollo-borse-globali-titoli-ai-20261106",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Borse globali in calo, pesa il timore di una frenata dell'AI",
+      "summary": "Le vendite dei titoli tecnologici statunitensi si sono propagate venerdì ai listini asiatici ed europei. Il FTSE 100 ha recuperato parte delle perdite e il Nasdaq ha chiuso in rialzo dopo il forte ribasso del giorno precedente.",
+      "body": [
+        "Le vendite dei titoli tecnologici statunitensi si sono propagate venerdì ai listini asiatici ed europei. Il FTSE 100 ha recuperato parte delle perdite e il Nasdaq ha chiuso in rialzo dopo il forte ribasso del giorno precedente."
+      ],
+      "publishedAt": "2026-11-06",
+      "verifiedAt": "2026-11-07T05:14:45.610Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T05:14:45.610Z",
+        "dateEvidence": "L'articolo riporta First published on Fri 6 Nov 2026 03.58 EST, aggiornato alle 16.23 EST.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveDraft": []
+}
