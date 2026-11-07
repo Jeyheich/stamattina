@@ -1,5 +1,10 @@
 # Stamattina — stato operativo
 
+## Pomeridiana 7 novembre — recupero della raccolta
+- Alle 17:16 Europe/Rome erano salvati solo tre articoli parziali, nessuna aggiuntiva o foto. Il dossier era delle 10:19. Le task hanno segnalato accesso limitato a RomaToday/Leggo o verifiche editoriali non concluse. Il deploy è stato saltato prima del controllo delle fonti.
+- La run Pages richiama ora il raccoglitore RSS esistente dopo un checkpoint editoriale quando non c'è un'edizione da pubblicare. Il gate dello slot evita raccolte duplicate. Gli orari pianificati e il requisito 40+40 restano invariati.
+- Commit 4b0d342bf671311ab036610ccea5691618826f99, run 42394409161: Roma 5+5 da fonti originali RomaToday, recupero RSS riuscito alle 18:04 con 96 candidati e tutte le categorie coperte. Rimangono tre checkpoint parziali e quattro blocchi assenti. Il sito serve ancora la mattutina; la raccolta non certifica né pubblica le notizie.
+
 ## Prevenzione dei blocchi editoriali — 7 novembre
 - Il 7 novembre il dossier delle 06:00 era ancora quello della sera precedente. Le run pianificate del 4–6 erano partite diverse ore dopo l'orario atteso. I resoconti editoriali registrano anche errori di apertura di singole pagine, tra cui RomaToday e RaiNews, mentre il recupero ha letto fonti originali e pubblicato 40+40. Il ritardo preciso della coda GitHub e il motivo del singolo errore di lettura non sono desumibili dai resoconti.
 - Il checkpoint Sport 7391fa1 è stato salvato alle 08:07 Europe/Rome con completedAt e quattro verifiche alle 08:20. Il validatore ha respinto il blocco prima del deploy. Ora distingue campo, istante futuro e scadenza. Verificato sul checkpoint storico senza alterarlo.
