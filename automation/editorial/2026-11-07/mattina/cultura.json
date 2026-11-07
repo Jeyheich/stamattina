@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-07",
+  "collectionId": "2026-11-07-mattina",
+  "category": "Cultura · Teatro · Cinema",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-07T06:13:00Z",
+  "articles": [
+    {
+      "id": "cultura-factory-fest-reportage-20261106",
+      "eventKey": "factory-fest-umbria-sesta-edizione-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Factory Fest, il teatro contemporaneo attraversa cinque città umbre",
+      "summary": "Un reportage racconta la sesta edizione di Factory Fest, tra Foligno, Spoleto, Perugia, Campello e Spello: danza, musica e teatro esplorano il tema dello straniamento e del rapporto con la realtà.",
+      "body": [
+        "La sesta edizione di Factory Fest ha riunito spettacoli e performance in diversi centri umbri, con un programma multidisciplinare curato dalla cooperativa Ge.Ci.Te. insieme a La Mama Umbria International.",
+        "Nel reportage pubblicato il 6 novembre, Viviana Raciti analizza fra gli altri i lavori di lacasadargilla, Enrico Malatesta, Claudia Castellucci e Zaches Teatro, collegandoli al filo conduttore «fuori di sé»."
+      ],
+      "publishedAt": "2026-11-06",
+      "verifiedAt": "2026-11-07T06:13:00Z",
+      "source": {
+        "name": "Teatro e Critica",
+        "url": "https://www.teatroecritica.net/2026/11/factory-fest-da-foligno-fuori-di-se/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T06:13:00Z",
+        "dateEvidence": "Nella pagina originale compare la data 6 Novembre 2026 sotto il nome dell'autrice Viviana Raciti.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveDraft": []
+}
