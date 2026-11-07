@@ -1,5 +1,10 @@
 # Stamattina — stato operativo
 
+## Mattutina del 7 novembre — pubblicazione verificata
+- Ciclo 2026-11-07-mattina pubblicato alle 10:32 Europe/Rome. Edizione 2026-11-07-batches-ee0d5e30749c, 40 principali e 40 aggiuntive, cinque foto Commons e dieci schede per categoria. JSON pubblico senza cache identico a dist/data/current.json. Stato editorialComplete=true, publication=verified, reserveMissing=[].
+- Blocchi completi in 7caed2bad668abd834647aedd2e6ace617ba25a8. Run 42360145989 riuscita con verifica delle fonti, foto e deploy. Controlli locali delle 80 fonti e cinque licenze superati. Uniformato il formato dei fusi orari nei dati mantenendo gli istanti originali.
+- Il ritardo iniziale coincide con dossier RSS rimasto alla sera prima, blocchi mancanti e parziali, e orari di verifica futuri per Sport. Alla ripresa erano scadute anche le verifiche di altri blocchi. Rilette le fonti e completato il 40+40, senza derogare ai controlli. Questo recupero sostituisce il checkpoint parziale sottostante.
+
 ## Mattutina del 7 novembre — recupero parziale
 - Il workflow delle 08:07 Europe/Rome ha saltato promozione e deploy: 13 principali registrate, Sport respinto per orari di verifica futuri, Roma assente e zero aggiuntive. Il dossier automatico era ancora del 6 novembre sera.
 - Rilette e riconvalidate cinque principali Sport (9645d71), salvato Roma 5+5 (a3b4b73). Dossier aggiornato alle 10:19, 96 candidati, zero errori di raccolta (9457b07). Il dossier non equivale a verifica editoriale.
