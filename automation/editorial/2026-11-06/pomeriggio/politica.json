@@ -87,8 +87,28 @@
         "dateEvidence": "La pagina originale di Sky TG24 indica il 6 novembre 2026; l'orario del dossier precede le 19 a Roma.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "politica-farnesina-volontari-cisgiordania-20261106",
+      "eventKey": "farnesina-volontari-cisgiordania-20261106",
+      "category": "Politica",
+      "status": "verified",
+      "title": "La Farnesina chiede il rilascio degli italiani fermati in Cisgiordania",
+      "summary": "Il ministero degli Esteri ha attivato ambasciata e consolato per i volontari italiani fermati mentre aiutavano agricoltori palestinesi nella raccolta delle olive. Tra loro c’era la consigliera comunale spezzina Giorgia Lombardi.",
+      "body": [
+        "Il ministero degli Esteri ha attivato ambasciata e consolato per i volontari italiani fermati mentre aiutavano agricoltori palestinesi nella raccolta delle olive. Tra loro c’era la consigliera comunale spezzina Giorgia Lombardi."
+      ],
+      "publishedAt": "2026-11-06",
+      "verifiedAt": "2026-11-07T00:38:37.736344+00:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/politica/volontari-arrestati-cisgiordania-ultime-notizie_6t7cVs8OG0YeHhg6EVucgq",
+        "access": "free",
+        "accessCheckedAt": "2026-11-07T00:38:37.736344+00:00",
+        "dateEvidence": "Pagina originale di Adnkronos: articolo datato 6 novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
   ],
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-07T00:36:12.204396+00:00"
+  "completedAt": "2026-11-07T00:38:37.736344+00:00"
 }
