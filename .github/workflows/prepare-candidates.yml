@@ -1,5 +1,6 @@
 name: Prepara candidati rassegna
 on:
+  workflow_call:
   workflow_dispatch:
   schedule:
     # 06:00 e 16:00 Europe/Rome; il gate recupera lo slot dovuto anche in ritardo

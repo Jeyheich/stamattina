@@ -29,6 +29,8 @@ concurrency:
   cancel-in-progress: false
 jobs:
   deploy:
+    outputs:
+      recoverCandidates: ${{ steps.incoming.outputs.recoverCandidates }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -63,11 +65,20 @@ jobs:
           if [ "$BATCH_READY" = 'true' ]; then
             echo 'changed=true' >> "$GITHUB_OUTPUT"
           fi
+          recover_candidates=false
+          if [ "$EVENT_NAME" = 'push' ] && [ "$BATCH_READY" != 'true' ] &&
+            git diff --name-only "$BEFORE" "$GITHUB_SHA" -- automation/editorial |
+              grep -E '^automation/editorial/[0-9]{4}-[0-9]{2}-[0-9]{2}/((mattina|pomeriggio)/)?(politica|esteri|economia|cronaca|roma|cultura|tecnologia|sport)\.json$' >/dev/null; then
+            recover_candidates=true
+            echo 'recoverCandidates=true' >> "$GITHUB_OUTPUT"
+          fi
           if [ "$EVENT_NAME" = 'workflow_dispatch' ]; then
             if [ "$EDITORIAL_RECOVERY" != 'true' ]; then
               echo 'ui=true' >> "$GITHUB_OUTPUT"
             fi
-          elif [ "$EDITORIAL_RELEASE_NOV6_BASE" != 'true' ] && ! git diff --quiet "$BEFORE" "$GITHUB_SHA" -- dist scripts .github/workflows/pages.yml; then
+          elif [ "$EDITORIAL_RELEASE_NOV6_BASE" != 'true' ] &&
+            { ! git diff --quiet "$BEFORE" "$GITHUB_SHA" -- dist ||
+              { [ "$recover_candidates" != 'true' ] && ! git diff --quiet "$BEFORE" "$GITHUB_SHA" -- scripts .github/workflows/pages.yml; }; }; then
             echo 'ui=true' >> "$GITHUB_OUTPUT"
           fi
       - name: Controlla fonti, foto e date prima della pubblicazione
@@ -129,3 +140,10 @@ jobs:
             git commit -m 'Record verified public edition'
             git push origin HEAD:main
           fi
+  recover-candidates:
+    name: Recupera il dossier dopo un checkpoint incompleto
+    needs: deploy
+    if: needs.deploy.outputs.recoverCandidates == 'true'
+    permissions:
+      contents: write
+    uses: ./.github/workflows/prepare-candidates.yml
