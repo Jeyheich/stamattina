@@ -1,5 +1,10 @@
 # Stamattina — stato operativo
 
+## Mattutina del 7 novembre — recupero parziale
+- Il workflow delle 08:07 Europe/Rome ha saltato promozione e deploy: 13 principali registrate, Sport respinto per orari di verifica futuri, Roma assente e zero aggiuntive. Il dossier automatico era ancora del 6 novembre sera.
+- Rilette e riconvalidate cinque principali Sport (9645d71), salvato Roma 5+5 (a3b4b73). Dossier aggiornato alle 10:19, 96 candidati, zero errori di raccolta (9457b07). Il dossier non equivale a verifica editoriale.
+- Restano gli altri blocchi e la rilettura delle fonti scadute dopo tre ore. Il criterio 40+40 rimane attivo dal 7 novembre. Ultima edizione pubblica riscontrata: pomeridiana del 6.
+
 ## Decisione di pubblicazione — 7 novembre
 - Fabio autorizza la sola base del ciclo 2026-11-06-pomeriggio: 40 principali e cinque foto. La pubblicazione è richiesta tramite il commit dedicato «Pubblica la base verificata del 6 novembre 2026». Le verifiche di fonti e foto e il blocco contro la regressione del ciclo pubblico restano obbligatori.
 - Dal 7 novembre la promozione attende 40 principali e 40 aggiuntive verificate. Il recupero manuale degli altri arretrati conserva il requisito 40+40. Il ciclo del 6 rimane editorialmente incompleto.
