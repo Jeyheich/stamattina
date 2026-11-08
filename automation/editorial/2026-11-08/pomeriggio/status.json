@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-08",
-  "checkedAt": "2026-11-08T11:24:02.931Z",
+  "checkedAt": "2026-11-08T15:03:28.581Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,10 +14,17 @@
     "sport"
   ],
   "completed": [],
-  "inProgress": [],
+  "inProgress": [
+    {
+      "slug": "politica",
+      "count": 1
+    },
+    {
+      "slug": "esteri",
+      "count": 1
+    }
+  ],
   "missing": [
-    "politica",
-    "esteri",
     "economia",
     "cronaca",
     "roma",
@@ -26,7 +33,22 @@
     "sport"
   ],
   "invalid": [],
-  "stories": [],
+  "stories": [
+    {
+      "id": "politica-bonaccini-meme-tajani-maga",
+      "category": "Politica",
+      "title": "Bonaccini rimuove un meme su Tajani: polemica sull'immagine alterata",
+      "eventKey": "bonaccini-foto-manipolata-tajani-maga-polemica",
+      "pending": true
+    },
+    {
+      "id": "esteri-allarmi-bomba-europa-indagine",
+      "category": "Esteri",
+      "title": "Allarmi bomba nei cieli europei: indagini su una possibile matrice filorussa",
+      "eventKey": "allarmi-bomba-europa-indagini-possibile-regia-russa",
+      "pending": true
+    }
+  ],
   "collectionId": "2026-11-08-pomeriggio",
   "reserveCounts": {
     "Politica": 0,
@@ -42,13 +64,13 @@
   "photosAvailable": 0,
   "categoryProgress": {
     "politica": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "esteri": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false
