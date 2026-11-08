@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-08",
+  "collectionId": "2026-11-08-pomeriggio",
+  "category": "Cultura · Teatro · Cinema",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-08T16:19:30.361Z",
+  "articles": [
+    {
+      "id": "cultura-oscar-latella-bergamasco",
+      "eventKey": "oscar-linda-dalisi-latella-bergamasco-teatro",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Lady Oscar torna in scena: Latella esplora identità e contraddizioni",
+      "summary": "Nella recensione pubblicata l'8 novembre, Teatro e Critica analizza Oscar, spettacolo scritto da Linda Dalisi e diretto da Antonio Latella, con Sonia Bergamasco protagonista. La messinscena mette in rapporto memoria, identità e tensioni della Rivoluzione francese.",
+      "body": [
+        "Il nuovo Oscar, prodotto dal Teatro Stabile dell’Umbria, presenta Sonia Bergamasco nei panni della protagonista e Nicola Mastroberardino nel ruolo di André. La scenografia di Giuseppe Stellato costruisce uno spazio delimitato da una cortina e dominato da uno specchio circolare.",
+        "La recensione di Matteo Valentini legge il vuoto ai margini della scena come elemento centrale: la soluzione personale raggiunta da Oscar non cancella le contraddizioni del mondo esterno."
+      ],
+      "publishedAt": "2026-11-08",
+      "verifiedAt": "2026-11-08T16:19:30.361Z",
+      "source": {
+        "name": "Teatro e Critica",
+        "url": "https://www.teatroecritica.net/2026/11/chi-ha-paura-del-vuoto-oscar-di-antonio-latella/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-08T16:19:30.361Z",
+        "dateEvidence": "La pagina dell'articolo riporta esplicitamente 8 Novembre 2026 sotto il titolo; testo integrale leggibile nei risultati della fonte.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveDraft": []
+}
