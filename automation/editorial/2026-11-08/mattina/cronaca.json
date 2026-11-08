@@ -111,5 +111,50 @@
       }
     }
   ],
-  "reserveArticles": []
+  "reserveArticles": [],
+  "reserveDraft": [
+    {
+      "id": "cronaca-brennero-attacco-informatico-bbt-20261107",
+      "eventKey": "brennero-attacco-informatico-bbt-20261107",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Galleria del Brennero, indagine su un attacco informatico alla società",
+      "summary": "La società Bbt Se ha confermato un'intrusione nei sistemi informatici risalente a ottobre, dichiarando che i lavori e le operazioni non hanno subito conseguenze.",
+      "body": [
+        "La società Bbt Se ha confermato un'intrusione nei sistemi informatici risalente a ottobre, dichiarando che i lavori e le operazioni non hanno subito conseguenze."
+      ],
+      "publishedAt": "2026-11-07",
+      "verifiedAt": "2026-11-08T05:17:20.403Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/07/cyberattacco-galleria-societa-del-brennero",
+        "access": "free",
+        "accessCheckedAt": "2026-11-08T05:17:20.403Z",
+        "dateEvidence": "Pagina originale riporta 07 nov 2026 - 10:18",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-reggio-emilia-violenza-domestica-misura-20261107",
+      "eventKey": "reggio-emilia-violenza-domestica-misura-20261107",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Reggio Emilia, divieto di avvicinamento per un uomo accusato di violenze domestiche",
+      "summary": "I carabinieri hanno eseguito una misura cautelare con braccialetto elettronico contro un cinquantunenne accusato di minacce e aggressioni alla moglie.",
+      "body": [
+        "I carabinieri hanno eseguito una misura cautelare con braccialetto elettronico contro un cinquantunenne accusato di minacce e aggressioni alla moglie."
+      ],
+      "publishedAt": "2026-11-07",
+      "verifiedAt": "2026-11-08T05:17:20.403Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/07/reggio-emilia-51enne-strangolare-moglie",
+        "access": "free",
+        "accessCheckedAt": "2026-11-08T05:17:20.403Z",
+        "dateEvidence": "Pagina originale riporta 07 nov 2026 - 10:43",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "lastAttemptAt": "2026-11-08T05:17:20.403Z"
 }
