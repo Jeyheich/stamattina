@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-08",
+  "collectionId": "2026-11-08-pomeriggio",
+  "category": "Roma",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-08T16:19:42.185Z",
+  "articles": [
+    {
+      "id": "roma-laurentino38-indagine-droga-arresti",
+      "eventKey": "roma-laurentino38-droga-estorsioni-cinque-arresti",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Laurentino 38, cinque arresti dopo un'indagine su droga ed estorsioni",
+      "summary": "La polizia ha eseguito quattro misure cautelari nell'inchiesta su un'organizzazione che riforniva di stupefacenti la zona del «5° ponte» al Laurentino 38; una quinta persona è stata arrestata in flagranza.",
+      "body": [
+        "L'indagine coordinata dalla procura di Roma ha ricostruito un presunto traffico di cocaina, anche attraverso spedizioni dall'estero, e l'impiego di piattaforme di messaggistica criptate per lo spaccio.",
+        "Secondo gli investigatori, alcuni debiti legati all'attività illecita sarebbero stati recuperati attraverso minacce ed estorsioni. Le contestazioni restano accuse da accertare nelle sedi giudiziarie."
+      ],
+      "publishedAt": "2026-11-07",
+      "verifiedAt": "2026-11-08T16:19:42.185Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/amp/lazio/notizie/2026/11/07/droga-estorsioni-e-armi-cinque-arresti-a-roma_c3850abd-1d34-47cc-97ee-ade193d68fb4.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-08T16:19:42.185Z",
+        "dateEvidence": "La pagina ANSA riporta ROMA - Novembre 07, 2026 e l'articolo integrale descrive quattro misure cautelari più un arresto in flagranza.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveDraft": []
+}
