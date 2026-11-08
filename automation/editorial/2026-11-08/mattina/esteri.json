@@ -27,6 +27,28 @@
         "dateEvidence": "L'articolo Adnkronos riporta '07 novembre 2026 | 20.51'; l'annuncio ufficiale è indicato per l'8 novembre.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "esteri-cracovia-attacco-sei-vittime-20261108",
+      "eventKey": "cracovia-sparatoria-piazza-mercato-20261107",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Cracovia, sei morti nell'attacco in piazza: indagini sul movente",
+      "summary": "Un uomo di 24 anni ha aperto il fuoco nel centro di Cracovia il 7 novembre. Il bilancio riferito è di sei morti e sedici feriti; le autorità indagano anche su tre corpi trovati nella sua abitazione.",
+      "body": [
+        "A Cracovia un uomo armato ha sparato dalla propria auto nella zona della Piazza del Mercato il 7 novembre. La polizia lo ha fermato dopo l'attacco, nel quale sono morte sei persone e altre sedici sono rimaste ferite.",
+        "Nell'abitazione del sospettato sono stati rinvenuti altri tre corpi. Gli investigatori stanno verificando la possibile matrice estremista; un gruppo di studenti italiani presente nell'area è stato messo al sicuro."
+      ],
+      "publishedAt": "2026-11-08",
+      "verifiedAt": "2026-11-08T06:07:31+01:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/internazionale/esteri/cracovia-attacco-strage-cosa-sappiamo_45n95enGr4T7H8BrQJANi8",
+        "access": "free",
+        "accessCheckedAt": "2026-11-08T06:07:31+01:00",
+        "dateEvidence": "Adnkronos riporta la pubblicazione '08 novembre 2026 | 00.06'.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
   ],
   "reserveArticles": []
