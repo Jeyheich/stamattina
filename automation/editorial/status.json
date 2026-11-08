@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-08",
-  "checkedAt": "2026-11-08T05:17:34.284Z",
+  "checkedAt": "2026-11-08T06:01:21.107Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -15,7 +15,8 @@
   ],
   "completed": [
     "economia",
-    "cronaca"
+    "cronaca",
+    "tecnologia"
   ],
   "inProgress": [
     {
@@ -30,7 +31,6 @@
   "missing": [
     "roma",
     "cultura",
-    "tecnologia",
     "sport"
   ],
   "invalid": [],
@@ -122,6 +122,36 @@
       "category": "Cronaca",
       "title": "Vicenza, arrestato un uomo dopo una grave aggressione alla compagna",
       "eventKey": "vicenza-aggressione-compagna-arresto-20261107"
+    },
+    {
+      "id": "tecnologia-big-tech-indagini-democratici-2026",
+      "category": "Tecnologia · AI",
+      "title": "Democratici USA, ipotesi indagini sui rapporti tra Big Tech e Casa Bianca",
+      "eventKey": "big-tech-indagini-democratici-2026"
+    },
+    {
+      "id": "tecnologia-apt29-zero-click-android-ios-2026",
+      "category": "Tecnologia · AI",
+      "title": "Campagna di spionaggio contro Android e iPhone attraverso siti compromessi",
+      "eventKey": "apt29-zero-click-android-ios-2026"
+    },
+    {
+      "id": "tecnologia-windows-11-26h2-ricerca-beta-2026",
+      "category": "Tecnologia · AI",
+      "title": "Windows 11, la nuova ricerca arriva nel canale Beta della 26H2",
+      "eventKey": "windows-11-26h2-ricerca-beta-2026"
+    },
+    {
+      "id": "tecnologia-path-of-exile-2-versione-1-0-2026",
+      "category": "Tecnologia · AI",
+      "title": "Path of Exile 2, il trailer anticipa nuovi atti e classi per la versione 1.0",
+      "eventKey": "path-of-exile-2-versione-1-0-2026"
+    },
+    {
+      "id": "tecnologia-playstation-plus-perk-prove-gratuite-2026",
+      "category": "Tecnologia · AI",
+      "title": "PlayStation Plus, critiche alle prove di servizi esterni offerte come vantaggi",
+      "eventKey": "playstation-plus-perk-prove-gratuite-2026"
     }
   ],
   "collectionId": "2026-11-08-mattina",
@@ -175,7 +205,7 @@
       "complete": false
     },
     "tecnologia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
