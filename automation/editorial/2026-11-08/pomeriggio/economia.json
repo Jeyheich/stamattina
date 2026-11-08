@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-08",
+  "collectionId": "2026-11-08-pomeriggio",
+  "category": "Economia",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-08T15:18:12.789Z",
+  "articles": [
+    {
+      "id": "economia-produttori-banane-clima",
+      "eventKey": "produttori-banane-america-latina-prezzi-clima",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Banane, i produttori latinoamericani chiedono prezzi più equi contro i danni climatici",
+      "summary": "Coltivatori e organizzazioni del commercio equo chiedono remunerazioni adeguate per affrontare eventi meteorologici estremi e costi crescenti.",
+      "body": [
+        "In Colombia, Perù ed Ecuador le condizioni meteorologiche estreme mettono sotto pressione raccolti ed esportazioni di banane. Secondo le organizzazioni citate dal Guardian, il settore deve sostenere costi crescenti per adattarsi al clima.",
+        "Fairtrade chiede pratiche commerciali più eque e condizioni economiche che permettano agli agricoltori di investire nella resilienza delle colture."
+      ],
+      "publishedAt": "2026-11-08",
+      "verifiedAt": "2026-11-08T15:18:12.789Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
+        "access": "free",
+        "accessCheckedAt": "2026-11-08T15:18:12.789Z",
+        "dateEvidence": "Nella pagina originale compare Sun 8 Nov 2026 02.00 EST, con aggiornamento 02.02 EST.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-voto-usa-datacenter-ai",
+      "eventKey": "elezioni-usa-opposizione-datacenter-investimenti-ai",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Negli Stati Uniti il voto riapre il dibattito economico sui grandi data center",
+      "summary": "Un'analisi del Guardian collega le opposizioni locali ai data center emerse nelle elezioni di metà mandato ai dubbi sul ritmo degli investimenti nell'AI.",
+      "body": [
+        "Le elezioni statunitensi di metà mandato hanno dato visibilità alle contestazioni contro l'espansione dei data center, soprattutto per i consumi energetici e l'impatto sulle comunità vicine.",
+        "Nell'analisi firmata Heather Stewart, questa opposizione si intreccia con i timori finanziari sulle valutazioni del settore dell'intelligenza artificiale. Si tratta di una lettura economica e politica, non di una previsione certa sull'andamento dei mercati."
+      ],
+      "publishedAt": "2026-11-08",
+      "verifiedAt": "2026-11-08T15:18:12.789Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
+        "access": "free",
+        "accessCheckedAt": "2026-11-08T15:18:12.789Z",
+        "dateEvidence": "La pagina indica Sun 8 Nov 2026 12.05 GMT e ultimo aggiornamento 14.38 GMT.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
