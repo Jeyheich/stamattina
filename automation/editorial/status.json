@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-08",
-  "checkedAt": "2026-11-08T15:18:25.635Z",
+  "checkedAt": "2026-11-08T15:18:48.805Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -26,10 +26,13 @@
     {
       "slug": "economia",
       "count": 2
+    },
+    {
+      "slug": "cronaca",
+      "count": 1
     }
   ],
   "missing": [
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -63,6 +66,13 @@
       "category": "Economia",
       "title": "Negli Stati Uniti il voto riapre il dibattito economico sui grandi data center",
       "eventKey": "elezioni-usa-opposizione-datacenter-investimenti-ai",
+      "pending": true
+    },
+    {
+      "id": "cronaca-milano-rissa-agente-ferita",
+      "category": "Cronaca",
+      "title": "Milano, agente ferita durante un intervento per una rissa: arrestato un giovane",
+      "eventKey": "milano-largo-la-foppa-rissa-agente-ferita",
       "pending": true
     }
   ],
@@ -99,7 +109,7 @@
       "complete": false
     },
     "cronaca": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false
