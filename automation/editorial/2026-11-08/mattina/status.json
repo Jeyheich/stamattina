@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-08",
-  "checkedAt": "2026-11-08T05:17:11.888Z",
+  "checkedAt": "2026-11-08T05:17:34.284Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -153,13 +153,13 @@
     "economia": {
       "base": 5,
       "reserve": 0,
-      "draft": 0,
+      "draft": 2,
       "complete": false
     },
     "cronaca": {
       "base": 5,
       "reserve": 0,
-      "draft": 0,
+      "draft": 2,
       "complete": false
     },
     "roma": {
