@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-08",
-  "checkedAt": "2026-11-08T17:06:06.998Z",
+  "checkedAt": "2026-11-08T17:14:19.136Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -29,7 +29,7 @@
     },
     {
       "slug": "cronaca",
-      "count": 1
+      "count": 4
     },
     {
       "slug": "roma",
@@ -89,6 +89,27 @@
       "pending": true
     },
     {
+      "id": "cronaca-terni-incidente-ventunenne",
+      "category": "Cronaca",
+      "title": "Terni, ventunenne muore dopo lo scontro tra un'auto e un furgone",
+      "eventKey": "terni-via-vitalone-scontro-auto-furgone-morte-ventunenne",
+      "pending": true
+    },
+    {
+      "id": "cronaca-trani-imprenditore-aggredito",
+      "category": "Cronaca",
+      "title": "Trani, gestore di un locale ricoverato dopo una violenta aggressione",
+      "eventKey": "trani-gestore-locale-aggredito-coma-farmacologico",
+      "pending": true
+    },
+    {
+      "id": "cronaca-vertice-sicurezza-cyber",
+      "category": "Cronaca",
+      "title": "Attacchi informatici, convocato un vertice nazionale sulla sicurezza",
+      "eventKey": "piantedosi-convoca-comitato-sicurezza-attacchi-informatici-10-novembre",
+      "pending": true
+    },
+    {
       "id": "roma-laurentino38-indagine-droga-arresti",
       "category": "Roma",
       "title": "Laurentino 38, cinque arresti dopo un'indagine su droga ed estorsioni",
@@ -136,7 +157,7 @@
       "complete": false
     },
     "cronaca": {
-      "base": 1,
+      "base": 4,
       "reserve": 0,
       "draft": 0,
       "complete": false
