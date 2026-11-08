@@ -4,7 +4,7 @@
   "collectionId": "2026-11-08-mattina",
   "category": "Esteri",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-08T06:07:31+01:00",
+  "lastAttemptAt": "2026-11-08T07:01:04.127Z",
   "articles": [
     {
       "id": "esteri-israele-herzog-eisenkot-incarico-20261107",
@@ -47,6 +47,28 @@
         "access": "free",
         "accessCheckedAt": "2026-11-08T06:07:31+01:00",
         "dateEvidence": "Adnkronos riporta la pubblicazione '08 novembre 2026 | 00.06'.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-trump-ordine-indagini-democratici-20261107",
+      "eventKey": "trump-ordine-indagini-democratici-minacce-impeachment-20261107",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Stati Uniti, Trump chiede indagini sulle presunte minacce dei democratici",
+      "summary": "Il presidente americano ha dichiarato di aver ordinato al Dipartimento di Giustizia di indagare su esponenti democratici accusati di minacce politiche.",
+      "body": [
+        "In un messaggio su Truth, Donald Trump ha affermato di aver ordinato un'indagine immediata sui democratici che, a suo dire, minaccerebbero funzionari e sostenitori repubblicani con impeachment e altre misure.",
+        "La ricostruzione di RaiNews riporta le accuse del presidente; non costituisce una conferma indipendente delle condotte attribuite agli avversari politici."
+      ],
+      "publishedAt": "2026-11-07",
+      "verifiedAt": "2026-11-08T07:01:04.127Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/maratona/2026/11/dopo-londa-blu-trump-possiamo-collaborare-con-i-dem-c445ff6c-6393-46d9-9dc9-3ffb08b44d4d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-08T07:01:04.127Z",
+        "dateEvidence": "Il dossier RaiNews del 7 novembre 2026 riporta il lancio nel feed del 7 novembre alle 22:07 UTC; la pagina è una diretta aggiornata.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
