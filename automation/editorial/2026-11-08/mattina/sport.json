@@ -116,5 +116,30 @@
       }
     }
   ],
-  "reserveArticles": []
+  "reserveArticles": [],
+  "reserveDraft": [
+    {
+      "id": "sport-lazio-gattuso-napoli-umilta-20261107",
+      "eventKey": "lazio-gattuso-conferenza-napoli-20261107",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Lazio, Gattuso chiede umiltà prima della trasferta a Napoli",
+      "summary": "Il tecnico della capolista invita la squadra a non concentrarsi sul primato e a rispettare un Napoli in difficoltà.",
+      "body": [
+        "Nella conferenza stampa della vigilia Gattuso insiste sulla necessità di affrontare la partita senza eccessiva pressione.",
+        "Il tecnico conferma la prudenza sui rientri degli infortunati, tra cui Zaccagni, per evitare ricadute."
+      ],
+      "publishedAt": "2026-11-07T12:00:00+01:00",
+      "verifiedAt": "2026-11-08T06:01:35Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/11/07/napoli-lazio-gattuso-conferenza-video",
+        "access": "free",
+        "accessCheckedAt": "2026-11-08T06:01:35Z",
+        "dateEvidence": "La pagina originale Sky Sport indica '07 nov 2026 - 12:00'.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "lastAttemptAt": "2026-11-08T06:01:35Z"
 }
