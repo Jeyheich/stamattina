@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-08",
-  "checkedAt": "2026-11-08T05:09:16.163Z",
+  "checkedAt": "2026-11-08T05:17:11.888Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,7 +13,10 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [],
+  "completed": [
+    "economia",
+    "cronaca"
+  ],
   "inProgress": [
     {
       "slug": "politica",
@@ -25,8 +28,6 @@
     }
   ],
   "missing": [
-    "economia",
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -61,6 +62,66 @@
       "title": "Cracovia, sei morti nell'attacco in piazza: indagini sul movente",
       "eventKey": "cracovia-sparatoria-piazza-mercato-20261107",
       "pending": true
+    },
+    {
+      "id": "economia-paraguay-crisi-banca-ueno-20261107",
+      "category": "Economia",
+      "title": "Paraguay, il collasso bancario travolge anche la presidenza",
+      "eventKey": "paraguay-crisi-banca-ueno-20261107"
+    },
+    {
+      "id": "economia-eu-uk-energia-leader-20261107",
+      "category": "Economia",
+      "title": "Cinque governi europei chiedono una cooperazione energetica più stretta con Londra",
+      "eventKey": "eu-uk-energia-leader-20261107"
+    },
+    {
+      "id": "economia-national-trust-banca-ambiente-20261107",
+      "category": "Economia",
+      "title": "National Trust cerca una banca più coerente con i propri obiettivi ambientali",
+      "eventKey": "national-trust-banca-ambiente-20261107"
+    },
+    {
+      "id": "economia-great-british-railways-sfide-2027",
+      "category": "Economia",
+      "title": "Ferrovie britanniche, la riforma verso il 2027 incontra problemi strutturali",
+      "eventKey": "great-british-railways-sfide-2027"
+    },
+    {
+      "id": "economia-pokemon-carte-rivendita-prezzi-20261107",
+      "category": "Economia",
+      "title": "Carte Pokémon, la corsa dei rivenditori rende più costoso collezionare",
+      "eventKey": "pokemon-carte-rivendita-prezzi-20261107"
+    },
+    {
+      "id": "cronaca-ciro-grillo-difesa-rifare-primo-grado-20261107",
+      "category": "Cronaca",
+      "title": "Processo Ciro Grillo, i difensori contestano la firma della sentenza",
+      "eventKey": "ciro-grillo-difesa-rifare-primo-grado-20261107"
+    },
+    {
+      "id": "cronaca-tajani-dati-darkweb-hacker-20261107",
+      "category": "Cronaca",
+      "title": "Tajani denuncia la diffusione di dati personali sul dark web",
+      "eventKey": "tajani-dati-darkweb-hacker-20261107"
+    },
+    {
+      "id": "cronaca-cortei-italia-carovita-20261107",
+      "category": "Cronaca",
+      "title": "Manifestazioni contro il carovita in più città italiane",
+      "eventKey": "cortei-italia-carovita-20261107"
+    },
+    {
+      "id": "cronaca-maltempo-italia-neve-alpi-20261107",
+      "category": "Cronaca",
+      "title": "Maltempo, piogge al Centro-Sud e neve in quota sulle Alpi",
+      "eventKey": "maltempo-italia-neve-alpi-20261107"
+    },
+    {
+      "id": "cronaca-vicenza-aggressione-compagna-arresto-20261107",
+      "category": "Cronaca",
+      "title": "Vicenza, arrestato un uomo dopo una grave aggressione alla compagna",
+      "eventKey": "vicenza-aggressione-compagna-arresto-20261107"
     }
   ],
   "collectionId": "2026-11-08-mattina",
@@ -90,13 +151,13 @@
       "complete": false
     },
     "economia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cronaca": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
