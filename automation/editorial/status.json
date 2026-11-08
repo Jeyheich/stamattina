@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-08",
-  "checkedAt": "2026-11-08T06:13:27.057Z",
+  "checkedAt": "2026-11-08T07:01:26.293Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -22,11 +22,11 @@
   "inProgress": [
     {
       "slug": "politica",
-      "count": 2
+      "count": 3
     },
     {
       "slug": "esteri",
-      "count": 2
+      "count": 3
     },
     {
       "slug": "cultura",
@@ -53,6 +53,13 @@
       "pending": true
     },
     {
+      "id": "politica-campo-largo-tavoli-programma-20261107",
+      "category": "Politica",
+      "title": "Centrosinistra, primo incontro sul programma comune e dieci tavoli tematici",
+      "eventKey": "campo-largo-prima-riunione-dieci-tavoli-programma-20261107",
+      "pending": true
+    },
+    {
       "id": "esteri-israele-herzog-eisenkot-incarico-20261107",
       "category": "Esteri",
       "title": "Israele, Herzog sceglie Eisenkot per formare il governo",
@@ -64,6 +71,13 @@
       "category": "Esteri",
       "title": "Cracovia, sei morti nell'attacco in piazza: indagini sul movente",
       "eventKey": "cracovia-sparatoria-piazza-mercato-20261107",
+      "pending": true
+    },
+    {
+      "id": "esteri-trump-ordine-indagini-democratici-20261107",
+      "category": "Esteri",
+      "title": "Stati Uniti, Trump chiede indagini sulle presunte minacce dei democratici",
+      "eventKey": "trump-ordine-indagini-democratici-minacce-impeachment-20261107",
       "pending": true
     },
     {
