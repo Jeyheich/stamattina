@@ -116,5 +116,30 @@
       }
     }
   ],
-  "reserveArticles": []
+  "reserveArticles": [],
+  "reserveDraft": [
+    {
+      "id": "tecnologia-meta-muse-spaces-20261107",
+      "eventKey": "meta-muse-spaces-20261107",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Meta presenta Spaces per organizzare le conversazioni con Muse",
+      "summary": "La funzione permette di creare spazi tematici nell'assistente Muse e collegare applicazioni esterne.",
+      "body": [
+        "Meta ha annunciato Spaces, una funzione per organizzare conversazioni dedicate a singoli argomenti all'interno di Muse.",
+        "Gli spazi possono essere personalizzati e aggiornati con informazioni di app collegate. La disponibilità non comprende ancora l'Italia."
+      ],
+      "publishedAt": "2026-11-07",
+      "verifiedAt": "2026-11-08T06:01:35Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/muse-spaces-conversazioni-specifici-argomenti/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-08T06:01:35Z",
+        "dateEvidence": "Nella pagina originale compare 'Pubblicato il 7 nov 2026'.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "lastAttemptAt": "2026-11-08T06:01:35Z"
 }
