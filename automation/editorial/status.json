@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-08",
-  "checkedAt": "2026-11-08T16:20:00.869Z",
+  "checkedAt": "2026-11-08T17:06:06.998Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -17,7 +17,7 @@
   "inProgress": [
     {
       "slug": "politica",
-      "count": 1
+      "count": 2
     },
     {
       "slug": "esteri",
@@ -51,6 +51,13 @@
       "category": "Politica",
       "title": "Bonaccini rimuove un meme su Tajani: polemica sull'immagine alterata",
       "eventKey": "bonaccini-foto-manipolata-tajani-maga-polemica",
+      "pending": true
+    },
+    {
+      "id": "politica-regioni-anci-cisl-manovra-novembre",
+      "category": "Politica",
+      "title": "Manovra, sindacati e Comuni chiedono modifiche prima delle audizioni",
+      "eventKey": "manovra-2027-proteste-cisl-anci-audizioni",
       "pending": true
     },
     {
@@ -111,7 +118,7 @@
   "photosAvailable": 0,
   "categoryProgress": {
     "politica": {
-      "base": 1,
+      "base": 2,
       "reserve": 0,
       "draft": 0,
       "complete": false
