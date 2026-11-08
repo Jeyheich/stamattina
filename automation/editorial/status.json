@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-08",
-  "checkedAt": "2026-11-08T07:01:48.528Z",
+  "checkedAt": "2026-11-08T11:24:02.931Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,209 +13,21 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [
+  "completed": [],
+  "inProgress": [],
+  "missing": [
+    "politica",
+    "esteri",
     "economia",
     "cronaca",
+    "roma",
+    "cultura",
     "tecnologia",
     "sport"
   ],
-  "inProgress": [
-    {
-      "slug": "politica",
-      "count": 3
-    },
-    {
-      "slug": "esteri",
-      "count": 3
-    },
-    {
-      "slug": "cultura",
-      "count": 2
-    }
-  ],
-  "missing": [
-    "roma"
-  ],
   "invalid": [],
-  "stories": [
-    {
-      "id": "politica-anac-salvini-nuovo-candidato-20261107",
-      "category": "Politica",
-      "title": "ANAC, Salvini annuncia un nuovo candidato per lunedì",
-      "eventKey": "anac-salvini-nuovo-candidato-cdm-20261107",
-      "pending": true
-    },
-    {
-      "id": "politica-la-russa-ipotesi-voto-anticipato-20261106",
-      "category": "Politica",
-      "title": "Voto anticipato, le opposizioni chiedono chiarezza dopo la proposta di La Russa",
-      "eventKey": "la-russa-ipotesi-accorpamento-elezioni-2027",
-      "pending": true
-    },
-    {
-      "id": "politica-campo-largo-tavoli-programma-20261107",
-      "category": "Politica",
-      "title": "Centrosinistra, primo incontro sul programma comune e dieci tavoli tematici",
-      "eventKey": "campo-largo-prima-riunione-dieci-tavoli-programma-20261107",
-      "pending": true
-    },
-    {
-      "id": "esteri-israele-herzog-eisenkot-incarico-20261107",
-      "category": "Esteri",
-      "title": "Israele, Herzog sceglie Eisenkot per formare il governo",
-      "eventKey": "israele-herzog-incarico-eisenkot-governo-20261107",
-      "pending": true
-    },
-    {
-      "id": "esteri-cracovia-attacco-sei-vittime-20261108",
-      "category": "Esteri",
-      "title": "Cracovia, sei morti nell'attacco in piazza: indagini sul movente",
-      "eventKey": "cracovia-sparatoria-piazza-mercato-20261107",
-      "pending": true
-    },
-    {
-      "id": "esteri-trump-ordine-indagini-democratici-20261107",
-      "category": "Esteri",
-      "title": "Stati Uniti, Trump chiede indagini sulle presunte minacce dei democratici",
-      "eventKey": "trump-ordine-indagini-democratici-minacce-impeachment-20261107",
-      "pending": true
-    },
-    {
-      "id": "cultura-faust-castellucci-roma-europa-20261107",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Castellucci rilegge Faust: il corpo al centro della scena",
-      "eventKey": "faust-castellucci-roma-europa-fatto-non-detto-2026",
-      "pending": true
-    },
-    {
-      "id": "cultura-factory-fest-foligno-reportage-20261106",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Factory Fest, un viaggio tra teatro, danza e sperimentazione in Umbria",
-      "eventKey": "factory-fest-umbria-sesta-edizione-reportage-2026",
-      "pending": true
-    },
-    {
-      "id": "economia-paraguay-crisi-banca-ueno-20261107",
-      "category": "Economia",
-      "title": "Paraguay, il collasso bancario travolge anche la presidenza",
-      "eventKey": "paraguay-crisi-banca-ueno-20261107"
-    },
-    {
-      "id": "economia-eu-uk-energia-leader-20261107",
-      "category": "Economia",
-      "title": "Cinque governi europei chiedono una cooperazione energetica più stretta con Londra",
-      "eventKey": "eu-uk-energia-leader-20261107"
-    },
-    {
-      "id": "economia-national-trust-banca-ambiente-20261107",
-      "category": "Economia",
-      "title": "National Trust cerca una banca più coerente con i propri obiettivi ambientali",
-      "eventKey": "national-trust-banca-ambiente-20261107"
-    },
-    {
-      "id": "economia-great-british-railways-sfide-2027",
-      "category": "Economia",
-      "title": "Ferrovie britanniche, la riforma verso il 2027 incontra problemi strutturali",
-      "eventKey": "great-british-railways-sfide-2027"
-    },
-    {
-      "id": "economia-pokemon-carte-rivendita-prezzi-20261107",
-      "category": "Economia",
-      "title": "Carte Pokémon, la corsa dei rivenditori rende più costoso collezionare",
-      "eventKey": "pokemon-carte-rivendita-prezzi-20261107"
-    },
-    {
-      "id": "cronaca-ciro-grillo-difesa-rifare-primo-grado-20261107",
-      "category": "Cronaca",
-      "title": "Processo Ciro Grillo, i difensori contestano la firma della sentenza",
-      "eventKey": "ciro-grillo-difesa-rifare-primo-grado-20261107"
-    },
-    {
-      "id": "cronaca-tajani-dati-darkweb-hacker-20261107",
-      "category": "Cronaca",
-      "title": "Tajani denuncia la diffusione di dati personali sul dark web",
-      "eventKey": "tajani-dati-darkweb-hacker-20261107"
-    },
-    {
-      "id": "cronaca-cortei-italia-carovita-20261107",
-      "category": "Cronaca",
-      "title": "Manifestazioni contro il carovita in più città italiane",
-      "eventKey": "cortei-italia-carovita-20261107"
-    },
-    {
-      "id": "cronaca-maltempo-italia-neve-alpi-20261107",
-      "category": "Cronaca",
-      "title": "Maltempo, piogge al Centro-Sud e neve in quota sulle Alpi",
-      "eventKey": "maltempo-italia-neve-alpi-20261107"
-    },
-    {
-      "id": "cronaca-vicenza-aggressione-compagna-arresto-20261107",
-      "category": "Cronaca",
-      "title": "Vicenza, arrestato un uomo dopo una grave aggressione alla compagna",
-      "eventKey": "vicenza-aggressione-compagna-arresto-20261107"
-    },
-    {
-      "id": "tecnologia-big-tech-indagini-democratici-2026",
-      "category": "Tecnologia · AI",
-      "title": "Democratici USA, ipotesi indagini sui rapporti tra Big Tech e Casa Bianca",
-      "eventKey": "big-tech-indagini-democratici-2026"
-    },
-    {
-      "id": "tecnologia-apt29-zero-click-android-ios-2026",
-      "category": "Tecnologia · AI",
-      "title": "Campagna di spionaggio contro Android e iPhone attraverso siti compromessi",
-      "eventKey": "apt29-zero-click-android-ios-2026"
-    },
-    {
-      "id": "tecnologia-windows-11-26h2-ricerca-beta-2026",
-      "category": "Tecnologia · AI",
-      "title": "Windows 11, la nuova ricerca arriva nel canale Beta della 26H2",
-      "eventKey": "windows-11-26h2-ricerca-beta-2026"
-    },
-    {
-      "id": "tecnologia-path-of-exile-2-versione-1-0-2026",
-      "category": "Tecnologia · AI",
-      "title": "Path of Exile 2, il trailer anticipa nuovi atti e classi per la versione 1.0",
-      "eventKey": "path-of-exile-2-versione-1-0-2026"
-    },
-    {
-      "id": "tecnologia-playstation-plus-perk-prove-gratuite-2026",
-      "category": "Tecnologia · AI",
-      "title": "PlayStation Plus, critiche alle prove di servizi esterni offerte come vantaggi",
-      "eventKey": "playstation-plus-perk-prove-gratuite-2026"
-    },
-    {
-      "id": "sport-genoa-milan-formazioni-20261108",
-      "category": "Sport",
-      "title": "Genoa-Milan, dubbi di formazione alla vigilia",
-      "eventKey": "genoa-milan-formazioni-20261108"
-    },
-    {
-      "id": "sport-roma-sassuolo-aquilani-20261107",
-      "category": "Sport",
-      "title": "Sassuolo, Aquilani si assume la responsabilità dopo il 3-0 con la Roma",
-      "eventKey": "roma-sassuolo-aquilani-20261107"
-    },
-    {
-      "id": "sport-napoli-allegri-conferenza-annullata-20261107",
-      "category": "Sport",
-      "title": "Napoli, De Laurentiis spiega l'annullamento della conferenza di Allegri",
-      "eventKey": "napoli-allegri-conferenza-annullata-20261107"
-    },
-    {
-      "id": "sport-f1-brasile-pole-norris-20261107",
-      "category": "Sport",
-      "title": "Formula 1, Norris conquista la pole in Brasile davanti ad Antonelli in griglia",
-      "eventKey": "f1-brasile-pole-norris-20261107"
-    },
-    {
-      "id": "sport-inter-como-fabregas-giovani-20261107",
-      "category": "Sport",
-      "title": "Como verso l'Inter, Fabregas convoca due giovani della Primavera",
-      "eventKey": "inter-como-fabregas-giovani-20261107"
-    }
-  ],
-  "collectionId": "2026-11-08-mattina",
+  "stories": [],
+  "collectionId": "2026-11-08-pomeriggio",
   "reserveCounts": {
     "Politica": 0,
     "Esteri": 0,
@@ -242,15 +54,15 @@
       "complete": false
     },
     "economia": {
-      "base": 5,
+      "base": 0,
       "reserve": 0,
-      "draft": 2,
+      "draft": 0,
       "complete": false
     },
     "cronaca": {
-      "base": 5,
+      "base": 0,
       "reserve": 0,
-      "draft": 2,
+      "draft": 0,
       "complete": false
     },
     "roma": {
@@ -266,15 +78,15 @@
       "complete": false
     },
     "tecnologia": {
-      "base": 5,
+      "base": 0,
       "reserve": 0,
-      "draft": 1,
+      "draft": 0,
       "complete": false
     },
     "sport": {
-      "base": 5,
+      "base": 0,
       "reserve": 0,
-      "draft": 1,
+      "draft": 0,
       "complete": false
     }
   },
