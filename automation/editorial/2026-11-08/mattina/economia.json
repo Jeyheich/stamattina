@@ -111,5 +111,50 @@
       }
     }
   ],
-  "reserveArticles": []
+  "reserveArticles": [],
+  "reserveDraft": [
+    {
+      "id": "economia-data-center-sottomarini-grandi-laghi-20261107",
+      "eventKey": "data-center-sottomarini-grandi-laghi-20261107",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Centri dati sott'acqua, nuove ipotesi negli Stati Uniti",
+      "summary": "Negli Stati Uniti si studiano installazioni subacquee per ridurre alcuni costi e l'opposizione locale, ma i progetti restano in fase di valutazione.",
+      "body": [
+        "Negli Stati Uniti si studiano installazioni subacquee per ridurre alcuni costi e l'opposizione locale, ma i progetti restano in fase di valutazione."
+      ],
+      "publishedAt": "2026-11-07",
+      "verifiedAt": "2026-11-08T05:17:17.635Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/nov/07/underwater-datacenters-great-lakes-trump",
+        "access": "free",
+        "accessCheckedAt": "2026-11-08T05:17:17.635Z",
+        "dateEvidence": "Sat 7 Nov 2026 15.00 CET; last modified 15.01 CET",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-cisco-contratti-intelligence-israele-20261107",
+      "eventKey": "cisco-contratti-intelligence-israele-20261107",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Documenti trapelati descrivono i contratti di Cisco con l'intelligence israeliana",
+      "summary": "Secondo un'inchiesta del Guardian, documenti interni indicano interventi tecnici e trattative per preservare rapporti commerciali con apparati militari israeliani durante la guerra a Gaza.",
+      "body": [
+        "Secondo un'inchiesta del Guardian, documenti interni indicano interventi tecnici e trattative per preservare rapporti commerciali con apparati militari israeliani durante la guerra a Gaza."
+      ],
+      "publishedAt": "2026-11-07",
+      "verifiedAt": "2026-11-08T05:17:17.635Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine",
+        "access": "free",
+        "accessCheckedAt": "2026-11-08T05:17:17.635Z",
+        "dateEvidence": "Sat 7 Nov 2026 07.00 EST; last modified 07.02 EST",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "lastAttemptAt": "2026-11-08T05:17:17.635Z"
 }
