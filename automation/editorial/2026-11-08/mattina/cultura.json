@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-08",
+  "collectionId": "2026-11-08-mattina",
+  "category": "Cultura · Teatro · Cinema",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-08T06:13:13.853Z",
+  "articles": [
+    {
+      "id": "cultura-faust-castellucci-roma-europa-20261107",
+      "eventKey": "faust-castellucci-roma-europa-fatto-non-detto-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Castellucci rilegge Faust: il corpo al centro della scena",
+      "summary": "La recensione di Teatro e Critica racconta il nuovo Faust. Fatto, non detto, presentato al Teatro Argentina per Romaeuropa Festival e atteso in tournée europea.",
+      "body": [
+        "Il lavoro di Romeo Castellucci affronta il mito di Faust privilegiando il gesto e la presenza fisica rispetto alla parola. In scena Gérard Bayle interpreta Faust, con Stefania Horodeyska nel ruolo di Margherita e Lorenzo Coletta in quello di Mefistofele.",
+        "La lettura critica di Andrea Pocosgnich sottolinea il rapporto fra controllo, intelligenza artificiale e libertà umana, oltre all'omaggio al teatro di Grotowski attraverso immagini di Ryszard Cieslak. Sono annunciate tappe a Napoli e Bologna a dicembre e a Milano nel febbraio 2027."
+      ],
+      "publishedAt": "2026-11-07",
+      "verifiedAt": "2026-11-08T06:13:13.853Z",
+      "source": {
+        "name": "Teatro e Critica",
+        "url": "https://www.teatroecritica.net/2026/11/faust-di-romeo-castellucci-in-principio-era-lazione-e-il-corpo/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-08T06:13:13.853Z",
+        "dateEvidence": "L'articolo di Andrea Pocosgnich riporta in testata la data 7 Novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-factory-fest-foligno-reportage-20261106",
+      "eventKey": "factory-fest-umbria-sesta-edizione-reportage-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Factory Fest, un viaggio tra teatro, danza e sperimentazione in Umbria",
+      "summary": "Un reportage ripercorre la sesta edizione del festival multidisciplinare che ha coinvolto Foligno, Spoleto, Perugia, Campello e Spello.",
+      "body": [
+        "Il festival curato dalla cooperativa Ge.Ci.Te. con La Mama Umbria International ha proposto performance e spettacoli sotto il filo conduttore «fuori di sé». Il reportage analizza lavori di lacasadargilla, Enrico Malatesta, Claudia Castellucci e Zaches Teatro.",
+        "Tra gli spettacoli descritti figurano Verso la specie! e Arlecchino, oltre alla performance itinerante Non una voce. Il resoconto riguarda eventi di ottobre, raccontati nell'articolo pubblicato il 6 novembre."
+      ],
+      "publishedAt": "2026-11-06",
+      "verifiedAt": "2026-11-08T06:13:13.853Z",
+      "source": {
+        "name": "Teatro e Critica",
+        "url": "https://www.teatroecritica.net/2026/11/factory-fest-da-foligno-fuori-di-se/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-08T06:13:13.853Z",
+        "dateEvidence": "Il reportage firmato da Viviana Raciti reca la data 6 Novembre 2026 nella pagina originale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveDraft": []
+}
