@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-08",
+  "collectionId": "2026-11-08-mattina",
+  "category": "Esteri",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-08T06:07:31+01:00",
+  "articles": [
+    {
+      "id": "esteri-israele-herzog-eisenkot-incarico-20261107",
+      "eventKey": "israele-herzog-incarico-eisenkot-governo-20261107",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Israele, Herzog sceglie Eisenkot per formare il governo",
+      "summary": "Dopo le consultazioni parlamentari, il presidente israeliano Isaac Herzog ha deciso di affidare a Gadi Eisenkot l'incarico di formare un nuovo esecutivo. L'annuncio formale è previsto l'8 novembre.",
+      "body": [
+        "Il presidente Isaac Herzog ha deciso di affidare al leader del partito Yashar, Gadi Eisenkot, il tentativo di formare il prossimo governo israeliano. Secondo la ricostruzione di Adnkronos, le forze che lo sostengono dispongono di 67 seggi contro i 46 indicati per Benjamin Netanyahu.",
+        "L'annuncio ufficiale è previsto domenica 8 novembre. Eisenkot avrebbe inizialmente 28 giorni per cercare una maggioranza, con possibile proroga di 14 giorni. Non si tratta ancora di un governo insediato."
+      ],
+      "publishedAt": "2026-11-07",
+      "verifiedAt": "2026-11-08T06:07:31+01:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/internazionale/esteri/israele-incarico-governo-eisenkot-domenica_7tORBsh49Ls5lfp2fxfSMq",
+        "access": "free",
+        "accessCheckedAt": "2026-11-08T06:07:31+01:00",
+        "dateEvidence": "L'articolo Adnkronos riporta '07 novembre 2026 | 20.51'; l'annuncio ufficiale è indicato per l'8 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": []
+}
