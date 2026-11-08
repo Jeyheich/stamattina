@@ -4,7 +4,7 @@
   "collectionId": "2026-11-08-pomeriggio",
   "category": "Cronaca",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-08T15:18:24.322Z",
+  "lastAttemptAt": "2026-11-08T17:14:06.043Z",
   "articles": [
     {
       "id": "cronaca-milano-rissa-agente-ferita",
@@ -25,6 +25,72 @@
         "access": "free",
         "accessCheckedAt": "2026-11-08T15:18:24.322Z",
         "dateEvidence": "L'articolo originale mostra la data 08 novembre 2026 | 10.46 sotto il titolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-terni-incidente-ventunenne",
+      "eventKey": "terni-via-vitalone-scontro-auto-furgone-morte-ventunenne",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Terni, ventunenne muore dopo lo scontro tra un'auto e un furgone",
+      "summary": "Un giovane è morto in via Vitalone dopo una collisione tra due veicoli; i carabinieri stanno ricostruendo la dinamica.",
+      "body": [
+        "Un furgone e un'automobile si sono scontrati a Terni. In seguito all'urto uno dei mezzi ha investito un ventunenne, morto sul posto. È stato trovato un monopattino, ma non è ancora accertato se la vittima lo stesse utilizzando.",
+        "I due conducenti sono stati portati in ospedale con condizioni che non risulterebbero gravi. Gli investigatori stanno effettuando gli accertamenti e non escludono un'autopsia."
+      ],
+      "publishedAt": "2026-11-08",
+      "verifiedAt": "2026-11-08T17:14:06.043Z",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/cronaca/incidente-terni-21enne-morto-news_13vcrH3Ow9lbobCXmNepya",
+        "access": "free",
+        "accessCheckedAt": "2026-11-08T17:14:06.043Z",
+        "dateEvidence": "L'articolo Adnkronos indica 08 novembre 2026, ore 12.55.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-trani-imprenditore-aggredito",
+      "eventKey": "trani-gestore-locale-aggredito-coma-farmacologico",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Trani, gestore di un locale ricoverato dopo una violenta aggressione",
+      "summary": "Un imprenditore di 55 anni è in coma farmacologico dopo essere stato picchiato all'alba; indagano i carabinieri.",
+      "body": [
+        "L'aggressione è avvenuta a Trani all'alba. La vittima, un gestore di locale di 55 anni, è stata ricoverata all'ospedale Bonomo di Andria.",
+        "Secondo le prime informazioni diffuse, avrebbe riportato un trauma cranico. I carabinieri stanno ricostruendo l'accaduto."
+      ],
+      "publishedAt": "2026-11-08",
+      "verifiedAt": "2026-11-08T17:14:06.043Z",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/cronaca/imprenditore-picchiato-trani-coma_5CcWyQW8GcMfOKYSEKymit",
+        "access": "free",
+        "accessCheckedAt": "2026-11-08T17:14:06.043Z",
+        "dateEvidence": "La fonte Adnkronos riporta 08 novembre 2026, ore 14.31.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-vertice-sicurezza-cyber",
+      "eventKey": "piantedosi-convoca-comitato-sicurezza-attacchi-informatici-10-novembre",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Attacchi informatici, convocato un vertice nazionale sulla sicurezza",
+      "summary": "Il ministro dell'Interno ha convocato per il 10 novembre una riunione dedicata alle minacce informatiche e ai rischi per la sicurezza pubblica.",
+      "body": [
+        "Il Comitato nazionale per l'ordine e la sicurezza pubblica si riunirà al Viminale martedì 10 novembre per esaminare i rischi legati agli attacchi informatici.",
+        "La convocazione segue diversi episodi registrati in Italia e in altri Paesi europei, tra cui intrusioni nei sistemi di controllo di apparecchiature frigorifere commerciali."
+      ],
+      "publishedAt": "2026-11-08",
+      "verifiedAt": "2026-11-08T17:14:06.043Z",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/cronaca/attacchi-hacker-italia-vertice-sicurezza-news-oggi_2WuhYIUKIuFtYBVYF7B3rc",
+        "access": "free",
+        "accessCheckedAt": "2026-11-08T17:14:06.043Z",
+        "dateEvidence": "La fonte Adnkronos riporta 08 novembre 2026, ore 11.42; il vertice è previsto per il 10 novembre.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
