@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-08",
-  "checkedAt": "2026-11-08T06:01:21.107Z",
+  "checkedAt": "2026-11-08T06:01:54.333Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -16,7 +16,8 @@
   "completed": [
     "economia",
     "cronaca",
-    "tecnologia"
+    "tecnologia",
+    "sport"
   ],
   "inProgress": [
     {
@@ -30,8 +31,7 @@
   ],
   "missing": [
     "roma",
-    "cultura",
-    "sport"
+    "cultura"
   ],
   "invalid": [],
   "stories": [
@@ -152,6 +152,36 @@
       "category": "Tecnologia · AI",
       "title": "PlayStation Plus, critiche alle prove di servizi esterni offerte come vantaggi",
       "eventKey": "playstation-plus-perk-prove-gratuite-2026"
+    },
+    {
+      "id": "sport-genoa-milan-formazioni-20261108",
+      "category": "Sport",
+      "title": "Genoa-Milan, dubbi di formazione alla vigilia",
+      "eventKey": "genoa-milan-formazioni-20261108"
+    },
+    {
+      "id": "sport-roma-sassuolo-aquilani-20261107",
+      "category": "Sport",
+      "title": "Sassuolo, Aquilani si assume la responsabilità dopo il 3-0 con la Roma",
+      "eventKey": "roma-sassuolo-aquilani-20261107"
+    },
+    {
+      "id": "sport-napoli-allegri-conferenza-annullata-20261107",
+      "category": "Sport",
+      "title": "Napoli, De Laurentiis spiega l'annullamento della conferenza di Allegri",
+      "eventKey": "napoli-allegri-conferenza-annullata-20261107"
+    },
+    {
+      "id": "sport-f1-brasile-pole-norris-20261107",
+      "category": "Sport",
+      "title": "Formula 1, Norris conquista la pole in Brasile davanti ad Antonelli in griglia",
+      "eventKey": "f1-brasile-pole-norris-20261107"
+    },
+    {
+      "id": "sport-inter-como-fabregas-giovani-20261107",
+      "category": "Sport",
+      "title": "Como verso l'Inter, Fabregas convoca due giovani della Primavera",
+      "eventKey": "inter-como-fabregas-giovani-20261107"
     }
   ],
   "collectionId": "2026-11-08-mattina",
@@ -207,13 +237,13 @@
     "tecnologia": {
       "base": 5,
       "reserve": 0,
-      "draft": 0,
+      "draft": 1,
       "complete": false
     },
     "sport": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
-      "draft": 0,
+      "draft": 1,
       "complete": false
     }
   },
