@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-08",
+  "collectionId": "2026-11-08-pomeriggio",
+  "category": "Esteri",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-08T15:03:15.253Z",
+  "articles": [
+    {
+      "id": "esteri-allarmi-bomba-europa-indagine",
+      "eventKey": "allarmi-bomba-europa-indagini-possibile-regia-russa",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Allarmi bomba nei cieli europei: indagini su una possibile matrice filorussa",
+      "summary": "Secondo il Financial Times, riferito da Adnkronos, servizi europei stanno esaminando una possibile origine filorussa delle false minacce che hanno colpito diversi voli. Non esistono ancora prove sufficienti per attribuire gli episodi a Mosca.",
+      "body": [
+        "Agenzie di sicurezza europee stanno indagando sull'ondata di falsi allarmi bomba che ha causato deviazioni e interruzioni di voli. Una delle ipotesi riguarda attivisti filorussi o gruppi informatici vicini al Cremlino, ma l'attribuzione non è accertata.",
+        "Separatamente, la società responsabile del Tunnel del Brennero ha confermato un attacco informatico a propri sistemi accessibili da Internet; secondo le informazioni disponibili, le operazioni non hanno subito conseguenze."
+      ],
+      "publishedAt": "2026-11-07T09:06:00+01:00",
+      "verifiedAt": "2026-11-08T15:03:15.253Z",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/internazionale/esteri/allarmi-bomba-europa-financial-times-intelligence-russia_7aFOkeildtt5z1Ii36Wtd0",
+        "access": "free",
+        "accessCheckedAt": "2026-11-08T15:03:15.253Z",
+        "dateEvidence": "La pagina Adnkronos indica «07 novembre 2026 | 09.06» accanto alla firma.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveDraft": []
+}
