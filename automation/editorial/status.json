@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-08",
-  "checkedAt": "2026-11-08T15:04:42.802Z",
+  "checkedAt": "2026-11-08T15:18:25.635Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -22,10 +22,13 @@
     {
       "slug": "esteri",
       "count": 1
+    },
+    {
+      "slug": "economia",
+      "count": 2
     }
   ],
   "missing": [
-    "economia",
     "cronaca",
     "roma",
     "cultura",
@@ -46,6 +49,20 @@
       "category": "Esteri",
       "title": "Allarmi bomba nei cieli europei: indagini su una possibile matrice filorussa",
       "eventKey": "allarmi-bomba-europa-indagini-possibile-regia-russa",
+      "pending": true
+    },
+    {
+      "id": "economia-produttori-banane-clima",
+      "category": "Economia",
+      "title": "Banane, i produttori latinoamericani chiedono prezzi più equi contro i danni climatici",
+      "eventKey": "produttori-banane-america-latina-prezzi-clima",
+      "pending": true
+    },
+    {
+      "id": "economia-voto-usa-datacenter-ai",
+      "category": "Economia",
+      "title": "Negli Stati Uniti il voto riapre il dibattito economico sui grandi data center",
+      "eventKey": "elezioni-usa-opposizione-datacenter-investimenti-ai",
       "pending": true
     }
   ],
@@ -76,7 +93,7 @@
       "complete": false
     },
     "economia": {
-      "base": 0,
+      "base": 2,
       "reserve": 0,
       "draft": 0,
       "complete": false
