@@ -4,7 +4,7 @@
   "collectionId": "2026-11-08-mattina",
   "category": "Politica",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-08T06:07:31+01:00",
+  "lastAttemptAt": "2026-11-08T07:01:01.988Z",
   "articles": [
     {
       "id": "politica-anac-salvini-nuovo-candidato-20261107",
@@ -47,6 +47,28 @@
         "access": "free",
         "accessCheckedAt": "2026-11-08T06:07:31+01:00",
         "dateEvidence": "Adnkronos riporta '06 novembre 2026 | 17.17' nella pagina originale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-campo-largo-tavoli-programma-20261107",
+      "eventKey": "campo-largo-prima-riunione-dieci-tavoli-programma-20261107",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Centrosinistra, primo incontro sul programma comune e dieci tavoli tematici",
+      "summary": "Le forze del centrosinistra hanno avviato il confronto programmatico con dieci tavoli di lavoro e l'obiettivo di definire le basi del progetto entro novembre.",
+      "body": [
+        "La prima riunione del tavolo programmatico ha coinvolto Pd, M5S, Avs, Italia Viva e altre forze della coalizione. I rappresentanti hanno concordato dieci gruppi tematici per costruire una proposta di governo comune.",
+        "Il confronto è ancora nella fase iniziale: non è stato annunciato un programma definitivo e i partiti puntano a definire una prima base entro la fine di novembre."
+      ],
+      "publishedAt": "2026-11-07T17:42:00+01:00",
+      "verifiedAt": "2026-11-08T07:01:01.988Z",
+      "source": {
+        "name": "Open",
+        "url": "https://www.open.online/2026/11/07/campo-largo-riunione-programma-governo-gualtieri-roma/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-08T07:01:01.988Z",
+        "dateEvidence": "Nella pagina Open compare la data '07 Novembre 2026 - 17:42' sotto il titolo.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
