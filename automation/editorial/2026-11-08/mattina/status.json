@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-08",
-  "checkedAt": "2026-11-08T05:08:09.514Z",
+  "checkedAt": "2026-11-08T05:09:16.163Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -17,11 +17,11 @@
   "inProgress": [
     {
       "slug": "politica",
-      "count": 1
+      "count": 2
     },
     {
       "slug": "esteri",
-      "count": 1
+      "count": 2
     }
   ],
   "missing": [
@@ -42,10 +42,24 @@
       "pending": true
     },
     {
+      "id": "politica-la-russa-ipotesi-voto-anticipato-20261106",
+      "category": "Politica",
+      "title": "Voto anticipato, le opposizioni chiedono chiarezza dopo la proposta di La Russa",
+      "eventKey": "la-russa-ipotesi-accorpamento-elezioni-2027",
+      "pending": true
+    },
+    {
       "id": "esteri-israele-herzog-eisenkot-incarico-20261107",
       "category": "Esteri",
       "title": "Israele, Herzog sceglie Eisenkot per formare il governo",
       "eventKey": "israele-herzog-incarico-eisenkot-governo-20261107",
+      "pending": true
+    },
+    {
+      "id": "esteri-cracovia-attacco-sei-vittime-20261108",
+      "category": "Esteri",
+      "title": "Cracovia, sei morti nell'attacco in piazza: indagini sul movente",
+      "eventKey": "cracovia-sparatoria-piazza-mercato-20261107",
       "pending": true
     }
   ],
