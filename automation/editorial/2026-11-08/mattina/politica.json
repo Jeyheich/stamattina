@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-08",
+  "collectionId": "2026-11-08-mattina",
+  "category": "Politica",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-08T06:07:31+01:00",
+  "articles": [
+    {
+      "id": "politica-anac-salvini-nuovo-candidato-20261107",
+      "eventKey": "anac-salvini-nuovo-candidato-cdm-20261107",
+      "category": "Politica",
+      "status": "verified",
+      "title": "ANAC, Salvini annuncia un nuovo candidato per lunedì",
+      "summary": "Dopo il ritiro di Trifone Altieri, il vicepremier Matteo Salvini annuncia che lunedì sarà presentato in Consiglio dei ministri un altro nome per la presidenza dell'Autorità anticorruzione.",
+      "body": [
+        "Matteo Salvini ha dichiarato a margine di Eicma che un nuovo nome per la presidenza dell'ANAC sarà portato in Consiglio dei ministri lunedì. La dichiarazione segue il ritiro della disponibilità di Trifone Altieri.",
+        "Il vicepremier ha difeso i requisiti di Altieri, mentre la candidatura dell'ex parlamentare leghista aveva suscitato critiche sull'indipendenza dell'Autorità."
+      ],
+      "publishedAt": "2026-11-07",
+      "verifiedAt": "2026-11-08T06:07:31+01:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/politica/anac-salvini-altieri-cdm_5qqbRLj5SZ4RXrRIopRG0W",
+        "access": "free",
+        "accessCheckedAt": "2026-11-08T06:07:31+01:00",
+        "dateEvidence": "Nell'articolo Adnkronos compare la data originale '07 novembre 2026 | 13.41'.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": []
+}
