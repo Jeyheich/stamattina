@@ -69,7 +69,7 @@ export function assemble(blocks,today=romeDay(),now=Date.now(),requestedCycle){
   state.photoCandidates=articles.filter(a=>a.image).map(a=>({id:a.id,category:a.category,sourceUrl:a.image.sourceUrl}));
   state.photosAvailable=new Set(state.photoCandidates.map(a=>a.sourceUrl)).size;
   state.reserveMissing=categories.filter(([,name])=>state.reserveCounts[name]!==5).map(([slug])=>slug);
-  state.categoryProgress=Object.fromEntries(categories.map(([slug,name])=>[slug,{base:articles.filter(a=>a.category===name).length,reserve:state.reserveCounts[name],draft:Array.isArray(blocks[slug]?.reserveDraft)?blocks[slug].reserveDraft.length:0,complete:state.completed.includes(slug)&&state.reserveCounts[name]===5}]));
+  state.categoryProgress=Object.fromEntries(categories.map(([slug,name])=>[slug,{base:state.inProgress.find(block=>block.slug===slug)?.count??articles.filter(a=>a.category===name).length,reserve:state.reserveCounts[name],draft:Array.isArray(blocks[slug]?.reserveDraft)?blocks[slug].reserveDraft.length:0,complete:state.completed.includes(slug)&&state.reserveCounts[name]===5}]));
   if(state.missing.length||state.invalid.length||state.inProgress.length)return {state};
   try{
     assert.equal(new Set(articles.map(a=>a.id)).size,40,'ID duplicati tra categorie');

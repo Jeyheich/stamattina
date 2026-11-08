@@ -1,5 +1,10 @@
 # Stamattina — stato operativo
 
+## Recupero automatico — 8 novembre
+- Mattutina: dossier aggiornato alle 06:08 Europe/Rome. Al controllo delle 08:01 risultavano 28 principali, sei aggiuntive in bozza e zero foto. GitHub non ha promosso il ciclo incompleto. Roma era assente e il recupero finale della seconda attività aveva prodotto il resoconto senza salvare nuovi blocchi.
+- Il brief assegna ai due recuperi finali tutte le categorie incomplete di competenza e la ripresa dei checkpoint prima del resoconto. Gli avvii iniziali restano limitati a due categorie. Lo stato del ciclo conta ora anche le principali parziali validate in categoryProgress.base. Requisiti di promozione e calendario invariati.
+- Prossima verifica: osservare una nuova esecuzione pianificata completa e confrontare stato del ciclo, workflow e JSON pubblico.
+
 ## Pomeridiana del 7 novembre — pubblicazione verificata
 - Pubblicata e verificata alle 19:00 Europe/Rome: ciclo 2026-11-07-pomeriggio, edizione 2026-11-07-batches-e5d1b917852e. 40 principali, 40 riserve, cinque foto. Il JSON pubblico letto senza cache coincide con dist/data/current.json. editorialComplete=true, publication=verified, reserveMissing=[].
 - Blocchi 77d3e321b94adb497be8bbf099aba699c0755e8a, run 42399048535. Controlli locali e GitHub sulle 80 fonti e cinque foto superati. Privilegiati gli sviluppi del pomeriggio, con fonti originali rilette per le notizie ancora rilevanti del mattino.
