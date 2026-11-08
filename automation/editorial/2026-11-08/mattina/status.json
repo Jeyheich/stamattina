@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-08",
-  "checkedAt": "2026-11-08T06:02:21.351Z",
+  "checkedAt": "2026-11-08T06:13:27.057Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -27,11 +27,14 @@
     {
       "slug": "esteri",
       "count": 2
+    },
+    {
+      "slug": "cultura",
+      "count": 2
     }
   ],
   "missing": [
-    "roma",
-    "cultura"
+    "roma"
   ],
   "invalid": [],
   "stories": [
@@ -61,6 +64,20 @@
       "category": "Esteri",
       "title": "Cracovia, sei morti nell'attacco in piazza: indagini sul movente",
       "eventKey": "cracovia-sparatoria-piazza-mercato-20261107",
+      "pending": true
+    },
+    {
+      "id": "cultura-faust-castellucci-roma-europa-20261107",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Castellucci rilegge Faust: il corpo al centro della scena",
+      "eventKey": "faust-castellucci-roma-europa-fatto-non-detto-2026",
+      "pending": true
+    },
+    {
+      "id": "cultura-factory-fest-foligno-reportage-20261106",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Factory Fest, un viaggio tra teatro, danza e sperimentazione in Umbria",
+      "eventKey": "factory-fest-umbria-sesta-edizione-reportage-2026",
       "pending": true
     },
     {
