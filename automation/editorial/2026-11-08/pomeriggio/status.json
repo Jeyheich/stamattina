@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-08",
-  "checkedAt": "2026-11-08T17:14:19.136Z",
+  "checkedAt": "2026-11-08T19:24:18.476Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,116 +14,38 @@
     "sport"
   ],
   "completed": [],
-  "inProgress": [
-    {
-      "slug": "politica",
-      "count": 2
-    },
-    {
-      "slug": "esteri",
-      "count": 1
-    },
-    {
-      "slug": "economia",
-      "count": 2
-    },
-    {
-      "slug": "cronaca",
-      "count": 4
-    },
-    {
-      "slug": "roma",
-      "count": 1
-    },
-    {
-      "slug": "cultura",
-      "count": 1
-    }
-  ],
+  "inProgress": [],
   "missing": [
     "tecnologia",
     "sport"
   ],
-  "invalid": [],
-  "stories": [
+  "invalid": [
     {
-      "id": "politica-bonaccini-meme-tajani-maga",
-      "category": "Politica",
-      "title": "Bonaccini rimuove un meme su Tajani: polemica sull'immagine alterata",
-      "eventKey": "bonaccini-foto-manipolata-tajani-maga-polemica",
-      "pending": true
+      "slug": "politica",
+      "reason": "politica-bonaccini-meme-tajani-maga verifiedAt: verifica scaduta (verifica 2026-11-08T15:03:15.253Z, controllo 2026-11-08T19:24:18.476Z)"
     },
     {
-      "id": "politica-regioni-anci-cisl-manovra-novembre",
-      "category": "Politica",
-      "title": "Manovra, sindacati e Comuni chiedono modifiche prima delle audizioni",
-      "eventKey": "manovra-2027-proteste-cisl-anci-audizioni",
-      "pending": true
+      "slug": "esteri",
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-08T15:03:15.253Z, controllo 2026-11-08T19:24:18.476Z)"
     },
     {
-      "id": "esteri-allarmi-bomba-europa-indagine",
-      "category": "Esteri",
-      "title": "Allarmi bomba nei cieli europei: indagini su una possibile matrice filorussa",
-      "eventKey": "allarmi-bomba-europa-indagini-possibile-regia-russa",
-      "pending": true
+      "slug": "economia",
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-08T15:18:12.789Z, controllo 2026-11-08T19:24:18.476Z)"
     },
     {
-      "id": "economia-produttori-banane-clima",
-      "category": "Economia",
-      "title": "Banane, i produttori latinoamericani chiedono prezzi più equi contro i danni climatici",
-      "eventKey": "produttori-banane-america-latina-prezzi-clima",
-      "pending": true
+      "slug": "cronaca",
+      "reason": "cronaca-milano-rissa-agente-ferita verifiedAt: verifica scaduta (verifica 2026-11-08T15:18:24.322Z, controllo 2026-11-08T19:24:18.476Z)"
     },
     {
-      "id": "economia-voto-usa-datacenter-ai",
-      "category": "Economia",
-      "title": "Negli Stati Uniti il voto riapre il dibattito economico sui grandi data center",
-      "eventKey": "elezioni-usa-opposizione-datacenter-investimenti-ai",
-      "pending": true
+      "slug": "roma",
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-08T16:19:42.185Z, controllo 2026-11-08T19:24:18.476Z)"
     },
     {
-      "id": "cronaca-milano-rissa-agente-ferita",
-      "category": "Cronaca",
-      "title": "Milano, agente ferita durante un intervento per una rissa: arrestato un giovane",
-      "eventKey": "milano-largo-la-foppa-rissa-agente-ferita",
-      "pending": true
-    },
-    {
-      "id": "cronaca-terni-incidente-ventunenne",
-      "category": "Cronaca",
-      "title": "Terni, ventunenne muore dopo lo scontro tra un'auto e un furgone",
-      "eventKey": "terni-via-vitalone-scontro-auto-furgone-morte-ventunenne",
-      "pending": true
-    },
-    {
-      "id": "cronaca-trani-imprenditore-aggredito",
-      "category": "Cronaca",
-      "title": "Trani, gestore di un locale ricoverato dopo una violenta aggressione",
-      "eventKey": "trani-gestore-locale-aggredito-coma-farmacologico",
-      "pending": true
-    },
-    {
-      "id": "cronaca-vertice-sicurezza-cyber",
-      "category": "Cronaca",
-      "title": "Attacchi informatici, convocato un vertice nazionale sulla sicurezza",
-      "eventKey": "piantedosi-convoca-comitato-sicurezza-attacchi-informatici-10-novembre",
-      "pending": true
-    },
-    {
-      "id": "roma-laurentino38-indagine-droga-arresti",
-      "category": "Roma",
-      "title": "Laurentino 38, cinque arresti dopo un'indagine su droga ed estorsioni",
-      "eventKey": "roma-laurentino38-droga-estorsioni-cinque-arresti",
-      "pending": true
-    },
-    {
-      "id": "cultura-oscar-latella-bergamasco",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Lady Oscar torna in scena: Latella esplora identità e contraddizioni",
-      "eventKey": "oscar-linda-dalisi-latella-bergamasco-teatro",
-      "pending": true
+      "slug": "cultura",
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-08T16:19:30.361Z, controllo 2026-11-08T19:24:18.476Z)"
     }
   ],
+  "stories": [],
   "collectionId": "2026-11-08-pomeriggio",
   "reserveCounts": {
     "Politica": 0,
@@ -139,37 +61,37 @@
   "photosAvailable": 0,
   "categoryProgress": {
     "politica": {
-      "base": 2,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "esteri": {
-      "base": 1,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "economia": {
-      "base": 2,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cronaca": {
-      "base": 4,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "roma": {
-      "base": 1,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cultura": {
-      "base": 1,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
