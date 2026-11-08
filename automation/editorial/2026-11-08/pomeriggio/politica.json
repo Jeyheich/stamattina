@@ -4,7 +4,7 @@
   "collectionId": "2026-11-08-pomeriggio",
   "category": "Politica",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-08T15:03:15.253Z",
+  "lastAttemptAt": "2026-11-08T17:05:51.626Z",
   "articles": [
     {
       "id": "politica-bonaccini-meme-tajani-maga",
@@ -25,6 +25,28 @@
         "access": "free",
         "accessCheckedAt": "2026-11-08T15:03:15.253Z",
         "dateEvidence": "La pagina Adnkronos mostra sotto il titolo «07 novembre 2026 | 12.17».",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-regioni-anci-cisl-manovra-novembre",
+      "eventKey": "manovra-2027-proteste-cisl-anci-audizioni",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Manovra, sindacati e Comuni chiedono modifiche prima delle audizioni",
+      "summary": "La Cisl contesta alcune misure fiscali, previdenziali e scolastiche della legge di bilancio; l'Anci chiede un confronto con il governo mentre si avvicinano le audizioni parlamentari.",
+      "body": [
+        "La segretaria della Cisl Daniela Fumarola chiede di modificare la flat tax per gli autonomi, la rivalutazione delle pensioni e la riduzione degli organici scolastici prevista nella manovra.",
+        "Il presidente dell'Anci Gaetano Manfredi sollecita un incontro con il governo. Le audizioni sulla legge di bilancio sono previste a partire da lunedì 9 novembre."
+      ],
+      "publishedAt": "2026-11-07",
+      "verifiedAt": "2026-11-08T17:05:51.626Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/amp/sito/notizie/economia/2026/11/07/manovra-sotto-assedio.-anche-cisl-e-assicurazioni-contro_2efcbae9-1991-46ee-9bc2-974537302281.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-08T17:05:51.626Z",
+        "dateEvidence": "L'articolo ANSA reca l'intestazione «Redazione Ansa ROMA - Novembre 07,2026 - News».",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
