@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-08",
-  "checkedAt": "2026-11-08T15:18:48.805Z",
+  "checkedAt": "2026-11-08T16:20:00.869Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -30,11 +30,17 @@
     {
       "slug": "cronaca",
       "count": 1
+    },
+    {
+      "slug": "roma",
+      "count": 1
+    },
+    {
+      "slug": "cultura",
+      "count": 1
     }
   ],
   "missing": [
-    "roma",
-    "cultura",
     "tecnologia",
     "sport"
   ],
@@ -73,6 +79,20 @@
       "category": "Cronaca",
       "title": "Milano, agente ferita durante un intervento per una rissa: arrestato un giovane",
       "eventKey": "milano-largo-la-foppa-rissa-agente-ferita",
+      "pending": true
+    },
+    {
+      "id": "roma-laurentino38-indagine-droga-arresti",
+      "category": "Roma",
+      "title": "Laurentino 38, cinque arresti dopo un'indagine su droga ed estorsioni",
+      "eventKey": "roma-laurentino38-droga-estorsioni-cinque-arresti",
+      "pending": true
+    },
+    {
+      "id": "cultura-oscar-latella-bergamasco",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Lady Oscar torna in scena: Latella esplora identità e contraddizioni",
+      "eventKey": "oscar-linda-dalisi-latella-bergamasco-teatro",
       "pending": true
     }
   ],
@@ -115,13 +135,13 @@
       "complete": false
     },
     "roma": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cultura": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false
