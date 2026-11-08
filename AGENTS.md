@@ -1,4 +1,5 @@
 # Regole del progetto
+- Prova approvata l’8 novembre: dal 9 novembre, soltanto l’edizione mattutina automatica. Sei avvii tra le due attività esistenti, con gli orari mattutini invariati. Verifica sui cicli del 9–11 novembre. Il calendario a dodici avvii riportato sotto è la configurazione precedente. Nessuna riattivazione automatica del pomeriggio.
 - Modello C: 5 essenziali che rimandano alle 5 principali, poi almeno 35 compatte: minimo 5 fatti distinti per ciascuna delle 8 categorie, Sport incluso. Il vecchio limite 12–15 notizie è superato.
 - Direzione richiesta: moderna e vicina alle app Apple. Scartata la grafica serif/cartacea v1. Usare font di sistema e navigazione mobile essenziale.
 - Notizie JSON separate dalla UI. Mai inventare fatti, date, fotografie o dichiarazioni di accesso gratuito.

@@ -1,5 +1,10 @@
 # Stamattina — stato operativo
 
+## Prova con la sola mattutina — dal 9 novembre
+- Fabio ha autorizzato il dimezzamento degli avvii editoriali da dodici a sei al giorno per verificare se il carico complessivo contribuisce ai blocchi. Calendari nativi salvati e riletti l’8 novembre. Rassegna stampa quotidiana alle 06:05, 07:05 e 08:05. Rassegna · Economia, Cronaca, Roma e Cultura alle 06:15, 07:15 e 08:15. Tutti gli orari sono Europe/Rome. Stesse due attività e notifiche.
+- Si misurano le mattutine del 9, 10 e 11 novembre. Per ciascuna confrontare i salvataggi delle attività, le principali e le aggiuntive verificate per categoria, le foto, il workflow e il collectionId nel JSON pubblico. Obiettivo: edizione automatica entro le 09:00 con 40 principali, 40 aggiuntive e cinque foto, senza completamento manuale. Annotare il primo passaggio che resta indietro.
+- Il test modifica la cadenza delle attività editoriali. I workflow GitHub, la raccolta tecnica RSS e i requisiti di pubblicazione restano quelli esistenti. Il calendario a doppia edizione è la configurazione precedente. Il ripristino del pomeriggio si valuta dopo i tre cicli.
+
 ## Recupero automatico — 8 novembre
 - Mattutina: dossier aggiornato alle 06:08 Europe/Rome. Al controllo delle 08:01 risultavano 28 principali, sei aggiuntive in bozza e zero foto. GitHub non ha promosso il ciclo incompleto. Roma era assente e il recupero finale della seconda attività aveva prodotto il resoconto senza salvare nuovi blocchi.
 - Il brief assegna ai due recuperi finali tutte le categorie incomplete di competenza e la ripresa dei checkpoint prima del resoconto. Gli avvii iniziali restano limitati a due categorie. Lo stato del ciclo conta ora anche le principali parziali validate in categoryProgress.base. Requisiti di promozione e calendario invariati.
