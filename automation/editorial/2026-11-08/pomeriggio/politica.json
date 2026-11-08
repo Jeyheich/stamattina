@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-08",
+  "collectionId": "2026-11-08-pomeriggio",
+  "category": "Politica",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-08T15:03:15.253Z",
+  "articles": [
+    {
+      "id": "politica-bonaccini-meme-tajani-maga",
+      "eventKey": "bonaccini-foto-manipolata-tajani-maga-polemica",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Bonaccini rimuove un meme su Tajani: polemica sull'immagine alterata",
+      "summary": "Il presidente del Pd ha eliminato un post con una rappresentazione modificata del ministro Tajani con un cappellino Maga. Esponenti di maggioranza e opposizione hanno criticato l'uso di immagini manipolate nella comunicazione politica.",
+      "body": [
+        "Stefano Bonaccini ha rimosso dai social un'immagine modificata di Antonio Tajani con un cappellino Maga, descrivendola come un meme ironico. La pubblicazione ha suscitato contestazioni da Forza Italia e da esponenti del Pd.",
+        "Giorgia Meloni ha criticato la diffusione di immagini false nel confronto politico. Pina Picierno ha chiesto a Bonaccini di scusarsi, richiamando la necessità di contrastare la disinformazione."
+      ],
+      "publishedAt": "2026-11-07T12:17:00+01:00",
+      "verifiedAt": "2026-11-08T15:03:15.253Z",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/politica/bonaccini-tajani-foto-meme-maga-cosa-e-successo_2GkUfQSgQH0VWhJaStqp3W",
+        "access": "free",
+        "accessCheckedAt": "2026-11-08T15:03:15.253Z",
+        "dateEvidence": "La pagina Adnkronos mostra sotto il titolo «07 novembre 2026 | 12.17».",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveDraft": []
+}
