@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-09",
+  "collectionId": "2026-11-09-mattina",
+  "category": "Politica",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-09T05:04:21.520Z",
+  "articles": [
+    {
+      "id": "politica-salis-renzi-centro-progressista",
+      "eventKey": "salis-respinge-ipotesi-renzi-guida-centro-novembre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Silvia Salis frena Renzi: prima Genova, poi il confronto nel centrosinistra",
+      "summary": "La sindaca di Genova respinge le ipotesi di un suo ruolo alla guida dell'area centrista proposte da Matteo Renzi e chiede al campo progressista di concentrarsi sui punti comuni, senza veti.",
+      "body": [
+        "Intervenendo all'assemblea di Volt Italia l'8 novembre, Silvia Salis ha ribadito che l'amministrazione di Genova resta il suo impegno prioritario. Ha definito sterili le discussioni sul suo possibile ruolo nazionale e ha criticato le fughe in avanti sul suo nome.",
+        "Matteo Renzi aveva prospettato per Salis la guida di una componente centrista alle prossime elezioni. La sindaca ha invece insistito sulla necessità di costruire un programma condiviso tra le forze progressiste."
+      ],
+      "publishedAt": "2026-11-08T15:25:00+01:00",
+      "verifiedAt": "2026-11-09T05:04:21.520Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/08/silvia-salis-basta-con-i-distinguo-e-i-veti-nel-campo-progressista_b3534a87-629c-486d-a2f0-d25518aa231c.html",
+        "dateEvidence": "Nell'intestazione ANSA si legge GENOVA, 08 novembre 2026, 15:25.",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T05:04:21.520Z",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
