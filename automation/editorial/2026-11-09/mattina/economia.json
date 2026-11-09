@@ -3,7 +3,7 @@
   "editionDate": "2026-11-09",
   "collectionId": "2026-11-09-mattina",
   "category": "Economia",
-  "completedAt": "2026-11-09T10:53:27.203086+00:00",
+  "completedAt": "2026-11-09T10:55:24.387650+00:00",
   "articles": [
     {
       "id": "economia-byd-jlr-olanda-contesa-defender",
@@ -162,46 +162,46 @@
       }
     },
     {
-      "id": "economia-agricole-proposta-banco-bpm",
-      "eventKey": "agricole-proposta-banco-bpm",
+      "id": "economia-gran-bretagna-riserva-elettrica-vento",
+      "eventKey": "gran-bretagna-riserva-elettrica-vento",
       "category": "Economia",
       "status": "verified",
-      "title": "Crédit Agricole propone un confronto sulla fusione con Banco BPM",
-      "summary": "Il gruppo francese, già primo azionista di Banco BPM, ha proposto di negoziare l'unione con Crédit Agricole Italia. Nella proposta la società risultante resterebbe quotata a Milano.",
+      "title": "Poco vento, il gestore britannico chiede più capacità elettrica",
+      "summary": "Neso ha chiesto generazione aggiuntiva in via precauzionale dopo le previsioni di bassa produzione eolica. L'avviso è stato ritirato in mattinata quando il margine è migliorato.",
       "body": [
-        "Il gruppo francese, già primo azionista di Banco BPM, ha proposto di negoziare l'unione con Crédit Agricole Italia. Nella proposta la società risultante resterebbe quotata a Milano."
+        "Neso ha chiesto generazione aggiuntiva in via precauzionale dopo le previsioni di bassa produzione eolica. L'avviso è stato ritirato in mattinata quando il margine è migliorato."
       ],
-      "publishedAt": "2026-11-09T10:05:45+00:00",
+      "publishedAt": "2026-11-09T08:12:17.000Z",
       "source": {
-        "name": "AGI",
-        "url": "https://www.agi.it/economia/news/2026-11-09/credit-agricole-fusione-bpm-39944393/",
+        "name": "The Guardian Business",
+        "url": "https://www.theguardian.com/business/2026/nov/09/rare-call-more-electricity-supplies-windpower-drops-britain-energy-shortfall",
         "access": "free",
-        "dateEvidence": "La pagina originale è datata 2026-11-09. L’orario è quello del feed ufficiale: 2026-11-09T10:05:45+00:00.",
+        "dateEvidence": "Il metadato article:published_time della pagina originale riporta 2026-11-09T08:12:17.000Z.",
         "reviewedBy": "Verifica editoriale ChatGPT",
-        "accessCheckedAt": "2026-11-09T10:49:49.554832+00:00"
+        "accessCheckedAt": "2026-11-09T10:49:27.582864+00:00"
       },
-      "verifiedAt": "2026-11-09T10:49:49.554832+00:00"
+      "verifiedAt": "2026-11-09T10:49:27.582864+00:00"
     },
     {
-      "id": "economia-ex-ilva-gara-asset",
-      "eventKey": "ex-ilva-gara-asset",
+      "id": "economia-regno-unito-tuc-lavoro-giovani",
+      "eventKey": "regno-unito-tuc-lavoro-giovani",
       "category": "Economia",
       "status": "verified",
-      "title": "Ex Ilva, offerte per gli asset al passaggio decisivo",
-      "summary": "AGI ricostruisce i possibili partecipanti alla terza gara internazionale. Tra i soggetti in corsa indica Jindal, Arvedi e una cordata italiana.",
+      "title": "Il TUC chiede più investimenti per l'occupazione giovanile",
+      "summary": "Il segretario della confederazione sindacale britannica chiede al governo maggiori risorse per contrastare la difficoltà dei giovani a entrare nel mercato del lavoro.",
       "body": [
-        "AGI ricostruisce i possibili partecipanti alla terza gara internazionale. Tra i soggetti in corsa indica Jindal, Arvedi e una cordata italiana."
+        "Il segretario della confederazione sindacale britannica chiede al governo maggiori risorse per contrastare la difficoltà dei giovani a entrare nel mercato del lavoro."
       ],
-      "publishedAt": "2026-11-08T12:58:18+00:00",
+      "publishedAt": "2026-11-09T06:00:03.000Z",
       "source": {
-        "name": "AGI",
-        "url": "https://www.agi.it/economia/news/2026-11-07/ex-ilva-gara-jindal-39925782/",
+        "name": "The Guardian Business",
+        "url": "https://www.theguardian.com/society/2026/nov/09/uk-young-people-job-work-employment-crisis-paul-nowak-milburn-review",
         "access": "free",
-        "dateEvidence": "La pagina originale è datata 2026-11-08. L’orario è quello del feed ufficiale: 2026-11-08T12:58:18+00:00.",
+        "dateEvidence": "Il metadato article:published_time della pagina originale riporta 2026-11-09T06:00:03.000Z.",
         "reviewedBy": "Verifica editoriale ChatGPT",
-        "accessCheckedAt": "2026-11-09T10:49:50.379811+00:00"
+        "accessCheckedAt": "2026-11-09T10:49:50.217639+00:00"
       },
-      "verifiedAt": "2026-11-09T10:49:50.379811+00:00"
+      "verifiedAt": "2026-11-09T10:49:50.217639+00:00"
     },
     {
       "id": "economia-thames-water-proroga-creditori",
