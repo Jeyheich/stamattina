@@ -4,7 +4,7 @@
   "collectionId": "2026-11-09-mattina",
   "category": "Esteri",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-09T05:04:21.520Z",
+  "lastAttemptAt": "2026-11-09T08:14:45+01:00",
   "articles": [
     {
       "id": "esteri-rubio-garanzie-sicurezza-ucraina",
@@ -25,6 +25,28 @@
         "dateEvidence": "L'articolo ANSA riporta WASHINGTON, 09 novembre 2026, 00:10.",
         "access": "free",
         "accessCheckedAt": "2026-11-09T05:04:21.520Z",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-israele-mandato-eisenkot",
+      "eventKey": "israele-herzog-incarico-governo-eisenkot-novembre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Israele, Herzog incarica Eisenkot di formare il nuovo governo",
+      "summary": "Il presidente israeliano ha affidato all'ex capo di Stato maggiore il mandato di costruire una maggioranza dopo le consultazioni parlamentari. Eisenkot ha 28 giorni, prorogabili di 14, per trovare un accordo.",
+      "body": [
+        "Isaac Herzog ha affidato a Gadi Eisenkot l'incarico di formare il prossimo governo israeliano. Secondo Sky TG24, i partiti che rappresentano la maggioranza della Knesset ne hanno sostenuto il nome durante le consultazioni.",
+        "Eisenkot ha auspicato la formazione rapida di un governo di emergenza nazionale per evitare un nuovo stallo. Il mandato dura inizialmente 28 giorni, con la possibilità di una proroga di altri 14: la nomina non equivale ancora alla formazione di un esecutivo."
+      ],
+      "publishedAt": "2026-11-08T19:39:00+01:00",
+      "verifiedAt": "2026-11-09T08:14:45+01:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/mondo/video/2026/11/08/israele-herzog-eisenkot-mandato-governo-1138578",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T08:14:45+01:00",
+        "dateEvidence": "Sky TG24 riporta «08 nov 2026 - 19:39» sopra il testo sul mandato a Eisenkot.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
