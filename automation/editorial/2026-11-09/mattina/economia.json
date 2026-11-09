@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-09",
+  "collectionId": "2026-11-09-mattina",
+  "category": "Economia",
+  "completedAt": "2026-11-09T05:13:38.036Z",
+  "articles": [
+    {
+      "id": "economia-byd-jlr-olanda-contesa-defender",
+      "eventKey": "byd-jlr-olanda-contesa-defender",
+      "category": "Economia",
+      "status": "verified",
+      "title": "BYD e Jaguar Land Rover, contesa sul design del Defender",
+      "summary": "Una disputa sulla proprietà intellettuale porta al sequestro di documenti negli uffici olandesi di BYD.",
+      "body": [
+        "Ufficiali giudiziari incaricati da Jaguar Land Rover hanno acquisito documenti digitali nelle sedi olandesi di BYD, secondo quanto riportato dal Guardian. La controversia riguarda le presunte somiglianze tra il SUV Ti7 e il Defender.",
+        "Un procedimento all'Aia dovrà esaminare le accuse; non è stata ancora accertata una violazione."
+      ],
+      "publishedAt": "2026-11-08T16:50:58Z",
+      "verifiedAt": "2026-11-09T05:13:38.036Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T05:13:38.036Z",
+        "dateEvidence": "Pagina originale: Sun 8 Nov 2026 11.50 EST, aggiornamento 13.08 EST.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-brexit-centri-frontiera-inutilizzati",
+      "eventKey": "brexit-centri-frontiera-inutilizzati",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Brexit, cento milioni di sterline per controlli di frontiera mai partiti",
+      "summary": "Nuovi dati sulle strutture britanniche mostrano spese pubbliche per impianti rimasti inattivi.",
+      "body": [
+        "Documenti dell'amministrazione fiscale britannica indicano almeno cento milioni di sterline spesi per centri di ispezione interna alle frontiere, molti dei quali mai entrati in funzione.",
+        "Cinque dei sette impianti considerati non sono diventati operativi, dopo il ridimensionamento dei controlli sulle merci provenienti dall'Unione europea."
+      ],
+      "publishedAt": "2026-11-08T13:32:58Z",
+      "verifiedAt": "2026-11-09T05:13:38.036Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/politics/2026/nov/08/uk-zombie-brexit-border-inspection-posts-check-goods",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T05:13:38.036Z",
+        "dateEvidence": "Pagina originale: Sun 8 Nov 2026 13.32 GMT, aggiornata 17.15 GMT.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-ineos-esportazioni-etano-fracking",
+      "eventKey": "ineos-esportazioni-etano-fracking",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Etano da fracking, il ruolo di Ineos nei flussi dagli Stati Uniti",
+      "summary": "Un'analisi esamina la crescita delle spedizioni verso l'industria petrolchimica europea.",
+      "body": [
+        "Secondo i dati analizzati dal Center for International Environmental Law, le spedizioni di etano effettuate per Ineos sono cresciute di circa 7,3 volte dal 2016 al 2025.",
+        "Il gas, estratto negli Stati Uniti anche tramite fracking, alimenta produzioni petrolchimiche europee e suscita preoccupazioni ambientali nelle comunità coinvolte."
+      ],
+      "publishedAt": "2026-11-08T13:00:41Z",
+      "verifiedAt": "2026-11-09T05:13:38.036Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/environment/2026/nov/08/ineos-fracking-us",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T05:13:38.036Z",
+        "dateEvidence": "Pagina originale: Sun 8 Nov 2026 14.00 CET, modificata 14.02 CET.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-usa-costi-assicurazioni-sanitarie-lavoro",
+      "eventKey": "usa-costi-assicurazioni-sanitarie-lavoro",
+      "category": "Economia",
+      "status": "verified",
+      "title": "USA, assicurazioni sanitarie aziendali verso nuovi rincari",
+      "summary": "Le imprese valutano formule alternative per contenere i costi senza trasferirli interamente ai dipendenti.",
+      "body": [
+        "Un'analisi del Guardian cita una previsione Mercer di aumento dell'8,2% dei costi sanitari aziendali per dipendente nel 2027, anche dopo le misure di contenimento pianificate.",
+        "Tra le soluzioni esaminate figurano rimborsi per polizze individuali, conti sanitari agevolati e forme di autoassicurazione."
+      ],
+      "publishedAt": "2026-11-08T15:00:43Z",
+      "verifiedAt": "2026-11-09T05:13:38.036Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/08/employer-healthcare-plans",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T05:13:38.036Z",
+        "dateEvidence": "Pagina originale: Sun 8 Nov 2026 10.00 EST, modificata 10.02 EST.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-banane-america-latina-clima-prezzi",
+      "eventKey": "banane-america-latina-clima-prezzi",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Banane latinoamericane, i produttori chiedono prezzi più equi",
+      "summary": "Eventi climatici estremi e minori raccolti mettono sotto pressione i coltivatori.",
+      "body": [
+        "Produttori e organizzazioni del commercio equo chiedono condizioni economiche migliori per fronteggiare le perdite dovute a vento, piogge e siccità.",
+        "L'associazione dei produttori della regione caraibica colombiana segnala un calo del valore delle esportazioni nel trimestre luglio-settembre; Fairtrade sollecita contratti più sostenibili."
+      ],
+      "publishedAt": "2026-11-08T07:00:34Z",
+      "verifiedAt": "2026-11-09T05:13:38.036Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T05:13:38.036Z",
+        "dateEvidence": "Pagina originale: Sun 8 Nov 2026 02.00 EST, modificata 10.06 EST.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
