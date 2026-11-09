@@ -1,10 +1,9 @@
 {
   "editionDate": "2026-11-09",
-  "checkedAt": "2026-11-09T10:56:16.306Z",
-  "ready": true,
-  "editorialComplete": true,
-  "reserveMissing": [],
-  "completed": [
+  "checkedAt": "2026-11-09T11:49:05.213Z",
+  "ready": false,
+  "editorialComplete": false,
+  "reserveMissing": [
     "politica",
     "esteri",
     "economia",
@@ -14,586 +13,85 @@
     "tecnologia",
     "sport"
   ],
+  "completed": [],
   "inProgress": [],
-  "missing": [],
+  "missing": [
+    "politica",
+    "esteri",
+    "economia",
+    "cronaca",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
+  ],
   "invalid": [],
-  "stories": [
-    {
-      "id": "politica-decreto-bollette-cdm",
-      "category": "Politica",
-      "title": "Bollette, nuovo passaggio in Consiglio dei ministri",
-      "eventKey": "decreto-bollette-cdm"
-    },
-    {
-      "id": "politica-salis-renzi-centro-progressista",
-      "category": "Politica",
-      "title": "Silvia Salis frena Renzi: prima Genova, poi il confronto nel centrosinistra",
-      "eventKey": "salis-respinge-ipotesi-renzi-guida-centro-novembre-2026"
-    },
-    {
-      "id": "politica-piantedosi-comitato-hacker",
-      "category": "Politica",
-      "title": "Attacchi informatici, Piantedosi convoca il Comitato per l'ordine e la sicurezza",
-      "eventKey": "piantedosi-convoca-comitato-sicurezza-attacchi-hacker-novembre-2026"
-    },
-    {
-      "id": "politica-manovra-audizioni-camera",
-      "category": "Politica",
-      "title": "Manovra, Regioni e Comuni chiedono correzioni",
-      "eventKey": "manovra-audizioni-camera"
-    },
-    {
-      "id": "politica-sondaggio-centrodestra-vannacci",
-      "category": "Politica",
-      "title": "Un sondaggio misura il peso di Vannacci sul centrodestra",
-      "eventKey": "sondaggio-centrodestra-vannacci"
-    },
-    {
-      "id": "esteri-israele-mandato-eisenkot",
-      "category": "Esteri",
-      "title": "Israele, Herzog incarica Eisenkot di formare il nuovo governo",
-      "eventKey": "israele-herzog-incarico-governo-eisenkot-novembre-2026"
-    },
-    {
-      "id": "esteri-rubio-garanzie-sicurezza-ucraina",
-      "category": "Esteri",
-      "title": "Rubio segnala progressi sulle garanzie di sicurezza per l'Ucraina",
-      "eventKey": "rubio-progressi-garanzie-sicurezza-ucraina-abu-dhabi-novembre-2026"
-    },
-    {
-      "id": "esteri-cracovia-inchiesta-sparatoria",
-      "category": "Esteri",
-      "title": "Cracovia, morto l'autore della sparatoria. Inchiesta per terrorismo",
-      "eventKey": "cracovia-inchiesta-sparatoria"
-    },
-    {
-      "id": "esteri-giza-scontro-ferroviario",
-      "category": "Esteri",
-      "title": "Due treni si scontrano a sud del Cairo",
-      "eventKey": "giza-scontro-ferroviario"
-    },
-    {
-      "id": "esteri-g7-parigi-ministri-esteri",
-      "category": "Esteri",
-      "title": "G7 Esteri, Rubio arriva a Parigi",
-      "eventKey": "g7-parigi-ministri-esteri"
-    },
-    {
-      "id": "economia-byd-jlr-olanda-contesa-defender",
-      "category": "Economia",
-      "title": "BYD e Jaguar Land Rover, contesa sul design del Defender",
-      "eventKey": "byd-jlr-olanda-contesa-defender"
-    },
-    {
-      "id": "economia-brexit-centri-frontiera-inutilizzati",
-      "category": "Economia",
-      "title": "Brexit, cento milioni di sterline per controlli di frontiera mai partiti",
-      "eventKey": "brexit-centri-frontiera-inutilizzati"
-    },
-    {
-      "id": "economia-ineos-esportazioni-etano-fracking",
-      "category": "Economia",
-      "title": "Etano da fracking, il ruolo di Ineos nei flussi dagli Stati Uniti",
-      "eventKey": "ineos-esportazioni-etano-fracking"
-    },
-    {
-      "id": "economia-usa-costi-assicurazioni-sanitarie-lavoro",
-      "category": "Economia",
-      "title": "USA, assicurazioni sanitarie aziendali verso nuovi rincari",
-      "eventKey": "usa-costi-assicurazioni-sanitarie-lavoro"
-    },
-    {
-      "id": "economia-banane-america-latina-clima-prezzi",
-      "category": "Economia",
-      "title": "Banane latinoamericane, i produttori chiedono prezzi più equi",
-      "eventKey": "banane-america-latina-clima-prezzi"
-    },
-    {
-      "id": "cronaca-trani-fratelli-aggressione-gestore",
-      "category": "Cronaca",
-      "title": "Trani, due fratelli si presentano dopo l'aggressione a un gestore",
-      "eventKey": "trani-fratelli-aggressione-gestore"
-    },
-    {
-      "id": "cronaca-trieste-dipiazza-dichiarazioni-proteste",
-      "category": "Cronaca",
-      "title": "Trieste, polemiche sulle parole del sindaco dopo gli scontri",
-      "eventKey": "trieste-dipiazza-dichiarazioni-proteste"
-    },
-    {
-      "id": "cronaca-monopoli-speleologa-salvata-grotta",
-      "category": "Cronaca",
-      "title": "Monopoli, speleologa recuperata da 120 metri di profondità",
-      "eventKey": "monopoli-speleologa-salvata-grotta"
-    },
-    {
-      "id": "cronaca-vercelli-paracadutista-morto-lamporo",
-      "category": "Cronaca",
-      "title": "Vercelli, muore un paracadutista durante un lancio",
-      "eventKey": "vercelli-paracadutista-morto-lamporo"
-    },
-    {
-      "id": "cronaca-milano-agente-ferita-rissa-largo-la-foppa",
-      "category": "Cronaca",
-      "title": "Milano, agente ferita durante una rissa nella zona della movida",
-      "eventKey": "milano-rissa-largo-la-foppa-agente-ferita-8-novembre-2026"
-    },
-    {
-      "id": "roma-campidoglio-elezioni-scenario-2027",
-      "category": "Roma",
-      "title": "Campidoglio, Gualtieri prepara la corsa per il 2027",
-      "eventKey": "campidoglio-elezioni-scenario-2027"
-    },
-    {
-      "id": "roma-garbatella-albergo-rosso-riscaldamento",
-      "category": "Roma",
-      "title": "Garbatella, l'Albergo Rosso rischia di restare al freddo",
-      "eventKey": "garbatella-albergo-rosso-riscaldamento"
-    },
-    {
-      "id": "roma-via-arenula-rapina-turisti",
-      "category": "Roma",
-      "title": "Rapina a due turisti in via Arenula, quattro arresti",
-      "eventKey": "via-arenula-rapina-turisti"
-    },
-    {
-      "id": "roma-roma-latina-inchiesta-piazze-droga",
-      "category": "Roma",
-      "title": "Droga tra Roma e Latina, concluse le indagini su 25 persone",
-      "eventKey": "roma-latina-inchiesta-piazze-droga"
-    },
-    {
-      "id": "roma-cervellati-monopattino-morte",
-      "category": "Roma",
-      "title": "Roma, morto il fisico Roberto Cervellati dopo l'investimento con un monopattino",
-      "eventKey": "roma-roberto-cervellati-investito-monopattino-novembre-2026"
-    },
-    {
-      "id": "cultura-faust-castellucci-argentina",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Castellucci porta Faust al Teatro Argentina, tra corpo e controllo",
-      "eventKey": "faust-castellucci-roma-europa-festival-2026"
-    },
-    {
-      "id": "cultura-oscar-latella-bergamasco",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Oscar di Latella: Sonia Bergamasco affronta le contraddizioni di Lady Oscar",
-      "eventKey": "oscar-latella-bergamasco-recensione-novembre-2026"
-    },
-    {
-      "id": "cultura-factory-fest-umbria-2026",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Factory Fest attraversa l'Umbria con teatro, danza e sperimentazione",
-      "eventKey": "factory-fest-umbria-performances-2026"
-    },
-    {
-      "id": "cultura-ostia-pegaso-non-drammatizzare",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Al Teatro Pegaso di Ostia uno spettacolo sulla violenza psicologica",
-      "eventKey": "ostia-pegaso-non-drammatizzare"
-    },
-    {
-      "id": "cultura-genovese-rumore-cose-nuove-parco-medici",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Paolo Genovese incontra il pubblico al Parco de' Medici",
-      "eventKey": "genovese-rumore-cose-nuove-parco-medici"
-    },
-    {
-      "id": "tecnologia-agcom-viagogo-oasis",
-      "category": "Tecnologia · AI",
-      "title": "AGCOM dispone il blocco di Viagogo e apre un fascicolo sui biglietti degli Oasis",
-      "eventKey": "agcom-oscuramento-viagogo-biglietti-oasis-2026"
-    },
-    {
-      "id": "tecnologia-starship-volo-15",
-      "category": "Tecnologia · AI",
-      "title": "Starship, il quindicesimo test punta al recupero di entrambi gli stadi",
-      "eventKey": "spacex-starship-volo-15-doppia-cattura-annuncio-2026"
-    },
-    {
-      "id": "tecnologia-social-california",
-      "category": "Tecnologia · AI",
-      "title": "Google, Meta e TikTok contestano la legge californiana sui social per minori",
-      "eventKey": "california-legge-social-minori-ricorsi-google-meta-tiktok-2026"
-    },
-    {
-      "id": "tecnologia-divinity-larian",
-      "category": "Tecnologia · AI",
-      "title": "Larian, Vincke aggiorna sul nuovo Divinity senza indicare una data d'uscita",
-      "eventKey": "larian-vincke-aggiornamento-sviluppo-divinity-2026"
-    },
-    {
-      "id": "tecnologia-layden-ps5",
-      "category": "Tecnologia · AI",
-      "title": "Shawn Layden preferirebbe una PS5 più economica a una nuova corsa alla potenza",
-      "eventKey": "shawn-layden-ps5-economica-invece-ps6-2026"
-    },
-    {
-      "id": "sport-milan-genoa",
-      "category": "Sport",
-      "title": "Il Milan vince a Genova: Cisse e Pulisic decidono il 2-1",
-      "eventKey": "serie-a-genoa-milan-1-2-8-novembre-2026"
-    },
-    {
-      "id": "sport-inter-como",
-      "category": "Sport",
-      "title": "Inter-Como 2-0: Esposito e Thuram a segno a San Siro",
-      "eventKey": "serie-a-inter-como-2-0-8-novembre-2026"
-    },
-    {
-      "id": "sport-fiorentina-juventus",
-      "category": "Sport",
-      "title": "Fiorentina-Juventus finisce 2-2, discussioni su un tocco di mano nel finale",
-      "eventKey": "serie-a-fiorentina-juventus-2-2-8-novembre-2026"
-    },
-    {
-      "id": "sport-f1-brasile",
-      "category": "Sport",
-      "title": "Norris conquista il GP del Brasile, Mercedes campione costruttori",
-      "eventKey": "formula1-gp-brasile-norris-vittoria-mercedes-costruttori-2026"
-    },
-    {
-      "id": "sport-alcaraz-parigi-masters",
-      "category": "Sport",
-      "title": "Alcaraz conquista per la prima volta il Masters 1000 di Parigi",
-      "eventKey": "alcaraz-vince-parigi-masters-shelton-2026"
-    },
-    {
-      "id": "politica-ddl-unita-cyber-difesa",
-      "category": "Politica",
-      "title": "Difesa digitale, il disegno di legge prevede unità di pronto intervento",
-      "eventKey": "ddl-unita-cyber-difesa"
-    },
-    {
-      "id": "politica-meloni-anniversario-berlino",
-      "category": "Politica",
-      "title": "Meloni ricorda il 37º anniversario della caduta del Muro",
-      "eventKey": "meloni-anniversario-berlino"
-    },
-    {
-      "id": "politica-altieri-ritiro-anac",
-      "category": "Politica",
-      "title": "Anac, Altieri rinuncia dopo le contestazioni sulla nomina",
-      "eventKey": "altieri-ritiro-anac"
-    },
-    {
-      "id": "politica-contestazione-vannacci-coverciano",
-      "category": "Politica",
-      "title": "Contestazione a Coverciano all'apertura della sede di Futuro nazionale",
-      "eventKey": "contestazione-vannacci-coverciano"
-    },
-    {
-      "id": "politica-centrosinistra-tavoli-programma",
-      "category": "Politica",
-      "title": "Il centrosinistra avvia il confronto sul programma",
-      "eventKey": "centrosinistra-tavoli-programma"
-    },
-    {
-      "id": "esteri-papa-buenos-aires-democrazia",
-      "category": "Esteri",
-      "title": "Leone XIV a Buenos Aires richiama chi governa ai limiti del potere",
-      "eventKey": "papa-buenos-aires-democrazia"
-    },
-    {
-      "id": "esteri-gaza-allagamenti-tendopoli",
-      "category": "Esteri",
-      "title": "Gaza, le piogge allagano i campi degli sfollati",
-      "eventKey": "gaza-allagamenti-tendopoli"
-    },
-    {
-      "id": "esteri-francia-cortei-carovita",
-      "category": "Esteri",
-      "title": "Nuove proteste contro il carovita in Francia",
-      "eventKey": "francia-cortei-carovita"
-    },
-    {
-      "id": "esteri-trump-hegseth-dopo-midterm",
-      "category": "Esteri",
-      "title": "Trump difende Hegseth dopo il voto di metà mandato",
-      "eventKey": "trump-hegseth-dopo-midterm"
-    },
-    {
-      "id": "esteri-nvidia-inchiesta-sospetti-spionaggio",
-      "category": "Esteri",
-      "title": "Nvidia avvia un'indagine interna sul caso Huang",
-      "eventKey": "nvidia-inchiesta-sospetti-spionaggio"
-    },
-    {
-      "id": "economia-truffa-pianoforte-gratuito",
-      "category": "Economia",
-      "title": "Pianoforte regalato, l'inganno delle spese di consegna",
-      "eventKey": "truffa-pianoforte-gratuito"
-    },
-    {
-      "id": "economia-reclami-generati-ai-uffici-britannici",
-      "category": "Economia",
-      "title": "Regno Unito, uffici pubblici sommersi da reclami scritti con IA",
-      "eventKey": "reclami-generati-ai-uffici-britannici"
-    },
-    {
-      "id": "economia-gran-bretagna-riserva-elettrica-vento",
-      "category": "Economia",
-      "title": "Poco vento, il gestore britannico chiede più capacità elettrica",
-      "eventKey": "gran-bretagna-riserva-elettrica-vento"
-    },
-    {
-      "id": "economia-regno-unito-tuc-lavoro-giovani",
-      "category": "Economia",
-      "title": "Il TUC chiede più investimenti per l'occupazione giovanile",
-      "eventKey": "regno-unito-tuc-lavoro-giovani"
-    },
-    {
-      "id": "economia-thames-water-proroga-creditori",
-      "category": "Economia",
-      "title": "Thames Water chiede più tempo ai creditori",
-      "eventKey": "thames-water-proroga-creditori"
-    },
-    {
-      "id": "cronaca-catania-ansv-air-arabia",
-      "category": "Cronaca",
-      "title": "L'ANSV ricostruisce il mancato incidente dopo il decollo da Catania",
-      "eventKey": "catania-ansv-air-arabia"
-    },
-    {
-      "id": "cronaca-a11-operaio-cantiere-investito",
-      "category": "Cronaca",
-      "title": "Incidente sul lavoro sull'A11, muore un operaio",
-      "eventKey": "a11-operaio-cantiere-investito"
-    },
-    {
-      "id": "cronaca-milano-sciopero-atm-novembre",
-      "category": "Cronaca",
-      "title": "Trasporto pubblico milanese, sciopero il 13 novembre",
-      "eventKey": "milano-sciopero-atm-novembre"
-    },
-    {
-      "id": "cronaca-napoli-materdei-crollo",
-      "category": "Cronaca",
-      "title": "Napoli, crollo in uno stabile di Materdei",
-      "eventKey": "napoli-materdei-crollo"
-    },
-    {
-      "id": "cronaca-palosco-indagine-emilia-bianchi",
-      "category": "Cronaca",
-      "title": "Donna uccisa a Palosco, fermato il figlio",
-      "eventKey": "palosco-indagine-emilia-bianchi"
-    },
-    {
-      "id": "roma-anguillara-torzullo-testimonianza-funerali",
-      "category": "Roma",
-      "title": "Caso Torzullo, agli atti il racconto del cognato",
-      "eventKey": "anguillara-torzullo-testimonianza-funerali"
-    },
-    {
-      "id": "roma-roma-poste-rapinatore-colla",
-      "category": "Roma",
-      "title": "Roma, fermato un sospettato dopo un colpo alle Poste",
-      "eventKey": "roma-poste-rapinatore-colla"
-    },
-    {
-      "id": "roma-valco-san-paolo-incendio-il-tetto",
-      "category": "Roma",
-      "title": "Incendio nella casa famiglia Il Tetto a Valco San Paolo",
-      "eventKey": "valco-san-paolo-incendio-il-tetto"
-    },
-    {
-      "id": "roma-centocelle-aggressione-diciannovenne",
-      "category": "Roma",
-      "title": "Centocelle, diciannovenne ferito durante un'aggressione",
-      "eventKey": "centocelle-aggressione-diciannovenne"
-    },
-    {
-      "id": "roma-montesacro-sonoro-memoria-quartiere",
-      "category": "Roma",
-      "title": "Montesacro raccoglie le memorie del quartiere",
-      "eventKey": "montesacro-sonoro-memoria-quartiere"
-    },
-    {
-      "id": "cultura-reel-rock-cinema-moderno",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Reel Rock porta il cinema di arrampicata a Roma",
-      "eventKey": "reel-rock-cinema-moderno"
-    },
-    {
-      "id": "cultura-curva-pura-you-are-here",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Carboncino e ceramica in mostra a Curva Pura",
-      "eventKey": "curva-pura-you-are-here"
-    },
-    {
-      "id": "cultura-centrale-preneste-due-spettacoli",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Due appuntamenti alla Centrale Preneste Art Factory",
-      "eventKey": "centrale-preneste-due-spettacoli"
-    },
-    {
-      "id": "cultura-centrale-preneste-qui-vivremo-bene",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Qui vivremo bene va in scena a Centrale Preneste",
-      "eventKey": "centrale-preneste-qui-vivremo-bene"
-    },
-    {
-      "id": "cultura-von-buren-collettiva-romantics",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "The Romantics, nuova collettiva in via Giulia",
-      "eventKey": "von-buren-collettiva-romantics"
-    },
-    {
-      "id": "tecnologia-logitech-master-creator-developer",
-      "category": "Tecnologia · AI",
-      "title": "Logitech presenta due versioni del mouse MX Master 4",
-      "eventKey": "logitech-master-creator-developer"
-    },
-    {
-      "id": "tecnologia-siri-ai-ios-273-indiscrezioni",
-      "category": "Tecnologia · AI",
-      "title": "Siri, nuove capacità operative attese con iOS 27.3",
-      "eventKey": "siri-ai-ios-273-indiscrezioni"
-    },
-    {
-      "id": "tecnologia-epic-launcher-linux-steamos",
-      "category": "Tecnologia · AI",
-      "title": "Epic conferma il supporto a SteamOS per il suo launcher Linux",
-      "eventKey": "epic-launcher-linux-steamos"
-    },
-    {
-      "id": "tecnologia-gta6-precaricamento-nuova-zelanda",
-      "category": "Tecnologia · AI",
-      "title": "GTA 6, la Nuova Zelanda tra i primi mercati per il precaricamento",
-      "eventKey": "gta6-precaricamento-nuova-zelanda"
-    },
-    {
-      "id": "tecnologia-assassins-creed-hexe-finestra-voce",
-      "category": "Tecnologia · AI",
-      "title": "Assassin's Creed Hexe, una voce ipotizza il 2028",
-      "eventKey": "assassins-creed-hexe-finestra-voce"
-    },
-    {
-      "id": "sport-napoli-lazio-pareggio-maradona",
-      "category": "Sport",
-      "title": "Napoli e Lazio si dividono i punti al Maradona",
-      "eventKey": "napoli-lazio-pareggio-maradona"
-    },
-    {
-      "id": "sport-catania-cicerelli-gol-sorrento",
-      "category": "Sport",
-      "title": "Serie C, Cicerelli segna partendo da centrocampo",
-      "eventKey": "catania-cicerelli-gol-sorrento"
-    },
-    {
-      "id": "sport-tromso-settore-ospiti-cedimento",
-      "category": "Sport",
-      "title": "Norvegia, cede parte del settore ospiti a Tromsø",
-      "eventKey": "tromso-settore-ospiti-cedimento"
-    },
-    {
-      "id": "sport-virtus-bologna-verona-basket",
-      "category": "Sport",
-      "title": "Basket, la Virtus ospita Verona dopo lo stop in Eurolega",
-      "eventKey": "virtus-bologna-verona-basket"
-    },
-    {
-      "id": "sport-del-piero-cinquantadue-anni",
-      "category": "Sport",
-      "title": "Alessandro Del Piero compie 52 anni",
-      "eventKey": "del-piero-cinquantadue-anni"
-    }
-  ],
-  "collectionId": "2026-11-09-mattina",
+  "stories": [],
+  "collectionId": "2026-11-09-pomeriggio",
   "reserveCounts": {
-    "Politica": 5,
-    "Esteri": 5,
-    "Economia": 5,
-    "Cronaca": 5,
-    "Roma": 5,
-    "Cultura · Teatro · Cinema": 5,
-    "Tecnologia · AI": 5,
-    "Sport": 5
+    "Politica": 0,
+    "Esteri": 0,
+    "Economia": 0,
+    "Cronaca": 0,
+    "Roma": 0,
+    "Cultura · Teatro · Cinema": 0,
+    "Tecnologia · AI": 0,
+    "Sport": 0
   },
-  "photoCandidates": [
-    {
-      "id": "politica-decreto-bollette-cdm",
-      "category": "Politica",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg"
-    },
-    {
-      "id": "esteri-israele-mandato-eisenkot",
-      "category": "Esteri",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG"
-    },
-    {
-      "id": "roma-campidoglio-elezioni-scenario-2027",
-      "category": "Roma",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Senatorio.Roma.jpg"
-    },
-    {
-      "id": "cultura-faust-castellucci-argentina",
-      "category": "Cultura · Teatro · Cinema",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Teatro_di_Argentina_Roma.jpg"
-    },
-    {
-      "id": "sport-milan-genoa",
-      "category": "Sport",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg"
-    }
-  ],
-  "photosAvailable": 5,
+  "photoCandidates": [],
+  "photosAvailable": 0,
   "categoryProgress": {
     "politica": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     },
     "esteri": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     },
     "economia": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     },
     "cronaca": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     },
     "roma": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     },
     "cultura": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     },
     "tecnologia": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     },
     "sport": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     }
   },
-  "preparation": "editorialmente-completa",
-  "editionId": "2026-11-09-batches-cdc6e41ec43d",
-  "message": "Rassegna completa online: 40 principali e 40 aggiuntive",
+  "preparation": "in-preparazione",
+  "message": "Edizione in preparazione",
   "needsPublication": false,
-  "publicCollectionId": "2026-11-09-mattina",
-  "publicVerifiedAt": "2026-11-09T10:56:39.759608+00:00",
-  "publicEditionId": "2026-11-09-batches-cdc6e41ec43d",
-  "publication": "verified"
+  "publicCollectionId": "2026-11-09-mattina"
 }
