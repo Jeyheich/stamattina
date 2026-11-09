@@ -3,7 +3,6 @@
   "editionDate": "2026-11-09",
   "collectionId": "2026-11-09-mattina",
   "category": "Cronaca",
-  "completedAt": "2026-11-09T05:13:40.531Z",
   "articles": [
     {
       "id": "cronaca-trani-fratelli-aggressione-gestore",
@@ -95,5 +94,7 @@
     }
   ],
   "reserveArticles": [],
-  "reserveDraft": []
+  "reserveDraft": [],
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-09T05:14:07.610Z"
 }
