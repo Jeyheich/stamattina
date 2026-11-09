@@ -1,5 +1,9 @@
 # Stamattina — stato operativo
 
+## Mattutina del 9 novembre — recupero manuale pubblicato
+- Il ciclo 2026-11-09-mattina era rimasto a 28 principali, due aggiuntive in bozza e zero foto dopo gli avvii automatici. Rilette le fonti scadute e completati gli otto blocchi sui due rami editoriali.
+- Il runner non riusciva a leggere due pagine AGI di Economia. Sostituite le due notizie con fonti verificate dal runner. Run 42604893792 riuscita e JSON pubblico verificato alle 11:56 Europe/Rome. Edizione 2026-11-09-batches-cdc6e41ec43d con 40 principali, 40 aggiuntive e cinque foto. Primo passaggio completo attraverso i due rami, con recupero editoriale manuale.
+
 ## Rami editoriali separati — 9 novembre
 - redazione-quotidiana riceve Politica, Esteri, Tecnologia e Sport. redazione-economia-cronaca riceve Economia, Cronaca, Roma e Cultura. Ciascun aggiornamento richiede l’assemblaggio sul ramo main, in coda con gli altri. Le attività leggono i loro blocchi sul ramo assegnato e lo stato su main.
 - L’importazione raccoglie entrambe le redazioni per il ciclo richiesto, conserva le correzioni concorrenti e mantiene i controlli di completezza e le regole di promozione. Il calendario mattutino e il sito pubblico sono invariati.
