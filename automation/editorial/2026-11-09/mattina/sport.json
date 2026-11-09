@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-09",
+  "collectionId": "2026-11-09-mattina",
+  "category": "Sport",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-09T06:09:32.571Z",
+  "articles": [
+    {
+      "id": "sport-milan-genoa",
+      "eventKey": "serie-a-genoa-milan-1-2-8-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Il Milan vince a Genova: Cisse e Pulisic decidono il 2-1",
+      "summary": "I rossoneri passano sul campo del Genoa con due gol nel primo tempo, firmati da Cisse e Pulisic. Ellertsson accorcia all'88', ma la squadra di Amorim conserva il vantaggio.",
+      "body": [
+        "I rossoneri passano sul campo del Genoa con due gol nel primo tempo, firmati da Cisse e Pulisic. Ellertsson accorcia all'88', ma la squadra di Amorim conserva il vantaggio."
+      ],
+      "publishedAt": "2026-11-08",
+      "verifiedAt": "2026-11-09T06:09:32.571Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-11/genoa-milan/video-highlights",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T06:09:32.571Z",
+        "dateEvidence": "Cronaca integrale della gara dell'8 novembre 2026, con gol e minuti verificabili nella pagina Sky Sport.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-inter-como",
+      "eventKey": "serie-a-inter-como-2-0-8-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Inter-Como 2-0: Esposito e Thuram a segno a San Siro",
+      "summary": "L'Inter supera il Como nell'undicesima giornata di Serie A. Esposito sblocca la sfida dopo dodici minuti e Thuram firma il raddoppio, con i nerazzurri che controllano il risultato nella ripresa.",
+      "body": [
+        "L'Inter supera il Como nell'undicesima giornata di Serie A. Esposito sblocca la sfida dopo dodici minuti e Thuram firma il raddoppio, con i nerazzurri che controllano il risultato nella ripresa."
+      ],
+      "publishedAt": "2026-11-08",
+      "verifiedAt": "2026-11-09T06:09:32.571Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-11/inter-como/video-highlights",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T06:09:32.571Z",
+        "dateEvidence": "Live Sky Sport della partita domenica 8 novembre 2026, con marcatori e cronaca della ripresa.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-fiorentina-juventus",
+      "eventKey": "serie-a-fiorentina-juventus-2-2-8-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Fiorentina-Juventus finisce 2-2, discussioni su un tocco di mano nel finale",
+      "summary": "La partita si chiude in parità. Nel finale i giocatori juventini chiedono un rigore per un tocco di mano di Joao Mario, ma arbitro e VAR non intervengono; l'episodio è stato analizzato nel dopopartita.",
+      "body": [
+        "La partita si chiude in parità. Nel finale i giocatori juventini chiedono un rigore per un tocco di mano di Joao Mario, ma arbitro e VAR non intervengono; l'episodio è stato analizzato nel dopopartita."
+      ],
+      "publishedAt": "2026-11-08",
+      "verifiedAt": "2026-11-09T06:09:32.571Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/11/08/fiorentina-juve-joao-mario-mani-analisi-club",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T06:09:32.571Z",
+        "dateEvidence": "Sky Sport indica «08 nov 2026 - 23:35» nella pagina sull'episodio della gara.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-f1-brasile",
+      "eventKey": "formula1-gp-brasile-norris-vittoria-mercedes-costruttori-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Norris conquista il GP del Brasile, Mercedes campione costruttori",
+      "summary": "A Interlagos Lando Norris vince davanti a Verstappen e Hadjar. Russell quarto e Antonelli quinto permettono alla Mercedes di aggiudicarsi il Mondiale costruttori, dopo il titolo piloti già ottenuto dall'italiano.",
+      "body": [
+        "A Interlagos Lando Norris vince davanti a Verstappen e Hadjar. Russell quarto e Antonelli quinto permettono alla Mercedes di aggiudicarsi il Mondiale costruttori, dopo il titolo piloti già ottenuto dall'italiano."
+      ],
+      "publishedAt": "2026-11-08",
+      "verifiedAt": "2026-11-09T06:09:32.571Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/formula-1/video/2026/11/08/f1-gp-brasile-highlights-1138610",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T06:09:32.571Z",
+        "dateEvidence": "Sky Sport riporta «08 nov 2026 - 20:24» per gli highlights e il risultato del GP.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": []
+}
