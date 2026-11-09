@@ -3,6 +3,7 @@
   "editionDate": "2026-11-09",
   "collectionId": "2026-11-09-mattina",
   "category": "Sport",
+  "completedAt": "2026-11-09T10:53:27.206670+00:00",
   "articles": [
     {
       "id": "sport-milan-genoa",
@@ -12,18 +13,30 @@
       "title": "Il Milan vince a Genova: Cisse e Pulisic decidono il 2-1",
       "summary": "I rossoneri passano sul campo del Genoa con due gol nel primo tempo, firmati da Cisse e Pulisic. Ellertsson accorcia all'88', ma la squadra di Amorim conserva il vantaggio.",
       "body": [
-        "I rossoneri passano sul campo del Genoa con due gol nel primo tempo, firmati da Cisse e Pulisic. Ellertsson accorcia all'88', ma la squadra di Amorim conserva il vantaggio."
+        "I rossoneri passano sul campo del Genoa con due gol nel primo tempo, firmati da Cisse e Pulisic. Ellertsson accorcia all'88', ma la squadra di Amorim conserva il vantaggio.",
+        "Il successo per 2-1 è arrivato sul campo del Genoa con le reti di Cisse e Pulisic."
       ],
       "publishedAt": "2026-11-08",
-      "verifiedAt": "2026-11-09T06:09:32.571Z",
+      "verifiedAt": "2026-11-09T10:49:31.502976+00:00",
       "source": {
         "name": "Sky Sport",
         "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-11/genoa-milan/video-highlights",
         "access": "free",
-        "accessCheckedAt": "2026-11-09T06:09:32.571Z",
+        "accessCheckedAt": "2026-11-09T10:49:31.502976+00:00",
         "dateEvidence": "Cronaca integrale della gara dell'8 novembre 2026, con gol e minuti verificabili nella pagina Sky Sport.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
+      },
+      "image": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg/960px-Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg",
+        "alt": "Pallone da calcio su un prato",
+        "credit": "Peter Glaser baraida",
+        "rights": "CC0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "caption": "Repertorio · Un pallone da calcio su un prato. La fotografia non ritrae la partita o la cerimonia descritta nella notizia.",
+        "reuseApproved": true
+      },
+      "leadPriority": 85
     },
     {
       "id": "sport-inter-como",
@@ -36,12 +49,12 @@
         "L'Inter supera il Como nell'undicesima giornata di Serie A. Esposito sblocca la sfida dopo dodici minuti e Thuram firma il raddoppio, con i nerazzurri che controllano il risultato nella ripresa."
       ],
       "publishedAt": "2026-11-08",
-      "verifiedAt": "2026-11-09T06:09:32.571Z",
+      "verifiedAt": "2026-11-09T10:49:31.422388+00:00",
       "source": {
         "name": "Sky Sport",
         "url": "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-11/inter-como/video-highlights",
         "access": "free",
-        "accessCheckedAt": "2026-11-09T06:09:32.571Z",
+        "accessCheckedAt": "2026-11-09T10:49:31.422388+00:00",
         "dateEvidence": "Live Sky Sport della partita domenica 8 novembre 2026, con marcatori e cronaca della ripresa.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -57,12 +70,12 @@
         "La partita si chiude in parità. Nel finale i giocatori juventini chiedono un rigore per un tocco di mano di Joao Mario, ma arbitro e VAR non intervengono; l'episodio è stato analizzato nel dopopartita."
       ],
       "publishedAt": "2026-11-08",
-      "verifiedAt": "2026-11-09T06:09:32.571Z",
+      "verifiedAt": "2026-11-09T10:49:31.354112+00:00",
       "source": {
         "name": "Sky Sport",
         "url": "https://sport.sky.it/calcio/serie-a/2026/11/08/fiorentina-juve-joao-mario-mani-analisi-club",
         "access": "free",
-        "accessCheckedAt": "2026-11-09T06:09:32.571Z",
+        "accessCheckedAt": "2026-11-09T10:49:31.354112+00:00",
         "dateEvidence": "Sky Sport indica «08 nov 2026 - 23:35» nella pagina sull'episodio della gara.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -78,12 +91,12 @@
         "A Interlagos Lando Norris vince davanti a Verstappen e Hadjar. Russell quarto e Antonelli quinto permettono alla Mercedes di aggiudicarsi il Mondiale costruttori, dopo il titolo piloti già ottenuto dall'italiano."
       ],
       "publishedAt": "2026-11-08",
-      "verifiedAt": "2026-11-09T06:09:32.571Z",
+      "verifiedAt": "2026-11-09T10:49:31.289718+00:00",
       "source": {
         "name": "Sky Sport",
         "url": "https://sport.sky.it/formula-1/video/2026/11/08/f1-gp-brasile-highlights-1138610",
         "access": "free",
-        "accessCheckedAt": "2026-11-09T06:09:32.571Z",
+        "accessCheckedAt": "2026-11-09T10:49:31.289718+00:00",
         "dateEvidence": "Sky Sport riporta «08 nov 2026 - 20:24» per gli highlights e il risultato del GP.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -100,17 +113,122 @@
         "La vittoria arriva prima delle ATP Finals di Torino, alle quali Alcaraz si presenta con un nuovo titolo sul cemento indoor. Il risultato non riguarda una partita delle Finals, ancora da disputare."
       ],
       "publishedAt": "2026-11-08T19:28:00+01:00",
-      "verifiedAt": "2026-11-09T08:14:18+01:00",
+      "verifiedAt": "2026-11-09T10:49:31.431343+00:00",
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/08/tennis-alcaraz-prima-volta-al-masters-di-parigi-ora-le-finals_74554ce4-4f41-47ff-8476-02d8f2868089.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-09T08:14:18+01:00",
+        "accessCheckedAt": "2026-11-09T10:49:31.431343+00:00",
         "dateEvidence": "La pagina ANSA riporta 08 novembre 2026, 19:28 e descrive la finale Alcaraz-Shelton.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ],
-  "reserveArticles": [],
-  "completedAt": "2026-11-09T08:14:18+01:00"
+  "reserveArticles": [
+    {
+      "id": "sport-napoli-lazio-pareggio-maradona",
+      "eventKey": "napoli-lazio-pareggio-maradona",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Napoli e Lazio si dividono i punti al Maradona",
+      "summary": "Frattesi ha portato avanti la Lazio al 28º minuto. Il Napoli ha trovato l'1-1 nella ripresa con l'autorete di Pedraza.",
+      "body": [
+        "Frattesi ha portato avanti la Lazio al 28º minuto. Il Napoli ha trovato l'1-1 nella ripresa con l'autorete di Pedraza."
+      ],
+      "publishedAt": "2026-11-08T14:37:15+01:00",
+      "source": {
+        "name": "Leggo Sport",
+        "url": "https://www.leggo.it/sport/calcio/08_novembre_2026_napoli_lazio_pagelle_voti_top_flop_oggi-9877200.html",
+        "access": "free",
+        "dateEvidence": "Il metadato article:published_time della pagina originale riporta 2026-11-08T14:37:15+01:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:54.841863+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:54.841863+00:00"
+    },
+    {
+      "id": "sport-catania-cicerelli-gol-sorrento",
+      "eventKey": "catania-cicerelli-gol-sorrento",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Serie C, Cicerelli segna partendo da centrocampo",
+      "summary": "Nella partita del Catania contro il Sorrento, Cicerelli ha percorso palla al piede una lunga porzione di campo prima di battere il portiere.",
+      "body": [
+        "Nella partita del Catania contro il Sorrento, Cicerelli ha percorso palla al piede una lunga porzione di campo prima di battere il portiere."
+      ],
+      "publishedAt": "2026-11-09T09:30:00+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-c/2026/11/09/cicerelli-gol-catania-sorrento",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-09. L’orario è quello del feed ufficiale: 2026-11-09T09:30:00+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:30.304199+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:30.304199+00:00"
+    },
+    {
+      "id": "sport-tromso-settore-ospiti-cedimento",
+      "eventKey": "tromso-settore-ospiti-cedimento",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Norvegia, cede parte del settore ospiti a Tromsø",
+      "summary": "La polizia ha segnalato quattro persone coinvolte nel cedimento durante la partita con il Bodø/Glimt. Una è stata trasportata in ospedale.",
+      "body": [
+        "La polizia ha segnalato quattro persone coinvolte nel cedimento durante la partita con il Bodø/Glimt. Una è stata trasportata in ospedale."
+      ],
+      "publishedAt": "2026-11-09T09:07:08+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/2026/11/09/tromsoe-bodo-glimt-crollo-tribuna-ospiti-feriti",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-09. L’orario è quello del feed ufficiale: 2026-11-09T09:07:08+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:30.376212+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:30.376212+00:00"
+    },
+    {
+      "id": "sport-virtus-bologna-verona-basket",
+      "eventKey": "virtus-bologna-verona-basket",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Basket, la Virtus ospita Verona dopo lo stop in Eurolega",
+      "summary": "Bologna torna in campo in campionato dopo la sconfitta casalinga contro Dubai. La sfida con la neopromossa è in programma alle 20.",
+      "body": [
+        "Bologna torna in campo in campionato dopo la sconfitta casalinga contro Dubai. La sfida con la neopromossa è in programma alle 20."
+      ],
+      "publishedAt": "2026-11-09T07:00:00+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/basket/serie-a/2026/11/09/virtus-bologna-verona-dove-vedere-tv-streaming",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-09. L’orario è quello del feed ufficiale: 2026-11-09T07:00:00+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:54.624945+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:54.624945+00:00"
+    },
+    {
+      "id": "sport-del-piero-cinquantadue-anni",
+      "eventKey": "del-piero-cinquantadue-anni",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Alessandro Del Piero compie 52 anni",
+      "summary": "Il 9 novembre è il compleanno dell'ex capitano della Juventus. Sky Sport ripercorre la ricorrenza dedicando un video all'ex attaccante.",
+      "body": [
+        "Il 9 novembre è il compleanno dell'ex capitano della Juventus. Sky Sport ripercorre la ricorrenza dedicando un video all'ex attaccante."
+      ],
+      "publishedAt": "2026-11-09T09:57:28+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/video/2026/11/09/alessandro-del-piero-compleanno-video-1138706",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-09. L’orario è quello del feed ufficiale: 2026-11-09T09:57:28+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:54.258411+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:54.258411+00:00"
+    }
+  ]
 }

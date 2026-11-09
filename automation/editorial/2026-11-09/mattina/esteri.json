@@ -3,9 +3,43 @@
   "editionDate": "2026-11-09",
   "collectionId": "2026-11-09-mattina",
   "category": "Esteri",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-09T08:14:45+01:00",
+  "completedAt": "2026-11-09T10:53:27.201022+00:00",
   "articles": [
+    {
+      "id": "esteri-israele-mandato-eisenkot",
+      "eventKey": "israele-herzog-incarico-governo-eisenkot-novembre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Israele, Herzog incarica Eisenkot di formare il nuovo governo",
+      "summary": "Il presidente israeliano ha affidato all'ex capo di Stato maggiore il mandato di costruire una maggioranza dopo le consultazioni parlamentari. Eisenkot ha 28 giorni, prorogabili di 14, per trovare un accordo.",
+      "body": [
+        "Isaac Herzog ha affidato a Gadi Eisenkot l'incarico di formare il prossimo governo israeliano. Secondo Sky TG24, i partiti che rappresentano la maggioranza della Knesset ne hanno sostenuto il nome durante le consultazioni.",
+        "Eisenkot ha auspicato la formazione rapida di un governo di emergenza nazionale per evitare un nuovo stallo. Il mandato dura inizialmente 28 giorni, con la possibilità di una proroga di altri 14: la nomina non equivale ancora alla formazione di un esecutivo.",
+        "Il presidente Herzog ha affidato al generale in congedo il compito di costruire una maggioranza. Il mandato apre la fase delle trattative tra i partiti."
+      ],
+      "publishedAt": "2026-11-08T19:39:00+01:00",
+      "verifiedAt": "2026-11-09T10:49:30.865069+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/mondo/video/2026/11/08/israele-herzog-eisenkot-mandato-governo-1138578",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T10:49:30.865069+00:00",
+        "dateEvidence": "Sky TG24 riporta «08 nov 2026 - 19:39» sopra il testo sul mandato a Eisenkot.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Knesset_Building_%28From_Front%29.JPG",
+        "alt": "La Knesset, Gerusalemme",
+        "credit": "Effib",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG",
+        "rights": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · La Knesset, Gerusalemme. Fotografia non riferita agli eventi di oggi.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      },
+      "leadPriority": 85
+    },
     {
       "id": "esteri-rubio-garanzie-sicurezza-ucraina",
       "eventKey": "rubio-progressi-garanzie-sicurezza-ucraina-abu-dhabi-novembre-2026",
@@ -18,39 +52,185 @@
         "Rubio ha indicato i colloqui previsti nei prossimi giorni ad Abu Dhabi come possibile occasione per nuovi progressi. Non ha annunciato un accordo concluso."
       ],
       "publishedAt": "2026-11-09T00:10:00+01:00",
-      "verifiedAt": "2026-11-09T05:04:21.520Z",
+      "verifiedAt": "2026-11-09T10:49:30.910121+00:00",
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/rubio-progressi-sullinfrastruttura-di-sicurezza-dopo-la-guerra-in-ucraina_b1ecdcff-a9f7-4e74-a74c-9793acb3deb0.html",
         "dateEvidence": "L'articolo ANSA riporta WASHINGTON, 09 novembre 2026, 00:10.",
         "access": "free",
-        "accessCheckedAt": "2026-11-09T05:04:21.520Z",
+        "accessCheckedAt": "2026-11-09T10:49:30.910121+00:00",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
     {
-      "id": "esteri-israele-mandato-eisenkot",
-      "eventKey": "israele-herzog-incarico-governo-eisenkot-novembre-2026",
+      "id": "esteri-cracovia-inchiesta-sparatoria",
+      "eventKey": "cracovia-inchiesta-sparatoria",
       "category": "Esteri",
       "status": "verified",
-      "title": "Israele, Herzog incarica Eisenkot di formare il nuovo governo",
-      "summary": "Il presidente israeliano ha affidato all'ex capo di Stato maggiore il mandato di costruire una maggioranza dopo le consultazioni parlamentari. Eisenkot ha 28 giorni, prorogabili di 14, per trovare un accordo.",
+      "title": "Cracovia, morto l'autore della sparatoria. Inchiesta per terrorismo",
+      "summary": "La polizia ha comunicato la morte in ospedale del venticinquenne ferito nello scontro con gli agenti. La procura indaga per terrorismo e il movente resta da chiarire.",
       "body": [
-        "Isaac Herzog ha affidato a Gadi Eisenkot l'incarico di formare il prossimo governo israeliano. Secondo Sky TG24, i partiti che rappresentano la maggioranza della Knesset ne hanno sostenuto il nome durante le consultazioni.",
-        "Eisenkot ha auspicato la formazione rapida di un governo di emergenza nazionale per evitare un nuovo stallo. Il mandato dura inizialmente 28 giorni, con la possibilità di una proroga di altri 14: la nomina non equivale ancora alla formazione di un esecutivo."
+        "La polizia ha comunicato la morte in ospedale del venticinquenne ferito nello scontro con gli agenti. La procura indaga per terrorismo e il movente resta da chiarire."
       ],
-      "publishedAt": "2026-11-08T19:39:00+01:00",
-      "verifiedAt": "2026-11-09T08:14:45+01:00",
+      "publishedAt": "2026-11-09T06:16:39+00:00",
       "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/mondo/video/2026/11/08/israele-herzog-eisenkot-mandato-governo-1138578",
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/polonia-spari-sulla-folla-a-cracovia-morti-e-feriti-64cdf05a-9d63-47e4-9c81-343c1d50097b.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-09T08:14:45+01:00",
-        "dateEvidence": "Sky TG24 riporta «08 nov 2026 - 19:39» sopra il testo sul mandato a Eisenkot.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
+        "dateEvidence": "Il metadato article:published_time della pagina originale riporta 2026-11-09T06:16:39+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:27.156275+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:27.156275+00:00"
+    },
+    {
+      "id": "esteri-giza-scontro-ferroviario",
+      "eventKey": "giza-scontro-ferroviario",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Due treni si scontrano a sud del Cairo",
+      "summary": "Il ministero della Salute egiziano ha indicato almeno sette morti e 112 feriti. Secondo il ministero dei Trasporti, un convoglio passeggeri ha urtato la coda dell'altro lungo la tratta di Al-Ayyat.",
+      "body": [
+        "Il ministero della Salute egiziano ha indicato almeno sette morti e 112 feriti. Secondo il ministero dei Trasporti, un convoglio passeggeri ha urtato la coda dell'altro lungo la tratta di Al-Ayyat."
+      ],
+      "publishedAt": "2026-11-08T15:34:13+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/egitto-scontro-tra-treni-a-giza-almeno-morti-e-feriti-7b332113-4581-456b-863e-ffe98446794c.html",
+        "access": "free",
+        "dateEvidence": "Il metadato article:published_time della pagina originale riporta 2026-11-08T15:34:13+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:49.229472+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:49.229472+00:00"
+    },
+    {
+      "id": "esteri-g7-parigi-ministri-esteri",
+      "eventKey": "g7-parigi-ministri-esteri",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "G7 Esteri, Rubio arriva a Parigi",
+      "summary": "L'incontro dei ministri è stato spostato da Marsiglia per ragioni di sicurezza. È il primo faccia a faccia di Rubio con gli alleati dopo le elezioni americane di metà mandato.",
+      "body": [
+        "L'incontro dei ministri è stato spostato da Marsiglia per ragioni di sicurezza. È il primo faccia a faccia di Rubio con gli alleati dopo le elezioni americane di metà mandato."
+      ],
+      "publishedAt": "2026-11-09T07:57:00+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/rubio-arriva-a-parigi-per-partecipare-alla-riunione-dei-ministri-degli-esteri-del-g7-83d4f8b6-4194-4847-b0f1-f0a35919e909.html",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-09. L’orario è quello del feed ufficiale: 2026-11-09T07:57:00+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:29.123682+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:29.123682+00:00"
     }
   ],
-  "reserveArticles": [],
-  "reserveDraft": []
+  "reserveArticles": [
+    {
+      "id": "esteri-papa-buenos-aires-democrazia",
+      "eventKey": "papa-buenos-aires-democrazia",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Leone XIV a Buenos Aires richiama chi governa ai limiti del potere",
+      "summary": "Nel primo discorso in Argentina, davanti al presidente Javier Milei, il pontefice ha parlato della responsabilità di chi ricopre incarichi pubblici e del primato delle persone nell'economia.",
+      "body": [
+        "Nel primo discorso in Argentina, davanti al presidente Javier Milei, il pontefice ha parlato della responsabilità di chi ricopre incarichi pubblici e del primato delle persone nell'economia."
+      ],
+      "publishedAt": "2026-11-09T04:57:00+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/papa-leone-argentina-democrazia-eredita-da-custodire-video--b61625be-0f07-4832-8338-427e84f3a08a.html",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-09. L’orario è quello del feed ufficiale: 2026-11-09T04:57:00+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:27.215945+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:27.215945+00:00"
+    },
+    {
+      "id": "esteri-gaza-allagamenti-tendopoli",
+      "eventKey": "gaza-allagamenti-tendopoli",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Gaza, le piogge allagano i campi degli sfollati",
+      "summary": "I rovesci hanno sommerso le tende e aggravato il rischio di cedimenti negli edifici già lesionati. L'ONU chiede che possano entrare nella Striscia strutture abitative prefabbricate.",
+      "body": [
+        "I rovesci hanno sommerso le tende e aggravato il rischio di cedimenti negli edifici già lesionati. L'ONU chiede che possano entrare nella Striscia strutture abitative prefabbricate."
+      ],
+      "publishedAt": "2026-11-08T13:24:00+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/le-piogge-torrenziali-allagano-le-tendopoli-di-gaza-crolli-di-edifici-gia-lesionati-allarmi-onu-inascoltati-e7e65dfd-3a43-47f7-a0c8-99d82ce15b3f.html",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-08. L’orario è quello del feed ufficiale: 2026-11-08T13:24:00+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:49.184578+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:49.184578+00:00"
+    },
+    {
+      "id": "esteri-francia-cortei-carovita",
+      "eventKey": "francia-cortei-carovita",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Nuove proteste contro il carovita in Francia",
+      "summary": "Sindacati, gilet gialli e studenti sono tornati in piazza per il quarto sabato. Il corrispondente di RaiNews segnala tensioni a Parigi e a Lione.",
+      "body": [
+        "Sindacati, gilet gialli e studenti sono tornati in piazza per il quarto sabato. Il corrispondente di RaiNews segnala tensioni a Parigi e a Lione."
+      ],
+      "publishedAt": "2026-11-07T18:22:00+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/ancora-francesi-in-piazza-contro-il-carovita-scontri-a-parigi-e-lione-ef0e1f32-ca32-4832-8a54-2db296edfda2.html",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-07. L’orario è quello del feed ufficiale: 2026-11-07T18:22:00+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:49.797371+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:49.797371+00:00"
+    },
+    {
+      "id": "esteri-trump-hegseth-dopo-midterm",
+      "eventKey": "trump-hegseth-dopo-midterm",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Trump difende Hegseth dopo il voto di metà mandato",
+      "summary": "Il presidente ha difeso il segretario alla Difesa mentre si discute della sua posizione. Ha anche ridimensionato l'ipotesi di nominare Dana White portavoce.",
+      "body": [
+        "Il presidente ha difeso il segretario alla Difesa mentre si discute della sua posizione. Ha anche ridimensionato l'ipotesi di nominare Dana White portavoce."
+      ],
+      "publishedAt": "2026-11-08T13:36:31+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/maratona/2026/11/dopo-londa-blu-trump-possiamo-collaborare-con-i-dem-c445ff6c-6393-46d9-9dc9-3ffb08b44d4d.html",
+        "access": "free",
+        "dateEvidence": "Il metadato article:published_time della pagina originale riporta 2026-11-08T13:36:31+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:26.857547+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:26.857547+00:00"
+    },
+    {
+      "id": "esteri-nvidia-inchiesta-sospetti-spionaggio",
+      "eventKey": "nvidia-inchiesta-sospetti-spionaggio",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Nvidia avvia un'indagine interna sul caso Huang",
+      "summary": "L'azienda esamina la relazione del suo amministratore delegato con una donna indicata nelle ricostruzioni giornalistiche come sospettata di legami con l'intelligence cinese. Il sospetto resta da dimostrare.",
+      "body": [
+        "L'azienda esamina la relazione del suo amministratore delegato con una donna indicata nelle ricostruzioni giornalistiche come sospettata di legami con l'intelligence cinese. Il sospetto resta da dimostrare."
+      ],
+      "publishedAt": "2026-11-08T20:54:52+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/esteri-nord-america-stati-uniti-nvidia-jensen-huang-relazione-spia-cinese-cda-apre-inchiesta-79b540ec-9a10-4693-8fc4-23083d438e27.html",
+        "access": "free",
+        "dateEvidence": "Il metadato article:published_time della pagina originale riporta 2026-11-08T20:54:52+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:27.124452+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:27.124452+00:00"
+    }
+  ]
 }

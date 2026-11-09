@@ -1,10 +1,34 @@
 {
   "sport": {
-    "source": "5720cd091665c5e861b8114d6d4630069fadf2ee",
-    "stored": "e98744120283ea2b17d102cd6184f5a3bebb404e"
+    "source": "f47bc296a6b4d0ffae0a9729da06b8d2493a6d08",
+    "stored": "f47bc296a6b4d0ffae0a9729da06b8d2493a6d08"
   },
   "cronaca": {
-    "source": "867781a17012d4990d4de2d58a7f2d72a938cb3f",
-    "stored": "638761c700be74f81a44d7e39162f44772bb1504"
+    "source": "1ca410cda498326e3929ad3b9aeedd7118004cbf",
+    "stored": "1ca410cda498326e3929ad3b9aeedd7118004cbf"
+  },
+  "politica": {
+    "source": "a5d9fa73f69e96822f03df2d0aea4ea2888ece83",
+    "stored": "a5d9fa73f69e96822f03df2d0aea4ea2888ece83"
+  },
+  "esteri": {
+    "source": "c4711352ac27b0d640615a8b5e05ed2a1aee048f",
+    "stored": "c4711352ac27b0d640615a8b5e05ed2a1aee048f"
+  },
+  "tecnologia": {
+    "source": "2c5340e4939aa0875779ba046df33c0a3009a770",
+    "stored": "2c5340e4939aa0875779ba046df33c0a3009a770"
+  },
+  "economia": {
+    "source": "f6e7ef3df7728314decea46b1b721c458ba9652a",
+    "stored": "f6e7ef3df7728314decea46b1b721c458ba9652a"
+  },
+  "roma": {
+    "source": "e4684d1a53ae7c9a83fb399519db15ceef34e55f",
+    "stored": "e4684d1a53ae7c9a83fb399519db15ceef34e55f"
+  },
+  "cultura": {
+    "source": "ddd5fc347d5d73bdcd08ce3bda0693f794ff6886",
+    "stored": "ddd5fc347d5d73bdcd08ce3bda0693f794ff6886"
   }
 }
