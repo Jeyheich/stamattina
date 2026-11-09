@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-09",
+  "collectionId": "2026-11-09-mattina",
+  "category": "Cronaca",
+  "completedAt": "2026-11-09T05:13:40.531Z",
+  "articles": [
+    {
+      "id": "cronaca-trani-fratelli-aggressione-gestore",
+      "eventKey": "trani-fratelli-aggressione-gestore",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Trani, due fratelli si presentano dopo l'aggressione a un gestore",
+      "summary": "La vittima, ricoverata ad Andria, resta in coma farmacologico.",
+      "body": [
+        "Due fratelli di 26 e 28 anni si sono presentati agli investigatori con il proprio legale dopo l'aggressione al titolare di un locale a Trani.",
+        "La procura coordina le indagini e valuta la posizione dei due; il movente non è stato ancora chiarito."
+      ],
+      "publishedAt": "2026-11-08",
+      "verifiedAt": "2026-11-09T05:13:40.531Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/imprenditore-di-50-anni-aggredito-da-un-gruppo-a-trani-ricoverato-in-coma-farmacologico-f81641fc-6439-44f9-abba-a32ec89e1ca0.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T05:13:40.531Z",
+        "dateEvidence": "Data visibile nell'articolo originale: 08/11/2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-trieste-dipiazza-dichiarazioni-proteste",
+      "eventKey": "trieste-dipiazza-dichiarazioni-proteste",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Trieste, polemiche sulle parole del sindaco dopo gli scontri",
+      "summary": "Le opposizioni chiedono le dimissioni di Roberto Dipiazza per le frasi sui manifestanti.",
+      "body": [
+        "Dopo gli scontri legati alla protesta per le condizioni di accoglienza in città, il sindaco ha pronunciato dichiarazioni violente contro chi lancia bombe carta.",
+        "Le parole hanno provocato critiche politiche e richieste di dimissioni; durante i disordini era rimasto ferito anche un funzionario di polizia."
+      ],
+      "publishedAt": "2026-11-08T21:20:27Z",
+      "verifiedAt": "2026-11-09T05:13:40.531Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/08/trieste-sindaco-dipiazza-bombe-carta",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T05:13:40.531Z",
+        "dateEvidence": "Data in testa all'articolo: 08 nov 2026 - 21:20.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-monopoli-speleologa-salvata-grotta",
+      "eventKey": "monopoli-speleologa-salvata-grotta",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Monopoli, speleologa recuperata da 120 metri di profondità",
+      "summary": "Concluso il soccorso nella Grotta Rotolo dopo un infortunio a un piede.",
+      "body": [
+        "Una speleologa di 43 anni, rimasta bloccata durante un'esplorazione sotterranea, è stata riportata in superficie dopo circa tre ore di intervento.",
+        "Alle operazioni hanno partecipato vigili del fuoco specializzati e soccorso speleologico; le condizioni della donna sono state giudicate buone."
+      ],
+      "publishedAt": "2026-11-08T19:14:31Z",
+      "verifiedAt": "2026-11-09T05:13:40.531Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/08/monopoli-salvata-speleologa-bloccata-grotta-rotolo",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T05:13:40.531Z",
+        "dateEvidence": "Data in testa all'articolo: 08 nov 2026 - 19:14.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-vercelli-paracadutista-morto-lamporo",
+      "eventKey": "vercelli-paracadutista-morto-lamporo",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Vercelli, muore un paracadutista durante un lancio",
+      "summary": "Indagini sulla dinamica dell'incidente nel campo volo di Lamporo.",
+      "body": [
+        "Un uomo di 35 anni è morto nel pomeriggio dell'8 novembre durante un lancio con il paracadute nel Vercellese.",
+        "Secondo le prime informazioni riferite da Sky TG24, il paracadute potrebbe essersi aperto solo parzialmente; le autorità stanno ricostruendo l'accaduto."
+      ],
+      "publishedAt": "2026-11-08T16:43:41Z",
+      "verifiedAt": "2026-11-09T05:13:40.531Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/08/vercelli-incidente-paracadute",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T05:13:40.531Z",
+        "dateEvidence": "Data in testa all'articolo: 08 nov 2026 - 16:43.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
