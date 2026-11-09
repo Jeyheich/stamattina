@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-09",
-  "checkedAt": "2026-11-09T05:05:32.498Z",
+  "checkedAt": "2026-11-09T05:13:52.042Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,7 +13,9 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [],
+  "completed": [
+    "economia"
+  ],
   "inProgress": [
     {
       "slug": "politica",
@@ -25,14 +27,17 @@
     }
   ],
   "missing": [
-    "economia",
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
     "sport"
   ],
-  "invalid": [],
+  "invalid": [
+    {
+      "slug": "cronaca",
+      "reason": "Il blocco completo deve contenere 5 notizie distinte"
+    }
+  ],
   "stories": [
     {
       "id": "politica-salis-renzi-centro-progressista",
@@ -47,6 +52,36 @@
       "title": "Rubio segnala progressi sulle garanzie di sicurezza per l'Ucraina",
       "eventKey": "rubio-progressi-garanzie-sicurezza-ucraina-abu-dhabi-novembre-2026",
       "pending": true
+    },
+    {
+      "id": "economia-byd-jlr-olanda-contesa-defender",
+      "category": "Economia",
+      "title": "BYD e Jaguar Land Rover, contesa sul design del Defender",
+      "eventKey": "byd-jlr-olanda-contesa-defender"
+    },
+    {
+      "id": "economia-brexit-centri-frontiera-inutilizzati",
+      "category": "Economia",
+      "title": "Brexit, cento milioni di sterline per controlli di frontiera mai partiti",
+      "eventKey": "brexit-centri-frontiera-inutilizzati"
+    },
+    {
+      "id": "economia-ineos-esportazioni-etano-fracking",
+      "category": "Economia",
+      "title": "Etano da fracking, il ruolo di Ineos nei flussi dagli Stati Uniti",
+      "eventKey": "ineos-esportazioni-etano-fracking"
+    },
+    {
+      "id": "economia-usa-costi-assicurazioni-sanitarie-lavoro",
+      "category": "Economia",
+      "title": "USA, assicurazioni sanitarie aziendali verso nuovi rincari",
+      "eventKey": "usa-costi-assicurazioni-sanitarie-lavoro"
+    },
+    {
+      "id": "economia-banane-america-latina-clima-prezzi",
+      "category": "Economia",
+      "title": "Banane latinoamericane, i produttori chiedono prezzi più equi",
+      "eventKey": "banane-america-latina-clima-prezzi"
     }
   ],
   "collectionId": "2026-11-09-mattina",
@@ -76,7 +111,7 @@
       "complete": false
     },
     "economia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
