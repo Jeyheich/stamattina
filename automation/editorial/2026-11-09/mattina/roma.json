@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-09",
+  "collectionId": "2026-11-09-mattina",
+  "category": "Roma",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-09T06:14:23.716Z",
+  "articles": [
+    {
+      "id": "roma-cervellati-monopattino-morte",
+      "eventKey": "roma-roberto-cervellati-investito-monopattino-novembre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Roma, morto il fisico Roberto Cervellati dopo l'investimento con un monopattino",
+      "summary": "Il ricercatore novantatreenne è morto al Gemelli dopo essere stato travolto vicino casa. La polizia locale cerca il conducente, che non si è fermato.",
+      "body": [
+        "Roberto Cervellati, fisico tra i primi protagonisti delle ricerche italiane in Antartide, è morto in ospedale dopo essere stato investito venerdì da un monopattino elettrico. Il conducente si è allontanato senza prestare soccorso; gli investigatori esaminano le telecamere della zona."
+      ],
+      "publishedAt": "2026-11-08",
+      "verifiedAt": "2026-11-09T06:14:23.716Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/11/08/travolto-da-un-monopattino-a-roma-morto-fisico-93enne_b05b22bc-3306-4189-9ded-7f8bd2bd0909.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T06:14:23.716Z",
+        "dateEvidence": "La pagina ANSA riporta ROMA, 08 novembre 2026, 22:04 sopra il testo dell'articolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
