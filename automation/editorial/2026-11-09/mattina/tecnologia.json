@@ -3,7 +3,7 @@
   "editionDate": "2026-11-09",
   "collectionId": "2026-11-09-mattina",
   "category": "Tecnologia · AI",
-  "completedAt": "2026-11-09T06:09:15.541Z",
+  "completedAt": "2026-11-09T10:53:27.208346+00:00",
   "articles": [
     {
       "id": "tecnologia-agcom-viagogo-oasis",
@@ -16,12 +16,12 @@
         "L'Autorità ha chiesto l'oscuramento del sito per sanzioni non pagate pari a 53,4 milioni di euro. Un procedimento distinto riguarda i prezzi della rivendita per tre concerti degli Oasis a Roma nel 2027."
       ],
       "publishedAt": "2026-11-08",
-      "verifiedAt": "2026-11-09T06:09:15.541Z",
+      "verifiedAt": "2026-11-09T10:49:32.152245+00:00",
       "source": {
         "name": "Punto Informatico",
         "url": "https://www.punto-informatico.it/agcom-oscura-viagogo-indaga-biglietti-oasis/",
         "access": "free",
-        "accessCheckedAt": "2026-11-09T06:09:15.541Z",
+        "accessCheckedAt": "2026-11-09T10:49:32.152245+00:00",
         "dateEvidence": "La pagina integrale riporta in fondo «Pubblicato il 8 nov 2026».",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -37,12 +37,12 @@
         "SpaceX ha indicato il 13 novembre come data prevista per il nuovo test di Starship. Il programma include un volo orbitale e il tentativo di catturare sia Super Heavy sia la navicella con la torre di lancio; il risultato resta incerto."
       ],
       "publishedAt": "2026-11-08",
-      "verifiedAt": "2026-11-09T06:09:15.541Z",
+      "verifiedAt": "2026-11-09T10:49:32.008115+00:00",
       "source": {
         "name": "Punto Informatico",
         "url": "https://www.punto-informatico.it/spacex-starship-doppia-cattura-15esimo-volo/",
         "access": "free",
-        "accessCheckedAt": "2026-11-09T06:09:15.541Z",
+        "accessCheckedAt": "2026-11-09T10:49:32.008115+00:00",
         "dateEvidence": "La pagina integrale riporta «Pubblicato il 8 nov 2026»; 13 novembre è data futura del lancio.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -58,12 +58,12 @@
         "Le tre piattaforme hanno avviato azioni giudiziarie contro la norma AB 1709, che limita funzionalità come scorrimento infinito e riproduzione automatica per gli under 16. La legge dovrebbe entrare in vigore il 1° gennaio 2027."
       ],
       "publishedAt": "2026-11-08",
-      "verifiedAt": "2026-11-09T06:09:15.541Z",
+      "verifiedAt": "2026-11-09T10:49:32.200975+00:00",
       "source": {
         "name": "Punto Informatico",
         "url": "https://www.punto-informatico.it/dipendenza-social-google-meta-e-tiktok-contro-california/",
         "access": "free",
-        "accessCheckedAt": "2026-11-09T06:09:15.541Z",
+        "accessCheckedAt": "2026-11-09T10:49:32.200975+00:00",
         "dateEvidence": "La pagina integrale riporta «Pubblicato il 8 nov 2026».",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -79,12 +79,12 @@
         "Swen Vincke ha spiegato che il prossimo gioco di ruolo riprenderà le fondamenta di Baldur's Gate 3 e Divinity: Original Sin 2, con buona parte della stessa squadra. Lo sviluppo richiede ancora molto lavoro."
       ],
       "publishedAt": "2026-11-08",
-      "verifiedAt": "2026-11-09T06:09:15.541Z",
+      "verifiedAt": "2026-11-09T10:49:31.532141+00:00",
       "source": {
         "name": "Everyeye",
         "url": "https://www.everyeye.it/notizie/divinity-come-procede-sviluppo-kolossal-rpg-baldur-s-gate-3-ultime-larian-910458.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-09T06:09:15.541Z",
+        "accessCheckedAt": "2026-11-09T10:49:31.532141+00:00",
         "dateEvidence": "La testata mostra «di Michele Galluzzi 8/11/2026, ore 22:13».",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -100,16 +100,122 @@
         "L'ex dirigente Sony sostiene che una PlayStation 5 più accessibile potrebbe essere più utile ai giocatori di una PS6 molto costosa. È una proposta personale, non un annuncio di nuovi prodotti Sony."
       ],
       "publishedAt": "2026-11-08",
-      "verifiedAt": "2026-11-09T06:09:15.541Z",
+      "verifiedAt": "2026-11-09T10:49:31.656452+00:00",
       "source": {
         "name": "Everyeye",
         "url": "https://www.everyeye.it/notizie/ps5-economica-playstation-6-ex-sony-shawn-layden-non-dubbi-910453.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-09T06:09:15.541Z",
+        "accessCheckedAt": "2026-11-09T10:49:31.656452+00:00",
         "dateEvidence": "La testata mostra «di Michele Galluzzi 8/11/2026, ore 21:50».",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ],
-  "reserveArticles": []
+  "reserveArticles": [
+    {
+      "id": "tecnologia-logitech-master-creator-developer",
+      "eventKey": "logitech-master-creator-developer",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Logitech presenta due versioni del mouse MX Master 4",
+      "summary": "Le due varianti annunciate si chiamano Creator Edition e Developer Edition. Derivano dal modello con feedback aptico.",
+      "body": [
+        "Le due varianti annunciate si chiamano Creator Edition e Developer Edition. Derivano dal modello con feedback aptico."
+      ],
+      "publishedAt": "2026-11-09T10:13:04+00:00",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/logitech-mx-master-4-creator-developer-edition/",
+        "access": "free",
+        "dateEvidence": "Il metadato article:published_time della pagina originale riporta 2026-11-09T10:13:04+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:29.631331+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:29.631331+00:00"
+    },
+    {
+      "id": "tecnologia-siri-ai-ios-273-indiscrezioni",
+      "eventKey": "siri-ai-ios-273-indiscrezioni",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Siri, nuove capacità operative attese con iOS 27.3",
+      "summary": "Secondo Punto Informatico, Apple prepara funzioni che permetterebbero all'assistente di svolgere più azioni. Il quadro descritto riguarda un aggiornamento atteso.",
+      "body": [
+        "Secondo Punto Informatico, Apple prepara funzioni che permetterebbero all'assistente di svolgere più azioni. Il quadro descritto riguarda un aggiornamento atteso."
+      ],
+      "publishedAt": "2026-11-09T09:53:19+00:00",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/siri-diventera-vero-agente-ai-ios-27-3/",
+        "access": "free",
+        "dateEvidence": "Il metadato article:published_time della pagina originale riporta 2026-11-09T09:53:19+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:29.817614+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:29.817614+00:00"
+    },
+    {
+      "id": "tecnologia-epic-launcher-linux-steamos",
+      "eventKey": "epic-launcher-linux-steamos",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Epic conferma il supporto a SteamOS per il suo launcher Linux",
+      "summary": "Il supporto riguarda anche Steam Deck. La disponibilità del launcher non conferma da sola la compatibilità di tutti i giochi, incluso Fortnite.",
+      "body": [
+        "Il supporto riguarda anche Steam Deck. La disponibilità del launcher non conferma da sola la compatibilità di tutti i giochi, incluso Fortnite."
+      ],
+      "publishedAt": "2026-11-09T10:28:05+00:00",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/epic-games-launcher-steamos-steam-deck-ufficiale/",
+        "access": "free",
+        "dateEvidence": "Il metadato article:published_time della pagina originale riporta 2026-11-09T10:28:05+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:29.478265+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:29.478265+00:00"
+    },
+    {
+      "id": "tecnologia-gta6-precaricamento-nuova-zelanda",
+      "eventKey": "gta6-precaricamento-nuova-zelanda",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "GTA 6, la Nuova Zelanda tra i primi mercati per il precaricamento",
+      "summary": "Everyeye ricostruisce l'avvio del download anticipato dei file di gioco in base al calendario locale. Il precaricamento precede lo sblocco del gioco.",
+      "body": [
+        "Everyeye ricostruisce l'avvio del download anticipato dei file di gioco in base al calendario locale. Il precaricamento precede lo sblocco del gioco."
+      ],
+      "publishedAt": "2026-11-09T11:08:00+01:00",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/gta-6-preload-zelanda-manca-pochissimo-910505.html",
+        "access": "free",
+        "dateEvidence": "Il metadato article:published_time della pagina originale riporta 2026-11-09T11:08:00+01:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:29.576804+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:29.576804+00:00"
+    },
+    {
+      "id": "tecnologia-assassins-creed-hexe-finestra-voce",
+      "eventKey": "assassins-creed-hexe-finestra-voce",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Assassin's Creed Hexe, una voce ipotizza il 2028",
+      "summary": "Everyeye riporta l'ipotesi di una finestra più lontana per il progetto a tema streghe. La notizia si basa sulla dichiarazione di un creatore di contenuti e non su un annuncio di Ubisoft.",
+      "body": [
+        "Everyeye riporta l'ipotesi di una finestra più lontana per il progetto a tema streghe. La notizia si basa sulla dichiarazione di un creatore di contenuti e non su un annuncio di Ubisoft."
+      ],
+      "publishedAt": "2026-11-09T09:19:00+01:00",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/assassin-s-creed-hexe-rinviato-2028-910480.html",
+        "access": "free",
+        "dateEvidence": "Il metadato article:published_time della pagina originale riporta 2026-11-09T09:19:00+01:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:53.827359+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:53.827359+00:00"
+    }
+  ]
 }

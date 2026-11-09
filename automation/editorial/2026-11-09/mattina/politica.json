@@ -3,9 +3,42 @@
   "editionDate": "2026-11-09",
   "collectionId": "2026-11-09-mattina",
   "category": "Politica",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-09T08:14:33+01:00",
+  "completedAt": "2026-11-09T10:53:27.198062+00:00",
   "articles": [
+    {
+      "id": "politica-decreto-bollette-cdm",
+      "eventKey": "decreto-bollette-cdm",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Bollette, nuovo passaggio in Consiglio dei ministri",
+      "summary": "Il decreto contro il caro energia è atteso nel pomeriggio dopo diversi rinvii. Sul tavolo del governo anche misure per opere e cantieri.",
+      "body": [
+        "Il decreto contro il caro energia è atteso nel pomeriggio dopo diversi rinvii. Sul tavolo del governo anche misure per opere e cantieri.",
+        "Il provvedimento sulle bollette resta in attesa del via libera. I tecnici del ministero delle Infrastrutture lavorano intanto a un testo distinto."
+      ],
+      "publishedAt": "2026-11-09T10:21:26+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/11/09/decreto-bollette-cdm-oggi",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-09. L’orario è quello del feed ufficiale: 2026-11-09T10:21:26+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:27.046888+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:27.046888+00:00",
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PalazzoChigi.jpeg",
+        "alt": "Palazzo Chigi, Roma",
+        "credit": "Arepo",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg",
+        "rights": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · Palazzo Chigi, Roma. Fotografia non riferita agli eventi di oggi.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      },
+      "leadPriority": 85
+    },
     {
       "id": "politica-salis-renzi-centro-progressista",
       "eventKey": "salis-respinge-ipotesi-renzi-guida-centro-novembre-2026",
@@ -18,13 +51,13 @@
         "Matteo Renzi aveva prospettato per Salis la guida di una componente centrista alle prossime elezioni. La sindaca ha invece insistito sulla necessità di costruire un programma condiviso tra le forze progressiste."
       ],
       "publishedAt": "2026-11-08T15:25:00+01:00",
-      "verifiedAt": "2026-11-09T05:04:21.520Z",
+      "verifiedAt": "2026-11-09T10:49:30.740608+00:00",
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it/sito/notizie/politica/2026/11/08/silvia-salis-basta-con-i-distinguo-e-i-veti-nel-campo-progressista_b3534a87-629c-486d-a2f0-d25518aa231c.html",
         "dateEvidence": "Nell'intestazione ANSA si legge GENOVA, 08 novembre 2026, 15:25.",
         "access": "free",
-        "accessCheckedAt": "2026-11-09T05:04:21.520Z",
+        "accessCheckedAt": "2026-11-09T10:49:30.740608+00:00",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -40,17 +73,164 @@
         "Il ministro degli Esteri Antonio Tajani ha dichiarato che il tema sarà affrontato al G7 e che la Farnesina non si lascerà intimidire. Le opposizioni hanno chiesto al governo di illustrare le misure previste per contrastare le minacce."
       ],
       "publishedAt": "2026-11-08T21:07:00+01:00",
-      "verifiedAt": "2026-11-09T08:14:33+01:00",
+      "verifiedAt": "2026-11-09T10:49:30.977903+00:00",
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it/politica/video/2026/11/08/hacker-piantedosi-comitato-nazionale-sicurezza-1138622",
         "access": "free",
-        "accessCheckedAt": "2026-11-09T08:14:33+01:00",
+        "accessCheckedAt": "2026-11-09T10:49:30.977903+00:00",
         "dateEvidence": "La pagina Sky TG24 indica «08 nov 2026 - 21:07» e riporta nel testo la convocazione del comitato.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "politica-manovra-audizioni-camera",
+      "eventKey": "manovra-audizioni-camera",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Manovra, Regioni e Comuni chiedono correzioni",
+      "summary": "Alla vigilia delle audizioni alla Camera, enti locali, sindacati e assicurazioni sollecitano cambiamenti. Tra i temi segnalati ci sono pensioni, scuola e sanità.",
+      "body": [
+        "Alla vigilia delle audizioni alla Camera, enti locali, sindacati e assicurazioni sollecitano cambiamenti. Tra i temi segnalati ci sono pensioni, scuola e sanità."
+      ],
+      "publishedAt": "2026-11-08T17:43:32+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/video/2026/11/08/manovra-sotto-assedio-regioni-anci-e-assicurazioni-contro-1138505",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-08. L’orario è quello del feed ufficiale: 2026-11-08T17:43:32+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:26.656008+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:26.656008+00:00"
+    },
+    {
+      "id": "politica-sondaggio-centrodestra-vannacci",
+      "eventKey": "sondaggio-centrodestra-vannacci",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Un sondaggio misura il peso di Vannacci sul centrodestra",
+      "summary": "Una rilevazione Excellera condotta nella seconda metà di ottobre ipotizza difficoltà elettorali per la coalizione senza un accordo con Vannacci. È uno scenario sondaggistico.",
+      "body": [
+        "Una rilevazione Excellera condotta nella seconda metà di ottobre ipotizza difficoltà elettorali per la coalizione senza un accordo con Vannacci. È uno scenario sondaggistico."
+      ],
+      "publishedAt": "2026-11-09T08:44:19+01:00",
+      "source": {
+        "name": "Open",
+        "url": "https://www.open.online/2026/11/09/sondaggi-centrodestra-elezioni-vannacci/",
+        "access": "free",
+        "dateEvidence": "Il metadato article:published_time della pagina originale riporta 2026-11-09T08:44:19+01:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:26.442789+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:26.442789+00:00"
     }
   ],
-  "reserveArticles": [],
-  "reserveDraft": []
+  "reserveArticles": [
+    {
+      "id": "politica-ddl-unita-cyber-difesa",
+      "eventKey": "ddl-unita-cyber-difesa",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Difesa digitale, il disegno di legge prevede unità di pronto intervento",
+      "summary": "Il testo al Senato prevede fino a 1.200 specialisti militari qualificati e attribuisce al capo di Stato maggiore della Difesa la responsabilità del personale cibernetico interforze.",
+      "body": [
+        "Il testo al Senato prevede fino a 1.200 specialisti militari qualificati e attribuisce al capo di Stato maggiore della Difesa la responsabilità del personale cibernetico interforze."
+      ],
+      "publishedAt": "2026-11-09T05:38:46+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/minacce-ibride-cosa-sono-le-unita-cibernetiche-di-intervento-rapido-a-cui-lavora-il-governo-nel-ddl-al-senato-a-regime-1200-specialisti-militari-cyber-con-brevetto-la-risposta-agli-attacchi-49d38e57-af96-429b-984c-1d86b977665d.html",
+        "access": "free",
+        "dateEvidence": "Il metadato article:published_time della pagina originale riporta 2026-11-09T05:38:46+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:26.585029+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:26.585029+00:00"
+    },
+    {
+      "id": "politica-meloni-anniversario-berlino",
+      "eventKey": "meloni-anniversario-berlino",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Meloni ricorda il 37º anniversario della caduta del Muro",
+      "summary": "La presidente del Consiglio ha ricordato sui social la riapertura del confine a Berlino nel novembre 1989 e il suo significato per il percorso europeo.",
+      "body": [
+        "La presidente del Consiglio ha ricordato sui social la riapertura del confine a Berlino nel novembre 1989 e il suo significato per il percorso europeo."
+      ],
+      "publishedAt": "2026-11-09T08:48:24+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/37-anni-fa-la-caduta-del-muro-di-berlino-meloniuna-svolta-per-leuropa-c519d272-615f-448a-9c4e-aa966d74f172.html",
+        "access": "free",
+        "dateEvidence": "Il metadato article:published_time della pagina originale riporta 2026-11-09T08:48:24+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:26.956789+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:26.956789+00:00"
+    },
+    {
+      "id": "politica-altieri-ritiro-anac",
+      "eventKey": "altieri-ritiro-anac",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Anac, Altieri rinuncia dopo le contestazioni sulla nomina",
+      "summary": "Trifone Altieri ha ritirato la disponibilità alla presidenza dell'Autorità anticorruzione dopo le contestazioni delle opposizioni sulla compatibilità dell'incarico.",
+      "body": [
+        "Trifone Altieri ha ritirato la disponibilità alla presidenza dell'Autorità anticorruzione dopo le contestazioni delle opposizioni sulla compatibilità dell'incarico."
+      ],
+      "publishedAt": "2026-11-07T01:28:00+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/altieri-ritira-la-propria-candidatura-alla-presidenza-dellanac-29ff6ce8-6058-4f64-9ca5-04d7f8e23bfc.html",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-07. L’orario è quello del feed ufficiale: 2026-11-07T01:28:00+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:48.443570+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:48.443570+00:00"
+    },
+    {
+      "id": "politica-contestazione-vannacci-coverciano",
+      "eventKey": "contestazione-vannacci-coverciano",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Contestazione a Coverciano all'apertura della sede di Futuro nazionale",
+      "summary": "L'inaugurazione della seconda sede fiorentina si è svolta tra cori di protesta e un lancio di uova. Le forze dell'ordine hanno tenuto a distanza i manifestanti.",
+      "body": [
+        "L'inaugurazione della seconda sede fiorentina si è svolta tra cori di protesta e un lancio di uova. Le forze dell'ordine hanno tenuto a distanza i manifestanti."
+      ],
+      "publishedAt": "2026-11-07T23:31:00+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/11/07/vannacci-contestato-firenze",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-07. L’orario è quello del feed ufficiale: 2026-11-07T23:31:00+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:48.163096+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:48.163096+00:00"
+    },
+    {
+      "id": "politica-centrosinistra-tavoli-programma",
+      "eventKey": "centrosinistra-tavoli-programma",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Il centrosinistra avvia il confronto sul programma",
+      "summary": "La coalizione ha tenuto una prima riunione a distanza. Il lavoro è stato diviso in dieci tavoli, con la prima fase prevista entro fine novembre.",
+      "body": [
+        "La coalizione ha tenuto una prima riunione a distanza. Il lavoro è stato diviso in dieci tavoli, con la prima fase prevista entro fine novembre."
+      ],
+      "publishedAt": "2026-11-07T18:08:27+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/video/2026/11/07/campo-largo-riunione-programma-1138239",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-07. L’orario è quello del feed ufficiale: 2026-11-07T18:08:27+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:48.202716+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:48.202716+00:00"
+    }
+  ]
 }
