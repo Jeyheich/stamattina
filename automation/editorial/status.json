@@ -1,46 +1,22 @@
 {
   "editionDate": "2026-11-09",
-  "checkedAt": "2026-11-09T10:54:58.696Z",
-  "ready": false,
-  "editorialComplete": false,
+  "checkedAt": "2026-11-09T10:56:16.306Z",
+  "ready": true,
+  "editorialComplete": true,
   "reserveMissing": [],
-  "completed": [],
+  "completed": [
+    "politica",
+    "esteri",
+    "economia",
+    "cronaca",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
+  ],
   "inProgress": [],
   "missing": [],
-  "invalid": [
-    {
-      "slug": "politica",
-      "reason": "Controllo fonte/foto fallito: consultare sourceErrors"
-    },
-    {
-      "slug": "esteri",
-      "reason": "Controllo fonte/foto fallito: consultare sourceErrors"
-    },
-    {
-      "slug": "economia",
-      "reason": "Controllo fonte/foto fallito: consultare sourceErrors"
-    },
-    {
-      "slug": "cronaca",
-      "reason": "Controllo fonte/foto fallito: consultare sourceErrors"
-    },
-    {
-      "slug": "roma",
-      "reason": "Controllo fonte/foto fallito: consultare sourceErrors"
-    },
-    {
-      "slug": "cultura",
-      "reason": "Controllo fonte/foto fallito: consultare sourceErrors"
-    },
-    {
-      "slug": "tecnologia",
-      "reason": "Controllo fonte/foto fallito: consultare sourceErrors"
-    },
-    {
-      "slug": "sport",
-      "reason": "Controllo fonte/foto fallito: consultare sourceErrors"
-    }
-  ],
+  "invalid": [],
   "stories": [
     {
       "id": "politica-decreto-bollette-cdm",
@@ -355,16 +331,16 @@
       "eventKey": "reclami-generati-ai-uffici-britannici"
     },
     {
-      "id": "economia-agricole-proposta-banco-bpm",
+      "id": "economia-gran-bretagna-riserva-elettrica-vento",
       "category": "Economia",
-      "title": "Crédit Agricole propone un confronto sulla fusione con Banco BPM",
-      "eventKey": "agricole-proposta-banco-bpm"
+      "title": "Poco vento, il gestore britannico chiede più capacità elettrica",
+      "eventKey": "gran-bretagna-riserva-elettrica-vento"
     },
     {
-      "id": "economia-ex-ilva-gara-asset",
+      "id": "economia-regno-unito-tuc-lavoro-giovani",
       "category": "Economia",
-      "title": "Ex Ilva, offerte per gli asset al passaggio decisivo",
-      "eventKey": "ex-ilva-gara-asset"
+      "title": "Il TUC chiede più investimenti per l'occupazione giovanile",
+      "eventKey": "regno-unito-tuc-lavoro-giovani"
     },
     {
       "id": "economia-thames-water-proroga-creditori",
@@ -613,10 +589,8 @@
     }
   },
   "preparation": "editorialmente-completa",
-  "editionId": "2026-11-09-batches-996009637170",
+  "editionId": "2026-11-09-batches-cdc6e41ec43d",
   "message": "Edizione editorialmente completa",
-  "needsPublication": false,
-  "publicCollectionId": "2026-11-07-pomeriggio",
-  "blocked": true,
-  "sourceErrors": "Edizione valida\nPubblicazione bloccata: check_article: economia-ex-ilva-gara-asset: economia-ex-ilva-gara-asset: contenuto verificabile insufficiente; check_article: economia-agricole-proposta-banco-bpm: economia-agricole-proposta-banco-bpm: contenuto verificabile insufficiente\npolitica-sondaggio-centrodestra-vannacci: fonte raggiungibile\nesteri-israele-mandato-eisenkot: fonte raggiungibile\npolitica-piantedosi-comitato-hacker: fonte raggiungibile\npolitica-decreto-bollette-cdm: fonte raggiungibile\npolitica-manovra-audizioni-camera: fonte raggiungibile\neconomia-byd-jlr-olanda-contesa-defender: fonte raggiungibile\nesteri-g7-parigi-ministri-esteri: fonte raggiungibile\nesteri-cracovia-inchiesta-sparatoria: fonte raggiungibile\nesteri-giza-scontro-ferroviario: fonte raggiungibile\neconomia-brexit-centri-frontiera-inutilizzati: fonte raggiungibile\neconomia-ineos-esportazioni-etano-fracking: fonte raggiungibile\neconomia-usa-costi-assicurazioni-sanitarie-lavoro: fonte raggiungibile\neconomia-banane-america-latina-clima-prezzi: fonte raggiungibile\ncronaca-trani-fratelli-aggressione-gestore: fonte raggiungibile\nesteri-rubio-garanzie-sicurezza-ucraina: fonte raggiungibile\ncronaca-trieste-dipiazza-dichiarazioni-proteste: fonte raggiungibile\ncronaca-vercelli-paracadutista-morto-lamporo: fonte raggiungibile\npolitica-salis-renzi-centro-progressista: fonte raggiungibile\ncronaca-monopoli-speleologa-salvata-grotta: fonte raggiungibile\nroma-campidoglio-elezioni-scenario-2027: fonte raggiungibile\nroma-via-arenula-rapina-turisti: fonte raggiungibile\nroma-garbatella-albergo-rosso-riscaldamento: fonte raggiungibile\nroma-roma-latina-inchiesta-piazze-droga: fonte raggiungibile\nroma-cervellati-monopattino-morte: fonte raggiungibile\ncronaca-milano-agente-ferita-rissa-largo-la-foppa: fonte raggiungibile\ncultura-faust-castellucci-argentina: fonte raggiungibile\ncultura-factory-fest-umbria-2026: fonte raggiungibile\ncultura-oscar-latella-bergamasco: fonte raggiungibile\ntecnologia-divinity-larian: fonte raggiungibile\ntecnologia-layden-ps5: fonte raggiungibile\ncultura-ostia-pegaso-non-drammatizzare: fonte raggiungibile\ncultura-genovese-rumore-cose-nuove-parco-medici: fonte raggiungibile\nsport-fiorentina-juventus: fonte raggiungibile\nsport-milan-genoa: fonte raggiungibile\nsport-inter-como: fonte raggiungibile\ntecnologia-agcom-viagogo-oasis: fonte raggiungibile\ntecnologia-starship-volo-15: fonte raggiungibile\nsport-f1-brasile: fonte raggiungibile\ntecnologia-social-california: fonte raggiungibile\npolitica-ddl-unita-cyber-difesa: fonte raggiungibile\npolitica-altieri-ritiro-anac: fonte raggiungibile\npolitica-contestazione-vannacci-coverciano: fonte raggiungibile\npolitica-meloni-anniversario-berlino: fonte raggiungibile\nesteri-papa-buenos-aires-democrazia: fonte raggiungibile\nesteri-gaza-allagamenti-tendopoli: fonte raggiungibile\npolitica-centrosinistra-tavoli-programma: fonte raggiungibile\nesteri-francia-cortei-carovita: fonte raggiungibile\neconomia-reclami-generati-ai-uffici-britannici: fonte raggiungibile\nsport-alcaraz-parigi-masters: fonte raggiungibile\nesteri-trump-hegseth-dopo-midterm: fonte raggiungibile\nesteri-nvidia-inchiesta-sospetti-spionaggio: fonte raggiungibile\neconomia-truffa-pianoforte-gratuito: fonte raggiungibile\neconomia-thames-water-proroga-creditori: fonte raggiungibile\ncronaca-napoli-materdei-crollo: fonte raggiungibile\ncronaca-a11-operaio-cantiere-investito: fonte raggiungibile\ncronaca-milano-sciopero-atm-novembre: fonte raggiungibile\ncronaca-catania-ansv-air-arabia: fonte raggiungibile\ncronaca-palosco-indagine-emilia-bianchi: fonte raggiungibile\nroma-roma-poste-rapinatore-colla: fonte raggiungibile\nroma-valco-san-paolo-incendio-il-tetto: fonte raggiungibile\ncultura-reel-rock-cinema-moderno: fonte raggiungibile\nroma-centocelle-aggressione-diciannovenne: fonte raggiungibile\nroma-montesacro-sonoro-memoria-quartiere: fonte raggiungibile\nroma-anguillara-torzullo-testimonianza-funerali: fonte raggiungibile\ntecnologia-logitech-master-creator-developer: fonte raggiungibile\ncultura-curva-pura-you-are-here: fonte raggiungibile\ncultura-centrale-preneste-qui-vivremo-bene: fonte raggiungibile\ntecnologia-siri-ai-ios-273-indiscrezioni: fonte raggiungibile\ntecnologia-gta6-precaricamento-nuova-zelanda: fonte raggiungibile\ntecnologia-assassins-creed-hexe-finestra-voce: fonte raggiungibile\ncultura-centrale-preneste-due-spettacoli: fonte raggiungibile\ncultura-von-buren-collettiva-romantics: fonte raggiungibile\nsport-virtus-bologna-verona-basket: fonte raggiungibile\nsport-catania-cicerelli-gol-sorrento: fonte raggiungibile\nsport-tromso-settore-ospiti-cedimento: fonte raggiungibile\nsport-del-piero-cinquantadue-anni: fonte raggiungibile\nroma-campidoglio-elezioni-scenario-2027: fotografia e licenza verificate\npolitica-decreto-bollette-cdm: fotografia e licenza verificate\nesteri-israele-mandato-eisenkot: fotografia e licenza verificate\ncultura-faust-castellucci-argentina: fotografia e licenza verificate\nsport-milan-genoa: fotografia e licenza verificate\ntecnologia-epic-launcher-linux-steamos: fonte raggiungibile\nsport-napoli-lazio-pareggio-maradona: fonte raggiungibile\n"
+  "needsPublication": true,
+  "publicCollectionId": "2026-11-07-pomeriggio"
 }
