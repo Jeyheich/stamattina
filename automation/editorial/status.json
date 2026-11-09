@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-09",
-  "checkedAt": "2026-11-09T10:44:33.012Z",
+  "checkedAt": "2026-11-09T10:45:13.506Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -19,35 +19,35 @@
   "invalid": [
     {
       "slug": "politica",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-09T07:14:33.000Z, controllo 2026-11-09T10:44:33.012Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-09T07:14:33.000Z, controllo 2026-11-09T10:45:13.506Z)"
     },
     {
       "slug": "esteri",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-09T07:14:45.000Z, controllo 2026-11-09T10:44:33.012Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-09T07:14:45.000Z, controllo 2026-11-09T10:45:13.506Z)"
     },
     {
       "slug": "economia",
-      "reason": "completedAt: verifica scaduta (verifica 2026-11-09T05:13:38.036Z, controllo 2026-11-09T10:44:33.012Z)"
+      "reason": "completedAt: verifica scaduta (verifica 2026-11-09T05:13:38.036Z, controllo 2026-11-09T10:45:13.506Z)"
     },
     {
       "slug": "cronaca",
-      "reason": "completedAt: verifica scaduta (verifica 2026-11-09T07:17:17.000Z, controllo 2026-11-09T10:44:33.012Z)"
+      "reason": "completedAt: verifica scaduta (verifica 2026-11-09T07:17:17.000Z, controllo 2026-11-09T10:45:13.506Z)"
     },
     {
       "slug": "roma",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-09T06:14:23.716Z, controllo 2026-11-09T10:44:33.012Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-09T06:14:23.716Z, controllo 2026-11-09T10:45:13.506Z)"
     },
     {
       "slug": "cultura",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-09T06:14:03.046Z, controllo 2026-11-09T10:44:33.012Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-09T06:14:03.046Z, controllo 2026-11-09T10:45:13.506Z)"
     },
     {
       "slug": "tecnologia",
-      "reason": "completedAt: verifica scaduta (verifica 2026-11-09T06:09:15.541Z, controllo 2026-11-09T10:44:33.012Z)"
+      "reason": "completedAt: verifica scaduta (verifica 2026-11-09T06:09:15.541Z, controllo 2026-11-09T10:45:13.506Z)"
     },
     {
       "slug": "sport",
-      "reason": "completedAt: verifica scaduta (verifica 2026-11-09T07:14:18.000Z, controllo 2026-11-09T10:44:33.012Z)"
+      "reason": "completedAt: verifica scaduta (verifica 2026-11-09T07:14:18.000Z, controllo 2026-11-09T10:45:13.506Z)"
     }
   ],
   "stories": [],
