@@ -117,5 +117,51 @@
     }
   ],
   "reserveArticles": [],
-  "reserveDraft": []
+  "reserveDraft": [
+    {
+      "id": "economia-truffa-pianoforte-gratuito",
+      "eventKey": "truffa-pianoforte-gratuito",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Pianoforte regalato, l'inganno delle spese di consegna",
+      "summary": "Un falso regalo online viene usato per ottenere pagamenti anticipati.",
+      "body": [
+        "Un'indagine del Guardian descrive email che offrono gratuitamente pianoforti di valore, chiedendo però denaro per una consegna che non avverrà.",
+        "I rivenditori consultati segnalano richieste di trasporto fra 100 e 500 sterline e invitano a verificare l'esistenza dello strumento."
+      ],
+      "publishedAt": "2026-11-08T07:00:33Z",
+      "verifiedAt": "2026-11-09T05:14:04.908Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/money/2026/nov/08/free-grand-piano-scam-emails",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T05:14:04.908Z",
+        "dateEvidence": "Data visibile nell'articolo originale: Sun 8 Nov 2026 07.00 GMT, last modified 07.02 GMT.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-reclami-generati-ai-uffici-britannici",
+      "eventKey": "reclami-generati-ai-uffici-britannici",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Regno Unito, uffici pubblici sommersi da reclami scritti con IA",
+      "summary": "Le comunicazioni automatiche aumentano il carico amministrativo.",
+      "body": [
+        "Il Guardian riferisce che enti locali, parlamentari e altre organizzazioni britanniche ricevono un numero crescente di lettere e reclami prodotti con chatbot.",
+        "Le risposte richiedono comunque lavoro umano, mentre alcune richieste sono molto lunghe o contengono riferimenti inesatti."
+      ],
+      "publishedAt": "2026-11-08T08:00:36Z",
+      "verifiedAt": "2026-11-09T05:14:04.908Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T05:14:04.908Z",
+        "dateEvidence": "Data visibile nell'articolo originale: Sun 8 Nov 2026 09.00 CET, last modified 23.51 CET.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "lastAttemptAt": "2026-11-09T05:14:04.908Z"
 }
