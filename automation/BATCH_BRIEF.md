@@ -37,7 +37,11 @@ I cinque devono essere fatti diversi: cinque aggiornamenti sulla stessa manovra,
 Scrivi titoli e sintesi originali in italiano, senza aggiungere fatti non presenti nelle fonti. Le compatte possono avere un paragrafo breve e utile. Per UNA delle cinque storie, quando possibile e pertinente, verifica una foto autentica Commons e scrivi almeno due paragrafi: quella storia sarà candidata alle cinque principali. Non usare fotografie generate, non inventare licenze. Repertorio dichiarato in didascalia; soggetto e luogo coerenti. L'assemblatore richiede cinque foto distinte in totale, non una foto per ogni compatta.
 
 ## Un solo file di uscita
-Scrivi SOLO automation/editorial/YYYY-MM-DD/CICLO/SLUG.json nel branch main di Jeyheich/stamattina. Non modificare UI, stato generato, altre task, repository o credenziali. Non scrivere incoming/edition.json: lo crea il programma dopo tutti gli otto blocchi. Ogni commit del blocco viene controllato dal workflow Pages; il sito resta invariato finché mancano categorie o foto.
+Scrivi SOLO automation/editorial/YYYY-MM-DD/CICLO/SLUG.json su Jeyheich/stamattina, nel ramo assegnato alla tua attività:
+- Rassegna stampa quotidiana usa redazione-quotidiana per Politica, Esteri, Tecnologia e Sport.
+- Rassegna · Economia, Cronaca, Roma e Cultura usa redazione-economia-cronaca per Economia, Cronaca, Roma e Cultura.
+
+Leggi e rileggi i tuoi checkpoint sul tuo ramo. Leggi questo brief, il dossier RSS e lo stato generato del ciclo su main. Se il checkpoint è assente nel tuo ramo, leggi il blocco dello stesso ciclo su main prima di preparare il primo salvataggio. Il workflow riceve entrambi i rami, salva lo stato e pubblica da main. Le attività editoriali scrivono soltanto sul ramo assegnato. Non modificare UI, stato generato, altre task, repository o credenziali. Non scrivere incoming/edition.json: lo crea il programma dopo tutti gli otto blocchi. Ogni commit di un blocco richiede un assemblaggio al workflow Pages su main; il sito resta invariato finché mancano categorie o foto.
 
 Formato del blocco: schemaVersion: 1; editionDate: giorno ISO di oggi a Roma; collectionId obbligatorio del ciclo come indicato sotto; category: nome esatto; completedAt: ora reale ISO; articles: array di esattamente cinque oggetti.
 

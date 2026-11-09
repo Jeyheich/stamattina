@@ -6,6 +6,10 @@ on:
         description: 'Ciclo esplicito YYYY-MM-DD-mattina o YYYY-MM-DD-pomeriggio (vuoto: ciclo corrente Roma)'
         required: false
         type: string
+      editorialCheckpoint:
+        description: Avvio richiesto da un ramo editoriale
+        type: boolean
+        default: false
       recoverOlderEdition:
         description: Pubblica un ciclo arretrato completo con la sua data originale
         required: false
@@ -52,6 +56,8 @@ jobs:
         run: node scripts/test_batches.mjs
       - name: Seleziona il ciclo dell evento senza dipendere dalla coda
         run: node scripts/select_editorial_cycle.mjs
+      - name: Importa i checkpoint dei due rami editoriali
+        run: node scripts/import_editorial_branches.mjs
       - name: Ricomponi i blocchi editoriali senza perdere progressi
         id: batches
         run: node scripts/assemble_batches.mjs automation/editorial --recover-history
@@ -61,11 +67,15 @@ jobs:
           BEFORE: ${{ github.event.before }}
           EVENT_NAME: ${{ github.event_name }}
           BATCH_READY: ${{ steps.batches.outputs.ready }}
+          EDITORIAL_CHECKPOINT: ${{ inputs.editorialCheckpoint }}
         run: |
           if [ "$BATCH_READY" = 'true' ]; then
             echo 'changed=true' >> "$GITHUB_OUTPUT"
           fi
           recover_candidates=false
+          if [ "$EDITORIAL_CHECKPOINT" = 'true' ] && [ "$BATCH_READY" != 'true' ]; then
+            echo 'recoverCandidates=true' >> "$GITHUB_OUTPUT"
+          fi
           if [ "$EVENT_NAME" = 'push' ] && [ "$BATCH_READY" != 'true' ] &&
             git diff --name-only "$BEFORE" "$GITHUB_SHA" -- automation/editorial |
               grep -E '^automation/editorial/[0-9]{4}-[0-9]{2}-[0-9]{2}/((mattina|pomeriggio)/)?(politica|esteri|economia|cronaca|roma|cultura|tecnologia|sport)\.json$' >/dev/null; then
@@ -73,7 +83,7 @@ jobs:
             echo 'recoverCandidates=true' >> "$GITHUB_OUTPUT"
           fi
           if [ "$EVENT_NAME" = 'workflow_dispatch' ]; then
-            if [ "$EDITORIAL_RECOVERY" != 'true' ]; then
+            if [ "$EDITORIAL_RECOVERY" != 'true' ] && [ "$EDITORIAL_CHECKPOINT" != 'true' ]; then
               echo 'ui=true' >> "$GITHUB_OUTPUT"
             fi
           elif [ "$EDITORIAL_RELEASE_NOV6_BASE" != 'true' ] &&

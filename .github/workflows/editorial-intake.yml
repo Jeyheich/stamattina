@@ -1,0 +1,27 @@
+name: Ricevi checkpoint editoriale
+on:
+  push:
+    branches: [redazione-quotidiana, redazione-economia-cronaca]
+    paths: ['automation/editorial/**']
+permissions:
+  contents: read
+  actions: write
+jobs:
+  request:
+    if: github.event.created == false && github.event.deleted == false
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Identifica il ciclo del checkpoint
+        run: node scripts/select_editorial_cycle.mjs
+      - name: Richiedi assemblaggio a main
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pages.yml --ref main -f collectionId="$EDITORIAL_COLLECTION_ID" -f editorialCheckpoint=true

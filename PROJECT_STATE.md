@@ -1,9 +1,14 @@
 # Stamattina — stato operativo
 
+## Rami editoriali separati — 9 novembre
+- redazione-quotidiana riceve Politica, Esteri, Tecnologia e Sport. redazione-economia-cronaca riceve Economia, Cronaca, Roma e Cultura. Ciascun aggiornamento richiede l’assemblaggio sul ramo main, in coda con gli altri. Le attività leggono i loro blocchi sul ramo assegnato e lo stato su main.
+- L’importazione raccoglie entrambe le redazioni per il ciclo richiesto, conserva le correzioni concorrenti e mantiene i controlli di completezza e le regole di promozione. Il calendario mattutino e il sito pubblico sono invariati.
+- Verifica successiva: controllare i primi commit delle attività sui rispettivi rami e confermare importazione, stato del ciclo e pubblicazione effettiva.
+
 ## Prova con la sola mattutina — dal 9 novembre
 - Fabio ha autorizzato il dimezzamento degli avvii editoriali da dodici a sei al giorno per verificare se il carico complessivo contribuisce ai blocchi. Calendari nativi salvati e riletti l’8 novembre. Rassegna stampa quotidiana alle 06:05, 07:05 e 08:05. Rassegna · Economia, Cronaca, Roma e Cultura alle 06:15, 07:15 e 08:15. Tutti gli orari sono Europe/Rome. Stesse due attività e notifiche.
 - Si misurano le mattutine del 9, 10 e 11 novembre. Per ciascuna confrontare i salvataggi delle attività, le principali e le aggiuntive verificate per categoria, le foto, il workflow e il collectionId nel JSON pubblico. Obiettivo: edizione automatica entro le 09:00 con 40 principali, 40 aggiuntive e cinque foto, senza completamento manuale. Annotare il primo passaggio che resta indietro.
-- Il test modifica la cadenza delle attività editoriali. I workflow GitHub, la raccolta tecnica RSS e i requisiti di pubblicazione restano quelli esistenti. Il calendario a doppia edizione è la configurazione precedente. Il ripristino del pomeriggio si valuta dopo i tre cicli.
+- Il test modifica la cadenza delle attività editoriali. La raccolta tecnica RSS e i requisiti di pubblicazione restano quelli esistenti. Il calendario a doppia edizione è la configurazione precedente. Il ripristino del pomeriggio si valuta dopo i tre cicli.
 
 ## Recupero automatico — 8 novembre
 - Mattutina: dossier aggiornato alle 06:08 Europe/Rome. Al controllo delle 08:01 risultavano 28 principali, sei aggiuntive in bozza e zero foto. GitHub non ha promosso il ciclo incompleto. Roma era assente e il recupero finale della seconda attività aveva prodotto il resoconto senza salvare nuovi blocchi.

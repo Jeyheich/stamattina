@@ -5,6 +5,7 @@ import assert from 'node:assert/strict';
 import {execFileSync} from 'node:child_process';
 import {fileURLToPath} from 'node:url';
 import {assemble,runAssembly,categories,romeDay} from './assemble_batches.mjs';
+import {importEditorialBranches} from './import_editorial_branches.mjs';
 import {cyclePath,readBlocks,writeJSON,ingestLegacy,selectCycle} from './editorial_cycles.mjs';
 const original=JSON.parse(fs.readFileSync('dist/data/current.json'));
 const now=Date.now(),day=romeDay(new Date(now)),stamp=new Date(now-60000).toISOString();
@@ -100,6 +101,36 @@ try{
   }
  });
  ok('offset obiettivi estate e inverno',()=>{for(const [date,offset] of [['2026-07-03','+02:00'],['2026-11-04','+01:00']]){const b=structuredClone(pm),time=Date.parse(date+'T16:00:00Z');for(const v of Object.values(b)){v.editionDate=date;v.collectionId=date+'-pomeriggio';v.completedAt=new Date(time).toISOString();for(const a of [...v.articles,...v.reserveArticles]){a.verifiedAt=v.completedAt;a.publishedAt=v.completedAt;a.source.accessCheckedAt=v.completedAt;}}const r=assemble(b,date,time,date+'-pomeriggio');assert(r.edition.scheduledFor.endsWith('T19:00:00'+offset));}});
+ ok('due rami, stessa edizione, categorie separate e import ripetibile',()=>{
+  const repo=path.join(temp,'desks');fs.mkdirSync(repo);process.chdir(repo);
+  const git=(...args)=>execFileSync('git',args,{encoding:'utf8'}).trim();
+  const commit=message=>{git('add','.');git('commit','-qm',message);};
+  git('init','-qb','main');git('config','user.email','fixture@example.org');git('config','user.name','Fixture');
+  fs.writeFileSync('seed','base');commit('Seed');
+  git('checkout','-qb','redazione-quotidiana');
+  save({sport:am.sport,cronaca:am.cronaca});commit('Primo ramo con categoria estranea');
+  git('update-ref','refs/remotes/origin/redazione-quotidiana','HEAD');
+  git('checkout','-qb','redazione-economia-cronaca','main');
+  save({economia:am.economia,roma:pm.roma});commit('Secondo ramo con un altro ciclo');
+  git('update-ref','refs/remotes/origin/redazione-economia-cronaca','HEAD');
+  git('checkout','-q','main');
+  const cycle=day+'-mattina';
+  assert.deepEqual(importEditorialBranches(root,cycle),['sport','economia']);
+  assert.deepEqual(readBlocks(root,cycle),{sport:am.sport,economia:am.economia});
+  commit('Importa entrambi i rami');
+  assert.deepEqual(importEditorialBranches(root,cycle),[]);
+  const correction={...am.sport,completedAt:new Date(now).toISOString()};
+  save({sport:correction});commit('Correzione manuale su main');
+  assert.deepEqual(importEditorialBranches(root,cycle),[]);
+  assert.deepEqual(readBlocks(root,cycle).sport,correction);
+  git('checkout','-q','redazione-quotidiana');
+  save({sport:{...am.sport,completedAt:new Date(now+1000).toISOString()}});commit('Nuovo checkpoint in conflitto');
+  git('update-ref','refs/remotes/origin/redazione-quotidiana','HEAD');
+  git('checkout','-q','main');
+  assert.throws(()=>importEditorialBranches(root,cycle),/Conflitto tra main/);
+  assert.deepEqual(readBlocks(root,cycle).sport,correction);
+  process.chdir(temp);
+ });
  // Reconstruct two historical commits in an isolated Git repository.
  ok('recupero cronologia dopo sovrascrittura legacy',()=>{
   const recover=path.join(temp,'recover');fs.mkdirSync(recover);process.chdir(recover);
