@@ -5,6 +5,7 @@ import assert from 'node:assert/strict';
 import {execFileSync} from 'node:child_process';
 import {fileURLToPath} from 'node:url';
 import {assemble,runAssembly,categories,romeDay} from './assemble_batches.mjs';
+import {planSourceRecovery} from './recover_unreadable_sources.mjs';
 import {importEditorialBranches} from './import_editorial_branches.mjs';
 import {cyclePath,readBlocks,writeJSON,ingestLegacy,selectCycle} from './editorial_cycles.mjs';
 const original=JSON.parse(fs.readFileSync('dist/data/current.json'));
@@ -101,6 +102,46 @@ try{
   }
  });
  ok('offset obiettivi estate e inverno',()=>{for(const [date,offset] of [['2026-07-03','+02:00'],['2026-11-04','+01:00']]){const b=structuredClone(pm),time=Date.parse(date+'T16:00:00Z');for(const v of Object.values(b)){v.editionDate=date;v.collectionId=date+'-pomeriggio';v.completedAt=new Date(time).toISOString();for(const a of [...v.articles,...v.reserveArticles]){a.verifiedAt=v.completedAt;a.publishedAt=v.completedAt;a.source.accessCheckedAt=v.completedAt;}}const r=assemble(b,date,time,date+'-pomeriggio');assert(r.edition.scheduledFor.endsWith('T19:00:00'+offset));}});
+ ok('recupero fonti: due scorte distinte, 40+40 e foto conservate',()=>{
+  const blocks=structuredClone(am);
+  const cycle=day+'-mattina';
+  const failure=a=>({check:'check_article',id:a.id});
+  const spare=(a,suffix)=>({...a,id:a.id+'-'+suffix,eventKey:a.eventKey+'-'+suffix,source:{...a.source,url:a.source.url+'/'+suffix}});
+  const [first,second]=blocks.economia.reserveArticles;
+  const a=spare(first,'scorta-a'),b=spare(second,'scorta-b');
+  blocks.economia.fallbackArticles=[a,b];
+  const original=assemble(blocks,day,now,cycle).edition;
+  const plan=planSourceRecovery(blocks,original,[failure(first),failure(second)],()=>true,now);
+  assert.equal(plan.edition.articles.length,80);
+  assert.equal(plan.edition.reserveIds.length,40);
+  assert.equal(plan.edition.leadIds.length,5);
+  assert.deepEqual(plan.blocks.economia.reserveArticles.slice(0,2),[a,b]);
+  assert.deepEqual(blocks.economia.reserveArticles.slice(0,2),[first,second]);
+  const one=planSourceRecovery(blocks,original,[failure(first)],candidate=>candidate.id===b.id,now);
+  assert.equal(one.blocks.economia.reserveArticles[0].id,b.id);
+  assert.equal(planSourceRecovery(blocks,original,[failure(first),failure(second)],candidate=>candidate.id===b.id,now),null);
+  blocks.economia.fallbackArticles=[{...a,eventKey:blocks.sport.articles[0].eventKey},{...b,verifiedAt:new Date(now-10800001).toISOString()}];
+  assert.equal(planSourceRecovery(blocks,original,[failure(first)],()=>true,now),null);
+  assert.equal(planSourceRecovery(blocks,original,[{check:'check_photo',id:blocks.economia.articles[0].id}],()=>true,now),null);
+ });
+ ok('recupero fonti: mantiene cinque foto e il tipo di fonte tecnologica',()=>{
+  const blocks=structuredClone(am);
+  const cycle=day+'-mattina';
+  const lead=blocks.economia.articles[0];
+  const candidate={...lead,id:'nuova-scorta-economia',eventKey:'nuovo-fatto-economia',source:{...lead.source,url:'https://example.org/scorta-economia'}};
+  const tech=blocks.tecnologia.reserveArticles[0];
+  tech.source.name='Punto Informatico';
+  blocks.tecnologia.fallbackArticles=[{...tech,id:'nuova-scorta-tech',eventKey:'nuovo-fatto-tech',source:{...tech.source,name:'Everyeye',url:'https://example.org/scorta-tech'}}];
+  const original=assemble(blocks,day,now,cycle).edition;
+  const error={check:'check_article',id:lead.id};
+  blocks.economia.fallbackArticles=[{...candidate,image:undefined}];
+  assert.equal(planSourceRecovery(blocks,original,[error],()=>true,now),null);
+  blocks.economia.fallbackArticles=[candidate];
+  const plan=planSourceRecovery(blocks,original,[error],()=>true,now);
+  assert.equal(plan.edition.leadIds.length,5);
+  assert(plan.edition.leadIds.includes(candidate.id));
+  assert.equal(planSourceRecovery(blocks,original,[{check:'check_article',id:tech.id}],()=>true,now),null);
+ });
  ok('due rami, stessa edizione, categorie separate e import ripetibile',()=>{
   const repo=path.join(temp,'desks');fs.mkdirSync(repo);process.chdir(repo);
   const git=(...args)=>execFileSync('git',args,{encoding:'utf8'}).trim();

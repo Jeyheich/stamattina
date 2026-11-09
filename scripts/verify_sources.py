@@ -83,7 +83,7 @@ def check_photo(a):
         raise ValueError(a['id'] + ': manca didascalia o approvazione riuso')
     return a['id'] + ': fotografia e licenza verificate'
 
-def verify(edition):
+def verify(edition, failure_report=None):
     if edition['mode'] != 'live':
         raise ValueError('Edizione non reale')
     today = NOW.astimezone(ZoneInfo('Europe/Rome')).date().isoformat()
@@ -120,14 +120,23 @@ def verify(edition):
             try:
                 print(result.result())
             except Exception as exc:
-                errors.append(": ".join(pending[result]) + ": " + str(exc))
+                check, article_id = pending[result]
+                errors.append(dict(check=check, id=article_id, reason=str(exc)))
     if errors:
-        raise ValueError('Pubblicazione bloccata: ' + '; '.join(errors))
+        if failure_report:
+            with open(failure_report, 'w', encoding='utf-8') as report:
+                json.dump(errors, report)
+        details = ['{check}: {id}: {reason}'.format(**error) for error in errors]
+        raise ValueError('Pubblicazione bloccata: ' + '; '.join(details))
     print('Controlli fonti/fotografie superati; la verifica editoriale automatizzata resta necessaria.')
 
 if __name__ == '__main__':
     try:
-        verify(json.load(open(sys.argv[1], encoding='utf-8')))
+        if sys.argv[1] == '--check-article':
+            print(check_article(json.load(sys.stdin)))
+        else:
+            with open(sys.argv[1], encoding='utf-8') as edition:
+                verify(json.load(edition), sys.argv[2] if len(sys.argv) > 2 else None)
     except Exception as exc:
         print(str(exc), file=sys.stderr)
         sys.exit(1)

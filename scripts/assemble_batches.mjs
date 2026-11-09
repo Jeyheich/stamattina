@@ -111,6 +111,9 @@ export function runAssembly({root='automation/editorial',cycle,now=Date.now(),hi
  if(result.edition&&!canPublishDate)result.state.publicationBlocked='Ciclo arretrato: richiesto avvio esplicito';
  if(result.edition&&!hasRequiredReserves)result.state.publicationBlocked='Servono tutte le 40 aggiuntive';
  result.state.publicCollectionId=current?.collectionId;
+ if(result.state.editionId&&result.state.editionId===previous?.editionId&&previous.sourceReplacements){
+  result.state.sourceReplacements=previous.sourceReplacements;
+ }
  if(!canAdvance)result.state.publicationBlocked='Ciclo precedente a quello online';
  if(current?.id===result.state.editionId&&previous?.publicEditionId===current.id&&previous.publication==='verified'){
   Object.assign(result.state,{publicEditionId:previous.publicEditionId,publicVerifiedAt:previous.publicVerifiedAt,publication:'verified'});

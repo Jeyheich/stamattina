@@ -1,5 +1,9 @@
 # Stamattina — stato operativo
 
+## Recupero automatico delle fonti — 9 novembre
+- Le attività possono salvare fino a due notizie già verificate in fallbackArticles per categoria, oltre al 5+5. Se il controllo GitHub respinge una fonte, il workflow prova le scorte della stessa categoria e ripete i controlli sulla proposta completa. Scorte scadute, duplicate o incompatibili vengono scartate. La pubblicazione richiede ancora 40+40 e cinque foto.
+- Verificare sui prossimi avvii la disponibilità di scorte realmente preparate dalle attività. In caso di recupero lo stato registra sourceReplacements. Se il controllo finale fallisce, l’edizione pubblica precedente resta disponibile.
+
 ## Mattutina del 9 novembre — recupero manuale pubblicato
 - Il ciclo 2026-11-09-mattina era rimasto a 28 principali, due aggiuntive in bozza e zero foto dopo gli avvii automatici. Rilette le fonti scadute e completati gli otto blocchi sui due rami editoriali.
 - Il runner non riusciva a leggere due pagine AGI di Economia. Sostituite le due notizie con fonti verificate dal runner. Run 42604893792 riuscita e JSON pubblico verificato alle 11:56 Europe/Rome. Edizione 2026-11-09-batches-cdc6e41ec43d con 40 principali, 40 aggiuntive e cinque foto. Primo passaggio completo attraverso i due rami, con recupero editoriale manuale.

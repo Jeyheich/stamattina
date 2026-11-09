@@ -44,7 +44,7 @@ const expired=structuredClone(blocks);expired.roma.completedAt=new Date(now-1440
 const duplicate=structuredClone(blocks);duplicate.sport.articles[0].eventKey=duplicate.esteri.articles[0].eventKey;assert.equal(assemble(duplicate,today,now).state.ready,false);
 const insufficientPhotos=structuredClone(blocks);delete insufficientPhotos.roma.articles[0].image;assert.equal(assemble(insufficientPhotos,today,now).state.photosMissing,1);
 const sourceDuplicate=structuredClone(blocks);sourceDuplicate.sport.articles[0].source.url=sourceDuplicate.esteri.articles[0].source.url;assert.equal(assemble(sourceDuplicate,today,now).state.ready,false);
-const blocked=recordFailure(complete.state,complete.edition,'check_photo: fixture-economia-0: HTTP Error 403');assert.equal(blocked.ready,false);assert.equal(blocked.invalid[0].slug,'economia');assert(!blocked.completed.includes('economia'));assert(blocked.completed.includes('politica'));
+const blocked=recordFailure(complete.state,complete.edition,'Pubblicazione bloccata: check_photo: fixture-economia-0: HTTP Error 403\nfixture-politica-0: fonte raggiungibile');assert.equal(blocked.ready,false);assert.equal(blocked.invalid[0].slug,'economia');assert(!blocked.completed.includes('economia'));assert(blocked.completed.includes('politica'));
 const refresh=structuredClone(blocks);refresh.politica.collectionId=today+'-pomeriggio';
 assert.equal(assemble(refresh,today,now).edition,undefined,'Il nuovo ciclo non pubblica insieme ai vecchi blocchi');
 assert.equal(assemble(refresh,today,now).state.missing.length,7);
@@ -77,7 +77,7 @@ assert.deepEqual(expanded.state.reserveMissing,[]);
 assert.equal(assemble(badReserve,today,now).state.editorialComplete,false);
 console.log('PASS: 40 o 45 articoli dichiarano riserve mancanti; soltanto 80 validi completano il lavoro editoriale.');
 
-assert.equal(recordFailure(expanded.state,expanded.edition,'check_photo: fixture-economia-0: HTTP Error 403').editorialComplete,false,'Un errore fonte/foto annulla anche la completezza editoriale');
+assert.equal(recordFailure(expanded.state,expanded.edition,'Pubblicazione bloccata: check_photo: fixture-economia-0: HTTP Error 403\nfixture-politica-0: fonte raggiungibile').editorialComplete,false,'Un errore fonte/foto annulla anche la completezza editoriale');
 
 const am=structuredClone(withReserve),pm=structuredClone(withReserve);
 for(const b of Object.values(am))b.collectionId=today+'-mattina';

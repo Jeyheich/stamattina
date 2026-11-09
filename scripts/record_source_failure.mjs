@@ -4,8 +4,10 @@ import {fileURLToPath} from 'node:url';
 import {cyclePath,writeJSON} from './editorial_cycles.mjs';
 import {categories} from './assemble_batches.mjs';
 export function recordFailure(state,edition,log){
-  const text=String(log).slice(-6000);
-  const affected=new Set((edition?.articles||[]).filter(a=>text.includes(a.id)).map(a=>categories.find(([,name])=>name===a.category)?.[0]).filter(Boolean));
+  const failureLine=String(log).split('\n').find(line=>/^(?:Pubblicazione bloccata:|check_(?:article|photo):)/.test(line));
+  const failedIds=new Set([...String(failureLine).matchAll(/check_(?:article|photo): ([a-z0-9-]+):/g)].map(match=>match[1]));
+  const text=(failureLine||String(log)).slice(0,6000);
+  const affected=new Set((edition?.articles||[]).filter(a=>failedIds.has(a.id)).map(a=>categories.find(([,name])=>name===a.category)?.[0]).filter(Boolean));
   const invalid=[...affected].map(slug=>({slug,reason:'Controllo fonte/foto fallito: consultare sourceErrors'}));
   if(!invalid.length)invalid.push({slug:'edition',reason:'Controllo completo fallito: consultare sourceErrors'});
   return {...state,ready:false,editorialComplete:false,needsPublication:false,blocked:true,sourceErrors:text,
