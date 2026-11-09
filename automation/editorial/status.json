@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-09",
-  "checkedAt": "2026-11-09T06:14:40.292Z",
+  "checkedAt": "2026-11-09T07:14:56.400Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -15,16 +15,17 @@
   ],
   "completed": [
     "economia",
-    "tecnologia"
+    "tecnologia",
+    "sport"
   ],
   "inProgress": [
     {
       "slug": "politica",
-      "count": 1
+      "count": 2
     },
     {
       "slug": "esteri",
-      "count": 1
+      "count": 2
     },
     {
       "slug": "cronaca",
@@ -37,10 +38,6 @@
     {
       "slug": "cultura",
       "count": 3
-    },
-    {
-      "slug": "sport",
-      "count": 4
     }
   ],
   "missing": [],
@@ -54,10 +51,24 @@
       "pending": true
     },
     {
+      "id": "politica-piantedosi-comitato-hacker",
+      "category": "Politica",
+      "title": "Attacchi informatici, Piantedosi convoca il Comitato per l'ordine e la sicurezza",
+      "eventKey": "piantedosi-convoca-comitato-sicurezza-attacchi-hacker-novembre-2026",
+      "pending": true
+    },
+    {
       "id": "esteri-rubio-garanzie-sicurezza-ucraina",
       "category": "Esteri",
       "title": "Rubio segnala progressi sulle garanzie di sicurezza per l'Ucraina",
       "eventKey": "rubio-progressi-garanzie-sicurezza-ucraina-abu-dhabi-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "esteri-israele-mandato-eisenkot",
+      "category": "Esteri",
+      "title": "Israele, Herzog incarica Eisenkot di formare il nuovo governo",
+      "eventKey": "israele-herzog-incarico-governo-eisenkot-novembre-2026",
       "pending": true
     },
     {
@@ -114,34 +125,6 @@
       "category": "Cultura · Teatro · Cinema",
       "title": "Factory Fest attraversa l'Umbria con teatro, danza e sperimentazione",
       "eventKey": "factory-fest-umbria-performances-2026",
-      "pending": true
-    },
-    {
-      "id": "sport-milan-genoa",
-      "category": "Sport",
-      "title": "Il Milan vince a Genova: Cisse e Pulisic decidono il 2-1",
-      "eventKey": "serie-a-genoa-milan-1-2-8-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "sport-inter-como",
-      "category": "Sport",
-      "title": "Inter-Como 2-0: Esposito e Thuram a segno a San Siro",
-      "eventKey": "serie-a-inter-como-2-0-8-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "sport-fiorentina-juventus",
-      "category": "Sport",
-      "title": "Fiorentina-Juventus finisce 2-2, discussioni su un tocco di mano nel finale",
-      "eventKey": "serie-a-fiorentina-juventus-2-2-8-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "sport-f1-brasile",
-      "category": "Sport",
-      "title": "Norris conquista il GP del Brasile, Mercedes campione costruttori",
-      "eventKey": "formula1-gp-brasile-norris-vittoria-mercedes-costruttori-2026",
       "pending": true
     },
     {
@@ -203,6 +186,36 @@
       "category": "Tecnologia · AI",
       "title": "Shawn Layden preferirebbe una PS5 più economica a una nuova corsa alla potenza",
       "eventKey": "shawn-layden-ps5-economica-invece-ps6-2026"
+    },
+    {
+      "id": "sport-milan-genoa",
+      "category": "Sport",
+      "title": "Il Milan vince a Genova: Cisse e Pulisic decidono il 2-1",
+      "eventKey": "serie-a-genoa-milan-1-2-8-novembre-2026"
+    },
+    {
+      "id": "sport-inter-como",
+      "category": "Sport",
+      "title": "Inter-Como 2-0: Esposito e Thuram a segno a San Siro",
+      "eventKey": "serie-a-inter-como-2-0-8-novembre-2026"
+    },
+    {
+      "id": "sport-fiorentina-juventus",
+      "category": "Sport",
+      "title": "Fiorentina-Juventus finisce 2-2, discussioni su un tocco di mano nel finale",
+      "eventKey": "serie-a-fiorentina-juventus-2-2-8-novembre-2026"
+    },
+    {
+      "id": "sport-f1-brasile",
+      "category": "Sport",
+      "title": "Norris conquista il GP del Brasile, Mercedes campione costruttori",
+      "eventKey": "formula1-gp-brasile-norris-vittoria-mercedes-costruttori-2026"
+    },
+    {
+      "id": "sport-alcaraz-parigi-masters",
+      "category": "Sport",
+      "title": "Alcaraz conquista per la prima volta il Masters 1000 di Parigi",
+      "eventKey": "alcaraz-vince-parigi-masters-shelton-2026"
     }
   ],
   "collectionId": "2026-11-09-mattina",
@@ -220,13 +233,13 @@
   "photosAvailable": 0,
   "categoryProgress": {
     "politica": {
-      "base": 1,
+      "base": 2,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "esteri": {
-      "base": 1,
+      "base": 2,
       "reserve": 0,
       "draft": 0,
       "complete": false
@@ -262,7 +275,7 @@
       "complete": false
     },
     "sport": {
-      "base": 4,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
