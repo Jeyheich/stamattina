@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-09",
-  "checkedAt": "2026-11-09T06:09:29.725Z",
+  "checkedAt": "2026-11-09T06:09:54.811Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -29,12 +29,15 @@
     {
       "slug": "cronaca",
       "count": 4
+    },
+    {
+      "slug": "sport",
+      "count": 4
     }
   ],
   "missing": [
     "roma",
-    "cultura",
-    "sport"
+    "cultura"
   ],
   "invalid": [],
   "stories": [
@@ -78,6 +81,34 @@
       "category": "Cronaca",
       "title": "Vercelli, muore un paracadutista durante un lancio",
       "eventKey": "vercelli-paracadutista-morto-lamporo",
+      "pending": true
+    },
+    {
+      "id": "sport-milan-genoa",
+      "category": "Sport",
+      "title": "Il Milan vince a Genova: Cisse e Pulisic decidono il 2-1",
+      "eventKey": "serie-a-genoa-milan-1-2-8-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "sport-inter-como",
+      "category": "Sport",
+      "title": "Inter-Como 2-0: Esposito e Thuram a segno a San Siro",
+      "eventKey": "serie-a-inter-como-2-0-8-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "sport-fiorentina-juventus",
+      "category": "Sport",
+      "title": "Fiorentina-Juventus finisce 2-2, discussioni su un tocco di mano nel finale",
+      "eventKey": "serie-a-fiorentina-juventus-2-2-8-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "sport-f1-brasile",
+      "category": "Sport",
+      "title": "Norris conquista il GP del Brasile, Mercedes campione costruttori",
+      "eventKey": "formula1-gp-brasile-norris-vittoria-mercedes-costruttori-2026",
       "pending": true
     },
     {
@@ -198,7 +229,7 @@
       "complete": false
     },
     "sport": {
-      "base": 0,
+      "base": 4,
       "reserve": 0,
       "draft": 0,
       "complete": false
