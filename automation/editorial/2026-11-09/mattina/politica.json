@@ -4,7 +4,7 @@
   "collectionId": "2026-11-09-mattina",
   "category": "Politica",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-09T05:04:21.520Z",
+  "lastAttemptAt": "2026-11-09T08:14:33+01:00",
   "articles": [
     {
       "id": "politica-salis-renzi-centro-progressista",
@@ -25,6 +25,28 @@
         "dateEvidence": "Nell'intestazione ANSA si legge GENOVA, 08 novembre 2026, 15:25.",
         "access": "free",
         "accessCheckedAt": "2026-11-09T05:04:21.520Z",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-piantedosi-comitato-hacker",
+      "eventKey": "piantedosi-convoca-comitato-sicurezza-attacchi-hacker-novembre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Attacchi informatici, Piantedosi convoca il Comitato per l'ordine e la sicurezza",
+      "summary": "Il ministro dell'Interno ha convocato per martedì il Comitato nazionale per l'Ordine e la Sicurezza dopo l'allarme per gli attacchi hacker. Tajani porterà il tema al G7, mentre le opposizioni chiedono chiarimenti sulla strategia del governo.",
+      "body": [
+        "Il ministro dell'Interno Matteo Piantedosi ha convocato per martedì il Comitato nazionale per l'Ordine e la Sicurezza in risposta alle preoccupazioni per gli attacchi informatici. L'annuncio è stato riferito da Sky TG24 l'8 novembre.",
+        "Il ministro degli Esteri Antonio Tajani ha dichiarato che il tema sarà affrontato al G7 e che la Farnesina non si lascerà intimidire. Le opposizioni hanno chiesto al governo di illustrare le misure previste per contrastare le minacce."
+      ],
+      "publishedAt": "2026-11-08T21:07:00+01:00",
+      "verifiedAt": "2026-11-09T08:14:33+01:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/video/2026/11/08/hacker-piantedosi-comitato-nazionale-sicurezza-1138622",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T08:14:33+01:00",
+        "dateEvidence": "La pagina Sky TG24 indica «08 nov 2026 - 21:07» e riporta nel testo la convocazione del comitato.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
