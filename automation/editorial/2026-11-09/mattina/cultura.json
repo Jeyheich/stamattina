@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-09",
+  "collectionId": "2026-11-09-mattina",
+  "category": "Cultura · Teatro · Cinema",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-09T06:14:03.046Z",
+  "articles": [
+    {
+      "id": "cultura-oscar-latella-bergamasco",
+      "eventKey": "oscar-latella-bergamasco-recensione-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Oscar di Latella: Sonia Bergamasco affronta le contraddizioni di Lady Oscar",
+      "summary": "La recensione dello spettacolo scritto da Linda Dalisi e diretto da Antonio Latella mette al centro il conflitto interiore di Oscar e lo spazio vuoto della scena.",
+      "body": [
+        "La nuova produzione del Teatro Stabile dell’Umbria vede Sonia Bergamasco nel ruolo di Oscar, affiancata da Nicola Mastroberardino nel ruolo di André. La scena di Giuseppe Stellato utilizza una cortina opaca e un grande specchio circolare."
+      ],
+      "publishedAt": "2026-11-08",
+      "verifiedAt": "2026-11-09T06:14:03.046Z",
+      "source": {
+        "name": "Teatro e Critica",
+        "url": "https://www.teatroecritica.net/2026/11/chi-ha-paura-del-vuoto-oscar-di-antonio-latella/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T06:14:03.046Z",
+        "dateEvidence": "La pagina originale mostra 8 Novembre 2026 sotto il nome dell'autore Matteo Valentini.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-faust-castellucci-argentina",
+      "eventKey": "faust-castellucci-roma-europa-festival-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Castellucci porta Faust al Teatro Argentina, tra corpo e controllo",
+      "summary": "Il nuovo Faust di Romeo Castellucci, presentato al Romaeuropa Festival, esplora la perdita di autonomia e il rapporto fra azione e parola.",
+      "body": [
+        "Faust. Fatto, non detto è stato presentato al Teatro Argentina dopo l'anteprima a Montpellier. Nella lettura critica di Andrea Pocosgnich, il corpo degli interpreti e il tema del controllo sono centrali; la tournée prosegue in diverse città europee."
+      ],
+      "publishedAt": "2026-11-07",
+      "verifiedAt": "2026-11-09T06:14:03.046Z",
+      "source": {
+        "name": "Teatro e Critica",
+        "url": "https://www.teatroecritica.net/2026/11/faust-di-romeo-castellucci-in-principio-era-lazione-e-il-corpo/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T06:14:03.046Z",
+        "dateEvidence": "La pagina di Teatro e Critica riporta 7 Novembre 2026 e indica Andrea Pocosgnich come autore.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-factory-fest-umbria-2026",
+      "eventKey": "factory-fest-umbria-performances-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Factory Fest attraversa l'Umbria con teatro, danza e sperimentazione",
+      "summary": "Un reportage racconta il festival multidisciplinare tra Foligno, Spoleto, Perugia, Campello e Spello, dedicato al tema dell'essere fuori di sé.",
+      "body": [
+        "Il programma curato dalla cooperativa Ge.Ci.Te. con La Mama Umbria International ha unito teatro, danza e musica sperimentale. Tra le opere raccontate figurano La svastica sul sole di lacasadargilla e Occam XXVI di Enrico Malatesta."
+      ],
+      "publishedAt": "2026-11-06",
+      "verifiedAt": "2026-11-09T06:14:03.046Z",
+      "source": {
+        "name": "Teatro e Critica",
+        "url": "https://www.teatroecritica.net/2026/11/factory-fest-da-foligno-fuori-di-se/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T06:14:03.046Z",
+        "dateEvidence": "La pagina originale reca la data 6 Novembre 2026 e la firma di Viviana Raciti.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
