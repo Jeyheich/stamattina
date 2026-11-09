@@ -1,6 +1,6 @@
 {
-  "editionDate": "2026-11-08",
-  "checkedAt": "2026-11-08T19:24:18.476Z",
+  "editionDate": "2026-11-09",
+  "checkedAt": "2026-11-09T05:04:36.270Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,39 +14,42 @@
     "sport"
   ],
   "completed": [],
-  "inProgress": [],
-  "missing": [
-    "tecnologia",
-    "sport"
-  ],
-  "invalid": [
+  "inProgress": [
     {
       "slug": "politica",
-      "reason": "politica-bonaccini-meme-tajani-maga verifiedAt: verifica scaduta (verifica 2026-11-08T15:03:15.253Z, controllo 2026-11-08T19:24:18.476Z)"
+      "count": 1
     },
     {
       "slug": "esteri",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-08T15:03:15.253Z, controllo 2026-11-08T19:24:18.476Z)"
-    },
-    {
-      "slug": "economia",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-08T15:18:12.789Z, controllo 2026-11-08T19:24:18.476Z)"
-    },
-    {
-      "slug": "cronaca",
-      "reason": "cronaca-milano-rissa-agente-ferita verifiedAt: verifica scaduta (verifica 2026-11-08T15:18:24.322Z, controllo 2026-11-08T19:24:18.476Z)"
-    },
-    {
-      "slug": "roma",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-08T16:19:42.185Z, controllo 2026-11-08T19:24:18.476Z)"
-    },
-    {
-      "slug": "cultura",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-08T16:19:30.361Z, controllo 2026-11-08T19:24:18.476Z)"
+      "count": 1
     }
   ],
-  "stories": [],
-  "collectionId": "2026-11-08-pomeriggio",
+  "missing": [
+    "economia",
+    "cronaca",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
+  ],
+  "invalid": [],
+  "stories": [
+    {
+      "id": "politica-salis-renzi-centro-progressista",
+      "category": "Politica",
+      "title": "Silvia Salis frena Renzi: prima Genova, poi il confronto nel centrosinistra",
+      "eventKey": "salis-respinge-ipotesi-renzi-guida-centro-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "esteri-rubio-garanzie-sicurezza-ucraina",
+      "category": "Esteri",
+      "title": "Rubio segnala progressi sulle garanzie di sicurezza per l'Ucraina",
+      "eventKey": "rubio-progressi-garanzie-sicurezza-ucraina-abu-dhabi-novembre-2026",
+      "pending": true
+    }
+  ],
+  "collectionId": "2026-11-09-mattina",
   "reserveCounts": {
     "Politica": 0,
     "Esteri": 0,
@@ -61,13 +64,13 @@
   "photosAvailable": 0,
   "categoryProgress": {
     "politica": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "esteri": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false
