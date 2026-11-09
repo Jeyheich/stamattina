@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-09",
-  "checkedAt": "2026-11-09T05:14:36.798Z",
+  "checkedAt": "2026-11-09T06:09:29.725Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,7 +14,8 @@
     "sport"
   ],
   "completed": [
-    "economia"
+    "economia",
+    "tecnologia"
   ],
   "inProgress": [
     {
@@ -33,7 +34,6 @@
   "missing": [
     "roma",
     "cultura",
-    "tecnologia",
     "sport"
   ],
   "invalid": [],
@@ -109,6 +109,36 @@
       "category": "Economia",
       "title": "Banane latinoamericane, i produttori chiedono prezzi più equi",
       "eventKey": "banane-america-latina-clima-prezzi"
+    },
+    {
+      "id": "tecnologia-agcom-viagogo-oasis",
+      "category": "Tecnologia · AI",
+      "title": "AGCOM dispone il blocco di Viagogo e apre un fascicolo sui biglietti degli Oasis",
+      "eventKey": "agcom-oscuramento-viagogo-biglietti-oasis-2026"
+    },
+    {
+      "id": "tecnologia-starship-volo-15",
+      "category": "Tecnologia · AI",
+      "title": "Starship, il quindicesimo test punta al recupero di entrambi gli stadi",
+      "eventKey": "spacex-starship-volo-15-doppia-cattura-annuncio-2026"
+    },
+    {
+      "id": "tecnologia-social-california",
+      "category": "Tecnologia · AI",
+      "title": "Google, Meta e TikTok contestano la legge californiana sui social per minori",
+      "eventKey": "california-legge-social-minori-ricorsi-google-meta-tiktok-2026"
+    },
+    {
+      "id": "tecnologia-divinity-larian",
+      "category": "Tecnologia · AI",
+      "title": "Larian, Vincke aggiorna sul nuovo Divinity senza indicare una data d'uscita",
+      "eventKey": "larian-vincke-aggiornamento-sviluppo-divinity-2026"
+    },
+    {
+      "id": "tecnologia-layden-ps5",
+      "category": "Tecnologia · AI",
+      "title": "Shawn Layden preferirebbe una PS5 più economica a una nuova corsa alla potenza",
+      "eventKey": "shawn-layden-ps5-economica-invece-ps6-2026"
     }
   ],
   "collectionId": "2026-11-09-mattina",
@@ -162,7 +192,7 @@
       "complete": false
     },
     "tecnologia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
