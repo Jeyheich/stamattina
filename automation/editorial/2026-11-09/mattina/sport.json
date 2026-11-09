@@ -3,8 +3,6 @@
   "editionDate": "2026-11-09",
   "collectionId": "2026-11-09-mattina",
   "category": "Sport",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-09T06:09:32.571Z",
   "articles": [
     {
       "id": "sport-milan-genoa",
@@ -89,7 +87,30 @@
         "dateEvidence": "Sky Sport riporta «08 nov 2026 - 20:24» per gli highlights e il risultato del GP.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "sport-alcaraz-parigi-masters",
+      "eventKey": "alcaraz-vince-parigi-masters-shelton-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Alcaraz conquista per la prima volta il Masters 1000 di Parigi",
+      "summary": "Lo spagnolo supera Ben Shelton 7-6, 7-5 nella finale di domenica 8 novembre, ottenendo il suo primo titolo nel torneo parigino e il nono Masters 1000 in carriera.",
+      "body": [
+        "Carlos Alcaraz ha battuto Ben Shelton in due set, 7-6 e 7-5, conquistando il Masters 1000 di Parigi per la prima volta. Nel primo set è stato decisivo il tie-break, mentre nel secondo lo spagnolo ha recuperato un break di svantaggio.",
+        "La vittoria arriva prima delle ATP Finals di Torino, alle quali Alcaraz si presenta con un nuovo titolo sul cemento indoor. Il risultato non riguarda una partita delle Finals, ancora da disputare."
+      ],
+      "publishedAt": "2026-11-08T19:28:00+01:00",
+      "verifiedAt": "2026-11-09T08:14:18+01:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/08/tennis-alcaraz-prima-volta-al-masters-di-parigi-ora-le-finals_74554ce4-4f41-47ff-8476-02d8f2868089.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T08:14:18+01:00",
+        "dateEvidence": "La pagina ANSA riporta 08 novembre 2026, 19:28 e descrive la finale Alcaraz-Shelton.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
   ],
-  "reserveArticles": []
+  "reserveArticles": [],
+  "completedAt": "2026-11-09T08:14:18+01:00"
 }
