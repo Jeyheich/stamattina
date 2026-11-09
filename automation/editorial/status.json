@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-09",
-  "checkedAt": "2026-11-09T06:14:17.792Z",
+  "checkedAt": "2026-11-09T06:14:40.292Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -31,6 +31,10 @@
       "count": 4
     },
     {
+      "slug": "roma",
+      "count": 1
+    },
+    {
       "slug": "cultura",
       "count": 3
     },
@@ -39,9 +43,7 @@
       "count": 4
     }
   ],
-  "missing": [
-    "roma"
-  ],
+  "missing": [],
   "invalid": [],
   "stories": [
     {
@@ -84,6 +86,13 @@
       "category": "Cronaca",
       "title": "Vercelli, muore un paracadutista durante un lancio",
       "eventKey": "vercelli-paracadutista-morto-lamporo",
+      "pending": true
+    },
+    {
+      "id": "roma-cervellati-monopattino-morte",
+      "category": "Roma",
+      "title": "Roma, morto il fisico Roberto Cervellati dopo l'investimento con un monopattino",
+      "eventKey": "roma-roberto-cervellati-investito-monopattino-novembre-2026",
       "pending": true
     },
     {
@@ -235,7 +244,7 @@
       "complete": false
     },
     "roma": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false
