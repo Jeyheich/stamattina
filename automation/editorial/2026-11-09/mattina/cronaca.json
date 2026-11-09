@@ -3,6 +3,7 @@
   "editionDate": "2026-11-09",
   "collectionId": "2026-11-09-mattina",
   "category": "Cronaca",
+  "completedAt": "2026-11-09T10:53:27.204985+00:00",
   "articles": [
     {
       "id": "cronaca-trani-fratelli-aggressione-gestore",
@@ -16,12 +17,12 @@
         "La procura coordina le indagini e valuta la posizione dei due; il movente non è stato ancora chiarito."
       ],
       "publishedAt": "2026-11-08",
-      "verifiedAt": "2026-11-09T05:13:40.531Z",
+      "verifiedAt": "2026-11-09T10:49:31.454292+00:00",
       "source": {
         "name": "RaiNews",
         "url": "https://www.rainews.it/articoli/2026/11/imprenditore-di-50-anni-aggredito-da-un-gruppo-a-trani-ricoverato-in-coma-farmacologico-f81641fc-6439-44f9-abba-a32ec89e1ca0.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-09T05:13:40.531Z",
+        "accessCheckedAt": "2026-11-09T10:49:31.454292+00:00",
         "dateEvidence": "Data visibile nell'articolo originale: 08/11/2026.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -38,12 +39,12 @@
         "Le parole hanno provocato critiche politiche e richieste di dimissioni; durante i disordini era rimasto ferito anche un funzionario di polizia."
       ],
       "publishedAt": "2026-11-08T21:20:27Z",
-      "verifiedAt": "2026-11-09T05:13:40.531Z",
+      "verifiedAt": "2026-11-09T10:49:31.330621+00:00",
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it/cronaca/2026/11/08/trieste-sindaco-dipiazza-bombe-carta",
         "access": "free",
-        "accessCheckedAt": "2026-11-09T05:13:40.531Z",
+        "accessCheckedAt": "2026-11-09T10:49:31.330621+00:00",
         "dateEvidence": "Data in testa all'articolo: 08 nov 2026 - 21:20.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -60,12 +61,12 @@
         "Alle operazioni hanno partecipato vigili del fuoco specializzati e soccorso speleologico; le condizioni della donna sono state giudicate buone."
       ],
       "publishedAt": "2026-11-08T19:14:31Z",
-      "verifiedAt": "2026-11-09T05:13:40.531Z",
+      "verifiedAt": "2026-11-09T10:49:31.707690+00:00",
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it/cronaca/2026/11/08/monopoli-salvata-speleologa-bloccata-grotta-rotolo",
         "access": "free",
-        "accessCheckedAt": "2026-11-09T05:13:40.531Z",
+        "accessCheckedAt": "2026-11-09T10:49:31.707690+00:00",
         "dateEvidence": "Data in testa all'articolo: 08 nov 2026 - 19:14.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -82,12 +83,12 @@
         "Secondo le prime informazioni riferite da Sky TG24, il paracadute potrebbe essersi aperto solo parzialmente; le autorità stanno ricostruendo l'accaduto."
       ],
       "publishedAt": "2026-11-08T16:43:41Z",
-      "verifiedAt": "2026-11-09T05:13:40.531Z",
+      "verifiedAt": "2026-11-09T10:49:31.480375+00:00",
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it/cronaca/2026/11/08/vercelli-incidente-paracadute",
         "access": "free",
-        "accessCheckedAt": "2026-11-09T05:13:40.531Z",
+        "accessCheckedAt": "2026-11-09T10:49:31.480375+00:00",
         "dateEvidence": "Data in testa all'articolo: 08 nov 2026 - 16:43.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
@@ -104,19 +105,122 @@
         "Un'agente è stata ferita a una mano e medicata con quattro punti di sutura. Il giovane è stato arrestato per resistenza aggravata e lesioni; altri due partecipanti sono stati denunciati per rissa."
       ],
       "publishedAt": "2026-11-08",
-      "verifiedAt": "2026-11-09T08:17:17+01:00",
+      "verifiedAt": "2026-11-09T10:49:32.068729+00:00",
       "source": {
         "name": "Adnkronos",
         "url": "https://www.adnkronos.com/cronaca/milano-rissa-agente-ferita_5AGcG1M0vg7UQgGZrjI3zk",
         "access": "free",
-        "accessCheckedAt": "2026-11-09T08:17:17+01:00",
+        "accessCheckedAt": "2026-11-09T10:49:32.068729+00:00",
         "dateEvidence": "L'articolo Adnkronos mostra in testa 08 novembre 2026 | 10.46.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ],
-  "reserveArticles": [],
-  "reserveDraft": [],
-  "completedAt": "2026-11-09T08:17:17+01:00"
+  "reserveArticles": [
+    {
+      "id": "cronaca-catania-ansv-air-arabia",
+      "eventKey": "catania-ansv-air-arabia",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "L'ANSV ricostruisce il mancato incidente dopo il decollo da Catania",
+      "summary": "Il rapporto sul volo Air Arabia del settembre 2025 descrive il disorientamento dell'equipaggio. L'Airbus scese fino a circa 12,5 metri sul mare prima di riprendere quota.",
+      "body": [
+        "Il rapporto sul volo Air Arabia del settembre 2025 descrive il disorientamento dell'equipaggio. L'Airbus scese fino a circa 12,5 metri sul mare prima di riprendere quota."
+      ],
+      "publishedAt": "2026-11-09T09:58:44+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/09/volo-air-arabia-catania",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-09. L’orario è quello del feed ufficiale: 2026-11-09T09:58:44+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:28.109554+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:28.109554+00:00"
+    },
+    {
+      "id": "cronaca-a11-operaio-cantiere-investito",
+      "eventKey": "a11-operaio-cantiere-investito",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Incidente sul lavoro sull'A11, muore un operaio",
+      "summary": "Il quarantottenne lavorava in un cantiere vicino al casello di Prato Est quando è stato investito. Il conducente si è fermato ed è stato soccorso.",
+      "body": [
+        "Il quarantottenne lavorava in un cantiere vicino al casello di Prato Est quando è stato investito. Il conducente si è fermato ed è stato soccorso."
+      ],
+      "publishedAt": "2026-11-09T09:37:02+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/incidente-sul-lavoro-un-operaio-muore-investito-di-notte-autostrada-a11-640e49cb-0000-44e5-8554-bcb5345decfb.html",
+        "access": "free",
+        "dateEvidence": "Il metadato article:published_time della pagina originale riporta 2026-11-09T09:37:02+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:28.160848+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:28.160848+00:00"
+    },
+    {
+      "id": "cronaca-milano-sciopero-atm-novembre",
+      "eventKey": "milano-sciopero-atm-novembre",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Trasporto pubblico milanese, sciopero il 13 novembre",
+      "summary": "L'agitazione di 24 ore interessa la rete ATM. Sono previste fasce garantite dall'apertura alle 8.45 e tra le 15 e le 18.",
+      "body": [
+        "L'agitazione di 24 ore interessa la rete ATM. Sono previste fasce garantite dall'apertura alle 8.45 e tra le 15 e le 18."
+      ],
+      "publishedAt": "2026-11-09T10:20:07+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/09/sciopero-mezzi-atm-milano-13-novembre",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-09. L’orario è quello del feed ufficiale: 2026-11-09T10:20:07+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:28.317344+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:28.317344+00:00"
+    },
+    {
+      "id": "cronaca-napoli-materdei-crollo",
+      "eventKey": "napoli-materdei-crollo",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Napoli, crollo in uno stabile di Materdei",
+      "summary": "Una persona è morta dopo il cedimento di un solaio su un balcone in via Matteo Renato Imbriani. La polizia sta ricostruendo la dinamica.",
+      "body": [
+        "Una persona è morta dopo il cedimento di un solaio su un balcone in via Matteo Renato Imbriani. La polizia sta ricostruendo la dinamica."
+      ],
+      "publishedAt": "2026-11-09T10:36:38+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/crolla-solaio-su-un-balcone-a-napoli-una-vittima--d7ffacb8-1f98-4426-b4f2-d89436d59641.html",
+        "access": "free",
+        "dateEvidence": "Il metadato article:published_time della pagina originale riporta 2026-11-09T10:36:38+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:28.000764+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:28.000764+00:00"
+    },
+    {
+      "id": "cronaca-palosco-indagine-emilia-bianchi",
+      "eventKey": "palosco-indagine-emilia-bianchi",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Donna uccisa a Palosco, fermato il figlio",
+      "summary": "Emilia Bianchi è stata trovata senza vita nella sua abitazione nel Bergamasco. Gli investigatori hanno fermato il figlio quarantasettenne nell'ambito dell'indagine per omicidio.",
+      "body": [
+        "Emilia Bianchi è stata trovata senza vita nella sua abitazione nel Bergamasco. Gli investigatori hanno fermato il figlio quarantasettenne nell'ambito dell'indagine per omicidio."
+      ],
+      "publishedAt": "2026-11-08T19:30:00+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/tragedia-a-palosco-70enne-uccisa-in-casa-fermato-il-figlio-47enne-per-omicidio-0b8465a4-b304-41f5-8692-d921677a9da8.html",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-08. L’orario è quello del feed ufficiale: 2026-11-08T19:30:00+00:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:51.376534+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:51.376534+00:00"
+    }
+  ]
 }
-

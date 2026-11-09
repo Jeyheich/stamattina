@@ -3,9 +3,42 @@
   "editionDate": "2026-11-09",
   "collectionId": "2026-11-09-mattina",
   "category": "Cultura · Teatro · Cinema",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-09T06:14:03.046Z",
+  "completedAt": "2026-11-09T10:53:27.209816+00:00",
   "articles": [
+    {
+      "id": "cultura-faust-castellucci-argentina",
+      "eventKey": "faust-castellucci-roma-europa-festival-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Castellucci porta Faust al Teatro Argentina, tra corpo e controllo",
+      "summary": "Il nuovo Faust di Romeo Castellucci, presentato al Romaeuropa Festival, esplora la perdita di autonomia e il rapporto fra azione e parola.",
+      "body": [
+        "Faust. Fatto, non detto è stato presentato al Teatro Argentina dopo l'anteprima a Montpellier. Nella lettura critica di Andrea Pocosgnich, il corpo degli interpreti e il tema del controllo sono centrali; la tournée prosegue in diverse città europee.",
+        "Lo spettacolo al Teatro Argentina usa il mito di Faust per interrogare il controllo del corpo e la promessa di conoscenza."
+      ],
+      "publishedAt": "2026-11-07",
+      "verifiedAt": "2026-11-09T10:49:30.762350+00:00",
+      "source": {
+        "name": "Teatro e Critica",
+        "url": "https://www.teatroecritica.net/2026/11/faust-di-romeo-castellucci-in-principio-era-lazione-e-il-corpo/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T10:49:30.762350+00:00",
+        "dateEvidence": "La pagina di Teatro e Critica riporta 7 Novembre 2026 e indica Andrea Pocosgnich come autore.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Teatro_di_Argentina_Roma.jpg",
+        "alt": "Teatro Argentina, Roma",
+        "credit": "Jensens",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Teatro_di_Argentina_Roma.jpg",
+        "rights": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · Teatro Argentina, Roma. Fotografia non riferita agli eventi di oggi.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      },
+      "leadPriority": 85
+    },
     {
       "id": "cultura-oscar-latella-bergamasco",
       "eventKey": "oscar-latella-bergamasco-recensione-novembre-2026",
@@ -17,34 +50,13 @@
         "La nuova produzione del Teatro Stabile dell’Umbria vede Sonia Bergamasco nel ruolo di Oscar, affiancata da Nicola Mastroberardino nel ruolo di André. La scena di Giuseppe Stellato utilizza una cortina opaca e un grande specchio circolare."
       ],
       "publishedAt": "2026-11-08",
-      "verifiedAt": "2026-11-09T06:14:03.046Z",
+      "verifiedAt": "2026-11-09T10:49:30.646243+00:00",
       "source": {
         "name": "Teatro e Critica",
         "url": "https://www.teatroecritica.net/2026/11/chi-ha-paura-del-vuoto-oscar-di-antonio-latella/",
         "access": "free",
-        "accessCheckedAt": "2026-11-09T06:14:03.046Z",
+        "accessCheckedAt": "2026-11-09T10:49:30.646243+00:00",
         "dateEvidence": "La pagina originale mostra 8 Novembre 2026 sotto il nome dell'autore Matteo Valentini.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "cultura-faust-castellucci-argentina",
-      "eventKey": "faust-castellucci-roma-europa-festival-2026",
-      "category": "Cultura · Teatro · Cinema",
-      "status": "verified",
-      "title": "Castellucci porta Faust al Teatro Argentina, tra corpo e controllo",
-      "summary": "Il nuovo Faust di Romeo Castellucci, presentato al Romaeuropa Festival, esplora la perdita di autonomia e il rapporto fra azione e parola.",
-      "body": [
-        "Faust. Fatto, non detto è stato presentato al Teatro Argentina dopo l'anteprima a Montpellier. Nella lettura critica di Andrea Pocosgnich, il corpo degli interpreti e il tema del controllo sono centrali; la tournée prosegue in diverse città europee."
-      ],
-      "publishedAt": "2026-11-07",
-      "verifiedAt": "2026-11-09T06:14:03.046Z",
-      "source": {
-        "name": "Teatro e Critica",
-        "url": "https://www.teatroecritica.net/2026/11/faust-di-romeo-castellucci-in-principio-era-lazione-e-il-corpo/",
-        "access": "free",
-        "accessCheckedAt": "2026-11-09T06:14:03.046Z",
-        "dateEvidence": "La pagina di Teatro e Critica riporta 7 Novembre 2026 e indica Andrea Pocosgnich come autore.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     },
@@ -59,17 +71,164 @@
         "Il programma curato dalla cooperativa Ge.Ci.Te. con La Mama Umbria International ha unito teatro, danza e musica sperimentale. Tra le opere raccontate figurano La svastica sul sole di lacasadargilla e Occam XXVI di Enrico Malatesta."
       ],
       "publishedAt": "2026-11-06",
-      "verifiedAt": "2026-11-09T06:14:03.046Z",
+      "verifiedAt": "2026-11-09T10:49:30.610648+00:00",
       "source": {
         "name": "Teatro e Critica",
         "url": "https://www.teatroecritica.net/2026/11/factory-fest-da-foligno-fuori-di-se/",
         "access": "free",
-        "accessCheckedAt": "2026-11-09T06:14:03.046Z",
+        "accessCheckedAt": "2026-11-09T10:49:30.610648+00:00",
         "dateEvidence": "La pagina originale reca la data 6 Novembre 2026 e la firma di Viviana Raciti.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "cultura-ostia-pegaso-non-drammatizzare",
+      "eventKey": "ostia-pegaso-non-drammatizzare",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Al Teatro Pegaso di Ostia uno spettacolo sulla violenza psicologica",
+      "summary": "Dal 12 al 14 novembre Alessandra Aulicino interpreta il proprio testo autobiografico con Alessandro Moser. La regia è di Luca Gaeta.",
+      "body": [
+        "Dal 12 al 14 novembre Alessandra Aulicino interpreta il proprio testo autobiografico con Alessandro Moser. La regia è di Luca Gaeta."
+      ],
+      "publishedAt": "2026-11-09T10:59:08+01:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/eventi/non-drammatizzare-spettacolo-violenza-psicologica-teatro-pegaso-ostia-12-14-novembre-2026.html",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-09. L’orario è quello del feed ufficiale: 2026-11-09T10:59:08+01:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:28.889837+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:28.889837+00:00"
+    },
+    {
+      "id": "cultura-genovese-rumore-cose-nuove-parco-medici",
+      "eventKey": "genovese-rumore-cose-nuove-parco-medici",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Paolo Genovese incontra il pubblico al Parco de' Medici",
+      "summary": "La serata del 15 novembre accompagna la proiezione di Il rumore delle cose nuove. L'incontro al The Space è annunciato per le 19.",
+      "body": [
+        "La serata del 15 novembre accompagna la proiezione di Il rumore delle cose nuove. L'incontro al The Space è annunciato per le 19."
+      ],
+      "publishedAt": "2026-11-09T10:24:30+01:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/eventi/genovese-musella-fanelli-the-space-parco-medici-il-rumore-delle-cose-nuove.html",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-09. L’orario è quello del feed ufficiale: 2026-11-09T10:24:30+01:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:29.248168+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:29.248168+00:00"
     }
   ],
-  "reserveArticles": [],
-  "reserveDraft": []
+  "reserveArticles": [
+    {
+      "id": "cultura-reel-rock-cinema-moderno",
+      "eventKey": "reel-rock-cinema-moderno",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Reel Rock porta il cinema di arrampicata a Roma",
+      "summary": "La ventesima edizione della rassegna internazionale fa tappa il 23 novembre al Cinema Moderno, con quattro film sul grande schermo.",
+      "body": [
+        "La ventesima edizione della rassegna internazionale fa tappa il 23 novembre al Cinema Moderno, con quattro film sul grande schermo."
+      ],
+      "publishedAt": "2026-11-09T10:53:42+01:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/eventi/reel-rock-20-world-tour-italia-al-the-space-cinema-moderno-23-novembre-2026.html",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-09. L’orario è quello del feed ufficiale: 2026-11-09T10:53:42+01:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:28.982878+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:28.982878+00:00"
+    },
+    {
+      "id": "cultura-curva-pura-you-are-here",
+      "eventKey": "curva-pura-you-are-here",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Carboncino e ceramica in mostra a Curva Pura",
+      "summary": "La bipersonale di Judith Mall e Pierfrancesco Solimene apre il 12 novembre. La mostra curata da Nicoletta Provenzano prosegue fino al 13 dicembre.",
+      "body": [
+        "La bipersonale di Judith Mall e Pierfrancesco Solimene apre il 12 novembre. La mostra curata da Nicoletta Provenzano prosegue fino al 13 dicembre."
+      ],
+      "publishedAt": "2026-11-09T10:02:34+01:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/eventi/you-are-here-la-mostra-alla-galleria-curva-pura-12-novembre-13-dicembre-2026.html",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-09. L’orario è quello del feed ufficiale: 2026-11-09T10:02:34+01:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:29.558690+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:29.558690+00:00"
+    },
+    {
+      "id": "cultura-centrale-preneste-due-spettacoli",
+      "eventKey": "centrale-preneste-due-spettacoli",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Due appuntamenti alla Centrale Preneste Art Factory",
+      "summary": "Il 14 novembre è in programma lo spettacolo di Frosini e Timpano. Il 15 novembre il cartellone propone Bob & Singer di Hangar Teatri.",
+      "body": [
+        "Il 14 novembre è in programma lo spettacolo di Frosini e Timpano. Il 15 novembre il cartellone propone Bob & Singer di Hangar Teatri."
+      ],
+      "publishedAt": "2026-11-09T10:29:59+01:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/eventi/disprezzo-donna-bob-singer-spettacoli-centrale-preneste-teatro-14-15-novembre-2026.html",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-09. L’orario è quello del feed ufficiale: 2026-11-09T10:29:59+01:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:29.351188+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:29.351188+00:00"
+    },
+    {
+      "id": "cultura-centrale-preneste-qui-vivremo-bene",
+      "eventKey": "centrale-preneste-qui-vivremo-bene",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Qui vivremo bene va in scena a Centrale Preneste",
+      "summary": "Il 13 novembre la rassegna YOU. The YOUng City presenta il lavoro di Luigi Vittoria con Elisa Grilli e Tommaso Russi.",
+      "body": [
+        "Il 13 novembre la rassegna YOU. The YOUng City presenta il lavoro di Luigi Vittoria con Elisa Grilli e Tommaso Russi."
+      ],
+      "publishedAt": "2026-11-09T10:17:03+01:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/eventi/qui-vivremo-bene-centrale-preneste-teatro-13-novembre-2026.html",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-09. L’orario è quello del feed ufficiale: 2026-11-09T10:17:03+01:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:52.695867+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:52.695867+00:00"
+    },
+    {
+      "id": "cultura-von-buren-collettiva-romantics",
+      "eventKey": "von-buren-collettiva-romantics",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "The Romantics, nuova collettiva in via Giulia",
+      "summary": "La Von Buren Contemporary riunisce le opere di più artisti in una mostra gratuita dal 15 novembre all'11 gennaio.",
+      "body": [
+        "La Von Buren Contemporary riunisce le opere di più artisti in una mostra gratuita dal 15 novembre all'11 gennaio."
+      ],
+      "publishedAt": "2026-11-09T09:59:46+01:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/eventi/the-romantics-mostra-von-buren-contemporary.html",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-09. L’orario è quello del feed ufficiale: 2026-11-09T09:59:46+01:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:53.197732+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:53.197732+00:00"
+    }
+  ]
 }

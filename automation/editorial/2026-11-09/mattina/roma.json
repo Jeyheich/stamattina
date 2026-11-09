@@ -3,9 +3,104 @@
   "editionDate": "2026-11-09",
   "collectionId": "2026-11-09-mattina",
   "category": "Roma",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-09T06:14:23.716Z",
+  "completedAt": "2026-11-09T10:53:27.211532+00:00",
   "articles": [
+    {
+      "id": "roma-campidoglio-elezioni-scenario-2027",
+      "eventKey": "campidoglio-elezioni-scenario-2027",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Campidoglio, Gualtieri prepara la corsa per il 2027",
+      "summary": "Dopo il lancio della ricandidatura del sindaco uscente, RomaToday analizza i rapporti nelle coalizioni e la ricerca di uno sfidante nel centrodestra.",
+      "body": [
+        "Dopo il lancio della ricandidatura del sindaco uscente, RomaToday analizza i rapporti nelle coalizioni e la ricerca di uno sfidante nel centrodestra.",
+        "Il quadro è ancora aperto. L'analisi riguarda le posizioni dei partiti prima della definizione delle candidature."
+      ],
+      "publishedAt": "2026-11-09T11:39:00+01:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/politica/elezioni/roma-2027-comunali/avanti-tutti-gualtieri.html",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-09. L’orario è quello del feed ufficiale: 2026-11-09T11:39:00+01:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:28.434878+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:28.434878+00:00",
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Palazzo_Senatorio.Roma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "alt": "Palazzo Senatorio sul Campidoglio",
+        "credit": "Kaga tau",
+        "rights": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Senatorio.Roma.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "caption": "Repertorio · Palazzo Senatorio, sede del Comune di Roma.",
+        "reuseApproved": true
+      },
+      "leadPriority": 85
+    },
+    {
+      "id": "roma-garbatella-albergo-rosso-riscaldamento",
+      "eventKey": "garbatella-albergo-rosso-riscaldamento",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Garbatella, l'Albergo Rosso rischia di restare al freddo",
+      "summary": "Nel condominio di piazza Eugenio Biffi vivono più di 160 famiglie. Secondo RomaToday oltre 56 mila euro di morosità legate all'Ater tengono a rischio l'accensione degli impianti.",
+      "body": [
+        "Nel condominio di piazza Eugenio Biffi vivono più di 160 famiglie. Secondo RomaToday oltre 56 mila euro di morosità legate all'Ater tengono a rischio l'accensione degli impianti."
+      ],
+      "publishedAt": "2026-11-09T11:03:00+01:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/politica/albergo-rosso-garbatella-senza-riscaldamenti-ater.html",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-09. L’orario è quello del feed ufficiale: 2026-11-09T11:03:00+01:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:28.791736+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:28.791736+00:00"
+    },
+    {
+      "id": "roma-via-arenula-rapina-turisti",
+      "eventKey": "via-arenula-rapina-turisti",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Rapina a due turisti in via Arenula, quattro arresti",
+      "summary": "Una coppia canadese è stata aggredita dopo aver reagito a una rapina in centro. I carabinieri hanno arrestato quattro persone.",
+      "body": [
+        "Una coppia canadese è stata aggredita dopo aver reagito a una rapina in centro. I carabinieri hanno arrestato quattro persone."
+      ],
+      "publishedAt": "2026-11-09T11:05:00+01:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/cronaca/turisti-rapinati-picchiati-banda-nordafricani.html",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-09. L’orario è quello del feed ufficiale: 2026-11-09T11:05:00+01:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:51.984141+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:51.984141+00:00"
+    },
+    {
+      "id": "roma-roma-latina-inchiesta-piazze-droga",
+      "eventKey": "roma-latina-inchiesta-piazze-droga",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Droga tra Roma e Latina, concluse le indagini su 25 persone",
+      "summary": "L'inchiesta riguarda il rifornimento di piazze di spaccio nella capitale e nel Lazio. Nel corso delle indagini risultano sequestrati 850 chili di stupefacenti.",
+      "body": [
+        "L'inchiesta riguarda il rifornimento di piazze di spaccio nella capitale e nel Lazio. Nel corso delle indagini risultano sequestrati 850 chili di stupefacenti."
+      ],
+      "publishedAt": "2026-11-09T10:27:00+01:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/cronaca/cartelli-droga-piazze-spaccio-roma-latina.html",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-09. L’orario è quello del feed ufficiale: 2026-11-09T10:27:00+01:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:28.640901+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:28.640901+00:00"
+    },
     {
       "id": "roma-cervellati-monopattino-morte",
       "eventKey": "roma-roberto-cervellati-investito-monopattino-novembre-2026",
@@ -17,17 +112,122 @@
         "Roberto Cervellati, fisico tra i primi protagonisti delle ricerche italiane in Antartide, è morto in ospedale dopo essere stato investito venerdì da un monopattino elettrico. Il conducente si è allontanato senza prestare soccorso; gli investigatori esaminano le telecamere della zona."
       ],
       "publishedAt": "2026-11-08",
-      "verifiedAt": "2026-11-09T06:14:23.716Z",
+      "verifiedAt": "2026-11-09T10:49:31.953721+00:00",
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it/lazio/notizie/2026/11/08/travolto-da-un-monopattino-a-roma-morto-fisico-93enne_b05b22bc-3306-4189-9ded-7f8bd2bd0909.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-09T06:14:23.716Z",
+        "accessCheckedAt": "2026-11-09T10:49:31.953721+00:00",
         "dateEvidence": "La pagina ANSA riporta ROMA, 08 novembre 2026, 22:04 sopra il testo dell'articolo.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
   ],
-  "reserveArticles": [],
-  "reserveDraft": []
+  "reserveArticles": [
+    {
+      "id": "roma-anguillara-torzullo-testimonianza-funerali",
+      "eventKey": "anguillara-torzullo-testimonianza-funerali",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Caso Torzullo, agli atti il racconto del cognato",
+      "summary": "Secondo Leggo, il cognato della vittima ha riferito ai carabinieri di essere stato avvicinato durante il funerale da un uomo che parlava di ritorsioni in carcere.",
+      "body": [
+        "Secondo Leggo, il cognato della vittima ha riferito ai carabinieri di essere stato avvicinato durante il funerale da un uomo che parlava di ritorsioni in carcere."
+      ],
+      "publishedAt": "2026-11-09T10:10:56+01:00",
+      "source": {
+        "name": "Leggo Roma",
+        "url": "https://www.leggo.it/italia/roma/09_novembre_2026_federica_torzullo_carlomagno_cognato_detenuti_racconto_inchiesta-9878767.html",
+        "access": "free",
+        "dateEvidence": "Il metadato article:published_time della pagina originale riporta 2026-11-09T10:10:56+01:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:28.747765+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:28.747765+00:00"
+    },
+    {
+      "id": "roma-roma-poste-rapinatore-colla",
+      "eventKey": "roma-poste-rapinatore-colla",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Roma, fermato un sospettato dopo un colpo alle Poste",
+      "summary": "Gli investigatori lo seguivano dopo una precedente rapina in un supermercato. Secondo la ricostruzione usava colla sui polpastrelli per evitare di lasciare impronte.",
+      "body": [
+        "Gli investigatori lo seguivano dopo una precedente rapina in un supermercato. Secondo la ricostruzione usava colla sui polpastrelli per evitare di lasciare impronte."
+      ],
+      "publishedAt": "2026-11-09T11:47:00+01:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/cronaca/rapinatore-senza-impronte-colla-polpastrelli.html",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-09. L’orario è quello del feed ufficiale: 2026-11-09T11:47:00+01:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:51.860769+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:51.860769+00:00"
+    },
+    {
+      "id": "roma-valco-san-paolo-incendio-il-tetto",
+      "eventKey": "valco-san-paolo-incendio-il-tetto",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Incendio nella casa famiglia Il Tetto a Valco San Paolo",
+      "summary": "Il fuoco ha danneggiato il salone della struttura di Lungotevere Dante. L'associazione ha chiesto aiuto per ripartire.",
+      "body": [
+        "Il fuoco ha danneggiato il salone della struttura di Lungotevere Dante. L'associazione ha chiesto aiuto per ripartire."
+      ],
+      "publishedAt": "2026-11-08",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/cronaca/incendio-il-tetto-raccolta-fondi.html",
+        "access": "free",
+        "dateEvidence": "La data 2026-11-08 compare nella pagina originale, sopra il corpo dell’articolo.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:52:13.642383+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:52:13.642383+00:00"
+    },
+    {
+      "id": "roma-centocelle-aggressione-diciannovenne",
+      "eventKey": "centocelle-aggressione-diciannovenne",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Centocelle, diciannovenne ferito durante un'aggressione",
+      "summary": "L'episodio è avvenuto tra via Tor de' Schiavi e via Anagni. I carabinieri hanno fermato un diciassettenne e trovato due pistole a salve e un machete.",
+      "body": [
+        "L'episodio è avvenuto tra via Tor de' Schiavi e via Anagni. I carabinieri hanno fermato un diciassettenne e trovato due pistole a salve e un machete."
+      ],
+      "publishedAt": "2026-11-08",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/cronaca/cosa-e-successo-centocelle-domenica-8-novembre.html",
+        "access": "free",
+        "dateEvidence": "La data 2026-11-08 compare nella pagina originale, sopra il corpo dell’articolo.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:52:13.684235+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:52:13.684235+00:00"
+    },
+    {
+      "id": "roma-montesacro-sonoro-memoria-quartiere",
+      "eventKey": "montesacro-sonoro-memoria-quartiere",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Montesacro raccoglie le memorie del quartiere",
+      "summary": "Il progetto Montesacro Sonoro usa voci e testimonianze per raccontare la storia del quartiere attraverso i ricordi di chi lo abita.",
+      "body": [
+        "Il progetto Montesacro Sonoro usa voci e testimonianze per raccontare la storia del quartiere attraverso i ricordi di chi lo abita."
+      ],
+      "publishedAt": "2026-11-09T11:02:12+01:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/eventi/montesacro-sonoro-11-17-novembre-2026.html",
+        "access": "free",
+        "dateEvidence": "La pagina originale è datata 2026-11-09. L’orario è quello del feed ufficiale: 2026-11-09T11:02:12+01:00.",
+        "reviewedBy": "Verifica editoriale ChatGPT",
+        "accessCheckedAt": "2026-11-09T10:49:28.708218+00:00"
+      },
+      "verifiedAt": "2026-11-09T10:49:28.708218+00:00"
+    }
+  ]
 }
