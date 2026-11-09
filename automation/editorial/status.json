@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-09",
-  "checkedAt": "2026-11-09T05:13:52.042Z",
+  "checkedAt": "2026-11-09T05:14:13.697Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -24,6 +24,10 @@
     {
       "slug": "esteri",
       "count": 1
+    },
+    {
+      "slug": "cronaca",
+      "count": 4
     }
   ],
   "missing": [
@@ -32,12 +36,7 @@
     "tecnologia",
     "sport"
   ],
-  "invalid": [
-    {
-      "slug": "cronaca",
-      "reason": "Il blocco completo deve contenere 5 notizie distinte"
-    }
-  ],
+  "invalid": [],
   "stories": [
     {
       "id": "politica-salis-renzi-centro-progressista",
@@ -51,6 +50,34 @@
       "category": "Esteri",
       "title": "Rubio segnala progressi sulle garanzie di sicurezza per l'Ucraina",
       "eventKey": "rubio-progressi-garanzie-sicurezza-ucraina-abu-dhabi-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "cronaca-trani-fratelli-aggressione-gestore",
+      "category": "Cronaca",
+      "title": "Trani, due fratelli si presentano dopo l'aggressione a un gestore",
+      "eventKey": "trani-fratelli-aggressione-gestore",
+      "pending": true
+    },
+    {
+      "id": "cronaca-trieste-dipiazza-dichiarazioni-proteste",
+      "category": "Cronaca",
+      "title": "Trieste, polemiche sulle parole del sindaco dopo gli scontri",
+      "eventKey": "trieste-dipiazza-dichiarazioni-proteste",
+      "pending": true
+    },
+    {
+      "id": "cronaca-monopoli-speleologa-salvata-grotta",
+      "category": "Cronaca",
+      "title": "Monopoli, speleologa recuperata da 120 metri di profondità",
+      "eventKey": "monopoli-speleologa-salvata-grotta",
+      "pending": true
+    },
+    {
+      "id": "cronaca-vercelli-paracadutista-morto-lamporo",
+      "category": "Cronaca",
+      "title": "Vercelli, muore un paracadutista durante un lancio",
+      "eventKey": "vercelli-paracadutista-morto-lamporo",
       "pending": true
     },
     {
@@ -113,11 +140,11 @@
     "economia": {
       "base": 5,
       "reserve": 0,
-      "draft": 0,
+      "draft": 2,
       "complete": false
     },
     "cronaca": {
-      "base": 0,
+      "base": 4,
       "reserve": 0,
       "draft": 0,
       "complete": false
