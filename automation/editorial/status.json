@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-09",
-  "checkedAt": "2026-11-09T07:15:22.297Z",
+  "checkedAt": "2026-11-09T07:17:37.844Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -15,6 +15,7 @@
   ],
   "completed": [
     "economia",
+    "cronaca",
     "tecnologia",
     "sport"
   ],
@@ -26,10 +27,6 @@
     {
       "slug": "esteri",
       "count": 2
-    },
-    {
-      "slug": "cronaca",
-      "count": 4
     },
     {
       "slug": "roma",
@@ -69,34 +66,6 @@
       "category": "Esteri",
       "title": "Israele, Herzog incarica Eisenkot di formare il nuovo governo",
       "eventKey": "israele-herzog-incarico-governo-eisenkot-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "cronaca-trani-fratelli-aggressione-gestore",
-      "category": "Cronaca",
-      "title": "Trani, due fratelli si presentano dopo l'aggressione a un gestore",
-      "eventKey": "trani-fratelli-aggressione-gestore",
-      "pending": true
-    },
-    {
-      "id": "cronaca-trieste-dipiazza-dichiarazioni-proteste",
-      "category": "Cronaca",
-      "title": "Trieste, polemiche sulle parole del sindaco dopo gli scontri",
-      "eventKey": "trieste-dipiazza-dichiarazioni-proteste",
-      "pending": true
-    },
-    {
-      "id": "cronaca-monopoli-speleologa-salvata-grotta",
-      "category": "Cronaca",
-      "title": "Monopoli, speleologa recuperata da 120 metri di profondità",
-      "eventKey": "monopoli-speleologa-salvata-grotta",
-      "pending": true
-    },
-    {
-      "id": "cronaca-vercelli-paracadutista-morto-lamporo",
-      "category": "Cronaca",
-      "title": "Vercelli, muore un paracadutista durante un lancio",
-      "eventKey": "vercelli-paracadutista-morto-lamporo",
       "pending": true
     },
     {
@@ -156,6 +125,36 @@
       "category": "Economia",
       "title": "Banane latinoamericane, i produttori chiedono prezzi più equi",
       "eventKey": "banane-america-latina-clima-prezzi"
+    },
+    {
+      "id": "cronaca-trani-fratelli-aggressione-gestore",
+      "category": "Cronaca",
+      "title": "Trani, due fratelli si presentano dopo l'aggressione a un gestore",
+      "eventKey": "trani-fratelli-aggressione-gestore"
+    },
+    {
+      "id": "cronaca-trieste-dipiazza-dichiarazioni-proteste",
+      "category": "Cronaca",
+      "title": "Trieste, polemiche sulle parole del sindaco dopo gli scontri",
+      "eventKey": "trieste-dipiazza-dichiarazioni-proteste"
+    },
+    {
+      "id": "cronaca-monopoli-speleologa-salvata-grotta",
+      "category": "Cronaca",
+      "title": "Monopoli, speleologa recuperata da 120 metri di profondità",
+      "eventKey": "monopoli-speleologa-salvata-grotta"
+    },
+    {
+      "id": "cronaca-vercelli-paracadutista-morto-lamporo",
+      "category": "Cronaca",
+      "title": "Vercelli, muore un paracadutista durante un lancio",
+      "eventKey": "vercelli-paracadutista-morto-lamporo"
+    },
+    {
+      "id": "cronaca-milano-agente-ferita-rissa-largo-la-foppa",
+      "category": "Cronaca",
+      "title": "Milano, agente ferita durante una rissa nella zona della movida",
+      "eventKey": "milano-rissa-largo-la-foppa-agente-ferita-8-novembre-2026"
     },
     {
       "id": "tecnologia-agcom-viagogo-oasis",
@@ -251,7 +250,7 @@
       "complete": false
     },
     "cronaca": {
-      "base": 4,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
