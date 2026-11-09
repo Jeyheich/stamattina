@@ -91,10 +91,31 @@
         "dateEvidence": "Data in testa all'articolo: 08 nov 2026 - 16:43.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "cronaca-milano-agente-ferita-rissa-largo-la-foppa",
+      "eventKey": "milano-rissa-largo-la-foppa-agente-ferita-8-novembre-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Milano, agente ferita durante una rissa nella zona della movida",
+      "summary": "Un ventunenne è stato arrestato dopo aver ferito a una mano una poliziotta locale intervenuta in Largo La Foppa.",
+      "body": [
+        "Nella notte tra il 7 e l'8 novembre, una rissa fra giovani in Largo La Foppa ha richiesto l'intervento della polizia locale. Secondo Adnkronos, un ragazzo di 21 anni avrebbe estratto un coltello da cucina durante la colluttazione.",
+        "Un'agente è stata ferita a una mano e medicata con quattro punti di sutura. Il giovane è stato arrestato per resistenza aggravata e lesioni; altri due partecipanti sono stati denunciati per rissa."
+      ],
+      "publishedAt": "2026-11-08",
+      "verifiedAt": "2026-11-09T08:17:17+01:00",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/cronaca/milano-rissa-agente-ferita_5AGcG1M0vg7UQgGZrjI3zk",
+        "access": "free",
+        "accessCheckedAt": "2026-11-09T08:17:17+01:00",
+        "dateEvidence": "L'articolo Adnkronos mostra in testa 08 novembre 2026 | 10.46.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
   ],
   "reserveArticles": [],
   "reserveDraft": [],
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-09T05:14:07.610Z"
+  "completedAt": "2026-11-09T08:17:17+01:00"
 }
