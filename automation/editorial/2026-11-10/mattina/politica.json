@@ -4,7 +4,7 @@
   "collectionId": "2026-11-10-mattina",
   "category": "Politica",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-10T05:06:31.999Z",
+  "lastAttemptAt": "2026-11-10T07:10:09.329Z",
   "articles": [
     {
       "id": "politica-decreto-bollette-cdm-approvazione-9-novembre",
@@ -45,6 +45,27 @@
         "access": "free",
         "accessCheckedAt": "2026-11-10T05:06:31.999Z",
         "dateEvidence": "La pagina Sky TG24 indica esplicitamente 09 nov 2026 - 23:08 sotto il titolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-corte-conti-coperture-manovra-70-percento-10-novembre",
+      "eventKey": "corte-conti-audizione-coperture-manovra-2027",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Manovra, la Corte dei conti contesta le coperture temporanee",
+      "summary": "Nelle audizioni sulla legge di bilancio, la Corte dei conti ha contestato la prevalenza di coperture temporanee: secondo l'analisi riportata, il 70% delle entrate non è strutturale. I magistrati segnalano rischi per la sostenibilità delle misure negli esercizi successivi.",
+      "body": [
+        "Nelle audizioni sulla legge di bilancio, la Corte dei conti ha contestato la prevalenza di coperture temporanee: secondo l'analisi riportata, il 70% delle entrate non è strutturale. I magistrati segnalano rischi per la sostenibilità delle misure negli esercizi successivi."
+      ],
+      "publishedAt": "2026-11-10",
+      "verifiedAt": "2026-11-10T07:10:09.329Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/amp/articoli/2026/11/manovra-economica-le-critiche-della-corte-dei-conti-al-70-misure-una-tantum-4b772cf6-c70c-47df-9332-d5a0b854741b.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-10T07:10:09.329Z",
+        "dateEvidence": "La pagina integrale RaiNews riporta la data 10/11/2026 sopra il titolo della notizia.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }

@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-10",
-  "checkedAt": "2026-11-10T06:13:48.649Z",
+  "checkedAt": "2026-11-10T07:10:37.231Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -19,7 +19,7 @@
   "inProgress": [
     {
       "slug": "politica",
-      "count": 2
+      "count": 3
     },
     {
       "slug": "esteri",
@@ -61,6 +61,13 @@
       "category": "Politica",
       "title": "Aiuti all'Ucraina, la Lega smentisce la firma di Giorgetti",
       "eventKey": "giorgetti-firma-pacchetto-aiuti-ucraina-9-novembre",
+      "pending": true
+    },
+    {
+      "id": "politica-corte-conti-coperture-manovra-70-percento-10-novembre",
+      "category": "Politica",
+      "title": "Manovra, la Corte dei conti contesta le coperture temporanee",
+      "eventKey": "corte-conti-audizione-coperture-manovra-2027",
       "pending": true
     },
     {
@@ -165,7 +172,7 @@
   "photosAvailable": 0,
   "categoryProgress": {
     "politica": {
-      "base": 2,
+      "base": 3,
       "reserve": 0,
       "draft": 0,
       "complete": false
