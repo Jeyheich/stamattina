@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-10",
-  "checkedAt": "2026-11-10T05:18:08.633Z",
+  "checkedAt": "2026-11-10T06:10:01.010Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,7 +13,9 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [],
+  "completed": [
+    "tecnologia"
+  ],
   "inProgress": [
     {
       "slug": "politica",
@@ -30,13 +32,15 @@
     {
       "slug": "cronaca",
       "count": 1
+    },
+    {
+      "slug": "sport",
+      "count": 1
     }
   ],
   "missing": [
     "roma",
-    "cultura",
-    "tecnologia",
-    "sport"
+    "cultura"
   ],
   "invalid": [],
   "stories": [
@@ -74,6 +78,43 @@
       "title": "Palermo, petardi e motorini durante un corteo funebre in centro",
       "eventKey": "palermo-corteo-funebre-petardi-via-maqueda-9-novembre",
       "pending": true
+    },
+    {
+      "id": "sport-ricorso-galliani-commissione-figc-2026",
+      "category": "Sport",
+      "title": "FIGC, Galliani contesta la commissione per le candidature",
+      "eventKey": "ricorso-galliani-commissione-figc-2026",
+      "pending": true
+    },
+    {
+      "id": "tecnologia-meta-muse-ember-agenti-2026",
+      "category": "Tecnologia · AI",
+      "title": "Meta presenta Muse Ember, modello leggero per gli agenti AI",
+      "eventKey": "meta-muse-ember-agenti-2026"
+    },
+    {
+      "id": "tecnologia-ue-bozza-digital-fairness-act-2026",
+      "category": "Tecnologia · AI",
+      "title": "UE, nella bozza del Digital Fairness Act nuove tutele contro le interfacce ingannevoli",
+      "eventKey": "ue-bozza-digital-fairness-act-2026"
+    },
+    {
+      "id": "tecnologia-disney-adobe-firefly-foundry-accordo-2026",
+      "category": "Tecnologia · AI",
+      "title": "Disney e Adobe ampliano la collaborazione sull'intelligenza artificiale",
+      "eventKey": "disney-adobe-firefly-foundry-accordo-2026"
+    },
+    {
+      "id": "tecnologia-gta6-taketwo-sviluppo-completato-novembre-2026",
+      "category": "Tecnologia · AI",
+      "title": "GTA 6, Take-Two esclude nuovi rinvii e indica lo sviluppo come concluso",
+      "eventKey": "gta6-taketwo-sviluppo-completato-novembre-2026"
+    },
+    {
+      "id": "tecnologia-zelda-ocarina-remake-metacritic-96-2026",
+      "category": "Tecnologia · AI",
+      "title": "Il remake di Ocarina of Time guida la classifica critica citata da Everyeye",
+      "eventKey": "zelda-ocarina-remake-metacritic-96-2026"
     }
   ],
   "collectionId": "2026-11-10-mattina",
@@ -127,13 +168,13 @@
       "complete": false
     },
     "tecnologia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "sport": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false
