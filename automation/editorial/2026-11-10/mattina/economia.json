@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-10",
+  "collectionId": "2026-11-10-mattina",
+  "category": "Economia",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-10T05:16:27.397Z",
+  "articles": [
+    {
+      "id": "economia-boeing-tagli-personale-aerei-commerciali-novembre-2026",
+      "eventKey": "boeing-taglio-cinque-percento-organico-commerciale-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Boeing ridurrà del 5% il personale degli aerei commerciali",
+      "summary": "Il costruttore aeronautico annuncia una riduzione degli organici, fra licenziamenti e uscite naturali, mentre rallenta l'aumento della produzione.",
+      "body": [
+        "Boeing ha annunciato un taglio di circa il 5% della forza lavoro nella divisione degli aerei commerciali. La decisione segue la revisione dei ritmi produttivi, pensata per dare maggiore stabilità agli stabilimenti e ai fornitori.",
+        "Le comunicazioni sui licenziamenti inizieranno a dicembre. L'azienda aveva già rinviato alla seconda metà del 2027 l'obiettivo di aumentare la produzione mensile dei 737 Max da 47 a 52 unità."
+      ],
+      "publishedAt": "2026-11-09T19:11:00Z",
+      "verifiedAt": "2026-11-10T05:16:27.397Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce",
+        "access": "free",
+        "accessCheckedAt": "2026-11-10T05:16:27.397Z",
+        "dateEvidence": "La pagina indica Mon 9 Nov 2026 19.11 GMT, con ultima modifica alle 21.22 GMT.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
