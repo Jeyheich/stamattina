@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-10",
+  "collectionId": "2026-11-10-mattina",
+  "category": "Cultura · Teatro · Cinema",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-10T06:12:09.970Z",
+  "articles": [
+    {
+      "id": "cultura-kirill-petrenko-santa-cecilia-concerti-novembre-2026",
+      "eventKey": "kirill-petrenko-santa-cecilia-concerti-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Petrenko torna a Santa Cecilia con tre concerti dedicati alla musica tedesca",
+      "summary": "Il direttore Kirill Petrenko guiderà l'orchestra dell'Accademia di Santa Cecilia il 12, 13 e 14 novembre all'Auditorium Parco della Musica. Con il tenore Benjamin Bernheim, il programma comprende Hindemith, Strauss e Schumann.",
+      "body": [
+        "Il direttore Kirill Petrenko guiderà l'orchestra dell'Accademia di Santa Cecilia il 12, 13 e 14 novembre all'Auditorium Parco della Musica. Con il tenore Benjamin Bernheim, il programma comprende Hindemith, Strauss e Schumann."
+      ],
+      "publishedAt": "2026-11-09T17:42:00+01:00",
+      "verifiedAt": "2026-11-10T06:12:09.970Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/11/09/il-ritorno-di-kirill-petrenko-a-roma-serata-speciale-a-santa-cecilia_efa11e39-0e66-44bc-bd88-1457aa53ff13.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-10T06:12:09.970Z",
+        "dateEvidence": "La pagina ANSA riporta espressamente ROMA, 09 novembre 2026 e l'orario di pubblicazione 2026-11-09T17:42:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-dacia-maraini-novantanni-mostra-roma-novembre-2026",
+      "eventKey": "dacia-maraini-novantanni-mostra-roma-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Dacia Maraini, a Roma una mostra fotografica per i novant'anni",
+      "summary": "La Casa dell'Architettura ospiterà il 14 novembre un incontro con Dacia Maraini e una mostra di fotografie dal suo archivio privato. Il progetto accompagna il libro illustrato «Agro e dolce»; l'esposizione resterà aperta fino al 15 dicembre.",
+      "body": [
+        "La Casa dell'Architettura ospiterà il 14 novembre un incontro con Dacia Maraini e una mostra di fotografie dal suo archivio privato. Il progetto accompagna il libro illustrato «Agro e dolce»; l'esposizione resterà aperta fino al 15 dicembre."
+      ],
+      "publishedAt": "2026-11-09T17:49:00+01:00",
+      "verifiedAt": "2026-11-10T06:12:09.970Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://videoembed.ansa.it/sito/notizie/cultura/libri/approfondimenti/2026/11/09/dacia-maraini-fa-90-anni-una-mostra-fotografica-e-un-incontro-a-roma-per-festeggiarla_9be5f3ca-c435-44b7-9ad3-a903cebaf7e7.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-10T06:12:09.970Z",
+        "dateEvidence": "La pagina ANSA riporta espressamente ROMA, 09 novembre 2026 e l'orario di pubblicazione 2026-11-09T17:49:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}

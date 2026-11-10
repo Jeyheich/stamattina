@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-10",
+  "collectionId": "2026-11-10-mattina",
+  "category": "Roma",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-10T06:12:07.631Z",
+  "articles": [
+    {
+      "id": "roma-ama-raccolta-irregolare-nove-indagati-roma-2026",
+      "eventKey": "ama-raccolta-irregolare-nove-indagati-roma-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Roma, nove indagati per un presunto sistema di raccolta rifiuti fuori contratto",
+      "summary": "I carabinieri del Noe hanno notificato la conclusione delle indagini a sette persone e due società. Secondo l'accusa, mezzi e personale Ama sarebbero stati impiegati per raccogliere rifiuti di attività commerciali fuori dai percorsi autorizzati.",
+      "body": [
+        "I carabinieri del Noe hanno notificato la conclusione delle indagini a sette persone e due società. Secondo l'accusa, mezzi e personale Ama sarebbero stati impiegati per raccogliere rifiuti di attività commerciali fuori dai percorsi autorizzati."
+      ],
+      "publishedAt": "2026-11-09T17:03:00+01:00",
+      "verifiedAt": "2026-11-10T06:12:07.631Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/11/09/raccolta-rifiuti-per-ditte-fuori-contratto-nove-indagati-a-roma_40a017ca-7d08-4f05-aece-578ecafcdf80.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-10T06:12:07.631Z",
+        "dateEvidence": "La pagina ANSA riporta espressamente ROMA, 09 novembre 2026 e l'orario di pubblicazione 2026-11-09T17:03:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-turisti-canadesi-rapina-via-arenula-quattro-arresti-2026",
+      "eventKey": "turisti-canadesi-rapina-via-arenula-quattro-arresti-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Rapina a due turisti in via Arenula: quattro arresti",
+      "summary": "Una pattuglia dei carabinieri ha interrotto una rapina ai danni di due visitatori canadesi nel centro di Roma. La refurtiva è stata recuperata e restituita; una delle vittime ha riportato lievi graffi.",
+      "body": [
+        "Una pattuglia dei carabinieri ha interrotto una rapina ai danni di due visitatori canadesi nel centro di Roma. La refurtiva è stata recuperata e restituita; una delle vittime ha riportato lievi graffi."
+      ],
+      "publishedAt": "2026-11-09T12:18:00+01:00",
+      "verifiedAt": "2026-11-10T06:12:07.631Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/11/09/turisti-canadesi-accerchiati-e-rapinati-arrestati-quattro-giovani_ea51d0a5-5145-47ee-bcec-3801ed6ffed0.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-10T06:12:07.631Z",
+        "dateEvidence": "La pagina ANSA riporta espressamente ROMA, 09 novembre 2026 e l'orario di pubblicazione 2026-11-09T12:18:00+01:00.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}

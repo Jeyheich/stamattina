@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-10",
-  "checkedAt": "2026-11-10T06:11:16.904Z",
+  "checkedAt": "2026-11-10T06:12:33.101Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -34,14 +34,19 @@
       "count": 1
     },
     {
+      "slug": "roma",
+      "count": 2
+    },
+    {
+      "slug": "cultura",
+      "count": 2
+    },
+    {
       "slug": "sport",
       "count": 1
     }
   ],
-  "missing": [
-    "roma",
-    "cultura"
-  ],
+  "missing": [],
   "invalid": [],
   "stories": [
     {
@@ -77,6 +82,34 @@
       "category": "Cronaca",
       "title": "Palermo, petardi e motorini durante un corteo funebre in centro",
       "eventKey": "palermo-corteo-funebre-petardi-via-maqueda-9-novembre",
+      "pending": true
+    },
+    {
+      "id": "roma-ama-raccolta-irregolare-nove-indagati-roma-2026",
+      "category": "Roma",
+      "title": "Roma, nove indagati per un presunto sistema di raccolta rifiuti fuori contratto",
+      "eventKey": "ama-raccolta-irregolare-nove-indagati-roma-2026",
+      "pending": true
+    },
+    {
+      "id": "roma-turisti-canadesi-rapina-via-arenula-quattro-arresti-2026",
+      "category": "Roma",
+      "title": "Rapina a due turisti in via Arenula: quattro arresti",
+      "eventKey": "turisti-canadesi-rapina-via-arenula-quattro-arresti-2026",
+      "pending": true
+    },
+    {
+      "id": "cultura-kirill-petrenko-santa-cecilia-concerti-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Petrenko torna a Santa Cecilia con tre concerti dedicati alla musica tedesca",
+      "eventKey": "kirill-petrenko-santa-cecilia-concerti-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "cultura-dacia-maraini-novantanni-mostra-roma-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Dacia Maraini, a Roma una mostra fotografica per i novant'anni",
+      "eventKey": "dacia-maraini-novantanni-mostra-roma-novembre-2026",
       "pending": true
     },
     {
@@ -156,13 +189,13 @@
       "complete": false
     },
     "roma": {
-      "base": 0,
+      "base": 2,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cultura": {
-      "base": 0,
+      "base": 2,
       "reserve": 0,
       "draft": 0,
       "complete": false
