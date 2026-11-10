@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-10",
-  "checkedAt": "2026-11-10T07:10:37.231Z",
+  "checkedAt": "2026-11-10T07:18:01.797Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -27,11 +27,11 @@
     },
     {
       "slug": "economia",
-      "count": 1
+      "count": 3
     },
     {
       "slug": "cronaca",
-      "count": 1
+      "count": 2
     },
     {
       "slug": "roma",
@@ -85,10 +85,31 @@
       "pending": true
     },
     {
+      "id": "economia-boe-giovani-assunzioni-ferme-lombardelli-2026",
+      "category": "Economia",
+      "title": "Regno Unito, assunzioni ferme e giovani più esposti alla disoccupazione",
+      "eventKey": "boe-giovani-assunzioni-ferme-lombardelli-2026",
+      "pending": true
+    },
+    {
+      "id": "economia-industria-europea-concorrenza-cina-eskelund-2030",
+      "category": "Economia",
+      "title": "Industria europea, allarme sulla concorrenza cinese entro il 2030",
+      "eventKey": "industria-europea-concorrenza-cina-eskelund-2030",
+      "pending": true
+    },
+    {
       "id": "cronaca-palermo-corteo-funebre-petardi-via-maqueda-2026",
       "category": "Cronaca",
       "title": "Palermo, petardi e motorini durante un corteo funebre in centro",
       "eventKey": "palermo-corteo-funebre-petardi-via-maqueda-9-novembre",
+      "pending": true
+    },
+    {
+      "id": "cronaca-firenze-fuga-metano-piazza-alberti-evacuazioni-2026",
+      "category": "Cronaca",
+      "title": "Firenze, fuga di metano: evacuati per precauzione due condomini",
+      "eventKey": "firenze-fuga-metano-piazza-alberti-evacuazioni-2026",
       "pending": true
     },
     {
@@ -184,13 +205,13 @@
       "complete": false
     },
     "economia": {
-      "base": 1,
+      "base": 3,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cronaca": {
-      "base": 1,
+      "base": 2,
       "reserve": 0,
       "draft": 0,
       "complete": false

@@ -4,7 +4,7 @@
   "collectionId": "2026-11-10-mattina",
   "category": "Economia",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-10T05:16:27.397Z",
+  "lastAttemptAt": "2026-11-10T07:17:36.884Z",
   "articles": [
     {
       "id": "economia-boeing-tagli-personale-aerei-commerciali-novembre-2026",
@@ -25,6 +25,50 @@
         "access": "free",
         "accessCheckedAt": "2026-11-10T05:16:27.397Z",
         "dateEvidence": "La pagina indica Mon 9 Nov 2026 19.11 GMT, con ultima modifica alle 21.22 GMT.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-boe-giovani-assunzioni-ferme-lombardelli-2026",
+      "eventKey": "boe-giovani-assunzioni-ferme-lombardelli-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Regno Unito, assunzioni ferme e giovani più esposti alla disoccupazione",
+      "summary": "La vicegovernatrice della Bank of England Clare Lombardelli descrive un mercato del lavoro con poche assunzioni e pochi licenziamenti, che penalizza soprattutto chi cerca il primo impiego.",
+      "body": [
+        "Clare Lombardelli, vicegovernatrice della Bank of England, ha segnalato che molte imprese britanniche mantengono gli organici ma rinviano le nuove assunzioni a causa dell'incertezza economica e dei rincari energetici.",
+        "Secondo Lombardelli i giovani risentono particolarmente del blocco delle assunzioni, specie nei settori che offrono i primi impieghi, come commercio e ospitalità. La banca centrale valuterà nuovamente i tassi a dicembre."
+      ],
+      "publishedAt": "2026-11-10T06:00:00Z",
+      "verifiedAt": "2026-11-10T07:17:36.884Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/10/young-people-uk-economy-bank-of-england-clare-lombardelli",
+        "access": "free",
+        "accessCheckedAt": "2026-11-10T07:17:36.884Z",
+        "dateEvidence": "L'articolo originale del Guardian riporta Tue 10 Nov 2026 01.00 EST.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-industria-europea-concorrenza-cina-eskelund-2030",
+      "eventKey": "industria-europea-concorrenza-cina-eskelund-2030",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Industria europea, allarme sulla concorrenza cinese entro il 2030",
+      "summary": "Jens Eskelund, presidente della Camera di commercio UE in Cina, avverte che la pressione competitiva potrebbe spingere i produttori europei a integrarsi nelle filiere cinesi.",
+      "body": [
+        "Secondo Jens Eskelund, alla guida della Camera di commercio europea in Cina, alcune industrie europee rischiano di rinunciare a competere direttamente con le aziende cinesi entro la fine del decennio.",
+        "Eskelund propone di valutare una maggiore partecipazione alle catene di fornitura cinesi, mentre segnala i rischi per occupazione, industria automobilistica, chimica ed energie rinnovabili nell'Unione europea."
+      ],
+      "publishedAt": "2026-11-10T06:00:00Z",
+      "verifiedAt": "2026-11-10T07:17:36.884Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/10/eu-manufacturers-china-jens-eskelund",
+        "access": "free",
+        "accessCheckedAt": "2026-11-10T07:17:36.884Z",
+        "dateEvidence": "La pagina originale del Guardian indica Tue 10 Nov 2026 07.00 CET e modifica alle 07.02 CET.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }

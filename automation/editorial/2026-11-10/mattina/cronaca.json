@@ -4,7 +4,7 @@
   "collectionId": "2026-11-10-mattina",
   "category": "Cronaca",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-10T05:16:27.397Z",
+  "lastAttemptAt": "2026-11-10T07:17:39.446Z",
   "articles": [
     {
       "id": "cronaca-palermo-corteo-funebre-petardi-via-maqueda-2026",
@@ -25,6 +25,28 @@
         "access": "free",
         "accessCheckedAt": "2026-11-10T05:16:27.397Z",
         "dateEvidence": "La pagina Sky TG24 riporta la data 09 nov 2026 - 22:19, sopra il testo integrale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-firenze-fuga-metano-piazza-alberti-evacuazioni-2026",
+      "eventKey": "firenze-fuga-metano-piazza-alberti-evacuazioni-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Firenze, fuga di metano: evacuati per precauzione due condomini",
+      "summary": "I vigili del fuoco sono intervenuti in via Pasquale Villari, vicino a piazza Alberti, dopo il rilevamento di gas anche nelle fognature e negli ingressi degli edifici.",
+      "body": [
+        "A Firenze, una perdita di metano nella zona di piazza Alberti ha richiesto l'intervento dei vigili del fuoco nel pomeriggio del 9 novembre. I controlli hanno rilevato gas a livello stradale, nelle fognature e agli ingressi di due palazzi.",
+        "I residenti sono stati evacuati temporaneamente; sul posto sono intervenuti anche il nucleo Nbcr, la polizia locale e la protezione civile. Le famiglie sono rientrate al termine dell'intervento."
+      ],
+      "publishedAt": "2026-11-09T19:51:00+01:00",
+      "verifiedAt": "2026-11-10T07:17:39.445Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/09/fuga-gas-firenze-evacuati-condomini",
+        "access": "free",
+        "accessCheckedAt": "2026-11-10T07:17:39.445Z",
+        "dateEvidence": "La pagina Sky TG24 indica chiaramente 09 nov 2026 - 19:51 sopra il testo dell'articolo.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
