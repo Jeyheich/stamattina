@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-10",
+  "collectionId": "2026-11-10-mattina",
+  "category": "Sport",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-10T06:09:44.031Z",
+  "articles": [
+    {
+      "id": "sport-ricorso-galliani-commissione-figc-2026",
+      "eventKey": "ricorso-galliani-commissione-figc-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "FIGC, Galliani contesta la commissione per le candidature",
+      "summary": "Adriano Galliani ha presentato ricorso al Tribunale Federale Nazionale contro la commissione incaricata di verificare le candidature alla presidenza FIGC. La controversia riguarda anche le firme del Genoa a sostegno dei candidati; le elezioni sono previste il 14 dicembre.",
+      "body": [
+        "Adriano Galliani ha presentato ricorso al Tribunale Federale Nazionale contro la commissione incaricata di verificare le candidature alla presidenza FIGC. La controversia riguarda anche le firme del Genoa a sostegno dei candidati; le elezioni sono previste il 14 dicembre."
+      ],
+      "publishedAt": "2026-11-10",
+      "verifiedAt": "2026-11-10T06:09:44.031Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/11/10/elezioni-figc-malago-galliani-ricorso-tribunale-federale",
+        "access": "free",
+        "accessCheckedAt": "2026-11-10T06:09:44.031Z",
+        "dateEvidence": "Nella pagina Sky Sport compare la data 10 nov 2026, ore 00:30.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": []
+}
