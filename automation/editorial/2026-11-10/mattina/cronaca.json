@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-10",
+  "collectionId": "2026-11-10-mattina",
+  "category": "Cronaca",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-10T05:16:27.397Z",
+  "articles": [
+    {
+      "id": "cronaca-palermo-corteo-funebre-petardi-via-maqueda-2026",
+      "eventKey": "palermo-corteo-funebre-petardi-via-maqueda-9-novembre",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Palermo, petardi e motorini durante un corteo funebre in centro",
+      "summary": "Un corteo di circa cento persone ha attraversato via Maqueda per il funerale di Emanuele Rubino; la polizia municipale è intervenuta e il sindaco ha criticato l'episodio.",
+      "body": [
+        "A Palermo, un corteo funebre per Emanuele Rubino ha attraversato via Maqueda fra petardi e motorini rumorosi, attirando l'attenzione di residenti e turisti. Gli agenti municipali sono intervenuti per evitare che la manifestazione proseguisse oltre i Quattro Canti.",
+        "Il sindaco Roberto Lagalla ha condannato comportamenti che compromettono la percezione di sicurezza negli spazi cittadini. Alcuni parlamentari dell'opposizione hanno annunciato un'interrogazione al governo."
+      ],
+      "publishedAt": "2026-11-09T22:19:00+01:00",
+      "verifiedAt": "2026-11-10T05:16:27.397Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/09/palermo-corteo-funebre-pregiudicato",
+        "access": "free",
+        "accessCheckedAt": "2026-11-10T05:16:27.397Z",
+        "dateEvidence": "La pagina Sky TG24 riporta la data 09 nov 2026 - 22:19, sopra il testo integrale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}

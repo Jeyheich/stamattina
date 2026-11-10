@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-10",
-  "checkedAt": "2026-11-10T05:08:15.646Z",
+  "checkedAt": "2026-11-10T05:16:52.816Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -22,11 +22,17 @@
     {
       "slug": "esteri",
       "count": 1
+    },
+    {
+      "slug": "economia",
+      "count": 1
+    },
+    {
+      "slug": "cronaca",
+      "count": 1
     }
   ],
   "missing": [
-    "economia",
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -53,6 +59,20 @@
       "category": "Esteri",
       "title": "Francia, indagine su presunti sabotaggi informatici legati all'Iran",
       "eventKey": "francia-indagine-cyberattacchi-frigoriferi-iran-9-novembre",
+      "pending": true
+    },
+    {
+      "id": "economia-boeing-tagli-personale-aerei-commerciali-novembre-2026",
+      "category": "Economia",
+      "title": "Boeing ridurrà del 5% il personale degli aerei commerciali",
+      "eventKey": "boeing-taglio-cinque-percento-organico-commerciale-2026",
+      "pending": true
+    },
+    {
+      "id": "cronaca-palermo-corteo-funebre-petardi-via-maqueda-2026",
+      "category": "Cronaca",
+      "title": "Palermo, petardi e motorini durante un corteo funebre in centro",
+      "eventKey": "palermo-corteo-funebre-petardi-via-maqueda-9-novembre",
       "pending": true
     }
   ],
@@ -83,13 +103,13 @@
       "complete": false
     },
     "economia": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cronaca": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false
