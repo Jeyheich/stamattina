@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-10",
+  "collectionId": "2026-11-10-mattina",
+  "category": "Politica",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-10T05:06:31.999Z",
+  "articles": [
+    {
+      "id": "politica-decreto-bollette-cdm-approvazione-9-novembre",
+      "eventKey": "decreto-bollette-cdm-approvazione-9-novembre",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Il governo approva il decreto Bollette dopo due rinvii",
+      "summary": "Il Consiglio dei ministri ha approvato il decreto Bollette, che introduce misure temporanee per contenere i costi di elettricità e gas. Il governo indica una riduzione media stimata di circa 15 euro per megawattora da gennaio, ma precisa che gli effetti non saranno immediati.",
+      "body": [
+        "Il Consiglio dei ministri ha approvato il decreto Bollette, che introduce misure temporanee per contenere i costi di elettricità e gas. Il governo indica una riduzione media stimata di circa 15 euro per megawattora da gennaio, ma precisa che gli effetti non saranno immediati."
+      ],
+      "publishedAt": "2026-11-09T21:11:00+01:00",
+      "verifiedAt": "2026-11-10T05:06:31.999Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/11/09/decreto-bollette-cdm-oggi",
+        "access": "free",
+        "accessCheckedAt": "2026-11-10T05:06:31.999Z",
+        "dateEvidence": "La pagina Sky TG24 indica esplicitamente 09 nov 2026 - 21:11 sotto il titolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-giorgetti-firma-pacchetto-aiuti-ucraina-9-novembre",
+      "eventKey": "giorgetti-firma-pacchetto-aiuti-ucraina-9-novembre",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Aiuti all'Ucraina, la Lega smentisce la firma di Giorgetti",
+      "summary": "Fonti della Lega affermano che il ministro dell'Economia non ha firmato il tredicesimo pacchetto di aiuti all'Ucraina, destinato all'esame del Copasir il 10 novembre. La precisazione contraddice un precedente annuncio del ministro degli Esteri Tajani; secondo le stesse fonti Giorgetti era impegnato a Bruxelles.",
+      "body": [
+        "Fonti della Lega affermano che il ministro dell'Economia non ha firmato il tredicesimo pacchetto di aiuti all'Ucraina, destinato all'esame del Copasir il 10 novembre. La precisazione contraddice un precedente annuncio del ministro degli Esteri Tajani; secondo le stesse fonti Giorgetti era impegnato a Bruxelles."
+      ],
+      "publishedAt": "2026-11-09T23:08:00+01:00",
+      "verifiedAt": "2026-11-10T05:06:31.999Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/11/09/ucraina-aiuti-giorgetti",
+        "access": "free",
+        "accessCheckedAt": "2026-11-10T05:06:31.999Z",
+        "dateEvidence": "La pagina Sky TG24 indica esplicitamente 09 nov 2026 - 23:08 sotto il titolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}

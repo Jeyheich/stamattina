@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-10",
+  "collectionId": "2026-11-10-mattina",
+  "category": "Esteri",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-10T05:06:31.999Z",
+  "articles": [
+    {
+      "id": "esteri-francia-indagine-cyberattacchi-frigoriferi-iran-9-novembre",
+      "eventKey": "francia-indagine-cyberattacchi-frigoriferi-iran-9-novembre",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Francia, indagine su presunti sabotaggi informatici legati all'Iran",
+      "summary": "La procura di Parigi indaga sui cyberattacchi che hanno compromesso la refrigerazione in centinaia di supermercati a ottobre. Gli investigatori sospettano il gruppo Shahid Kaveh, legato ai Guardiani della rivoluzione iraniani, e hanno richiesto mandati di arresto internazionali. L'attribuzione è riferita dalle autorità francesi nell'ambito di un'inchiesta.",
+      "body": [
+        "La procura di Parigi indaga sui cyberattacchi che hanno compromesso la refrigerazione in centinaia di supermercati a ottobre. Gli investigatori sospettano il gruppo Shahid Kaveh, legato ai Guardiani della rivoluzione iraniani, e hanno richiesto mandati di arresto internazionali. L'attribuzione è riferita dalle autorità francesi nell'ambito di un'inchiesta."
+      ],
+      "publishedAt": "2026-11-09",
+      "verifiedAt": "2026-11-10T05:06:31.999Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/esteri-europa-francia-attacchi-hacker-informatici-cyberattacchi-supermercati-frigoriferi-procura-parigi-indaga-su-iran-45842f59-a5e2-4b49-8b8a-8973545c8cb6.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-10T05:06:31.999Z",
+        "dateEvidence": "La pagina RaiNews riporta 09/11/2026 immediatamente sotto titolo e sommario.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
