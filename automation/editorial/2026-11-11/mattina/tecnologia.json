@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-11",
+  "collectionId": "2026-11-11-mattina",
+  "category": "Tecnologia · AI",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-11T06:01:57.603Z",
+  "articles": [
+    {
+      "id": "tecnologia-binance-vulnerabilita-ios-wallet",
+      "eventKey": "binance-segnalazione-vulnerabilita-ios-wallet-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Binance segnala un rischio per i wallet su alcune versioni di iOS",
+      "summary": "Binance ha avvertito che una vulnerabilità chiamata worse_query potrebbe consentire a un'app di leggere dati di altre applicazioni, comprese chiavi e credenziali dei wallet. Non risultano attacchi confermati e non è chiaro se Apple abbia già corretto il problema.",
+      "body": [
+        "Binance ha avvertito che una vulnerabilità chiamata worse_query potrebbe consentire a un'app di leggere dati di altre applicazioni, comprese chiavi e credenziali dei wallet. Non risultano attacchi confermati e non è chiaro se Apple abbia già corretto il problema."
+      ],
+      "publishedAt": "2026-11-10",
+      "verifiedAt": "2026-11-11T06:01:57.603Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/binance-avvisa-bug-ios-permette-accesso-wallet/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T06:01:57.603Z",
+        "dateEvidence": "La pagina dell'articolo mostra esplicitamente 'Pubblicato il 10 nov 2026'.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-gemini-carbon-accesso-ampliato",
+      "eventKey": "google-gemini-4-carbon-accesso-ampliato-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Google amplia l'accesso al modello Gemini 4 Carbon",
+      "summary": "Dopo una fase limitata a poche organizzazioni, Google ha esteso l'accesso al modello Gemini 4 Carbon a sviluppatori e altri utenti secondo canali e piani differenti. L'annuncio comprende funzionalità per attività agentiche e programmazione.",
+      "body": [
+        "Dopo una fase limitata a poche organizzazioni, Google ha esteso l'accesso al modello Gemini 4 Carbon a sviluppatori e altri utenti secondo canali e piani differenti. L'annuncio comprende funzionalità per attività agentiche e programmazione."
+      ],
+      "publishedAt": "2026-11-10",
+      "verifiedAt": "2026-11-11T06:01:57.603Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/google-gemini-4-carbon-disponibile-tutti/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T06:01:57.603Z",
+        "dateEvidence": "La pagina originale riporta in calce 'Pubblicato il 10 nov 2026'.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-chrome-incognito-controllo-antiphishing",
+      "eventKey": "chrome-incognito-safe-browsing-tempo-reale-test-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Chrome sperimenta controlli anti-phishing in tempo reale anche in Incognito",
+      "summary": "Google sta sviluppando una verifica in tempo reale dei siti per la navigazione in Incognito, che oggi può affidarsi a elenchi locali. La funzione è sperimentale, disattivata per impostazione predefinita e senza data di rilascio annunciata.",
+      "body": [
+        "Google sta sviluppando una verifica in tempo reale dei siti per la navigazione in Incognito, che oggi può affidarsi a elenchi locali. La funzione è sperimentale, disattivata per impostazione predefinita e senza data di rilascio annunciata."
+      ],
+      "publishedAt": "2026-11-10",
+      "verifiedAt": "2026-11-11T06:01:57.603Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/chrome-anche-incognito-scudo-anti-truffa/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T06:01:57.603Z",
+        "dateEvidence": "Il testo integrale indica 'Pubblicato il 10 nov 2026' in fondo all'articolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
