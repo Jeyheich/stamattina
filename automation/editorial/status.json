@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-11",
-  "checkedAt": "2026-11-11T07:19:49.988Z",
+  "checkedAt": "2026-11-11T14:06:45.568Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,134 +14,20 @@
     "sport"
   ],
   "completed": [],
-  "inProgress": [
-    {
-      "slug": "politica",
-      "count": 2
-    },
-    {
-      "slug": "esteri",
-      "count": 1
-    },
-    {
-      "slug": "economia",
-      "count": 2
-    },
-    {
-      "slug": "cronaca",
-      "count": 2
-    },
-    {
-      "slug": "cultura",
-      "count": 2
-    },
-    {
-      "slug": "tecnologia",
-      "count": 3
-    },
-    {
-      "slug": "sport",
-      "count": 1
-    }
-  ],
+  "inProgress": [],
   "missing": [
-    "roma"
+    "politica",
+    "esteri",
+    "economia",
+    "cronaca",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
   ],
   "invalid": [],
-  "stories": [
-    {
-      "id": "politica-vertice-maggioranza-manovra-novembre",
-      "category": "Politica",
-      "title": "Manovra, Tajani e Salvini chiedono un confronto sulle modifiche",
-      "eventKey": "vertice-maggioranza-modifiche-manovra-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "politica-meloni-aiuti-ucraina-firma-giorgetti",
-      "category": "Politica",
-      "title": "Aiuti all'Ucraina, Meloni esclude un cambio di linea del governo",
-      "eventKey": "meloni-chiarimento-firma-giorgetti-aiuti-ucraina-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "esteri-colloqui-abu-dhabi-russia-ucraina-usa",
-      "category": "Esteri",
-      "title": "Russia, Ucraina e Stati Uniti al tavolo di Abu Dhabi",
-      "eventKey": "colloqui-trilaterali-abu-dhabi-russia-ucraina-usa-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "economia-mercato-elettrico-ue-regno-unito-contributi-2026",
-      "category": "Economia",
-      "title": "Londra apre al confronto sui contributi per il mercato elettrico europeo",
-      "eventKey": "mercato-elettrico-ue-regno-unito-contributi-2026",
-      "pending": true
-    },
-    {
-      "id": "economia-progetto-petrolifero-sea-lion-falkland-tribunale-2026",
-      "category": "Economia",
-      "title": "Petrolio alle Falkland, Regno Unito e Argentina davanti al tribunale",
-      "eventKey": "progetto-petrolifero-sea-lion-falkland-tribunale-2026",
-      "pending": true
-    },
-    {
-      "id": "cronaca-rinvio-giudizio-irene-pivetti-bancarotta-2026",
-      "category": "Cronaca",
-      "title": "Bancarotta, Irene Pivetti rinviata a giudizio a Roma",
-      "eventKey": "rinvio-giudizio-irene-pivetti-bancarotta-2026",
-      "pending": true
-    },
-    {
-      "id": "cronaca-eternit-bis-cassazione-nuovo-appello-schmidheiny-2026",
-      "category": "Cronaca",
-      "title": "Eternit bis, la Cassazione ordina un nuovo processo d'appello",
-      "eventKey": "eternit-bis-cassazione-nuovo-appello-schmidheiny-2026",
-      "pending": true
-    },
-    {
-      "id": "cultura-romaeuropa-opera-ballet-vlaanderen-costanzi-2026",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Tre coreografie fiamminghe al Costanzi per Romaeuropa",
-      "eventKey": "romaeuropa-opera-ballet-vlaanderen-trittico-costanzi-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "cultura-starman-pietro-giannini-romaeuropa-2026",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Starman al Vascello, Pietro Giannini mette in scena il potere",
-      "eventKey": "starman-pietro-giannini-romaeuropa-vascello-2026",
-      "pending": true
-    },
-    {
-      "id": "tecnologia-binance-vulnerabilita-ios-wallet",
-      "category": "Tecnologia · AI",
-      "title": "Binance segnala un rischio per i wallet su alcune versioni di iOS",
-      "eventKey": "binance-segnalazione-vulnerabilita-ios-wallet-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "tecnologia-gemini-carbon-accesso-ampliato",
-      "category": "Tecnologia · AI",
-      "title": "Google amplia l'accesso al modello Gemini 4 Carbon",
-      "eventKey": "google-gemini-4-carbon-accesso-ampliato-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "tecnologia-chrome-incognito-controllo-antiphishing",
-      "category": "Tecnologia · AI",
-      "title": "Chrome sperimenta controlli anti-phishing in tempo reale anche in Incognito",
-      "eventKey": "chrome-incognito-safe-browsing-tempo-reale-test-2026",
-      "pending": true
-    },
-    {
-      "id": "sport-mctominay-racconta-aritmia",
-      "category": "Sport",
-      "title": "McTominay racconta il problema cardiaco affrontato prima del Mondiale",
-      "eventKey": "mctominay-racconto-problema-cardiaco-prima-mondiale-2026",
-      "pending": true
-    }
-  ],
-  "collectionId": "2026-11-11-mattina",
+  "stories": [],
+  "collectionId": "2026-11-11-pomeriggio",
   "reserveCounts": {
     "Politica": 0,
     "Esteri": 0,
@@ -156,25 +42,25 @@
   "photosAvailable": 0,
   "categoryProgress": {
     "politica": {
-      "base": 2,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "esteri": {
-      "base": 1,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "economia": {
-      "base": 2,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cronaca": {
-      "base": 2,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
@@ -186,19 +72,19 @@
       "complete": false
     },
     "cultura": {
-      "base": 2,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "tecnologia": {
-      "base": 3,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "sport": {
-      "base": 1,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
