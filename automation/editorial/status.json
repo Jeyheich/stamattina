@@ -1,9 +1,10 @@
 {
   "editionDate": "2026-11-11",
-  "checkedAt": "2026-11-11T14:06:45.568Z",
-  "ready": false,
-  "editorialComplete": false,
-  "reserveMissing": [
+  "checkedAt": "2026-11-11T14:11:25.388Z",
+  "ready": true,
+  "editorialComplete": true,
+  "reserveMissing": [],
+  "completed": [
     "politica",
     "esteri",
     "economia",
@@ -13,85 +14,583 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [],
   "inProgress": [],
-  "missing": [
-    "politica",
-    "esteri",
-    "economia",
-    "cronaca",
-    "roma",
-    "cultura",
-    "tecnologia",
-    "sport"
-  ],
+  "missing": [],
   "invalid": [],
-  "stories": [],
-  "collectionId": "2026-11-11-pomeriggio",
+  "stories": [
+    {
+      "id": "politica-meloni-aiuti-ucraina-firma-giorgetti",
+      "category": "Politica",
+      "title": "Aiuti all’Ucraina, Meloni conferma la linea del governo",
+      "eventKey": "meloni-chiarimento-firma-giorgetti-aiuti-ucraina-novembre-2026"
+    },
+    {
+      "id": "politica-vertice-maggioranza-manovra-novembre",
+      "category": "Politica",
+      "title": "Manovra economica, Tajani e Salvini chiedono a Meloni un vertice per definire le modifiche",
+      "eventKey": "vertice-maggioranza-modifiche-manovra-novembre-2026"
+    },
+    {
+      "id": "politica-legge-di-bilancio-audizioni-parlamentari-critiche-dall-abi-e-mobilitaz",
+      "category": "Politica",
+      "title": "Legge di bilancio, audizioni parlamentari: critiche dall'Abi e mobilitazione sindacale",
+      "eventKey": "legge-di-bilancio-audizioni-parlamentari-critiche-dall-abi-e-mobilitazione-sindacale"
+    },
+    {
+      "id": "politica-manovra-e-bollo-auto-meloni-lancia-serie-video-per-rivendicare-i-rispa",
+      "category": "Politica",
+      "title": "Manovra e bollo auto, Meloni lancia serie video per rivendicare i risparmi per i cittadini",
+      "eventKey": "manovra-e-bollo-auto-meloni-lancia-serie-video-per-rivendicare-i-risparmi-per-i-cittadini"
+    },
+    {
+      "id": "politica-sondaggio-youtrend-per-sky-tg24-cala-il-distacco-tra-fdi-e-pd-promossa",
+      "category": "Politica",
+      "title": "Sondaggio YouTrend per Sky TG24: cala il distacco tra FdI e PD, promossa la cancellazione del bollo",
+      "eventKey": "sondaggio-youtrend-per-sky-tg24-cala-il-distacco-tra-fdi-e-pd-promossa-la-cancellazione-del-bol"
+    },
+    {
+      "id": "esteri-colloqui-abu-dhabi-russia-ucraina-usa",
+      "category": "Esteri",
+      "title": "Ad Abu Dhabi i colloqui trilaterali tra Russia, Ucraina e Stati Uniti",
+      "eventKey": "colloqui-trilaterali-abu-dhabi-russia-ucraina-usa-novembre-2026"
+    },
+    {
+      "id": "esteri-suv-travolge-la-folla-vicino-alla-metro-di-north-hollywood-a-los-angel",
+      "category": "Esteri",
+      "title": "Suv travolge la folla vicino alla metro di North Hollywood a Los Angeles: tre vittime",
+      "eventKey": "suv-travolge-la-folla-vicino-alla-metro-di-north-hollywood-a-los-angeles-tre-vittime"
+    },
+    {
+      "id": "esteri-scontro-e-tensioni-alla-knesset-durante-il-discorso-di-netanyahu",
+      "category": "Esteri",
+      "title": "Scontro e tensioni alla Knesset durante il discorso di Netanyahu",
+      "eventKey": "scontro-e-tensioni-alla-knesset-durante-il-discorso-di-netanyahu"
+    },
+    {
+      "id": "esteri-operazione-dell-fsb-a-kaliningrad-contro-una-presunta-rete-di-spionagg",
+      "category": "Esteri",
+      "title": "Operazione dell'FSB a Kaliningrad contro una presunta rete di spionaggio polacca",
+      "eventKey": "operazione-dell-fsb-a-kaliningrad-contro-una-presunta-rete-di-spionaggio-polacca"
+    },
+    {
+      "id": "esteri-raid-di-droni-ucraini-sul-porto-di-ust-luga-vasto-rogo-sul-mar-baltico",
+      "category": "Esteri",
+      "title": "Raid di droni ucraini sul porto di Ust-Luga: vasto rogo sul Mar Baltico",
+      "eventKey": "raid-di-droni-ucraini-sul-porto-di-ust-luga-vasto-rogo-sul-mar-baltico"
+    },
+    {
+      "id": "economia-mercato-elettrico-ue-regno-unito-contributi-2026",
+      "category": "Economia",
+      "title": "Londra apre al confronto sui contributi per il mercato elettrico europeo",
+      "eventKey": "mercato-elettrico-ue-regno-unito-contributi-2026"
+    },
+    {
+      "id": "economia-progetto-petrolifero-sea-lion-falkland-tribunale-2026",
+      "category": "Economia",
+      "title": "Petrolio alle Falkland, Regno Unito e Argentina davanti al tribunale",
+      "eventKey": "progetto-petrolifero-sea-lion-falkland-tribunale-2026"
+    },
+    {
+      "id": "economia-jersey-electricity-annuncia-un-aumento-delle-tariffe-da-marzo",
+      "category": "Economia",
+      "title": "Jersey Electricity annuncia un aumento delle tariffe da marzo",
+      "eventKey": "jersey-electricity-annuncia-un-aumento-delle-tariffe-da-marzo"
+    },
+    {
+      "id": "economia-poundland-tratta-un-salvataggio-in-extremis-per-evitare-il-crac",
+      "category": "Economia",
+      "title": "Poundland tratta un salvataggio in extremis per evitare il crac",
+      "eventKey": "poundland-tratta-un-salvataggio-in-extremis-per-evitare-il-crac"
+    },
+    {
+      "id": "economia-aldi-taglia-centinaia-di-impieghi-di-sede-e-logistica-nel-regno-unito",
+      "category": "Economia",
+      "title": "Aldi taglia centinaia di impieghi di sede e logistica nel Regno Unito",
+      "eventKey": "aldi-taglia-centinaia-di-impieghi-di-sede-e-logistica-nel-regno-unito"
+    },
+    {
+      "id": "cronaca-eternit-bis-cassazione-nuovo-appello-schmidheiny-2026",
+      "category": "Cronaca",
+      "title": "Eternit bis: la Cassazione dispone un nuovo processo d'appello per Schmidheiny",
+      "eventKey": "eternit-bis-cassazione-nuovo-appello-schmidheiny-2026"
+    },
+    {
+      "id": "cronaca-rinvio-giudizio-irene-pivetti-bancarotta-2026",
+      "category": "Cronaca",
+      "title": "Bancarotta fraudolenta: rinvio a giudizio a Roma per Irene Pivetti",
+      "eventKey": "rinvio-giudizio-irene-pivetti-bancarotta-2026"
+    },
+    {
+      "id": "cronaca-allarme-bomba-via-email-in-migliaia-di-scuole-italiane-verifiche-in-co",
+      "category": "Cronaca",
+      "title": "Allarme bomba via email in migliaia di scuole italiane: verifiche in corso",
+      "eventKey": "allarme-bomba-via-email-in-migliaia-di-scuole-italiane-verifiche-in-corso"
+    },
+    {
+      "id": "cronaca-strage-di-viareggio-concessi-i-domiciliari-all-ex-ad-di-ferrovie-mauro",
+      "category": "Cronaca",
+      "title": "Strage di Viareggio: concessi i domiciliari all'ex ad di Ferrovie Mauro Moretti",
+      "eventKey": "strage-di-viareggio-concessi-i-domiciliari-all-ex-ad-di-ferrovie-mauro-moretti"
+    },
+    {
+      "id": "cronaca-assalto-armato-con-esplosivo-a-un-portavalori-sulla-statale-16-nel-fog",
+      "category": "Cronaca",
+      "title": "Assalto armato con esplosivo a un portavalori sulla statale 16 nel Foggiano",
+      "eventKey": "assalto-armato-con-esplosivo-a-un-portavalori-sulla-statale-16-nel-foggiano"
+    },
+    {
+      "id": "roma-il-municipio-vii-pubblica-una-mappa-dei-cantieri-e-dei-progetti",
+      "category": "Roma",
+      "title": "Il Municipio VII pubblica una mappa dei cantieri e dei progetti",
+      "eventKey": "il-municipio-vii-pubblica-una-mappa-dei-cantieri-e-dei-progetti"
+    },
+    {
+      "id": "roma-pratone-di-via-teulada-dopo-lo-stop-del-tar-la-vicenda-approda-in-parl",
+      "category": "Roma",
+      "title": "Pratone di via Teulada: dopo lo stop del TAR la vicenda approda in Parlamento",
+      "eventKey": "pratone-di-via-teulada-dopo-lo-stop-del-tar-la-vicenda-approda-in-parlamento"
+    },
+    {
+      "id": "roma-diritto-all-abitare-blitz-simbolico-nel-lussuoso-albergo-di-via-delle-",
+      "category": "Roma",
+      "title": "Diritto all'abitare: blitz simbolico nel lussuoso albergo di via delle Botteghe Oscure",
+      "eventKey": "diritto-all-abitare-blitz-simbolico-nel-lussuoso-albergo-di-via-delle-botteghe-oscure"
+    },
+    {
+      "id": "roma-ostia-al-grassi-apre-un-ambulatorio-per-le-gravidanze-a-basso-rischio",
+      "category": "Roma",
+      "title": "Ostia, al Grassi apre un ambulatorio per le gravidanze a basso rischio",
+      "eventKey": "ostia-al-grassi-apre-un-ambulatorio-per-le-gravidanze-a-basso-rischio"
+    },
+    {
+      "id": "roma-roma-est-sequestrati-4-5-chili-di-cocaina-in-due-interventi",
+      "category": "Roma",
+      "title": "Roma Est, sequestrati 4,5 chili di cocaina in due interventi",
+      "eventKey": "roma-est-sequestrati-4-5-chili-di-cocaina-in-due-interventi"
+    },
+    {
+      "id": "cultura-starman-pietro-giannini-romaeuropa-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Al Romaeuropa Festival debutta Starman di Pietro Giannini",
+      "eventKey": "starman-pietro-giannini-romaeuropa-vascello-2026"
+    },
+    {
+      "id": "cultura-romaeuropa-opera-ballet-vlaanderen-costanzi-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Trittico coreografico fiammingo al Teatro Costanzi per Romaeuropa",
+      "eventKey": "romaeuropa-opera-ballet-vlaanderen-trittico-costanzi-novembre-2026"
+    },
+    {
+      "id": "cultura-addio-a-stacy-keach-celebre-interprete-del-detective-mike-hammer",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Addio a Stacy Keach, celebre interprete del detective Mike Hammer",
+      "eventKey": "addio-a-stacy-keach-celebre-interprete-del-detective-mike-hammer"
+    },
+    {
+      "id": "cultura-al-via-il-carbonia-film-festival-nel-sulcis-tra-cinema-civile-e-musica",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Al via il Carbonia Film Festival nel Sulcis tra cinema civile e musica",
+      "eventKey": "al-via-il-carbonia-film-festival-nel-sulcis-tra-cinema-civile-e-musica"
+    },
+    {
+      "id": "cultura-il-musical-c-era-una-volta-scugnizzi-approda-al-teatro-sistina",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Il musical C'era una volta... Scugnizzi approda al Teatro Sistina",
+      "eventKey": "il-musical-c-era-una-volta-scugnizzi-approda-al-teatro-sistina"
+    },
+    {
+      "id": "tecnologia-binance-vulnerabilita-ios-wallet",
+      "category": "Tecnologia · AI",
+      "title": "Vulnerabilità su iOS: Binance mette in guardia sui rischi per i crypto-wallet",
+      "eventKey": "binance-segnalazione-vulnerabilita-ios-wallet-novembre-2026"
+    },
+    {
+      "id": "tecnologia-chrome-incognito-controllo-antiphishing",
+      "category": "Tecnologia · AI",
+      "title": "Chrome sperimenta controlli anti-phishing in modalità Incognito",
+      "eventKey": "chrome-incognito-safe-browsing-tempo-reale-test-2026"
+    },
+    {
+      "id": "tecnologia-gemini-carbon-accesso-ampliato",
+      "category": "Tecnologia · AI",
+      "title": "Google amplia la disponibilità del modello Gemini 4 Carbon",
+      "eventKey": "google-gemini-4-carbon-accesso-ampliato-novembre-2026"
+    },
+    {
+      "id": "tecnologia-playstation-5-tocca-il-traguardo-delle-100-milioni-di-console-distribu",
+      "category": "Tecnologia · AI",
+      "title": "PlayStation 5 tocca il traguardo delle 100 milioni di console distribuite",
+      "eventKey": "playstation-5-tocca-il-traguardo-delle-100-milioni-di-console-distribuite"
+    },
+    {
+      "id": "tecnologia-sony-annuncia-la-collector-s-edition-di-god-of-war-laufey-senza-copia-",
+      "category": "Tecnologia · AI",
+      "title": "Sony annuncia la Collector's Edition di God of War Laufey senza copia del gioco",
+      "eventKey": "sony-annuncia-la-collector-s-edition-di-god-of-war-laufey-senza-copia-del-gioco"
+    },
+    {
+      "id": "sport-mctominay-racconta-aritmia",
+      "category": "Sport",
+      "title": "McTominay racconta l’aritmia affrontata prima del Mondiale",
+      "eventKey": "mctominay-racconto-problema-cardiaco-prima-mondiale-2026"
+    },
+    {
+      "id": "sport-wta-finals-errani-e-paolini-firmano-la-rimonta-e-volano-in-semifinale",
+      "category": "Sport",
+      "title": "WTA Finals: Errani e Paolini firmano la rimonta e volano in semifinale",
+      "eventKey": "wta-finals-errani-e-paolini-firmano-la-rimonta-e-volano-in-semifinale"
+    },
+    {
+      "id": "sport-mbappe-salta-lallenamento-alla-vigilia-di-italia-francia",
+      "category": "Sport",
+      "title": "Mbappé salta l’allenamento alla vigilia di Italia-Francia",
+      "eventKey": "mbappe-salta-lallenamento-alla-vigilia-di-italia-francia"
+    },
+    {
+      "id": "sport-sinner-frena-sul-recupero-nessuna-data-certa-per-il-rientro-in-campo",
+      "category": "Sport",
+      "title": "Sinner frena sul recupero: nessuna data certa per il rientro in campo",
+      "eventKey": "sinner-frena-sul-recupero-nessuna-data-certa-per-il-rientro-in-campo"
+    },
+    {
+      "id": "sport-lutto-nel-calcio-si-e-spento-a-98-anni-luciano-tessari-ex-portiere-e-v",
+      "category": "Sport",
+      "title": "Lutto nel calcio: si è spento a 98 anni Luciano Tessari, ex portiere e vice di Liedholm",
+      "eventKey": "lutto-nel-calcio-si-e-spento-a-98-anni-luciano-tessari-ex-portiere-e-vice-di-liedholm"
+    },
+    {
+      "id": "politica-giustizia-mattarella-ai-magistrati-tirocinanti-necessaria-la-totale-in",
+      "category": "Politica",
+      "title": "Giustizia, Mattarella ai magistrati tirocinanti: necessaria la totale indipendenza da altri poteri",
+      "eventKey": "giustizia-mattarella-ai-magistrati-tirocinanti-necessaria-la-totale-indipendenza-da-altri-poter"
+    },
+    {
+      "id": "politica-cybersecurity-piantedosi-avverte-offensive-digitali-mirate-a-destabili",
+      "category": "Politica",
+      "title": "Cybersecurity, Piantedosi avverte: offensive digitali mirate a destabilizzare le democrazie",
+      "eventKey": "cybersecurity-piantedosi-avverte-offensive-digitali-mirate-a-destabilizzare-le-democrazie"
+    },
+    {
+      "id": "politica-energia-meloni-all-eima-di-bologna-con-il-decreto-bollette-impatto-con",
+      "category": "Politica",
+      "title": "Energia, Meloni all'Eima di Bologna: con il decreto bollette impatto concreto su imprese e costi",
+      "eventKey": "energia-meloni-all-eima-di-bologna-con-il-decreto-bollette-impatto-concreto-su-imprese-e-costi"
+    },
+    {
+      "id": "politica-vertice-anac-meloni-dice-che-il-governo-sta-ancora-lavorando-alla-scel",
+      "category": "Politica",
+      "title": "Vertice Anac, Meloni dice che il governo sta ancora lavorando alla scelta",
+      "eventKey": "vertice-anac-meloni-dice-che-il-governo-sta-ancora-lavorando-alla-scelta"
+    },
+    {
+      "id": "politica-lollobrigida-atteso-a-perugia-per-un-incontro-su-ricerca-e-agroaliment",
+      "category": "Politica",
+      "title": "Lollobrigida atteso a Perugia per un incontro su ricerca e agroalimentare",
+      "eventKey": "lollobrigida-atteso-a-perugia-per-un-incontro-su-ricerca-e-agroalimentare"
+    },
+    {
+      "id": "esteri-visita-pastorale-di-papa-leone-a-cordoba-nel-segno-dell-eredita-di-ber",
+      "category": "Esteri",
+      "title": "Visita pastorale di Papa Leone a Córdoba nel segno dell'eredità di Bergoglio",
+      "eventKey": "visita-pastorale-di-papa-leone-a-cordoba-nel-segno-dell-eredita-di-bergoglio"
+    },
+    {
+      "id": "esteri-ondata-di-falsi-allarmi-bomba-via-mail-nelle-scuole-tra-regno-unito-e-",
+      "category": "Esteri",
+      "title": "Ondata di falsi allarmi bomba via mail nelle scuole tra Regno Unito e Irlanda",
+      "eventKey": "ondata-di-falsi-allarmi-bomba-via-mail-nelle-scuole-tra-regno-unito-e-irlanda"
+    },
+    {
+      "id": "esteri-bufera-su-nvidia-class-action-e-timori-legati-a-un-presunto-caso-di-sp",
+      "category": "Esteri",
+      "title": "Bufera su Nvidia: class action e timori legati a un presunto caso di spionaggio",
+      "eventKey": "bufera-su-nvidia-class-action-e-timori-legati-a-un-presunto-caso-di-spionaggio"
+    },
+    {
+      "id": "esteri-incidente-a-catena-sull-autostrada-in-bulgaria-undici-morti-e-decine-d",
+      "category": "Esteri",
+      "title": "Incidente a catena sull'autostrada in Bulgaria: undici morti e decine di feriti",
+      "eventKey": "incidente-a-catena-sull-autostrada-in-bulgaria-undici-morti-e-decine-di-feriti"
+    },
+    {
+      "id": "esteri-la-camera-usa-blocca-la-procedura-di-impeachment-contro-il-segretario-",
+      "category": "Esteri",
+      "title": "La Camera Usa blocca la procedura di impeachment contro il segretario Hegseth",
+      "eventKey": "la-camera-usa-blocca-la-procedura-di-impeachment-contro-il-segretario-hegseth"
+    },
+    {
+      "id": "economia-prezzi-del-diesel-nel-regno-unito-ancora-vicini-a-2-sterline-al-litro",
+      "category": "Economia",
+      "title": "Prezzi del diesel nel Regno Unito ancora vicini a 2 sterline al litro",
+      "eventKey": "prezzi-del-diesel-nel-regno-unito-ancora-vicini-a-2-sterline-al-litro"
+    },
+    {
+      "id": "economia-cresce-l-invenduto-immobiliare-di-lusso-nel-centro-di-londra",
+      "category": "Economia",
+      "title": "Cresce l'invenduto immobiliare di lusso nel centro di Londra",
+      "eventKey": "cresce-l-invenduto-immobiliare-di-lusso-nel-centro-di-londra"
+    },
+    {
+      "id": "economia-ritardi-dei-paesi-ricchi-sui-piani-di-finanziamento-climatico-per-le-e",
+      "category": "Economia",
+      "title": "Ritardi dei Paesi ricchi sui piani di finanziamento climatico per le economie emergenti",
+      "eventKey": "ritardi-dei-paesi-ricchi-sui-piani-di-finanziamento-climatico-per-le-economie-emergenti"
+    },
+    {
+      "id": "economia-vendite-di-giocattoli-in-crescita-nel-regno-unito-trainate-da-giochi-t",
+      "category": "Economia",
+      "title": "Vendite di giocattoli in crescita nel Regno Unito trainate da giochi tradizionali e collezionabili",
+      "eventKey": "vendite-di-giocattoli-in-crescita-nel-regno-unito-trainate-da-giochi-tradizionali-e-collezionab"
+    },
+    {
+      "id": "economia-giro-di-vite-nel-regno-unito-contro-i-furti-seriali-nei-negozi",
+      "category": "Economia",
+      "title": "Giro di vite nel Regno Unito contro i furti seriali nei negozi",
+      "eventKey": "giro-di-vite-nel-regno-unito-contro-i-furti-seriali-nei-negozi"
+    },
+    {
+      "id": "cronaca-crisi-occupazionale-a-scorze-san-benedetto-avvia-120-licenziamenti",
+      "category": "Cronaca",
+      "title": "Crisi occupazionale a Scorzè: San Benedetto avvia 120 licenziamenti",
+      "eventKey": "crisi-occupazionale-a-scorze-san-benedetto-avvia-120-licenziamenti"
+    },
+    {
+      "id": "cronaca-l-attore-davide-iacopini-esce-dall-ospedale-e-comincia-la-riabilitazio",
+      "category": "Cronaca",
+      "title": "L'attore Davide Iacopini esce dall'ospedale e comincia la riabilitazione",
+      "eventKey": "l-attore-davide-iacopini-esce-dall-ospedale-e-comincia-la-riabilitazione"
+    },
+    {
+      "id": "cronaca-maltempo-in-toscana-allagamenti-e-famiglie-evacuate-a-stazzema",
+      "category": "Cronaca",
+      "title": "Maltempo in Toscana: allagamenti e famiglie evacuate a Stazzema",
+      "eventKey": "maltempo-in-toscana-allagamenti-e-famiglie-evacuate-a-stazzema"
+    },
+    {
+      "id": "cronaca-inchiesta-urbanistica-a-milano-la-procura-chiede-l-archiviazione-per-s",
+      "category": "Cronaca",
+      "title": "Inchiesta urbanistica a Milano: la Procura chiede l'archiviazione per sedici persone",
+      "eventKey": "inchiesta-urbanistica-a-milano-la-procura-chiede-l-archiviazione-per-sedici-persone"
+    },
+    {
+      "id": "cronaca-morte-del-piccolo-domenico-indagati-due-sanitari-dell-ospedale-di-bolz",
+      "category": "Cronaca",
+      "title": "Morte del piccolo Domenico: indagati due sanitari dell'ospedale di Bolzano",
+      "eventKey": "morte-del-piccolo-domenico-indagati-due-sanitari-dell-ospedale-di-bolzano"
+    },
+    {
+      "id": "roma-borgo-pio-blitz-contro-l-overtourism-tagliati-lucchetti-e-cassette-per",
+      "category": "Roma",
+      "title": "Borgo Pio, blitz contro l'overtourism: tagliati lucchetti e cassette per le chiavi dei b&b",
+      "eventKey": "borgo-pio-blitz-contro-l-overtourism-tagliati-lucchetti-e-cassette-per-le-chiavi-dei-b-b"
+    },
+    {
+      "id": "roma-campidoglio-oltre-ottanta-progetti-approvati-per-l-autonomia-delle-per",
+      "category": "Roma",
+      "title": "Campidoglio: oltre ottanta progetti approvati per l'autonomia delle persone con autismo",
+      "eventKey": "campidoglio-oltre-ottanta-progetti-approvati-per-l-autonomia-delle-persone-con-autismo"
+    },
+    {
+      "id": "roma-ostia-sgomberato-alloggio-popolare-adibito-a-centrale-dello-spaccio-se",
+      "category": "Roma",
+      "title": "Ostia: sgomberato alloggio popolare adibito a centrale dello spaccio, sei arresti",
+      "eventKey": "ostia-sgomberato-alloggio-popolare-adibito-a-centrale-dello-spaccio-sei-arresti"
+    },
+    {
+      "id": "roma-officina-clandestina-per-cannibalizzare-auto-rubate-due-arresti-tra-ar",
+      "category": "Roma",
+      "title": "Officina clandestina per cannibalizzare auto rubate: due arresti tra Ardea e Roma",
+      "eventKey": "officina-clandestina-per-cannibalizzare-auto-rubate-due-arresti-tra-ardea-e-roma"
+    },
+    {
+      "id": "roma-grave-fuga-di-gas-ad-ardea-evacuati-gli-occupanti-di-sei-villette-in-v",
+      "category": "Roma",
+      "title": "Grave fuga di gas ad Ardea: evacuati gli occupanti di sei villette in via Pompei",
+      "eventKey": "grave-fuga-di-gas-ad-ardea-evacuati-gli-occupanti-di-sei-villette-in-via-pompei"
+    },
+    {
+      "id": "cultura-jacob-elordi-protagonista-dell-adattamento-de-il-canto-del-boia",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Jacob Elordi protagonista dell'adattamento de Il canto del boia",
+      "eventKey": "jacob-elordi-protagonista-dell-adattamento-de-il-canto-del-boia"
+    },
+    {
+      "id": "cultura-un-weekend-artificiale-leonardo-pieraccioni-tra-commedia-e-robotica",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Un weekend artificiale, Leonardo Pieraccioni tra commedia e robotica",
+      "eventKey": "un-weekend-artificiale-leonardo-pieraccioni-tra-commedia-e-robotica"
+    },
+    {
+      "id": "cultura-giorgia-fumo-porta-out-of-office-al-teatro-olimpico",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Giorgia Fumo porta Out Of Office al Teatro Olimpico",
+      "eventKey": "giorgia-fumo-porta-out-of-office-al-teatro-olimpico"
+    },
+    {
+      "id": "cultura-babylon-berlin-giunge-alla-stagione-finale-tra-crisi-storica-e-noir",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Babylon Berlin giunge alla stagione finale tra crisi storica e noir",
+      "eventKey": "babylon-berlin-giunge-alla-stagione-finale-tra-crisi-storica-e-noir"
+    },
+    {
+      "id": "cultura-la-commedia-brasiliana-la-mia-migliore-amica-debutta-su-netflix",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "La commedia brasiliana La mia migliore amica debutta su Netflix",
+      "eventKey": "la-commedia-brasiliana-la-mia-migliore-amica-debutta-su-netflix"
+    },
+    {
+      "id": "tecnologia-anthropic-introduce-strumenti-per-dati-e-fogli-di-calcolo-su-claude-pe",
+      "category": "Tecnologia · AI",
+      "title": "Anthropic introduce strumenti per dati e fogli di calcolo su Claude per sfidare Office",
+      "eventKey": "anthropic-introduce-strumenti-per-dati-e-fogli-di-calcolo-su-claude-per-sfidare-office"
+    },
+    {
+      "id": "tecnologia-falla-in-grok-build-esposti-i-dati-di-migliaia-di-progetti-e-dell-azie",
+      "category": "Tecnologia · AI",
+      "title": "Falla in Grok Build: esposti i dati di migliaia di progetti e dell'azienda",
+      "eventKey": "falla-in-grok-build-esposti-i-dati-di-migliaia-di-progetti-e-dell-azienda"
+    },
+    {
+      "id": "tecnologia-digital-fairness-act-l-unione-europea-propone-nuove-tutele-per-consuma",
+      "category": "Tecnologia · AI",
+      "title": "Digital Fairness Act: l'Unione Europea propone nuove tutele per consumatori e minori",
+      "eventKey": "digital-fairness-act-l-unione-europea-propone-nuove-tutele-per-consumatori-e-minori"
+    },
+    {
+      "id": "tecnologia-playstation-store-aggiunge-una-sezione-per-acquistare-console-e-access",
+      "category": "Tecnologia · AI",
+      "title": "PlayStation Store aggiunge una sezione per acquistare console e accessori fisici",
+      "eventKey": "playstation-store-aggiunge-una-sezione-per-acquistare-console-e-accessori-fisici"
+    },
+    {
+      "id": "tecnologia-sony-finisce-nella-hall-of-shame-australiana-per-le-politiche-sui-diri",
+      "category": "Tecnologia · AI",
+      "title": "Sony finisce nella Hall of Shame australiana per le politiche sui diritti digitali",
+      "eventKey": "sony-finisce-nella-hall-of-shame-australiana-per-le-politiche-sui-diritti-digitali"
+    },
+    {
+      "id": "sport-wta-finals-noskova-batte-gauff-in-due-set-e-vola-in-semifinale",
+      "category": "Sport",
+      "title": "WTA Finals: Noskova batte Gauff in due set e vola in semifinale",
+      "eventKey": "wta-finals-noskova-batte-gauff-in-due-set-e-vola-in-semifinale"
+    },
+    {
+      "id": "sport-wta-finals-pegula-supera-kostyuk-e-resta-in-corsa-per-la-qualificazion",
+      "category": "Sport",
+      "title": "WTA Finals: Pegula supera Kostyuk e resta in corsa per la qualificazione",
+      "eventKey": "wta-finals-pegula-supera-kostyuk-e-resta-in-corsa-per-la-qualificazione"
+    },
+    {
+      "id": "sport-manchester-united-sky-sports-riferisce-di-unintesa-verbale-con-pochett",
+      "category": "Sport",
+      "title": "Manchester United, Sky Sports riferisce di un’intesa verbale con Pochettino",
+      "eventKey": "manchester-united-sky-sports-riferisce-di-unintesa-verbale-con-pochettino"
+    },
+    {
+      "id": "sport-nazionale-zaniolo-lascia-coverciano-per-motivi-personali-e-salta-la-na",
+      "category": "Sport",
+      "title": "Nazionale: Zaniolo lascia Coverciano per motivi personali e salta la Nations League",
+      "eventKey": "nazionale-zaniolo-lascia-coverciano-per-motivi-personali-e-salta-la-nations-league"
+    },
+    {
+      "id": "sport-spagna-prima-chiamata-tra-i-grandi-per-jacobo-ramon-del-como",
+      "category": "Sport",
+      "title": "Spagna: prima chiamata tra i grandi per Jacobo Ramon del Como",
+      "eventKey": "spagna-prima-chiamata-tra-i-grandi-per-jacobo-ramon-del-como"
+    }
+  ],
+  "collectionId": "2026-11-11-mattina",
   "reserveCounts": {
-    "Politica": 0,
-    "Esteri": 0,
-    "Economia": 0,
-    "Cronaca": 0,
-    "Roma": 0,
-    "Cultura · Teatro · Cinema": 0,
-    "Tecnologia · AI": 0,
-    "Sport": 0
+    "Politica": 5,
+    "Esteri": 5,
+    "Economia": 5,
+    "Cronaca": 5,
+    "Roma": 5,
+    "Cultura · Teatro · Cinema": 5,
+    "Tecnologia · AI": 5,
+    "Sport": 5
   },
-  "photoCandidates": [],
-  "photosAvailable": 0,
+  "photoCandidates": [
+    {
+      "id": "politica-vertice-maggioranza-manovra-novembre",
+      "category": "Politica",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg"
+    },
+    {
+      "id": "esteri-scontro-e-tensioni-alla-knesset-durante-il-discorso-di-netanyahu",
+      "category": "Esteri",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG"
+    },
+    {
+      "id": "roma-il-municipio-vii-pubblica-una-mappa-dei-cantieri-e-dei-progetti",
+      "category": "Roma",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_Senatorio.Roma.jpg"
+    },
+    {
+      "id": "cultura-romaeuropa-opera-ballet-vlaanderen-costanzi-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Teatro_dell%27Opera_a_Roma.JPG"
+    },
+    {
+      "id": "sport-mbappe-salta-lallenamento-alla-vigilia-di-italia-francia",
+      "category": "Sport",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg"
+    }
+  ],
+  "photosAvailable": 5,
   "categoryProgress": {
     "politica": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "esteri": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "economia": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "cronaca": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "roma": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "cultura": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "tecnologia": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "sport": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     }
   },
-  "preparation": "in-preparazione",
-  "message": "Edizione in preparazione",
-  "needsPublication": false,
+  "preparation": "editorialmente-completa",
+  "editionId": "2026-11-11-batches-612436c4e8c8",
+  "message": "Edizione editorialmente completa",
+  "needsPublication": true,
   "publicCollectionId": "2026-11-09-mattina"
 }

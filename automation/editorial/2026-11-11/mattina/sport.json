@@ -3,31 +3,235 @@
   "editionDate": "2026-11-11",
   "collectionId": "2026-11-11-mattina",
   "category": "Sport",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-11T06:01:57.603Z",
   "articles": [
     {
       "id": "sport-mctominay-racconta-aritmia",
       "eventKey": "mctominay-racconto-problema-cardiaco-prima-mondiale-2026",
       "category": "Sport",
       "status": "verified",
-      "title": "McTominay racconta il problema cardiaco affrontato prima del Mondiale",
-      "summary": "Dal ritiro della Scozia, il centrocampista del Napoli ha raccontato di aver ricevuto un trattamento cardiaco a due giorni dall'esordio mondiale e di essersi sottoposto in settembre a un'ablazione per una lieve aritmia benigna. Ha dichiarato di sentirsi ora meglio.",
+      "title": "McTominay racconta l’aritmia affrontata prima del Mondiale",
+      "summary": "Il centrocampista ha raccontato di essere stato in ospedale per un problema al ritmo cardiaco a pochi giorni dal Mondiale.",
       "body": [
-        "Dal ritiro della Scozia, il centrocampista del Napoli ha raccontato di aver ricevuto un trattamento cardiaco a due giorni dall'esordio mondiale e di essersi sottoposto in settembre a un'ablazione per una lieve aritmia benigna. Ha dichiarato di sentirsi ora meglio."
+        "Il centrocampista ha raccontato di essere stato in ospedale per un problema al ritmo cardiaco a pochi giorni dal Mondiale.",
+        "Nel suo racconto ha ripercorso gli accertamenti e la preoccupazione prima del ritorno al calcio."
       ],
       "publishedAt": "2026-11-10T23:19:00+01:00",
-      "verifiedAt": "2026-11-11T06:01:57.603Z",
+      "verifiedAt": "2026-11-11T14:02:02.524892+00:00",
       "source": {
         "name": "Sky Sport",
         "url": "https://sport.sky.it/calcio/nations-league/2026/11/10/mctominay-problemi-cuore-scozia-intervista-video",
         "access": "free",
-        "accessCheckedAt": "2026-11-11T06:01:57.603Z",
+        "accessCheckedAt": "2026-11-11T14:02:02.524892+00:00",
         "dateEvidence": "La pagina di Sky Sport indica chiaramente '10 nov 2026 - 23:19' accanto al titolo.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "sport-wta-finals-errani-e-paolini-firmano-la-rimonta-e-volano-in-semifinale",
+      "eventKey": "wta-finals-errani-e-paolini-firmano-la-rimonta-e-volano-in-semifinale",
+      "category": "Sport",
+      "status": "verified",
+      "title": "WTA Finals: Errani e Paolini firmano la rimonta e volano in semifinale",
+      "summary": "Sara Errani e Jasmine Paolini conquistano le semifinali del torneo di doppio superando Bucsa e Melichar-Martinez per 3-6, 6-2, 10-7.",
+      "body": [
+        "Sara Errani e Jasmine Paolini conquistano le semifinali del torneo di doppio superando Bucsa e Melichar-Martinez per 3-6, 6-2, 10-7.",
+        "Grazie alla seconda rimonta consecutiva, la coppia italiana chiude al comando il proprio girone e affronterà giovedì Perez e Schuurs."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:12.745238+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/2026/11/11/errani-paolini-oggi-wta-finals-doppio-risultato",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:12.745238+00:00",
+        "dateEvidence": "La pagina originale di Sky Sport riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "sport-mbappe-salta-lallenamento-alla-vigilia-di-italia-francia",
+      "eventKey": "mbappe-salta-lallenamento-alla-vigilia-di-italia-francia",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Mbappé salta l’allenamento alla vigilia di Italia-Francia",
+      "summary": "L’attaccante non si è allenato con il gruppo. Secondo L’Équipe avverte un fastidio alla parte posteriore della coscia.",
+      "body": [
+        "L’attaccante non si è allenato con il gruppo. Secondo L’Équipe avverte un fastidio alla parte posteriore della coscia.",
+        "La Francia deve già fare a meno di altri giocatori, tra cui Marcus Thuram e Ousmane Dembélé."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:11.067850+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/nations-league/2026/11/11/mbappe-italia-francia-allenamento-news",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:11.067850+00:00",
+        "dateEvidence": "La pagina originale di Sky Sport riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      },
+      "image": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg/960px-Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg",
+        "alt": "Pallone da calcio su un prato",
+        "credit": "Peter Glaser baraida",
+        "rights": "CC0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "caption": "Repertorio · Un pallone da calcio su un prato. La fotografia non ritrae la partita o la cerimonia descritta nella notizia.",
+        "reuseApproved": true
+      },
+      "leadPriority": 85
+    },
+    {
+      "id": "sport-sinner-frena-sul-recupero-nessuna-data-certa-per-il-rientro-in-campo",
+      "eventKey": "sinner-frena-sul-recupero-nessuna-data-certa-per-il-rientro-in-campo",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Sinner frena sul recupero: nessuna data certa per il rientro in campo",
+      "summary": "Jannik Sinner ha spiegato che il problema al ginocchio non è ancora superato e che non esiste al momento una data programmata per il ritorno all'attività agonistica.",
+      "body": [
+        "Jannik Sinner ha spiegato che il problema al ginocchio non è ancora superato e che non esiste al momento una data programmata per il ritorno all'attività agonistica.",
+        "Il tennista azzurro ha ribadito la necessità di fermarsi per non compromettere la continuità agonistica dei prossimi dieci o quindici anni."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:12.689700+00:00",
+      "source": {
+        "name": "Leggo Sport",
+        "url": "https://www.leggo.it/schede/11_novembre_2026_sinner_infortunio_tunner_rovina_carriera_berrettini_del_potro_ferrero_cosa_ha_detto-9883118.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:12.689700+00:00",
+        "dateEvidence": "La pagina originale di Leggo Sport riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "sport-lutto-nel-calcio-si-e-spento-a-98-anni-luciano-tessari-ex-portiere-e-v",
+      "eventKey": "lutto-nel-calcio-si-e-spento-a-98-anni-luciano-tessari-ex-portiere-e-vice-di-liedholm",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Lutto nel calcio: si è spento a 98 anni Luciano Tessari, ex portiere e vice di Liedholm",
+      "summary": "È scomparso a 98 anni Luciano Tessari, figura storica della Roma in cui ha militato come portiere negli anni Cinquanta.",
+      "body": [
+        "È scomparso a 98 anni Luciano Tessari, figura storica della Roma in cui ha militato come portiere negli anni Cinquanta.",
+        "Successivamente è stato a lungo componente dello staff tecnico e secondo allenatore di Nils Liedholm sulla panchina giallorossa."
+      ],
+      "publishedAt": "2026-11-10",
+      "verifiedAt": "2026-11-11T14:02:01.655647+00:00",
+      "source": {
+        "name": "Leggo Sport",
+        "url": "https://www.leggo.it/sport/calcio/10_novembre_2026_morto_luciano_tessari_vice_allenatore_liedholm-9881859.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:01.655647+00:00",
+        "dateEvidence": "La pagina originale di Leggo Sport riporta la data di pubblicazione 2026-11-10.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
       }
     }
   ],
-  "reserveArticles": [],
-  "reserveDraft": []
+  "completedAt": "2026-11-11T14:10:21.194358+00:00",
+  "reserveArticles": [
+    {
+      "id": "sport-wta-finals-noskova-batte-gauff-in-due-set-e-vola-in-semifinale",
+      "eventKey": "wta-finals-noskova-batte-gauff-in-due-set-e-vola-in-semifinale",
+      "category": "Sport",
+      "status": "verified",
+      "title": "WTA Finals: Noskova batte Gauff in due set e vola in semifinale",
+      "summary": "Linda Noskova supera Coco Gauff per 6-3, 6-3 e conquista l'accesso anticipato alle semifinali delle WTA Finals di Indian Wells.",
+      "body": [
+        "Linda Noskova supera Coco Gauff per 6-3, 6-3 e conquista l'accesso anticipato alle semifinali delle WTA Finals di Indian Wells."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:12.508220+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/video/2026/11/11/gauff-noskova-wta-finals-highlights-1139151",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:12.508220+00:00",
+        "dateEvidence": "La pagina originale di Sky Sport riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "sport-wta-finals-pegula-supera-kostyuk-e-resta-in-corsa-per-la-qualificazion",
+      "eventKey": "wta-finals-pegula-supera-kostyuk-e-resta-in-corsa-per-la-qualificazione",
+      "category": "Sport",
+      "status": "verified",
+      "title": "WTA Finals: Pegula supera Kostyuk e resta in corsa per la qualificazione",
+      "summary": "Jessica Pegula vince in due set contro Marta Kostyuk per 6-2, 7-5, eliminando l'ucraina e tenendo aperte le speranze nel girone.",
+      "body": [
+        "Jessica Pegula vince in due set contro Marta Kostyuk per 6-2, 7-5, eliminando l'ucraina e tenendo aperte le speranze nel girone."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:12.602829+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/tennis/video/2026/11/11/kostyuk-pegula-wta-finals-highlights-1139145",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:12.602829+00:00",
+        "dateEvidence": "La pagina originale di Sky Sport riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "sport-manchester-united-sky-sports-riferisce-di-unintesa-verbale-con-pochett",
+      "eventKey": "manchester-united-sky-sports-riferisce-di-unintesa-verbale-con-pochettino",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Manchester United, Sky Sports riferisce di un’intesa verbale con Pochettino",
+      "summary": "Secondo Sky Sports il club avrebbe raggiunto un’intesa con il tecnico argentino per il caso in cui decida di sostituire Michael Carrick, ancora alla guida della squadra.",
+      "body": [
+        "Secondo Sky Sports il club avrebbe raggiunto un’intesa con il tecnico argentino per il caso in cui decida di sostituire Michael Carrick, ancora alla guida della squadra."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:11.216839+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calciomercato/allenatori-svincolati",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:11.216839+00:00",
+        "dateEvidence": "La pagina originale di Sky Sport riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "sport-nazionale-zaniolo-lascia-coverciano-per-motivi-personali-e-salta-la-na",
+      "eventKey": "nazionale-zaniolo-lascia-coverciano-per-motivi-personali-e-salta-la-nations-league",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Nazionale: Zaniolo lascia Coverciano per motivi personali e salta la Nations League",
+      "summary": "L'attaccante dell'Udinese ha abbandonato il raduno azzurro e non sarà disponibile per le sfide contro Francia e Belgio.",
+      "body": [
+        "L'attaccante dell'Udinese ha abbandonato il raduno azzurro e non sarà disponibile per le sfide contro Francia e Belgio."
+      ],
+      "publishedAt": "2026-11-10",
+      "verifiedAt": "2026-11-11T14:02:01.983238+00:00",
+      "source": {
+        "name": "Leggo Sport",
+        "url": "https://www.leggo.it/sport/calcio/10_novembre_2026_zaniolo_lascia_italia_nazionale_motivi_personali-9881246.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:01.983238+00:00",
+        "dateEvidence": "La pagina originale di Leggo Sport riporta la data di pubblicazione 2026-11-10.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "sport-spagna-prima-chiamata-tra-i-grandi-per-jacobo-ramon-del-como",
+      "eventKey": "spagna-prima-chiamata-tra-i-grandi-per-jacobo-ramon-del-como",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Spagna: prima chiamata tra i grandi per Jacobo Ramon del Como",
+      "summary": "Il giovane difensore in forza al club lariano ha ricevuto la sua prima convocazione nella nazionale iberica per la Nations League.",
+      "body": [
+        "Il giovane difensore in forza al club lariano ha ricevuto la sua prima convocazione nella nazionale iberica per la Nations League."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:11.093770+00:00",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/champions-league/2026/11/11/jacobo-ramon-como-real-madrid-intervista",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:11.093770+00:00",
+        "dateEvidence": "La pagina originale di Sky Sport riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    }
+  ]
 }

@@ -3,54 +3,224 @@
   "editionDate": "2026-11-11",
   "collectionId": "2026-11-11-mattina",
   "category": "Cronaca",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-11T05:18:51.958Z",
   "articles": [
-    {
-      "id": "cronaca-rinvio-giudizio-irene-pivetti-bancarotta-2026",
-      "eventKey": "rinvio-giudizio-irene-pivetti-bancarotta-2026",
-      "category": "Cronaca",
-      "status": "verified",
-      "title": "Bancarotta, Irene Pivetti rinviata a giudizio a Roma",
-      "summary": "L'ex presidente della Camera dovrà affrontare un processo per bancarotta fraudolenta nell'ambito del fallimento della Società di servizi per la Cina.",
-      "body": [
-        "Il rinvio a giudizio riguarda Irene Pivetti e il liquidatore della società. Secondo l'accusa sarebbero stati sottratti o distrutti documenti contabili e distratte somme di denaro.",
-        "Le contestazioni sono ipotesi d'accusa da verificare nel processo; il rinvio a giudizio non equivale a una condanna."
-      ],
-      "publishedAt": "2026-11-10T19:18:00Z",
-      "verifiedAt": "2026-11-11T05:18:51.958Z",
-      "source": {
-        "name": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/11/10/irene-pivetti-rinvio-giudizio-bancarotta",
-        "access": "free",
-        "accessCheckedAt": "2026-11-11T05:18:51.958Z",
-        "dateEvidence": "La pagina Sky TG24 indica 10 nov 2026 - 20:18 (ora italiana).",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
     {
       "id": "cronaca-eternit-bis-cassazione-nuovo-appello-schmidheiny-2026",
       "eventKey": "eternit-bis-cassazione-nuovo-appello-schmidheiny-2026",
       "category": "Cronaca",
       "status": "verified",
-      "title": "Eternit bis, la Cassazione ordina un nuovo processo d'appello",
-      "summary": "La Cassazione ha annullato con rinvio parte della sentenza relativa al processo Eternit bis contro Stephan Schmidheiny, disponendo un nuovo giudizio per numerose parti offese.",
+      "title": "Eternit bis: la Cassazione dispone un nuovo processo d'appello per Schmidheiny",
+      "summary": "I giudici della Quarta sezione penale della Cassazione hanno annullato con rinvio la sentenza di condanna per l'imprenditore svizzero Stephan Schmidheiny relativamente a circa sessanta parti offese.",
       "body": [
-        "La Quarta sezione penale ha disposto il rinvio a una diversa sezione della Corte d'Appello di Torino per circa sessanta parti offese. Per altre venticinque vittime è stata dichiarata la prescrizione.",
-        "La decisione ha suscitato delusione tra familiari delle vittime e rappresentanti delle parti civili. Il procedimento riguarda le morti associate all'esposizione all'amianto nello stabilimento di Casale Monferrato."
+        "I giudici della Quarta sezione penale della Cassazione hanno annullato con rinvio la sentenza di condanna per l'imprenditore svizzero Stephan Schmidheiny relativamente a circa sessanta parti offese.",
+        "Per altre 25 vittime è stata dichiarata la prescrizione, respingendo la richiesta della Procura generale di confermare la pena a 9 anni e 6 mesi."
       ],
       "publishedAt": "2026-11-10T18:56:00Z",
-      "verifiedAt": "2026-11-11T05:18:51.958Z",
+      "verifiedAt": "2026-11-11T14:02:02.549225+00:00",
       "source": {
         "name": "Sky TG24",
         "url": "https://tg24.sky.it/cronaca/2026/11/10/eternit-bis-cassazione-nuovo-appello-schmidheiny",
         "access": "free",
-        "accessCheckedAt": "2026-11-11T05:18:51.958Z",
+        "accessCheckedAt": "2026-11-11T14:02:02.549225+00:00",
         "dateEvidence": "La pagina Sky TG24 indica 10 nov 2026 - 19:56 (ora italiana).",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "cronaca-rinvio-giudizio-irene-pivetti-bancarotta-2026",
+      "eventKey": "rinvio-giudizio-irene-pivetti-bancarotta-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Bancarotta fraudolenta: rinvio a giudizio a Roma per Irene Pivetti",
+      "summary": "L'ex presidente della Camera Irene Pivetti è stata rinviata a giudizio a Roma con l'accusa di bancarotta fraudolenta legata al crac della Società di servizi per la Cina.",
+      "body": [
+        "L'ex presidente della Camera Irene Pivetti è stata rinviata a giudizio a Roma con l'accusa di bancarotta fraudolenta legata al crac della Società di servizi per la Cina.",
+        "Insieme all'ex parlamentare andrà a processo anche il liquidatore dell'azienda, considerato dagli inquirenti una mera testa di legno."
+      ],
+      "publishedAt": "2026-11-10T19:18:00Z",
+      "verifiedAt": "2026-11-11T14:02:02.480658+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/10/irene-pivetti-rinvio-giudizio-bancarotta",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:02.480658+00:00",
+        "dateEvidence": "La pagina Sky TG24 indica 10 nov 2026 - 20:18 (ora italiana).",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "cronaca-allarme-bomba-via-email-in-migliaia-di-scuole-italiane-verifiche-in-co",
+      "eventKey": "allarme-bomba-via-email-in-migliaia-di-scuole-italiane-verifiche-in-corso",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Allarme bomba via email in migliaia di scuole italiane: verifiche in corso",
+      "summary": "Circa seimila plessi scolastici sul territorio nazionale hanno ricevuto messaggi di minaccia su presunti ordigni, provocando evacuazioni a scopo precauzionale.",
+      "body": [
+        "Circa seimila plessi scolastici sul territorio nazionale hanno ricevuto messaggi di minaccia su presunti ordigni, provocando evacuazioni a scopo precauzionale.",
+        "Le autorità di governo e il ministero dell'Istruzione hanno chiarito che i controlli non hanno evidenziato rischi concreti."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:06.692621+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/11/allarme-bomba-scuole",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:06.692621+00:00",
+        "dateEvidence": "La pagina originale di Sky TG24 riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "cronaca-strage-di-viareggio-concessi-i-domiciliari-all-ex-ad-di-ferrovie-mauro",
+      "eventKey": "strage-di-viareggio-concessi-i-domiciliari-all-ex-ad-di-ferrovie-mauro-moretti",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Strage di Viareggio: concessi i domiciliari all'ex ad di Ferrovie Mauro Moretti",
+      "summary": "Il tribunale di sorveglianza ha concesso la detenzione domiciliare a Roma all'ex dirigente di Fs, che lascia il penitenziario di Orvieto per ragioni connesse alla tutela della salute.",
+      "body": [
+        "Il tribunale di sorveglianza ha concesso la detenzione domiciliare a Roma all'ex dirigente di Fs, che lascia il penitenziario di Orvieto per ragioni connesse alla tutela della salute.",
+        "Moretti deve espiare la condanna definitiva a cinque anni di reclusione per il disastro ferroviario avvenuto nel giugno 2009."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:07.429262+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/11/strage-viareggio-mauro-moretti-arresti-domiciliari",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:07.429262+00:00",
+        "dateEvidence": "La pagina originale di Sky TG24 riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "cronaca-assalto-armato-con-esplosivo-a-un-portavalori-sulla-statale-16-nel-fog",
+      "eventKey": "assalto-armato-con-esplosivo-a-un-portavalori-sulla-statale-16-nel-foggiano",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Assalto armato con esplosivo a un portavalori sulla statale 16 nel Foggiano",
+      "summary": "Un commando ha attaccato un furgone blindato all'altezza di Cerignola impiegando armi da guerra, inneschi esplosivi e bloccando la viabilità con un autobus di linea.",
+      "body": [
+        "Un commando ha attaccato un furgone blindato all'altezza di Cerignola impiegando armi da guerra, inneschi esplosivi e bloccando la viabilità con un autobus di linea.",
+        "L'azione ha sventrato il veicolo blindato provocando forti disagi al traffico, mentre restano da quantificare l'esatta entità del bottino e i danni."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:01:59.948451+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/assalto-a-un-portavalori-con-esplosivo-kalashnikov-e-ostaggi-ancora-giallo-sul-bottino-il-blitz-da-film-sullautostrada-55d3a05c-8f5d-4b78-b9a8-2c23c4c5c4e8.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:01:59.948451+00:00",
+        "dateEvidence": "La pagina originale di RaiNews riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
       }
     }
   ],
-  "reserveArticles": [],
-  "reserveDraft": []
+  "completedAt": "2026-11-11T14:10:21.197853+00:00",
+  "reserveArticles": [
+    {
+      "id": "cronaca-crisi-occupazionale-a-scorze-san-benedetto-avvia-120-licenziamenti",
+      "eventKey": "crisi-occupazionale-a-scorze-san-benedetto-avvia-120-licenziamenti",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Crisi occupazionale a Scorzè: San Benedetto avvia 120 licenziamenti",
+      "summary": "Il gruppo delle bevande ha comunicato l'apertura delle procedure di esubero per 120 lavoratori della sede centrale veneziana motivando la scelta con il rialzo dei costi produttivi.",
+      "body": [
+        "Il gruppo delle bevande ha comunicato l'apertura delle procedure di esubero per 120 lavoratori della sede centrale veneziana motivando la scelta con il rialzo dei costi produttivi."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:01:59.644415+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/san-benedetto-licenzia-120-dipendenti-su-mille-nella-casa-madre-veneziana-05d5ffb2-d185-403b-8b33-f27b2360f145.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:01:59.644415+00:00",
+        "dateEvidence": "La pagina originale di RaiNews riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "cronaca-l-attore-davide-iacopini-esce-dall-ospedale-e-comincia-la-riabilitazio",
+      "eventKey": "l-attore-davide-iacopini-esce-dall-ospedale-e-comincia-la-riabilitazione",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "L'attore Davide Iacopini esce dall'ospedale e comincia la riabilitazione",
+      "summary": "Dopo oltre un mese dal ricovero seguito all'aggressione subita a Roma a bordo di un monopattino, l'attore lascia il nosocomio per proseguire le terapie in una struttura specializzata.",
+      "body": [
+        "Dopo oltre un mese dal ricovero seguito all'aggressione subita a Roma a bordo di un monopattino, l'attore lascia il nosocomio per proseguire le terapie in una struttura specializzata."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:01:59.825328+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/laggressione-in-minicar-iacopini-lascia-lospedale-dopo-un-mese-cd0f5d12-4e1c-47a1-b6a9-4c3f1f7c01b3.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:01:59.825328+00:00",
+        "dateEvidence": "La pagina originale di RaiNews riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "cronaca-maltempo-in-toscana-allagamenti-e-famiglie-evacuate-a-stazzema",
+      "eventKey": "maltempo-in-toscana-allagamenti-e-famiglie-evacuate-a-stazzema",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Maltempo in Toscana: allagamenti e famiglie evacuate a Stazzema",
+      "summary": "Le precipitazioni intense hanno determinato l'intasamento di una briglia torrentizia in Alta Versilia, costringendo allo sgombero cautelativo dodici residenti da una palazzina.",
+      "body": [
+        "Le precipitazioni intense hanno determinato l'intasamento di una briglia torrentizia in Alta Versilia, costringendo allo sgombero cautelativo dodici residenti da una palazzina."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:01:59.913735+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/londata-di-maltempo-sulla-toscana-allagamenti-e-frane-12-evacuati-a-stazzema-forti-piogge-519412f2-3625-4c7d-bebc-32a5e08961bf.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:01:59.913735+00:00",
+        "dateEvidence": "La pagina originale di RaiNews riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "cronaca-inchiesta-urbanistica-a-milano-la-procura-chiede-l-archiviazione-per-s",
+      "eventKey": "inchiesta-urbanistica-a-milano-la-procura-chiede-l-archiviazione-per-sedici-persone",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Inchiesta urbanistica a Milano: la Procura chiede l'archiviazione per sedici persone",
+      "summary": "I magistrati milanesi hanno presentato richiesta di archiviazione ritenendo che le anomalie riscontrate nelle consulenze edilizie non integrino gli estremi di un reato corruttivo perseguibile.",
+      "body": [
+        "I magistrati milanesi hanno presentato richiesta di archiviazione ritenendo che le anomalie riscontrate nelle consulenze edilizie non integrino gli estremi di un reato corruttivo perseguibile."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:07.230589+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/11/inchiesta-urbanistica-milano-archiviazione",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:07.230589+00:00",
+        "dateEvidence": "La pagina originale di Sky TG24 riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "cronaca-morte-del-piccolo-domenico-indagati-due-sanitari-dell-ospedale-di-bolz",
+      "eventKey": "morte-del-piccolo-domenico-indagati-due-sanitari-dell-ospedale-di-bolzano",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Morte del piccolo Domenico: indagati due sanitari dell'ospedale di Bolzano",
+      "summary": "Due operatori sanitari della struttura altoatesina sono stati iscritti nel registro degli indagati come atto dovuto nell'inchiesta sulla conservazione del cuore destinato al trapianto.",
+      "body": [
+        "Due operatori sanitari della struttura altoatesina sono stati iscritti nel registro degli indagati come atto dovuto nell'inchiesta sulla conservazione del cuore destinato al trapianto."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:07.756409+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/la-morte-del-piccolo-domenico-indagati-due-sanitari-dellospedale-di-bolzano-47cb7aa9-5ee4-4dfc-b040-46b622302ac9.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:07.756409+00:00",
+        "dateEvidence": "La pagina originale di RaiNews riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    }
+  ]
 }

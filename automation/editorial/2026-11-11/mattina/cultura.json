@@ -3,54 +3,235 @@
   "editionDate": "2026-11-11",
   "collectionId": "2026-11-11-mattina",
   "category": "Cultura · Teatro · Cinema",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-11T07:19:25.388Z",
   "articles": [
-    {
-      "id": "cultura-romaeuropa-opera-ballet-vlaanderen-costanzi-2026",
-      "eventKey": "romaeuropa-opera-ballet-vlaanderen-trittico-costanzi-novembre-2026",
-      "category": "Cultura · Teatro · Cinema",
-      "status": "verified",
-      "title": "Tre coreografie fiamminghe al Costanzi per Romaeuropa",
-      "summary": "Il 10 e 11 novembre Opera Ballet Vlaanderen presenta a Roma un trittico di Jan Martens, Anne Teresa De Keersmaeker e Christos Papadopoulos, in collaborazione con il Teatro dell'Opera.",
-      "body": [
-        "Il Romaeuropa Festival ospita al Teatro Costanzi, il 10 e 11 novembre, una prima nazionale di Opera Ballet Vlaanderen. Il programma mette a confronto tre generazioni di coreografi e diversi modi di intrecciare danza e musica.",
-        "La serata comprende On Speed di Jan Martens, Grosse Fuge / Beethoven di Anne Teresa De Keersmaeker e Opus di Christos Papadopoulos, su musiche che spaziano da Montague a Beethoven e Bach."
-      ],
-      "publishedAt": "2026-11-09T16:49:00+01:00",
-      "verifiedAt": "2026-11-11T06:11:47Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/11/09/romaeuropa-festival-opera-ballet-vlaanderen-in-trittico-di-coreografie_00f53219-6432-4706-a78b-541c13a8ea6d.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-11T06:11:47Z",
-        "dateEvidence": "Nella pagina originale ANSA è riportato: ROMA, 09 novembre 2026, 16:49.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
     {
       "id": "cultura-starman-pietro-giannini-romaeuropa-2026",
       "eventKey": "starman-pietro-giannini-romaeuropa-vascello-2026",
       "category": "Cultura · Teatro · Cinema",
       "status": "verified",
-      "title": "Starman al Vascello, Pietro Giannini mette in scena il potere",
-      "summary": "Il nuovo spettacolo di Pietro Giannini, prodotto dal Teatro Nazionale di Genova e presentato a Romaeuropa, usa la satira di un magnate immaginario per interrogare il rapporto tra spettacolo, ricchezza e responsabilità collettiva.",
+      "title": "Al Romaeuropa Festival debutta Starman di Pietro Giannini",
+      "summary": "Al Romaeuropa Festival debutta 'Starman', il nuovo spettacolo teatrale di Pietro Giannini prodotto dal Teatro Nazionale di Genova. L'opera propone una biografia reinventata dell'uomo più ricco del mondo attraverso un collage di linguaggi che indaga la società dello spettacolo.",
       "body": [
-        "Al Teatro Vascello cinque interpreti danno vita a ventiquattro figure in un collage teatrale che attraversa pubblicità, politica e cultura digitale. Il personaggio Leon Skum richiama in chiave satirica Elon Musk.",
-        "Nella recensione pubblicata il 10 novembre, Sergio Lo Gatto riconosce energia e inventiva all'allestimento, ma rileva anche un eccesso di linguaggi e la necessità di una maggiore messa a fuoco drammaturgica."
+        "Al Romaeuropa Festival debutta 'Starman', il nuovo spettacolo teatrale di Pietro Giannini prodotto dal Teatro Nazionale di Genova. L'opera propone una biografia reinventata dell'uomo più ricco del mondo attraverso un collage di linguaggi che indaga la società dello spettacolo.",
+        "La messinscena richiama esplicitamente l'analisi teorica di Guy Debord per interrogare il pubblico sul potere, l'esibizione individuale e la costruzione del consenso contemporaneo."
       ],
       "publishedAt": "2026-11-10",
-      "verifiedAt": "2026-11-11T07:19:25.388Z",
+      "verifiedAt": "2026-11-11T14:02:02.105426+00:00",
       "source": {
         "name": "Teatro e Critica",
         "url": "https://www.teatroecritica.net/2026/11/costruire-lo-spettacolo-politico-starman-di-pietro-giannini/",
         "access": "free",
-        "accessCheckedAt": "2026-11-11T07:19:25.388Z",
+        "accessCheckedAt": "2026-11-11T14:02:02.105426+00:00",
         "dateEvidence": "Nell'intestazione dell'articolo originale è riportato esplicitamente 10 Novembre 2026.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "cultura-romaeuropa-opera-ballet-vlaanderen-costanzi-2026",
+      "eventKey": "romaeuropa-opera-ballet-vlaanderen-trittico-costanzi-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Trittico coreografico fiammingo al Teatro Costanzi per Romaeuropa",
+      "summary": "La prestigiosa compagnia Opera Ballet Vlaanderen è protagonista al Teatro Costanzi di Roma con un trittico coreografico in prima nazionale, coprodotto con il Romaeuropa Festival e il Teatro dell'Opera. Il programma riunisce creazioni di Jan Martens, Anne Teresa De Keersmaeker e Christos Papadopoulos.",
+      "body": [
+        "La prestigiosa compagnia Opera Ballet Vlaanderen è protagonista al Teatro Costanzi di Roma con un trittico coreografico in prima nazionale, coprodotto con il Romaeuropa Festival e il Teatro dell'Opera. Il programma riunisce creazioni di Jan Martens, Anne Teresa De Keersmaeker e Christos Papadopoulos.",
+        "Le tre opere tracciano un dialogo inedito tra danza contemporanea e composizione musicale, spaziando dal contrappunto barocco di Bach al sinfonismo di Beethoven fino alle partiture novecentesche di Stephen Montague."
+      ],
+      "publishedAt": "2026-11-09T16:49:00+01:00",
+      "verifiedAt": "2026-11-11T14:02:02.262997+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/11/09/romaeuropa-festival-opera-ballet-vlaanderen-in-trittico-di-coreografie_00f53219-6432-4706-a78b-541c13a8ea6d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:02.262997+00:00",
+        "dateEvidence": "Nella pagina originale ANSA è riportato: ROMA, 09 novembre 2026, 16:49.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Teatro_dell%27Opera_a_Roma.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "alt": "Ingresso del Teatro Costanzi a Roma",
+        "credit": "LPLT",
+        "rights": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Teatro_dell%27Opera_a_Roma.JPG",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "caption": "Repertorio · Ingresso del Teatro Costanzi a Roma.",
+        "reuseApproved": true
+      },
+      "leadPriority": 85
+    },
+    {
+      "id": "cultura-addio-a-stacy-keach-celebre-interprete-del-detective-mike-hammer",
+      "eventKey": "addio-a-stacy-keach-celebre-interprete-del-detective-mike-hammer",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Addio a Stacy Keach, celebre interprete del detective Mike Hammer",
+      "summary": "L'attore statunitense Stacy Keach è scomparso all'età di 85 anni nella sua abitazione di Magdalenka, in Polonia, a causa di una grave patologia cardiaca, come annunciato dalla moglie Małgosia Tomassi. Interprete shakespeariano di grande rigore, Keach ha legato il proprio nome a ruoli memorabili tra cinema, teatro e televisione.",
+      "body": [
+        "L'attore statunitense Stacy Keach è scomparso all'età di 85 anni nella sua abitazione di Magdalenka, in Polonia, a causa di una grave patologia cardiaca, come annunciato dalla moglie Małgosia Tomassi. Interprete shakespeariano di grande rigore, Keach ha legato il proprio nome a ruoli memorabili tra cinema, teatro e televisione.",
+        "Tra le sue interpretazioni più celebri figurano il pugile al tramonto in 'Fat City' di John Huston, il detective Mike Hammer nell'omonima serie CBS e il direttore Pope in 'Prison Break'."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:04:00.216309+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/spettacolo/2026/11/11/stacy-keach-morto",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:04:00.216309+00:00",
+        "dateEvidence": "La pagina originale di Sky TG24 riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "cultura-al-via-il-carbonia-film-festival-nel-sulcis-tra-cinema-civile-e-musica",
+      "eventKey": "al-via-il-carbonia-film-festival-nel-sulcis-tra-cinema-civile-e-musica",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Al via il Carbonia Film Festival nel Sulcis tra cinema civile e musica",
+      "summary": "Il Carbonia Film Festival 2026 si svolge dall'11 al 15 novembre nella storica città mineraria sarda, proponendo cinque pellicole italiane in concorso a ingresso gratuito. L'apertura presenta in anteprima 'Odio gli indifferenti', documentario di Marco Amenta dedicato alla figura di Antonio Gramsci.",
+      "body": [
+        "Il Carbonia Film Festival 2026 si svolge dall'11 al 15 novembre nella storica città mineraria sarda, proponendo cinque pellicole italiane in concorso a ingresso gratuito. L'apertura presenta in anteprima 'Odio gli indifferenti', documentario di Marco Amenta dedicato alla figura di Antonio Gramsci.",
+        "La manifestazione rende omaggio al cineasta Abdallah Al-Khatib e prevede proiezioni speciali con Tecla Insolia, Romana Maggiora Vergano e Riccardo Scamarcio, prima della serata conclusiva affidata a Dimartino e Fabrizio Cammarata."
+      ],
+      "publishedAt": "2026-11-10",
+      "verifiedAt": "2026-11-11T14:04:00.505644+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/spettacolo/cinema/2026/11/10/carbonia-film-festival-2026-programma",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:04:00.505644+00:00",
+        "dateEvidence": "La pagina originale di Sky TG24 riporta la data di pubblicazione 2026-11-10.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "cultura-il-musical-c-era-una-volta-scugnizzi-approda-al-teatro-sistina",
+      "eventKey": "il-musical-c-era-una-volta-scugnizzi-approda-al-teatro-sistina",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Il musical C'era una volta... Scugnizzi approda al Teatro Sistina",
+      "summary": "A quindici anni dall'ultima rappresentazione nella Capitale, il musical 'C'era una volta... Scugnizzi' debutta al Teatro Sistina di Roma dopo il successo registrato al Teatro Augusteo di Napoli. Lo spettacolo è firmato per musiche e regia da Claudio Mattone, con i dialoghi di Enrico Vaime.",
+      "body": [
+        "A quindici anni dall'ultima rappresentazione nella Capitale, il musical 'C'era una volta... Scugnizzi' debutta al Teatro Sistina di Roma dopo il successo registrato al Teatro Augusteo di Napoli. Lo spettacolo è firmato per musiche e regia da Claudio Mattone, con i dialoghi di Enrico Vaime.",
+        "La produzione racconta una storia corale di amicizia, riscatto ed energia generazionale attraverso canzoni celebri e articolate coreografie affidate a un giovane cast."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:09.603322+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/eventi/c-era-una-volta-scugnizzi-teatro-sistina-18-novembre-10-gennaio-2027.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:09.603322+00:00",
+        "dateEvidence": "La pagina originale di RomaToday riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
       }
     }
   ],
-  "reserveArticles": [],
-  "reserveDraft": []
+  "completedAt": "2026-11-11T14:10:21.200816+00:00",
+  "reserveArticles": [
+    {
+      "id": "cultura-jacob-elordi-protagonista-dell-adattamento-de-il-canto-del-boia",
+      "eventKey": "jacob-elordi-protagonista-dell-adattamento-de-il-canto-del-boia",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Jacob Elordi protagonista dell'adattamento de Il canto del boia",
+      "summary": "L'attore Jacob Elordi produrrà e interpreterà l'adattamento cinematografico del romanzo 'Il canto del boia' di Norman Mailer, incentrato sulla figura e sul caso giudiziario di Gary Gilmore.",
+      "body": [
+        "L'attore Jacob Elordi produrrà e interpreterà l'adattamento cinematografico del romanzo 'Il canto del boia' di Norman Mailer, incentrato sulla figura e sul caso giudiziario di Gary Gilmore."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:03:59.987507+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/spettacolo/cinema/2026/11/11/jacob-elordi-gary-gilmore-the-executioners-song",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:03:59.987507+00:00",
+        "dateEvidence": "La pagina originale di Sky TG24 riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "cultura-un-weekend-artificiale-leonardo-pieraccioni-tra-commedia-e-robotica",
+      "eventKey": "un-weekend-artificiale-leonardo-pieraccioni-tra-commedia-e-robotica",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Un weekend artificiale, Leonardo Pieraccioni tra commedia e robotica",
+      "summary": "Leonardo Pieraccioni torna al cinema come regista e protagonista della commedia 'Un weekend artificiale', dove un parrucchiere e altri ospiti trascorrono un fine settimana alle prese con un androide segreto.",
+      "body": [
+        "Leonardo Pieraccioni torna al cinema come regista e protagonista della commedia 'Un weekend artificiale', dove un parrucchiere e altri ospiti trascorrono un fine settimana alle prese con un androide segreto."
+      ],
+      "publishedAt": "2026-11-10",
+      "verifiedAt": "2026-11-11T14:04:01.130848+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/spettacolo/cinema/2026/11/10/pieraccioni-film-un-weekend-artificiale",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:04:01.130848+00:00",
+        "dateEvidence": "La pagina originale di Sky TG24 riporta la data di pubblicazione 2026-11-10.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "cultura-giorgia-fumo-porta-out-of-office-al-teatro-olimpico",
+      "eventKey": "giorgia-fumo-porta-out-of-office-al-teatro-olimpico",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Giorgia Fumo porta Out Of Office al Teatro Olimpico",
+      "summary": "La stand-up comedian è in cartellone a Roma il 16 e 17 novembre. Lo spettacolo parte dal quotidiano per raccontare con ironia la vita contemporanea.",
+      "body": [
+        "La stand-up comedian è in cartellone a Roma il 16 e 17 novembre. Lo spettacolo parte dal quotidiano per raccontare con ironia la vita contemporanea."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:09.907446+00:00",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/eventi/giorgia-fumo-out-of-office-teatro-olimpico.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:09.907446+00:00",
+        "dateEvidence": "La pagina originale di RomaToday riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "cultura-babylon-berlin-giunge-alla-stagione-finale-tra-crisi-storica-e-noir",
+      "eventKey": "babylon-berlin-giunge-alla-stagione-finale-tra-crisi-storica-e-noir",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Babylon Berlin giunge alla stagione finale tra crisi storica e noir",
+      "summary": "Sky Atlantic trasmette gli episodi conclusivi di 'Babylon Berlin', la serie di Tom Tykwer e colleghi ambientata all'alba della dittatura nel 1933 tra cabaret berlinesi e indagini poliziesche.",
+      "body": [
+        "Sky Atlantic trasmette gli episodi conclusivi di 'Babylon Berlin', la serie di Tom Tykwer e colleghi ambientata all'alba della dittatura nel 1933 tra cabaret berlinesi e indagini poliziesche."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:04:00.392119+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/spettacolo/cinema/2026/11/11/babylon-berlin-5-recensione-episodi-1-2",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:04:00.392119+00:00",
+        "dateEvidence": "La pagina originale di Sky TG24 riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "cultura-la-commedia-brasiliana-la-mia-migliore-amica-debutta-su-netflix",
+      "eventKey": "la-commedia-brasiliana-la-mia-migliore-amica-debutta-su-netflix",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "La commedia brasiliana La mia migliore amica debutta su Netflix",
+      "summary": "Il film 'Minha Melhor Amiga' di Susana Garcia, incentrato sul viaggio in Europa di due cinquantenni brasiliane interpretate da Ingrid Guimarães e Mônica Martelli, approda sulla piattaforma streaming.",
+      "body": [
+        "Il film 'Minha Melhor Amiga' di Susana Garcia, incentrato sul viaggio in Europa di due cinquantenni brasiliane interpretate da Ingrid Guimarães e Mônica Martelli, approda sulla piattaforma streaming."
+      ],
+      "publishedAt": "2026-11-10",
+      "verifiedAt": "2026-11-11T14:04:00.564597+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/spettacolo/cinema/2026/11/10/la-mia-migliore-amica-film-netflix",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:04:00.564597+00:00",
+        "dateEvidence": "La pagina originale di Sky TG24 riporta la data di pubblicazione 2026-11-10.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    }
+  ]
 }
