@@ -3,53 +3,236 @@
   "editionDate": "2026-11-11",
   "collectionId": "2026-11-11-mattina",
   "category": "Politica",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-11T07:00:45.700Z",
   "articles": [
-    {
-      "id": "politica-vertice-maggioranza-manovra-novembre",
-      "eventKey": "vertice-maggioranza-modifiche-manovra-novembre-2026",
-      "category": "Politica",
-      "status": "verified",
-      "title": "Manovra, Tajani e Salvini chiedono un confronto sulle modifiche",
-      "summary": "I due vicepremier sollecitano un vertice con Meloni per definire quali correzioni alla legge di bilancio siano praticabili. Non è ancora stata fissata una data.",
-      "body": [
-        "La maggioranza valuta un nuovo confronto sulla manovra economica: secondo fonti interne citate da ANSA, Antonio Tajani e Matteo Salvini hanno chiesto alla presidente del Consiglio Giorgia Meloni un vertice per esaminare le modifiche possibili.",
-        "Tra i nodi discussi figurano pensioni, risorse per il Superbonus ed exit tax. La disponibilità di coperture è limitata e non risulta ancora fissata una data per la riunione."
-      ],
-      "publishedAt": "2026-11-10T20:37:00+01:00",
-      "verifiedAt": "2026-11-11T05:06:18.283Z",
-      "source": {
-        "name": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/10/verso-un-nuovo-vertice-maggioranza-sulla-manovra-per-fare-il-punto-sulle_5a86a332-6d2c-420b-aeb5-6bd2eb586258.html",
-        "access": "free",
-        "accessCheckedAt": "2026-11-11T05:06:18.283Z",
-        "dateEvidence": "Nell'intestazione dell'articolo ANSA compare ROMA, 10 novembre 2026, 20:37.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
     {
       "id": "politica-meloni-aiuti-ucraina-firma-giorgetti",
       "eventKey": "meloni-chiarimento-firma-giorgetti-aiuti-ucraina-novembre-2026",
       "category": "Politica",
       "status": "verified",
-      "title": "Aiuti all'Ucraina, Meloni esclude un cambio di linea del governo",
-      "summary": "La presidente del Consiglio ha spiegato che il ritardo nella firma di Giorgetti sul nuovo pacchetto di aiuti dipende dalla sua assenza da Roma, non da un dissenso formalizzato; Crosetto ha definito il passaggio al Copasir parte della procedura.",
+      "title": "Aiuti all’Ucraina, Meloni conferma la linea del governo",
+      "summary": "La presidente del Consiglio ha detto che il ministro dell’Economia firmerà il decreto sulle forniture militari al rientro a Roma. La Lega ha espresso riserve sul sostegno a Kiev.",
       "body": [
-        "Durante una visita alla fiera Eima di Bologna, Giorgia Meloni ha attribuito la mancata firma del ministro dell'Economia sul nuovo pacchetto di aiuti a Kiev a un impedimento temporaneo: Giorgetti si trovava a Bruxelles per le riunioni europee e, trattandosi di un documento classificato, non poteva firmarlo da remoto.",
-        "La premier ha sostenuto che la maggioranza ha finora trovato una sintesi e che la posizione italiana sull'Ucraina non cambierà. Il ministro della Difesa Guido Crosetto ha spiegato che l'audizione al Copasir rientra nell'iter previsto per gli aiuti."
+        "La presidente del Consiglio ha detto che il ministro dell’Economia firmerà il decreto sulle forniture militari al rientro a Roma. La Lega ha espresso riserve sul sostegno a Kiev.",
+        "Meloni ha ribadito che la posizione italiana sul sostegno all’Ucraina non cambia."
       ],
       "publishedAt": "2026-11-10T15:34:00+01:00",
-      "verifiedAt": "2026-11-11T07:00:45.700Z",
+      "verifiedAt": "2026-11-11T14:02:02.356471+00:00",
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it/sito/notizie/politica/2026/11/10/ucraina-meloni-sempre-trovata-una-sintesi-la-posizione-dellitalia-non-cambiera_83808254-a528-4178-aee1-ade2f46fc15d.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-11T07:00:45.700Z",
+        "accessCheckedAt": "2026-11-11T14:02:02.356471+00:00",
         "dateEvidence": "Nell'intestazione dell'articolo ANSA è indicato ROMA, 10 novembre 2026, 15:34.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "politica-vertice-maggioranza-manovra-novembre",
+      "eventKey": "vertice-maggioranza-modifiche-manovra-novembre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Manovra economica, Tajani e Salvini chiedono a Meloni un vertice per definire le modifiche",
+      "summary": "I vicepremier Antonio Tajani e Matteo Salvini hanno sollecitato un confronto collegiale con Giorgia Meloni per fare il punto sui dossier aperti della legge di bilancio. I temi principali riguardano pensioni, superbonus ed exit tax a fronte di risorse limitate.",
+      "body": [
+        "I vicepremier Antonio Tajani e Matteo Salvini hanno sollecitato un confronto collegiale con Giorgia Meloni per fare il punto sui dossier aperti della legge di bilancio. I temi principali riguardano pensioni, superbonus ed exit tax a fronte di risorse limitate.",
+        "I tecnici attendono indicazioni chiare dal vertice di maggioranza per stabilire quali emendamenti potranno essere formalmente accolti."
+      ],
+      "publishedAt": "2026-11-10T20:37:00+01:00",
+      "verifiedAt": "2026-11-11T14:02:01.944770+00:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/10/verso-un-nuovo-vertice-maggioranza-sulla-manovra-per-fare-il-punto-sulle_5a86a332-6d2c-420b-aeb5-6bd2eb586258.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:01.944770+00:00",
+        "dateEvidence": "Nell'intestazione dell'articolo ANSA compare ROMA, 10 novembre 2026, 20:37.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PalazzoChigi.jpeg",
+        "alt": "Palazzo Chigi, Roma",
+        "credit": "Arepo",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg",
+        "rights": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · Palazzo Chigi, Roma. Fotografia non riferita agli eventi di oggi.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      },
+      "leadPriority": 85
+    },
+    {
+      "id": "politica-legge-di-bilancio-audizioni-parlamentari-critiche-dall-abi-e-mobilitaz",
+      "eventKey": "legge-di-bilancio-audizioni-parlamentari-critiche-dall-abi-e-mobilitazione-sindacale",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Legge di bilancio, audizioni parlamentari: critiche dall'Abi e mobilitazione sindacale",
+      "summary": "Nel secondo giorno di audizioni sulla manovra, l'Associazione Bancaria Italiana ha lanciato l'allarme sull'impatto fiscale da 22 miliardi a carico degli istituti di credito, paventando rischi di incostituzionalità e contrazioni nei prestiti. Forti riserve sono state espresse anche dalle categorie produttive e dai sindacati, con la CGIL pronta a scendere in piazza il 20 novembre.",
+      "body": [
+        "Nel secondo giorno di audizioni sulla manovra, l'Associazione Bancaria Italiana ha lanciato l'allarme sull'impatto fiscale da 22 miliardi a carico degli istituti di credito, paventando rischi di incostituzionalità e contrazioni nei prestiti. Forti riserve sono state espresse anche dalle categorie produttive e dai sindacati, con la CGIL pronta a scendere in piazza il 20 novembre.",
+        "Sotto osservazione anche le misure spalmacrediti per il superbonus, ritenute penalizzanti per il settore finanziario."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:01:58.066687+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/manovra-attacco-incrociato-di-banche-categorie-e-sindacati-salsano-bfeb4e97-2b72-49f2-bdb6-2b12794f7941.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:01:58.066687+00:00",
+        "dateEvidence": "La pagina originale di RaiNews riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "politica-manovra-e-bollo-auto-meloni-lancia-serie-video-per-rivendicare-i-rispa",
+      "eventKey": "manovra-e-bollo-auto-meloni-lancia-serie-video-per-rivendicare-i-risparmi-per-i-cittadini",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Manovra e bollo auto, Meloni lancia serie video per rivendicare i risparmi per i cittadini",
+      "summary": "Con un messaggio diffuso sui social, la premier Giorgia Meloni ha annunciato l'avvio di una rubrica video per illustrare i provvedimenti cardine della manovra finanziaria. Il primo focus è dedicato allo stop del bollo auto, stimato dalla presidente del Consiglio in 2,3 miliardi di risparmi complessivi.",
+      "body": [
+        "Con un messaggio diffuso sui social, la premier Giorgia Meloni ha annunciato l'avvio di una rubrica video per illustrare i provvedimenti cardine della manovra finanziaria. Il primo focus è dedicato allo stop del bollo auto, stimato dalla presidente del Consiglio in 2,3 miliardi di risparmi complessivi.",
+        "Meloni ha rimarcato la discontinuità con i governi precedenti, sottolineando il passaggio dagli annunci all'attuazione della misura."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:02.024325+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/manovra-meloni-in-video-senza-il-bollo-auto-gli-italiani-risparmiano-23-miliardi-83368177-5ffc-4489-b80f-975b2592a9ba.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:02.024325+00:00",
+        "dateEvidence": "La pagina originale di RaiNews riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "politica-sondaggio-youtrend-per-sky-tg24-cala-il-distacco-tra-fdi-e-pd-promossa",
+      "eventKey": "sondaggio-youtrend-per-sky-tg24-cala-il-distacco-tra-fdi-e-pd-promossa-la-cancellazione-del-bol",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Sondaggio YouTrend per Sky TG24: cala il distacco tra FdI e PD, promossa la cancellazione del bollo",
+      "summary": "Secondo la più recente rilevazione Quorum/YouTrend, Fratelli d'Italia registra una flessione che riduce a 7 punti il margine sul Partito Democratico, mentre aumentano gli elettori indecisi. Sulla manovra i cittadini promuovono l'abolizione del bollo e il conto nuovi nati, bocciando i tagli alla scuola e le spese per la difesa.",
+      "body": [
+        "Secondo la più recente rilevazione Quorum/YouTrend, Fratelli d'Italia registra una flessione che riduce a 7 punti il margine sul Partito Democratico, mentre aumentano gli elettori indecisi. Sulla manovra i cittadini promuovono l'abolizione del bollo e il conto nuovi nati, bocciando i tagli alla scuola e le spese per la difesa.",
+        "Tra le misure avanzate dalle opposizioni riscuote un consenso trasversale molto ampio la proposta sul salario minimo legale."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:01.723230+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/video/2026/11/11/il-sondaggio-di-youtrend-per-sky-tg24-1139164",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:01.723230+00:00",
+        "dateEvidence": "La pagina originale di Sky TG24 riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
       }
     }
   ],
-  "reserveDraft": []
+  "completedAt": "2026-11-11T14:10:21.187920+00:00",
+  "reserveArticles": [
+    {
+      "id": "politica-giustizia-mattarella-ai-magistrati-tirocinanti-necessaria-la-totale-in",
+      "eventKey": "giustizia-mattarella-ai-magistrati-tirocinanti-necessaria-la-totale-indipendenza-da-altri-poter",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Giustizia, Mattarella ai magistrati tirocinanti: necessaria la totale indipendenza da altri poteri",
+      "summary": "Il capo dello Stato Sergio Mattarella ha richiamato il principio di parità di tutti i cittadini di fronte alla legge, garantito unicamente dall'autonomia della magistratura e dal riserbo professionale.",
+      "body": [
+        "Il capo dello Stato Sergio Mattarella ha richiamato il principio di parità di tutti i cittadini di fronte alla legge, garantito unicamente dall'autonomia della magistratura e dal riserbo professionale."
+      ],
+      "publishedAt": "2026-11-10",
+      "verifiedAt": "2026-11-11T14:01:58.093058+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/11/10/mattarella-indipendenza-magistratura",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:01:58.093058+00:00",
+        "dateEvidence": "La pagina originale di Sky TG24 riporta la data di pubblicazione 2026-11-10.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "politica-cybersecurity-piantedosi-avverte-offensive-digitali-mirate-a-destabili",
+      "eventKey": "cybersecurity-piantedosi-avverte-offensive-digitali-mirate-a-destabilizzare-le-democrazie",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Cybersecurity, Piantedosi avverte: offensive digitali mirate a destabilizzare le democrazie",
+      "summary": "Il ministro dell'Interno Matteo Piantedosi ha denunciato la natura ostile degli attacchi informatici contro le istituzioni, assicurando che lo Stato possiede gli strumenti per respingere i tentativi di disinformazione.",
+      "body": [
+        "Il ministro dell'Interno Matteo Piantedosi ha denunciato la natura ostile degli attacchi informatici contro le istituzioni, assicurando che lo Stato possiede gli strumenti per respingere i tentativi di disinformazione."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:01.800435+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/11/11/piantedosi-hacker-attacco-italia",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:01.800435+00:00",
+        "dateEvidence": "La pagina originale di Sky TG24 riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "politica-energia-meloni-all-eima-di-bologna-con-il-decreto-bollette-impatto-con",
+      "eventKey": "energia-meloni-all-eima-di-bologna-con-il-decreto-bollette-impatto-concreto-su-imprese-e-costi",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Energia, Meloni all'Eima di Bologna: con il decreto bollette impatto concreto su imprese e costi",
+      "summary": "Intervenendo alla rassegna agricola di Bologna, la presidente del Consiglio ha difeso l'efficacia del dl bollette, sostenendo che gli interventi strutturali favoriranno la progressiva discesa dei prezzi energetici.",
+      "body": [
+        "Intervenendo alla rassegna agricola di Bologna, la presidente del Consiglio ha difeso l'efficacia del dl bollette, sostenendo che gli interventi strutturali favoriranno la progressiva discesa dei prezzi energetici."
+      ],
+      "publishedAt": "2026-11-10",
+      "verifiedAt": "2026-11-11T14:01:57.997736+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/meloni-alleima-difende-il-dl-bollette-e-punge-la-sinistra-abbiamo-toccato-interessi-mai-toccati-b3cf268e-b2d1-4c78-862e-7dd48c20357b.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:01:57.997736+00:00",
+        "dateEvidence": "La pagina originale di RaiNews riporta la data di pubblicazione 2026-11-10.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "politica-vertice-anac-meloni-dice-che-il-governo-sta-ancora-lavorando-alla-scel",
+      "eventKey": "vertice-anac-meloni-dice-che-il-governo-sta-ancora-lavorando-alla-scelta",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Vertice Anac, Meloni dice che il governo sta ancora lavorando alla scelta",
+      "summary": "La presidente del Consiglio ha riferito che la scelta del nuovo presidente dell’Autorità anticorruzione è ancora in discussione. Ha difeso la possibilità di valutare anche una figura indicata dalla Lega.",
+      "body": [
+        "La presidente del Consiglio ha riferito che la scelta del nuovo presidente dell’Autorità anticorruzione è ancora in discussione. Ha difeso la possibilità di valutare anche una figura indicata dalla Lega."
+      ],
+      "publishedAt": "2026-11-10",
+      "verifiedAt": "2026-11-11T14:02:02.439211+00:00",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/video/2026/11/10/anac-meloni-1139039",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:02.439211+00:00",
+        "dateEvidence": "La pagina originale di Sky TG24 riporta la data di pubblicazione 2026-11-10.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "politica-lollobrigida-atteso-a-perugia-per-un-incontro-su-ricerca-e-agroaliment",
+      "eventKey": "lollobrigida-atteso-a-perugia-per-un-incontro-su-ricerca-e-agroalimentare",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Lollobrigida atteso a Perugia per un incontro su ricerca e agroalimentare",
+      "summary": "Il ministro è annunciato alla tappa perugina di Pulsar del 14 novembre. L’incontro durante Eurochocolate è dedicato al contributo della ricerca alle produzioni agroalimentari.",
+      "body": [
+        "Il ministro è annunciato alla tappa perugina di Pulsar del 14 novembre. L’incontro durante Eurochocolate è dedicato al contributo della ricerca alle produzioni agroalimentari."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:01.438559+00:00",
+      "source": {
+        "name": "Open",
+        "url": "https://www.open.online/2026/11/11/pulsar-arriva-perugia-scienza-incontra-cioccolato-festival-stem-ministro-lollobrigida/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:01.438559+00:00",
+        "dateEvidence": "La pagina originale di Open riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    }
+  ]
 }

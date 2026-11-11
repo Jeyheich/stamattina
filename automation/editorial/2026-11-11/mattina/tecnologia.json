@@ -3,49 +3,27 @@
   "editionDate": "2026-11-11",
   "collectionId": "2026-11-11-mattina",
   "category": "Tecnologia · AI",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-11T06:01:57.603Z",
   "articles": [
     {
       "id": "tecnologia-binance-vulnerabilita-ios-wallet",
       "eventKey": "binance-segnalazione-vulnerabilita-ios-wallet-novembre-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "Binance segnala un rischio per i wallet su alcune versioni di iOS",
-      "summary": "Binance ha avvertito che una vulnerabilità chiamata worse_query potrebbe consentire a un'app di leggere dati di altre applicazioni, comprese chiavi e credenziali dei wallet. Non risultano attacchi confermati e non è chiaro se Apple abbia già corretto il problema.",
+      "title": "Vulnerabilità su iOS: Binance mette in guardia sui rischi per i crypto-wallet",
+      "summary": "Binance ha allertato i propri utenti circa la presenza di una vulnerabilità di sicurezza su iOS che potrebbe permettere a malintenzionati di accedere alle seed phrase, alle credenziali e alle chiavi private dei wallet.",
       "body": [
-        "Binance ha avvertito che una vulnerabilità chiamata worse_query potrebbe consentire a un'app di leggere dati di altre applicazioni, comprese chiavi e credenziali dei wallet. Non risultano attacchi confermati e non è chiaro se Apple abbia già corretto il problema."
+        "Binance ha allertato i propri utenti circa la presenza di una vulnerabilità di sicurezza su iOS che potrebbe permettere a malintenzionati di accedere alle seed phrase, alle credenziali e alle chiavi private dei wallet.",
+        "La falla, denominata worse_query, è stata resa nota mentre la piattaforma porta avanti le operazioni di recupero a seguito del recente furto da 6,3 miliardi di dollari."
       ],
       "publishedAt": "2026-11-10",
-      "verifiedAt": "2026-11-11T06:01:57.603Z",
+      "verifiedAt": "2026-11-11T14:02:02.445916+00:00",
       "source": {
         "name": "Punto Informatico",
         "url": "https://www.punto-informatico.it/binance-avvisa-bug-ios-permette-accesso-wallet/",
         "access": "free",
-        "accessCheckedAt": "2026-11-11T06:01:57.603Z",
+        "accessCheckedAt": "2026-11-11T14:02:02.445916+00:00",
         "dateEvidence": "La pagina dell'articolo mostra esplicitamente 'Pubblicato il 10 nov 2026'.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
-      }
-    },
-    {
-      "id": "tecnologia-gemini-carbon-accesso-ampliato",
-      "eventKey": "google-gemini-4-carbon-accesso-ampliato-novembre-2026",
-      "category": "Tecnologia · AI",
-      "status": "verified",
-      "title": "Google amplia l'accesso al modello Gemini 4 Carbon",
-      "summary": "Dopo una fase limitata a poche organizzazioni, Google ha esteso l'accesso al modello Gemini 4 Carbon a sviluppatori e altri utenti secondo canali e piani differenti. L'annuncio comprende funzionalità per attività agentiche e programmazione.",
-      "body": [
-        "Dopo una fase limitata a poche organizzazioni, Google ha esteso l'accesso al modello Gemini 4 Carbon a sviluppatori e altri utenti secondo canali e piani differenti. L'annuncio comprende funzionalità per attività agentiche e programmazione."
-      ],
-      "publishedAt": "2026-11-10",
-      "verifiedAt": "2026-11-11T06:01:57.603Z",
-      "source": {
-        "name": "Punto Informatico",
-        "url": "https://www.punto-informatico.it/google-gemini-4-carbon-disponibile-tutti/",
-        "access": "free",
-        "accessCheckedAt": "2026-11-11T06:01:57.603Z",
-        "dateEvidence": "La pagina originale riporta in calce 'Pubblicato il 10 nov 2026'.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
       }
     },
     {
@@ -53,23 +31,196 @@
       "eventKey": "chrome-incognito-safe-browsing-tempo-reale-test-2026",
       "category": "Tecnologia · AI",
       "status": "verified",
-      "title": "Chrome sperimenta controlli anti-phishing in tempo reale anche in Incognito",
-      "summary": "Google sta sviluppando una verifica in tempo reale dei siti per la navigazione in Incognito, che oggi può affidarsi a elenchi locali. La funzione è sperimentale, disattivata per impostazione predefinita e senza data di rilascio annunciata.",
+      "title": "Chrome sperimenta controlli anti-phishing in modalità Incognito",
+      "summary": "Google sta provando controlli in tempo reale contro i siti ingannevoli anche nelle sessioni in incognito.",
       "body": [
-        "Google sta sviluppando una verifica in tempo reale dei siti per la navigazione in Incognito, che oggi può affidarsi a elenchi locali. La funzione è sperimentale, disattivata per impostazione predefinita e senza data di rilascio annunciata."
+        "Google sta provando controlli in tempo reale contro i siti ingannevoli anche nelle sessioni in incognito.",
+        "Punto Informatico descrive una funzione in fase di sperimentazione."
       ],
       "publishedAt": "2026-11-10",
-      "verifiedAt": "2026-11-11T06:01:57.603Z",
+      "verifiedAt": "2026-11-11T14:02:02.576342+00:00",
       "source": {
         "name": "Punto Informatico",
         "url": "https://www.punto-informatico.it/chrome-anche-incognito-scudo-anti-truffa/",
         "access": "free",
-        "accessCheckedAt": "2026-11-11T06:01:57.603Z",
+        "accessCheckedAt": "2026-11-11T14:02:02.576342+00:00",
         "dateEvidence": "Il testo integrale indica 'Pubblicato il 10 nov 2026' in fondo all'articolo.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "tecnologia-gemini-carbon-accesso-ampliato",
+      "eventKey": "google-gemini-4-carbon-accesso-ampliato-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Google amplia la disponibilità del modello Gemini 4 Carbon",
+      "summary": "Dopo un periodo iniziale di accesso ristretto ai laboratori di sicurezza informatica, Google ha esteso l'accesso al modello Gemini 4 Carbon a sviluppatori, aziende, ricercatori e consumatori.",
+      "body": [
+        "Dopo un periodo iniziale di accesso ristretto ai laboratori di sicurezza informatica, Google ha esteso l'accesso al modello Gemini 4 Carbon a sviluppatori, aziende, ricercatori e consumatori.",
+        "La versione, integrata nell'app Gemini e in AI Mode, introduce potenziamenti nei meccanismi di protezione contro gli abusi cyber e supporta le nuove funzionalità multi-agente Swarm."
+      ],
+      "publishedAt": "2026-11-10",
+      "verifiedAt": "2026-11-11T14:02:03.269657+00:00",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/google-gemini-4-carbon-disponibile-tutti/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:03.269657+00:00",
+        "dateEvidence": "La pagina originale riporta in calce 'Pubblicato il 10 nov 2026'.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "tecnologia-playstation-5-tocca-il-traguardo-delle-100-milioni-di-console-distribu",
+      "eventKey": "playstation-5-tocca-il-traguardo-delle-100-milioni-di-console-distribuite",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "PlayStation 5 tocca il traguardo delle 100 milioni di console distribuite",
+      "summary": "Sony Group ha annunciato il superamento delle 100 milioni di unità di PlayStation 5 distribuite globalmente a sei anni dal debutto sul mercato nel novembre 2020.",
+      "body": [
+        "Sony Group ha annunciato il superamento delle 100 milioni di unità di PlayStation 5 distribuite globalmente a sei anni dal debutto sul mercato nel novembre 2020.",
+        "La spinta delle vendite ha visto l'immissione di altri 2,1 milioni di console tra modelli Slim e Pro nei soli quaranta giorni successivi alla chiusura di settembre."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:00.744674+00:00",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/playstation-5-quota-100-milioni-console-distribuite-sei-anni-aumenti-prezzo-910909.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:00.744674+00:00",
+        "dateEvidence": "La pagina originale di Everyeye riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "tecnologia-sony-annuncia-la-collector-s-edition-di-god-of-war-laufey-senza-copia-",
+      "eventKey": "sony-annuncia-la-collector-s-edition-di-god-of-war-laufey-senza-copia-del-gioco",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Sony annuncia la Collector's Edition di God of War Laufey senza copia del gioco",
+      "summary": "In occasione dell'apertura dei preordini, Sony ha svelato l'edizione limitata di God of War Laufey, pensata per i collezionisti ma priva del disco o del codice per il download.",
+      "body": [
+        "In occasione dell'apertura dei preordini, Sony ha svelato l'edizione limitata di God of War Laufey, pensata per i collezionisti ma priva del disco o del codice per il download.",
+        "La confezione comprende elementi fisici dedicati e impone l'acquisto a parte del titolo, lasciando agli utenti la scelta tra formato fisico o digitale."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:00.935101+00:00",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/god-of-war-laufey-collector-s-edition-gioco-discutere-fan-905752.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:00.935101+00:00",
+        "dateEvidence": "La pagina originale di Everyeye riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
       }
     }
   ],
-  "reserveArticles": [],
-  "reserveDraft": []
+  "completedAt": "2026-11-11T14:10:21.192173+00:00",
+  "reserveArticles": [
+    {
+      "id": "tecnologia-anthropic-introduce-strumenti-per-dati-e-fogli-di-calcolo-su-claude-pe",
+      "eventKey": "anthropic-introduce-strumenti-per-dati-e-fogli-di-calcolo-su-claude-per-sfidare-office",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Anthropic introduce strumenti per dati e fogli di calcolo su Claude per sfidare Office",
+      "summary": "Anthropic ha arricchito le funzionalità di Claude con l'integrazione di Whiteboards, Sheets e Data, trasformando l'assistente conversazionale in una piattaforma di produttività per l'ufficio.",
+      "body": [
+        "Anthropic ha arricchito le funzionalità di Claude con l'integrazione di Whiteboards, Sheets e Data, trasformando l'assistente conversazionale in una piattaforma di produttività per l'ufficio."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:01.988176+00:00",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/claude-whiteboards-sheets-data/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:01.988176+00:00",
+        "dateEvidence": "La pagina originale di Punto Informatico riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "tecnologia-falla-in-grok-build-esposti-i-dati-di-migliaia-di-progetti-e-dell-azie",
+      "eventKey": "falla-in-grok-build-esposti-i-dati-di-migliaia-di-progetti-e-dell-azienda",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Falla in Grok Build: esposti i dati di migliaia di progetti e dell'azienda",
+      "summary": "I ricercatori di sicurezza hanno riscontrato una vulnerabilità nella condivisione dei link dell'agente Grok Build che consente l'accesso a dati riservati di oltre 35.000 applicazioni create dagli utenti.",
+      "body": [
+        "I ricercatori di sicurezza hanno riscontrato una vulnerabilità nella condivisione dei link dell'agente Grok Build che consente l'accesso a dati riservati di oltre 35.000 applicazioni create dagli utenti."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:10.106657+00:00",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/grok-build-svela-dati-riservati-anche-quelli-di-spacexsi/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:10.106657+00:00",
+        "dateEvidence": "La pagina originale di Punto Informatico riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "tecnologia-digital-fairness-act-l-unione-europea-propone-nuove-tutele-per-consuma",
+      "eventKey": "digital-fairness-act-l-unione-europea-propone-nuove-tutele-per-consumatori-e-minori",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Digital Fairness Act: l'Unione Europea propone nuove tutele per consumatori e minori",
+      "summary": "La Commissione europea ha presentato la proposta legislativa del Digital Fairness Act per contrastare le pratiche commerciali manipolative online e rafforzare le indagini a tutela dei consumatori e dei più giovani.",
+      "body": [
+        "La Commissione europea ha presentato la proposta legislativa del Digital Fairness Act per contrastare le pratiche commerciali manipolative online e rafforzare le indagini a tutela dei consumatori e dei più giovani."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:10.366338+00:00",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/digital-fairness-act-nuove-tutele-consumatori-minori/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:10.366338+00:00",
+        "dateEvidence": "La pagina originale di Punto Informatico riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "tecnologia-playstation-store-aggiunge-una-sezione-per-acquistare-console-e-access",
+      "eventKey": "playstation-store-aggiunge-una-sezione-per-acquistare-console-e-accessori-fisici",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "PlayStation Store aggiunge una sezione per acquistare console e accessori fisici",
+      "summary": "Sony ha integrato all'interno del PlayStation Store una nuova scheda hardware dedicata all'acquisto diretto di console PlayStation 5, visori PSVR2, controller e dispositivi periferici.",
+      "body": [
+        "Sony ha integrato all'interno del PlayStation Store una nuova scheda hardware dedicata all'acquisto diretto di console PlayStation 5, visori PSVR2, controller e dispositivi periferici."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:10.374123+00:00",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/playstation-store-possono-acquistare-console-accessori-come-funziona-910954.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:10.374123+00:00",
+        "dateEvidence": "La pagina originale di Everyeye riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "tecnologia-sony-finisce-nella-hall-of-shame-australiana-per-le-politiche-sui-diri",
+      "eventKey": "sony-finisce-nella-hall-of-shame-australiana-per-le-politiche-sui-diritti-digitali",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Sony finisce nella Hall of Shame australiana per le politiche sui diritti digitali",
+      "summary": "L'associazione di tutela dei consumatori australiana Choice ha assegnato a Sony il premio Hall of Shame a causa della mancata tutela della proprietà dei contenuti digitali acquistati dai giocatori.",
+      "body": [
+        "L'associazione di tutela dei consumatori australiana Choice ha assegnato a Sony il premio Hall of Shame a causa della mancata tutela della proprietà dei contenuti digitali acquistati dai giocatori."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:10.133715+00:00",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/playstation-finisce-dritta-hall-of-shame-pratiche-anti-consumatore-910934.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:10.133715+00:00",
+        "dateEvidence": "La pagina originale di Everyeye riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    }
+  ]
 }

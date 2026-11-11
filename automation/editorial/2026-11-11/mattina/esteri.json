@@ -3,31 +3,236 @@
   "editionDate": "2026-11-11",
   "collectionId": "2026-11-11-mattina",
   "category": "Esteri",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-11T05:06:27.207Z",
   "articles": [
     {
       "id": "esteri-colloqui-abu-dhabi-russia-ucraina-usa",
       "eventKey": "colloqui-trilaterali-abu-dhabi-russia-ucraina-usa-novembre-2026",
       "category": "Esteri",
       "status": "verified",
-      "title": "Russia, Ucraina e Stati Uniti al tavolo di Abu Dhabi",
-      "summary": "Una fonte locale citata dalla Tass ha indicato per il 10 novembre l'avvio dei colloqui trilaterali ad Abu Dhabi. La notizia annuncia l'inizio previsto, non un esito del negoziato.",
+      "title": "Ad Abu Dhabi i colloqui trilaterali tra Russia, Ucraina e Stati Uniti",
+      "summary": "Ad Abu Dhabi prendono il via i colloqui trilaterali che vedono seduti allo stesso tavolo le delegazioni di Russia, Ucraina e Stati Uniti per un confronto diplomatico diretto.",
       "body": [
-        "I colloqui tra Russia, Ucraina e Stati Uniti ad Abu Dhabi erano previsti per le 8:50 italiane del 10 novembre, secondo una fonte locale citata dall'agenzia russa Tass e ripresa da ANSA.",
-        "L'informazione riguarda il calendario dei negoziati; non attesta né accordi raggiunti né risultati successivi."
+        "Ad Abu Dhabi prendono il via i colloqui trilaterali che vedono seduti allo stesso tavolo le delegazioni di Russia, Ucraina e Stati Uniti per un confronto diplomatico diretto.",
+        "Secondo quanto reso noto da una fonte locale all'agenzia di stampa russa Tass, l'inizio dell'incontro è stato programmato per le 8:50 ora italiana."
       ],
       "publishedAt": "2026-11-10T07:41:00+01:00",
-      "verifiedAt": "2026-11-11T05:06:27.207Z",
+      "verifiedAt": "2026-11-11T14:02:02.242092+00:00",
       "source": {
         "name": "ANSA",
         "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/10/tra-due-ore-al-via-i-colloqui-russia-ucraina-usa-ad-abu-dhabi_9fdfde25-3337-4698-8606-634709687769.html",
         "access": "free",
-        "accessCheckedAt": "2026-11-11T05:06:27.207Z",
+        "accessCheckedAt": "2026-11-11T14:02:02.242092+00:00",
         "dateEvidence": "La pagina ANSA riporta ROMA, 10 novembre 2026, 07:41 nell'intestazione.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "esteri-suv-travolge-la-folla-vicino-alla-metro-di-north-hollywood-a-los-angel",
+      "eventKey": "suv-travolge-la-folla-vicino-alla-metro-di-north-hollywood-a-los-angeles-tre-vittime",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Suv travolge la folla vicino alla metro di North Hollywood a Los Angeles: tre vittime",
+      "summary": "A Los Angeles un grave incidente ha provocato tre morti e tre feriti in condizioni critiche dopo che un SUV è piombato sui pedoni vicino alla stazione metro di North Hollywood.",
+      "body": [
+        "A Los Angeles un grave incidente ha provocato tre morti e tre feriti in condizioni critiche dopo che un SUV è piombato sui pedoni vicino alla stazione metro di North Hollywood.",
+        "Il veicolo è finito sopra il marciapiede nei pressi delle tende di alcuni venditori ambulanti, mentre le forze dell'ordine indagano sulle cause esaminando i filmati di sorveglianza."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:01:58.761474+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/intervento-della-polizia-dopo-che-un-veicolo-ha-ucciso-3-pedoni-a-los-angeles-6828fe29-5d51-42c8-b744-27db19aadb00.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:01:58.761474+00:00",
+        "dateEvidence": "La pagina originale di RaiNews riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "esteri-scontro-e-tensioni-alla-knesset-durante-il-discorso-di-netanyahu",
+      "eventKey": "scontro-e-tensioni-alla-knesset-durante-il-discorso-di-netanyahu",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Scontro e tensioni alla Knesset durante il discorso di Netanyahu",
+      "summary": "La seduta inaugurale della ventiseiesima Knesset a Gerusalemme è stata segnata da dure contestazioni e bagarre durante l'intervento del premier uscente Benjamin Netanyahu.",
+      "body": [
+        "La seduta inaugurale della ventiseiesima Knesset a Gerusalemme è stata segnata da dure contestazioni e bagarre durante l'intervento del premier uscente Benjamin Netanyahu.",
+        "Netanyahu ha invocato la nascita di un esecutivo di unità nazionale e sollecitato accertamenti su presunte interferenze estere nelle ultime consultazioni elettorali."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:01:58.547801+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/israele-bagarre-alla-knesset-netanyahu-chiede-un-governo-di-unita-nazionale-gli-oppositori-lo-fischiano-557c4a5d-381f-41f8-a068-224113597d9a.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:01:58.547801+00:00",
+        "dateEvidence": "La pagina originale di RaiNews riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Knesset_Building_%28From_Front%29.JPG",
+        "alt": "La Knesset, Gerusalemme",
+        "credit": "Effib",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knesset_Building_%28From_Front%29.JPG",
+        "rights": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · La Knesset, Gerusalemme. Fotografia non riferita agli eventi di oggi.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      },
+      "leadPriority": 85
+    },
+    {
+      "id": "esteri-operazione-dell-fsb-a-kaliningrad-contro-una-presunta-rete-di-spionagg",
+      "eventKey": "operazione-dell-fsb-a-kaliningrad-contro-una-presunta-rete-di-spionaggio-polacca",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Operazione dell'FSB a Kaliningrad contro una presunta rete di spionaggio polacca",
+      "summary": "Il Servizio federale di sicurezza russo ha annunciato l'arresto a Kaliningrad di due presunti agenti polacchi accusati di aver raccolto informazioni riservate su obiettivi militari.",
+      "body": [
+        "Il Servizio federale di sicurezza russo ha annunciato l'arresto a Kaliningrad di due presunti agenti polacchi accusati di aver raccolto informazioni riservate su obiettivi militari.",
+        "Nel quadro della medesima operazione, le autorità di Mosca hanno inoltre formalizzato diffide per spionaggio e alto tradimento a carico di altri sette cittadini polacchi e tre russi."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:03.590493+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/mosca-blitz-contro-rete-spie-polacche-due-agenti-varsavia-in-arresto-alta-tensione-russia-polonia-f0fb8766-1d59-443b-9e58-db725b4a3083.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:03.590493+00:00",
+        "dateEvidence": "La pagina originale di RaiNews riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "esteri-raid-di-droni-ucraini-sul-porto-di-ust-luga-vasto-rogo-sul-mar-baltico",
+      "eventKey": "raid-di-droni-ucraini-sul-porto-di-ust-luga-vasto-rogo-sul-mar-baltico",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Raid di droni ucraini sul porto di Ust-Luga: vasto rogo sul Mar Baltico",
+      "summary": "Un violento incendio è divampato nello scalo petrolifero russo di Ust-Luga, nella regione di Leningrado, in seguito a un attacco condotto con droni da parte delle forze ucraine.",
+      "body": [
+        "Un violento incendio è divampato nello scalo petrolifero russo di Ust-Luga, nella regione di Leningrado, in seguito a un attacco condotto con droni da parte delle forze ucraine.",
+        "Le fiamme che hanno avvolto l'infrastruttura portuale sul Mar Baltico hanno provocato una colonna di fumo visibile anche a grande distanza lungo le coste estoni."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:01:58.202461+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/attacco-ucraino-incendio-in-porto-petrolifero-sul-baltico-visibile-persino-dallestonia-violento-blitz-di-droni-nella-notte-87ab0091-398f-4ef4-86c6-49be3b2d2006.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:01:58.202461+00:00",
+        "dateEvidence": "La pagina originale di RaiNews riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
       }
     }
   ],
-  "reserveDraft": []
+  "completedAt": "2026-11-11T14:10:21.189893+00:00",
+  "reserveArticles": [
+    {
+      "id": "esteri-visita-pastorale-di-papa-leone-a-cordoba-nel-segno-dell-eredita-di-ber",
+      "eventKey": "visita-pastorale-di-papa-leone-a-cordoba-nel-segno-dell-eredita-di-bergoglio",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Visita pastorale di Papa Leone a Córdoba nel segno dell'eredità di Bergoglio",
+      "summary": "Durante la sua visita in Argentina nella città di Córdoba, Papa Leone ha invitato i fedeli a dare vita a una comunità ecclesiale viva e capace di incidere sui problemi sociali.",
+      "body": [
+        "Durante la sua visita in Argentina nella città di Córdoba, Papa Leone ha invitato i fedeli a dare vita a una comunità ecclesiale viva e capace di incidere sui problemi sociali."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:01:58.785776+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/dello-russo-su-papa-a-cordoba-sognate-chiesa-che-faccia-chiasso-aebc0b29-b3a1-45d8-a4bf-24e429bd45d6.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:01:58.785776+00:00",
+        "dateEvidence": "La pagina originale di RaiNews riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "esteri-ondata-di-falsi-allarmi-bomba-via-mail-nelle-scuole-tra-regno-unito-e-",
+      "eventKey": "ondata-di-falsi-allarmi-bomba-via-mail-nelle-scuole-tra-regno-unito-e-irlanda",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Ondata di falsi allarmi bomba via mail nelle scuole tra Regno Unito e Irlanda",
+      "summary": "Centinaia di istituti scolastici in Irlanda del Nord, Scozia e Regno Unito sono stati evacuati a causa di messaggi minatori telematici poi rivelatisi falsi allarmi.",
+      "body": [
+        "Centinaia di istituti scolastici in Irlanda del Nord, Scozia e Regno Unito sono stati evacuati a causa di messaggi minatori telematici poi rivelatisi falsi allarmi."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:03.641923+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/allarmi-bomba-via-mail-anche-nel-regno-unito-irlanda-e-scozia-minacce-false-671459bc-7354-45af-aa1d-901dc44075d1.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:03.641923+00:00",
+        "dateEvidence": "La pagina originale di RaiNews riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "esteri-bufera-su-nvidia-class-action-e-timori-legati-a-un-presunto-caso-di-sp",
+      "eventKey": "bufera-su-nvidia-class-action-e-timori-legati-a-un-presunto-caso-di-spionaggio",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Bufera su Nvidia: class action e timori legati a un presunto caso di spionaggio",
+      "summary": "Il colosso tecnologico Nvidia e l'amministratore delegato Jensen Huang affrontano una class action e controlli federali dopo le indiscrezioni su una relazione con una donna sospettata di spionaggio.",
+      "body": [
+        "Il colosso tecnologico Nvidia e l'amministratore delegato Jensen Huang affrontano una class action e controlli federali dopo le indiscrezioni su una relazione con una donna sospettata di spionaggio."
+      ],
+      "publishedAt": "2026-11-10",
+      "verifiedAt": "2026-11-11T14:01:58.888336+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/caso-nvidia-class-action-contro-il-colosso-e-il-suo-ceo-jensen-huang--3a87c346-5068-4f04-8ec6-5428bfab621a.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:01:58.888336+00:00",
+        "dateEvidence": "La pagina originale di RaiNews riporta la data di pubblicazione 2026-11-10.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "esteri-incidente-a-catena-sull-autostrada-in-bulgaria-undici-morti-e-decine-d",
+      "eventKey": "incidente-a-catena-sull-autostrada-in-bulgaria-undici-morti-e-decine-di-feriti",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Incidente a catena sull'autostrada in Bulgaria: undici morti e decine di feriti",
+      "summary": "Sull'autostrada A1 in Bulgaria un massiccio tamponamento favorito dalla fitta nebbia ha provocato almeno undici vittime e una cinquantina di feriti tra Yambol e Sofia.",
+      "body": [
+        "Sull'autostrada A1 in Bulgaria un massiccio tamponamento favorito dalla fitta nebbia ha provocato almeno undici vittime e una cinquantina di feriti tra Yambol e Sofia."
+      ],
+      "publishedAt": "2026-11-10",
+      "verifiedAt": "2026-11-11T14:01:58.861768+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/bulgaria-maxi-tamponamento-nella-nebbia-almeno-11-morti-e-50-feriti-bd524635-c37d-43ee-866e-1f35666f5ea6.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:01:58.861768+00:00",
+        "dateEvidence": "La pagina originale di RaiNews riporta la data di pubblicazione 2026-11-10.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "esteri-la-camera-usa-blocca-la-procedura-di-impeachment-contro-il-segretario-",
+      "eventKey": "la-camera-usa-blocca-la-procedura-di-impeachment-contro-il-segretario-hegseth",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "La Camera Usa blocca la procedura di impeachment contro il segretario Hegseth",
+      "summary": "La maggioranza repubblicana alla Camera dei Rappresentanti degli Stati Uniti ha fermato al primo voto procedurale il tentativo di avviare l'impeachment contro il segretario Pete Hegseth.",
+      "body": [
+        "La maggioranza repubblicana alla Camera dei Rappresentanti degli Stati Uniti ha fermato al primo voto procedurale il tentativo di avviare l'impeachment contro il segretario Pete Hegseth."
+      ],
+      "publishedAt": "2026-11-10",
+      "verifiedAt": "2026-11-11T14:01:59.133642+00:00",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/maratona/2026/11/dopo-londa-blu-trump-possiamo-collaborare-con-i-dem-c445ff6c-6393-46d9-9dc9-3ffb08b44d4d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:01:59.133642+00:00",
+        "dateEvidence": "La pagina originale di RaiNews riporta la data di pubblicazione 2026-11-10.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    }
+  ]
 }
