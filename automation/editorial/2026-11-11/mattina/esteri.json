@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-11",
+  "collectionId": "2026-11-11-mattina",
+  "category": "Esteri",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-11T05:06:27.207Z",
+  "articles": [
+    {
+      "id": "esteri-colloqui-abu-dhabi-russia-ucraina-usa",
+      "eventKey": "colloqui-trilaterali-abu-dhabi-russia-ucraina-usa-novembre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Russia, Ucraina e Stati Uniti al tavolo di Abu Dhabi",
+      "summary": "Una fonte locale citata dalla Tass ha indicato per il 10 novembre l'avvio dei colloqui trilaterali ad Abu Dhabi. La notizia annuncia l'inizio previsto, non un esito del negoziato.",
+      "body": [
+        "I colloqui tra Russia, Ucraina e Stati Uniti ad Abu Dhabi erano previsti per le 8:50 italiane del 10 novembre, secondo una fonte locale citata dall'agenzia russa Tass e ripresa da ANSA.",
+        "L'informazione riguarda il calendario dei negoziati; non attesta né accordi raggiunti né risultati successivi."
+      ],
+      "publishedAt": "2026-11-10T07:41:00+01:00",
+      "verifiedAt": "2026-11-11T05:06:27.207Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/10/tra-due-ore-al-via-i-colloqui-russia-ucraina-usa-ad-abu-dhabi_9fdfde25-3337-4698-8606-634709687769.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T05:06:27.207Z",
+        "dateEvidence": "La pagina ANSA riporta ROMA, 10 novembre 2026, 07:41 nell'intestazione.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveDraft": []
+}
