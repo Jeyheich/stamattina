@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-11",
-  "checkedAt": "2026-11-11T07:01:10.686Z",
+  "checkedAt": "2026-11-11T07:19:49.988Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -33,7 +33,7 @@
     },
     {
       "slug": "cultura",
-      "count": 1
+      "count": 2
     },
     {
       "slug": "tecnologia",
@@ -103,6 +103,13 @@
       "category": "Cultura · Teatro · Cinema",
       "title": "Tre coreografie fiamminghe al Costanzi per Romaeuropa",
       "eventKey": "romaeuropa-opera-ballet-vlaanderen-trittico-costanzi-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "cultura-starman-pietro-giannini-romaeuropa-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Starman al Vascello, Pietro Giannini mette in scena il potere",
+      "eventKey": "starman-pietro-giannini-romaeuropa-vascello-2026",
       "pending": true
     },
     {
@@ -179,7 +186,7 @@
       "complete": false
     },
     "cultura": {
-      "base": 1,
+      "base": 2,
       "reserve": 0,
       "draft": 0,
       "complete": false
