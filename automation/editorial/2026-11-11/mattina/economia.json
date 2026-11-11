@@ -3,8 +3,6 @@
   "editionDate": "2026-11-11",
   "collectionId": "2026-11-11-mattina",
   "category": "Economia",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-11T05:18:51.958Z",
   "articles": [
     {
       "id": "economia-mercato-elettrico-ue-regno-unito-contributi-2026",
@@ -12,20 +10,20 @@
       "category": "Economia",
       "status": "verified",
       "title": "Londra apre al confronto sui contributi per il mercato elettrico europeo",
-      "summary": "Il governo britannico si dice disponibile a discutere contributi economici ai programmi europei per ottenere accesso al mercato elettrico dell'Unione, senza aver accettato il principio richiesto da Bruxelles.",
+      "summary": "Il governo britannico si è detto disponibile a valutare contributi finanziari a favore delle infrastrutture nelle regioni meno abbienti dell'Unione Europea in cambio dell'accesso al mercato unico dell'elettricità.",
       "body": [
-        "Il ministro Hamish Falconer ha spiegato che Londra discuterà la richiesta europea di contribuire al fondo di coesione, pur non avendo ancora accettato di collegare i versamenti all'accesso al mercato elettrico comune.",
-        "Il confronto rientra nel tentativo britannico di rafforzare i rapporti con l'Unione europea. Restano aperti anche negoziati su mobilità giovanile e altri accordi bilaterali."
+        "Il governo britannico si è detto disponibile a valutare contributi finanziari a favore delle infrastrutture nelle regioni meno abbienti dell'Unione Europea in cambio dell'accesso al mercato unico dell'elettricità.",
+        "Il ministro incaricato dei negoziati con l'UE, Hamish Falconer, ha precisato che Londra non accetta il principio di un vincolo diretto al fondo di coesione, ma ha confermato l'apertura al dialogo in vista del prossimo vertice bilaterale."
       ],
       "publishedAt": "2026-11-10T17:52:00Z",
-      "verifiedAt": "2026-11-11T05:18:51.958Z",
+      "verifiedAt": "2026-11-11T14:02:02.047102+00:00",
       "source": {
         "name": "The Guardian",
         "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
         "access": "free",
-        "accessCheckedAt": "2026-11-11T05:18:51.958Z",
+        "accessCheckedAt": "2026-11-11T14:02:02.047102+00:00",
         "dateEvidence": "La pagina originale riporta Tue 10 Nov 2026 18.52 CET.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
       }
     },
     {
@@ -34,23 +32,195 @@
       "category": "Economia",
       "status": "verified",
       "title": "Petrolio alle Falkland, Regno Unito e Argentina davanti al tribunale",
-      "summary": "Il progetto petrolifero Sea Lion è al centro di una controversia internazionale: l'Argentina chiede di sospendere le trivellazioni, mentre Londra avverte dei possibili danni economici per gli isolani.",
+      "summary": "Regno Unito e Argentina si affrontano davanti al Tribunale internazionale del diritto del mare per la controversia sul giacimento petrolifero offshore Sea Lion.",
       "body": [
-        "Davanti al tribunale internazionale del diritto del mare ad Amburgo, la rappresentante britannica Ellie Reeves ha sostenuto che fermare il progetto Sea Lion potrebbe sottrarre miliardi di sterline all'economia delle Falkland.",
-        "L'Argentina contesta la legittimità del progetto e ne sottolinea i rischi ambientali. Le trivellazioni sono previste dal marzo 2027; la decisione sulle misure provvisorie è ancora attesa."
+        "Regno Unito e Argentina si affrontano davanti al Tribunale internazionale del diritto del mare per la controversia sul giacimento petrolifero offshore Sea Lion.",
+        "L'attorney general britannica Ellie Reeves ha avvertito che il blocco del progetto voluto da Buenos Aires causerebbe danni economici devastanti per il futuro delle Isole Falkland."
       ],
       "publishedAt": "2026-11-10T19:01:00Z",
-      "verifiedAt": "2026-11-11T05:18:51.958Z",
+      "verifiedAt": "2026-11-11T14:02:02.198934+00:00",
       "source": {
         "name": "The Guardian",
         "url": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
         "access": "free",
-        "accessCheckedAt": "2026-11-11T05:18:51.958Z",
+        "accessCheckedAt": "2026-11-11T14:02:02.198934+00:00",
         "dateEvidence": "La pagina originale indica Tue 10 Nov 2026, first published 09.49 EST e aggiornamento 14.01 EST.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "economia-jersey-electricity-annuncia-un-aumento-delle-tariffe-da-marzo",
+      "eventKey": "jersey-electricity-annuncia-un-aumento-delle-tariffe-da-marzo",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Jersey Electricity annuncia un aumento delle tariffe da marzo",
+      "summary": "Il gestore prevede un rialzo del 2,5% da marzo 2027. Per una casa alimentata interamente a elettricità la stima è di poco più di una sterlina a settimana.",
+      "body": [
+        "Il gestore prevede un rialzo del 2,5% da marzo 2027. Per una casa alimentata interamente a elettricità la stima è di poco più di una sterlina a settimana.",
+        "La società ha scelto di far scattare la nuova tariffa dopo i mesi invernali, quando i consumi tendono a essere più alti."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:01:59.430550+00:00",
+      "source": {
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c6x292elgnm5o?at_medium=RSS&at_campaign=rss",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:01:59.430550+00:00",
+        "dateEvidence": "La pagina originale di BBC Business riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "economia-poundland-tratta-un-salvataggio-in-extremis-per-evitare-il-crac",
+      "eventKey": "poundland-tratta-un-salvataggio-in-extremis-per-evitare-il-crac",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Poundland tratta un salvataggio in extremis per evitare il crac",
+      "summary": "La catena di discount Poundland e i suoi 11.000 lavoratori attendono una proroga alle scadenze finanziarie per completare una complessa trattativa di salvataggio.",
+      "body": [
+        "La catena di discount Poundland e i suoi 11.000 lavoratori attendono una proroga alle scadenze finanziarie per completare una complessa trattativa di salvataggio.",
+        "L'imminente fallimento potrebbe essere scongiurato grazie allo sblocco di 10 milioni di sterline di liquidità, mentre il Parlamento britannico prepara audizioni sulla gestione della proprietà statunitense."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:01:59.616827+00:00",
+      "source": {
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:01:59.616827+00:00",
+        "dateEvidence": "La pagina originale di BBC Business riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "economia-aldi-taglia-centinaia-di-impieghi-di-sede-e-logistica-nel-regno-unito",
+      "eventKey": "aldi-taglia-centinaia-di-impieghi-di-sede-e-logistica-nel-regno-unito",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Aldi taglia centinaia di impieghi di sede e logistica nel Regno Unito",
+      "summary": "La catena discount Aldi ha avviato un piano di riduzione dei costi che prevede l'eliminazione di diverse centinaia di posti di lavoro nelle sue sedi britanniche.",
+      "body": [
+        "La catena discount Aldi ha avviato un piano di riduzione dei costi che prevede l'eliminazione di diverse centinaia di posti di lavoro nelle sue sedi britanniche.",
+        "I tagli riguardano principalmente l'area informatica, amministrativa e direzionale degli acquisti, lasciando invece invariato l'organico operativo dei singoli punti vendita."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:01:59.252841+00:00",
+      "source": {
+        "name": "The Guardian Business",
+        "url": "https://www.theguardian.com/business/2026/nov/11/aldi-cuts-hundreds-of-uk-head-office-and-logistics-roles-global-cost-trimming",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:01:59.252841+00:00",
+        "dateEvidence": "La pagina originale di The Guardian Business riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
       }
     }
   ],
-  "reserveArticles": [],
-  "reserveDraft": []
+  "completedAt": "2026-11-11T14:10:21.196052+00:00",
+  "reserveArticles": [
+    {
+      "id": "economia-prezzi-del-diesel-nel-regno-unito-ancora-vicini-a-2-sterline-al-litro",
+      "eventKey": "prezzi-del-diesel-nel-regno-unito-ancora-vicini-a-2-sterline-al-litro",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Prezzi del diesel nel Regno Unito ancora vicini a 2 sterline al litro",
+      "summary": "Nonostante il calo delle quotazioni del greggio, il prezzo medio del diesel resta prossimo a 197 pence al litro, pesando sui bilanci delle famiglie britanniche.",
+      "body": [
+        "Nonostante il calo delle quotazioni del greggio, il prezzo medio del diesel resta prossimo a 197 pence al litro, pesando sui bilanci delle famiglie britanniche."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:05.088537+00:00",
+      "source": {
+        "name": "The Guardian Business",
+        "url": "https://www.theguardian.com/money/2026/nov/11/diesel-prices-petrol-business-oil-hormuz",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:05.088537+00:00",
+        "dateEvidence": "La pagina originale di The Guardian Business riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "economia-cresce-l-invenduto-immobiliare-di-lusso-nel-centro-di-londra",
+      "eventKey": "cresce-l-invenduto-immobiliare-di-lusso-nel-centro-di-londra",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Cresce l'invenduto immobiliare di lusso nel centro di Londra",
+      "summary": "A fine settembre le abitazioni di pregio ultimate e rimaste invendute nella zona 1 di Londra hanno raggiunto quota 1.400 unità, triplicando i livelli del 2016.",
+      "body": [
+        "A fine settembre le abitazioni di pregio ultimate e rimaste invendute nella zona 1 di Londra hanno raggiunto quota 1.400 unità, triplicando i livelli del 2016."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:01:59.343958+00:00",
+      "source": {
+        "name": "The Guardian Business",
+        "url": "https://www.theguardian.com/news/2026/nov/11/property-london-empty-high-end-flats-developers",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:01:59.343958+00:00",
+        "dateEvidence": "La pagina originale di The Guardian Business riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "economia-ritardi-dei-paesi-ricchi-sui-piani-di-finanziamento-climatico-per-le-e",
+      "eventKey": "ritardi-dei-paesi-ricchi-sui-piani-di-finanziamento-climatico-per-le-economie-emergenti",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Ritardi dei Paesi ricchi sui piani di finanziamento climatico per le economie emergenti",
+      "summary": "Molti governi occidentali non hanno ancora definito i target dettagliati per erogare i 300 miliardi annui previsti entro il 2035, frenando investimenti e transizione nei Paesi in via di sviluppo.",
+      "body": [
+        "Molti governi occidentali non hanno ancora definito i target dettagliati per erogare i 300 miliardi annui previsti entro il 2035, frenando investimenti e transizione nei Paesi in via di sviluppo."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:01:59.242903+00:00",
+      "source": {
+        "name": "The Guardian Business",
+        "url": "https://www.theguardian.com/environment/2026/nov/11/developing-countries-climate-finance-delay",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:01:59.242903+00:00",
+        "dateEvidence": "La pagina originale di The Guardian Business riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "economia-vendite-di-giocattoli-in-crescita-nel-regno-unito-trainate-da-giochi-t",
+      "eventKey": "vendite-di-giocattoli-in-crescita-nel-regno-unito-trainate-da-giochi-tradizionali-e-collezionab",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Vendite di giocattoli in crescita nel Regno Unito trainate da giochi tradizionali e collezionabili",
+      "summary": "Nei primi dieci mesi dell'anno i volumi di giocattoli venduti hanno segnato un aumento del 17%, sostenuti in particolare dalla domanda della fascia di pubblico adulto e da prodotti a prezzi accessibili.",
+      "body": [
+        "Nei primi dieci mesi dell'anno i volumi di giocattoli venduti hanno segnato un aumento del 17%, sostenuti in particolare dalla domanda della fascia di pubblico adulto e da prodotti a prezzi accessibili."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:01:59.536691+00:00",
+      "source": {
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:01:59.536691+00:00",
+        "dateEvidence": "La pagina originale di BBC Business riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    },
+    {
+      "id": "economia-giro-di-vite-nel-regno-unito-contro-i-furti-seriali-nei-negozi",
+      "eventKey": "giro-di-vite-nel-regno-unito-contro-i-furti-seriali-nei-negozi",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Giro di vite nel Regno Unito contro i furti seriali nei negozi",
+      "summary": "Il governo britannico ha varato un piano da 2,5 milioni di sterline per monitorare tramite braccialetto elettronico e allontanare dai centri commerciali i 500 autori più recidivi di furti al dettaglio.",
+      "body": [
+        "Il governo britannico ha varato un piano da 2,5 milioni di sterline per monitorare tramite braccialetto elettronico e allontanare dai centri commerciali i 500 autori più recidivi di furti al dettaglio."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-11T14:02:05.845547+00:00",
+      "source": {
+        "name": "The Guardian Business",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/11/police-target-chronic-shoplifters-retail-crackdown-england-wales",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T14:02:05.845547+00:00",
+        "dateEvidence": "La pagina originale di The Guardian Business riporta la data di pubblicazione 2026-11-11.",
+        "reviewedBy": "Verifica editoriale Gemini con revisione Codex"
+      }
+    }
+  ]
 }
