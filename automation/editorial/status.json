@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-11",
-  "checkedAt": "2026-11-11T06:03:26.796Z",
+  "checkedAt": "2026-11-11T06:12:15.633Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -32,6 +32,10 @@
       "count": 2
     },
     {
+      "slug": "cultura",
+      "count": 1
+    },
+    {
       "slug": "tecnologia",
       "count": 3
     },
@@ -41,8 +45,7 @@
     }
   ],
   "missing": [
-    "roma",
-    "cultura"
+    "roma"
   ],
   "invalid": [],
   "stories": [
@@ -86,6 +89,13 @@
       "category": "Cronaca",
       "title": "Eternit bis, la Cassazione ordina un nuovo processo d'appello",
       "eventKey": "eternit-bis-cassazione-nuovo-appello-schmidheiny-2026",
+      "pending": true
+    },
+    {
+      "id": "cultura-romaeuropa-opera-ballet-vlaanderen-costanzi-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Tre coreografie fiamminghe al Costanzi per Romaeuropa",
+      "eventKey": "romaeuropa-opera-ballet-vlaanderen-trittico-costanzi-novembre-2026",
       "pending": true
     },
     {
@@ -162,7 +172,7 @@
       "complete": false
     },
     "cultura": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false
