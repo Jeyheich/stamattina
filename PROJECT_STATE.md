@@ -1,5 +1,9 @@
 # Stamattina — stato operativo
 
+## Raccolta Cultura — 11 novembre
+- L’importazione mattutina dai rami è riuscita. Il ciclo aveva 13 principali, nessuna aggiuntiva e nessuna foto. Il job RSS ha salvato il dossier e segnalato Cultura con quattro candidati. Il controllo finale delle fonti e la pubblicazione sono stati saltati perché i blocchi erano incompleti.
+- Aggiunto il feed Spettacolo di Sky TG24 per candidati di cinema, serie TV e cultura. Il collaudo locale con accesso alle pagine ha raccolto dodici candidati Cultura e coperto tutte le categorie. Il dossier resta una base per la verifica editoriale.
+
 ## Recupero automatico delle fonti — 9 novembre
 - Le attività possono salvare fino a due notizie già verificate in fallbackArticles per categoria, oltre al 5+5. Se il controllo GitHub respinge una fonte, il workflow prova le scorte della stessa categoria e ripete i controlli sulla proposta completa. Scorte scadute, duplicate o incompatibili vengono scartate. La pubblicazione richiede ancora 40+40 e cinque foto.
 - Verificare sui prossimi avvii la disponibilità di scorte realmente preparate dalle attività. In caso di recupero lo stato registra sourceReplacements. Se il controllo finale fallisce, l’edizione pubblica precedente resta disponibile.

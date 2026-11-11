@@ -36,6 +36,7 @@ FEEDS = (
     ('Roma', 'RomaToday', 'https://www.romatoday.it/rss'),
     ('Roma', 'Leggo Roma', 'https://www.leggo.it/rss/home.xml'),
     ('Cultura · Teatro · Cinema', 'Teatro e Critica', 'https://www.teatroecritica.net/feed/'),
+    ('Cultura · Teatro · Cinema', 'Sky TG24', 'https://tg24.sky.it/rss/tg24_flipboard.spettacolo.xml'),
     ('Tecnologia · AI', 'Punto Informatico', 'https://www.punto-informatico.it/feed/'),
     ('Tecnologia · AI', 'Everyeye', 'https://www.everyeye.it/feed/feed_news_rss.asp'),
     ('Tecnologia · AI', 'IGN Italia', 'https://it.ign.com/feed.xml'),
@@ -84,6 +85,8 @@ def eligible(category, source, title, url):
     # Leggo's generic feed is not a reliable dedicated Rome feed: retain only explicit local matches.
     if source == 'Leggo Roma' and not re.search(r'\broma\b|romano|romani|romana|romane|/roma/|ostia|fiumicino|atac|campidoglio', text):
         return False
+    if category == 'Cultura · Teatro · Cinema' and source == 'Sky TG24':
+        return bool(re.search(r'/spettacolo/(?:cinema|serie-tv)/|\b(?:teatro|festival|mostra|triennale|cinema|film)\b', text))
     if category == 'Sport':
         if re.search(r'cricket|\bnfl\b|cowboys|eagles|\bnba\b|super-bowl', text):
             return False
@@ -91,6 +94,8 @@ def eligible(category, source, title, url):
     return True
 
 def editorial_rank(candidate):
+    if candidate['category'] == 'Cultura · Teatro · Cinema':
+        return 1 if candidate['source'] == 'Sky TG24' else 0
     if candidate['category'] != 'Sport':
         return 0
     text = (candidate['title'] + ' ' + candidate['url']).casefold()
