@@ -4,7 +4,7 @@
   "collectionId": "2026-11-11-mattina",
   "category": "Cultura · Teatro · Cinema",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-11T06:11:47Z",
+  "lastAttemptAt": "2026-11-11T07:19:25.388Z",
   "articles": [
     {
       "id": "cultura-romaeuropa-opera-ballet-vlaanderen-costanzi-2026",
@@ -25,6 +25,28 @@
         "access": "free",
         "accessCheckedAt": "2026-11-11T06:11:47Z",
         "dateEvidence": "Nella pagina originale ANSA è riportato: ROMA, 09 novembre 2026, 16:49.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-starman-pietro-giannini-romaeuropa-2026",
+      "eventKey": "starman-pietro-giannini-romaeuropa-vascello-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Starman al Vascello, Pietro Giannini mette in scena il potere",
+      "summary": "Il nuovo spettacolo di Pietro Giannini, prodotto dal Teatro Nazionale di Genova e presentato a Romaeuropa, usa la satira di un magnate immaginario per interrogare il rapporto tra spettacolo, ricchezza e responsabilità collettiva.",
+      "body": [
+        "Al Teatro Vascello cinque interpreti danno vita a ventiquattro figure in un collage teatrale che attraversa pubblicità, politica e cultura digitale. Il personaggio Leon Skum richiama in chiave satirica Elon Musk.",
+        "Nella recensione pubblicata il 10 novembre, Sergio Lo Gatto riconosce energia e inventiva all'allestimento, ma rileva anche un eccesso di linguaggi e la necessità di una maggiore messa a fuoco drammaturgica."
+      ],
+      "publishedAt": "2026-11-10",
+      "verifiedAt": "2026-11-11T07:19:25.388Z",
+      "source": {
+        "name": "Teatro e Critica",
+        "url": "https://www.teatroecritica.net/2026/11/costruire-lo-spettacolo-politico-starman-di-pietro-giannini/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T07:19:25.388Z",
+        "dateEvidence": "Nell'intestazione dell'articolo originale è riportato esplicitamente 10 Novembre 2026.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
