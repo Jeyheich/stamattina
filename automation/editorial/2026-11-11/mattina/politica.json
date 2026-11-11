@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-11",
+  "collectionId": "2026-11-11-mattina",
+  "category": "Politica",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-11T05:06:18.283Z",
+  "articles": [
+    {
+      "id": "politica-vertice-maggioranza-manovra-novembre",
+      "eventKey": "vertice-maggioranza-modifiche-manovra-novembre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Manovra, Tajani e Salvini chiedono un confronto sulle modifiche",
+      "summary": "I due vicepremier sollecitano un vertice con Meloni per definire quali correzioni alla legge di bilancio siano praticabili. Non è ancora stata fissata una data.",
+      "body": [
+        "La maggioranza valuta un nuovo confronto sulla manovra economica: secondo fonti interne citate da ANSA, Antonio Tajani e Matteo Salvini hanno chiesto alla presidente del Consiglio Giorgia Meloni un vertice per esaminare le modifiche possibili.",
+        "Tra i nodi discussi figurano pensioni, risorse per il Superbonus ed exit tax. La disponibilità di coperture è limitata e non risulta ancora fissata una data per la riunione."
+      ],
+      "publishedAt": "2026-11-10T20:37:00+01:00",
+      "verifiedAt": "2026-11-11T05:06:18.283Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/10/verso-un-nuovo-vertice-maggioranza-sulla-manovra-per-fare-il-punto-sulle_5a86a332-6d2c-420b-aeb5-6bd2eb586258.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T05:06:18.283Z",
+        "dateEvidence": "Nell'intestazione dell'articolo ANSA compare ROMA, 10 novembre 2026, 20:37.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveDraft": []
+}
