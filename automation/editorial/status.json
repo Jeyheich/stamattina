@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-11",
-  "checkedAt": "2026-11-11T06:12:15.633Z",
+  "checkedAt": "2026-11-11T07:01:10.686Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -17,7 +17,7 @@
   "inProgress": [
     {
       "slug": "politica",
-      "count": 1
+      "count": 2
     },
     {
       "slug": "esteri",
@@ -54,6 +54,13 @@
       "category": "Politica",
       "title": "Manovra, Tajani e Salvini chiedono un confronto sulle modifiche",
       "eventKey": "vertice-maggioranza-modifiche-manovra-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "politica-meloni-aiuti-ucraina-firma-giorgetti",
+      "category": "Politica",
+      "title": "Aiuti all'Ucraina, Meloni esclude un cambio di linea del governo",
+      "eventKey": "meloni-chiarimento-firma-giorgetti-aiuti-ucraina-novembre-2026",
       "pending": true
     },
     {
@@ -142,7 +149,7 @@
   "photosAvailable": 0,
   "categoryProgress": {
     "politica": {
-      "base": 1,
+      "base": 2,
       "reserve": 0,
       "draft": 0,
       "complete": false

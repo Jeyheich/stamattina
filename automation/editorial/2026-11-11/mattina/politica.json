@@ -4,7 +4,7 @@
   "collectionId": "2026-11-11-mattina",
   "category": "Politica",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-11T05:06:18.283Z",
+  "lastAttemptAt": "2026-11-11T07:00:45.700Z",
   "articles": [
     {
       "id": "politica-vertice-maggioranza-manovra-novembre",
@@ -25,6 +25,28 @@
         "access": "free",
         "accessCheckedAt": "2026-11-11T05:06:18.283Z",
         "dateEvidence": "Nell'intestazione dell'articolo ANSA compare ROMA, 10 novembre 2026, 20:37.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-meloni-aiuti-ucraina-firma-giorgetti",
+      "eventKey": "meloni-chiarimento-firma-giorgetti-aiuti-ucraina-novembre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Aiuti all'Ucraina, Meloni esclude un cambio di linea del governo",
+      "summary": "La presidente del Consiglio ha spiegato che il ritardo nella firma di Giorgetti sul nuovo pacchetto di aiuti dipende dalla sua assenza da Roma, non da un dissenso formalizzato; Crosetto ha definito il passaggio al Copasir parte della procedura.",
+      "body": [
+        "Durante una visita alla fiera Eima di Bologna, Giorgia Meloni ha attribuito la mancata firma del ministro dell'Economia sul nuovo pacchetto di aiuti a Kiev a un impedimento temporaneo: Giorgetti si trovava a Bruxelles per le riunioni europee e, trattandosi di un documento classificato, non poteva firmarlo da remoto.",
+        "La premier ha sostenuto che la maggioranza ha finora trovato una sintesi e che la posizione italiana sull'Ucraina non cambierà. Il ministro della Difesa Guido Crosetto ha spiegato che l'audizione al Copasir rientra nell'iter previsto per gli aiuti."
+      ],
+      "publishedAt": "2026-11-10T15:34:00+01:00",
+      "verifiedAt": "2026-11-11T07:00:45.700Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/politica/2026/11/10/ucraina-meloni-sempre-trovata-una-sintesi-la-posizione-dellitalia-non-cambiera_83808254-a528-4178-aee1-ade2f46fc15d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T07:00:45.700Z",
+        "dateEvidence": "Nell'intestazione dell'articolo ANSA è indicato ROMA, 10 novembre 2026, 15:34.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
