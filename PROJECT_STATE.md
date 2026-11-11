@@ -1,5 +1,9 @@
 # Stamattina — stato operativo
 
+## Mattutina dell’11 novembre — pubblicata dopo recupero
+- Gemini in Antigravity ha dato un secondo parere sulla diagnosi e proposto le selezioni dalle pagine originali. Codex ha rivisto i contenuti, corretto duplicati e formulazioni, verificato 80 URL e cinque foto e inviato i blocchi sui due rami editoriali.
+- Run 43036043468 riuscita. Edizione 2026-11-11-batches-612436c4e8c8 verificata nel JSON pubblico alle 15:11 Europe/Rome, con 40 principali, 40 aggiuntive e cinque foto. Recupero editoriale assistito e pubblicazione tramite il workflow esistente. Da verificare la completezza dei prossimi avvii programmati.
+
 ## Raccolta Cultura — 11 novembre
 - L’importazione mattutina dai rami è riuscita. Il ciclo aveva 13 principali, nessuna aggiuntiva e nessuna foto. Il job RSS ha salvato il dossier e segnalato Cultura con quattro candidati. Il controllo finale delle fonti e la pubblicazione sono stati saltati perché i blocchi erano incompleti.
 - Aggiunto il feed Spettacolo di Sky TG24 per candidati di cinema, serie TV e cultura. Il collaudo locale con accesso alle pagine ha raccolto dodici candidati Cultura e coperto tutte le categorie. Il dossier resta una base per la verifica editoriale.
