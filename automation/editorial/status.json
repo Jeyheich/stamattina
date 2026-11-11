@@ -590,7 +590,10 @@
   },
   "preparation": "editorialmente-completa",
   "editionId": "2026-11-11-batches-612436c4e8c8",
-  "message": "Edizione editorialmente completa",
-  "needsPublication": true,
-  "publicCollectionId": "2026-11-09-mattina"
+  "message": "Rassegna completa online: 40 principali e 40 aggiuntive",
+  "needsPublication": false,
+  "publicCollectionId": "2026-11-11-mattina",
+  "publicVerifiedAt": "2026-11-11T14:11:51.124227+00:00",
+  "publicEditionId": "2026-11-11-batches-612436c4e8c8",
+  "publication": "verified"
 }
