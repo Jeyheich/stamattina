@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-11",
+  "collectionId": "2026-11-11-mattina",
+  "category": "Sport",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-11T06:01:57.603Z",
+  "articles": [
+    {
+      "id": "sport-mctominay-racconta-aritmia",
+      "eventKey": "mctominay-racconto-problema-cardiaco-prima-mondiale-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "McTominay racconta il problema cardiaco affrontato prima del Mondiale",
+      "summary": "Dal ritiro della Scozia, il centrocampista del Napoli ha raccontato di aver ricevuto un trattamento cardiaco a due giorni dall'esordio mondiale e di essersi sottoposto in settembre a un'ablazione per una lieve aritmia benigna. Ha dichiarato di sentirsi ora meglio.",
+      "body": [
+        "Dal ritiro della Scozia, il centrocampista del Napoli ha raccontato di aver ricevuto un trattamento cardiaco a due giorni dall'esordio mondiale e di essersi sottoposto in settembre a un'ablazione per una lieve aritmia benigna. Ha dichiarato di sentirsi ora meglio."
+      ],
+      "publishedAt": "2026-11-10T23:19:00+01:00",
+      "verifiedAt": "2026-11-11T06:01:57.603Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/nations-league/2026/11/10/mctominay-problemi-cuore-scozia-intervista-video",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T06:01:57.603Z",
+        "dateEvidence": "La pagina di Sky Sport indica chiaramente '10 nov 2026 - 23:19' accanto al titolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}

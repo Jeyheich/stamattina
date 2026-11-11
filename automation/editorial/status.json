@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-11",
-  "checkedAt": "2026-11-11T05:20:27.961Z",
+  "checkedAt": "2026-11-11T06:02:20.944Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -30,13 +30,19 @@
     {
       "slug": "cronaca",
       "count": 2
+    },
+    {
+      "slug": "tecnologia",
+      "count": 3
+    },
+    {
+      "slug": "sport",
+      "count": 1
     }
   ],
   "missing": [
     "roma",
-    "cultura",
-    "tecnologia",
-    "sport"
+    "cultura"
   ],
   "invalid": [],
   "stories": [
@@ -80,6 +86,34 @@
       "category": "Cronaca",
       "title": "Eternit bis, la Cassazione ordina un nuovo processo d'appello",
       "eventKey": "eternit-bis-cassazione-nuovo-appello-schmidheiny-2026",
+      "pending": true
+    },
+    {
+      "id": "tecnologia-binance-vulnerabilita-ios-wallet",
+      "category": "Tecnologia · AI",
+      "title": "Binance segnala un rischio per i wallet su alcune versioni di iOS",
+      "eventKey": "binance-segnalazione-vulnerabilita-ios-wallet-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "tecnologia-gemini-carbon-accesso-ampliato",
+      "category": "Tecnologia · AI",
+      "title": "Google amplia l'accesso al modello Gemini 4 Carbon",
+      "eventKey": "google-gemini-4-carbon-accesso-ampliato-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "tecnologia-chrome-incognito-controllo-antiphishing",
+      "category": "Tecnologia · AI",
+      "title": "Chrome sperimenta controlli anti-phishing in tempo reale anche in Incognito",
+      "eventKey": "chrome-incognito-safe-browsing-tempo-reale-test-2026",
+      "pending": true
+    },
+    {
+      "id": "sport-mctominay-racconta-aritmia",
+      "category": "Sport",
+      "title": "McTominay racconta il problema cardiaco affrontato prima del Mondiale",
+      "eventKey": "mctominay-racconto-problema-cardiaco-prima-mondiale-2026",
       "pending": true
     }
   ],
@@ -134,13 +168,13 @@
       "complete": false
     },
     "tecnologia": {
-      "base": 0,
+      "base": 3,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "sport": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false
