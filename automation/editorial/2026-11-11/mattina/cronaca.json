@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-11",
+  "collectionId": "2026-11-11-mattina",
+  "category": "Cronaca",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-11T05:18:51.958Z",
+  "articles": [
+    {
+      "id": "cronaca-rinvio-giudizio-irene-pivetti-bancarotta-2026",
+      "eventKey": "rinvio-giudizio-irene-pivetti-bancarotta-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Bancarotta, Irene Pivetti rinviata a giudizio a Roma",
+      "summary": "L'ex presidente della Camera dovrà affrontare un processo per bancarotta fraudolenta nell'ambito del fallimento della Società di servizi per la Cina.",
+      "body": [
+        "Il rinvio a giudizio riguarda Irene Pivetti e il liquidatore della società. Secondo l'accusa sarebbero stati sottratti o distrutti documenti contabili e distratte somme di denaro.",
+        "Le contestazioni sono ipotesi d'accusa da verificare nel processo; il rinvio a giudizio non equivale a una condanna."
+      ],
+      "publishedAt": "2026-11-10T19:18:00Z",
+      "verifiedAt": "2026-11-11T05:18:51.958Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/10/irene-pivetti-rinvio-giudizio-bancarotta",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T05:18:51.958Z",
+        "dateEvidence": "La pagina Sky TG24 indica 10 nov 2026 - 20:18 (ora italiana).",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-eternit-bis-cassazione-nuovo-appello-schmidheiny-2026",
+      "eventKey": "eternit-bis-cassazione-nuovo-appello-schmidheiny-2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Eternit bis, la Cassazione ordina un nuovo processo d'appello",
+      "summary": "La Cassazione ha annullato con rinvio parte della sentenza relativa al processo Eternit bis contro Stephan Schmidheiny, disponendo un nuovo giudizio per numerose parti offese.",
+      "body": [
+        "La Quarta sezione penale ha disposto il rinvio a una diversa sezione della Corte d'Appello di Torino per circa sessanta parti offese. Per altre venticinque vittime è stata dichiarata la prescrizione.",
+        "La decisione ha suscitato delusione tra familiari delle vittime e rappresentanti delle parti civili. Il procedimento riguarda le morti associate all'esposizione all'amianto nello stabilimento di Casale Monferrato."
+      ],
+      "publishedAt": "2026-11-10T18:56:00Z",
+      "verifiedAt": "2026-11-11T05:18:51.958Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/10/eternit-bis-cassazione-nuovo-appello-schmidheiny",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T05:18:51.958Z",
+        "dateEvidence": "La pagina Sky TG24 indica 10 nov 2026 - 19:56 (ora italiana).",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
