@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-11",
+  "collectionId": "2026-11-11-mattina",
+  "category": "Economia",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-11T05:18:51.958Z",
+  "articles": [
+    {
+      "id": "economia-mercato-elettrico-ue-regno-unito-contributi-2026",
+      "eventKey": "mercato-elettrico-ue-regno-unito-contributi-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Londra apre al confronto sui contributi per il mercato elettrico europeo",
+      "summary": "Il governo britannico si dice disponibile a discutere contributi economici ai programmi europei per ottenere accesso al mercato elettrico dell'Unione, senza aver accettato il principio richiesto da Bruxelles.",
+      "body": [
+        "Il ministro Hamish Falconer ha spiegato che Londra discuterà la richiesta europea di contribuire al fondo di coesione, pur non avendo ancora accettato di collegare i versamenti all'accesso al mercato elettrico comune.",
+        "Il confronto rientra nel tentativo britannico di rafforzare i rapporti con l'Unione europea. Restano aperti anche negoziati su mobilità giovanile e altri accordi bilaterali."
+      ],
+      "publishedAt": "2026-11-10T17:52:00Z",
+      "verifiedAt": "2026-11-11T05:18:51.958Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T05:18:51.958Z",
+        "dateEvidence": "La pagina originale riporta Tue 10 Nov 2026 18.52 CET.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-progetto-petrolifero-sea-lion-falkland-tribunale-2026",
+      "eventKey": "progetto-petrolifero-sea-lion-falkland-tribunale-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Petrolio alle Falkland, Regno Unito e Argentina davanti al tribunale",
+      "summary": "Il progetto petrolifero Sea Lion è al centro di una controversia internazionale: l'Argentina chiede di sospendere le trivellazioni, mentre Londra avverte dei possibili danni economici per gli isolani.",
+      "body": [
+        "Davanti al tribunale internazionale del diritto del mare ad Amburgo, la rappresentante britannica Ellie Reeves ha sostenuto che fermare il progetto Sea Lion potrebbe sottrarre miliardi di sterline all'economia delle Falkland.",
+        "L'Argentina contesta la legittimità del progetto e ne sottolinea i rischi ambientali. Le trivellazioni sono previste dal marzo 2027; la decisione sulle misure provvisorie è ancora attesa."
+      ],
+      "publishedAt": "2026-11-10T19:01:00Z",
+      "verifiedAt": "2026-11-11T05:18:51.958Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
+        "access": "free",
+        "accessCheckedAt": "2026-11-11T05:18:51.958Z",
+        "dateEvidence": "La pagina originale indica Tue 10 Nov 2026, first published 09.49 EST e aggiornamento 14.01 EST.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
