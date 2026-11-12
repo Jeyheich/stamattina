@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-12",
-  "checkedAt": "2026-11-12T05:20:32.286Z",
+  "checkedAt": "2026-11-12T06:10:32.755Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,7 +13,9 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [],
+  "completed": [
+    "tecnologia"
+  ],
   "inProgress": [
     {
       "slug": "politica",
@@ -30,13 +32,15 @@
     {
       "slug": "cronaca",
       "count": 1
+    },
+    {
+      "slug": "sport",
+      "count": 1
     }
   ],
   "missing": [
     "roma",
-    "cultura",
-    "tecnologia",
-    "sport"
+    "cultura"
   ],
   "invalid": [],
   "stories": [
@@ -74,6 +78,43 @@
       "title": "Trapianto al Monaldi, salgono a nove gli indagati per la morte di Domenico",
       "eventKey": "monaldi-trapianto-domenico-caliendo-nove-indagati-2026",
       "pending": true
+    },
+    {
+      "id": "sport-malago-commissione-candidature-figc",
+      "category": "Sport",
+      "title": "FIGC, Malagò chiarisce il ruolo della commissione candidature",
+      "eventKey": "figc-malago-lettera-buonfiglio-commissione-candidature-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "tecnologia-falso-portale-inps-android",
+      "category": "Tecnologia · AI",
+      "title": "Un sito che imita l'INPS tenta di distribuire un'app Android non ufficiale",
+      "eventKey": "falso-portale-inps-apk-android-novembre-2026"
+    },
+    {
+      "id": "tecnologia-chip-nvidia-cina-restrizioni",
+      "category": "Tecnologia · AI",
+      "title": "Chip NVIDIA raggiungono soggetti cinesi nonostante i vincoli statunitensi",
+      "eventKey": "chip-nvidia-b300-h200-cina-accesso-restrizioni-novembre-2026"
+    },
+    {
+      "id": "tecnologia-claude-meetings-google-meet",
+      "category": "Tecnologia · AI",
+      "title": "Claude Meetings entra nelle videoriunioni Google Meet",
+      "eventKey": "claude-meetings-beta-google-meet-novembre-2026"
+    },
+    {
+      "id": "tecnologia-dark-souls-server-ripristinati",
+      "category": "Tecnologia · AI",
+      "title": "Ripristinati i server online di Dark Souls 2 e 3",
+      "eventKey": "dark-souls-2-3-server-ripristinati-novembre-2026"
+    },
+    {
+      "id": "tecnologia-xbox-cloud-tier-pubblicita",
+      "category": "Tecnologia · AI",
+      "title": "Xbox Cloud Gaming introduce l'accesso gratuito con pubblicità",
+      "eventKey": "xbox-cloud-gaming-accesso-gratuito-pubblicita-novembre-2026"
     }
   ],
   "collectionId": "2026-11-12-mattina",
@@ -127,13 +168,13 @@
       "complete": false
     },
     "tecnologia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "sport": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false

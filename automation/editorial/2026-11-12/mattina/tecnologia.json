@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-12",
+  "collectionId": "2026-11-12-mattina",
+  "category": "Tecnologia · AI",
+  "completedAt": "2026-11-12T06:10:09.369Z",
+  "articles": [
+    {
+      "id": "tecnologia-falso-portale-inps-android",
+      "eventKey": "falso-portale-inps-apk-android-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Un sito che imita l'INPS tenta di distribuire un'app Android non ufficiale",
+      "summary": "Il CERT-AgID ha individuato una pagina fasulla diffusa tramite SMS. Al momento della verifica il download era un file di testo, segno che la truffa era ancora in preparazione.",
+      "body": [
+        "Il CERT-AgID ha individuato una pagina fasulla diffusa tramite SMS. Al momento della verifica il download era un file di testo, segno che la truffa era ancora in preparazione."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-12T06:10:09.369Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/falso-sito-inps-distribuisce-app-infetta-android/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-12T06:10:09.369Z",
+        "dateEvidence": "La pagina originale riporta la data di pubblicazione dell'11 novembre 2026; testo consultato direttamente.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-chip-nvidia-cina-restrizioni",
+      "eventKey": "chip-nvidia-b300-h200-cina-accesso-restrizioni-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Chip NVIDIA raggiungono soggetti cinesi nonostante i vincoli statunitensi",
+      "summary": "Secondo le ricostruzioni citate da Punto Informatico, università e aziende cinesi soggette a restrizioni avrebbero ottenuto accesso a GPU NVIDIA, anche attraverso servizi di calcolo in affitto.",
+      "body": [
+        "Secondo le ricostruzioni citate da Punto Informatico, università e aziende cinesi soggette a restrizioni avrebbero ottenuto accesso a GPU NVIDIA, anche attraverso servizi di calcolo in affitto."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-12T06:10:09.369Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/migliaia-chip-ai-nvidia-cina-restrizioni-inutili/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-12T06:10:09.369Z",
+        "dateEvidence": "La pagina originale riporta la data di pubblicazione dell'11 novembre 2026; testo consultato direttamente.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-claude-meetings-google-meet",
+      "eventKey": "claude-meetings-beta-google-meet-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Claude Meetings entra nelle videoriunioni Google Meet",
+      "summary": "Anthropic presenta in beta un assistente che prende appunti e prepara azioni durante le riunioni. L'accesso iniziale è riservato ai piani Team ed Enterprise.",
+      "body": [
+        "Anthropic presenta in beta un assistente che prende appunti e prepara azioni durante le riunioni. L'accesso iniziale è riservato ai piani Team ed Enterprise."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-12T06:10:09.369Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/claude-meetings-partecipa-riunioni-google-meet/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-12T06:10:09.369Z",
+        "dateEvidence": "La pagina originale riporta la data di pubblicazione dell'11 novembre 2026; testo consultato direttamente.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-dark-souls-server-ripristinati",
+      "eventKey": "dark-souls-2-3-server-ripristinati-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Ripristinati i server online di Dark Souls 2 e 3",
+      "summary": "FromSoftware ha comunicato di avere concluso le verifiche e applicato una correzione dopo una sospensione temporanea delle funzionalità online per problemi di sicurezza.",
+      "body": [
+        "FromSoftware ha comunicato di avere concluso le verifiche e applicato una correzione dopo una sospensione temporanea delle funzionalità online per problemi di sicurezza."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-12T06:10:09.369Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/dark-souls-3-2-allarme-rientrato-server-online-blackout-come-2022-911110.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-12T06:10:09.369Z",
+        "dateEvidence": "La pagina originale riporta la data di pubblicazione dell'11 novembre 2026; testo consultato direttamente.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "tecnologia-xbox-cloud-tier-pubblicita",
+      "eventKey": "xbox-cloud-gaming-accesso-gratuito-pubblicita-novembre-2026",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Xbox Cloud Gaming introduce l'accesso gratuito con pubblicità",
+      "summary": "La modalità supportata da annunci permette sessioni di gioco cloud limitate, secondo le informazioni riportate da Everyeye; il catalogo utilizzabile è selezionato e non comprende automaticamente tutti i giochi.",
+      "body": [
+        "La modalità supportata da annunci permette sessioni di gioco cloud limitate, secondo le informazioni riportate da Everyeye; il catalogo utilizzabile è selezionato e non comprende automaticamente tutti i giochi."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-12T06:10:09.369Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/xbox-cloud-gaming-tier-gratis-pubblicita-disponibile-tutti-giusto-gta-6-911115.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-12T06:10:09.369Z",
+        "dateEvidence": "La pagina originale riporta la data di pubblicazione dell'11 novembre 2026; testo consultato direttamente.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": []
+}

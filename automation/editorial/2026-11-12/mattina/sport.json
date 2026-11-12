@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-12",
+  "collectionId": "2026-11-12-mattina",
+  "category": "Sport",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-12T06:10:15.972Z",
+  "articles": [
+    {
+      "id": "sport-malago-commissione-candidature-figc",
+      "eventKey": "figc-malago-lettera-buonfiglio-commissione-candidature-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "FIGC, Malagò chiarisce il ruolo della commissione candidature",
+      "summary": "Giovanni Malagò ha risposto al presidente del CONI Luciano Buonfiglio chiarendo che la commissione per le candidature FIGC svolgerebbe soltanto un supporto tecnico al segretario generale, senza decidere sull'ammissione dei candidati. La questione è attesa davanti al Tribunale federale.",
+      "body": [
+        "Giovanni Malagò ha risposto al presidente del CONI Luciano Buonfiglio chiarendo che la commissione per le candidature FIGC svolgerebbe soltanto un supporto tecnico al segretario generale, senza decidere sull'ammissione dei candidati. La questione è attesa davanti al Tribunale federale."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-12T06:10:15.972Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-a/2026/11/11/elezioni-figc-commissione-candidatura-malago-buonfiglio-news",
+        "access": "free",
+        "accessCheckedAt": "2026-11-12T06:10:15.972Z",
+        "dateEvidence": "Sky Sport riporta nella pagina la data 11 nov 2026, ore 22:06, sopra il testo integrale.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": []
+}
