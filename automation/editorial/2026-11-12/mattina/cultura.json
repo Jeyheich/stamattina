@@ -3,8 +3,6 @@
   "editionDate": "2026-11-12",
   "collectionId": "2026-11-12-mattina",
   "category": "Cultura · Teatro · Cinema",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-12T06:18:26Z",
   "articles": [
     {
       "id": "cultura-chiaroscuro-netflix-debutto",
@@ -68,8 +66,51 @@
         "dateEvidence": "Sky TG24 mostra 11 nov 2026 - 15:29 sotto il titolo.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "cultura-ebenezer-depp-cast-uscita",
+      "eventKey": "ebenezer-film-ti-west-johnny-depp-uscita-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Johnny Depp interpreta Scrooge nel nuovo film di Ti West",
+      "summary": "Il film Ebenezer, rilettura del Canto di Natale di Dickens, arriva nelle sale il 12 novembre con Johnny Depp, Ian McKellen e Rupert Grint.",
+      "body": [
+        "Ti West dirige una nuova versione cinematografica della storia di Ebenezer Scrooge. Johnny Depp interpreta il protagonista, mentre Ian McKellen è Jacob Marley e Rupert Grint è Bob Cratchit."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-12T07:13:45.512Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/spettacolo/cinema/2026/11/11/ebenezer-cast-scrooge-film",
+        "access": "free",
+        "accessCheckedAt": "2026-11-12T07:13:45.512Z",
+        "dateEvidence": "La fotogallery Sky TG24 indica 11 nov 2026 - 18:45 e annuncia l'uscita nelle sale il 12 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-emily-paris-sei-teaser",
+      "eventKey": "emily-in-paris-stagione-sei-teaser-grecia-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Emily in Paris, il teaser della stagione finale porta la protagonista in Grecia",
+      "summary": "Netflix ha diffuso l'11 novembre il teaser della sesta e ultima stagione, attesa il 24 dicembre: Emily incontra nuovamente Gabriel in Grecia.",
+      "body": [
+        "Il video alterna ricordi delle stagioni precedenti a nuove immagini ambientate in Grecia. Lily Collins torna nei panni di Emily Cooper; nel nuovo capitolo sono previsti anche passaggi a Parigi e Monaco."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-12T07:13:45.512Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/spettacolo/serie-tv/2026/11/11/emily-in-paris-6-trailer",
+        "access": "free",
+        "accessCheckedAt": "2026-11-12T07:13:45.512Z",
+        "dateEvidence": "L'articolo Sky TG24 reca 11 nov 2026 - 17:20; il testo indica teaser pubblicato mercoledì 11 novembre.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
   ],
   "reserveArticles": [],
-  "reserveDraft": []
+  "reserveDraft": [],
+  "completedAt": "2026-11-12T07:13:45.512Z"
 }
