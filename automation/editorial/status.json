@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-12",
-  "checkedAt": "2026-11-12T07:14:12.771Z",
+  "checkedAt": "2026-11-12T11:16:54.580Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,177 +13,21 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [
+  "completed": [],
+  "inProgress": [],
+  "missing": [
     "politica",
+    "esteri",
+    "economia",
+    "cronaca",
+    "roma",
     "cultura",
-    "tecnologia"
+    "tecnologia",
+    "sport"
   ],
-  "inProgress": [
-    {
-      "slug": "esteri",
-      "count": 2
-    },
-    {
-      "slug": "economia",
-      "count": 2
-    },
-    {
-      "slug": "cronaca",
-      "count": 1
-    },
-    {
-      "slug": "roma",
-      "count": 1
-    },
-    {
-      "slug": "sport",
-      "count": 1
-    }
-  ],
-  "missing": [],
   "invalid": [],
-  "stories": [
-    {
-      "id": "esteri-abu-dhabi-scambio-prigionieri",
-      "category": "Esteri",
-      "title": "Abu Dhabi, dai colloqui sull'Ucraina emerge un'intesa sui prigionieri",
-      "eventKey": "abu-dhabi-colloqui-ucraina-russia-scambio-prigionieri-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "esteri-camera-usa-blocca-impeachment-hegseth",
-      "category": "Esteri",
-      "title": "Stati Uniti, la Camera blocca l'impeachment di Hegseth",
-      "eventKey": "camera-usa-voto-impeachment-hegseth-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "economia-itv-tagli-produzioni-2026",
-      "category": "Economia",
-      "title": "ITV riduce i budget dei programmi mentre cala la spesa audiovisiva britannica",
-      "eventKey": "itv-riduzione-budget-produzioni-televisive-2026",
-      "pending": true
-    },
-    {
-      "id": "economia-poundland-rischio-amministrazione",
-      "category": "Economia",
-      "title": "Poundland cerca più tempo per evitare l'amministrazione controllata",
-      "eventKey": "poundland-protezione-creditori-soccorso-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "cronaca-monaldi-nove-indagati",
-      "category": "Cronaca",
-      "title": "Trapianto al Monaldi, salgono a nove gli indagati per la morte di Domenico",
-      "eventKey": "monaldi-trapianto-domenico-caliendo-nove-indagati-2026",
-      "pending": true
-    },
-    {
-      "id": "roma-tor-sapienza-demolizione-via-tallone",
-      "category": "Roma",
-      "title": "Tor Sapienza, iniziata la demolizione dell'edificio di via Tallone",
-      "eventKey": "tor-sapienza-demolizione-edificio-via-tallone-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "sport-malago-commissione-candidature-figc",
-      "category": "Sport",
-      "title": "FIGC, Malagò chiarisce il ruolo della commissione candidature",
-      "eventKey": "figc-malago-lettera-buonfiglio-commissione-candidature-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "politica-allarmi-scuole-confronto-opposizioni",
-      "category": "Politica",
-      "title": "Allarmi nelle scuole, Meloni convoca le opposizioni",
-      "eventKey": "allarmi-scuole-italia-vertice-opposizioni-novembre-2026"
-    },
-    {
-      "id": "politica-giorgetti-firma-tredicesimo-pacchetto-aiuti-ucraina",
-      "category": "Politica",
-      "title": "Giorgetti firma il tredicesimo pacchetto di aiuti italiani all'Ucraina",
-      "eventKey": "giorgetti-firma-tredicesimo-pacchetto-aiuti-ucraina-novembre-2026"
-    },
-    {
-      "id": "politica-tajani-minacce-hacker-famiglia-question-time",
-      "category": "Politica",
-      "title": "Tajani denuncia nuove intimidazioni informatiche contro la famiglia",
-      "eventKey": "tajani-minacce-hacker-famiglia-question-time-novembre-2026"
-    },
-    {
-      "id": "politica-manovra-audizioni-enti-locali-confindustria",
-      "category": "Politica",
-      "title": "Manovra, enti locali e imprese presentano le richieste al Parlamento",
-      "eventKey": "manovra-audizioni-enti-locali-confindustria-novembre-2026"
-    },
-    {
-      "id": "politica-berlusconi-fratelli-escludono-candidature",
-      "category": "Politica",
-      "title": "Pier Silvio Berlusconi esclude un ingresso in politica suo e di Marina",
-      "eventKey": "pier-silvio-marina-berlusconi-escludono-politica-novembre-2026"
-    },
-    {
-      "id": "cultura-chiaroscuro-netflix-debutto",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "ChiaroScuro arriva su Netflix: il crime italiano entra nel mondo dell'arte",
-      "eventKey": "chiaroscuro-serie-netflix-debutto-11-novembre-2026"
-    },
-    {
-      "id": "cultura-ramayana-box-office-uk",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Ramayana guida il botteghino britannico prima dell'uscita del 19 novembre",
-      "eventKey": "ramayana-film-box-office-regno-unito-novembre-2026"
-    },
-    {
-      "id": "cultura-istituto-seconda-stagione",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "L'Istituto torna negli Stati Uniti con una seconda stagione",
-      "eventKey": "istituto-seconda-stagione-mgm-plus-novembre-2026"
-    },
-    {
-      "id": "cultura-ebenezer-depp-cast-uscita",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Johnny Depp interpreta Scrooge nel nuovo film di Ti West",
-      "eventKey": "ebenezer-film-ti-west-johnny-depp-uscita-novembre-2026"
-    },
-    {
-      "id": "cultura-emily-paris-sei-teaser",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Emily in Paris, il teaser della stagione finale porta la protagonista in Grecia",
-      "eventKey": "emily-in-paris-stagione-sei-teaser-grecia-novembre-2026"
-    },
-    {
-      "id": "tecnologia-falso-portale-inps-android",
-      "category": "Tecnologia · AI",
-      "title": "Un sito che imita l'INPS tenta di distribuire un'app Android non ufficiale",
-      "eventKey": "falso-portale-inps-apk-android-novembre-2026"
-    },
-    {
-      "id": "tecnologia-chip-nvidia-cina-restrizioni",
-      "category": "Tecnologia · AI",
-      "title": "Chip NVIDIA raggiungono soggetti cinesi nonostante i vincoli statunitensi",
-      "eventKey": "chip-nvidia-b300-h200-cina-accesso-restrizioni-novembre-2026"
-    },
-    {
-      "id": "tecnologia-claude-meetings-google-meet",
-      "category": "Tecnologia · AI",
-      "title": "Claude Meetings entra nelle videoriunioni Google Meet",
-      "eventKey": "claude-meetings-beta-google-meet-novembre-2026"
-    },
-    {
-      "id": "tecnologia-dark-souls-server-ripristinati",
-      "category": "Tecnologia · AI",
-      "title": "Ripristinati i server online di Dark Souls 2 e 3",
-      "eventKey": "dark-souls-2-3-server-ripristinati-novembre-2026"
-    },
-    {
-      "id": "tecnologia-xbox-cloud-tier-pubblicita",
-      "category": "Tecnologia · AI",
-      "title": "Xbox Cloud Gaming introduce l'accesso gratuito con pubblicità",
-      "eventKey": "xbox-cloud-gaming-accesso-gratuito-pubblicita-novembre-2026"
-    }
-  ],
-  "collectionId": "2026-11-12-mattina",
+  "stories": [],
+  "collectionId": "2026-11-12-pomeriggio",
   "reserveCounts": {
     "Politica": 0,
     "Esteri": 0,
@@ -198,49 +42,49 @@
   "photosAvailable": 0,
   "categoryProgress": {
     "politica": {
-      "base": 5,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "esteri": {
-      "base": 2,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "economia": {
-      "base": 2,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cronaca": {
-      "base": 1,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "roma": {
-      "base": 1,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cultura": {
-      "base": 5,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "tecnologia": {
-      "base": 5,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "sport": {
-      "base": 1,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
