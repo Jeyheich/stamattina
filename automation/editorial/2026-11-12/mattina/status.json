@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-12",
-  "checkedAt": "2026-11-12T07:03:19.667Z",
+  "checkedAt": "2026-11-12T07:14:12.771Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -15,6 +15,7 @@
   ],
   "completed": [
     "politica",
+    "cultura",
     "tecnologia"
   ],
   "inProgress": [
@@ -33,10 +34,6 @@
     {
       "slug": "roma",
       "count": 1
-    },
-    {
-      "slug": "cultura",
-      "count": 3
     },
     {
       "slug": "sport",
@@ -89,27 +86,6 @@
       "pending": true
     },
     {
-      "id": "cultura-chiaroscuro-netflix-debutto",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "ChiaroScuro arriva su Netflix: il crime italiano entra nel mondo dell'arte",
-      "eventKey": "chiaroscuro-serie-netflix-debutto-11-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "cultura-ramayana-box-office-uk",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Ramayana guida il botteghino britannico prima dell'uscita del 19 novembre",
-      "eventKey": "ramayana-film-box-office-regno-unito-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "cultura-istituto-seconda-stagione",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "L'Istituto torna negli Stati Uniti con una seconda stagione",
-      "eventKey": "istituto-seconda-stagione-mgm-plus-novembre-2026",
-      "pending": true
-    },
-    {
       "id": "sport-malago-commissione-candidature-figc",
       "category": "Sport",
       "title": "FIGC, Malagò chiarisce il ruolo della commissione candidature",
@@ -145,6 +121,36 @@
       "category": "Politica",
       "title": "Pier Silvio Berlusconi esclude un ingresso in politica suo e di Marina",
       "eventKey": "pier-silvio-marina-berlusconi-escludono-politica-novembre-2026"
+    },
+    {
+      "id": "cultura-chiaroscuro-netflix-debutto",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "ChiaroScuro arriva su Netflix: il crime italiano entra nel mondo dell'arte",
+      "eventKey": "chiaroscuro-serie-netflix-debutto-11-novembre-2026"
+    },
+    {
+      "id": "cultura-ramayana-box-office-uk",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Ramayana guida il botteghino britannico prima dell'uscita del 19 novembre",
+      "eventKey": "ramayana-film-box-office-regno-unito-novembre-2026"
+    },
+    {
+      "id": "cultura-istituto-seconda-stagione",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "L'Istituto torna negli Stati Uniti con una seconda stagione",
+      "eventKey": "istituto-seconda-stagione-mgm-plus-novembre-2026"
+    },
+    {
+      "id": "cultura-ebenezer-depp-cast-uscita",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Johnny Depp interpreta Scrooge nel nuovo film di Ti West",
+      "eventKey": "ebenezer-film-ti-west-johnny-depp-uscita-novembre-2026"
+    },
+    {
+      "id": "cultura-emily-paris-sei-teaser",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Emily in Paris, il teaser della stagione finale porta la protagonista in Grecia",
+      "eventKey": "emily-in-paris-stagione-sei-teaser-grecia-novembre-2026"
     },
     {
       "id": "tecnologia-falso-portale-inps-android",
@@ -222,7 +228,7 @@
       "complete": false
     },
     "cultura": {
-      "base": 3,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
