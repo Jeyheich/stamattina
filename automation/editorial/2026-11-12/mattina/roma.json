@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-12",
+  "collectionId": "2026-11-12-mattina",
+  "category": "Roma",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-12T06:18:26Z",
+  "articles": [
+    {
+      "id": "roma-tor-sapienza-demolizione-via-tallone",
+      "eventKey": "tor-sapienza-demolizione-edificio-via-tallone-novembre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Tor Sapienza, iniziata la demolizione dell'edificio di via Tallone",
+      "summary": "Dopo lo sgombero di settembre è partita la demolizione dello stabile degradato, primo passo verso un nuovo insediamento tecnologico.",
+      "body": [
+        "L'intervento nell'area di via Cesare Tallone segue la bonifica e la messa in sicurezza del sito. Il progetto prevede circa tre anni di lavori dall'avvio del cantiere."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-12T06:18:26Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/lazio/notizie/2026/11/11/da-palazzo-della-droga-a-hub-tecnologico-al-via-demolizione-a-tor-sapienza_ee1252c4-3f3c-4d55-bba3-fd6dc76db4ee.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-12T06:18:26Z",
+        "dateEvidence": "Nella pagina ANSA compare ROMA, 11 novembre 2026, 18:54.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
