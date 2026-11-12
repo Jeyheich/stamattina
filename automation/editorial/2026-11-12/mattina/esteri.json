@@ -3,7 +3,7 @@
   "editionDate": "2026-11-12",
   "collectionId": "2026-11-12-mattina",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-12T06:07:27+01:00",
+  "lastAttemptAt": "2026-11-12T07:02:14.444Z",
   "reserveDraft": [],
   "reserveArticles": [],
   "category": "Esteri",
@@ -26,6 +26,27 @@
         "access": "free",
         "accessCheckedAt": "2026-11-12T06:07:27+01:00",
         "dateEvidence": "ANSA riporta nell'articolo la data 11 novembre 2026 e l'ora 20:53.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-camera-usa-blocca-impeachment-hegseth",
+      "eventKey": "camera-usa-voto-impeachment-hegseth-novembre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Stati Uniti, la Camera blocca l'impeachment di Hegseth",
+      "summary": "La Camera dei rappresentanti statunitense ha bloccato il tentativo di avviare l'impeachment del segretario alla Difesa Pete Hegseth. La risoluzione del repubblicano Thomas Massie è stata rinviata in commissione con 211 voti contro 204, interrompendo di fatto l'iniziativa.",
+      "body": [
+        "La Camera dei rappresentanti statunitense ha bloccato il tentativo di avviare l'impeachment del segretario alla Difesa Pete Hegseth. La risoluzione del repubblicano Thomas Massie è stata rinviata in commissione con 211 voti contro 204, interrompendo di fatto l'iniziativa."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-12T07:02:14.444Z",
+      "source": {
+        "name": "Adnkronos",
+        "url": "https://www.adnkronos.com/internazionale/esteri/impeachment-hegseth-voto-camera-usa_4hcbr8uobJU47yyjsY0h3g",
+        "access": "free",
+        "accessCheckedAt": "2026-11-12T07:02:14.444Z",
+        "dateEvidence": "Adnkronos riporta 11 novembre 2026, ore 06.42 nell'intestazione della notizia.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
