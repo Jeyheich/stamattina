@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-12",
-  "checkedAt": "2026-11-12T06:11:57.909Z",
+  "checkedAt": "2026-11-12T06:18:58.357Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -34,14 +34,19 @@
       "count": 1
     },
     {
+      "slug": "roma",
+      "count": 1
+    },
+    {
+      "slug": "cultura",
+      "count": 3
+    },
+    {
       "slug": "sport",
       "count": 1
     }
   ],
-  "missing": [
-    "roma",
-    "cultura"
-  ],
+  "missing": [],
   "invalid": [],
   "stories": [
     {
@@ -77,6 +82,34 @@
       "category": "Cronaca",
       "title": "Trapianto al Monaldi, salgono a nove gli indagati per la morte di Domenico",
       "eventKey": "monaldi-trapianto-domenico-caliendo-nove-indagati-2026",
+      "pending": true
+    },
+    {
+      "id": "roma-tor-sapienza-demolizione-via-tallone",
+      "category": "Roma",
+      "title": "Tor Sapienza, iniziata la demolizione dell'edificio di via Tallone",
+      "eventKey": "tor-sapienza-demolizione-edificio-via-tallone-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "cultura-chiaroscuro-netflix-debutto",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "ChiaroScuro arriva su Netflix: il crime italiano entra nel mondo dell'arte",
+      "eventKey": "chiaroscuro-serie-netflix-debutto-11-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "cultura-ramayana-box-office-uk",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Ramayana guida il botteghino britannico prima dell'uscita del 19 novembre",
+      "eventKey": "ramayana-film-box-office-regno-unito-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "cultura-istituto-seconda-stagione",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "L'Istituto torna negli Stati Uniti con una seconda stagione",
+      "eventKey": "istituto-seconda-stagione-mgm-plus-novembre-2026",
       "pending": true
     },
     {
@@ -156,13 +189,13 @@
       "complete": false
     },
     "roma": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cultura": {
-      "base": 0,
+      "base": 3,
       "reserve": 0,
       "draft": 0,
       "complete": false
