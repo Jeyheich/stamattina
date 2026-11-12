@@ -2,8 +2,7 @@
   "schemaVersion": 1,
   "editionDate": "2026-11-12",
   "collectionId": "2026-11-12-mattina",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-12T07:01:41.860Z",
+  "lastAttemptAt": "2026-11-12T07:02:00.907Z",
   "reserveDraft": [],
   "reserveArticles": [],
   "category": "Politica",
@@ -91,6 +90,28 @@
         "dateEvidence": "RaiNews riporta 11/11/2026 nella testata del pezzo sulla legge di bilancio.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "politica-berlusconi-fratelli-escludono-candidature",
+      "eventKey": "pier-silvio-marina-berlusconi-escludono-politica-novembre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Pier Silvio Berlusconi esclude un ingresso in politica suo e di Marina",
+      "summary": "Pier Silvio Berlusconi ha escluso un ingresso suo o della sorella Marina nella politica attiva. Ha spiegato che l'interesse della famiglia per Forza Italia riguarda la continuità dell'eredità politica del padre, senza candidature personali.",
+      "body": [
+        "Pier Silvio Berlusconi ha escluso un ingresso suo o della sorella Marina nella politica attiva. Ha spiegato che l'interesse della famiglia per Forza Italia riguarda la continuità dell'eredità politica del padre, senza candidature personali."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-12T07:02:00.907Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/11/11/pier-silvio-berlusconi-marina-politica-dichiarazione",
+        "access": "free",
+        "accessCheckedAt": "2026-11-12T07:02:00.907Z",
+        "dateEvidence": "Sky TG24 indica 11 nov 2026 - 14:21 sopra il testo della dichiarazione.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
-  ]
+  ],
+  "completedAt": "2026-11-12T07:02:00.907Z"
 }
