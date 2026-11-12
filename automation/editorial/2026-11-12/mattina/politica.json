@@ -3,7 +3,7 @@
   "editionDate": "2026-11-12",
   "collectionId": "2026-11-12-mattina",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-12T06:07:27+01:00",
+  "lastAttemptAt": "2026-11-12T07:01:41.860Z",
   "reserveDraft": [],
   "reserveArticles": [],
   "category": "Politica",
@@ -26,6 +26,69 @@
         "access": "free",
         "accessCheckedAt": "2026-11-12T06:07:27+01:00",
         "dateEvidence": "Data 11 novembre 2026 indicata nell'intestazione ANSA dell'articolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-giorgetti-firma-tredicesimo-pacchetto-aiuti-ucraina",
+      "eventKey": "giorgetti-firma-tredicesimo-pacchetto-aiuti-ucraina-novembre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Giorgetti firma il tredicesimo pacchetto di aiuti italiani all'Ucraina",
+      "summary": "Il ministero dell'Economia ha comunicato che Giancarlo Giorgetti ha firmato il decreto interministeriale sul tredicesimo pacchetto di aiuti a Kiev, dopo le verifiche sulla compatibilità finanziaria e sugli indirizzi parlamentari.",
+      "body": [
+        "Il ministero dell'Economia ha comunicato che Giancarlo Giorgetti ha firmato il decreto interministeriale sul tredicesimo pacchetto di aiuti a Kiev, dopo le verifiche sulla compatibilità finanziaria e sugli indirizzi parlamentari."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-12T07:01:41.860Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/11/11/ucraina-giorgetti-firmato-decreto-aiuti",
+        "access": "free",
+        "accessCheckedAt": "2026-11-12T07:01:41.860Z",
+        "dateEvidence": "Sky TG24 indica 11 nov 2026, ore 23:21, sopra il testo dell'articolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-tajani-minacce-hacker-famiglia-question-time",
+      "eventKey": "tajani-minacce-hacker-famiglia-question-time-novembre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Tajani denuncia nuove intimidazioni informatiche contro la famiglia",
+      "summary": "Durante il Question Time alla Camera, Antonio Tajani ha riferito di ulteriori minacce informatiche rivolte anche ai familiari minorenni. Ha collegato gli attacchi al sostegno italiano all'Ucraina e richiamato il rafforzamento delle difese della Farnesina.",
+      "body": [
+        "Durante il Question Time alla Camera, Antonio Tajani ha riferito di ulteriori minacce informatiche rivolte anche ai familiari minorenni. Ha collegato gli attacchi al sostegno italiano all'Ucraina e richiamato il rafforzamento delle difese della Farnesina."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-12T07:01:41.860Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/tajani-denuncia-nuove-minacce-hacker-intimidita-anche-la-mia-famiglia-compresi-i-minori-85e7c1c5-ed9a-4506-b28e-abdd1c1659b5.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-12T07:01:41.860Z",
+        "dateEvidence": "RaiNews mostra 11/11/2026 immediatamente sotto il titolo dell'articolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-manovra-audizioni-enti-locali-confindustria",
+      "eventKey": "manovra-audizioni-enti-locali-confindustria-novembre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Manovra, enti locali e imprese presentano le richieste al Parlamento",
+      "summary": "Nelle audizioni sulla legge di bilancio, Confindustria ha chiesto maggiore stabilità per gli incentivi agli investimenti e per le regole fiscali. Anci e Upi hanno segnalato criticità sui bilanci locali, mentre la maggioranza ha discusso possibili correttivi su sanità, pensioni e istruzione.",
+      "body": [
+        "Nelle audizioni sulla legge di bilancio, Confindustria ha chiesto maggiore stabilità per gli incentivi agli investimenti e per le regole fiscali. Anci e Upi hanno segnalato criticità sui bilanci locali, mentre la maggioranza ha discusso possibili correttivi su sanità, pensioni e istruzione."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-12T07:01:41.860Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/manovra-audizioni-in-parlamento-e-vertice-di-rifinitura-a-palazzo-chigi-dfc3900d-90ae-4d5c-bd47-312f00d1a6e0.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-12T07:01:41.860Z",
+        "dateEvidence": "RaiNews riporta 11/11/2026 nella testata del pezzo sulla legge di bilancio.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
