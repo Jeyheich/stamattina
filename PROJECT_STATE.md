@@ -1,5 +1,10 @@
 # Stamattina — stato operativo
 
+## Diagnostica del recupero — 12 novembre
+- Per il prossimo recupero mattutino, entrambe le attività devono riportare in chat, per categoria, i tentativi sulle aggiuntive, le alternative provate, gli scarti e i salvataggi. Il brief distingue ricerca non avviata da ricerca senza risultati. Vedi commit d575bfa.
+- Nel ciclo del 12 novembre Politica ha chiuso cinque principali con almeno una fonte assente dai dossier esaminati. Zero bozze e zero aggiuntive. I resoconti disponibili non documentano tentativi sulle aggiuntive.
+- Verificare il 13 novembre che i due resoconti riportino i dati richiesti e confrontarli con i blocchi editoriali salvati.
+
 ## Mattutina dell’11 novembre — pubblicata dopo recupero
 - Gemini in Antigravity ha dato un secondo parere sulla diagnosi e proposto le selezioni dalle pagine originali. Codex ha rivisto i contenuti, corretto duplicati e formulazioni, verificato 80 URL e cinque foto e inviato i blocchi sui due rami editoriali.
 - Run 43036043468 riuscita. Edizione 2026-11-11-batches-612436c4e8c8 verificata nel JSON pubblico alle 15:11 Europe/Rome, con 40 principali, 40 aggiuntive e cinque foto. Recupero editoriale assistito e pubblicazione tramite il workflow esistente. Da verificare la completezza dei prossimi avvii programmati.
