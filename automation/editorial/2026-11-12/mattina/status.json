@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-12",
-  "checkedAt": "2026-11-12T05:09:26.609Z",
+  "checkedAt": "2026-11-12T05:19:31.345Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -22,11 +22,17 @@
     {
       "slug": "esteri",
       "count": 1
+    },
+    {
+      "slug": "economia",
+      "count": 2
+    },
+    {
+      "slug": "cronaca",
+      "count": 1
     }
   ],
   "missing": [
-    "economia",
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -46,6 +52,27 @@
       "category": "Esteri",
       "title": "Abu Dhabi, dai colloqui sull'Ucraina emerge un'intesa sui prigionieri",
       "eventKey": "abu-dhabi-colloqui-ucraina-russia-scambio-prigionieri-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "economia-itv-tagli-produzioni-2026",
+      "category": "Economia",
+      "title": "ITV riduce i budget dei programmi mentre cala la spesa audiovisiva britannica",
+      "eventKey": "itv-riduzione-budget-produzioni-televisive-2026",
+      "pending": true
+    },
+    {
+      "id": "economia-poundland-rischio-amministrazione",
+      "category": "Economia",
+      "title": "Poundland cerca più tempo per evitare l'amministrazione controllata",
+      "eventKey": "poundland-protezione-creditori-soccorso-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "cronaca-monaldi-nove-indagati",
+      "category": "Cronaca",
+      "title": "Trapianto al Monaldi, salgono a nove gli indagati per la morte di Domenico",
+      "eventKey": "monaldi-trapianto-domenico-caliendo-nove-indagati-2026",
       "pending": true
     }
   ],
@@ -76,13 +103,13 @@
       "complete": false
     },
     "economia": {
-      "base": 0,
+      "base": 2,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cronaca": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false
