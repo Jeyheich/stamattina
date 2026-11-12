@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-12",
-  "checkedAt": "2026-11-12T06:20:05.757Z",
+  "checkedAt": "2026-11-12T07:02:06.091Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,13 +14,10 @@
     "sport"
   ],
   "completed": [
+    "politica",
     "tecnologia"
   ],
   "inProgress": [
-    {
-      "slug": "politica",
-      "count": 1
-    },
     {
       "slug": "esteri",
       "count": 1
@@ -49,13 +46,6 @@
   "missing": [],
   "invalid": [],
   "stories": [
-    {
-      "id": "politica-allarmi-scuole-confronto-opposizioni",
-      "category": "Politica",
-      "title": "Allarmi nelle scuole, Meloni convoca le opposizioni",
-      "eventKey": "allarmi-scuole-italia-vertice-opposizioni-novembre-2026",
-      "pending": true
-    },
     {
       "id": "esteri-abu-dhabi-scambio-prigionieri",
       "category": "Esteri",
@@ -120,6 +110,36 @@
       "pending": true
     },
     {
+      "id": "politica-allarmi-scuole-confronto-opposizioni",
+      "category": "Politica",
+      "title": "Allarmi nelle scuole, Meloni convoca le opposizioni",
+      "eventKey": "allarmi-scuole-italia-vertice-opposizioni-novembre-2026"
+    },
+    {
+      "id": "politica-giorgetti-firma-tredicesimo-pacchetto-aiuti-ucraina",
+      "category": "Politica",
+      "title": "Giorgetti firma il tredicesimo pacchetto di aiuti italiani all'Ucraina",
+      "eventKey": "giorgetti-firma-tredicesimo-pacchetto-aiuti-ucraina-novembre-2026"
+    },
+    {
+      "id": "politica-tajani-minacce-hacker-famiglia-question-time",
+      "category": "Politica",
+      "title": "Tajani denuncia nuove intimidazioni informatiche contro la famiglia",
+      "eventKey": "tajani-minacce-hacker-famiglia-question-time-novembre-2026"
+    },
+    {
+      "id": "politica-manovra-audizioni-enti-locali-confindustria",
+      "category": "Politica",
+      "title": "Manovra, enti locali e imprese presentano le richieste al Parlamento",
+      "eventKey": "manovra-audizioni-enti-locali-confindustria-novembre-2026"
+    },
+    {
+      "id": "politica-berlusconi-fratelli-escludono-candidature",
+      "category": "Politica",
+      "title": "Pier Silvio Berlusconi esclude un ingresso in politica suo e di Marina",
+      "eventKey": "pier-silvio-marina-berlusconi-escludono-politica-novembre-2026"
+    },
+    {
       "id": "tecnologia-falso-portale-inps-android",
       "category": "Tecnologia · AI",
       "title": "Un sito che imita l'INPS tenta di distribuire un'app Android non ufficiale",
@@ -165,7 +185,7 @@
   "photosAvailable": 0,
   "categoryProgress": {
     "politica": {
-      "base": 1,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
