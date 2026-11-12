@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-12",
+  "collectionId": "2026-11-12-mattina",
+  "category": "Economia",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-12T05:19:09.143Z",
+  "articles": [
+    {
+      "id": "economia-itv-tagli-produzioni-2026",
+      "eventKey": "itv-riduzione-budget-produzioni-televisive-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "ITV riduce i budget dei programmi mentre cala la spesa audiovisiva britannica",
+      "summary": "L'emittente britannica punta a risparmiare 30 milioni di sterline, mentre gli investimenti nella produzione di film e serie di fascia alta nel Regno Unito risultano in calo rispetto al 2025.",
+      "body": [
+        "ITV prevede risparmi temporanei per 30 milioni di sterline, di cui 25 milioni sui contenuti, in un contesto di ricavi pubblicitari in diminuzione.",
+        "Secondo i dati provvisori del British Film Institute citati dal Guardian, la spesa britannica per film e produzioni televisive di fascia alta nei dodici mesi a settembre è scesa a 5,2 miliardi di sterline, contro 7,26 miliardi dell'anno precedente."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-12T05:19:09.143Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/11/itv-cut-costs-falling-advertising-sales",
+        "access": "free",
+        "accessCheckedAt": "2026-11-12T05:19:09.143Z",
+        "dateEvidence": "La pagina originale indica Wed 11 Nov 2026, prima pubblicazione alle 13:09 CET.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-poundland-rischio-amministrazione",
+      "eventKey": "poundland-protezione-creditori-soccorso-novembre-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Poundland cerca più tempo per evitare l'amministrazione controllata",
+      "summary": "La catena britannica chiede un'estensione della protezione dai creditori mentre parlamentari criticano la gestione del proprietario Gordon Brothers.",
+      "body": [
+        "La direzione di Poundland intende chiedere all'Alta corte dieci giorni lavorativi aggiuntivi di protezione dai creditori per negoziare un piano di salvataggio.",
+        "La catena impiega circa 12 mila persone in 600 negozi tra Regno Unito e Irlanda. Alcuni parlamentari accusano il proprietario di aver prelevato fondi dall'azienda mentre attraversava difficoltà finanziarie; si tratta di accuse riportate, non di conclusioni giudiziarie."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-12T05:19:09.143Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/11/poundland-owner-chain-mps-claim-high-court",
+        "access": "free",
+        "accessCheckedAt": "2026-11-12T05:19:09.143Z",
+        "dateEvidence": "La pagina originale mostra Wed 11 Nov 2026 alle 20:10 CET.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
