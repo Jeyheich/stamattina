@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-12",
+  "collectionId": "2026-11-12-mattina",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-12T06:07:27+01:00",
+  "reserveDraft": [],
+  "reserveArticles": [],
+  "category": "Esteri",
+  "articles": [
+    {
+      "id": "esteri-abu-dhabi-scambio-prigionieri",
+      "eventKey": "abu-dhabi-colloqui-ucraina-russia-scambio-prigionieri-novembre-2026",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Abu Dhabi, dai colloqui sull'Ucraina emerge un'intesa sui prigionieri",
+      "summary": "La seconda giornata dei negoziati tra Russia e Ucraina con mediazione statunitense si è chiusa senza progressi sostanziali sulle posizioni politiche. Le delegazioni hanno però raggiunto un'intesa per uno scambio di prigionieri, la cui attuazione resta da confermare.",
+      "body": [
+        "La seconda giornata dei negoziati tra Russia e Ucraina con mediazione statunitense si è chiusa senza progressi sostanziali sulle posizioni politiche. Le delegazioni hanno però raggiunto un'intesa per uno scambio di prigionieri, la cui attuazione resta da confermare."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-12T06:07:27+01:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/11/gli-inviati-usa-da-putin-dopo-abu-dhabi-poi-da-zelensky-a-dublino_275a59ea-50f5-4e6e-8d90-89aa9c12e2d0.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-12T06:07:27+01:00",
+        "dateEvidence": "ANSA riporta nell'articolo la data 11 novembre 2026 e l'ora 20:53.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
+}

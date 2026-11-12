@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-12",
+  "collectionId": "2026-11-12-mattina",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-12T06:07:27+01:00",
+  "reserveDraft": [],
+  "reserveArticles": [],
+  "category": "Politica",
+  "articles": [
+    {
+      "id": "politica-allarmi-scuole-confronto-opposizioni",
+      "eventKey": "allarmi-scuole-italia-vertice-opposizioni-novembre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Allarmi nelle scuole, Meloni convoca le opposizioni",
+      "summary": "Dopo le segnalazioni di presunti ordigni negli istituti scolastici, la presidente del Consiglio ha convocato i leader di opposizione per condividere le informazioni disponibili. Il governo afferma che non sono emersi pericoli concreti.",
+      "body": [
+        "Dopo le segnalazioni di presunti ordigni negli istituti scolastici, la presidente del Consiglio ha convocato i leader di opposizione per condividere le informazioni disponibili. Il governo afferma che non sono emersi pericoli concreti."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-12T06:07:27+01:00",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/amp/sito/notizie/politica/2026/11/11/non-cambieranno-il-calendario-delle-scuole-e-meloni-chiama-le-opposizioni_777ad9b7-5940-4f12-a318-bab5b8c213c7.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-12T06:07:27+01:00",
+        "dateEvidence": "Data 11 novembre 2026 indicata nell'intestazione ANSA dell'articolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ]
+}

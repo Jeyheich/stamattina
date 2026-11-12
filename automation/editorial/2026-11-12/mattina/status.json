@@ -1,0 +1,119 @@
+{
+  "editionDate": "2026-11-12",
+  "checkedAt": "2026-11-12T05:08:01.614Z",
+  "ready": false,
+  "editorialComplete": false,
+  "reserveMissing": [
+    "politica",
+    "esteri",
+    "economia",
+    "cronaca",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
+  ],
+  "completed": [],
+  "inProgress": [
+    {
+      "slug": "politica",
+      "count": 1
+    },
+    {
+      "slug": "esteri",
+      "count": 1
+    }
+  ],
+  "missing": [
+    "economia",
+    "cronaca",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
+  ],
+  "invalid": [],
+  "stories": [
+    {
+      "id": "politica-allarmi-scuole-confronto-opposizioni",
+      "category": "Politica",
+      "title": "Allarmi nelle scuole, Meloni convoca le opposizioni",
+      "eventKey": "allarmi-scuole-italia-vertice-opposizioni-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "esteri-abu-dhabi-scambio-prigionieri",
+      "category": "Esteri",
+      "title": "Abu Dhabi, dai colloqui sull'Ucraina emerge un'intesa sui prigionieri",
+      "eventKey": "abu-dhabi-colloqui-ucraina-russia-scambio-prigionieri-novembre-2026",
+      "pending": true
+    }
+  ],
+  "collectionId": "2026-11-12-mattina",
+  "reserveCounts": {
+    "Politica": 0,
+    "Esteri": 0,
+    "Economia": 0,
+    "Cronaca": 0,
+    "Roma": 0,
+    "Cultura · Teatro · Cinema": 0,
+    "Tecnologia · AI": 0,
+    "Sport": 0
+  },
+  "photoCandidates": [],
+  "photosAvailable": 0,
+  "categoryProgress": {
+    "politica": {
+      "base": 1,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "esteri": {
+      "base": 1,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "economia": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "cronaca": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "roma": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "cultura": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "tecnologia": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "sport": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    }
+  },
+  "preparation": "in-preparazione",
+  "message": "Edizione in preparazione",
+  "needsPublication": false,
+  "publicCollectionId": "2026-11-11-mattina"
+}
