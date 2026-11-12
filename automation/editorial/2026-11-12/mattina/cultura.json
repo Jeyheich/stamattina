@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-12",
+  "collectionId": "2026-11-12-mattina",
+  "category": "Cultura · Teatro · Cinema",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-12T06:18:26Z",
+  "articles": [
+    {
+      "id": "cultura-chiaroscuro-netflix-debutto",
+      "eventKey": "chiaroscuro-serie-netflix-debutto-11-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "ChiaroScuro arriva su Netflix: il crime italiano entra nel mondo dell'arte",
+      "summary": "La serie italiana in otto episodi, disponibile dall'11 novembre, unisce indagini su omicidi e opere d'arte, con Pierpaolo Spollon e Andrea Lattanzi.",
+      "body": [
+        "La vicenda prende avvio dall'omicidio di un direttore museale e dal furto di un dipinto. Cosmo Speranza, esperto d'arte, collabora con l'ispettore Angelo Tiberi."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-12T06:18:26Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/spettacolo/serie-tv/2026/11/11/chiaroscuro-netflix-cast",
+        "access": "free",
+        "accessCheckedAt": "2026-11-12T06:18:26Z",
+        "dateEvidence": "Sky TG24 indica 11 nov 2026 - 19:00 nella testata dell'articolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-ramayana-box-office-uk",
+      "eventKey": "ramayana-film-box-office-regno-unito-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Ramayana guida il botteghino britannico prima dell'uscita del 19 novembre",
+      "summary": "Il film fantasy di Nitesh Tiwari ispirato all'epica indiana ha raggiunto la vetta del box office nel Regno Unito e in Irlanda, secondo Sky TG24.",
+      "body": [
+        "La produzione, con Ranbir Kapoor e Yash, è il primo capitolo di un progetto in due parti. La colonna sonora coinvolge Hans Zimmer e A.R. Rahman."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-12T06:18:26Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/spettacolo/cinema/2026/11/11/ramayana-film",
+        "access": "free",
+        "accessCheckedAt": "2026-11-12T06:18:26Z",
+        "dateEvidence": "Sky TG24 mostra 11 nov 2026 - 16:45 sopra l'introduzione.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-istituto-seconda-stagione",
+      "eventKey": "istituto-seconda-stagione-mgm-plus-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "L'Istituto torna negli Stati Uniti con una seconda stagione",
+      "summary": "La serie tratta dal romanzo di Stephen King ha avviato il nuovo ciclo su MGM+ l'8 novembre; per l'Italia non è ancora confermata una data di distribuzione.",
+      "body": [
+        "I protagonisti cercano di fermare definitivamente l'organizzazione che sfrutta ragazzi con poteri speciali. Alfie Allen entra nel cast nel ruolo di Nolan Reeves."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-12T06:18:26Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/spettacolo/serie-tv/2026/11/11/l-istituto-stagione-2",
+        "access": "free",
+        "accessCheckedAt": "2026-11-12T06:18:26Z",
+        "dateEvidence": "Sky TG24 mostra 11 nov 2026 - 15:29 sotto il titolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
