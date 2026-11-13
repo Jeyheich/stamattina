@@ -116,5 +116,112 @@
       }
     }
   ],
-  "reserveArticles": []
+  "reserveArticles": [
+    {
+      "id": "tecnologia-microsoft-365-disservizi",
+      "eventKey": "microsoft-365-disservizi",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Disservizi per Outlook e Microsoft 365",
+      "summary": "Microsoft ha segnalato problemi di accesso a diversi servizi della suite. Tra le applicazioni interessate figurano Outlook, OneDrive e Teams.",
+      "body": [
+        "Microsoft ha segnalato problemi di accesso a diversi servizi della suite. Tra le applicazioni interessate figurano Outlook, OneDrive e Teams."
+      ],
+      "publishedAt": "2026-11-13T06:41:15+00:00",
+      "verifiedAt": "2026-11-13T09:15:30Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/outlook-microsoft-365-down-13112026/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-13T09:15:30Z",
+        "dateEvidence": "Data e ora nei metadati di pubblicazione della pagina originale.",
+        "reviewedBy": "Codex"
+      }
+    },
+    {
+      "id": "tecnologia-google-wallet-chiavi-aliro",
+      "eventKey": "google-wallet-chiavi-aliro",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Google Wallet prova le chiavi per serrature smart",
+      "summary": "L’anteprima di Google Home permette di aggiungere a Wallet le chiavi delle serrature compatibili con Aliro. La modalità di apertura dipende dal supporto NFC o UWB del dispositivo.",
+      "body": [
+        "L’anteprima di Google Home permette di aggiungere a Wallet le chiavi delle serrature compatibili con Aliro. La modalità di apertura dipende dal supporto NFC o UWB del dispositivo."
+      ],
+      "publishedAt": "2026-11-12T18:54:38+00:00",
+      "verifiedAt": "2026-11-13T09:15:30Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/chiavi-digitali-serrature-smart-google-wallet/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-13T09:15:30Z",
+        "dateEvidence": "Data e ora nei metadati di pubblicazione della pagina originale.",
+        "reviewedBy": "Codex"
+      }
+    },
+    {
+      "id": "tecnologia-gemini-hydrogen-ricerca",
+      "eventKey": "gemini-hydrogen-ricerca",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Google presenta Gemini 4 Hydrogen per la Ricerca",
+      "summary": "Google ha annunciato un modello pensato per eseguire rapidamente compiti in più passaggi. Il rilascio nella Ricerca è progressivo e riguarda anche le risposte strutturate di AI Mode.",
+      "body": [
+        "Google ha annunciato un modello pensato per eseguire rapidamente compiti in più passaggi. Il rilascio nella Ricerca è progressivo e riguarda anche le risposte strutturate di AI Mode."
+      ],
+      "publishedAt": "2026-11-13T08:22:55+00:00",
+      "verifiedAt": "2026-11-13T09:15:30Z",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/gemini-4-hydrogen-arriva-su-google-e-da-risposte-migliori/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-13T09:15:30Z",
+        "dateEvidence": "Data e ora nei metadati di pubblicazione della pagina originale.",
+        "reviewedBy": "Codex"
+      }
+    },
+    {
+      "id": "tecnologia-wolfenstein-3-produzione",
+      "eventKey": "wolfenstein-3-produzione",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "MachineGames conferma la produzione di Wolfenstein 3",
+      "summary": "Xbox ha confermato che MachineGames sta lavorando al terzo capitolo della serie. L’annuncio non indica una data di uscita.",
+      "body": [
+        "Xbox ha confermato che MachineGames sta lavorando al terzo capitolo della serie. L’annuncio non indica una data di uscita."
+      ],
+      "publishedAt": "2026-11-13T07:30:00+01:00",
+      "verifiedAt": "2026-11-13T09:15:30Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/wolfenstein-3-annunciato-tanti-anni-silenzio-gioco-realt-911330.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-13T09:15:30Z",
+        "dateEvidence": "Data e ora nei metadati di pubblicazione della pagina originale.",
+        "reviewedBy": "Codex"
+      }
+    },
+    {
+      "id": "tecnologia-phantom-blade-zero-finale-segreto",
+      "eventKey": "phantom-blade-zero-finale-segreto",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Phantom Blade Zero, i requisiti per il finale segreto",
+      "summary": "Everyeye spiega come sbloccare l’epilogo extra del gioco. Il percorso richiede missioni secondarie e oggetti da ottenere prima di superare alcuni passaggi della storia.",
+      "body": [
+        "Everyeye spiega come sbloccare l’epilogo extra del gioco. Il percorso richiede missioni secondarie e oggetti da ottenere prima di superare alcuni passaggi della storia."
+      ],
+      "publishedAt": "2026-11-12T23:22:00+01:00",
+      "verifiedAt": "2026-11-13T09:15:30Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/phantom-blade-zero-come-ottenere-finale-segreto-sbloccare-segreti-gioco-909193.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-13T09:15:30Z",
+        "dateEvidence": "Data e ora nei metadati di pubblicazione della pagina originale.",
+        "reviewedBy": "Codex"
+      }
+    }
+  ],
+  "reserveDraft": []
 }
