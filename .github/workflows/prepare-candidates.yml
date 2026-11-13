@@ -33,6 +33,73 @@ jobs:
         env:
           PYTHONDONTWRITEBYTECODE: '1'
         run: python3 scripts/collect_candidates.py --verify-pages --output automation/candidates/latest.json
+      - name: Prepara archivio per la redazione
+        id: package
+        if: steps.slot.outputs.run == 'true' && (steps.collect.outcome == 'success' || steps.collect.outcome == 'failure')
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          path = Path('automation/candidates/latest.json')
+          if not path.exists():
+              raise SystemExit(0)
+          dossier = json.loads(path.read_text())
+          # An unsuccessful collection can leave the previous dossier in the checkout.
+          import subprocess
+          if not subprocess.check_output(['git', 'status', '--porcelain', '--', str(path)]).strip():
+              raise SystemExit(0)
+
+          output = Path(os.environ['RUNNER_TEMP']) / 'stamattina-redazione'
+          output.mkdir(exist_ok=True)
+          fields = ('id', 'category', 'title', 'url', 'finalUrl', 'source',
+                    'publishedAt', 'pagePublishedAt', 'pageExcerpt', 'pageTextWords')
+          categories = list(dossier['counts'])
+          for index, category in enumerate(categories, start=1):
+              candidates = [
+                  {key: item[key] for key in fields if key in item}
+                  for item in dossier['candidates'] if item['category'] == category
+              ]
+              report = {'generatedAt': dossier['generatedAt'], 'category': category,
+                        'editorialReviewRequired': True, 'candidates': candidates}
+              (output / f'{index:02}.json').write_text(
+                  json.dumps(report, ensure_ascii=False, indent=2), encoding='utf-8')
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as result:
+              print('ready=true', file=result)
+          PY
+      - name: Consegna archivio alla redazione
+        id: editorial_artifact
+        if: steps.package.outputs.ready == 'true'
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: stamattina-redazione
+          path: ${{ runner.temp }}/stamattina-redazione
+          retention-days: 1
+          if-no-files-found: error
+      - name: Registra il riferimento nel dossier
+        if: steps.editorial_artifact.outcome == 'success'
+        env:
+          ARTIFACT_ID: ${{ steps.editorial_artifact.outputs.artifact-id }}
+        run: |
+          PYTHONPATH=scripts python3 - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+          from collect_candidates import serialize_report
+
+          path = Path('automation/candidates/latest.json')
+          dossier = json.loads(path.read_text())
+          dossier['editorialArtifact'] = {
+              'id': int(os.environ['ARTIFACT_ID']),
+              'runId': int(os.environ['GITHUB_RUN_ID']),
+              'generatedAt': dossier['generatedAt'],
+              'files': {category: f'{index:02}.json'
+                        for index, category in enumerate(dossier['counts'], start=1)},
+          }
+          path.write_text(serialize_report(dossier), encoding='utf-8')
+          PY
       - name: Conserva soltanto il dossier dei candidati
         if: steps.slot.outputs.run == 'true' && (steps.collect.outcome == 'success' || steps.collect.outcome == 'failure')
         run: |
