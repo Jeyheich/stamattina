@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-13",
-  "checkedAt": "2026-11-13T05:01:34.677Z",
+  "checkedAt": "2026-11-13T05:13:00.523Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -18,12 +18,18 @@
     {
       "slug": "politica",
       "count": 1
+    },
+    {
+      "slug": "economia",
+      "count": 1
+    },
+    {
+      "slug": "cronaca",
+      "count": 1
     }
   ],
   "missing": [
     "esteri",
-    "economia",
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -36,6 +42,20 @@
       "category": "Politica",
       "title": "Allarmi nelle scuole, confronto a Palazzo Chigi senza intesa sulle misure",
       "eventKey": "confronto-meloni-opposizioni-allarmi-bomba-scuole",
+      "pending": true
+    },
+    {
+      "id": "economia-case-usa-ottobre",
+      "category": "Economia",
+      "title": "Stati Uniti, vendite di abitazioni ai minimi da sedici anni",
+      "eventKey": "vendite-case-usa-ottobre-2026-minimo-16-anni",
+      "pending": true
+    },
+    {
+      "id": "cronaca-ambrogini-milano",
+      "category": "Cronaca",
+      "title": "Milano assegnerà riconoscimenti civici alle vittime del rogo di Crans-Montana",
+      "eventKey": "ambrogini-oro-milano-2026-vittime-crans-montana",
       "pending": true
     }
   ],
@@ -66,13 +86,13 @@
       "complete": false
     },
     "economia": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cronaca": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false

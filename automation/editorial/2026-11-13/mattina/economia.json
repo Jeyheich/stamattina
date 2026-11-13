@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-13",
+  "collectionId": "2026-11-13-mattina",
+  "category": "Economia",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-13T05:12:37.307Z",
+  "articles": [
+    {
+      "id": "economia-case-usa-ottobre",
+      "eventKey": "vendite-case-usa-ottobre-2026-minimo-16-anni",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Stati Uniti, vendite di abitazioni ai minimi da sedici anni",
+      "summary": "Le vendite di abitazioni esistenti negli Stati Uniti sono scese a 3,75 milioni di unità in ottobre, l'8,8% in meno rispetto a un anno prima. I mutui trentennali vicini al 7,18% frenano gli acquisti; il prezzo mediano è di 416.700 dollari.",
+      "body": [
+        "Le vendite di abitazioni esistenti negli Stati Uniti sono scese a 3,75 milioni di unità in ottobre, l'8,8% in meno rispetto a un anno prima. I mutui trentennali vicini al 7,18% frenano gli acquisti; il prezzo mediano è di 416.700 dollari."
+      ],
+      "publishedAt": "2026-11-12",
+      "verifiedAt": "2026-11-13T05:12:37.307Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
+        "access": "free",
+        "accessCheckedAt": "2026-11-13T05:12:37.307Z",
+        "dateEvidence": "La pagina originale indica Thu 12 Nov 2026 18.26 CET accanto alla firma.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
