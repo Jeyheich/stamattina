@@ -1,0 +1,97 @@
+{
+  "editionDate": "2026-11-13",
+  "checkedAt": "2026-11-13T18:13:10.542Z",
+  "ready": false,
+  "editorialComplete": false,
+  "reserveMissing": [
+    "politica",
+    "esteri",
+    "economia",
+    "cronaca",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
+  ],
+  "completed": [],
+  "inProgress": [],
+  "missing": [
+    "politica",
+    "esteri",
+    "economia",
+    "cronaca",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
+  ],
+  "invalid": [],
+  "stories": [],
+  "collectionId": "2026-11-13-pomeriggio",
+  "reserveCounts": {
+    "Politica": 0,
+    "Esteri": 0,
+    "Economia": 0,
+    "Cronaca": 0,
+    "Roma": 0,
+    "Cultura · Teatro · Cinema": 0,
+    "Tecnologia · AI": 0,
+    "Sport": 0
+  },
+  "photoCandidates": [],
+  "photosAvailable": 0,
+  "categoryProgress": {
+    "politica": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "esteri": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "economia": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "cronaca": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "roma": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "cultura": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "tecnologia": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "sport": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    }
+  },
+  "preparation": "in-preparazione",
+  "message": "Edizione in preparazione",
+  "needsPublication": false,
+  "publicCollectionId": "2026-11-11-mattina"
+}
