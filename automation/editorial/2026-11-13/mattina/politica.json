@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-13",
+  "collectionId": "2026-11-13-mattina",
+  "category": "Politica",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-13T05:01:11.790Z",
+  "articles": [
+    {
+      "id": "politica-confronto-palazzo-chigi-allarmi",
+      "eventKey": "confronto-meloni-opposizioni-allarmi-bomba-scuole",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Allarmi nelle scuole, confronto a Palazzo Chigi senza intesa sulle misure",
+      "summary": "Meloni ha incontrato maggioranza e opposizioni dopo la serie di allarmi bomba. I gruppi di opposizione si sono detti disponibili a collaborare, ma hanno contestato l'assenza di proposte operative del governo.",
+      "body": [
+        "Il confronto a Palazzo Chigi è durato circa due ore, con esponenti della maggioranza e delle opposizioni. La presidente del Consiglio ha sollecitato un atteggiamento unitario davanti alle minacce e agli allarmi nelle scuole.",
+        "Le opposizioni hanno chiesto misure concrete, escludendo deleghe in bianco. Secondo ANSA, il governo potrebbe riferire in Parlamento la prossima settimana, dopo approfondimenti tecnici sulla sicurezza."
+      ],
+      "publishedAt": "2026-11-12",
+      "verifiedAt": "2026-11-13T05:01:11.790Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/si-rientra-in-classe-dopo-gli-allarmi-nelle-scuole-oggi-il-vertice-a-palazzo_cd319cf3-a1cf-4b88-b35a-77a0eaa9c9fc.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-13T05:01:11.790Z",
+        "dateEvidence": "La pagina ANSA riporta 12 novembre 2026, 20:48 sopra il testo dell'articolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveDraft": []
+}

@@ -1,6 +1,6 @@
 {
-  "editionDate": "2026-11-12",
-  "checkedAt": "2026-11-12T11:16:54.580Z",
+  "editionDate": "2026-11-13",
+  "checkedAt": "2026-11-13T05:01:34.677Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,9 +14,13 @@
     "sport"
   ],
   "completed": [],
-  "inProgress": [],
+  "inProgress": [
+    {
+      "slug": "politica",
+      "count": 1
+    }
+  ],
   "missing": [
-    "politica",
     "esteri",
     "economia",
     "cronaca",
@@ -26,8 +30,16 @@
     "sport"
   ],
   "invalid": [],
-  "stories": [],
-  "collectionId": "2026-11-12-pomeriggio",
+  "stories": [
+    {
+      "id": "politica-confronto-palazzo-chigi-allarmi",
+      "category": "Politica",
+      "title": "Allarmi nelle scuole, confronto a Palazzo Chigi senza intesa sulle misure",
+      "eventKey": "confronto-meloni-opposizioni-allarmi-bomba-scuole",
+      "pending": true
+    }
+  ],
+  "collectionId": "2026-11-13-mattina",
   "reserveCounts": {
     "Politica": 0,
     "Esteri": 0,
@@ -42,7 +54,7 @@
   "photosAvailable": 0,
   "categoryProgress": {
     "politica": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false
