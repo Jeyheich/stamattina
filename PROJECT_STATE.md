@@ -1,5 +1,9 @@
 # Stamattina — stato operativo
 
+## Selezione delle pagine leggibili — 13 novembre
+- Commit 189c817: estrazione dalle sezioni editoriali Sky e dai paragrafi Everyeye senza promozioni. Il dossier privilegia candidati con almeno 100 parole estratte e conserva solo estratti brevi. Il conteggio è un segnale di leggibilità, non una verifica editoriale.
+- Raccolta completa di prova: 96 candidati, 93 sopra la soglia di testo. Esteri 9/12, le altre categorie 12/12. Da verificare il consumo del dossier da parte del recupero cloud e il numero di schede effettivamente verificate.
+
 ## Evidenza delle pagine nel dossier — 13 novembre
 - Il raccoglitore include, quando estraibili, data della pagina originale e breve estratto del corpo. Il brief usa questi campi per orientare il recupero e richiede comunque una fonte letta integralmente.
 - Collaudo diretto su due articoli Punto Informatico e uno Everyeye. Alla prossima raccolta controllare i campi nel dossier GitHub e confrontare i salvataggi editoriali del 14 novembre.
