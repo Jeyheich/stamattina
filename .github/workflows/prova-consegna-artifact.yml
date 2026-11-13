@@ -8,25 +8,31 @@ jobs:
   prova:
     runs-on: ubuntu-latest
     steps:
-      - name: Verifica la fonte e prepara evidenza sintetica
+      - name: Rileggi cinque fonti e prepara riscontri
         run: |
           python3 - <<'PY'
-          import json, re, urllib.request
+          import concurrent.futures, json, re, urllib.request
           from html import unescape
-          url = 'https://www.everyeye.it/notizie/capitano-spaziale-gameplay-atteso-the-expanse-osiris-reborn-911335.html'
-          with urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent':'Mozilla/5.0'}), timeout=15) as response:
-              page = response.read().decode(errors='replace')
-          date = re.search(r'"datePublished"\s*:\s*"([^"]+)"', page).group(1)
-          body = re.search(r'id="inread"[^>]*>(.*?)class="riassunto_guide"', page, re.S).group(1)
-          body = unescape(re.sub(r'<[^>]+>', ' ', body))
-          checks = {'gameplay_presentato': r'gameplay', 'titolo_del_video': r'Becoming Captain', 'missione_di_salvataggio': r'salvat|soccors', 'premi': r'Golden Joystick'}
-          evidence = {key: bool(re.search(pattern, body, re.I)) for key, pattern in checks.items()}
-          assert evidence['gameplay_presentato'] and evidence['titolo_del_video'] and evidence['premi']
-          with open('prova.json', 'w') as output:
-              json.dump({'date':date,'url':url,'source':'Everyeye','game':'The Expanse: Osiris Reborn','evidence':evidence}, output)
+          sources = [["https://www.punto-informatico.it/europol-smantella-infrastruttura-tre-malware/","Punto Informatico",["Europol ha smantellato infrastrutture usate da Gootloader, CastleRAT e StealC.",["Europol","Gootloader","CastleRAT","StealC"]]],["https://www.punto-informatico.it/claude-down-13112026/","Punto Informatico",["Anthropic ha segnalato un aumento degli errori di accesso a Claude.",["Anthropic","errori","Claude"]]],["https://www.everyeye.it/notizie/giochi-xbox-360-disco-potrebbero-convertiti-formato-digitale-911378.html","Everyeye",["Xbox Insider prova un modo per separare in libreria le licenze digitali associate ad acquisti su disco. Il supporto a Xbox 360 resta da confermare.",["Xbox Insider","licenza digitale","Xbox 360","non ha annunciato"]]],["https://www.punto-informatico.it/libreoffice-26-8-3-meno-problemi-file-word-excel-powerpoint/","Punto Informatico",["LibreOffice 26.8.3 include 45 correzioni, comprese soluzioni per arresti anomali in più applicazioni.",["45 correzioni","Draw","Impress","Calc"]]],["https://www.everyeye.it/notizie/capitano-spaziale-gameplay-atteso-the-expanse-osiris-reborn-911335.html","Everyeye",["Owlcat Games ha mostrato ai Golden Joystick Awards un filmato di gameplay di The Expanse: Osiris Reborn intitolato Becoming Captain.",["Owlcat Games","Golden Joystick","Becoming Captain"]]]]
+          def verify(row):
+              url, source, (fact, terms) = row
+              with urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent':'Mozilla/5.0'}), timeout=15) as response:
+                  page = response.read().decode(errors='replace')
+              assert not re.search(r'"isAccessibleForFree"\s*:\s*(?:false|"false")', page, re.I), url
+              stamp = re.search(r'"datePublished"\s*:\s*"([^"]+)"|article:published_time"\s+content="([^"]+)"', page)
+              date = next(value for value in stamp.groups() if value)
+              pattern = r'id="inread"[^>]*>(.*?)class="riassunto_guide"' if source == 'Everyeye' else r'<article\b[^>]*>(.*?)</article>'
+              body = unescape(re.sub(r'<[^>]+>', ' ', re.search(pattern, page, re.S).group(1)))
+              body = ' '.join(body.split()).casefold()
+              assert all(term.casefold() in body for term in terms), url
+              return {'url':url,'source':source,'publishedAt':date,'fact':fact}
+          with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool:
+              verified = list(pool.map(verify, sources))
+          with open('prova.json', 'w') as out:
+              json.dump(verified, out, ensure_ascii=False)
           PY
       - uses: actions/upload-artifact@v4
         with:
-          name: prova-fonte-everyeye
+          name: prova-cinque-riserve
           path: prova.json
           retention-days: 1
