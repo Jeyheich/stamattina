@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-13",
-  "checkedAt": "2026-11-13T09:15:52.850Z",
+  "checkedAt": "2026-11-13T09:17:20.108Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -10,10 +10,11 @@
     "cronaca",
     "roma",
     "cultura",
-    "tecnologia",
     "sport"
   ],
-  "completed": [],
+  "completed": [
+    "tecnologia"
+  ],
   "inProgress": [
     {
       "slug": "roma",
@@ -26,27 +27,23 @@
   "invalid": [
     {
       "slug": "politica",
-      "reason": "politica-confronto-palazzo-chigi-allarmi verifiedAt: verifica scaduta (verifica 2026-11-13T05:01:11.790Z, controllo 2026-11-13T09:15:52.850Z)"
+      "reason": "politica-confronto-palazzo-chigi-allarmi verifiedAt: verifica scaduta (verifica 2026-11-13T05:01:11.790Z, controllo 2026-11-13T09:17:20.108Z)"
     },
     {
       "slug": "economia",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T05:12:37.307Z, controllo 2026-11-13T09:15:52.850Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T05:12:37.307Z, controllo 2026-11-13T09:17:20.108Z)"
     },
     {
       "slug": "cronaca",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T05:12:37.307Z, controllo 2026-11-13T09:15:52.850Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T05:12:37.307Z, controllo 2026-11-13T09:17:20.108Z)"
     },
     {
       "slug": "cultura",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T06:12:41.057Z, controllo 2026-11-13T09:15:52.850Z)"
-    },
-    {
-      "slug": "tecnologia",
-      "reason": "completedAt: verifica scaduta (verifica 2026-11-13T06:09:24.000Z, controllo 2026-11-13T09:15:52.850Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T06:12:41.057Z, controllo 2026-11-13T09:17:20.108Z)"
     },
     {
       "slug": "sport",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T06:09:24.000Z, controllo 2026-11-13T09:15:52.850Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T06:09:24.000Z, controllo 2026-11-13T09:17:20.108Z)"
     }
   ],
   "stories": [
@@ -56,6 +53,66 @@
       "title": "Fiumicino, sgomberati sette bilancioni al vecchio Faro: protesta in Consiglio",
       "eventKey": "fiumicino-sgombero-sette-bilancioni-protesta-porto-2026",
       "pending": true
+    },
+    {
+      "id": "tecnologia-apple-occhiali-2027",
+      "category": "Tecnologia · AI",
+      "title": "Apple, un fornitore conferma progetti per occhiali intelligenti",
+      "eventKey": "apple-smart-glasses-fornitore-2027"
+    },
+    {
+      "id": "tecnologia-google-samsung-occhiali",
+      "category": "Tecnologia · AI",
+      "title": "Google e Samsung annunciano gli occhiali con Gemini",
+      "eventKey": "google-samsung-intelligence-eyewear-preordini-2026"
+    },
+    {
+      "id": "tecnologia-gemini-carbon-casi-uso",
+      "category": "Tecnologia · AI",
+      "title": "Gemini 4 Carbon, cinque applicazioni pratiche esaminate",
+      "eventKey": "gemini-carbon-cinque-applicazioni-pratiche"
+    },
+    {
+      "id": "tecnologia-conan-black-pyramid",
+      "category": "Tecnologia · AI",
+      "title": "Annunciato Conan: The Black Pyramid, action RPG roguelike",
+      "eventKey": "conan-black-pyramid-annuncio-roguelike"
+    },
+    {
+      "id": "tecnologia-xbox-21-giochi-pc",
+      "category": "Tecnologia · AI",
+      "title": "Ventuno classici della prima Xbox arrivano su PC",
+      "eventKey": "microsoft-21-classici-xbox-pc"
+    },
+    {
+      "id": "tecnologia-microsoft-365-disservizi",
+      "category": "Tecnologia · AI",
+      "title": "Disservizi per Outlook e Microsoft 365",
+      "eventKey": "microsoft-365-disservizi"
+    },
+    {
+      "id": "tecnologia-google-wallet-chiavi-aliro",
+      "category": "Tecnologia · AI",
+      "title": "Google Wallet prova le chiavi per serrature smart",
+      "eventKey": "google-wallet-chiavi-aliro"
+    },
+    {
+      "id": "tecnologia-gemini-hydrogen-ricerca",
+      "category": "Tecnologia · AI",
+      "title": "Google presenta Gemini 4 Hydrogen per la Ricerca",
+      "eventKey": "gemini-hydrogen-ricerca"
+    },
+    {
+      "id": "tecnologia-wolfenstein-3-produzione",
+      "category": "Tecnologia · AI",
+      "title": "MachineGames conferma la produzione di Wolfenstein 3",
+      "eventKey": "wolfenstein-3-produzione"
+    },
+    {
+      "id": "tecnologia-phantom-blade-zero-finale-segreto",
+      "category": "Tecnologia · AI",
+      "title": "Phantom Blade Zero, i requisiti per il finale segreto",
+      "eventKey": "phantom-blade-zero-finale-segreto"
     }
   ],
   "collectionId": "2026-11-13-mattina",
@@ -66,7 +123,7 @@
     "Cronaca": 0,
     "Roma": 0,
     "Cultura · Teatro · Cinema": 0,
-    "Tecnologia · AI": 0,
+    "Tecnologia · AI": 5,
     "Sport": 0
   },
   "photoCandidates": [],
@@ -109,10 +166,10 @@
       "complete": false
     },
     "tecnologia": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "sport": {
       "base": 0,
