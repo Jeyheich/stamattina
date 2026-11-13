@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-13",
-  "checkedAt": "2026-11-13T07:22:47.716Z",
+  "checkedAt": "2026-11-13T09:14:18.173Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,139 +13,49 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [
-    "tecnologia"
-  ],
+  "completed": [],
   "inProgress": [
-    {
-      "slug": "politica",
-      "count": 2
-    },
-    {
-      "slug": "economia",
-      "count": 1
-    },
-    {
-      "slug": "cronaca",
-      "count": 1
-    },
     {
       "slug": "roma",
       "count": 1
-    },
-    {
-      "slug": "cultura",
-      "count": 2
-    },
-    {
-      "slug": "sport",
-      "count": 3
     }
   ],
   "missing": [
     "esteri"
   ],
-  "invalid": [],
+  "invalid": [
+    {
+      "slug": "politica",
+      "reason": "politica-confronto-palazzo-chigi-allarmi verifiedAt: verifica scaduta (verifica 2026-11-13T05:01:11.790Z, controllo 2026-11-13T09:14:18.173Z)"
+    },
+    {
+      "slug": "economia",
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T05:12:37.307Z, controllo 2026-11-13T09:14:18.173Z)"
+    },
+    {
+      "slug": "cronaca",
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T05:12:37.307Z, controllo 2026-11-13T09:14:18.173Z)"
+    },
+    {
+      "slug": "cultura",
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T06:12:41.057Z, controllo 2026-11-13T09:14:18.173Z)"
+    },
+    {
+      "slug": "tecnologia",
+      "reason": "completedAt: verifica scaduta (verifica 2026-11-13T06:09:24.000Z, controllo 2026-11-13T09:14:18.173Z)"
+    },
+    {
+      "slug": "sport",
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T06:09:24.000Z, controllo 2026-11-13T09:14:18.173Z)"
+    }
+  ],
   "stories": [
-    {
-      "id": "politica-confronto-palazzo-chigi-allarmi",
-      "category": "Politica",
-      "title": "Allarmi nelle scuole, confronto a Palazzo Chigi senza intesa sulle misure",
-      "eventKey": "confronto-meloni-opposizioni-allarmi-bomba-scuole",
-      "pending": true
-    },
-    {
-      "id": "politica-suppletive-chieti-candidati",
-      "category": "Politica",
-      "title": "Suppletive a Chieti, quattro candidati per il seggio lasciato da Bagnai",
-      "eventKey": "elezioni-suppletive-chieti-15-16-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "economia-case-usa-ottobre",
-      "category": "Economia",
-      "title": "Stati Uniti, vendite di abitazioni ai minimi da sedici anni",
-      "eventKey": "vendite-case-usa-ottobre-2026-minimo-16-anni",
-      "pending": true
-    },
-    {
-      "id": "cronaca-ambrogini-milano",
-      "category": "Cronaca",
-      "title": "Milano assegnerà riconoscimenti civici alle vittime del rogo di Crans-Montana",
-      "eventKey": "ambrogini-oro-milano-2026-vittime-crans-montana",
-      "pending": true
-    },
     {
       "id": "roma-fiumicino-sgombero-bilancioni",
       "category": "Roma",
       "title": "Fiumicino, sgomberati sette bilancioni al vecchio Faro: protesta in Consiglio",
       "eventKey": "fiumicino-sgombero-sette-bilancioni-protesta-porto-2026",
       "pending": true
-    },
-    {
-      "id": "cultura-nico-desertshore-giannini",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Nico e Desertshore diventano un concerto di danza",
-      "eventKey": "nico-desertshore-giannini-danza-potenza-2026",
-      "pending": true
-    },
-    {
-      "id": "cultura-gone-kepler452-teatro-india",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Gone, il teatro di Kepler-452 attraversa il tema dell'emigrazione",
-      "eventKey": "gone-kepler452-teatro-india-georgia-2026",
-      "pending": true
-    },
-    {
-      "id": "sport-italia-francia-nations",
-      "category": "Sport",
-      "title": "Italia-Francia 3-1: gli azzurri salgono in testa al girone",
-      "eventKey": "italia-francia-nations-league-12-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "sport-musetti-humbert-stoccolma",
-      "category": "Sport",
-      "title": "Musetti supera Humbert e raggiunge la semifinale a Stoccolma",
-      "eventKey": "musetti-humbert-quarti-stoccolma-2026",
-      "pending": true
-    },
-    {
-      "id": "sport-antonelli-obiettivi-2027",
-      "category": "Sport",
-      "title": "Antonelli guarda al 2027 dopo il titolo mondiale di Formula 1",
-      "eventKey": "antonelli-conferenza-san-marino-obiettivi-f1-2027",
-      "pending": true
-    },
-    {
-      "id": "tecnologia-apple-occhiali-2027",
-      "category": "Tecnologia · AI",
-      "title": "Apple, un fornitore conferma progetti per occhiali intelligenti",
-      "eventKey": "apple-smart-glasses-fornitore-2027"
-    },
-    {
-      "id": "tecnologia-google-samsung-occhiali",
-      "category": "Tecnologia · AI",
-      "title": "Google e Samsung annunciano gli occhiali con Gemini",
-      "eventKey": "google-samsung-intelligence-eyewear-preordini-2026"
-    },
-    {
-      "id": "tecnologia-gemini-carbon-casi-uso",
-      "category": "Tecnologia · AI",
-      "title": "Gemini 4 Carbon, cinque applicazioni pratiche esaminate",
-      "eventKey": "gemini-carbon-cinque-applicazioni-pratiche"
-    },
-    {
-      "id": "tecnologia-conan-black-pyramid",
-      "category": "Tecnologia · AI",
-      "title": "Annunciato Conan: The Black Pyramid, action RPG roguelike",
-      "eventKey": "conan-black-pyramid-annuncio-roguelike"
-    },
-    {
-      "id": "tecnologia-xbox-21-giochi-pc",
-      "category": "Tecnologia · AI",
-      "title": "Ventuno classici della prima Xbox arrivano su PC",
-      "eventKey": "microsoft-21-classici-xbox-pc"
     }
   ],
   "collectionId": "2026-11-13-mattina",
@@ -163,7 +73,7 @@
   "photosAvailable": 0,
   "categoryProgress": {
     "politica": {
-      "base": 2,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
@@ -175,13 +85,13 @@
       "complete": false
     },
     "economia": {
-      "base": 1,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cronaca": {
-      "base": 1,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
@@ -193,19 +103,19 @@
       "complete": false
     },
     "cultura": {
-      "base": 2,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "tecnologia": {
-      "base": 5,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "sport": {
-      "base": 3,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
