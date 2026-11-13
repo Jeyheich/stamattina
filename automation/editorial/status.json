@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-13",
-  "checkedAt": "2026-11-13T06:13:07.025Z",
+  "checkedAt": "2026-11-13T07:02:48.674Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -19,7 +19,7 @@
   "inProgress": [
     {
       "slug": "politica",
-      "count": 1
+      "count": 2
     },
     {
       "slug": "economia",
@@ -49,6 +49,13 @@
       "category": "Politica",
       "title": "Allarmi nelle scuole, confronto a Palazzo Chigi senza intesa sulle misure",
       "eventKey": "confronto-meloni-opposizioni-allarmi-bomba-scuole",
+      "pending": true
+    },
+    {
+      "id": "politica-suppletive-chieti-candidati",
+      "category": "Politica",
+      "title": "Suppletive a Chieti, quattro candidati per il seggio lasciato da Bagnai",
+      "eventKey": "elezioni-suppletive-chieti-15-16-novembre-2026",
       "pending": true
     },
     {
@@ -146,7 +153,7 @@
   "photosAvailable": 0,
   "categoryProgress": {
     "politica": {
-      "base": 1,
+      "base": 2,
       "reserve": 0,
       "draft": 0,
       "complete": false
