@@ -1,5 +1,9 @@
 # Stamattina — stato operativo
 
+## Fonti Esteri — 13 novembre
+- Fabio ha autorizzato Open e HuffPost Italia per Esteri insieme a RaiNews. Il raccoglitore filtra Open per categoria RSS e usa il feed Esteri dedicato di HuffPost Italia. La selezione preserva la copertura RaiNews se le altre fonti scarseggiano.
+- Prova di raccolta con controllo accessibilità: 12 candidati Esteri, 9 RaiNews, 2 Open, 1 HuffPost Italia. Verificare il primo dossier automatico con queste tre fonti.
+
 ## Consegna cloud delle fonti — 13 novembre
 - Su main, la raccolta esistente carica un archivio giornaliero con un JSON per categoria e registra ID e run nel dossier. Il brief delle due attività usa il riferimento se coincide con il dossier corrente, con ripiego sulla lettura abituale.
 - Il test cloud su cinque fonti di Tecnologia con riscontri preparati e ID esplicito ha salvato cinque schede sul ramo di prova (37bdec7). La prova locale del nuovo workflow ha verificato otto file, 96 candidati e riferimenti coerenti.
