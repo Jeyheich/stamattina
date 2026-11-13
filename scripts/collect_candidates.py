@@ -28,6 +28,8 @@ FEEDS = (
     ('Politica', 'Sky TG24', 'https://tg24.sky.it/rss/tg24_flipboard.politica.xml'),
     ('Politica', 'Open', 'https://www.open.online/feed/'),
     ('Esteri', 'RaiNews', 'https://www.rainews.it/rss/esteri'),
+    ('Esteri', 'Open', 'https://www.open.online/feed/'),
+    ('Esteri', 'HuffPost Italia', 'https://www.huffingtonpost.it/esteri/rss'),
     ('Economia', 'AGI', 'https://www.agi.it/economia/rss.xml'),
     ('Economia', 'BBC Business', 'https://feeds.bbci.co.uk/news/business/rss.xml'),
     ('Economia', 'The Guardian Business', 'https://www.theguardian.com/uk/business/rss'),
@@ -82,7 +84,7 @@ def eligible(category, source, title, url):
         return False
     if category == 'Tecnologia · AI' and re.search(r'black friday|coupon|instant.gaming|\bin offerta\b', text):
         return False
-    if source == 'Open' and not re.search(r'politic|governo|parlamento|manovra|meloni|salvini|schlein|elezion|ministr', text):
+    if category == 'Politica' and source == 'Open' and not re.search(r'politic|governo|parlamento|manovra|meloni|salvini|schlein|elezion|ministr', text):
         return False
     # Leggo's generic feed is not a reliable dedicated Rome feed: retain only explicit local matches.
     if source == 'Leggo Roma' and not re.search(r'\broma\b|romano|romani|romana|romane|/roma/|ostia|fiumicino|atac|campidoglio', text):
@@ -137,6 +139,10 @@ def read_feed(spec, age_hours):
         root = ET.fromstring(raw)
         candidates = []
         for item in root.findall('.//item'):
+            if source == 'Open':
+                topics = {(tag.text or '').strip().casefold() for tag in item.findall('category')}
+                if ('esteri' in topics) != (category == 'Esteri'):
+                    continue
             title = plain(item.findtext('title'))
             link = (item.findtext('link') or item.findtext('guid') or '').strip()
             date_text = item.findtext('pubDate', '')
@@ -318,8 +324,22 @@ def collect(age_hours=72, verify_pages=False, limit=12):
     ) if verify_pages else editorial_rank(item)):
         if candidate['category'] == 'Tecnologia · AI' and sum(old['category'] == candidate['category'] and old['source'] == candidate['source'] for old in selected) >= max(3, limit // 2):
             continue
+        if candidate['category'] == 'Esteri':
+            same_source = sum(old['category'] == 'Esteri' and old['source'] == candidate['source'] for old in selected)
+            if same_source >= max(1, limit // 2):
+                continue
         if sum(old['category'] == candidate['category'] for old in selected) < limit:
             selected.append(candidate)
+    esteri_count = sum(item['category'] == 'Esteri' for item in selected)
+    if esteri_count < limit:
+        selected_urls = {item['url'] for item in selected}
+        remaining_esteri = (item for item in unique
+                            if item['category'] == 'Esteri' and item['url'] not in selected_urls)
+        for item in remaining_esteri:
+            selected.append(item)
+            esteri_count += 1
+            if esteri_count == limit:
+                break
     unique = selected
     photo_refs, photo_errors = collect_photo_refs() if verify_pages else ([], [])
     errors.extend(photo_errors)
