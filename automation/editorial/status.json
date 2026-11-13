@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-13",
-  "checkedAt": "2026-11-13T10:39:02.026Z",
+  "checkedAt": "2026-11-13T10:40:15.535Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,16 +14,13 @@
   ],
   "completed": [
     "politica",
-    "tecnologia"
+    "tecnologia",
+    "sport"
   ],
   "inProgress": [
     {
       "slug": "cronaca",
       "count": 1
-    },
-    {
-      "slug": "sport",
-      "count": 4
     }
   ],
   "missing": [
@@ -32,15 +29,15 @@
   "invalid": [
     {
       "slug": "economia",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T05:12:37.307Z, controllo 2026-11-13T10:39:02.026Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T05:12:37.307Z, controllo 2026-11-13T10:40:15.535Z)"
     },
     {
       "slug": "roma",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T07:22:07.936Z, controllo 2026-11-13T10:39:02.026Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T07:22:07.936Z, controllo 2026-11-13T10:40:15.535Z)"
     },
     {
       "slug": "cultura",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T06:12:41.057Z, controllo 2026-11-13T10:39:02.026Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T06:12:41.057Z, controllo 2026-11-13T10:40:15.535Z)"
     }
   ],
   "stories": [
@@ -49,34 +46,6 @@
       "category": "Cronaca",
       "title": "Milano assegnerà riconoscimenti civici alle vittime del rogo di Crans-Montana",
       "eventKey": "ambrogini-oro-milano-2026-vittime-crans-montana",
-      "pending": true
-    },
-    {
-      "id": "sport-italia-francia-nations",
-      "category": "Sport",
-      "title": "Italia-Francia 3-1: gli azzurri salgono in testa al girone",
-      "eventKey": "italia-francia-nations-league-12-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "sport-musetti-humbert-stoccolma",
-      "category": "Sport",
-      "title": "Musetti supera Humbert e raggiunge la semifinale a Stoccolma",
-      "eventKey": "musetti-humbert-quarti-stoccolma-2026",
-      "pending": true
-    },
-    {
-      "id": "sport-antonelli-obiettivi-2027",
-      "category": "Sport",
-      "title": "Antonelli guarda al 2027 dopo il titolo mondiale di Formula 1",
-      "eventKey": "antonelli-conferenza-san-marino-obiettivi-f1-2027",
-      "pending": true
-    },
-    {
-      "id": "sport-lautaro-recupero-infortunio",
-      "category": "Sport",
-      "title": "Lautaro Martínez fa il punto sul recupero dall’infortunio",
-      "eventKey": "lautaro-martinez-recupero-infortunio-flessori-novembre-2026",
       "pending": true
     },
     {
@@ -138,6 +107,36 @@
       "category": "Tecnologia · AI",
       "title": "Ventuno classici della prima Xbox arrivano su PC",
       "eventKey": "microsoft-21-classici-xbox-pc"
+    },
+    {
+      "id": "sport-italia-francia-nations",
+      "category": "Sport",
+      "title": "Italia-Francia 3-1: gli azzurri salgono in testa al girone",
+      "eventKey": "italia-francia-nations-league-12-novembre-2026"
+    },
+    {
+      "id": "sport-musetti-humbert-stoccolma",
+      "category": "Sport",
+      "title": "Musetti supera Humbert e raggiunge la semifinale a Stoccolma",
+      "eventKey": "musetti-humbert-quarti-stoccolma-2026"
+    },
+    {
+      "id": "sport-antonelli-obiettivi-2027",
+      "category": "Sport",
+      "title": "Antonelli guarda al 2027 dopo il titolo mondiale di Formula 1",
+      "eventKey": "antonelli-conferenza-san-marino-obiettivi-f1-2027"
+    },
+    {
+      "id": "sport-lautaro-recupero-infortunio",
+      "category": "Sport",
+      "title": "Lautaro Martínez fa il punto sul recupero dall’infortunio",
+      "eventKey": "lautaro-martinez-recupero-infortunio-flessori-novembre-2026"
+    },
+    {
+      "id": "sport-serie-a-futsal-ottava-giornata",
+      "category": "Sport",
+      "title": "Riparte la Serie A di futsal, Meta Catania apre l’ottava giornata",
+      "eventKey": "futsal-serie-a-ottava-giornata-13-novembre-2026"
     },
     {
       "id": "tecnologia-microsoft-365-disservizi",
@@ -227,7 +226,7 @@
       "complete": true
     },
     "sport": {
-      "base": 4,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
