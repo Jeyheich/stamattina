@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-13",
-  "checkedAt": "2026-11-13T07:02:48.674Z",
+  "checkedAt": "2026-11-13T07:22:47.716Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -30,6 +30,10 @@
       "count": 1
     },
     {
+      "slug": "roma",
+      "count": 1
+    },
+    {
       "slug": "cultura",
       "count": 2
     },
@@ -39,8 +43,7 @@
     }
   ],
   "missing": [
-    "esteri",
-    "roma"
+    "esteri"
   ],
   "invalid": [],
   "stories": [
@@ -70,6 +73,13 @@
       "category": "Cronaca",
       "title": "Milano assegnerà riconoscimenti civici alle vittime del rogo di Crans-Montana",
       "eventKey": "ambrogini-oro-milano-2026-vittime-crans-montana",
+      "pending": true
+    },
+    {
+      "id": "roma-fiumicino-sgombero-bilancioni",
+      "category": "Roma",
+      "title": "Fiumicino, sgomberati sette bilancioni al vecchio Faro: protesta in Consiglio",
+      "eventKey": "fiumicino-sgombero-sette-bilancioni-protesta-porto-2026",
       "pending": true
     },
     {
@@ -177,7 +187,7 @@
       "complete": false
     },
     "roma": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false
