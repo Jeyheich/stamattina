@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-13",
-  "checkedAt": "2026-11-13T10:38:22.091Z",
+  "checkedAt": "2026-11-13T10:39:02.026Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -23,7 +23,7 @@
     },
     {
       "slug": "sport",
-      "count": 3
+      "count": 4
     }
   ],
   "missing": [
@@ -32,15 +32,15 @@
   "invalid": [
     {
       "slug": "economia",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T05:12:37.307Z, controllo 2026-11-13T10:38:22.091Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T05:12:37.307Z, controllo 2026-11-13T10:39:02.026Z)"
     },
     {
       "slug": "roma",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T07:22:07.936Z, controllo 2026-11-13T10:38:22.091Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T07:22:07.936Z, controllo 2026-11-13T10:39:02.026Z)"
     },
     {
       "slug": "cultura",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T06:12:41.057Z, controllo 2026-11-13T10:38:22.091Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T06:12:41.057Z, controllo 2026-11-13T10:39:02.026Z)"
     }
   ],
   "stories": [
@@ -70,6 +70,13 @@
       "category": "Sport",
       "title": "Antonelli guarda al 2027 dopo il titolo mondiale di Formula 1",
       "eventKey": "antonelli-conferenza-san-marino-obiettivi-f1-2027",
+      "pending": true
+    },
+    {
+      "id": "sport-lautaro-recupero-infortunio",
+      "category": "Sport",
+      "title": "Lautaro Martínez fa il punto sul recupero dall’infortunio",
+      "eventKey": "lautaro-martinez-recupero-infortunio-flessori-novembre-2026",
       "pending": true
     },
     {
@@ -220,7 +227,7 @@
       "complete": true
     },
     "sport": {
-      "base": 3,
+      "base": 4,
       "reserve": 0,
       "draft": 0,
       "complete": false
