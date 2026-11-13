@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-13",
-  "checkedAt": "2026-11-13T09:14:18.173Z",
+  "checkedAt": "2026-11-13T09:14:45.963Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -26,27 +26,27 @@
   "invalid": [
     {
       "slug": "politica",
-      "reason": "politica-confronto-palazzo-chigi-allarmi verifiedAt: verifica scaduta (verifica 2026-11-13T05:01:11.790Z, controllo 2026-11-13T09:14:18.173Z)"
+      "reason": "politica-confronto-palazzo-chigi-allarmi verifiedAt: verifica scaduta (verifica 2026-11-13T05:01:11.790Z, controllo 2026-11-13T09:14:45.963Z)"
     },
     {
       "slug": "economia",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T05:12:37.307Z, controllo 2026-11-13T09:14:18.173Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T05:12:37.307Z, controllo 2026-11-13T09:14:45.963Z)"
     },
     {
       "slug": "cronaca",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T05:12:37.307Z, controllo 2026-11-13T09:14:18.173Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T05:12:37.307Z, controllo 2026-11-13T09:14:45.963Z)"
     },
     {
       "slug": "cultura",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T06:12:41.057Z, controllo 2026-11-13T09:14:18.173Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T06:12:41.057Z, controllo 2026-11-13T09:14:45.963Z)"
     },
     {
       "slug": "tecnologia",
-      "reason": "completedAt: verifica scaduta (verifica 2026-11-13T06:09:24.000Z, controllo 2026-11-13T09:14:18.173Z)"
+      "reason": "completedAt: verifica scaduta (verifica 2026-11-13T06:09:24.000Z, controllo 2026-11-13T09:14:45.963Z)"
     },
     {
       "slug": "sport",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T06:09:24.000Z, controllo 2026-11-13T09:14:18.173Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T06:09:24.000Z, controllo 2026-11-13T09:14:45.963Z)"
     }
   ],
   "stories": [
