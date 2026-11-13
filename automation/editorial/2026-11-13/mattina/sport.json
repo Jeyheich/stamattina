@@ -3,8 +3,7 @@
   "editionDate": "2026-11-13",
   "collectionId": "2026-11-13-mattina",
   "category": "Sport",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-13T10:38:39Z",
+  "lastAttemptAt": "2026-11-13T10:39:40Z",
   "articles": [
     {
       "id": "sport-italia-francia-nations",
@@ -92,7 +91,29 @@
         "dateEvidence": "Data di pubblicazione del 13 novembre 2026 nei metadati della pagina originale.",
         "reviewedBy": "Codex"
       }
+    },
+    {
+      "id": "sport-serie-a-futsal-ottava-giornata",
+      "eventKey": "futsal-serie-a-ottava-giornata-13-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Riparte la Serie A di futsal, Meta Catania apre l’ottava giornata",
+      "summary": "La Serie A di futsal riprende con l’ottava giornata. La capolista Meta Catania apre il turno contro il Capurso, mentre lo Sporting Sala Consilina ospita l’Active Network.",
+      "body": [
+        "La Serie A di futsal riprende con l’ottava giornata. La capolista Meta Catania apre il turno contro il Capurso, mentre lo Sporting Sala Consilina ospita l’Active Network."
+      ],
+      "publishedAt": "2026-11-13T10:00:00+01:00",
+      "verifiedAt": "2026-11-13T10:39:40Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/2026/11/13/futsal-serie-a-giornata-8-presentazione-partite",
+        "access": "free",
+        "accessCheckedAt": "2026-11-13T10:39:40Z",
+        "dateEvidence": "Data e ora nei metadati della pagina Sky Sport.",
+        "reviewedBy": "Codex"
+      }
     }
   ],
-  "reserveArticles": []
+  "reserveArticles": [],
+  "completedAt": "2026-11-13T10:39:40Z"
 }
