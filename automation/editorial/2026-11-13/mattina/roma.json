@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-13",
+  "collectionId": "2026-11-13-mattina",
+  "category": "Roma",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-13T07:22:07.936Z",
+  "articles": [
+    {
+      "id": "roma-fiumicino-sgombero-bilancioni",
+      "eventKey": "fiumicino-sgombero-sette-bilancioni-protesta-porto-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Fiumicino, sgomberati sette bilancioni al vecchio Faro: protesta in Consiglio",
+      "summary": "Le forze dell'ordine hanno sgomberato sette strutture da pesca nella zona del vecchio Faro. Circa ottanta giovani hanno interrotto il Consiglio comunale per contestare l'intervento e il progetto del porto crocieristico.",
+      "body": [
+        "L'operazione ha interessato sette bilancioni utilizzati da anni come luoghi di aggregazione. Il sindaco Mario Baccini ha dichiarato che le strutture saranno recuperate e restituite alla città.",
+        "Il progetto del porto crocieristico nell'area resta contestato: dopo l'annullamento della valutazione d'impatto ambientale da parte del Tar, è atteso un pronunciamento del Consiglio di Stato."
+      ],
+      "publishedAt": "2026-11-12",
+      "verifiedAt": "2026-11-13T07:22:07.936Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/amp/lazio/notizie/2026/11/12/a-fiumicino-sgomberati-i-bilancioni-protesta-anche-per-porto-crocieristico_f03857af-1ddb-40e3-8b4d-f0fbe22bcf95.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-13T07:22:07.936Z",
+        "dateEvidence": "L'articolo ANSA riporta FIUMICINO - Novembre 12, 2026 e nel testo FIUMICINO, 12 NOV.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
