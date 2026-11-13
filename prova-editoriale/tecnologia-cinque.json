@@ -1,0 +1,55 @@
+{
+  "collectionId": "2026-11-13-mattina",
+  "reserveArticles": [
+    {
+      "title": "Europol smantella infrastrutture di tre malware",
+      "summary": "Europol ha smantellato infrastrutture utilizzate da Gootloader, CastleRAT e StealC.",
+      "publishedAt": "2026-11-13T10:11:25+00:00",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/europol-smantella-infrastruttura-tre-malware/"
+      },
+      "fact": "Europol ha smantellato infrastrutture usate da Gootloader, CastleRAT e StealC."
+    },
+    {
+      "title": "Claude, Anthropic segnala più errori di accesso",
+      "summary": "Anthropic ha segnalato un aumento degli errori di accesso a Claude.",
+      "publishedAt": "2026-11-13T10:01:18+00:00",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/claude-down-13112026/"
+      },
+      "fact": "Anthropic ha segnalato un aumento degli errori di accesso a Claude."
+    },
+    {
+      "title": "Xbox Insider sperimenta la gestione delle licenze digitali",
+      "summary": "Xbox Insider sta sperimentando una modalità per distinguere nella libreria le licenze digitali collegate agli acquisti su disco. Il supporto a Xbox 360 non è confermato.",
+      "publishedAt": "2026-11-13T10:40:00+01:00",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/giochi-xbox-360-disco-potrebbero-convertiti-formato-digitale-911378.html"
+      },
+      "fact": "Xbox Insider prova un modo per separare in libreria le licenze digitali associate ad acquisti su disco. Il supporto a Xbox 360 resta da confermare."
+    },
+    {
+      "title": "LibreOffice 26.8.3 contiene 45 correzioni",
+      "summary": "LibreOffice 26.8.3 comprende 45 correzioni, incluse soluzioni per arresti anomali in diverse applicazioni.",
+      "publishedAt": "2026-11-13T09:33:24+00:00",
+      "source": {
+        "name": "Punto Informatico",
+        "url": "https://www.punto-informatico.it/libreoffice-26-8-3-meno-problemi-file-word-excel-powerpoint/"
+      },
+      "fact": "LibreOffice 26.8.3 include 45 correzioni, comprese soluzioni per arresti anomali in più applicazioni."
+    },
+    {
+      "title": "The Expanse: Osiris Reborn, gameplay ai Golden Joystick Awards",
+      "summary": "Owlcat Games ha presentato ai Golden Joystick Awards un filmato di gameplay di The Expanse: Osiris Reborn, intitolato Becoming Captain.",
+      "publishedAt": "2026-11-13T09:52:00+01:00",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/capitano-spaziale-gameplay-atteso-the-expanse-osiris-reborn-911335.html"
+      },
+      "fact": "Owlcat Games ha mostrato ai Golden Joystick Awards un filmato di gameplay di The Expanse: Osiris Reborn intitolato Becoming Captain."
+    }
+  ]
+}
