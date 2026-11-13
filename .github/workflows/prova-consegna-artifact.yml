@@ -8,11 +8,25 @@ jobs:
   prova:
     runs-on: ubuntu-latest
     steps:
-      - name: Genera scheda fittizia
+      - name: Verifica la fonte e prepara evidenza sintetica
         run: |
-          printf '%s\n' '{"token":"STAMATTINA-H15MJFUONW","date":"2026-11-13","url":"https://example.org/","text":"Scheda sintetica per verificare il trasporto cloud."}' > prova.json
+          python3 - <<'PY'
+          import json, re, urllib.request
+          from html import unescape
+          url = 'https://www.everyeye.it/notizie/capitano-spaziale-gameplay-atteso-the-expanse-osiris-reborn-911335.html'
+          with urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent':'Mozilla/5.0'}), timeout=15) as response:
+              page = response.read().decode(errors='replace')
+          date = re.search(r'"datePublished"\s*:\s*"([^"]+)"', page).group(1)
+          body = re.search(r'id="inread"[^>]*>(.*?)class="riassunto_guide"', page, re.S).group(1)
+          body = unescape(re.sub(r'<[^>]+>', ' ', body))
+          checks = {'gameplay_presentato': r'gameplay', 'titolo_del_video': r'Becoming Captain', 'missione_di_salvataggio': r'salvat|soccors', 'premi': r'Golden Joystick'}
+          evidence = {key: bool(re.search(pattern, body, re.I)) for key, pattern in checks.items()}
+          assert evidence['gameplay_presentato'] and evidence['titolo_del_video'] and evidence['premi']
+          with open('prova.json', 'w') as output:
+              json.dump({'date':date,'url':url,'source':'Everyeye','game':'The Expanse: Osiris Reborn','evidence':evidence}, output)
+          PY
       - uses: actions/upload-artifact@v4
         with:
-          name: prova-consegna-stamattina
+          name: prova-fonte-everyeye
           path: prova.json
           retention-days: 1
