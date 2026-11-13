@@ -80,6 +80,8 @@ def eligible(category, source, title, url):
     text = (title + ' ' + url).casefold()
     if category in ('Politica', 'Cronaca') and ('/tgr/' in url or 'tgr ' in source.casefold()):
         return False
+    if category == 'Tecnologia · AI' and re.search(r'black friday|coupon|instant.gaming|\bin offerta\b', text):
+        return False
     if source == 'Open' and not re.search(r'politic|governo|parlamento|manovra|meloni|salvini|schlein|elezion|ministr', text):
         return False
     # Leggo's generic feed is not a reliable dedicated Rome feed: retain only explicit local matches.
@@ -165,6 +167,38 @@ def read_feed(spec, age_hours):
     except Exception as exc:
         return [], dict(feed=url, error=str(exc))
 
+def article_paragraphs(page, source):
+    """Read editorial paragraphs from the publisher's article container."""
+    if source == 'Everyeye':
+        # The news body is followed by related stories, outside the article.
+        body = re.search(
+            r'<div\b[^>]*\bid=["\']inread["\'][^>]*>(.*?)(?:<div\b[^>]*\bclass=["\']riassunto_guide|</article>|$)',
+            page, re.S | re.I,
+        )
+    elif source in ('Sky Sport', 'Sky TG24'):
+        sections = re.findall(
+            r'<div\b[^>]*\bclass=["\'][^"\']*\bc-article-section\b[^"\']*["\'][^>]*>(.*?)</div>',
+            page, re.S | re.I,
+        )
+        return [
+            text for section in sections
+            for markup in re.findall(r'<p\b[^>]*>(.*?)</p>', section, re.S | re.I)
+            if len(text := plain(markup)) >= 80
+        ]
+    else:
+        body = re.search(r'<article\b[^>]*>(.*?)</article>', page, re.S | re.I)
+    if not body:
+        return []
+    paragraphs = []
+    for attributes, markup in re.findall(r'<p\b([^>]*)>(.*?)</p>', body.group(1), re.S | re.I):
+        if re.search(r'\bp-dealLink\b', attributes, re.I):
+            continue
+        paragraph = plain(markup)
+        if len(paragraph) >= 80 and not paragraph.casefold().startswith('questo testo include collegamenti di affiliazione'):
+            paragraphs.append(paragraph)
+    return paragraphs
+
+
 def page_evidence(page, source):
     """Extract a short excerpt from article markup and an original page date."""
     date = ''
@@ -191,13 +225,9 @@ def page_evidence(page, source):
                 body = node.get('articleBody')
                 if isinstance(body, str):
                     excerpt = excerpt or plain(body)
-    if not excerpt:
-        article = re.search(r'<article\b[^>]*>(.*?)</article>', page, re.S | re.I)
-        if source == 'Everyeye':
-            article = re.search(r'<div\b[^>]*\bid=["\']inread["\'][^>]*>\s*(<p\b[^>]*>.*?</p>)', page, re.S | re.I)
-        if article:
-            paragraphs = re.findall(r'<p\b[^>]*>(.*?)</p>', article.group(1), re.S | re.I)
-            excerpt = next((text for p in paragraphs if len(text := plain(p)) >= 80), '')
+    paragraphs = article_paragraphs(page, source)
+    if not excerpt and paragraphs:
+        excerpt = paragraphs[0]
     if not date:
         meta = re.search(
             r'<meta\b[^>]*(?:property|name)=["\']article:published_time["\'][^>]*>',
@@ -210,6 +240,8 @@ def page_evidence(page, source):
     evidence = {}
     if isinstance(date, str) and re.fullmatch(r'\d{4}-\d{2}-\d{2}(?:T[0-9:.+Z-]+)?', date):
         evidence['pagePublishedAt'] = date
+    if paragraphs:
+        evidence['pageTextWords'] = sum(len(paragraph.split()) for paragraph in paragraphs)
     if excerpt:
         evidence['pageExcerpt'] = ' '.join(excerpt.split()[:25])[:350]
     return evidence
@@ -280,7 +312,9 @@ def collect(age_hours=72, verify_pages=False, limit=12):
                     errors.append(error)
         unique = checked
     selected = []
-    for candidate in sorted(unique, key=editorial_rank):
+    for candidate in sorted(unique, key=lambda item: (
+        item.get('pageTextWords', 0) < 100, editorial_rank(item)
+    ) if verify_pages else editorial_rank(item)):
         if candidate['category'] == 'Tecnologia · AI' and sum(old['category'] == candidate['category'] and old['source'] == candidate['source'] for old in selected) >= max(3, limit // 2):
             continue
         if sum(old['category'] == candidate['category'] for old in selected) < limit:
