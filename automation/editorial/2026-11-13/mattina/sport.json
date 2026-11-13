@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-13",
+  "collectionId": "2026-11-13-mattina",
+  "category": "Sport",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-13T06:09:24Z",
+  "articles": [
+    {
+      "id": "sport-italia-francia-nations",
+      "eventKey": "italia-francia-nations-league-12-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Italia-Francia 3-1: gli azzurri salgono in testa al girone",
+      "summary": "La Nazionale ha battuto la Francia in rimonta a San Siro nella quinta giornata di Nations League. Doppietta di Pio Esposito e gol di Frattesi dopo il vantaggio francese di Olise.",
+      "body": [
+        "La Nazionale ha battuto la Francia in rimonta a San Siro nella quinta giornata di Nations League. Doppietta di Pio Esposito e gol di Frattesi dopo il vantaggio francese di Olise.",
+        "L'Italia affronterà il Belgio il 15 novembre nell'ultima gara del girone. Il risultato lascia aperta la corsa alla qualificazione."
+      ],
+      "publishedAt": "2026-11-12T22:40:00+01:00",
+      "verifiedAt": "2026-11-13T06:09:24Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/12/calcio-nations-league-italia-francia-3-1_afe877f0-a69e-47f2-85e2-94e1cad7e5b5.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-13T06:09:24Z",
+        "dateEvidence": "ANSA mostra 'MILANO, 12 novembre 2026, 22:40'.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-musetti-humbert-stoccolma",
+      "eventKey": "musetti-humbert-quarti-stoccolma-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Musetti supera Humbert e raggiunge la semifinale a Stoccolma",
+      "summary": "Lorenzo Musetti ha battuto Ugo Humbert nei quarti dell'ATP 250 di Stoccolma per 7-6, 3-6, 6-4.",
+      "body": [
+        "Lorenzo Musetti ha battuto Ugo Humbert nei quarti dell'ATP 250 di Stoccolma per 7-6, 3-6, 6-4.",
+        "Il tennista italiano, terza testa di serie, giocherà la semifinale contro Taylor Fritz."
+      ],
+      "publishedAt": "2026-11-12T23:36:00+01:00",
+      "verifiedAt": "2026-11-13T06:09:24Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/12/tennis-stoccolma-musetti-supera-humbert-e-va-in-semifinale_8c2edb84-43b8-4117-9325-50f9fc5155c1.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-13T06:09:24Z",
+        "dateEvidence": "ANSA mostra 'ROMA, 12 novembre 2026, 23:36'.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-antonelli-obiettivi-2027",
+      "eventKey": "antonelli-conferenza-san-marino-obiettivi-f1-2027",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Antonelli guarda al 2027 dopo il titolo mondiale di Formula 1",
+      "summary": "Andrea Kimi Antonelli, durante una conferenza stampa a San Marino, ha dichiarato di voler chiudere bene il 2026 e puntare a nuove vittorie nel 2027.",
+      "body": [
+        "Andrea Kimi Antonelli, durante una conferenza stampa a San Marino, ha dichiarato di voler chiudere bene il 2026 e puntare a nuove vittorie nel 2027.",
+        "Il pilota Mercedes ha descritto il titolo già conquistato come uno stimolo per continuare a migliorare."
+      ],
+      "publishedAt": "2026-11-12T12:34:00+01:00",
+      "verifiedAt": "2026-11-13T06:09:24Z",
+      "source": {
+        "name": "ANSA",
+        "url": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/12/f1-antonelli-e-solo-linizio-ho-piu-fame-di-prima_36904f79-cdfc-4ce7-b3a3-998699161f8a.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-13T06:09:24Z",
+        "dateEvidence": "ANSA mostra 'SAN MARINO, 12 novembre 2026, 12:34'.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": []
+}
