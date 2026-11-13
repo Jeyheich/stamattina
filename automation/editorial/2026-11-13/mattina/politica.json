@@ -4,7 +4,7 @@
   "collectionId": "2026-11-13-mattina",
   "category": "Politica",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-13T05:01:11.790Z",
+  "lastAttemptAt": "2026-11-13T07:02:25.506Z",
   "articles": [
     {
       "id": "politica-confronto-palazzo-chigi-allarmi",
@@ -25,6 +25,28 @@
         "access": "free",
         "accessCheckedAt": "2026-11-13T05:01:11.790Z",
         "dateEvidence": "La pagina ANSA riporta 12 novembre 2026, 20:48 sopra il testo dell'articolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-suppletive-chieti-candidati",
+      "eventKey": "elezioni-suppletive-chieti-15-16-novembre-2026",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Suppletive a Chieti, quattro candidati per il seggio lasciato da Bagnai",
+      "summary": "Il 15 e 16 novembre gli elettori del collegio di Chieti sceglieranno il nuovo deputato. In corsa Colantonio, D'Amico, Pasqualone e Ranieri.",
+      "body": [
+        "Le elezioni suppletive del collegio uninominale di Chieti sono state convocate dopo le dimissioni di Alberto Bagnai, nominato all'Autorità garante della concorrenza e del mercato.",
+        "Sono chiamati alle urne gli elettori di 104 comuni. I seggi saranno aperti domenica dalle 7 alle 23 e lunedì dalle 7 alle 15. I quattro candidati rappresentano centrodestra, centrosinistra, Dimensione Bandecchi e Italia Domani."
+      ],
+      "publishedAt": "2026-11-12",
+      "verifiedAt": "2026-11-13T07:02:25.506Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/11/12/elezioni-suppletive-chieti-candidati",
+        "access": "free",
+        "accessCheckedAt": "2026-11-13T07:02:25.506Z",
+        "dateEvidence": "La pagina Sky TG24 riporta chiaramente '12 nov 2026 - 06:30' prima dell'articolo.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
