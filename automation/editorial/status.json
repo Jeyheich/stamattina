@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-13",
-  "checkedAt": "2026-11-13T09:17:20.108Z",
+  "checkedAt": "2026-11-13T09:22:17.787Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -17,8 +17,20 @@
   ],
   "inProgress": [
     {
+      "slug": "politica",
+      "count": 2
+    },
+    {
+      "slug": "cronaca",
+      "count": 1
+    },
+    {
       "slug": "roma",
       "count": 1
+    },
+    {
+      "slug": "sport",
+      "count": 3
     }
   ],
   "missing": [
@@ -26,32 +38,62 @@
   ],
   "invalid": [
     {
-      "slug": "politica",
-      "reason": "politica-confronto-palazzo-chigi-allarmi verifiedAt: verifica scaduta (verifica 2026-11-13T05:01:11.790Z, controllo 2026-11-13T09:17:20.108Z)"
-    },
-    {
       "slug": "economia",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T05:12:37.307Z, controllo 2026-11-13T09:17:20.108Z)"
-    },
-    {
-      "slug": "cronaca",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T05:12:37.307Z, controllo 2026-11-13T09:17:20.108Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T05:12:37.307Z, controllo 2026-11-13T09:22:17.787Z)"
     },
     {
       "slug": "cultura",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T06:12:41.057Z, controllo 2026-11-13T09:17:20.108Z)"
-    },
-    {
-      "slug": "sport",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T06:09:24.000Z, controllo 2026-11-13T09:17:20.108Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T06:12:41.057Z, controllo 2026-11-13T09:22:17.787Z)"
     }
   ],
   "stories": [
+    {
+      "id": "politica-confronto-palazzo-chigi-allarmi",
+      "category": "Politica",
+      "title": "Allarmi nelle scuole, confronto a Palazzo Chigi senza intesa sulle misure",
+      "eventKey": "confronto-meloni-opposizioni-allarmi-bomba-scuole",
+      "pending": true
+    },
+    {
+      "id": "politica-suppletive-chieti-candidati",
+      "category": "Politica",
+      "title": "Suppletive a Chieti, quattro candidati per il seggio lasciato da Bagnai",
+      "eventKey": "elezioni-suppletive-chieti-15-16-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "cronaca-ambrogini-milano",
+      "category": "Cronaca",
+      "title": "Milano assegnerà riconoscimenti civici alle vittime del rogo di Crans-Montana",
+      "eventKey": "ambrogini-oro-milano-2026-vittime-crans-montana",
+      "pending": true
+    },
     {
       "id": "roma-fiumicino-sgombero-bilancioni",
       "category": "Roma",
       "title": "Fiumicino, sgomberati sette bilancioni al vecchio Faro: protesta in Consiglio",
       "eventKey": "fiumicino-sgombero-sette-bilancioni-protesta-porto-2026",
+      "pending": true
+    },
+    {
+      "id": "sport-italia-francia-nations",
+      "category": "Sport",
+      "title": "Italia-Francia 3-1: gli azzurri salgono in testa al girone",
+      "eventKey": "italia-francia-nations-league-12-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "sport-musetti-humbert-stoccolma",
+      "category": "Sport",
+      "title": "Musetti supera Humbert e raggiunge la semifinale a Stoccolma",
+      "eventKey": "musetti-humbert-quarti-stoccolma-2026",
+      "pending": true
+    },
+    {
+      "id": "sport-antonelli-obiettivi-2027",
+      "category": "Sport",
+      "title": "Antonelli guarda al 2027 dopo il titolo mondiale di Formula 1",
+      "eventKey": "antonelli-conferenza-san-marino-obiettivi-f1-2027",
       "pending": true
     },
     {
@@ -130,7 +172,7 @@
   "photosAvailable": 0,
   "categoryProgress": {
     "politica": {
-      "base": 0,
+      "base": 2,
       "reserve": 0,
       "draft": 0,
       "complete": false
@@ -148,7 +190,7 @@
       "complete": false
     },
     "cronaca": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false
@@ -172,7 +214,7 @@
       "complete": true
     },
     "sport": {
-      "base": 0,
+      "base": 3,
       "reserve": 0,
       "draft": 0,
       "complete": false
