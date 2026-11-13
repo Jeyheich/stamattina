@@ -1,5 +1,10 @@
 # Stamattina — stato operativo
 
+## Consegna cloud delle fonti — 13 novembre
+- Su main, la raccolta esistente carica un archivio giornaliero con un JSON per categoria e registra ID e run nel dossier. Il brief delle due attività usa il riferimento se coincide con il dossier corrente, con ripiego sulla lettura abituale.
+- Il test cloud su cinque fonti di Tecnologia con riscontri preparati e ID esplicito ha salvato cinque schede sul ramo di prova (37bdec7). La prova locale del nuovo workflow ha verificato otto file, 96 candidati e riferimenti coerenti.
+- L’archivio quotidiano contiene metadati e brevi estratti. La lettura integrale delle fonti rimane necessaria. Verificare alla prima raccolta il nuovo ID, l’uso effettivo da parte delle redazioni e la pubblicazione del ciclo.
+
 ## Selezione delle pagine leggibili — 13 novembre
 - Commit 189c817: estrazione dalle sezioni editoriali Sky e dai paragrafi Everyeye senza promozioni. Il dossier privilegia candidati con almeno 100 parole estratte e conserva solo estratti brevi. Il conteggio è un segnale di leggibilità, non una verifica editoriale.
 - Raccolta completa di prova: 96 candidati, 93 sopra la soglia di testo. Esteri 9/12, le altre categorie 12/12. Da verificare il consumo del dossier da parte del recupero cloud e il numero di schede effettivamente verificate.
