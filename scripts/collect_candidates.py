@@ -165,6 +165,56 @@ def read_feed(spec, age_hours):
     except Exception as exc:
         return [], dict(feed=url, error=str(exc))
 
+def page_evidence(page, source):
+    """Extract a short excerpt from article markup and an original page date."""
+    date = ''
+    excerpt = ''
+    for match in re.finditer(r'<script\b[^>]*type=["\']application/ld\+json["\'][^>]*>(.*?)</script>', page, re.S | re.I):
+        try:
+            nodes = [json.loads(match.group(1))]
+        except ValueError:
+            continue
+        while nodes:
+            node = nodes.pop()
+            if isinstance(node, list):
+                nodes.extend(node)
+            elif isinstance(node, dict):
+                nodes.extend(node.values())
+                types = node.get('@type', [])
+                if isinstance(types, str):
+                    types = [types]
+                if not isinstance(types, list) or not any(
+                    isinstance(kind, str) and kind.endswith('Article') for kind in types
+                ):
+                    continue
+                date = date or node.get('datePublished', '')
+                body = node.get('articleBody')
+                if isinstance(body, str):
+                    excerpt = excerpt or plain(body)
+    if not excerpt:
+        article = re.search(r'<article\b[^>]*>(.*?)</article>', page, re.S | re.I)
+        if source == 'Everyeye':
+            article = re.search(r'<div\b[^>]*\bid=["\']inread["\'][^>]*>\s*(<p\b[^>]*>.*?</p>)', page, re.S | re.I)
+        if article:
+            paragraphs = re.findall(r'<p\b[^>]*>(.*?)</p>', article.group(1), re.S | re.I)
+            excerpt = next((text for p in paragraphs if len(text := plain(p)) >= 80), '')
+    if not date:
+        meta = re.search(
+            r'<meta\b[^>]*(?:property|name)=["\']article:published_time["\'][^>]*>',
+            page, re.I,
+        )
+        if meta:
+            value = re.search(r'\bcontent=["\']([^"\']+)["\']', meta.group(), re.I)
+            if value:
+                date = html.unescape(value.group(1))
+    evidence = {}
+    if isinstance(date, str) and re.fullmatch(r'\d{4}-\d{2}-\d{2}(?:T[0-9:.+Z-]+)?', date):
+        evidence['pagePublishedAt'] = date
+    if excerpt:
+        evidence['pageExcerpt'] = ' '.join(excerpt.split()[:25])[:350]
+    return evidence
+
+
 def check_access(candidate):
     try:
         typ, raw, final = request(candidate['url'])
@@ -178,6 +228,14 @@ def check_access(candidate):
             raise ValueError('Contenuto insufficiente')
         candidate.update(accessCheckedAt=dt.datetime.now(dt.timezone.utc).isoformat(),
                          finalUrl=final, accessCheck='http-ok-editorial-review-pending')
+        evidence = page_evidence(page, candidate.get('source'))
+        if 'pageExcerpt' in evidence:
+            candidate.pop('feedExcerpt', None)
+            remaining = max(0, 25 - len(candidate['title'].split()))
+            evidence['pageExcerpt'] = ' '.join(evidence['pageExcerpt'].split()[:remaining])
+            if not evidence['pageExcerpt']:
+                del evidence['pageExcerpt']
+        candidate.update(evidence)
         return candidate, None
     except Exception as exc:
         return None, dict(url=candidate['url'], error=str(exc))
