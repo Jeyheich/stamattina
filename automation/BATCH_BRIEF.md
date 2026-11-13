@@ -10,6 +10,12 @@ Gli avvii iniziali e quelli manuali fuori fascia lavorano al massimo su DUE cate
 
 Slug e categoria: politica = Politica; esteri = Esteri; economia = Economia; cronaca = Cronaca; roma = Roma; cultura = Cultura · Teatro · Cinema; tecnologia = Tecnologia · AI; sport = Sport.
 
+## Archivio della raccolta del giorno
+
+Dopo aver verificato la freschezza del dossier su main, leggi editorialArtifact. Se generatedAt coincide con quello del dossier, usa il connettore GitHub per scaricare lo ZIP con id e runId indicati. Apri solo il JSON della categoria assegnata, indicato in files. Controlla che generatedAt e category coincidano, poi usa i candidati per la ricerca delle principali e delle aggiuntive. Nel resoconto indica l’ID dell’archivio effettivamente letto.
+
+L’archivio contiene URL, metadati e brevi estratti delle pagine originali. Per salvare una scheda valgono i controlli editoriali sulle fonti. Se l’archivio manca, è scaduto o non si apre, usa subito le righe della categoria nel dossier e le fonti alternative ammesse. Indica il motivo nel resoconto.
+
 ## Letture piccole
 1. Verifica giorno/ora effettivi Europe/Rome. Leggi automation/editorial/YYYY-MM-DD/CICLO/status.json del ciclo assegnato se esiste (status.json alla radice è solo un riepilogo dell'ultima esecuzione): ignora lo stato di un altro giorno; leggi titoli ed eventKey già completati per evitare doppioni. Non leggere tutti i vecchi blocchi.
 2. Leggi le prime 85 righe di automation/candidates/latest.json. Controlla che generatedAt non preceda l’inizio dello slot a Roma (06:00 mattina, 16:00 pomeriggio), pageAccessChecked sia true e la tua categoria abbia almeno cinque candidati. Usa categoryLineRanges con fetch_file(start_line,end_line) per leggere SOLO la tua categoria. Se il dossier non ha ancora le finestre, leggi la sezione della tua categoria nel file: non considerare automaticamente verificato il suo contenuto.
