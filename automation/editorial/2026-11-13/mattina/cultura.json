@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-13",
+  "collectionId": "2026-11-13-mattina",
+  "category": "Cultura · Teatro · Cinema",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-13T06:12:41.057Z",
+  "articles": [
+    {
+      "id": "cultura-nico-desertshore-giannini",
+      "eventKey": "nico-desertshore-giannini-danza-potenza-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Nico e Desertshore diventano un concerto di danza",
+      "summary": "La coreografia di Giovanfrancesco Giannini, presentata al Festival Città delle 100 Scale a Potenza, riprende le atmosfere dell'album Desertshore di Nico per raccontare distanza e solitudine attraverso il movimento.",
+      "body": [
+        "Giannini e Roberta Racis interpretano una composizione coreografica costruita su avvicinamenti e incontri mancati, accompagnata da un ambiente sonoro che rielabora le tracce dell'album di Nico."
+      ],
+      "publishedAt": "2026-11-12",
+      "verifiedAt": "2026-11-13T06:12:41.057Z",
+      "source": {
+        "name": "Teatro e Critica",
+        "url": "https://www.teatroecritica.net/2026/11/nico-desertshore-di-giovanfrancesco-giannini/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-13T06:12:41.057Z",
+        "dateEvidence": "La pagina originale mostra esplicitamente 12 Novembre 2026 accanto al nome dell'autrice Serena Spanò.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-gone-kepler452-teatro-india",
+      "eventKey": "gone-kepler452-teatro-india-georgia-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Gone, il teatro di Kepler-452 attraversa il tema dell'emigrazione",
+      "summary": "La compagnia Kepler-452 ha portato al Teatro India di Roma uno spettacolo nato dal lavoro con attori georgiani del Teatro Tumanishvili, ambientato in un aeroporto sospeso.",
+      "body": [
+        "La messinscena esplora separazione e migrazione attraverso testimonianze e finzione. Una recensione pubblicata il 12 novembre segnala le tensioni tra il metodo documentario della compagnia e la recitazione professionale degli interpreti."
+      ],
+      "publishedAt": "2026-11-12",
+      "verifiedAt": "2026-11-13T06:12:41.057Z",
+      "source": {
+        "name": "Teatro e Critica",
+        "url": "https://www.teatroecritica.net/2026/11/gone-kepler-452/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-13T06:12:41.057Z",
+        "dateEvidence": "La pagina originale mostra esplicitamente 12 Novembre 2026 accanto al nome dell'autrice Serena Spanò.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}

@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-13",
-  "checkedAt": "2026-11-13T06:11:32.166Z",
+  "checkedAt": "2026-11-13T06:13:07.025Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -30,14 +30,17 @@
       "count": 1
     },
     {
+      "slug": "cultura",
+      "count": 2
+    },
+    {
       "slug": "sport",
       "count": 3
     }
   ],
   "missing": [
     "esteri",
-    "roma",
-    "cultura"
+    "roma"
   ],
   "invalid": [],
   "stories": [
@@ -60,6 +63,20 @@
       "category": "Cronaca",
       "title": "Milano assegnerà riconoscimenti civici alle vittime del rogo di Crans-Montana",
       "eventKey": "ambrogini-oro-milano-2026-vittime-crans-montana",
+      "pending": true
+    },
+    {
+      "id": "cultura-nico-desertshore-giannini",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Nico e Desertshore diventano un concerto di danza",
+      "eventKey": "nico-desertshore-giannini-danza-potenza-2026",
+      "pending": true
+    },
+    {
+      "id": "cultura-gone-kepler452-teatro-india",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Gone, il teatro di Kepler-452 attraversa il tema dell'emigrazione",
+      "eventKey": "gone-kepler452-teatro-india-georgia-2026",
       "pending": true
     },
     {
@@ -159,7 +176,7 @@
       "complete": false
     },
     "cultura": {
-      "base": 0,
+      "base": 2,
       "reserve": 0,
       "draft": 0,
       "complete": false
