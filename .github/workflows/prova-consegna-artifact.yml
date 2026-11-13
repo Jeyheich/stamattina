@@ -1,0 +1,18 @@
+name: Prova consegna cloud
+on:
+  push:
+    branches: [prova-consegna-artifact]
+    paths: [.github/workflows/prova-consegna-artifact.yml]
+permissions: {}
+jobs:
+  prova:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Genera scheda fittizia
+        run: |
+          printf '%s\n' '{"token":"STAMATTINA-H15MJFUONW","date":"2026-11-13","url":"https://example.org/","text":"Scheda sintetica per verificare il trasporto cloud."}' > prova.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: prova-consegna-stamattina
+          path: prova.json
+          retention-days: 1
