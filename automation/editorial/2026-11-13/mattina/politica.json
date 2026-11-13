@@ -3,8 +3,7 @@
   "editionDate": "2026-11-13",
   "collectionId": "2026-11-13-mattina",
   "category": "Politica",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-13T09:21:40Z",
+  "lastAttemptAt": "2026-11-13T09:22:23Z",
   "articles": [
     {
       "id": "politica-confronto-palazzo-chigi-allarmi",
@@ -49,7 +48,71 @@
         "dateEvidence": "La pagina Sky TG24 riporta chiaramente '12 nov 2026 - 06:30' prima dell'articolo.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "politica-mattarella-riforma-protezione-civile",
+      "eventKey": "mattarella-riforma-protezione-civile",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Mattarella firma la riforma della Protezione civile e chiede di rivedere le deroghe",
+      "summary": "Il presidente della Repubblica ha promulgato la legge e ha scritto a Governo e Parlamento, sollecitando criteri omogenei per le deroghe alla responsabilità penale.",
+      "body": [
+        "Il presidente della Repubblica ha promulgato la legge e ha scritto a Governo e Parlamento, sollecitando criteri omogenei per le deroghe alla responsabilità penale."
+      ],
+      "publishedAt": "2026-11-13",
+      "verifiedAt": "2026-11-13T09:22:23Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/11/13/lettera-presidenti-camere-chigi-quadro-normativo-coerente",
+        "access": "free",
+        "accessCheckedAt": "2026-11-13T09:22:23Z",
+        "dateEvidence": "Data di pubblicazione nei metadati della pagina originale.",
+        "reviewedBy": "Codex"
+      }
+    },
+    {
+      "id": "politica-manovra-crediti-edilizi-messina",
+      "eventKey": "manovra-crediti-edilizi-messina",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Manovra, confronto tra Messina e il governo sui crediti edilizi",
+      "summary": "L’amministratore delegato di Intesa Sanpaolo ha criticato l’allungamento a dieci anni del recupero dei crediti. Il governo ha difeso l’impostazione della manovra.",
+      "body": [
+        "L’amministratore delegato di Intesa Sanpaolo ha criticato l’allungamento a dieci anni del recupero dei crediti. Il governo ha difeso l’impostazione della manovra."
+      ],
+      "publishedAt": "2026-11-13",
+      "verifiedAt": "2026-11-13T09:22:23Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/11/13/manovra-messina-meloni-scontro",
+        "access": "free",
+        "accessCheckedAt": "2026-11-13T09:22:23Z",
+        "dateEvidence": "Data di pubblicazione nei metadati della pagina originale.",
+        "reviewedBy": "Codex"
+      }
+    },
+    {
+      "id": "politica-decreto-sostegno-italiano-ucraina",
+      "eventKey": "decreto-sostegno-italiano-ucraina",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Il governo conferma il nuovo pacchetto di aiuti all’Ucraina",
+      "summary": "Open riferisce che il nuovo decreto supera il miliardo di euro, citando il Corriere della Sera. Meloni ha inoltre ribadito la proposta di un negoziatore europeo per Kiev.",
+      "body": [
+        "Open riferisce che il nuovo decreto supera il miliardo di euro, citando il Corriere della Sera. Meloni ha inoltre ribadito la proposta di un negoziatore europeo per Kiev."
+      ],
+      "publishedAt": "2026-11-13",
+      "verifiedAt": "2026-11-13T09:22:23Z",
+      "source": {
+        "name": "Open",
+        "url": "https://www.open.online/2026/11/13/governo-meloni-aiuti-ucraina-miliardo/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-13T09:22:23Z",
+        "dateEvidence": "Data di pubblicazione nei metadati della pagina originale.",
+        "reviewedBy": "Codex"
+      }
     }
   ],
-  "reserveDraft": []
+  "reserveDraft": [],
+  "completedAt": "2026-11-13T09:22:23Z"
 }

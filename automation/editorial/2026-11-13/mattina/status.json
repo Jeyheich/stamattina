@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-13",
-  "checkedAt": "2026-11-13T09:22:17.787Z",
+  "checkedAt": "2026-11-13T09:23:45.638Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,13 +13,10 @@
     "sport"
   ],
   "completed": [
+    "politica",
     "tecnologia"
   ],
   "inProgress": [
-    {
-      "slug": "politica",
-      "count": 2
-    },
     {
       "slug": "cronaca",
       "count": 1
@@ -39,28 +36,14 @@
   "invalid": [
     {
       "slug": "economia",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T05:12:37.307Z, controllo 2026-11-13T09:22:17.787Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T05:12:37.307Z, controllo 2026-11-13T09:23:45.638Z)"
     },
     {
       "slug": "cultura",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T06:12:41.057Z, controllo 2026-11-13T09:22:17.787Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T06:12:41.057Z, controllo 2026-11-13T09:23:45.638Z)"
     }
   ],
   "stories": [
-    {
-      "id": "politica-confronto-palazzo-chigi-allarmi",
-      "category": "Politica",
-      "title": "Allarmi nelle scuole, confronto a Palazzo Chigi senza intesa sulle misure",
-      "eventKey": "confronto-meloni-opposizioni-allarmi-bomba-scuole",
-      "pending": true
-    },
-    {
-      "id": "politica-suppletive-chieti-candidati",
-      "category": "Politica",
-      "title": "Suppletive a Chieti, quattro candidati per il seggio lasciato da Bagnai",
-      "eventKey": "elezioni-suppletive-chieti-15-16-novembre-2026",
-      "pending": true
-    },
     {
       "id": "cronaca-ambrogini-milano",
       "category": "Cronaca",
@@ -95,6 +78,36 @@
       "title": "Antonelli guarda al 2027 dopo il titolo mondiale di Formula 1",
       "eventKey": "antonelli-conferenza-san-marino-obiettivi-f1-2027",
       "pending": true
+    },
+    {
+      "id": "politica-confronto-palazzo-chigi-allarmi",
+      "category": "Politica",
+      "title": "Allarmi nelle scuole, confronto a Palazzo Chigi senza intesa sulle misure",
+      "eventKey": "confronto-meloni-opposizioni-allarmi-bomba-scuole"
+    },
+    {
+      "id": "politica-suppletive-chieti-candidati",
+      "category": "Politica",
+      "title": "Suppletive a Chieti, quattro candidati per il seggio lasciato da Bagnai",
+      "eventKey": "elezioni-suppletive-chieti-15-16-novembre-2026"
+    },
+    {
+      "id": "politica-mattarella-riforma-protezione-civile",
+      "category": "Politica",
+      "title": "Mattarella firma la riforma della Protezione civile e chiede di rivedere le deroghe",
+      "eventKey": "mattarella-riforma-protezione-civile"
+    },
+    {
+      "id": "politica-manovra-crediti-edilizi-messina",
+      "category": "Politica",
+      "title": "Manovra, confronto tra Messina e il governo sui crediti edilizi",
+      "eventKey": "manovra-crediti-edilizi-messina"
+    },
+    {
+      "id": "politica-decreto-sostegno-italiano-ucraina",
+      "category": "Politica",
+      "title": "Il governo conferma il nuovo pacchetto di aiuti all’Ucraina",
+      "eventKey": "decreto-sostegno-italiano-ucraina"
     },
     {
       "id": "tecnologia-apple-occhiali-2027",
@@ -172,7 +185,7 @@
   "photosAvailable": 0,
   "categoryProgress": {
     "politica": {
-      "base": 2,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
