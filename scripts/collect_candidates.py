@@ -97,7 +97,8 @@ def eligible(category, source, title, url):
 
 def editorial_rank(candidate):
     if candidate['category'] == 'Cultura · Teatro · Cinema':
-        return 1 if candidate['source'] == 'Sky TG24' else 0
+        title = candidate['title'].casefold()
+        return int(bool(re.search(r'\b(?:call|audizioni|residenz\w*|cerca|bando)\b', title)))
     if candidate['category'] != 'Sport':
         return 0
     text = (candidate['title'] + ' ' + candidate['url']).casefold()
