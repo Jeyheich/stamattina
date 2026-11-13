@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-13",
-  "checkedAt": "2026-11-13T10:40:15.535Z",
+  "checkedAt": "2026-11-13T10:41:47.590Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -29,15 +29,15 @@
   "invalid": [
     {
       "slug": "economia",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T05:12:37.307Z, controllo 2026-11-13T10:40:15.535Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T05:12:37.307Z, controllo 2026-11-13T10:41:47.590Z)"
     },
     {
       "slug": "roma",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T07:22:07.936Z, controllo 2026-11-13T10:40:15.535Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T07:22:07.936Z, controllo 2026-11-13T10:41:47.590Z)"
     },
     {
       "slug": "cultura",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T06:12:41.057Z, controllo 2026-11-13T10:40:15.535Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-13T06:12:41.057Z, controllo 2026-11-13T10:41:47.590Z)"
     }
   ],
   "stories": [
