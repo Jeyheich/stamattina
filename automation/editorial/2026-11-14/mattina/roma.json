@@ -3,7 +3,7 @@
   "editionDate": "2026-11-14",
   "collectionId": "2026-11-14-mattina",
   "category": "Roma",
-  "lastAttemptAt": "2026-11-14T10:32:34.806Z",
+  "lastAttemptAt": "2026-11-14T10:37:28.818Z",
   "articles": [
     {
       "id": "roma-raffrescamento-nidi-scuole-2026",
@@ -126,8 +126,7 @@
       }
     }
   ],
-  "reserveArticles": [],
-  "reserveDraft": [
+  "reserveArticles": [
     {
       "id": "roma-casal-bruciato-incendio-cantiere",
       "eventKey": "casal-bruciato-incendio-cantiere",
@@ -192,5 +191,6 @@
       }
     }
   ],
+  "reserveDraft": [],
   "completedAt": "2026-11-14T10:33:44.793Z"
 }
