@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-14",
-  "checkedAt": "2026-11-14T09:32:31.964Z",
+  "checkedAt": "2026-11-14T09:48:41.136Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -26,27 +26,27 @@
   "invalid": [
     {
       "slug": "politica",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T09:32:31.964Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T09:48:41.136Z)"
     },
     {
       "slug": "esteri",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T09:32:31.964Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T09:48:41.136Z)"
     },
     {
       "slug": "economia",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T09:32:31.964Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T09:48:41.136Z)"
     },
     {
       "slug": "cronaca",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T09:32:31.964Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T09:48:41.136Z)"
     },
     {
       "slug": "cultura",
-      "reason": "completedAt: verifica scaduta (verifica 2026-11-14T06:14:20.000Z, controllo 2026-11-14T09:32:31.964Z)"
+      "reason": "completedAt: verifica scaduta (verifica 2026-11-14T06:14:20.000Z, controllo 2026-11-14T09:48:41.136Z)"
     },
     {
       "slug": "sport",
-      "reason": "sport-antonelli-quirinale-casco verifiedAt: verifica scaduta (verifica 2026-11-14T06:01:31.000Z, controllo 2026-11-14T09:32:31.964Z)"
+      "reason": "sport-antonelli-quirinale-casco verifiedAt: verifica scaduta (verifica 2026-11-14T06:01:31.000Z, controllo 2026-11-14T09:48:41.136Z)"
     }
   ],
   "stories": [
