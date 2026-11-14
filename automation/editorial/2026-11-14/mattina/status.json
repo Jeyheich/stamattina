@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-14",
-  "checkedAt": "2026-11-14T10:29:14.487Z",
+  "checkedAt": "2026-11-14T10:30:00.921Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -28,18 +28,18 @@
     },
     {
       "slug": "roma",
-      "count": 1
+      "count": 2
     }
   ],
   "missing": [],
   "invalid": [
     {
       "slug": "cronaca",
-      "reason": "cronaca-fiorenzuola-sanzioni-pezzotto verifiedAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T10:29:14.487Z)"
+      "reason": "cronaca-fiorenzuola-sanzioni-pezzotto verifiedAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T10:30:00.921Z)"
     },
     {
       "slug": "sport",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T07:01:41.173Z, controllo 2026-11-14T10:29:14.487Z)"
+      "reason": "sport-antonelli-quirinale-casco verifiedAt: verifica scaduta (verifica 2026-11-14T06:01:31.000Z, controllo 2026-11-14T10:30:00.921Z)"
     }
   ],
   "stories": [
@@ -76,6 +76,13 @@
       "category": "Roma",
       "title": "Roma investe sei milioni per raffrescare nidi e scuole dell'infanzia",
       "eventKey": "roma-piano-raffrescamento-nidi-scuole-6-milioni",
+      "pending": true
+    },
+    {
+      "id": "roma-omicidio-torpignattara-novembre",
+      "category": "Roma",
+      "title": "Torpignattara, uomo ucciso dopo una lite per denaro: indagini a Roma",
+      "eventKey": "omicidio-torpignattara-via-baracca-13-novembre-2026",
       "pending": true
     },
     {
@@ -238,7 +245,7 @@
       "complete": false
     },
     "roma": {
-      "base": 1,
+      "base": 2,
       "reserve": 0,
       "draft": 0,
       "complete": false
