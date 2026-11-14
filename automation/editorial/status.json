@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-14",
-  "checkedAt": "2026-11-14T10:31:34.864Z",
+  "checkedAt": "2026-11-14T10:32:19.764Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -20,7 +20,7 @@
   "inProgress": [
     {
       "slug": "politica",
-      "count": 2
+      "count": 3
     },
     {
       "slug": "esteri",
@@ -54,6 +54,13 @@
       "category": "Politica",
       "title": "Ciro Grillo critica il ruolo di Bongiorno nel processo d'appello",
       "eventKey": "ciro-grillo-intervista-bongiorno-processo-appello",
+      "pending": true
+    },
+    {
+      "id": "politica-sindacati-sciopero-manovra-2027",
+      "category": "Politica",
+      "title": "Manovra 2027, sindacati verso lo sciopero generale",
+      "eventKey": "sindacati-sciopero-generale-manovra-2027-14nov",
       "pending": true
     },
     {
@@ -262,7 +269,7 @@
   "photosAvailable": 0,
   "categoryProgress": {
     "politica": {
-      "base": 2,
+      "base": 3,
       "reserve": 0,
       "draft": 0,
       "complete": false

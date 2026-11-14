@@ -4,7 +4,7 @@
   "collectionId": "2026-11-14-mattina",
   "category": "Politica",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-14T10:27:57.441Z",
+  "lastAttemptAt": "2026-11-14T10:31:55.050Z",
   "articles": [
     {
       "id": "politica-manovra-scuola-sindacati",
@@ -59,6 +59,28 @@
         "access": "free",
         "accessCheckedAt": "2026-11-14T10:26:35Z",
         "dateEvidence": "Data originale nella pagina acquisita: 13 novembre 2026 ore 22:48 Europe/Rome",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-sindacati-sciopero-manovra-2027",
+      "eventKey": "sindacati-sciopero-generale-manovra-2027-14nov",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Manovra 2027, sindacati verso lo sciopero generale",
+      "summary": "Le principali organizzazioni sindacali contestano le misure della manovra 2027, giudicate insufficienti su salari, pensioni e sanità. La mobilitazione potrebbe culminare in uno sciopero generale nelle prossime settimane.",
+      "body": [
+        "Le organizzazioni sindacali hanno espresso forti critiche alla legge di bilancio per il 2027, denunciando interventi insufficienti su potere d'acquisto, previdenza e sistema sanitario.",
+        "La discussione tra le sigle prosegue, con l'ipotesi di una giornata di sciopero generale. Le date e le modalità della mobilitazione non risultano ancora definitivamente concordate."
+      ],
+      "publishedAt": "2026-11-14T09:15:00+01:00",
+      "verifiedAt": "2026-11-14T10:31:55.050Z",
+      "source": {
+        "name": "Open",
+        "url": "https://www.open.online/2026/11/14/manovra-2027-sindacati-sciopero-generale-proteste/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:31:55.050Z",
+        "dateEvidence": "Testo originale acquisito nell'archivio riservato 14109613767: 14 novembre 2026 ore 09:15 +01:00",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
