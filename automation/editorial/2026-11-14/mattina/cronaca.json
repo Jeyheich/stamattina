@@ -116,6 +116,70 @@
     }
   ],
   "reserveArticles": [],
-  "reserveDraft": [],
+  "reserveDraft": [
+    {
+      "id": "cronaca-ordinanze-inverno-pneumatici",
+      "eventKey": "ordinanze-inverno-pneumatici",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Dal 15 novembre scattano le ordinanze invernali sulle strade interessate",
+      "summary": "Assogomma ricorda che il periodo ordinario termina il 15 aprile, salvo disposizioni diverse dei gestori delle strade.",
+      "body": [
+        "Assogomma ricorda che il periodo ordinario termina il 15 aprile, salvo disposizioni diverse dei gestori delle strade."
+      ],
+      "publishedAt": "2026-11-14",
+      "verifiedAt": "2026-11-14T10:38:21.996Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/cambio-gomme-dal-15-novembre-tempo-di-invernali-4e4a9455-53de-4e04-98e6-dc8b33966a96.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:38:21.996Z",
+        "dateEvidence": "Data 2026-11-14 nei metadati della pagina originale riletta.",
+        "reviewedBy": "Lola, rilettura della fonte originale"
+      }
+    },
+    {
+      "id": "cronaca-udienza-preliminare-sempio-pavia",
+      "eventKey": "udienza-preliminare-sempio-pavia",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Caso Chiara Poggi, udienza preliminare fissata al 25 febbraio",
+      "summary": "Il fascicolo su Andrea Sempio è stato assegnato al giudice Luigi Umberto Riganti, chiamato a decidere tra rinvio a giudizio e proscioglimento.",
+      "body": [
+        "Il fascicolo su Andrea Sempio è stato assegnato al giudice Luigi Umberto Riganti, chiamato a decidere tra rinvio a giudizio e proscioglimento."
+      ],
+      "publishedAt": "2026-11-12",
+      "verifiedAt": "2026-11-14T10:38:21.996Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/omicidio-chiara-poggi-udienza-preliminare-il-25-febbraio-andrea-sempio-rischia-il-processo-a-pavia-4690e57d-baff-453f-85a7-40d052bedbbf.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:38:21.996Z",
+        "dateEvidence": "Data 2026-11-12 nei metadati della pagina originale riletta.",
+        "reviewedBy": "Lola, rilettura della fonte originale"
+      }
+    },
+    {
+      "id": "cronaca-procura-torino-falsi-allarmi-scuole",
+      "eventKey": "procura-torino-falsi-allarmi-scuole",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "La procura di Torino indaga sui falsi allarmi bomba nelle scuole",
+      "summary": "L’inchiesta riguarda procurato allarme e minacce, con l’ipotesi dell’aggravante terroristica. La Direzione nazionale antiterrorismo segue il coordinamento fra le procure.",
+      "body": [
+        "L’inchiesta riguarda procurato allarme e minacce, con l’ipotesi dell’aggravante terroristica. La Direzione nazionale antiterrorismo segue il coordinamento fra le procure."
+      ],
+      "publishedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14T10:38:21.996Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/allarme-bomba-scuole-procura-di-torino-apre-un-fascicolo-aggravante-del-terrorismo-cfa37bc5-264f-483a-8581-cfa4334da020.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:38:21.996Z",
+        "dateEvidence": "Data 2026-11-13 nei metadati della pagina originale riletta.",
+        "reviewedBy": "Lola, rilettura della fonte originale"
+      }
+    }
+  ],
   "completedAt": "2026-11-14T10:33:42.294Z"
 }
