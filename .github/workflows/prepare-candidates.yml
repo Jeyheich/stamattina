@@ -2,10 +2,6 @@ name: Prepara candidati rassegna
 on:
   workflow_call:
   workflow_dispatch:
-  schedule:
-    # 06:00 e 16:00 Europe/Rome; il gate recupera lo slot dovuto anche in ritardo
-    # e non ripete una raccolta già salvata per quello slot.
-    - cron: '0 4,5,14,15 * * *'
 permissions:
   contents: write
 concurrency:
