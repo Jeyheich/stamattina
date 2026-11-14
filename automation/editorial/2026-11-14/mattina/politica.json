@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-14",
+  "collectionId": "2026-11-14-mattina",
+  "category": "Politica",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-14T05:00:55.187Z",
+  "articles": [
+    {
+      "id": "politica-manovra-scuola-sindacati",
+      "eventKey": "manovra-2027-ritiro-tagli-organici-scuola",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Manovra, il governo annuncia il ritiro della misura sui tagli scolastici",
+      "summary": "Dopo il confronto con i sindacati a Palazzo Chigi, la UIL ha riferito che il governo intende ritirare la misura contestata sugli organici della scuola. Meloni ha confermato l'intenzione, mentre la CGIL mantiene lo sciopero del 20 novembre.",
+      "body": [
+        "Dopo il confronto con i sindacati a Palazzo Chigi, la UIL ha riferito che il governo intende ritirare la misura contestata sugli organici della scuola. Meloni ha confermato l'intenzione, mentre la CGIL mantiene lo sciopero del 20 novembre."
+      ],
+      "publishedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14T05:00:55.187Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/11/13/manovra-2027-valditara-bombardieri-tagli-scuola",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T05:00:55.187Z",
+        "dateEvidence": "La pagina Sky TG24 indica '13 nov 2026 - 18:00'.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": []
+}
