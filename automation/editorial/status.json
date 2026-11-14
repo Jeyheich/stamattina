@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-14",
-  "checkedAt": "2026-11-14T07:18:19.676Z",
+  "checkedAt": "2026-11-14T08:42:04.198Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -18,22 +18,6 @@
   ],
   "inProgress": [
     {
-      "slug": "politica",
-      "count": 1
-    },
-    {
-      "slug": "esteri",
-      "count": 1
-    },
-    {
-      "slug": "economia",
-      "count": 2
-    },
-    {
-      "slug": "cronaca",
-      "count": 1
-    },
-    {
       "slug": "tecnologia",
       "count": 3
     },
@@ -45,43 +29,25 @@
   "missing": [
     "roma"
   ],
-  "invalid": [],
+  "invalid": [
+    {
+      "slug": "politica",
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T08:42:04.198Z)"
+    },
+    {
+      "slug": "esteri",
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T08:42:04.198Z)"
+    },
+    {
+      "slug": "economia",
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T08:42:04.198Z)"
+    },
+    {
+      "slug": "cronaca",
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T08:42:04.198Z)"
+    }
+  ],
   "stories": [
-    {
-      "id": "politica-manovra-scuola-sindacati",
-      "category": "Politica",
-      "title": "Manovra, il governo annuncia il ritiro della misura sui tagli scolastici",
-      "eventKey": "manovra-2027-ritiro-tagli-organici-scuola",
-      "pending": true
-    },
-    {
-      "id": "esteri-bild-richieste-russe-nato-finlandia",
-      "category": "Esteri",
-      "title": "Negoziati sull'Ucraina, Bild riferisce le richieste russe su Donbass e NATO",
-      "eventKey": "bild-richieste-russe-donbass-finlandia-nato",
-      "pending": true
-    },
-    {
-      "id": "economia-rilancio-vie-commerciali-regno-unito",
-      "category": "Economia",
-      "title": "Regno Unito, un rapporto propone strade più vivibili per rilanciare i negozi",
-      "eventKey": "rigenerazione-high-street-create-streets-2026",
-      "pending": true
-    },
-    {
-      "id": "economia-trump-acquisti-azioni-nvidia",
-      "category": "Economia",
-      "title": "Trump e Nvidia, emergono acquisti azionari durante le decisioni sull'export",
-      "eventKey": "trump-acquisti-nvidia-regole-export-cina",
-      "pending": true
-    },
-    {
-      "id": "cronaca-fiorenzuola-sanzioni-pezzotto",
-      "category": "Cronaca",
-      "title": "Pirateria televisiva, sei persone sanzionate nel Piacentino",
-      "eventKey": "fiorenzuola-sei-sanzionati-pirateria-streaming",
-      "pending": true
-    },
     {
       "id": "tecnologia-chatgpt-wallet-agenti-acquisti",
       "category": "Tecnologia · AI",
@@ -163,25 +129,25 @@
   "photosAvailable": 0,
   "categoryProgress": {
     "politica": {
-      "base": 1,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "esteri": {
-      "base": 1,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "economia": {
-      "base": 2,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cronaca": {
-      "base": 1,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
