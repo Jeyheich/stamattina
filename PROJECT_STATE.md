@@ -1,5 +1,10 @@
 # Stamattina — stato operativo
 
+## Consegna privata — collaudo del 14 novembre
+- Repository privato stamattina-collaudo-privato. Run manuale 43582240232: DNS Everyeye simulato e pagine originali IGN scaricate dal runner. Archivio privato di un giorno 14108043487.
+- La stessa attività Rassegna stampa quotidiana ha aperto l’archivio con lettura diretta simulata indisponibile e ha scritto due schede di collaudo, rilette da esiti/tecnologia-2026-11-14.json. Nessun testo delle fonti nel repository pubblico.
+- La prova dimostra la consegna e il salvataggio privati. Restano da collegare la raccolta quotidiana e il formato canonico verificato dall’assemblaggio.
+
 ## Recupero mattutino — 14 novembre
 - Commit 3d2b0e6: il brief prova la lettura diretta delle fonti originali nell’ambiente di elaborazione, quando dispone di rete, e passa alle alternative ammesse in caso di blocco.
 - Entrambe le attività rilanciate a mano. La redazione quotidiana ha aperto l’archivio 14104307771, ma Python ha riportato un errore DNS su Everyeye. Nessun nuovo checkpoint in quel rilancio. Lo stato delle 09:42 ha rilevato quattro checkpoint scaduti, Roma mancante, nessuna riserva definitiva e nessuna foto.
