@@ -3,7 +3,8 @@
 ## Consegna privata — collaudo del 14 novembre
 - Repository privato stamattina-collaudo-privato. Run manuale 43582240232: DNS Everyeye simulato e pagine originali IGN scaricate dal runner. Archivio privato di un giorno 14108043487.
 - La stessa attività Rassegna stampa quotidiana ha aperto l’archivio con lettura diretta simulata indisponibile e ha scritto due schede di collaudo, rilette da esiti/tecnologia-2026-11-14.json. Nessun testo delle fonti nel repository pubblico.
-- La prova dimostra la consegna e il salvataggio privati. Restano da collegare la raccolta quotidiana e il formato canonico verificato dall’assemblaggio.
+- Raccolta manuale collegata al dossier reale: run 43584609741, artifact privato 14109613767. Le redazioni sono state rilanciate. Tecnologia ha aggiunto una bozza Everyeye nel checkpoint canonico. Corretto lo status in-progress con cinque principali in 42d1214. Economia ha salvato quattro principali, con verifiche precedenti ancora scadute.
+- La revisione automatica ha respinto il nuovo cron del repository privato. Raccolta privata a comando e procedura nel brief attive. Il 14 resta incompleto, senza foto validate.
 
 ## Recupero mattutino — 14 novembre
 - Commit 3d2b0e6: il brief prova la lettura diretta delle fonti originali nell’ambiente di elaborazione, quando dispone di rete, e passa alle alternative ammesse in caso di blocco.
