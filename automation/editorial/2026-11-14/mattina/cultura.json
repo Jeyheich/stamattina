@@ -111,8 +111,7 @@
       }
     }
   ],
-  "reserveArticles": [],
-  "reserveDraft": [
+  "reserveArticles": [
     {
       "id": "cultura-catalysi-residenze-2027",
       "eventKey": "societas-catalysi-residenze-cesena-2027",
@@ -175,7 +174,49 @@
         "dateEvidence": "La pagina originale reca 13 Novembre 2026 sotto il titolo.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "cultura-cirklabo-call-2028",
+      "eventKey": "cirklabo-lovanio-open-call-circo-2028",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Cirklabo apre un bando per nuovi progetti di circo contemporaneo",
+      "summary": "Il centro di Lovanio mette a disposizione 30.000 euro complessivi per sostenere da cinque a dieci creazioni e residenze di ricerca previste nel 2028.",
+      "body": [
+        "La selezione considera qualità artistica, rilevanza sociale, sostenibilità del budget e tempi di lavoro. Le candidature sono aperte fino al 1° dicembre 2026."
+      ],
+      "publishedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14T08:44:19.181Z",
+      "source": {
+        "name": "Teatro e Critica",
+        "url": "https://www.teatroecritica.net/2026/11/cirklabo-open-call-2028-per-creazioni-e-residenze-di-circo-contemporaneo-a-lovanio/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T08:44:19.181Z",
+        "dateEvidence": "La pagina originale di Teatro e Critica mostra 13 Novembre 2026 sotto il titolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cultura-piccolo-opera-festival-selezione-2027",
+      "eventKey": "piccolo-opera-festival-responsabile-produzione-2027",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Piccolo Opera Festival cerca un responsabile di produzione per il 2027",
+      "summary": "Il festival lirico fra Gorizia, Collio e Slovenia ha aperto una selezione per coordinare la ventesima edizione, con compenso lordo di 8.000 euro e alloggio durante la presenza in sede.",
+      "body": [
+        "L'incarico va dal 22 febbraio al 20 luglio 2027 e richiede almeno tre anni di esperienza e conoscenza dell'inglese di livello B2. Le domande scadono il 30 novembre 2026 alle 16."
+      ],
+      "publishedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14T08:44:19.181Z",
+      "source": {
+        "name": "Teatro e Critica",
+        "url": "https://www.teatroecritica.net/2026/11/il-piccolo-opera-festival-2027-cerca-un-responsabile-di-produzione-incarico-da-8-000-euro/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T08:44:19.181Z",
+        "dateEvidence": "La pagina originale di Teatro e Critica mostra 13 Novembre 2026 sotto il titolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
   ],
-  "lastAttemptAt": "2026-11-14T07:17:40.395Z"
+  "lastAttemptAt": "2026-11-14T08:44:19.181Z"
 }
