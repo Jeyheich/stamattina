@@ -114,6 +114,70 @@
     }
   ],
   "reserveArticles": [],
-  "reserveDraft": [],
+  "reserveDraft": [
+    {
+      "id": "roma-casal-bruciato-incendio-cantiere",
+      "eventKey": "casal-bruciato-incendio-cantiere",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Incendio nel cantiere del parcheggio a Casal Bruciato",
+      "summary": "Le fiamme hanno distrutto un container vicino a piazza Riccardo Balsamo Crivelli. Alcuni ragazzi hanno portato al sicuro una statua vicina al rogo. Le cause sono ancora da accertare.",
+      "body": [
+        "Le fiamme hanno distrutto un container vicino a piazza Riccardo Balsamo Crivelli. Alcuni ragazzi hanno portato al sicuro una statua vicina al rogo. Le cause sono ancora da accertare."
+      ],
+      "publishedAt": "2026-11-14",
+      "verifiedAt": "2026-11-14T10:36:15.266Z",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/cronaca/incendio-casal-bruciato-piazza-crivelli.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:36:15.266Z",
+        "dateEvidence": "Data 2026-11-14 nei metadati della pagina originale riletta.",
+        "reviewedBy": "Lola, rilettura della fonte originale"
+      }
+    },
+    {
+      "id": "roma-taxi-sciopero-dicembre-roma",
+      "eventKey": "taxi-sciopero-dicembre-roma",
+      "category": "Roma",
+      "status": "verified",
+      "title": "I sindacati dei taxi confermano lo sciopero del 15 dicembre",
+      "summary": "Dopo l’incontro con il viceministro Edoardo Rixi, le sigle hanno confermato lo sciopero nazionale e la manifestazione a Roma. Fra le richieste discusse ci sono regole per gli NCC e caro carburanti.",
+      "body": [
+        "Dopo l’incontro con il viceministro Edoardo Rixi, le sigle hanno confermato lo sciopero nazionale e la manifestazione a Roma. Fra le richieste discusse ci sono regole per gli NCC e caro carburanti."
+      ],
+      "publishedAt": "2026-11-14",
+      "verifiedAt": "2026-11-14T10:36:15.266Z",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/politica/confermato-sciopero-taxi-roma-15-dicembre.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:36:15.266Z",
+        "dateEvidence": "Data 2026-11-14 nei metadati della pagina originale riletta.",
+        "reviewedBy": "Lola, rilettura della fonte originale"
+      }
+    },
+    {
+      "id": "roma-lazio-ospedali-indicazioni-sicurezza",
+      "eventKey": "lazio-ospedali-indicazioni-sicurezza",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Il Lazio invia nuove indicazioni di sicurezza alle aziende sanitarie",
+      "summary": "La Regione ha chiesto alle ASL di verificare la protezione degli impianti e di tutelare la continuità dei servizi. La Regione riferisce di non avere elementi su una minaccia imminente alle strutture.",
+      "body": [
+        "La Regione ha chiesto alle ASL di verificare la protezione degli impianti e di tutelare la continuità dei servizi. La Regione riferisce di non avere elementi su una minaccia imminente alle strutture."
+      ],
+      "publishedAt": "2026-11-14",
+      "verifiedAt": "2026-11-14T10:36:15.266Z",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/politica/attacchi-hacker-ospedali-asl-misure-sicurezza-lazio.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:36:15.266Z",
+        "dateEvidence": "Data 2026-11-14 nei metadati della pagina originale riletta.",
+        "reviewedBy": "Lola, rilettura della fonte originale"
+      }
+    }
+  ],
   "completedAt": "2026-11-14T10:33:44.793Z"
 }
