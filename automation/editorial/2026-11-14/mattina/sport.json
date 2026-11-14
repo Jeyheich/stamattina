@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-14",
+  "collectionId": "2026-11-14-mattina",
+  "category": "Sport",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-14T06:01:31Z",
+  "articles": [
+    {
+      "id": "sport-antonelli-quirinale-casco",
+      "eventKey": "antonelli-incontro-mattarella-quirinale-casco",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Mattarella riceve Antonelli al Quirinale: il pilota dona il casco",
+      "summary": "Il presidente Sergio Mattarella ha ricevuto al Quirinale il pilota Andrea Kimi Antonelli dopo il titolo mondiale di Formula 1. Antonelli ha donato un casco autografato al Capo dello Stato.",
+      "body": [
+        "Il presidente Sergio Mattarella ha ricevuto al Quirinale il pilota Andrea Kimi Antonelli dopo il titolo mondiale di Formula 1. Antonelli ha donato un casco autografato al Capo dello Stato."
+      ],
+      "publishedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14T06:01:31Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/mattarella-quirinale-antonelli-regala-casco-formula1-sport-motori-campione-mondo-automobilismo-bologna-f1-243d5b6f-8d4a-4cfc-938c-a40b1b8657e1.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T06:01:31Z",
+        "dateEvidence": "La pagina RaiNews riporta la data 13/11/2026 immediatamente sotto il titolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
