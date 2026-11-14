@@ -4,7 +4,7 @@
   "collectionId": "2026-11-14-mattina",
   "category": "Sport",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-14T06:01:31Z",
+  "lastAttemptAt": "2026-11-14T07:01:41.173Z",
   "articles": [
     {
       "id": "sport-antonelli-quirinale-casco",
@@ -24,6 +24,28 @@
         "access": "free",
         "accessCheckedAt": "2026-11-14T06:01:31Z",
         "dateEvidence": "La pagina RaiNews riporta la data 13/11/2026 immediatamente sotto il titolo.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "sport-ronaldinho-ravenna-derby",
+      "eventKey": "ronaldinho-ravenna-forli-derby-15-novembre-2026",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Ronaldinho torna in campo con il Ravenna per il derby contro il Forlì",
+      "summary": "A 46 anni Ronaldinho parteciperà al derby di Serie C tra Ravenna e Forlì del 15 novembre. L'ex Milan racconta che l'iniziativa nasce dall'amicizia con il presidente Ignazio Cipriani e dal desiderio di partecipare al progetto della squadra.",
+      "body": [
+        "Ronaldinho tornerà in campo con il Ravenna nel derby contro il Forlì, in programma domenica 15 novembre alle 17:30. Il brasiliano ha spiegato che considera questa esperienza un'occasione diversa rispetto alla carriera agonistica.",
+        "Il presidente Ignazio Cipriani descrive l'operazione come un sogno condiviso con la città e i tifosi. Ronaldinho ha ricordato anche il suo passato al Milan e il gol nel derby contro l'Inter."
+      ],
+      "publishedAt": "2026-11-14T00:20:00+01:00",
+      "verifiedAt": "2026-11-14T07:01:41.173Z",
+      "source": {
+        "name": "Sky Sport",
+        "url": "https://sport.sky.it/calcio/serie-c/2026/11/13/ronaldinho-ravenna-forli-intervista-video",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T07:01:41.173Z",
+        "dateEvidence": "Nella pagina Sky Sport compare '14 nov 2026 - 00:20' sopra il testo dell'articolo.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
