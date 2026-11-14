@@ -4,7 +4,7 @@
   "collectionId": "2026-11-14-mattina",
   "category": "Politica",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-14T05:00:55.187Z",
+  "lastAttemptAt": "2026-11-14T10:26:35Z",
   "articles": [
     {
       "id": "politica-manovra-scuola-sindacati",
@@ -24,6 +24,28 @@
         "access": "free",
         "accessCheckedAt": "2026-11-14T05:00:55.187Z",
         "dateEvidence": "La pagina Sky TG24 indica '13 nov 2026 - 18:00'.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "politica-ciro-grillo-intervista-bongiorno",
+      "eventKey": "ciro-grillo-intervista-bongiorno-processo-appello",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Ciro Grillo critica il ruolo di Bongiorno nel processo d'appello",
+      "summary": "In un'intervista a TeleNord Ciro Grillo collega, secondo una sua ricostruzione, la scelta dell'avvocata Giulia Bongiorno di assistere la parte civile alla precedente crisi del governo M5S-Lega. Grillo contesta anche il ruolo parlamentare della legale; si tratta di affermazioni dell'intervistato, non di nessi accertati.",
+      "body": [
+        "Intervistato da TeleNord, Ciro Grillo ha sostenuto che la scelta di Giulia Bongiorno di rappresentare la parte civile nel processo a suo carico sarebbe legata a vicende politiche del governo M5S-Lega. La ricostruzione è una sua ipotesi, non un fatto dimostrato.",
+        "Il processo d'appello per violenza sessuale di gruppo si svolgerà a porte chiuse e riprenderà il 10 febbraio 2027. Grillo, condannato in primo grado a otto anni, continua a dichiararsi innocente."
+      ],
+      "publishedAt": "2026-11-13T22:48:24+01:00",
+      "verifiedAt": "2026-11-14T10:26:35Z",
+      "source": {
+        "name": "Open",
+        "url": "https://www.open.online/2026/11/13/ciro-grillo-intervista-telenord-processo-vs-giulia-bongiorno-video/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:26:35Z",
+        "dateEvidence": "Data originale nella pagina acquisita: 13 novembre 2026 ore 22:48 Europe/Rome",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }

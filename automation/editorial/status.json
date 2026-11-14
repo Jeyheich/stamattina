@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-14",
-  "checkedAt": "2026-11-14T10:26:02.899Z",
+  "checkedAt": "2026-11-14T10:27:05.911Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -26,27 +26,27 @@
   "invalid": [
     {
       "slug": "politica",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T10:26:02.899Z)"
+      "reason": "politica-manovra-scuola-sindacati verifiedAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T10:27:05.911Z)"
     },
     {
       "slug": "esteri",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T10:26:02.899Z)"
+      "reason": "esteri-bild-richieste-russe-nato-finlandia verifiedAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T10:27:05.911Z)"
     },
     {
       "slug": "economia",
-      "reason": "economia-rilancio-vie-commerciali-regno-unito verifiedAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T10:26:02.899Z)"
+      "reason": "economia-rilancio-vie-commerciali-regno-unito verifiedAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T10:27:05.911Z)"
     },
     {
       "slug": "cronaca",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T10:26:02.899Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T10:27:05.911Z)"
     },
     {
       "slug": "cultura",
-      "reason": "completedAt: verifica scaduta (verifica 2026-11-14T06:14:20.000Z, controllo 2026-11-14T10:26:02.899Z)"
+      "reason": "completedAt: verifica scaduta (verifica 2026-11-14T06:14:20.000Z, controllo 2026-11-14T10:27:05.911Z)"
     },
     {
       "slug": "sport",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T07:01:41.173Z, controllo 2026-11-14T10:26:02.899Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T07:01:41.173Z, controllo 2026-11-14T10:27:05.911Z)"
     }
   ],
   "stories": [

@@ -4,7 +4,7 @@
   "collectionId": "2026-11-14-mattina",
   "category": "Esteri",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-14T05:00:55.187Z",
+  "lastAttemptAt": "2026-11-14T10:26:35Z",
   "articles": [
     {
       "id": "esteri-bild-richieste-russe-nato-finlandia",
@@ -24,6 +24,28 @@
         "access": "free",
         "accessCheckedAt": "2026-11-14T05:00:55.187Z",
         "dateEvidence": "La pagina originale RaiNews riporta '13/11/2026'.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "esteri-ucraina-formato-dublino-europa",
+      "eventKey": "ucraina-negoziati-formato-dublino-cinque-paesi",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Ucraina, cinque Paesi europei al tavolo dei negoziati",
+      "summary": "Italia, Francia, Germania, Polonia e Regno Unito parteciperanno ai colloqui sulla guerra in Ucraina insieme ai rappresentanti delle istituzioni europee. Il cosiddetto formato di Dublino sostituisce l'ipotesi di un unico negoziatore europeo.",
+      "body": [
+        "L'accordo raggiunto a Dublino prevede una delegazione composta da Italia, Francia, Germania, Polonia e Regno Unito, affiancati da Commissione e Consiglio europeo. Il gruppo dovrebbe prendere parte ai prossimi colloqui con Stati Uniti e Ucraina e, se coinvolta, la Russia.",
+        "La presidente del Consiglio Giorgia Meloni ha sostenuto la necessità di una rappresentanza europea coordinata. Il nuovo formato dovrebbe debuttare nei prossimi incontri negoziali ad Abu Dhabi."
+      ],
+      "publishedAt": "2026-11-14T10:24:57+01:00",
+      "verifiedAt": "2026-11-14T10:26:35Z",
+      "source": {
+        "name": "Open",
+        "url": "https://www.open.online/2026/11/14/ucraina-formato-dublino-negoziati-guerra-russia-italia-meloni/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:26:35Z",
+        "dateEvidence": "Pagina originale acquisita nell'archivio: 14 novembre 2026, 10:24:57 +01:00",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }

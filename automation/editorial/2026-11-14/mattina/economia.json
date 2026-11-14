@@ -3,8 +3,7 @@
   "editionDate": "2026-11-14",
   "collectionId": "2026-11-14-mattina",
   "category": "Economia",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-14T10:20:29.591Z",
+  "lastAttemptAt": "2026-11-14T10:26:52.084Z",
   "articles": [
     {
       "id": "economia-rilancio-vie-commerciali-regno-unito",
@@ -91,8 +90,31 @@
         "dateEvidence": "The Guardian indica Sat 14 Nov 2026 02.00 EST, aggiornato alle 02.02 EST.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "economia-giovani-regno-unito-ricerca-lavoro",
+      "eventKey": "guardian-otto-giovani-crisi-accesso-lavoro-uk-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Regno Unito, otto giovani raccontano le difficoltà nell'accesso al lavoro",
+      "summary": "Il Guardian segue otto persone tra i 20 e i 26 anni alle prese con rifiuti, impieghi precari e assenza di risposte alle candidature, nel contesto di una crisi occupazionale giovanile.",
+      "body": [
+        "Il progetto giornalistico documenta le esperienze di giovani con percorsi formativi diversi e le conseguenze economiche e psicologiche dell'ingresso difficile nel mercato del lavoro.",
+        "Il rapporto atteso da Alan Milburn affronterà i problemi strutturali che ostacolano occupazione e formazione. Secondo le stime citate, quasi un milione di giovani britannici non studia e non lavora."
+      ],
+      "publishedAt": "2026-11-14",
+      "verifiedAt": "2026-11-14T10:26:52.084Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/14/guardian-young-people-search-for-work",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:26:52.084Z",
+        "dateEvidence": "Articolo pubblicato il 14 novembre 2026, verificato su risultato indicizzato e dossier RSS della stessa data.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
     }
   ],
   "reserveArticles": [],
-  "reserveDraft": []
+  "reserveDraft": [],
+  "completedAt": "2026-11-14T10:26:52.084Z"
 }
