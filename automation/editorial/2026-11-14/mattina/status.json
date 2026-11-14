@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-14",
-  "checkedAt": "2026-11-14T10:19:45.202Z",
+  "checkedAt": "2026-11-14T10:20:51.591Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,9 +13,7 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [
-    "tecnologia"
-  ],
+  "completed": [],
   "inProgress": [
     {
       "slug": "roma",
@@ -26,27 +24,31 @@
   "invalid": [
     {
       "slug": "politica",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T10:19:45.202Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T10:20:51.591Z)"
     },
     {
       "slug": "esteri",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T10:19:45.202Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T10:20:51.591Z)"
     },
     {
       "slug": "economia",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T10:19:45.202Z)"
+      "reason": "economia-rilancio-vie-commerciali-regno-unito verifiedAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T10:20:51.591Z)"
     },
     {
       "slug": "cronaca",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T10:19:45.202Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T10:20:51.591Z)"
     },
     {
       "slug": "cultura",
-      "reason": "completedAt: verifica scaduta (verifica 2026-11-14T06:14:20.000Z, controllo 2026-11-14T10:19:45.202Z)"
+      "reason": "completedAt: verifica scaduta (verifica 2026-11-14T06:14:20.000Z, controllo 2026-11-14T10:20:51.591Z)"
+    },
+    {
+      "slug": "tecnologia",
+      "reason": "Il blocco completo deve contenere 5 notizie distinte"
     },
     {
       "slug": "sport",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T07:01:41.173Z, controllo 2026-11-14T10:19:45.202Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T07:01:41.173Z, controllo 2026-11-14T10:20:51.591Z)"
     }
   ],
   "stories": [
@@ -56,36 +58,6 @@
       "title": "Roma investe sei milioni per raffrescare nidi e scuole dell'infanzia",
       "eventKey": "roma-piano-raffrescamento-nidi-scuole-6-milioni",
       "pending": true
-    },
-    {
-      "id": "tecnologia-chatgpt-wallet-agenti-acquisti",
-      "category": "Tecnologia · AI",
-      "title": "ChatGPT Wallet, acquisti tramite agenti con approvazione dell'utente",
-      "eventKey": "chatgpt-wallet-pagamenti-agenti"
-    },
-    {
-      "id": "tecnologia-nasa-recupero-campioni-marte",
-      "category": "Tecnologia · AI",
-      "title": "NASA, allo studio un nuovo piano per recuperare i campioni marziani",
-      "eventKey": "nasa-psra-studio-recupero-campioni-marte"
-    },
-    {
-      "id": "tecnologia-oppo-pad-5-pro-italia",
-      "category": "Tecnologia · AI",
-      "title": "OPPO Pad 5 Pro disponibile in Italia",
-      "eventKey": "oppo-pad-5-pro-disponibilita-italia"
-    },
-    {
-      "id": "tecnologia-crazy-taxi-world-tour-india",
-      "category": "Tecnologia · AI",
-      "title": "Crazy Taxi: World Tour, l’India è la quinta mappa",
-      "eventKey": "crazy-taxi-world-tour-india"
-    },
-    {
-      "id": "tecnologia-god-of-war-sons-of-sparta-ps4",
-      "category": "Tecnologia · AI",
-      "title": "God of War: Sons of Sparta annunciato su PS4 per il 16 novembre",
-      "eventKey": "god-of-war-sons-of-sparta-ps4"
     }
   ],
   "collectionId": "2026-11-14-mattina",
@@ -139,9 +111,9 @@
       "complete": false
     },
     "tecnologia": {
-      "base": 5,
+      "base": 0,
       "reserve": 0,
-      "draft": 0,
+      "draft": 1,
       "complete": false
     },
     "sport": {
