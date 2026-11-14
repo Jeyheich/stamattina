@@ -3,7 +3,7 @@
   "editionDate": "2026-11-14",
   "collectionId": "2026-11-14-mattina",
   "category": "Roma",
-  "lastAttemptAt": "2026-11-14T10:32:34.806Z",
+  "lastAttemptAt": "2026-11-14T10:37:28.818Z",
   "articles": [
     {
       "id": "roma-raffrescamento-nidi-scuole-2026",
@@ -57,7 +57,8 @@
       "title": "Atac, Paolo Aielli assume ad interim la direzione del personale",
       "summary": "Dal 15 novembre il direttore generale Paolo Aielli subentra a Marco Stramaccioni. Il dirigente Mario Marinelli seguirà le attività operative e i rapporti con i sindacati.",
       "body": [
-        "Dal 15 novembre il direttore generale Paolo Aielli subentra a Marco Stramaccioni. Il dirigente Mario Marinelli seguirà le attività operative e i rapporti con i sindacati."
+        "Dal 15 novembre il direttore generale Paolo Aielli subentra a Marco Stramaccioni. Il dirigente Mario Marinelli seguirà le attività operative e i rapporti con i sindacati.",
+        "La municipalizzata ha comunicato l’avvicendamento con un ordine di servizio del 13 novembre e prevede una selezione per il nuovo responsabile."
       ],
       "publishedAt": "2026-11-14",
       "verifiedAt": "2026-11-14T10:32:24.053Z",
@@ -68,7 +69,19 @@
         "accessCheckedAt": "2026-11-14T10:32:24.053Z",
         "dateEvidence": "Data 2026-11-14 nei metadati della pagina originale riletta.",
         "reviewedBy": "Lola, rilettura della fonte originale"
-      }
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bus_stop_in_Rome_01.jpg",
+        "alt": "Fermata di autobus a Roma",
+        "credit": "Nicholas Gemini",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bus_stop_in_Rome_01.jpg",
+        "rights": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "reuseApproved": true,
+        "caption": "Repertorio · Una fermata degli autobus a Roma.",
+        "changes": "Originale conservato; ritaglio di visualizzazione nella scheda."
+      },
+      "leadPriority": 75
     },
     {
       "id": "roma-garbatella-olimpiadi-centri-anziani",
@@ -113,8 +126,7 @@
       }
     }
   ],
-  "reserveArticles": [],
-  "reserveDraft": [
+  "reserveArticles": [
     {
       "id": "roma-casal-bruciato-incendio-cantiere",
       "eventKey": "casal-bruciato-incendio-cantiere",
@@ -179,5 +191,6 @@
       }
     }
   ],
+  "reserveDraft": [],
   "completedAt": "2026-11-14T10:33:44.793Z"
 }

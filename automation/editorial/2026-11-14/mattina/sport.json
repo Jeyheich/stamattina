@@ -3,7 +3,7 @@
   "editionDate": "2026-11-14",
   "collectionId": "2026-11-14-mattina",
   "category": "Sport",
-  "lastAttemptAt": "2026-11-14T10:35:00.209Z",
+  "lastAttemptAt": "2026-11-14T10:37:28.121Z",
   "articles": [
     {
       "id": "sport-antonelli-quirinale-casco",
@@ -167,6 +167,48 @@
         "accessCheckedAt": "2026-11-14T10:35:00.209Z",
         "dateEvidence": "Pagina acquisita nell'archivio GitHub 14109613767, data originale 13 novembre 2026 15:39:09 +01:00",
         "reviewedBy": "Verifica del testo acquisito nell'archivio"
+      }
+    },
+    {
+      "id": "sport-antonelli-sinner-invito-gt3",
+      "eventKey": "antonelli-invita-sinner-pista-gt3-kart",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Antonelli invita Sinner a una giornata in pista su una GT3",
+      "summary": "Durante una conferenza stampa a San Marino, il pilota Kimi Antonelli ha raccontato il rapporto di amicizia con Jannik Sinner e proposto di organizzare insieme una giornata in kart o su una vettura GT3.",
+      "body": [
+        "Antonelli ha spiegato che i due sportivi sono in contatto e che vorrebbe concretizzare una giornata in pista insieme. Ha ricordato il sostegno ricevuto dal tennista dopo i successi in Formula 1. Non risulta annunciata una data per l'incontro."
+      ],
+      "publishedAt": "2026-11-12T18:18:57+01:00",
+      "verifiedAt": "2026-11-14T10:37:28.121Z",
+      "source": {
+        "name": "Leggo Sport",
+        "url": "https://www.leggo.it/sport/tennis/12_novembre_2026_sinner_applaude_antonelli_kimi_chiama_jannik_amici_veri_aspetto_pista_gt3_oggi-9886052.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:37:28.121Z",
+        "dateEvidence": "Testo originale in archivio GitHub 14109613767, 12 novembre 2026 18:18:57 +01:00",
+        "reviewedBy": "Lettura paragrafi originali archiviati"
+      }
+    },
+    {
+      "id": "sport-antonelli-tiramisu-treviso-invito",
+      "eventKey": "sindaco-treviso-invita-antonelli-tiramisu",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Il sindaco di Treviso invita Antonelli ad assaggiare il tiramisù",
+      "summary": "Mario Conte, sindaco di Treviso, ha invitato pubblicamente il pilota Kimi Antonelli ad assaggiare il tiramisù della città dopo aver visto uno spot in cui il campione mostra la propria passione per il dolce.",
+      "body": [
+        "Il sindaco Mario Conte ha pubblicato un invito rivolto al pilota, citando uno spot nel quale Antonelli aveva fatto installare un tavolino nel suo fuoristrada per mangiare tiramisù durante i viaggi. È un episodio di costume legato allo sport, non una nuova gara o un risultato agonistico."
+      ],
+      "publishedAt": "2026-11-13T09:26:42+01:00",
+      "verifiedAt": "2026-11-14T10:37:28.121Z",
+      "source": {
+        "name": "Leggo Sport",
+        "url": "https://www.leggo.it/sport/formula1/13_novembre_2026_kimi_antonelli_tiramisu_invito_sindaco_treviso-9887598.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:37:28.121Z",
+        "dateEvidence": "Testo originale in archivio GitHub 14109613767, 13 novembre 2026 09:26:42 +01:00",
+        "reviewedBy": "Lettura paragrafi originali archiviati"
       }
     }
   ],
