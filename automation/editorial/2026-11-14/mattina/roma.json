@@ -4,7 +4,7 @@
   "collectionId": "2026-11-14-mattina",
   "category": "Roma",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-14T08:44:31.329Z",
+  "lastAttemptAt": "2026-11-14T10:29:42.467Z",
   "articles": [
     {
       "id": "roma-raffrescamento-nidi-scuole-2026",
@@ -25,6 +25,28 @@
         "access": "free",
         "accessCheckedAt": "2026-11-14T08:44:31.329Z",
         "dateEvidence": "Il comunicato ufficiale Roma Capitale reca la data 13 novembre 2026 sopra il testo del piano.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-omicidio-torpignattara-novembre",
+      "eventKey": "omicidio-torpignattara-via-baracca-13-novembre-2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Torpignattara, uomo ucciso dopo una lite per denaro: indagini a Roma",
+      "summary": "Un uomo è stato ucciso nella tarda serata del 13 novembre all'incrocio tra via di Torpignattara e via Francesco Baracca. La polizia cerca l'aggressore fuggito dopo il delitto.",
+      "body": [
+        "Secondo le prime ricostruzioni, la lite sarebbe nata da una somma di circa venti euro. I soccorritori del 118 sono intervenuti sul posto, ma non hanno potuto salvare la vittima.",
+        "La dinamica e il movente restano oggetto degli accertamenti della polizia; la somma di denaro è un'ipotesi investigativa, non un movente definitivamente accertato."
+      ],
+      "publishedAt": "2026-11-14",
+      "verifiedAt": "2026-11-14T10:29:42.467Z",
+      "source": {
+        "name": "la Repubblica Roma",
+        "url": "https://roma.repubblica.it/cronaca/2026/11/14/news/omicidio_torpignattara_20_euro_roma-425722484/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:29:42.467Z",
+        "dateEvidence": "La pagina originale reca 14 Novembre 2026 alle 00:15.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
