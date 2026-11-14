@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-14",
-  "checkedAt": "2026-11-14T06:03:40.393Z",
+  "checkedAt": "2026-11-14T06:14:58.621Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,7 +13,9 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [],
+  "completed": [
+    "cultura"
+  ],
   "inProgress": [
     {
       "slug": "politica",
@@ -41,8 +43,7 @@
     }
   ],
   "missing": [
-    "roma",
-    "cultura"
+    "roma"
   ],
   "invalid": [],
   "stories": [
@@ -108,6 +109,36 @@
       "title": "Mattarella riceve Antonelli al Quirinale: il pilota dona il casco",
       "eventKey": "antonelli-incontro-mattarella-quirinale-casco",
       "pending": true
+    },
+    {
+      "id": "cultura-the-spot-prime-immagini",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "The Spot, diffuse le prime immagini della serie con Claire Danes ed Ewan McGregor",
+      "eventKey": "the-spot-prime-immagini-hulu-a24"
+    },
+    {
+      "id": "cultura-uno-sguardo-raro-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "A Roma torna il festival cinematografico Uno Sguardo Raro",
+      "eventKey": "festival-uno-sguardo-raro-roma-2026"
+    },
+    {
+      "id": "cultura-fenice-sciopero-fedora",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "La Fenice, lo sciopero fa saltare la prima di Fedora",
+      "eventKey": "fenice-sciopero-prima-fedora-novembre-2026"
+    },
+    {
+      "id": "cultura-catalogo-marta-ciappina",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Catalogo, la danza del congedo di Marta Ciappina al Romaeuropa",
+      "eventKey": "catalogo-marta-ciappina-romaeuropa-vascello"
+    },
+    {
+      "id": "cultura-la-gradiva-cinema",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "La Gradiva arriva nei cinema italiani dopo il riconoscimento a Cannes",
+      "eventKey": "film-la-gradiva-uscita-italia-novembre-2026"
     }
   ],
   "collectionId": "2026-11-14-mattina",
@@ -155,9 +186,9 @@
       "complete": false
     },
     "cultura": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
-      "draft": 0,
+      "draft": 1,
       "complete": false
     },
     "tecnologia": {
