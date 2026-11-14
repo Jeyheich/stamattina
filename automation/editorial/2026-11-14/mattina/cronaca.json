@@ -3,8 +3,7 @@
   "editionDate": "2026-11-14",
   "collectionId": "2026-11-14-mattina",
   "category": "Cronaca",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-14T10:30:47.899Z",
+  "lastAttemptAt": "2026-11-14T10:32:25.572Z",
   "articles": [
     {
       "id": "cronaca-fiorenzuola-sanzioni-pezzotto",
@@ -70,8 +69,53 @@
         "dateEvidence": "RaiNews indica 13/11/2026.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "cronaca-allarmi-bomba-circolare-viminale",
+      "eventKey": "viminale-circolare-minacce-seriali-scuole-nov2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Allarmi bomba nelle scuole, il Viminale distingue le minacce seriali dai rischi concreti",
+      "summary": "Una direttiva del ministro dell'Interno Matteo Piantedosi invita a considerare inattendibili i messaggi di minaccia manifestamente seriali, salvo elementi specifici che indichino un pericolo reale.",
+      "body": [
+        "Il documento indica ai prefetti di valutare ogni caso e di disporre misure aggiuntive se emergono oggetti sospetti, anomalie nelle riprese di sorveglianza o altri riscontri concreti.",
+        "Secondo Palazzo Chigi, nella giornata del 12 novembre le email minatorie hanno raggiunto oltre 3.700 scuole e sono state effettuate 77 evacuazioni."
+      ],
+      "publishedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14T10:32:25.572Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/maratona/2026/11/allarmi-bomba-in-oltre-cento-scuole-in-tutta-italia-mail-agli-istituti-studenti-evacuati-6fdcb91e-5ac8-48bf-85e9-8ab4fecf3e5c.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:32:25.572Z",
+        "dateEvidence": "RaiNews riporta aggiornamenti del 13 novembre 2026; la direttiva è riportata nel blocco cronologico.",
+        "reviewedBy": "Verifica ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-maltempo-allerta-emilia-romagna-novembre",
+      "eventKey": "protezione-civile-allerta-arancione-emilia-romagna-14nov2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Maltempo, allerta arancione in Emilia-Romagna e gialla in cinque regioni",
+      "summary": "Per sabato 14 novembre la Protezione civile ha diramato un'allerta arancione in settori dell'Emilia-Romagna, mentre proseguono gli interventi per frane e allagamenti in varie zone del Centro-Nord.",
+      "body": [
+        "Sono interessati dall'allerta gialla altri settori dell'Emilia-Romagna, Campania, Marche, Toscana e Umbria. Nel Perugino i vigili del fuoco hanno gestito oltre 80 richieste di intervento.",
+        "RaiNews riferisce di un miglioramento solo temporaneo, con un nuovo peggioramento atteso dal 15 novembre e un calo delle temperature."
+      ],
+      "publishedAt": "2026-11-14",
+      "verifiedAt": "2026-11-14T10:32:25.572Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/maratona/2026/11/allerta-rossa-in-toscana-liguria-emilia-romagna-arancione-toscana-7c1870f0-38f9-4c30-b115-6f124d178ce3.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:32:25.572Z",
+        "dateEvidence": "RaiNews aggiorna la diretta per la giornata di sabato 14 novembre 2026.",
+        "reviewedBy": "Verifica ChatGPT"
+      }
     }
   ],
   "reserveArticles": [],
-  "reserveDraft": []
+  "reserveDraft": [],
+  "completedAt": "2026-11-14T10:32:25.572Z"
 }

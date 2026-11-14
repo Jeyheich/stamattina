@@ -3,7 +3,6 @@
   "editionDate": "2026-11-14",
   "collectionId": "2026-11-14-mattina",
   "category": "Politica",
-  "status": "in-progress",
   "lastAttemptAt": "2026-11-14T10:31:55.050Z",
   "articles": [
     {
@@ -83,7 +82,50 @@
         "dateEvidence": "Testo originale acquisito nell'archivio riservato 14109613767: 14 novembre 2026 ore 09:15 +01:00",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "politica-istat-effetti-manovra-audizione",
+      "eventKey": "istat-effetti-manovra-audizione",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Manovra, l’Istat stima una perdita media per tre milioni di famiglie",
+      "summary": "Nelle audizioni parlamentari l’Istat ha stimato una perdita media di poco più di 200 euro per tre milioni di nuclei e un beneficio medio di circa 650 euro per altri tre milioni e mezzo.",
+      "body": [
+        "Nelle audizioni parlamentari l’Istat ha stimato una perdita media di poco più di 200 euro per tre milioni di nuclei e un beneficio medio di circa 650 euro per altri tre milioni e mezzo."
+      ],
+      "publishedAt": "2026-11-12",
+      "verifiedAt": "2026-11-14T10:33:34.834Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/manovra-coro-di-critiche-istat-perdite-per-3-milioni-di-famiglie-salsano-b81f4706-c445-4c98-b7a8-aeef489ef28f.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:33:34.834Z",
+        "dateEvidence": "Data 2026-11-12 nei metadati della pagina originale riletta.",
+        "reviewedBy": "Lola, rilettura della fonte originale"
+      }
+    },
+    {
+      "id": "politica-tajani-camera-minacce-informatiche",
+      "eventKey": "tajani-camera-minacce-informatiche",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Tajani denuncia nuove intimidazioni informatiche alla Camera",
+      "summary": "Al Question Time il ministro degli Esteri ha riferito di nuove intimidazioni che, secondo il suo racconto, hanno coinvolto anche familiari minorenni.",
+      "body": [
+        "Al Question Time il ministro degli Esteri ha riferito di nuove intimidazioni che, secondo il suo racconto, hanno coinvolto anche familiari minorenni."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-14T10:33:34.834Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/tajani-denuncia-nuove-minacce-hacker-intimidita-anche-la-mia-famiglia-compresi-i-minori-85e7c1c5-ed9a-4506-b28e-abdd1c1659b5.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:33:34.834Z",
+        "dateEvidence": "Data 2026-11-11 nei metadati della pagina originale riletta.",
+        "reviewedBy": "Lola, rilettura della fonte originale"
+      }
     }
   ],
-  "reserveArticles": []
+  "reserveArticles": [],
+  "completedAt": "2026-11-14T10:33:34.834Z"
 }

@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-14",
-  "checkedAt": "2026-11-14T10:32:19.764Z",
+  "checkedAt": "2026-11-14T10:33:43.355Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,125 +13,82 @@
     "sport"
   ],
   "completed": [
+    "politica",
+    "esteri",
     "economia",
+    "cronaca",
     "cultura",
-    "tecnologia"
+    "tecnologia",
+    "sport"
   ],
-  "inProgress": [
-    {
-      "slug": "politica",
-      "count": 3
-    },
-    {
-      "slug": "esteri",
-      "count": 2
-    },
-    {
-      "slug": "cronaca",
-      "count": 3
-    },
+  "inProgress": [],
+  "missing": [],
+  "invalid": [
     {
       "slug": "roma",
-      "count": 2
-    },
-    {
-      "slug": "sport",
-      "count": 3
+      "reason": "Il blocco completo deve contenere 5 notizie distinte"
     }
   ],
-  "missing": [],
-  "invalid": [],
   "stories": [
     {
       "id": "politica-manovra-scuola-sindacati",
       "category": "Politica",
       "title": "Manovra, il governo annuncia il ritiro della misura sui tagli scolastici",
-      "eventKey": "manovra-2027-ritiro-tagli-organici-scuola",
-      "pending": true
+      "eventKey": "manovra-2027-ritiro-tagli-organici-scuola"
     },
     {
       "id": "politica-ciro-grillo-intervista-bongiorno",
       "category": "Politica",
       "title": "Ciro Grillo critica il ruolo di Bongiorno nel processo d'appello",
-      "eventKey": "ciro-grillo-intervista-bongiorno-processo-appello",
-      "pending": true
+      "eventKey": "ciro-grillo-intervista-bongiorno-processo-appello"
     },
     {
       "id": "politica-sindacati-sciopero-manovra-2027",
       "category": "Politica",
       "title": "Manovra 2027, sindacati verso lo sciopero generale",
-      "eventKey": "sindacati-sciopero-generale-manovra-2027-14nov",
-      "pending": true
+      "eventKey": "sindacati-sciopero-generale-manovra-2027-14nov"
+    },
+    {
+      "id": "politica-istat-effetti-manovra-audizione",
+      "category": "Politica",
+      "title": "Manovra, l’Istat stima una perdita media per tre milioni di famiglie",
+      "eventKey": "istat-effetti-manovra-audizione"
+    },
+    {
+      "id": "politica-tajani-camera-minacce-informatiche",
+      "category": "Politica",
+      "title": "Tajani denuncia nuove intimidazioni informatiche alla Camera",
+      "eventKey": "tajani-camera-minacce-informatiche"
     },
     {
       "id": "esteri-bild-richieste-russe-nato-finlandia",
       "category": "Esteri",
       "title": "Negoziati sull'Ucraina, Bild riferisce le richieste russe su Donbass e NATO",
-      "eventKey": "bild-richieste-russe-donbass-finlandia-nato",
-      "pending": true
+      "eventKey": "bild-richieste-russe-donbass-finlandia-nato"
     },
     {
       "id": "esteri-ucraina-formato-dublino-europa",
       "category": "Esteri",
       "title": "Ucraina, cinque Paesi europei al tavolo dei negoziati",
-      "eventKey": "ucraina-negoziati-formato-dublino-cinque-paesi",
-      "pending": true
+      "eventKey": "ucraina-negoziati-formato-dublino-cinque-paesi"
     },
     {
-      "id": "cronaca-fiorenzuola-sanzioni-pezzotto",
-      "category": "Cronaca",
-      "title": "Pirateria televisiva, sei persone sanzionate nel Piacentino",
-      "eventKey": "fiorenzuola-sei-sanzionati-pirateria-streaming",
-      "pending": true
+      "id": "esteri-faa-revoca-blocco-decolli-usa",
+      "category": "Esteri",
+      "title": "La FAA revoca il blocco nazionale dei decolli negli Stati Uniti",
+      "eventKey": "faa-revoca-blocco-decolli-usa"
     },
     {
-      "id": "cronaca-operazione-polizia-postale-nove-regioni",
-      "category": "Cronaca",
-      "title": "Sfruttamento minorile online, sei arresti e 18 indagati in nove regioni",
-      "eventKey": "polizia-postale-sei-arresti-18-indagati-nove-regioni-nov2026",
-      "pending": true
+      "id": "esteri-papa-leone-chiclayo-peru",
+      "category": "Esteri",
+      "title": "Papa Leone torna a Chiclayo durante la visita in Perù",
+      "eventKey": "papa-leone-chiclayo-peru"
     },
     {
-      "id": "cronaca-famiglia-bosco-appello-respinto",
-      "category": "Cronaca",
-      "title": "Famiglia nel bosco, respinto il ricorso sul rientro immediato dei figli",
-      "eventKey": "famiglia-bosco-corte-appello-laquila-ricorso-rigettato-nov2026",
-      "pending": true
-    },
-    {
-      "id": "roma-raffrescamento-nidi-scuole-2026",
-      "category": "Roma",
-      "title": "Roma investe sei milioni per raffrescare nidi e scuole dell'infanzia",
-      "eventKey": "roma-piano-raffrescamento-nidi-scuole-6-milioni",
-      "pending": true
-    },
-    {
-      "id": "roma-omicidio-torpignattara-novembre",
-      "category": "Roma",
-      "title": "Torpignattara, uomo ucciso dopo una lite per denaro: indagini a Roma",
-      "eventKey": "omicidio-torpignattara-via-baracca-13-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "sport-antonelli-quirinale-casco",
-      "category": "Sport",
-      "title": "Mattarella riceve Antonelli al Quirinale: il pilota dona il casco",
-      "eventKey": "antonelli-incontro-mattarella-quirinale-casco",
-      "pending": true
-    },
-    {
-      "id": "sport-ronaldinho-ravenna-derby",
-      "category": "Sport",
-      "title": "Ronaldinho torna in campo con il Ravenna per il derby contro il Forlì",
-      "eventKey": "ronaldinho-ravenna-forli-derby-15-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "sport-atp-finals-torino-cobolli-medvedev",
-      "category": "Sport",
-      "title": "ATP Finals a Torino, Cobolli debutta contro Medvedev",
-      "eventKey": "atp-finals-2026-torino-calendario-cobolli-medvedev",
-      "pending": true
+      "id": "esteri-mississippi-scontro-new-orleans-navi",
+      "category": "Esteri",
+      "title": "Una petroliera urta un battello turistico a New Orleans",
+      "eventKey": "mississippi-scontro-new-orleans-navi"
     },
     {
       "id": "economia-rilancio-vie-commerciali-regno-unito",
@@ -162,6 +119,36 @@
       "category": "Economia",
       "title": "Regno Unito, otto giovani raccontano le difficoltà nell'accesso al lavoro",
       "eventKey": "guardian-otto-giovani-crisi-accesso-lavoro-uk-2026"
+    },
+    {
+      "id": "cronaca-fiorenzuola-sanzioni-pezzotto",
+      "category": "Cronaca",
+      "title": "Pirateria televisiva, sei persone sanzionate nel Piacentino",
+      "eventKey": "fiorenzuola-sei-sanzionati-pirateria-streaming"
+    },
+    {
+      "id": "cronaca-operazione-polizia-postale-nove-regioni",
+      "category": "Cronaca",
+      "title": "Sfruttamento minorile online, sei arresti e 18 indagati in nove regioni",
+      "eventKey": "polizia-postale-sei-arresti-18-indagati-nove-regioni-nov2026"
+    },
+    {
+      "id": "cronaca-famiglia-bosco-appello-respinto",
+      "category": "Cronaca",
+      "title": "Famiglia nel bosco, respinto il ricorso sul rientro immediato dei figli",
+      "eventKey": "famiglia-bosco-corte-appello-laquila-ricorso-rigettato-nov2026"
+    },
+    {
+      "id": "cronaca-allarmi-bomba-circolare-viminale",
+      "category": "Cronaca",
+      "title": "Allarmi bomba nelle scuole, il Viminale distingue le minacce seriali dai rischi concreti",
+      "eventKey": "viminale-circolare-minacce-seriali-scuole-nov2026"
+    },
+    {
+      "id": "cronaca-maltempo-allerta-emilia-romagna-novembre",
+      "category": "Cronaca",
+      "title": "Maltempo, allerta arancione in Emilia-Romagna e gialla in cinque regioni",
+      "eventKey": "protezione-civile-allerta-arancione-emilia-romagna-14nov2026"
     },
     {
       "id": "cultura-the-spot-prime-immagini",
@@ -224,6 +211,36 @@
       "eventKey": "god-of-war-sons-of-sparta-ps4"
     },
     {
+      "id": "sport-antonelli-quirinale-casco",
+      "category": "Sport",
+      "title": "Mattarella riceve Antonelli al Quirinale: il pilota dona il casco",
+      "eventKey": "antonelli-incontro-mattarella-quirinale-casco"
+    },
+    {
+      "id": "sport-ronaldinho-ravenna-derby",
+      "category": "Sport",
+      "title": "Ronaldinho torna in campo con il Ravenna per il derby contro il Forlì",
+      "eventKey": "ronaldinho-ravenna-forli-derby-15-novembre-2026"
+    },
+    {
+      "id": "sport-atp-finals-torino-cobolli-medvedev",
+      "category": "Sport",
+      "title": "ATP Finals a Torino, Cobolli debutta contro Medvedev",
+      "eventKey": "atp-finals-2026-torino-calendario-cobolli-medvedev"
+    },
+    {
+      "id": "sport-italia-francia-nations-league-3-1",
+      "category": "Sport",
+      "title": "Nations League, Italia batte la Francia 3-1 a San Siro",
+      "eventKey": "italia-francia-nations-league-3-1"
+    },
+    {
+      "id": "sport-sinner-rientro-recupero-tonsille",
+      "category": "Sport",
+      "title": "Sinner racconta il recupero dopo l’operazione alle tonsille",
+      "eventKey": "sinner-rientro-recupero-tonsille"
+    },
+    {
       "id": "cultura-catalysi-residenze-2027",
       "category": "Cultura · Teatro · Cinema",
       "title": "Societas apre due residenze teatrali per Catalysi 2027",
@@ -265,17 +282,23 @@
     "Tecnologia · AI": 0,
     "Sport": 0
   },
-  "photoCandidates": [],
-  "photosAvailable": 0,
+  "photoCandidates": [
+    {
+      "id": "politica-manovra-scuola-sindacati",
+      "category": "Politica",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PalazzoChigi.jpeg"
+    }
+  ],
+  "photosAvailable": 1,
   "categoryProgress": {
     "politica": {
-      "base": 3,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "esteri": {
-      "base": 2,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
@@ -287,13 +310,13 @@
       "complete": false
     },
     "cronaca": {
-      "base": 3,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "roma": {
-      "base": 2,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
@@ -311,7 +334,7 @@
       "complete": false
     },
     "sport": {
-      "base": 3,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
