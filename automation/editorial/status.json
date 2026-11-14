@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-14",
-  "checkedAt": "2026-11-14T10:30:00.921Z",
+  "checkedAt": "2026-11-14T10:31:34.864Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -27,21 +27,20 @@
       "count": 2
     },
     {
+      "slug": "cronaca",
+      "count": 3
+    },
+    {
       "slug": "roma",
       "count": 2
-    }
-  ],
-  "missing": [],
-  "invalid": [
-    {
-      "slug": "cronaca",
-      "reason": "cronaca-fiorenzuola-sanzioni-pezzotto verifiedAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T10:30:00.921Z)"
     },
     {
       "slug": "sport",
-      "reason": "sport-antonelli-quirinale-casco verifiedAt: verifica scaduta (verifica 2026-11-14T06:01:31.000Z, controllo 2026-11-14T10:30:00.921Z)"
+      "count": 3
     }
   ],
+  "missing": [],
+  "invalid": [],
   "stories": [
     {
       "id": "politica-manovra-scuola-sindacati",
@@ -72,6 +71,27 @@
       "pending": true
     },
     {
+      "id": "cronaca-fiorenzuola-sanzioni-pezzotto",
+      "category": "Cronaca",
+      "title": "Pirateria televisiva, sei persone sanzionate nel Piacentino",
+      "eventKey": "fiorenzuola-sei-sanzionati-pirateria-streaming",
+      "pending": true
+    },
+    {
+      "id": "cronaca-operazione-polizia-postale-nove-regioni",
+      "category": "Cronaca",
+      "title": "Sfruttamento minorile online, sei arresti e 18 indagati in nove regioni",
+      "eventKey": "polizia-postale-sei-arresti-18-indagati-nove-regioni-nov2026",
+      "pending": true
+    },
+    {
+      "id": "cronaca-famiglia-bosco-appello-respinto",
+      "category": "Cronaca",
+      "title": "Famiglia nel bosco, respinto il ricorso sul rientro immediato dei figli",
+      "eventKey": "famiglia-bosco-corte-appello-laquila-ricorso-rigettato-nov2026",
+      "pending": true
+    },
+    {
       "id": "roma-raffrescamento-nidi-scuole-2026",
       "category": "Roma",
       "title": "Roma investe sei milioni per raffrescare nidi e scuole dell'infanzia",
@@ -83,6 +103,27 @@
       "category": "Roma",
       "title": "Torpignattara, uomo ucciso dopo una lite per denaro: indagini a Roma",
       "eventKey": "omicidio-torpignattara-via-baracca-13-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "sport-antonelli-quirinale-casco",
+      "category": "Sport",
+      "title": "Mattarella riceve Antonelli al Quirinale: il pilota dona il casco",
+      "eventKey": "antonelli-incontro-mattarella-quirinale-casco",
+      "pending": true
+    },
+    {
+      "id": "sport-ronaldinho-ravenna-derby",
+      "category": "Sport",
+      "title": "Ronaldinho torna in campo con il Ravenna per il derby contro il Forlì",
+      "eventKey": "ronaldinho-ravenna-forli-derby-15-novembre-2026",
+      "pending": true
+    },
+    {
+      "id": "sport-atp-finals-torino-cobolli-medvedev",
+      "category": "Sport",
+      "title": "ATP Finals a Torino, Cobolli debutta contro Medvedev",
+      "eventKey": "atp-finals-2026-torino-calendario-cobolli-medvedev",
       "pending": true
     },
     {
@@ -239,7 +280,7 @@
       "complete": false
     },
     "cronaca": {
-      "base": 0,
+      "base": 3,
       "reserve": 0,
       "draft": 0,
       "complete": false
@@ -263,7 +304,7 @@
       "complete": false
     },
     "sport": {
-      "base": 0,
+      "base": 3,
       "reserve": 0,
       "draft": 0,
       "complete": false
