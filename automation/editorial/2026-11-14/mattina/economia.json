@@ -3,7 +3,7 @@
   "editionDate": "2026-11-14",
   "collectionId": "2026-11-14-mattina",
   "category": "Economia",
-  "lastAttemptAt": "2026-11-14T10:26:52.084Z",
+  "lastAttemptAt": "2026-11-14T10:34:59.197Z",
   "articles": [
     {
       "id": "economia-rilancio-vie-commerciali-regno-unito",
@@ -115,6 +115,29 @@
     }
   ],
   "reserveArticles": [],
-  "reserveDraft": [],
+  "reserveDraft": [
+    {
+      "id": "economia-salmone-scozia-certificazione-soil-association",
+      "eventKey": "soil-association-ritira-marchio-salmone-organico-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Salmone scozzese, Soil Association ritira la certificazione biologica",
+      "summary": "Dopo vent'anni Soil Association ha deciso di ritirare il proprio marchio al salmone d'allevamento, contestando risultati insufficienti sul benessere animale e sull'ambiente.",
+      "body": [
+        "Il settore britannico del salmone allevato vale circa un miliardo di sterline l'anno e produce circa 205.000 tonnellate, secondo il Guardian. La scelta dell'ente certificatore riapre il dibattito sulla sostenibilità economica e ambientale della filiera.",
+        "L'associazione di settore Salmon Scotland precisa che la decisione riguarda il marchio Soil Association e non equivale alla perdita della certificazione biologica prevista dalle autorità britanniche."
+      ],
+      "publishedAt": "2026-11-14",
+      "verifiedAt": "2026-11-14T10:34:59.197Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/environment/2026/nov/14/salmon-organic-british-farmed-environmental-welfare",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:34:59.197Z",
+        "dateEvidence": "La pagina originale indica Sat 14 Nov 2026 01.00 EST.",
+        "reviewedBy": "ChatGPT, fonte originale letta"
+      }
+    }
+  ],
   "completedAt": "2026-11-14T10:28:00.368Z"
 }
