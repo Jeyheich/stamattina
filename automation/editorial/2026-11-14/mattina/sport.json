@@ -3,7 +3,6 @@
   "editionDate": "2026-11-14",
   "collectionId": "2026-11-14-mattina",
   "category": "Sport",
-  "status": "in-progress",
   "lastAttemptAt": "2026-11-14T10:30:35.345Z",
   "articles": [
     {
@@ -70,8 +69,51 @@
         "dateEvidence": "Testo integrale acquisito nell'archivio GitHub 14109613767, data pagina 13 novembre 2026 ore 17:38:52 +0100",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "sport-italia-francia-nations-league-3-1",
+      "eventKey": "italia-francia-nations-league-3-1",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Nations League, Italia batte la Francia 3-1 a San Siro",
+      "summary": "Pio Esposito ha segnato due volte e Davide Frattesi ha firmato l’altro gol azzurro dopo il vantaggio francese di Michael Olise. L’Italia raggiunge la Francia a dieci punti.",
+      "body": [
+        "Pio Esposito ha segnato due volte e Davide Frattesi ha firmato l’altro gol azzurro dopo il vantaggio francese di Michael Olise. L’Italia raggiunge la Francia a dieci punti."
+      ],
+      "publishedAt": "2026-11-12",
+      "verifiedAt": "2026-11-14T10:32:25.954Z",
+      "source": {
+        "name": "Leggo Sport",
+        "url": "https://www.leggo.it/sport/calcio/12_novembre_2026_italia_francia_3_1_pagelle_azzurri_nations_league_oggi-9886265.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:32:25.954Z",
+        "dateEvidence": "Data 2026-11-12 nei metadati della pagina originale riletta.",
+        "reviewedBy": "Lola, rilettura della fonte originale"
+      }
+    },
+    {
+      "id": "sport-sinner-rientro-recupero-tonsille",
+      "eventKey": "sinner-rientro-recupero-tonsille",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Sinner racconta il recupero dopo l’operazione alle tonsille",
+      "summary": "Nel terzo episodio della sua serie video, Jannik Sinner ha raccontato di aver perso peso dopo l’intervento e di stare lavorando per recuperare massa muscolare.",
+      "body": [
+        "Nel terzo episodio della sua serie video, Jannik Sinner ha raccontato di aver perso peso dopo l’intervento e di stare lavorando per recuperare massa muscolare."
+      ],
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-14T10:32:25.954Z",
+      "source": {
+        "name": "Leggo Sport",
+        "url": "https://www.leggo.it/schede/11_novembre_2026_sinner_operato_tonsille_dimagrito_allenamento_massa_spero_decisione_giusta_come_sta_veramente_jannik-9883906.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:32:25.954Z",
+        "dateEvidence": "Data 2026-11-11 nei metadati della pagina originale riletta.",
+        "reviewedBy": "Lola, rilettura della fonte originale"
+      }
     }
   ],
   "reserveArticles": [],
-  "reserveDraft": []
+  "reserveDraft": [],
+  "completedAt": "2026-11-14T10:32:25.954Z"
 }
