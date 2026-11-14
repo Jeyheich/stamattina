@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-14",
-  "checkedAt": "2026-11-14T08:46:24.197Z",
+  "checkedAt": "2026-11-14T09:28:52.607Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -9,43 +9,46 @@
     "economia",
     "cronaca",
     "roma",
+    "cultura",
     "tecnologia",
     "sport"
   ],
-  "completed": [
-    "cultura"
-  ],
+  "completed": [],
   "inProgress": [
     {
       "slug": "roma",
       "count": 1
-    },
-    {
-      "slug": "tecnologia",
-      "count": 3
-    },
-    {
-      "slug": "sport",
-      "count": 2
     }
   ],
   "missing": [],
   "invalid": [
     {
       "slug": "politica",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T08:46:24.197Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T09:28:52.607Z)"
     },
     {
       "slug": "esteri",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T08:46:24.197Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T09:28:52.607Z)"
     },
     {
       "slug": "economia",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T08:46:24.197Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T09:28:52.607Z)"
     },
     {
       "slug": "cronaca",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T08:46:24.197Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T09:28:52.607Z)"
+    },
+    {
+      "slug": "cultura",
+      "reason": "completedAt: verifica scaduta (verifica 2026-11-14T06:14:20.000Z, controllo 2026-11-14T09:28:52.607Z)"
+    },
+    {
+      "slug": "tecnologia",
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T06:01:31.000Z, controllo 2026-11-14T09:28:52.607Z)"
+    },
+    {
+      "slug": "sport",
+      "reason": "sport-antonelli-quirinale-casco verifiedAt: verifica scaduta (verifica 2026-11-14T06:01:31.000Z, controllo 2026-11-14T09:28:52.607Z)"
     }
   ],
   "stories": [
@@ -55,101 +58,6 @@
       "title": "Roma investe sei milioni per raffrescare nidi e scuole dell'infanzia",
       "eventKey": "roma-piano-raffrescamento-nidi-scuole-6-milioni",
       "pending": true
-    },
-    {
-      "id": "tecnologia-chatgpt-wallet-agenti-acquisti",
-      "category": "Tecnologia · AI",
-      "title": "ChatGPT Wallet, acquisti tramite agenti con approvazione dell'utente",
-      "eventKey": "chatgpt-wallet-pagamenti-agenti",
-      "pending": true
-    },
-    {
-      "id": "tecnologia-nasa-recupero-campioni-marte",
-      "category": "Tecnologia · AI",
-      "title": "NASA, allo studio un nuovo piano per recuperare i campioni marziani",
-      "eventKey": "nasa-psra-studio-recupero-campioni-marte",
-      "pending": true
-    },
-    {
-      "id": "tecnologia-oppo-pad-5-pro-italia",
-      "category": "Tecnologia · AI",
-      "title": "OPPO Pad 5 Pro disponibile in Italia",
-      "eventKey": "oppo-pad-5-pro-disponibilita-italia",
-      "pending": true
-    },
-    {
-      "id": "sport-antonelli-quirinale-casco",
-      "category": "Sport",
-      "title": "Mattarella riceve Antonelli al Quirinale: il pilota dona il casco",
-      "eventKey": "antonelli-incontro-mattarella-quirinale-casco",
-      "pending": true
-    },
-    {
-      "id": "sport-ronaldinho-ravenna-derby",
-      "category": "Sport",
-      "title": "Ronaldinho torna in campo con il Ravenna per il derby contro il Forlì",
-      "eventKey": "ronaldinho-ravenna-forli-derby-15-novembre-2026",
-      "pending": true
-    },
-    {
-      "id": "cultura-the-spot-prime-immagini",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "The Spot, diffuse le prime immagini della serie con Claire Danes ed Ewan McGregor",
-      "eventKey": "the-spot-prime-immagini-hulu-a24"
-    },
-    {
-      "id": "cultura-uno-sguardo-raro-2026",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "A Roma torna il festival cinematografico Uno Sguardo Raro",
-      "eventKey": "festival-uno-sguardo-raro-roma-2026"
-    },
-    {
-      "id": "cultura-fenice-sciopero-fedora",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "La Fenice, lo sciopero fa saltare la prima di Fedora",
-      "eventKey": "fenice-sciopero-prima-fedora-novembre-2026"
-    },
-    {
-      "id": "cultura-catalogo-marta-ciappina",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Catalogo, la danza del congedo di Marta Ciappina al Romaeuropa",
-      "eventKey": "catalogo-marta-ciappina-romaeuropa-vascello"
-    },
-    {
-      "id": "cultura-la-gradiva-cinema",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "La Gradiva arriva nei cinema italiani dopo il riconoscimento a Cannes",
-      "eventKey": "film-la-gradiva-uscita-italia-novembre-2026"
-    },
-    {
-      "id": "cultura-catalysi-residenze-2027",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Societas apre due residenze teatrali per Catalysi 2027",
-      "eventKey": "societas-catalysi-residenze-cesena-2027"
-    },
-    {
-      "id": "cultura-sanguara-teaser",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Sanguara, presentato il teaser del film horror girato nei Simbruini",
-      "eventKey": "sanguara-teaser-folk-horror-simbruini"
-    },
-    {
-      "id": "cultura-altra-scena-selezione",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Altra Scena cerca una figura amministrativa per produzioni e tournée",
-      "eventKey": "altra-scena-ricerca-amministrazione-produzioni-roma"
-    },
-    {
-      "id": "cultura-cirklabo-call-2028",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Cirklabo apre un bando per nuovi progetti di circo contemporaneo",
-      "eventKey": "cirklabo-lovanio-open-call-circo-2028"
-    },
-    {
-      "id": "cultura-piccolo-opera-festival-selezione-2027",
-      "category": "Cultura · Teatro · Cinema",
-      "title": "Piccolo Opera Festival cerca un responsabile di produzione per il 2027",
-      "eventKey": "piccolo-opera-festival-responsabile-produzione-2027"
     }
   ],
   "collectionId": "2026-11-14-mattina",
@@ -159,7 +67,7 @@
     "Economia": 0,
     "Cronaca": 0,
     "Roma": 0,
-    "Cultura · Teatro · Cinema": 5,
+    "Cultura · Teatro · Cinema": 0,
     "Tecnologia · AI": 0,
     "Sport": 0
   },
@@ -197,19 +105,19 @@
       "complete": false
     },
     "cultura": {
-      "base": 5,
-      "reserve": 5,
+      "base": 0,
+      "reserve": 0,
       "draft": 0,
-      "complete": true
+      "complete": false
     },
     "tecnologia": {
-      "base": 3,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "sport": {
-      "base": 2,
+      "base": 0,
       "reserve": 0,
       "draft": 0,
       "complete": false
