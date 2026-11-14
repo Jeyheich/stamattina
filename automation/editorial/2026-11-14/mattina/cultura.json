@@ -111,5 +111,29 @@
       }
     }
   ],
-  "reserveArticles": []
+  "reserveArticles": [],
+  "reserveDraft": [
+    {
+      "id": "cultura-catalysi-residenze-2027",
+      "eventKey": "societas-catalysi-residenze-cesena-2027",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Societas apre due residenze teatrali per Catalysi 2027",
+      "summary": "Il Teatro Comandini di Cesena ospiterà due periodi di ricerca scenica tra febbraio e marzo 2027. Le candidature, aperte anche senza curriculum, scadono il 4 dicembre 2026.",
+      "body": [
+        "Societas selezionerà artisti e compagnie per due residenze di ricerca al Teatro Comandini, con assistenza tecnica e organizzativa. Le proposte devono arrivare entro il 4 dicembre."
+      ],
+      "publishedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14T06:16:00Z",
+      "source": {
+        "name": "Teatro e Critica",
+        "url": "https://www.teatroecritica.net/2026/11/catalysi-2027-societas-apre-due-residenze-artistiche-al-teatro-comandini-di-cesena/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T06:16:00Z",
+        "dateEvidence": "La pagina Teatro e Critica reca la data 13 Novembre 2026.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "lastAttemptAt": "2026-11-14T06:16:00Z"
 }
