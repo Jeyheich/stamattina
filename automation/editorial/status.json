@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-14",
-  "checkedAt": "2026-11-14T10:28:36.431Z",
+  "checkedAt": "2026-11-14T10:29:14.487Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -35,11 +35,11 @@
   "invalid": [
     {
       "slug": "cronaca",
-      "reason": "cronaca-fiorenzuola-sanzioni-pezzotto verifiedAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T10:28:36.431Z)"
+      "reason": "cronaca-fiorenzuola-sanzioni-pezzotto verifiedAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T10:29:14.487Z)"
     },
     {
       "slug": "sport",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T07:01:41.173Z, controllo 2026-11-14T10:28:36.431Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T07:01:41.173Z, controllo 2026-11-14T10:29:14.487Z)"
     }
   ],
   "stories": [
