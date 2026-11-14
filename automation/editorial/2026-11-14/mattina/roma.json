@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-14",
+  "collectionId": "2026-11-14-mattina",
+  "category": "Roma",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-14T08:44:31.329Z",
+  "articles": [
+    {
+      "id": "roma-raffrescamento-nidi-scuole-2026",
+      "eventKey": "roma-piano-raffrescamento-nidi-scuole-6-milioni",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Roma investe sei milioni per raffrescare nidi e scuole dell'infanzia",
+      "summary": "La Giunta capitolina ha approvato il progetto per installare impianti di raffrescamento nei nidi comunali e nelle scuole dell'infanzia, con interventi distribuiti nei quindici municipi.",
+      "body": [
+        "Il piano segue una prima fase da 1,5 milioni di euro che ha coinvolto 87 nidi. La nuova fase dispone di sei milioni di euro e prevede gare suddivise in tre lotti, con sopralluoghi da dicembre e gran parte degli interventi da completare prima dell'estate 2027.",
+        "I sistemi a pompa di calore ad alta efficienza potranno essere utilizzati anche per il riscaldamento. Il Comune punta a migliorare il comfort di bambini e personale e a ridurre i consumi energetici."
+      ],
+      "publishedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14T08:44:31.329Z",
+      "source": {
+        "name": "Roma Capitale",
+        "url": "https://www.comune.roma.it/web/it/notizia/scuole-parte-piano-nuovi-impianti-raffrescamento.page",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T08:44:31.329Z",
+        "dateEvidence": "Il comunicato ufficiale Roma Capitale reca la data 13 novembre 2026 sopra il testo del piano.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
