@@ -3,8 +3,8 @@
   "editionDate": "2026-11-14",
   "collectionId": "2026-11-14-mattina",
   "category": "Tecnologia · AI",
-  "status": "in-progress",
-  "lastAttemptAt": "2026-11-14T06:01:31Z",
+  "status": "complete",
+  "lastAttemptAt": "2026-11-14T09:30:38.060Z",
   "articles": [
     {
       "id": "tecnologia-chatgpt-wallet-agenti-acquisti",
@@ -17,14 +17,14 @@
         "Punto Informatico descrive ChatGPT Wallet, pensato per permettere agli agenti AI di effettuare acquisti con approvazione biometrica dell'utente. Il lancio iniziale è indicato negli Stati Uniti per gli abbonati Pro."
       ],
       "publishedAt": "2026-11-13",
-      "verifiedAt": "2026-11-14T06:01:31Z",
+      "verifiedAt": "2026-11-14T09:30:38.060Z",
       "source": {
         "name": "Punto Informatico",
         "url": "https://www.punto-informatico.it/chatgpt-wallet-agenti-ai-effettuano-acquisti/",
         "access": "free",
-        "accessCheckedAt": "2026-11-14T06:01:31Z",
+        "accessCheckedAt": "2026-11-14T09:30:38.060Z",
         "dateEvidence": "La pagina originale consultata mostra la dicitura 'Pubblicato il 13 nov 2026'.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
+        "reviewedBy": "Lola, lettura diretta della pagina originale"
       }
     },
     {
@@ -38,14 +38,14 @@
         "La NASA valuta una nuova architettura per recuperare i campioni raccolti da Perseverance, cercando di ridurre costi e tempi. I lavori sono previsti dal gennaio 2027, con un rapporto entro il 2027 o l'inizio del 2028."
       ],
       "publishedAt": "2026-11-13",
-      "verifiedAt": "2026-11-14T06:01:31Z",
+      "verifiedAt": "2026-11-14T09:30:38.060Z",
       "source": {
         "name": "Punto Informatico",
         "url": "https://www.punto-informatico.it/nuova-soluzione-raccogliere-campioni-marte/",
         "access": "free",
-        "accessCheckedAt": "2026-11-14T06:01:31Z",
+        "accessCheckedAt": "2026-11-14T09:30:38.060Z",
         "dateEvidence": "La pagina originale consultata mostra la dicitura 'Pubblicato il 13 nov 2026'.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
+        "reviewedBy": "Lola, lettura diretta della pagina originale"
       }
     },
     {
@@ -59,14 +59,56 @@
         "OPPO ha annunciato la disponibilità italiana del Pad 5 Pro, tablet da 13,2 pollici con Snapdragon 8 Elite Gen 5, 8 GB di RAM e Android 16. Il prezzo indicato è 799,99 euro."
       ],
       "publishedAt": "2026-11-13",
-      "verifiedAt": "2026-11-14T06:01:31Z",
+      "verifiedAt": "2026-11-14T09:30:38.060Z",
       "source": {
         "name": "Punto Informatico",
         "url": "https://www.punto-informatico.it/oppo-pad-5-pro-produttivita-creativita-intrattenimento/",
         "access": "free",
-        "accessCheckedAt": "2026-11-14T06:01:31Z",
+        "accessCheckedAt": "2026-11-14T09:30:38.060Z",
         "dateEvidence": "La pagina originale consultata mostra la dicitura 'Pubblicato il 13 nov 2026'.",
-        "reviewedBy": "Verifica automatizzata ChatGPT"
+        "reviewedBy": "Lola, lettura diretta della pagina originale"
+      }
+    },
+    {
+      "id": "tecnologia-crazy-taxi-world-tour-india",
+      "eventKey": "crazy-taxi-world-tour-india",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Crazy Taxi: World Tour, l’India è la quinta mappa",
+      "summary": "La quinta mappa di Crazy Taxi: World Tour è ambientata in India. IGN Italia descrive tre aree giocabili, dedicate alla città, alla campagna e alla zona industriale.",
+      "body": [
+        "La quinta mappa di Crazy Taxi: World Tour è ambientata in India. IGN Italia descrive tre aree giocabili, dedicate alla città, alla campagna e alla zona industriale."
+      ],
+      "publishedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14T09:30:38.060Z",
+      "source": {
+        "name": "IGN Italia",
+        "url": "https://it.ign.com/crazy-taxi-world-tour/229205/crazy-taxi-world-tour-svelata-la-mappa-finale",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T09:30:38.060Z",
+        "dateEvidence": "Data di pubblicazione del 13 novembre 2026 nei metadati della pagina originale, letta direttamente.",
+        "reviewedBy": "Lola, lettura diretta della pagina originale"
+      }
+    },
+    {
+      "id": "tecnologia-god-of-war-sons-of-sparta-ps4",
+      "eventKey": "god-of-war-sons-of-sparta-ps4",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "God of War: Sons of Sparta annunciato su PS4 per il 16 novembre",
+      "summary": "Sony e gli sviluppatori hanno annunciato la versione PS4 per il 16 novembre. Un aggiornamento gratuito aggiunge una modalità con cronometro per gli speedrunner e una in cui protagonisti e nemici vengono eliminati con un colpo.",
+      "body": [
+        "Sony e gli sviluppatori hanno annunciato la versione PS4 per il 16 novembre. Un aggiornamento gratuito aggiunge una modalità con cronometro per gli speedrunner e una in cui protagonisti e nemici vengono eliminati con un colpo."
+      ],
+      "publishedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14T09:30:38.060Z",
+      "source": {
+        "name": "IGN Italia",
+        "url": "https://it.ign.com/god-of-war-sons-of-sparta/229207/god-of-war-sons-of-sparta-arrivera-su-ps4-il-16-novembre-con-due-nuove-modalita-di-gioco",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T09:30:38.060Z",
+        "dateEvidence": "Data di pubblicazione del 13 novembre 2026 nei metadati della pagina originale, letta direttamente.",
+        "reviewedBy": "Lola, lettura diretta della pagina originale"
       }
     }
   ],
