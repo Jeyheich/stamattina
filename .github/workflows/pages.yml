@@ -114,16 +114,54 @@ jobs:
         run: node scripts/promote.mjs
       - name: Verifica rassegna reale
         run: node scripts/validate.mjs dist/data/current.json --production
+      - name: Prepara il salvataggio concorrente su main
+        shell: bash
+        run: |
+          cat > "$RUNNER_TEMP/save_on_main.sh" <<'SAVE_ON_MAIN'
+          #!/usr/bin/env bash
+          set -euo pipefail
+          
+          base=$1
+          mode=$2
+          
+          for attempt in 1 2 3; do
+            git fetch origin main
+            upstream=$(git rev-parse origin/main)
+            if [ "$base" != "$upstream" ]; then
+              echo "main è cambiato durante l'esecuzione (tentativo $attempt)."
+              git diff --name-only "$base" "$upstream"
+              if ! git merge-base --is-ancestor "$base" "$upstream" ||
+                ! git diff --quiet "$base" "$upstream" -- . ':(exclude)PROJECT_STATE.md' ':(exclude)README.md'; then
+                echo "::error::main contiene modifiche rilevanti: occorre un nuovo assemblaggio."
+                exit 1
+              fi
+              if [ "$(git rev-parse HEAD)" = "$base" ]; then
+                git merge --ff-only "$upstream"
+              else
+                git rebase --onto "$upstream" "$base"
+              fi
+              base=$upstream
+            fi
+            if [ "$mode" = check ]; then
+              exit 0
+            fi
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+          done
+          
+          echo "::error::Salvataggio su main fallito dopo tre tentativi."
+          exit 1
+          SAVE_ON_MAIN
       - name: Conserva edizione e archivio validati
         run: |
           if [ -n "$(git status --porcelain -- dist/data incoming/edition.json automation/editorial)" ]; then
-            git fetch origin main
-            test "$(git rev-parse HEAD)" = "$(git rev-parse origin/main)"
+            base="$(git rev-parse HEAD)"
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
             git add -- dist/data incoming/edition.json automation/editorial
             git commit -m 'Save editorial progress and verified edition'
-            git push origin HEAD:main
+            bash "$RUNNER_TEMP/save_on_main.sh" "$base" push
           fi
       - name: Impedisci la pubblicazione dopo un controllo fallito
         if: steps.sources.outcome == 'failure'
@@ -131,8 +169,7 @@ jobs:
       - name: Impedisci deploy di una revisione superata da modifiche concorrenti
         if: steps.incoming.outputs.changed == 'true' || steps.incoming.outputs.ui == 'true'
         run: |
-          git fetch origin main
-          test "$(git rev-parse HEAD)" = "$(git rev-parse origin/main)"
+          bash "$RUNNER_TEMP/save_on_main.sh" "$(git rev-parse HEAD)" check
       - uses: actions/configure-pages@v5
         if: steps.incoming.outputs.changed == 'true' || steps.incoming.outputs.ui == 'true'
       - uses: actions/upload-pages-artifact@v3
@@ -153,8 +190,9 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -- automation/editorial
           if ! git diff --cached --quiet; then
+            base="$(git rev-parse HEAD)"
             git commit -m 'Record verified public edition'
-            git push origin HEAD:main
+            bash "$RUNNER_TEMP/save_on_main.sh" "$base" push
           fi
   recover-candidates:
     name: Recupera il dossier dopo un checkpoint incompleto
