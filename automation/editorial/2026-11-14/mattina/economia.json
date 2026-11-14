@@ -4,7 +4,7 @@
   "collectionId": "2026-11-14-mattina",
   "category": "Economia",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-14T05:16:19.853Z",
+  "lastAttemptAt": "2026-11-14T10:20:29.591Z",
   "articles": [
     {
       "id": "economia-rilancio-vie-commerciali-regno-unito",
@@ -45,6 +45,50 @@
         "access": "free",
         "accessCheckedAt": "2026-11-14T05:16:19.853Z",
         "dateEvidence": "La pagina originale indica Fri 13 Nov 2026 14.09 EST, aggiornamento alle 14.52 EST.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-u2-rivendita-biglietti-stubhub",
+      "eventKey": "u2-stubhub-biglietti-rivendita-2027",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Biglietti U2, oltre un milione di sterline in annunci di un solo rivenditore",
+      "summary": "Un'inchiesta del Guardian segnala oltre duemila biglietti degli U2 pubblicati su StubHub da un singolo rivenditore, per un valore potenziale superiore al milione di sterline.",
+      "body": [
+        "Gli annunci riguardano le date londinesi del tour 2027. Le quantità e i rincari alimentano il dibattito britannico sui bot e sulla rivendita speculativa; l'uso illecito di bot non è dimostrato dai soli annunci.",
+        "Il governo britannico intende presentare una legge per contrastare la rivendita a scopo di lucro, mentre StubHub dichiara di vietare le vendite speculative e di opporsi ai bot."
+      ],
+      "publishedAt": "2026-11-14",
+      "verifiedAt": "2026-11-14T10:20:29.591Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/money/2026/nov/14/u2-tickets-stubhub-bot-culture-secretary-resale",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:20:29.591Z",
+        "dateEvidence": "The Guardian indica Sat 14 Nov 2026 09.00 CET nella testata.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-eurotunnel-controlli-biometrici-auto",
+      "eventKey": "eurotunnel-getlink-controlli-biometrici-drive-through",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Eurotunnel prepara controlli biometrici senza scendere dall'auto",
+      "summary": "Getlink ha ottenuto il via libera a sperimentare controlli di passaporti, impronte e immagini facciali ai terminal di Folkestone e Calais, per limitare le code al confine.",
+      "body": [
+        "Il progetto prevede 120 postazioni su entrambi i lati della Manica, supervisionate da remoto dalle forze dell'ordine. La sperimentazione proposta durerà due anni.",
+        "L'avvio operativo non è ancora fissato: il collegamento con il sistema francese resta incompleto, secondo l'amministratore delegato Yann Leriche."
+      ],
+      "publishedAt": "2026-11-14",
+      "verifiedAt": "2026-11-14T10:20:29.591Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:20:29.591Z",
+        "dateEvidence": "The Guardian indica Sat 14 Nov 2026 02.00 EST, aggiornato alle 02.02 EST.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
