@@ -126,7 +126,8 @@
       }
     }
   ],
-  "reserveArticles": [
+  "reserveArticles": [],
+  "reserveDraft": [
     {
       "id": "roma-casal-bruciato-incendio-cantiere",
       "eventKey": "casal-bruciato-incendio-cantiere",
@@ -189,8 +190,28 @@
         "dateEvidence": "Data 2026-11-14 nei metadati della pagina originale riletta.",
         "reviewedBy": "Lola, rilettura della fonte originale"
       }
+    },
+    {
+      "id": "roma-caritas-rapporto-poverta-roma",
+      "eventKey": "caritas-rapporto-poverta-roma",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Caritas Roma, il costo della casa pesa sulle famiglie fragili",
+      "summary": "Il rapporto presentato al Laterano indica che il 16,3% dei residenti è a rischio povertà. Tre intervistati su dieci riferiscono un peggioramento economico rispetto al 2025.",
+      "body": [
+        "Il rapporto presentato al Laterano indica che il 16,3% dei residenti è a rischio povertà. Tre intervistati su dieci riferiscono un peggioramento economico rispetto al 2025."
+      ],
+      "publishedAt": "2026-11-14",
+      "verifiedAt": "2026-11-14T10:38:19.350Z",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/politica/rapporto-poverta-caritas-2026.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:38:19.350Z",
+        "dateEvidence": "Data 2026-11-14 nei metadati della pagina originale riletta.",
+        "reviewedBy": "Lola, rilettura della fonte originale"
+      }
     }
   ],
-  "reserveDraft": [],
   "completedAt": "2026-11-14T10:33:44.793Z"
 }
