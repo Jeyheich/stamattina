@@ -6,6 +6,11 @@
 - Raccolta manuale collegata al dossier reale: run 43584609741, artifact privato 14109613767. Le redazioni sono state rilanciate. Tecnologia ha aggiunto una bozza Everyeye nel checkpoint canonico. Corretto lo status in-progress con cinque principali in 42d1214. Economia ha salvato quattro principali, con verifiche precedenti ancora scadute.
 - La revisione automatica ha respinto il nuovo cron del repository privato. Raccolta privata a comando e procedura nel brief attive. Il 14 resta incompleto, senza foto validate.
 
+## Recupero editoriale assistito — 14 novembre
+- Tutte le otto categorie hanno cinque principali nei rami assegnati. Assemblaggio delle 11:34 con 40 principali valide. Rilette fonte per fonte le schede scadute nei blocchi recuperati.
+- Economia e Cultura hanno cinque riserve definitive ciascuna. Sul ramo di redazione Roma ha quattro riserve in bozza e Cronaca tre. Sport e Tecnologia conservano altre bozze. Salvate immagini di repertorio pertinenti; ultimo stato con due foto già conteggiate.
+- Il ciclo resta incompleto. Prima di dichiararlo pubblicato, verificare l’ultima importazione, completare 40+40 e cinque foto, e controllare il JSON pubblico.
+ 
 ## Recupero mattutino — 14 novembre
 - Commit 3d2b0e6: il brief prova la lettura diretta delle fonti originali nell’ambiente di elaborazione, quando dispone di rete, e passa alle alternative ammesse in caso di blocco.
 - Entrambe le attività rilanciate a mano. La redazione quotidiana ha aperto l’archivio 14104307771, ma Python ha riportato un errore DNS su Everyeye. Nessun nuovo checkpoint in quel rilancio. Lo stato delle 09:42 ha rilevato quattro checkpoint scaduti, Roma mancante, nessuna riserva definitiva e nessuna foto.
