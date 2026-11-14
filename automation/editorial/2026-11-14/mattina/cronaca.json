@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-14",
+  "collectionId": "2026-11-14-mattina",
+  "category": "Cronaca",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-14T05:16:19.853Z",
+  "articles": [
+    {
+      "id": "cronaca-fiorenzuola-sanzioni-pezzotto",
+      "eventKey": "fiorenzuola-sei-sanzionati-pirateria-streaming",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Pirateria televisiva, sei persone sanzionate nel Piacentino",
+      "summary": "La Guardia di Finanza ha individuato a Fiorenzuola sei utilizzatori di accessi illegali a piattaforme televisive a pagamento, ricostruendo anche i pagamenti degli abbonamenti.",
+      "body": [
+        "Le tariffe del servizio pirata variavano tra 10 e 40 euro al mese. Per le violazioni contestate sono previste sanzioni amministrative che nei casi più gravi di recidiva possono raggiungere cinquemila euro."
+      ],
+      "publishedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14T05:16:19.853Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/13/pirateria-digitale-pezzotto-multe-fiorenzuola",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T05:16:19.853Z",
+        "dateEvidence": "L'articolo originale Sky TG24 mostra 13 nov 2026 - 17:23 nella testata della pagina.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
