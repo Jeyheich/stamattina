@@ -1,5 +1,9 @@
 # Stamattina — stato operativo
 
+## Salvataggio concorrente su main
+- Il workflow Pages riprova il salvataggio fino a tre volte se main cambia solo in PROJECT_STATE.md o README.md. Se cambiano dati, codice o workflow, ferma l’operazione e indica i file nel log.
+- Collaudo locale con due writer Git: checkpoint e documentazione conservati, aggiornamento editoriale concorrente protetto.
+
 ## Consegna privata — collaudo del 14 novembre
 - Repository privato stamattina-collaudo-privato. Run manuale 43582240232: DNS Everyeye simulato e pagine originali IGN scaricate dal runner. Archivio privato di un giorno 14108043487.
 - La stessa attività Rassegna stampa quotidiana ha aperto l’archivio con lettura diretta simulata indisponibile e ha scritto due schede di collaudo, rilette da esiti/tecnologia-2026-11-14.json. Nessun testo delle fonti nel repository pubblico.
