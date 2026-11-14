@@ -3,7 +3,9 @@
 ## Recupero mattutino — 14 novembre
 - Commit 3d2b0e6: il brief prova la lettura diretta delle fonti originali nell’ambiente di elaborazione, quando dispone di rete, e passa alle alternative ammesse in caso di blocco.
 - Entrambe le attività rilanciate a mano. La redazione quotidiana ha aperto l’archivio 14104307771, ma Python ha riportato un errore DNS su Everyeye. Nessun nuovo checkpoint in quel rilancio. Lo stato delle 09:42 ha rilevato quattro checkpoint scaduti, Roma mancante, nessuna riserva definitiva e nessuna foto.
-- Prossima verifica: distinguere accesso alle fonti e scadenza dei checkpoint. La lettura dall’ambiente cloud non è una soluzione dimostrata.
+- Prova manuale mirata sulla stessa attività cloud: simulato guasto DNS Everyeye, entrambe le alternative IGN effettivamente tentate. Il lettore web non ha aperto IGN e il tentativo Python ha restituito DNS. Nessun salvataggio automatico. Rimosse le istruzioni temporanee; resta il passaggio esplicito alle alternative e il salvataggio del verificato.
+- Recupero assistito: rilette direttamente tre pagine Punto Informatico e due IGN, salvate le cinque principali di Tecnologia sul ramo assegnato. Il primo assemblaggio ha respinto il blocco per completedAt mancante. Corretto in fed2952 con l’ora effettiva della rilettura.
+- Guasti distinti: accesso al testo dall’attività cloud e scadenza dopo tre ore dei checkpoint in altre categorie. La soluzione automatica deve consegnare testo accessibile alla redazione e superare una prova con salvataggio effettivo.
 
 ## Fonti Esteri — 13 novembre
 - Fabio ha autorizzato Open e HuffPost Italia per Esteri insieme a RaiNews. Il raccoglitore filtra Open per categoria RSS e usa il feed Esteri dedicato di HuffPost Italia. La selezione preserva la copertura RaiNews se le altre fonti scarseggiano.
