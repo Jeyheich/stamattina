@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-14",
-  "checkedAt": "2026-11-14T08:42:04.198Z",
+  "checkedAt": "2026-11-14T08:44:45.249Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -9,7 +9,6 @@
     "economia",
     "cronaca",
     "roma",
-    "cultura",
     "tecnologia",
     "sport"
   ],
@@ -17,6 +16,10 @@
     "cultura"
   ],
   "inProgress": [
+    {
+      "slug": "roma",
+      "count": 1
+    },
     {
       "slug": "tecnologia",
       "count": 3
@@ -26,28 +29,33 @@
       "count": 2
     }
   ],
-  "missing": [
-    "roma"
-  ],
+  "missing": [],
   "invalid": [
     {
       "slug": "politica",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T08:42:04.198Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T08:44:45.249Z)"
     },
     {
       "slug": "esteri",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T08:42:04.198Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T08:44:45.249Z)"
     },
     {
       "slug": "economia",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T08:42:04.198Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T08:44:45.249Z)"
     },
     {
       "slug": "cronaca",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T08:42:04.198Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T08:44:45.249Z)"
     }
   ],
   "stories": [
+    {
+      "id": "roma-raffrescamento-nidi-scuole-2026",
+      "category": "Roma",
+      "title": "Roma investe sei milioni per raffrescare nidi e scuole dell'infanzia",
+      "eventKey": "roma-piano-raffrescamento-nidi-scuole-6-milioni",
+      "pending": true
+    },
     {
       "id": "tecnologia-chatgpt-wallet-agenti-acquisti",
       "category": "Tecnologia · AI",
@@ -112,6 +120,36 @@
       "category": "Cultura · Teatro · Cinema",
       "title": "La Gradiva arriva nei cinema italiani dopo il riconoscimento a Cannes",
       "eventKey": "film-la-gradiva-uscita-italia-novembre-2026"
+    },
+    {
+      "id": "cultura-catalysi-residenze-2027",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Societas apre due residenze teatrali per Catalysi 2027",
+      "eventKey": "societas-catalysi-residenze-cesena-2027"
+    },
+    {
+      "id": "cultura-sanguara-teaser",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Sanguara, presentato il teaser del film horror girato nei Simbruini",
+      "eventKey": "sanguara-teaser-folk-horror-simbruini"
+    },
+    {
+      "id": "cultura-altra-scena-selezione",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Altra Scena cerca una figura amministrativa per produzioni e tournée",
+      "eventKey": "altra-scena-ricerca-amministrazione-produzioni-roma"
+    },
+    {
+      "id": "cultura-cirklabo-call-2028",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Cirklabo apre un bando per nuovi progetti di circo contemporaneo",
+      "eventKey": "cirklabo-lovanio-open-call-circo-2028"
+    },
+    {
+      "id": "cultura-piccolo-opera-festival-selezione-2027",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Piccolo Opera Festival cerca un responsabile di produzione per il 2027",
+      "eventKey": "piccolo-opera-festival-responsabile-produzione-2027"
     }
   ],
   "collectionId": "2026-11-14-mattina",
@@ -121,7 +159,7 @@
     "Economia": 0,
     "Cronaca": 0,
     "Roma": 0,
-    "Cultura · Teatro · Cinema": 0,
+    "Cultura · Teatro · Cinema": 5,
     "Tecnologia · AI": 0,
     "Sport": 0
   },
@@ -153,16 +191,16 @@
       "complete": false
     },
     "roma": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cultura": {
       "base": 5,
-      "reserve": 0,
-      "draft": 3,
-      "complete": false
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
     },
     "tecnologia": {
       "base": 3,
