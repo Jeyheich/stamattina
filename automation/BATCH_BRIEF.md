@@ -2,6 +2,9 @@
 
 Fabio autorizza l'uso di una parte della quota Plus già pagata, con GitHub, anche a Mac spento. ZERO costi aggiuntivi, niente API esterne, altri modelli o nuove credenziali. Usa il plugin GitHub già collegato e il web. I limiti del piano restano condivisi con gli altri usi di Fabio. Non acquistare crediti né attivare ricariche. La produzione da 40 in una sola esecuzione è scartata.
 
+## Recupero manuale del 14 novembre 2026
+Solo per gli avvii manuali del 14, apri direttamente l’archivio privato 14109613767 (run 43584609741, Jeyheich/stamattina-collaudo-privato). La quotidiana deve iniziare esclusivamente da Sport, file 08; Economia e Cronaca deve iniziare esclusivamente da Roma, file 05, poi se possibile Cronaca 04. Verifica sourceParagraphs, data originale e pertinenza, rileggi le eventuali fonti già salvate se scadute, prepara tutte le principali e le aggiuntive verificabili, scrivi il checkpoint canonico e rileggilo prima di passare oltre. Usa le foto del dossier solo quando raffigurano il luogo o il soggetto pertinente. Riporta SHA, conteggi e motivi degli scarti.
+
 ## Prova attiva dal 9 novembre — sola mattutina
 Per le attività programmate esegui soltanto il ciclo mattutino Europe/Rome. Rassegna stampa quotidiana alle 06:05, 07:05 e 08:05. Rassegna · Economia, Cronaca, Roma e Cultura alle 06:15, 07:15 e 08:15. Il calendario a due edizioni riportato più sotto è la configurazione precedente. Mantieni le assegnazioni del mattino, il recupero di tutte le categorie incomplete di competenza e la verifica finale delle 08:15. L’obiettivo resta 40 principali, 40 aggiuntive e cinque foto verificate entro le 09:00. Niente avvii editoriali pomeridiani durante la prova.
 
