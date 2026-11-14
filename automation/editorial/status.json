@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-14",
-  "checkedAt": "2026-11-14T09:30:53.921Z",
+  "checkedAt": "2026-11-14T09:31:10.077Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -24,23 +24,23 @@
   "invalid": [
     {
       "slug": "politica",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T09:30:53.921Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T09:31:10.077Z)"
     },
     {
       "slug": "esteri",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T09:30:53.921Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T09:31:10.077Z)"
     },
     {
       "slug": "economia",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T09:30:53.921Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T09:31:10.077Z)"
     },
     {
       "slug": "cronaca",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T09:30:53.921Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T09:31:10.077Z)"
     },
     {
       "slug": "cultura",
-      "reason": "completedAt: verifica scaduta (verifica 2026-11-14T06:14:20.000Z, controllo 2026-11-14T09:30:53.921Z)"
+      "reason": "completedAt: verifica scaduta (verifica 2026-11-14T06:14:20.000Z, controllo 2026-11-14T09:31:10.077Z)"
     },
     {
       "slug": "tecnologia",
@@ -48,7 +48,7 @@
     },
     {
       "slug": "sport",
-      "reason": "sport-antonelli-quirinale-casco verifiedAt: verifica scaduta (verifica 2026-11-14T06:01:31.000Z, controllo 2026-11-14T09:30:53.921Z)"
+      "reason": "sport-antonelli-quirinale-casco verifiedAt: verifica scaduta (verifica 2026-11-14T06:01:31.000Z, controllo 2026-11-14T09:31:10.077Z)"
     }
   ],
   "stories": [
