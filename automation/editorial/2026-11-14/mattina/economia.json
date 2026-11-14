@@ -114,30 +114,113 @@
       }
     }
   ],
-  "reserveArticles": [],
-  "reserveDraft": [
+  "reserveArticles": [
     {
-      "id": "economia-salmone-scozia-certificazione-soil-association",
-      "eventKey": "soil-association-ritira-marchio-salmone-organico-2026",
+      "id": "economia-manchester-mercatini-costi-2026",
+      "eventKey": "manchester-mercatini-costi-2026",
       "category": "Economia",
       "status": "verified",
-      "title": "Salmone scozzese, Soil Association ritira la certificazione biologica",
-      "summary": "Dopo vent'anni Soil Association ha deciso di ritirare il proprio marchio al salmone d'allevamento, contestando risultati insufficienti sul benessere animale e sull'ambiente.",
+      "title": "Mercatini di Manchester, i venditori segnalano costi in aumento",
+      "summary": "Gli operatori sentiti dalla BBC attribuiscono il rincaro dei prodotti a spese più alte per personale, ingredienti ed energia. Alcuni riferiscono margini inferiori malgrado i prezzi più alti.",
       "body": [
-        "Il settore britannico del salmone allevato vale circa un miliardo di sterline l'anno e produce circa 205.000 tonnellate, secondo il Guardian. La scelta dell'ente certificatore riapre il dibattito sulla sostenibilità economica e ambientale della filiera.",
-        "L'associazione di settore Salmon Scotland precisa che la decisione riguarda il marchio Soil Association e non equivale alla perdita della certificazione biologica prevista dalle autorità britanniche."
+        "Gli operatori sentiti dalla BBC attribuiscono il rincaro dei prodotti a spese più alte per personale, ingredienti ed energia. Alcuni riferiscono margini inferiori malgrado i prezzi più alti."
       ],
       "publishedAt": "2026-11-14",
-      "verifiedAt": "2026-11-14T10:34:59.197Z",
+      "verifiedAt": "2026-11-14T10:35:41.431Z",
       "source": {
-        "name": "The Guardian",
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c95y152k8erpo?at_medium=RSS&at_campaign=rss",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:35:41.431Z",
+        "dateEvidence": "Data 2026-11-14 nei metadati della pagina originale riletta.",
+        "reviewedBy": "Lola, rilettura della fonte originale"
+      }
+    },
+    {
+      "id": "economia-microsoft-servizi-ripristino-guasto",
+      "eventKey": "microsoft-servizi-ripristino-guasto",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Microsoft annuncia il ripristino dei servizi dopo il guasto globale",
+      "summary": "Microsoft ha comunicato di aver risolto il guasto che aveva coinvolto Outlook, Teams e Copilot. L’azienda attribuisce l’incidente a un aggiornamento della capacità della rete.",
+      "body": [
+        "Microsoft ha comunicato di aver risolto il guasto che aveva coinvolto Outlook, Teams e Copilot. L’azienda attribuisce l’incidente a un aggiornamento della capacità della rete."
+      ],
+      "publishedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14T10:35:41.431Z",
+      "source": {
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:35:41.431Z",
+        "dateEvidence": "Data 2026-11-13 nei metadati della pagina originale riletta.",
+        "reviewedBy": "Lola, rilettura della fonte originale"
+      }
+    },
+    {
+      "id": "economia-cambridge-foodbank-calo-donazioni",
+      "eventKey": "cambridge-foodbank-calo-donazioni",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Il banco alimentare di Cambridge segnala un calo delle donazioni",
+      "summary": "Cambridge City Foodbank ha registrato un calo delle donazioni per il terzo anno. In vista dell’appello natalizio prevede di distribuire oltre 45.000 pasti tra metà novembre e metà gennaio.",
+      "body": [
+        "Cambridge City Foodbank ha registrato un calo delle donazioni per il terzo anno. In vista dell’appello natalizio prevede di distribuire oltre 45.000 pasti tra metà novembre e metà gennaio."
+      ],
+      "publishedAt": "2026-11-14",
+      "verifiedAt": "2026-11-14T10:35:41.431Z",
+      "source": {
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/c6702j7e48eno?at_medium=RSS&at_campaign=rss",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:35:41.431Z",
+        "dateEvidence": "Data 2026-11-14 nei metadati della pagina originale riletta.",
+        "reviewedBy": "Lola, rilettura della fonte originale"
+      }
+    },
+    {
+      "id": "economia-salmone-britannico-fine-certificazione-biologica",
+      "eventKey": "salmone-britannico-fine-certificazione-biologica",
+      "category": "Economia",
+      "status": "verified",
+      "title": "La Soil Association ritira la certificazione al salmone di allevamento britannico",
+      "summary": "L’organismo di certificazione ha ritirato il riconoscimento biologico al salmone britannico dopo vent’anni. Il Guardian ricostruisce il peso economico e le ricadute ambientali del settore.",
+      "body": [
+        "L’organismo di certificazione ha ritirato il riconoscimento biologico al salmone britannico dopo vent’anni. Il Guardian ricostruisce il peso economico e le ricadute ambientali del settore."
+      ],
+      "publishedAt": "2026-11-14",
+      "verifiedAt": "2026-11-14T10:35:41.431Z",
+      "source": {
+        "name": "The Guardian Business",
         "url": "https://www.theguardian.com/environment/2026/nov/14/salmon-organic-british-farmed-environmental-welfare",
         "access": "free",
-        "accessCheckedAt": "2026-11-14T10:34:59.197Z",
-        "dateEvidence": "La pagina originale indica Sat 14 Nov 2026 01.00 EST.",
-        "reviewedBy": "ChatGPT, fonte originale letta"
+        "accessCheckedAt": "2026-11-14T10:35:41.431Z",
+        "dateEvidence": "Data 2026-11-14 nei metadati della pagina originale riletta.",
+        "reviewedBy": "Lola, rilettura della fonte originale"
+      }
+    },
+    {
+      "id": "economia-spacex-starship-volo-15-recupero",
+      "eventKey": "spacex-starship-volo-15-recupero",
+      "category": "Economia",
+      "status": "verified",
+      "title": "SpaceX lancia Starship, sfuma il doppio recupero previsto dal test",
+      "summary": "Nel quindicesimo volo di prova del sistema riutilizzabile, il booster Super Heavy ha terminato la discesa in mare. Il piano prevedeva di recuperare entrambi gli elementi alla torre di lancio.",
+      "body": [
+        "Nel quindicesimo volo di prova del sistema riutilizzabile, il booster Super Heavy ha terminato la discesa in mare. Il piano prevedeva di recuperare entrambi gli elementi alla torre di lancio."
+      ],
+      "publishedAt": "2026-11-14",
+      "verifiedAt": "2026-11-14T10:35:41.431Z",
+      "source": {
+        "name": "The Guardian Business",
+        "url": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:35:41.431Z",
+        "dateEvidence": "Data 2026-11-14 nei metadati della pagina originale riletta.",
+        "reviewedBy": "Lola, rilettura della fonte originale"
       }
     }
   ],
+  "reserveDraft": [],
   "completedAt": "2026-11-14T10:28:00.368Z"
 }

@@ -1,12 +1,11 @@
 {
   "editionDate": "2026-11-14",
-  "checkedAt": "2026-11-14T10:35:09.949Z",
+  "checkedAt": "2026-11-14T10:36:36.652Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
     "politica",
     "esteri",
-    "economia",
     "cronaca",
     "roma",
     "tecnologia",
@@ -267,6 +266,36 @@
       "eventKey": "sinner-rientro-recupero-tonsille"
     },
     {
+      "id": "economia-manchester-mercatini-costi-2026",
+      "category": "Economia",
+      "title": "Mercatini di Manchester, i venditori segnalano costi in aumento",
+      "eventKey": "manchester-mercatini-costi-2026"
+    },
+    {
+      "id": "economia-microsoft-servizi-ripristino-guasto",
+      "category": "Economia",
+      "title": "Microsoft annuncia il ripristino dei servizi dopo il guasto globale",
+      "eventKey": "microsoft-servizi-ripristino-guasto"
+    },
+    {
+      "id": "economia-cambridge-foodbank-calo-donazioni",
+      "category": "Economia",
+      "title": "Il banco alimentare di Cambridge segnala un calo delle donazioni",
+      "eventKey": "cambridge-foodbank-calo-donazioni"
+    },
+    {
+      "id": "economia-salmone-britannico-fine-certificazione-biologica",
+      "category": "Economia",
+      "title": "La Soil Association ritira la certificazione al salmone di allevamento britannico",
+      "eventKey": "salmone-britannico-fine-certificazione-biologica"
+    },
+    {
+      "id": "economia-spacex-starship-volo-15-recupero",
+      "category": "Economia",
+      "title": "SpaceX lancia Starship, sfuma il doppio recupero previsto dal test",
+      "eventKey": "spacex-starship-volo-15-recupero"
+    },
+    {
       "id": "cultura-catalysi-residenze-2027",
       "category": "Cultura · Teatro · Cinema",
       "title": "Societas apre due residenze teatrali per Catalysi 2027",
@@ -301,7 +330,7 @@
   "reserveCounts": {
     "Politica": 0,
     "Esteri": 0,
-    "Economia": 0,
+    "Economia": 5,
     "Cronaca": 0,
     "Roma": 0,
     "Cultura · Teatro · Cinema": 5,
@@ -336,9 +365,9 @@
     },
     "economia": {
       "base": 5,
-      "reserve": 0,
-      "draft": 1,
-      "complete": false
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
     },
     "cronaca": {
       "base": 5,
@@ -349,7 +378,7 @@
     "roma": {
       "base": 5,
       "reserve": 0,
-      "draft": 0,
+      "draft": 3,
       "complete": false
     },
     "cultura": {
@@ -361,7 +390,7 @@
     "tecnologia": {
       "base": 5,
       "reserve": 0,
-      "draft": 1,
+      "draft": 3,
       "complete": false
     },
     "sport": {
