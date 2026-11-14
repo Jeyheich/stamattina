@@ -2,9 +2,9 @@
 
 Fabio autorizza l'uso di una parte della quota Plus già pagata, con GitHub, anche a Mac spento. ZERO costi aggiuntivi, niente API esterne, altri modelli o nuove credenziali. Usa il plugin GitHub già collegato e il web. I limiti del piano restano condivisi con gli altri usi di Fabio. Non acquistare crediti né attivare ricariche. La produzione da 40 in una sola esecuzione è scartata.
 
-## Recupero a comando — 14 novembre 2026
-Solo per il recupero del 14 novembre, apri subito l’archivio riservato 14109613767 (run 43584609741 su Jeyheich/stamattina-collaudo-privato). L’attività quotidiana completi Politica usando 01.json e poi Esteri 02.json. L’attività Economia e Cronaca completi Cronaca da 04.json e poi Roma da 05.json. Leggi i paragrafi originali, scarta duplicati, salva le principali appena raggiunte, poi le riserve effettivamente verificate. Conserva gli ID e gli orari ancora validi, rileggi realmente le schede scadute, rileggi il file dopo la scrittura. Con cinque principali rimuovi status in-progress anche se le riserve sono in bozza. Riporta commit e conteggi.
- 
+## Recupero manuale riserve del 14 novembre 2026
+Solo per gli avvii manuali del 14, apri subito l’archivio privato 14109613767 (run 43584609741, Jeyheich/stamattina-collaudo-privato). Redazione quotidiana: completa le cinque riserve di Sport nel file 08.json, prosegui con Tecnologia 07.json. Redazione Economia: completa le cinque riserve di Economia da 03.json, poi Roma da 05.json. Le cinque principali già valide si conservano. Qualora non bastino le fonti nel pacchetto, cerca alternative ammesse. Salva e rileggi ogni checkpoint nel ramo assegnato, verificando duplicati e date. Non apporre in-progress a un blocco con cinque principali. Per le foto, usa solo repertorio effettivamente pertinente con licenza verificata. Riporta conteggi e commit effettivi.
+
 ## Prova attiva dal 9 novembre — sola mattutina
 Per le attività programmate esegui soltanto il ciclo mattutino Europe/Rome. Rassegna stampa quotidiana alle 06:05, 07:05 e 08:05. Rassegna · Economia, Cronaca, Roma e Cultura alle 06:15, 07:15 e 08:15. Il calendario a due edizioni riportato più sotto è la configurazione precedente. Mantieni le assegnazioni del mattino, il recupero di tutte le categorie incomplete di competenza e la verifica finale delle 08:15. L’obiettivo resta 40 principali, 40 aggiuntive e cinque foto verificate entro le 09:00. Niente avvii editoriali pomeridiani durante la prova.
 
