@@ -3,7 +3,7 @@
   "editionDate": "2026-11-14",
   "collectionId": "2026-11-14-mattina",
   "category": "Sport",
-  "lastAttemptAt": "2026-11-14T10:30:35.345Z",
+  "lastAttemptAt": "2026-11-14T10:35:00.209Z",
   "articles": [
     {
       "id": "sport-antonelli-quirinale-casco",
@@ -126,6 +126,49 @@
     }
   ],
   "reserveArticles": [],
-  "reserveDraft": [],
+  "reserveDraft": [
+    {
+      "id": "sport-materazzi-zidane-incontro-2010",
+      "eventKey": "materazzi-zidane-racconto-incontro-milano-2010",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Materazzi torna sul mancato chiarimento con Zidane",
+      "summary": "In un'intervista Marco Materazzi ha raccontato un incontro riservato con Zinedine Zidane avvenuto nel 2010 a Milano, sostenendo che un primo chiarimento non si sia trasformato in una riconciliazione pubblica.",
+      "body": [
+        "Materazzi ha ricordato l'incontro del novembre 2010 in un hotel milanese prima di Milan-Real Madrid, quando i due ex calciatori si sarebbero stretti la mano. Secondo la sua ricostruzione, Zidane avrebbe successivamente ridimensionato l'episodio. Si tratta della versione riferita da Materazzi."
+      ],
+      "publishedAt": "2026-11-12T10:59:41+01:00",
+      "verifiedAt": "2026-11-14T10:35:00.209Z",
+      "source": {
+        "name": "Leggo Sport",
+        "url": "https://www.leggo.it/sport/calcio/12_novembre_2026_materazzi_zidane_pace_testata_mondiali_2006_incontro_segreto-9885520.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:35:00.209Z",
+        "dateEvidence": "Pagina acquisita nell'archivio GitHub 14109613767, data originale 12 novembre 2026 10:59:41 +01:00",
+        "reviewedBy": "Verifica del testo acquisito nell'archivio"
+      }
+    },
+    {
+      "id": "sport-sinner-apre-profilo-tiktok",
+      "eventKey": "sinner-debutto-tiktok-video-montecarlo",
+      "category": "Sport",
+      "status": "verified",
+      "title": "Jannik Sinner apre un profilo TikTok e pubblica un video da Monte-Carlo",
+      "summary": "Il tennista ha esordito su TikTok con un filmato registrato da una terrazza a Monte-Carlo. Il debutto ha sorpreso i tifosi e raccolto rapidamente numerose visualizzazioni.",
+      "body": [
+        "Dopo aver condiviso aggiornamenti sulla propria salute attraverso stampa e YouTube, Sinner ha aperto anche un canale TikTok. Secondo Leggo, il primo video ha raggiunto circa un milione di visualizzazioni in poche ore."
+      ],
+      "publishedAt": "2026-11-13T15:39:09+01:00",
+      "verifiedAt": "2026-11-14T10:35:00.209Z",
+      "source": {
+        "name": "Leggo Sport",
+        "url": "https://www.leggo.it/sport/tennis/13_novembre_2026_jannik_sinner_sbarca_tiktok_video-9888037.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:35:00.209Z",
+        "dateEvidence": "Pagina acquisita nell'archivio GitHub 14109613767, data originale 13 novembre 2026 15:39:09 +01:00",
+        "reviewedBy": "Verifica del testo acquisito nell'archivio"
+      }
+    }
+  ],
   "completedAt": "2026-11-14T10:32:25.954Z"
 }
