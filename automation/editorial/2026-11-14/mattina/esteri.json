@@ -3,7 +3,6 @@
   "editionDate": "2026-11-14",
   "collectionId": "2026-11-14-mattina",
   "category": "Esteri",
-  "status": "in-progress",
   "lastAttemptAt": "2026-11-14T10:27:58.661Z",
   "articles": [
     {
@@ -48,7 +47,71 @@
         "dateEvidence": "Pagina originale acquisita nell'archivio: 14 novembre 2026, 10:24:57 +01:00",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
+    },
+    {
+      "id": "esteri-faa-revoca-blocco-decolli-usa",
+      "eventKey": "faa-revoca-blocco-decolli-usa",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "La FAA revoca il blocco nazionale dei decolli negli Stati Uniti",
+      "summary": "L’agenzia americana ha revocato lo stop dopo oltre quattro ore di disagi. Il blocco era seguito a un guasto alle comunicazioni dei centri di controllo del traffico aereo.",
+      "body": [
+        "L’agenzia americana ha revocato lo stop dopo oltre quattro ore di disagi. Il blocco era seguito a un guasto alle comunicazioni dei centri di controllo del traffico aereo."
+      ],
+      "publishedAt": "2026-11-14",
+      "verifiedAt": "2026-11-14T10:33:39.554Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/tutti-gli-aerei-a-terra-voli-fermi-negli-stati-uniti-faa-ground-stop-bb91497f-1167-4842-81e2-e3e10f823786.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:33:39.554Z",
+        "dateEvidence": "Data 2026-11-14 nei metadati della pagina originale riletta.",
+        "reviewedBy": "Lola, rilettura della fonte originale"
+      }
+    },
+    {
+      "id": "esteri-papa-leone-chiclayo-peru",
+      "eventKey": "papa-leone-chiclayo-peru",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Papa Leone torna a Chiclayo durante la visita in Perù",
+      "summary": "Nella città in cui è stato vescovo per otto anni, il Papa ha incontrato il mondo universitario e ha invitato a riflettere sui limiti umani e sulle promesse del transumanesimo.",
+      "body": [
+        "Nella città in cui è stato vescovo per otto anni, il Papa ha incontrato il mondo universitario e ha invitato a riflettere sui limiti umani e sulle promesse del transumanesimo."
+      ],
+      "publishedAt": "2026-11-12",
+      "verifiedAt": "2026-11-14T10:33:39.554Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/maratona/2026/11/papa-leone-xiv-viaggio-apostolico-in-uruguay-argentina-e-peru-pontefice-38858411-8e7e-4d4e-8e59-931552e919c8.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:33:39.554Z",
+        "dateEvidence": "Data 2026-11-12 nei metadati della pagina originale riletta.",
+        "reviewedBy": "Lola, rilettura della fonte originale"
+      }
+    },
+    {
+      "id": "esteri-mississippi-scontro-new-orleans-navi",
+      "eventKey": "mississippi-scontro-new-orleans-navi",
+      "category": "Esteri",
+      "status": "verified",
+      "title": "Una petroliera urta un battello turistico a New Orleans",
+      "summary": "Lo scontro è avvenuto sul Mississippi mentre il battello American Heritage era ormeggiato. La compagnia ha comunicato l’evacuazione di ospiti ed equipaggio.",
+      "body": [
+        "Lo scontro è avvenuto sul Mississippi mentre il battello American Heritage era ormeggiato. La compagnia ha comunicato l’evacuazione di ospiti ed equipaggio."
+      ],
+      "publishedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14T10:33:39.554Z",
+      "source": {
+        "name": "Open",
+        "url": "https://www.open.online/2026/11/13/new-orleans-petroliera-collisione-nave-crociera/",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:33:39.554Z",
+        "dateEvidence": "Data 2026-11-13 nei metadati della pagina originale riletta.",
+        "reviewedBy": "Lola, rilettura della fonte originale"
+      }
     }
   ],
-  "reserveArticles": []
+  "reserveArticles": [],
+  "completedAt": "2026-11-14T10:33:39.554Z"
 }
