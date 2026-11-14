@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-14",
-  "checkedAt": "2026-11-14T10:27:05.911Z",
+  "checkedAt": "2026-11-14T10:28:36.431Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -9,14 +9,23 @@
     "economia",
     "cronaca",
     "roma",
-    "cultura",
     "tecnologia",
     "sport"
   ],
   "completed": [
+    "economia",
+    "cultura",
     "tecnologia"
   ],
   "inProgress": [
+    {
+      "slug": "politica",
+      "count": 2
+    },
+    {
+      "slug": "esteri",
+      "count": 2
+    },
     {
       "slug": "roma",
       "count": 1
@@ -25,37 +34,109 @@
   "missing": [],
   "invalid": [
     {
-      "slug": "politica",
-      "reason": "politica-manovra-scuola-sindacati verifiedAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T10:27:05.911Z)"
-    },
-    {
-      "slug": "esteri",
-      "reason": "esteri-bild-richieste-russe-nato-finlandia verifiedAt: verifica scaduta (verifica 2026-11-14T05:00:55.187Z, controllo 2026-11-14T10:27:05.911Z)"
-    },
-    {
-      "slug": "economia",
-      "reason": "economia-rilancio-vie-commerciali-regno-unito verifiedAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T10:27:05.911Z)"
-    },
-    {
       "slug": "cronaca",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T10:27:05.911Z)"
-    },
-    {
-      "slug": "cultura",
-      "reason": "completedAt: verifica scaduta (verifica 2026-11-14T06:14:20.000Z, controllo 2026-11-14T10:27:05.911Z)"
+      "reason": "cronaca-fiorenzuola-sanzioni-pezzotto verifiedAt: verifica scaduta (verifica 2026-11-14T05:16:19.853Z, controllo 2026-11-14T10:28:36.431Z)"
     },
     {
       "slug": "sport",
-      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T07:01:41.173Z, controllo 2026-11-14T10:27:05.911Z)"
+      "reason": "lastAttemptAt: verifica scaduta (verifica 2026-11-14T07:01:41.173Z, controllo 2026-11-14T10:28:36.431Z)"
     }
   ],
   "stories": [
+    {
+      "id": "politica-manovra-scuola-sindacati",
+      "category": "Politica",
+      "title": "Manovra, il governo annuncia il ritiro della misura sui tagli scolastici",
+      "eventKey": "manovra-2027-ritiro-tagli-organici-scuola",
+      "pending": true
+    },
+    {
+      "id": "politica-ciro-grillo-intervista-bongiorno",
+      "category": "Politica",
+      "title": "Ciro Grillo critica il ruolo di Bongiorno nel processo d'appello",
+      "eventKey": "ciro-grillo-intervista-bongiorno-processo-appello",
+      "pending": true
+    },
+    {
+      "id": "esteri-bild-richieste-russe-nato-finlandia",
+      "category": "Esteri",
+      "title": "Negoziati sull'Ucraina, Bild riferisce le richieste russe su Donbass e NATO",
+      "eventKey": "bild-richieste-russe-donbass-finlandia-nato",
+      "pending": true
+    },
+    {
+      "id": "esteri-ucraina-formato-dublino-europa",
+      "category": "Esteri",
+      "title": "Ucraina, cinque Paesi europei al tavolo dei negoziati",
+      "eventKey": "ucraina-negoziati-formato-dublino-cinque-paesi",
+      "pending": true
+    },
     {
       "id": "roma-raffrescamento-nidi-scuole-2026",
       "category": "Roma",
       "title": "Roma investe sei milioni per raffrescare nidi e scuole dell'infanzia",
       "eventKey": "roma-piano-raffrescamento-nidi-scuole-6-milioni",
       "pending": true
+    },
+    {
+      "id": "economia-rilancio-vie-commerciali-regno-unito",
+      "category": "Economia",
+      "title": "Regno Unito, un rapporto propone strade più vivibili per rilanciare i negozi",
+      "eventKey": "rigenerazione-high-street-create-streets-2026"
+    },
+    {
+      "id": "economia-trump-acquisti-azioni-nvidia",
+      "category": "Economia",
+      "title": "Trump e Nvidia, emergono acquisti azionari durante le decisioni sull'export",
+      "eventKey": "trump-acquisti-nvidia-regole-export-cina"
+    },
+    {
+      "id": "economia-u2-rivendita-biglietti-stubhub",
+      "category": "Economia",
+      "title": "Biglietti U2, oltre un milione di sterline in annunci di un solo rivenditore",
+      "eventKey": "u2-stubhub-biglietti-rivendita-2027"
+    },
+    {
+      "id": "economia-eurotunnel-controlli-biometrici-auto",
+      "category": "Economia",
+      "title": "Eurotunnel prepara controlli biometrici senza scendere dall'auto",
+      "eventKey": "eurotunnel-getlink-controlli-biometrici-drive-through"
+    },
+    {
+      "id": "economia-giovani-regno-unito-ricerca-lavoro",
+      "category": "Economia",
+      "title": "Regno Unito, otto giovani raccontano le difficoltà nell'accesso al lavoro",
+      "eventKey": "guardian-otto-giovani-crisi-accesso-lavoro-uk-2026"
+    },
+    {
+      "id": "cultura-the-spot-prime-immagini",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "The Spot, diffuse le prime immagini della serie con Claire Danes ed Ewan McGregor",
+      "eventKey": "the-spot-prime-immagini-hulu-a24"
+    },
+    {
+      "id": "cultura-uno-sguardo-raro-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "A Roma torna il festival cinematografico Uno Sguardo Raro",
+      "eventKey": "festival-uno-sguardo-raro-roma-2026"
+    },
+    {
+      "id": "cultura-fenice-sciopero-fedora",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "La Fenice, lo sciopero fa saltare la prima di Fedora",
+      "eventKey": "fenice-sciopero-prima-fedora-novembre-2026"
+    },
+    {
+      "id": "cultura-catalogo-marta-ciappina",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Catalogo, la danza del congedo di Marta Ciappina al Romaeuropa",
+      "eventKey": "catalogo-marta-ciappina-romaeuropa-vascello"
+    },
+    {
+      "id": "cultura-la-gradiva-cinema",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "La Gradiva arriva nei cinema italiani dopo il riconoscimento a Cannes",
+      "eventKey": "film-la-gradiva-uscita-italia-novembre-2026"
     },
     {
       "id": "tecnologia-chatgpt-wallet-agenti-acquisti",
@@ -86,6 +167,36 @@
       "category": "Tecnologia · AI",
       "title": "God of War: Sons of Sparta annunciato su PS4 per il 16 novembre",
       "eventKey": "god-of-war-sons-of-sparta-ps4"
+    },
+    {
+      "id": "cultura-catalysi-residenze-2027",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Societas apre due residenze teatrali per Catalysi 2027",
+      "eventKey": "societas-catalysi-residenze-cesena-2027"
+    },
+    {
+      "id": "cultura-sanguara-teaser",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Sanguara, presentato il teaser del film horror girato nei Simbruini",
+      "eventKey": "sanguara-teaser-folk-horror-simbruini"
+    },
+    {
+      "id": "cultura-altra-scena-selezione",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Altra Scena cerca una figura amministrativa per produzioni e tournée",
+      "eventKey": "altra-scena-ricerca-amministrazione-produzioni-roma"
+    },
+    {
+      "id": "cultura-cirklabo-call-2028",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Cirklabo apre un bando per nuovi progetti di circo contemporaneo",
+      "eventKey": "cirklabo-lovanio-open-call-circo-2028"
+    },
+    {
+      "id": "cultura-piccolo-opera-festival-selezione-2027",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Piccolo Opera Festival cerca un responsabile di produzione per il 2027",
+      "eventKey": "piccolo-opera-festival-responsabile-produzione-2027"
     }
   ],
   "collectionId": "2026-11-14-mattina",
@@ -95,7 +206,7 @@
     "Economia": 0,
     "Cronaca": 0,
     "Roma": 0,
-    "Cultura · Teatro · Cinema": 0,
+    "Cultura · Teatro · Cinema": 5,
     "Tecnologia · AI": 0,
     "Sport": 0
   },
@@ -103,19 +214,19 @@
   "photosAvailable": 0,
   "categoryProgress": {
     "politica": {
-      "base": 0,
+      "base": 2,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "esteri": {
-      "base": 0,
+      "base": 2,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "economia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
@@ -133,10 +244,10 @@
       "complete": false
     },
     "cultura": {
-      "base": 0,
-      "reserve": 0,
+      "base": 5,
+      "reserve": 5,
       "draft": 0,
-      "complete": false
+      "complete": true
     },
     "tecnologia": {
       "base": 5,

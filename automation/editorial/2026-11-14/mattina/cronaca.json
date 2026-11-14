@@ -4,7 +4,7 @@
   "collectionId": "2026-11-14-mattina",
   "category": "Cronaca",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-14T05:16:19.853Z",
+  "lastAttemptAt": "2026-11-14T10:27:04.296Z",
   "articles": [
     {
       "id": "cronaca-fiorenzuola-sanzioni-pezzotto",
@@ -24,6 +24,50 @@
         "access": "free",
         "accessCheckedAt": "2026-11-14T05:16:19.853Z",
         "dateEvidence": "L'articolo originale Sky TG24 mostra 13 nov 2026 - 17:23 nella testata della pagina.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-operazione-polizia-postale-nove-regioni",
+      "eventKey": "polizia-postale-sei-arresti-18-indagati-nove-regioni-nov2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Sfruttamento minorile online, sei arresti e 18 indagati in nove regioni",
+      "summary": "Un'operazione della Polizia postale coordinata dalla Procura di Milano ha portato a sei arresti e alla denuncia di altre 18 persone per reati legati a materiale di abuso sessuale su minori.",
+      "body": [
+        "L'indagine è partita dall'analisi di dispositivi sequestrati nel 2025. Gli investigatori hanno ricostruito gruppi Telegram e individuato 24 utenti; durante le perquisizioni sono stati sequestrati oltre tremila file.",
+        "Gli arrestati hanno tra 38 e 58 anni. Le attività hanno coinvolto più uffici territoriali della Polizia postale."
+      ],
+      "publishedAt": "2026-11-14",
+      "verifiedAt": "2026-11-14T10:27:04.296Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/cronaca/2026/11/14/pedopornografia-on-line-arresti",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:27:04.296Z",
+        "dateEvidence": "Sky TG24 indica 14 nov 2026 - 08:10.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "cronaca-famiglia-bosco-appello-respinto",
+      "eventKey": "famiglia-bosco-corte-appello-laquila-ricorso-rigettato-nov2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Famiglia nel bosco, respinto il ricorso sul rientro immediato dei figli",
+      "summary": "La Corte d'appello dell'Aquila ha respinto il reclamo della famiglia Birmingham-Trevallion contro il provvedimento del tribunale minorile. Il percorso graduale di ricongiungimento resta in vigore.",
+      "body": [
+        "L'avvocato Simone Pillon ha annunciato l'intenzione di rivolgersi alla Cassazione, contestando le valutazioni adottate dai giudici e l'incertezza dei tempi.",
+        "Secondo quanto riferito dal legale, la decisione non interrompe il piano di incontri e rientri progressivi già in corso per i tre bambini."
+      ],
+      "publishedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14T10:27:04.296Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/famiglia-nel-bosco-rigettato-il-ricorso-i-bambini-non-tornano-a-casa-2b7e44a0-3446-4921-b794-8293554ba6d0.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:27:04.296Z",
+        "dateEvidence": "RaiNews indica 13/11/2026.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
       }
     }
