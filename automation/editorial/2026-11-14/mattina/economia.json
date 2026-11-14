@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-14",
+  "collectionId": "2026-11-14-mattina",
+  "category": "Economia",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-14T05:16:19.853Z",
+  "articles": [
+    {
+      "id": "economia-rilancio-vie-commerciali-regno-unito",
+      "eventKey": "rigenerazione-high-street-create-streets-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Regno Unito, un rapporto propone strade più vivibili per rilanciare i negozi",
+      "summary": "Il centro studi Create Streets propone interventi urbani a basso costo, con più spazio per pedoni e biciclette, per sostenere il commercio nelle vie centrali.",
+      "body": [
+        "Il rapporto suggerisce di rimuovere arredi inutili e ridurre il predominio del traffico automobilistico. Secondo le stime riportate, trasformare gli stalli in spazi per biciclette o attività all'aperto può generare maggiori consumi presso i negozi."
+      ],
+      "publishedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14T05:16:19.853Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/society/2026/nov/13/rip-out-clutter-to-retail-revive-high-streets-thinktank",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T05:16:19.853Z",
+        "dateEvidence": "La pagina originale indica Fri 13 Nov 2026 21.34 GMT e prima pubblicazione alle 17.05 GMT.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "economia-trump-acquisti-azioni-nvidia",
+      "eventKey": "trump-acquisti-nvidia-regole-export-cina",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Trump e Nvidia, emergono acquisti azionari durante le decisioni sull'export",
+      "summary": "Un'analisi dei documenti finanziari pubblici citata dal Guardian segnala acquisti di azioni Nvidia da parte di Donald Trump mentre la sua amministrazione modificava le restrizioni sulle esportazioni verso la Cina.",
+      "body": [
+        "Secondo l'analisi riportata, gli acquisti effettuati prima della revoca di una norma dell'era Biden avevano un valore compreso tra uno e cinque milioni di dollari. La ricostruzione solleva interrogativi sui possibili conflitti di interesse, senza stabilire di per sé un illecito."
+      ],
+      "publishedAt": "2026-11-13",
+      "verifiedAt": "2026-11-14T05:16:19.853Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T05:16:19.853Z",
+        "dateEvidence": "La pagina originale indica Fri 13 Nov 2026 14.09 EST, aggiornamento alle 14.52 EST.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}

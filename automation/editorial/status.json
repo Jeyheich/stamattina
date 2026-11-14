@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-14",
-  "checkedAt": "2026-11-14T05:02:46.967Z",
+  "checkedAt": "2026-11-14T05:16:43.362Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -22,11 +22,17 @@
     {
       "slug": "esteri",
       "count": 1
+    },
+    {
+      "slug": "economia",
+      "count": 2
+    },
+    {
+      "slug": "cronaca",
+      "count": 1
     }
   ],
   "missing": [
-    "economia",
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -46,6 +52,27 @@
       "category": "Esteri",
       "title": "Negoziati sull'Ucraina, Bild riferisce le richieste russe su Donbass e NATO",
       "eventKey": "bild-richieste-russe-donbass-finlandia-nato",
+      "pending": true
+    },
+    {
+      "id": "economia-rilancio-vie-commerciali-regno-unito",
+      "category": "Economia",
+      "title": "Regno Unito, un rapporto propone strade più vivibili per rilanciare i negozi",
+      "eventKey": "rigenerazione-high-street-create-streets-2026",
+      "pending": true
+    },
+    {
+      "id": "economia-trump-acquisti-azioni-nvidia",
+      "category": "Economia",
+      "title": "Trump e Nvidia, emergono acquisti azionari durante le decisioni sull'export",
+      "eventKey": "trump-acquisti-nvidia-regole-export-cina",
+      "pending": true
+    },
+    {
+      "id": "cronaca-fiorenzuola-sanzioni-pezzotto",
+      "category": "Cronaca",
+      "title": "Pirateria televisiva, sei persone sanzionate nel Piacentino",
+      "eventKey": "fiorenzuola-sei-sanzionati-pirateria-streaming",
       "pending": true
     }
   ],
@@ -76,13 +103,13 @@
       "complete": false
     },
     "economia": {
-      "base": 0,
+      "base": 2,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cronaca": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false
