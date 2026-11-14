@@ -1,6 +1,6 @@
 {
-  "editionDate": "2026-11-13",
-  "checkedAt": "2026-11-13T18:38:17.081Z",
+  "editionDate": "2026-11-14",
+  "checkedAt": "2026-11-14T05:01:17.465Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -14,10 +14,17 @@
     "sport"
   ],
   "completed": [],
-  "inProgress": [],
+  "inProgress": [
+    {
+      "slug": "politica",
+      "count": 1
+    },
+    {
+      "slug": "esteri",
+      "count": 1
+    }
+  ],
   "missing": [
-    "politica",
-    "esteri",
     "economia",
     "cronaca",
     "roma",
@@ -26,8 +33,23 @@
     "sport"
   ],
   "invalid": [],
-  "stories": [],
-  "collectionId": "2026-11-13-pomeriggio",
+  "stories": [
+    {
+      "id": "politica-manovra-scuola-sindacati",
+      "category": "Politica",
+      "title": "Manovra, il governo annuncia il ritiro della misura sui tagli scolastici",
+      "eventKey": "manovra-2027-ritiro-tagli-organici-scuola",
+      "pending": true
+    },
+    {
+      "id": "esteri-bild-richieste-russe-nato-finlandia",
+      "category": "Esteri",
+      "title": "Negoziati sull'Ucraina, Bild riferisce le richieste russe su Donbass e NATO",
+      "eventKey": "bild-richieste-russe-donbass-finlandia-nato",
+      "pending": true
+    }
+  ],
+  "collectionId": "2026-11-14-mattina",
   "reserveCounts": {
     "Politica": 0,
     "Esteri": 0,
@@ -42,13 +64,13 @@
   "photosAvailable": 0,
   "categoryProgress": {
     "politica": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "esteri": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false
