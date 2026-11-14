@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-14",
-  "checkedAt": "2026-11-14T10:33:43.355Z",
+  "checkedAt": "2026-11-14T10:34:48.491Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -17,18 +17,14 @@
     "esteri",
     "economia",
     "cronaca",
+    "roma",
     "cultura",
     "tecnologia",
     "sport"
   ],
   "inProgress": [],
   "missing": [],
-  "invalid": [
-    {
-      "slug": "roma",
-      "reason": "Il blocco completo deve contenere 5 notizie distinte"
-    }
-  ],
+  "invalid": [],
   "stories": [
     {
       "id": "politica-manovra-scuola-sindacati",
@@ -149,6 +145,36 @@
       "category": "Cronaca",
       "title": "Maltempo, allerta arancione in Emilia-Romagna e gialla in cinque regioni",
       "eventKey": "protezione-civile-allerta-arancione-emilia-romagna-14nov2026"
+    },
+    {
+      "id": "roma-raffrescamento-nidi-scuole-2026",
+      "category": "Roma",
+      "title": "Roma investe sei milioni per raffrescare nidi e scuole dell'infanzia",
+      "eventKey": "roma-piano-raffrescamento-nidi-scuole-6-milioni"
+    },
+    {
+      "id": "roma-omicidio-torpignattara-novembre",
+      "category": "Roma",
+      "title": "Torpignattara, uomo ucciso dopo una lite per denaro: indagini a Roma",
+      "eventKey": "omicidio-torpignattara-via-baracca-13-novembre-2026"
+    },
+    {
+      "id": "roma-atac-aielli-interim",
+      "category": "Roma",
+      "title": "Atac, Paolo Aielli assume ad interim la direzione del personale",
+      "eventKey": "atac-aielli-interim"
+    },
+    {
+      "id": "roma-garbatella-olimpiadi-centri-anziani",
+      "category": "Roma",
+      "title": "A Garbatella partono le Olimpiadi dei centri anziani",
+      "eventKey": "garbatella-olimpiadi-centri-anziani"
+    },
+    {
+      "id": "roma-monte-mario-albero-caduto",
+      "category": "Roma",
+      "title": "Monte Mario, il vento abbatte un albero e danneggia auto parcheggiate",
+      "eventKey": "roma-monte-mario-caduta-albero-auto-14nov2026"
     },
     {
       "id": "cultura-the-spot-prime-immagini",
@@ -316,7 +342,7 @@
       "complete": false
     },
     "roma": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
@@ -340,6 +366,7 @@
       "complete": false
     }
   },
+  "photosMissing": 4,
   "preparation": "in-preparazione",
   "message": "Edizione in preparazione",
   "needsPublication": false,

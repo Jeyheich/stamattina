@@ -3,7 +3,6 @@
   "editionDate": "2026-11-14",
   "collectionId": "2026-11-14-mattina",
   "category": "Roma",
-  "status": "in-progress",
   "lastAttemptAt": "2026-11-14T10:32:34.806Z",
   "articles": [
     {
@@ -115,5 +114,6 @@
     }
   ],
   "reserveArticles": [],
-  "reserveDraft": []
+  "reserveDraft": [],
+  "completedAt": "2026-11-14T10:33:44.793Z"
 }
