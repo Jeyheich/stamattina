@@ -4,7 +4,7 @@
   "collectionId": "2026-11-14-mattina",
   "category": "Roma",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-14T10:29:42.467Z",
+  "lastAttemptAt": "2026-11-14T10:32:24.053Z",
   "articles": [
     {
       "id": "roma-raffrescamento-nidi-scuole-2026",
@@ -48,6 +48,48 @@
         "accessCheckedAt": "2026-11-14T10:29:42.467Z",
         "dateEvidence": "La pagina originale reca 14 Novembre 2026 alle 00:15.",
         "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    },
+    {
+      "id": "roma-atac-aielli-interim",
+      "eventKey": "atac-aielli-interim",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Atac, Paolo Aielli assume ad interim la direzione del personale",
+      "summary": "Dal 15 novembre il direttore generale Paolo Aielli subentra a Marco Stramaccioni. Il dirigente Mario Marinelli seguirà le attività operative e i rapporti con i sindacati.",
+      "body": [
+        "Dal 15 novembre il direttore generale Paolo Aielli subentra a Marco Stramaccioni. Il dirigente Mario Marinelli seguirà le attività operative e i rapporti con i sindacati."
+      ],
+      "publishedAt": "2026-11-14",
+      "verifiedAt": "2026-11-14T10:32:24.053Z",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/politica/paolo-aielli-responsabile-personale-atac-interim.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:32:24.053Z",
+        "dateEvidence": "Data 2026-11-14 nei metadati della pagina originale riletta.",
+        "reviewedBy": "Lola, rilettura della fonte originale"
+      }
+    },
+    {
+      "id": "roma-garbatella-olimpiadi-centri-anziani",
+      "eventKey": "garbatella-olimpiadi-centri-anziani",
+      "category": "Roma",
+      "status": "verified",
+      "title": "A Garbatella partono le Olimpiadi dei centri anziani",
+      "summary": "Trentadue squadre dei municipi romani hanno partecipato al torneo inaugurale di burraco al Centro anziani Pullino. L’iniziativa di Auser Lazio è intitolata a Luigi Petroselli.",
+      "body": [
+        "Trentadue squadre dei municipi romani hanno partecipato al torneo inaugurale di burraco al Centro anziani Pullino. L’iniziativa di Auser Lazio è intitolata a Luigi Petroselli."
+      ],
+      "publishedAt": "2026-11-14",
+      "verifiedAt": "2026-11-14T10:32:24.053Z",
+      "source": {
+        "name": "RomaToday",
+        "url": "https://www.romatoday.it/attualita/olimpiadi-anziani-roma-municipi-garbatella-burraco-video.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:32:24.053Z",
+        "dateEvidence": "Data 2026-11-14 nei metadati della pagina originale riletta.",
+        "reviewedBy": "Lola, rilettura della fonte originale"
       }
     }
   ],
