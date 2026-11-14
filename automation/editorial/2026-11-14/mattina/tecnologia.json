@@ -3,8 +3,8 @@
   "editionDate": "2026-11-14",
   "collectionId": "2026-11-14-mattina",
   "category": "Tecnologia · AI",
-  "status": "complete",
-  "lastAttemptAt": "2026-11-14T09:30:38.060Z",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-14T10:20:19.037865Z",
   "articles": [
     {
       "id": "tecnologia-chatgpt-wallet-agenti-acquisti",
@@ -113,6 +113,28 @@
     }
   ],
   "reserveArticles": [],
-  "reserveDraft": [],
+  "reserveDraft": [
+    {
+      "id": "tecnologia-petit-planet-sottotitoli-italiani",
+      "eventKey": "petit-planet-localizzazione-italiana-lancio",
+      "category": "Tecnologia · AI",
+      "status": "verified",
+      "title": "Petit Planet avrà sottotitoli italiani al lancio",
+      "summary": "HoYoverse conferma i sottotitoli italiani per Petit Planet, gioco gratuito in arrivo il 4 dicembre 2026 su PC, Android e iOS. Una versione per Nintendo Switch 2 è prevista nel 2027.",
+      "body": [
+        "Il gioco di HoYoverse avrà sottotitoli in italiano fin dal debutto del 4 dicembre 2026 su PC, Android e iOS. Gli sviluppatori indicano anche un'uscita su Nintendo Switch 2 nel corso del 2027."
+      ],
+      "publishedAt": "2026-11-14T09:26:00+01:00",
+      "verifiedAt": "2026-11-14T10:20:19.037865Z",
+      "source": {
+        "name": "Everyeye",
+        "url": "https://www.everyeye.it/notizie/petit-planet-gioco-gratis-stile-animal-crossing-italiano-911104.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:20:19.037865Z",
+        "dateEvidence": "Pagina acquisita nel dossier GitHub: 14 novembre 2026, 09:26 Europe/Rome; quattro paragrafi editoriali disponibili.",
+        "reviewedBy": "Verifica automatizzata ChatGPT"
+      }
+    }
+  ],
   "completedAt": "2026-11-14T09:30:38.060Z"
 }
