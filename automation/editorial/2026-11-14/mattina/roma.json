@@ -4,7 +4,7 @@
   "collectionId": "2026-11-14-mattina",
   "category": "Roma",
   "status": "in-progress",
-  "lastAttemptAt": "2026-11-14T10:32:24.053Z",
+  "lastAttemptAt": "2026-11-14T10:32:34.806Z",
   "articles": [
     {
       "id": "roma-raffrescamento-nidi-scuole-2026",
@@ -90,6 +90,27 @@
         "accessCheckedAt": "2026-11-14T10:32:24.053Z",
         "dateEvidence": "Data 2026-11-14 nei metadati della pagina originale riletta.",
         "reviewedBy": "Lola, rilettura della fonte originale"
+      }
+    },
+    {
+      "id": "roma-monte-mario-albero-caduto",
+      "eventKey": "roma-monte-mario-caduta-albero-auto-14nov2026",
+      "category": "Roma",
+      "status": "verified",
+      "title": "Monte Mario, il vento abbatte un albero e danneggia auto parcheggiate",
+      "summary": "Un albero ad alto fusto è caduto nella zona di Monte Mario, a Roma, durante una giornata di forte vento, colpendo alcune automobili in sosta.",
+      "body": [
+        "La notizia è stata pubblicata da RaiNews il 14 novembre, con un video dedicato all'episodio. Non sono disponibili nella fonte informazioni verificate su eventuali feriti o sul numero esatto dei veicoli coinvolti."
+      ],
+      "publishedAt": "2026-11-14",
+      "verifiedAt": "2026-11-14T10:32:34.806Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/video/2026/11/roma-cade-un-albero-a-monte-mario-danneggiate-alcune-auto-in-sosta-d3427e21-220c-4b6e-b23f-170993ae628d.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-14T10:32:34.806Z",
+        "dateEvidence": "La pagina RaiNews indica 14/11/2026.",
+        "reviewedBy": "Verifica ChatGPT"
       }
     }
   ],
