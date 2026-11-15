@@ -3,7 +3,7 @@
   "editionDate": "2026-11-15",
   "collectionId": "2026-11-15-mattina",
   "category": "Cultura · Teatro · Cinema",
-  "lastAttemptAt": "2026-11-15T06:16:49.615Z",
+  "lastAttemptAt": "2026-11-15T07:19:59.211Z",
   "articles": [
     {
       "id": "cultura-fatherland-11-nomination-efa-2026",
@@ -111,8 +111,73 @@
       }
     }
   ],
-  "reserveArticles": [],
-  "reserveDraft": [
+  "reserveArticles": [
+    {
+      "id": "cultura-christian-cousins-morte-2026",
+      "eventKey": "christian-cousins-morte-annunciata-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Morto Christian Cousins, ex attore bambino di Un poliziotto alle elementari",
+      "summary": "La famiglia ha annunciato la morte a 43 anni di Christian Cousins, interprete bambino che recitò insieme al gemello Joseph in California e nel film con Arnold Schwarzenegger.",
+      "body": [
+        "L'attore era stato trovato senza vita nella sua abitazione in California il 20 ottobre; la notizia è stata resa pubblica a novembre. La polizia non ha riscontrato elementi sospetti e le cause del decesso non sono state comunicate ufficialmente.",
+        "Dopo l'esperienza televisiva e cinematografica aveva lasciato la recitazione per lavorare nel settore dell'arredamento."
+      ],
+      "publishedAt": "2026-11-14T15:09:00+01:00",
+      "verifiedAt": "2026-11-15T07:19:59.211Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/spettacolo/cinema/2026/11/14/christian-cousins-morto",
+        "access": "free",
+        "accessCheckedAt": "2026-11-15T07:19:59.211Z",
+        "dateEvidence": "Data e ora originali indicate sulla pagina Sky TG24 letta il 15 novembre 2026",
+        "reviewedBy": "ChatGPT, lettura integrale pagina originale"
+      }
+    },
+    {
+      "id": "cultura-sanguara-teaser-2026",
+      "eventKey": "sanguara-mattia-riccio-teaser-novembre-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Sanguara, presentato il teaser del folk horror girato nei Monti Simbruini",
+      "summary": "Il regista Mattia Riccio ha presentato il primo teaser di Sanguara, un film horror ambientato tra i boschi dei Monti Simbruini e atteso nel 2027.",
+      "body": [
+        "La storia segue due studenti di antropologia alla ricerca di tracce di una comunità etrusca scomparsa. Le riprese si sono svolte tra Monte Livata e Jenne.",
+        "Il film è in post-produzione e comprende nel cast Giorgia Palmucci, Daniel De Rossi, Alessandro Sardelli e Davide Lo Coco."
+      ],
+      "publishedAt": "2026-11-13T18:38:00+01:00",
+      "verifiedAt": "2026-11-15T07:19:59.211Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/spettacolo/cinema/2026/11/13/sanguara-film-trailer",
+        "access": "free",
+        "accessCheckedAt": "2026-11-15T07:19:59.211Z",
+        "dateEvidence": "Data e ora originali indicate sulla pagina Sky TG24 letta il 15 novembre 2026",
+        "reviewedBy": "ChatGPT, lettura integrale pagina originale"
+      }
+    },
+    {
+      "id": "cultura-the-spot-prime-immagini-2026",
+      "eventKey": "the-spot-a24-prime-immagini-hulu-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "The Spot, prime immagini del thriller con Claire Danes ed Ewan McGregor",
+      "summary": "Hulu ha diffuso le prime immagini della serie A24 The Spot, che racconta le conseguenze di un incidente mortale sulla vita di una coppia.",
+      "body": [
+        "La serie debutterà negli Stati Uniti il 13 gennaio su Hulu; per l'Italia è prevista la distribuzione su Disney+, ma non è stata ancora comunicata una data.",
+        "Claire Danes ed Ewan McGregor interpretano una chirurga e un insegnante coinvolti in un'indagine che mette in crisi il loro matrimonio. La serie è ideata da Ed Solomon e diretta da Ariel Kleiman."
+      ],
+      "publishedAt": "2026-11-13T17:36:00+01:00",
+      "verifiedAt": "2026-11-15T07:19:59.211Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/spettacolo/serie-tv/2026/11/13/the-spot-data-uscita",
+        "access": "free",
+        "accessCheckedAt": "2026-11-15T07:19:59.211Z",
+        "dateEvidence": "Data e ora originali indicate sulla pagina Sky TG24 letta il 15 novembre 2026",
+        "reviewedBy": "ChatGPT, lettura integrale pagina originale"
+      }
+    },
     {
       "id": "cultura-due-cuori-in-affitto-fine-riprese-2026",
       "eventKey": "cultura-due-cuori-in-affitto-fine-riprese-2026",
@@ -156,5 +221,6 @@
       }
     }
   ],
+  "reserveDraft": [],
   "completedAt": "2026-11-15T06:16:24.121Z"
 }
