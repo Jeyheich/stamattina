@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "editionDate": "2026-11-15",
+  "collectionId": "2026-11-15-mattina",
+  "category": "Politica",
+  "status": "in-progress",
+  "lastAttemptAt": "2026-11-15T05:10:13.898Z",
+  "articles": [
+    {
+      "id": "politica-bot-social-politici-italiani-14nov",
+      "eventKey": "bot-commenti-automatici-salvini-fidanza-nardella-20261114",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Commenti automatici sospetti sui profili di politici di maggioranza e opposizione",
+      "summary": "Messaggi ripetitivi che sembrano risposte di sistemi di intelligenza artificiale sono comparsi sui social di Salvini, Fidanza e Nardella. Si ipotizza un errore in una rete automatizzata, ma l'origine degli account non è accertata.",
+      "body": [
+        "Sotto diversi post politici sono apparsi commenti simili, alcuni contenenti formule di rifiuto tipiche degli assistenti AI. Sky TG24 riporta l'ipotesi tecnica di una rete di bot malfunzionante, senza una verifica indipendente dell'identità dei responsabili.",
+        "La Lega ha chiesto chiarimenti e Claudio Borghi ha attribuito gli attacchi ad ambienti italiani: si tratta di una dichiarazione politica, non di una responsabilità dimostrata."
+      ],
+      "publishedAt": "2026-11-14T17:06:00+01:00",
+      "verifiedAt": "2026-11-15T05:10:13.898Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/11/14/bot-social-politici-italia",
+        "access": "free",
+        "accessCheckedAt": "2026-11-15T05:10:13.898Z",
+        "dateEvidence": "Data originale in pagina: 14 novembre 2026 ore 17:06",
+        "reviewedBy": "Lettura diretta dell'articolo originale"
+      }
+    },
+    {
+      "id": "politica-difesa-gcap-germania-smentita",
+      "eventKey": "ministero-difesa-smentita-ft-germania-gcap-20261114",
+      "category": "Politica",
+      "status": "verified",
+      "title": "Programma GCAP, la Difesa italiana smentisce un veto all'ingresso della Germania",
+      "summary": "Il ministero della Difesa contesta la ricostruzione del Financial Times secondo cui Roma avrebbe ostacolato l'adesione tedesca al programma aeronautico GCAP. Il dicastero presenta lo status di osservatore come passaggio verso una partecipazione piena.",
+      "body": [
+        "Dopo le indiscrezioni del Financial Times, la Difesa ha precisato che l'Italia sostiene l'ingresso della Germania nel progetto per il caccia di nuova generazione, già condiviso con Regno Unito e Giappone.",
+        "Secondo la nota ministeriale, l'ipotesi di una prima adesione come osservatore servirebbe a consentire lo scambio di informazioni senza rallentare il programma. La smentita è la posizione ufficiale del ministero, non una verifica indipendente delle trattative."
+      ],
+      "publishedAt": "2026-11-14T16:31:00+01:00",
+      "verifiedAt": "2026-11-15T05:10:13.898Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/politica/2026/11/14/progetto-gcap-italia-germania",
+        "access": "free",
+        "accessCheckedAt": "2026-11-15T05:10:13.898Z",
+        "dateEvidence": "Data originale in pagina: 14 novembre 2026 ore 16:31",
+        "reviewedBy": "Lettura diretta dell'articolo originale"
+      }
+    }
+  ],
+  "reserveArticles": [],
+  "reserveDraft": []
+}
