@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-15",
-  "checkedAt": "2026-11-15T05:10:42.520Z",
+  "checkedAt": "2026-11-15T05:18:12.925Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -13,7 +13,10 @@
     "tecnologia",
     "sport"
   ],
-  "completed": [],
+  "completed": [
+    "economia",
+    "cronaca"
+  ],
   "inProgress": [
     {
       "slug": "politica",
@@ -22,8 +25,6 @@
   ],
   "missing": [
     "esteri",
-    "economia",
-    "cronaca",
     "roma",
     "cultura",
     "tecnologia",
@@ -44,6 +45,66 @@
       "title": "Programma GCAP, la Difesa italiana smentisce un veto all'ingresso della Germania",
       "eventKey": "ministero-difesa-smentita-ft-germania-gcap-20261114",
       "pending": true
+    },
+    {
+      "id": "economia-boe-huw-pill-tassi-14nov2026",
+      "category": "Economia",
+      "title": "Banca d'Inghilterra, il capo economista prevede altri rialzi dei tassi",
+      "eventKey": "boe-huw-pill-tassi-14nov2026"
+    },
+    {
+      "id": "economia-norfolk-vanguard-greenpeace-massi-fondale-2026",
+      "category": "Economia",
+      "title": "Eolico offshore, i massi di Greenpeace complicano il progetto Norfolk Vanguard",
+      "eventKey": "norfolk-vanguard-greenpeace-massi-fondale-2026"
+    },
+    {
+      "id": "economia-piccole-imprese-influencer-richieste-omaggi-2026",
+      "category": "Economia",
+      "title": "Piccole imprese contro le pressioni di alcuni influencer",
+      "eventKey": "piccole-imprese-influencer-richieste-omaggi-2026"
+    },
+    {
+      "id": "economia-microsoft-365-ripristino-servizi-globali-14nov2026",
+      "category": "Economia",
+      "title": "Microsoft 365 ripristinato dopo un'interruzione globale",
+      "eventKey": "microsoft-365-ripristino-servizi-globali-14nov2026"
+    },
+    {
+      "id": "economia-faa-stop-voli-manutenzione-14nov2026",
+      "category": "Economia",
+      "title": "Trasporto aereo USA, cancellazioni dopo il blocco nazionale della FAA",
+      "eventKey": "faa-stop-voli-manutenzione-14nov2026"
+    },
+    {
+      "id": "cronaca-milano-92enne-falso-carabiniere-due-fermi-2026",
+      "category": "Cronaca",
+      "title": "Milano, due fermati per la morte di un 92enne durante una rapina",
+      "eventKey": "milano-92enne-falso-carabiniere-due-fermi-2026"
+    },
+    {
+      "id": "cronaca-san-fili-galleria-fiego-cinque-morti-2026",
+      "category": "Cronaca",
+      "title": "Cosenza, cinque morti nello scontro frontale nella galleria Fiego",
+      "eventKey": "san-fili-galleria-fiego-cinque-morti-2026"
+    },
+    {
+      "id": "cronaca-rapina-negozio-off-time-carte-pokemon-roma-2026",
+      "category": "Cronaca",
+      "title": "Roma, rapinato un negozio di carte da collezione sulla via Appia Nuova",
+      "eventKey": "rapina-negozio-off-time-carte-pokemon-roma-2026"
+    },
+    {
+      "id": "cronaca-allerta-meteo-gialla-12-regioni-15nov2026",
+      "category": "Cronaca",
+      "title": "Maltempo, allerta gialla in dodici regioni per il 15 novembre",
+      "eventKey": "allerta-meteo-gialla-12-regioni-15nov2026"
+    },
+    {
+      "id": "cronaca-digos-perquisizioni-proteste-ottobre-14nov2026",
+      "category": "Cronaca",
+      "title": "Proteste violente, cinquanta perquisizioni della Digos in varie città",
+      "eventKey": "digos-perquisizioni-proteste-ottobre-14nov2026"
     }
   ],
   "collectionId": "2026-11-15-mattina",
@@ -73,13 +134,13 @@
       "complete": false
     },
     "economia": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cronaca": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
