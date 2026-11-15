@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-15",
-  "checkedAt": "2026-11-15T05:19:44.638Z",
+  "checkedAt": "2026-11-15T06:05:49.951Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -21,14 +21,17 @@
     {
       "slug": "politica",
       "count": 2
+    },
+    {
+      "slug": "sport",
+      "count": 1
     }
   ],
   "missing": [
     "esteri",
     "roma",
     "cultura",
-    "tecnologia",
-    "sport"
+    "tecnologia"
   ],
   "invalid": [],
   "stories": [
@@ -44,6 +47,13 @@
       "category": "Politica",
       "title": "Programma GCAP, la Difesa italiana smentisce un veto all'ingresso della Germania",
       "eventKey": "ministero-difesa-smentita-ft-germania-gcap-20261114",
+      "pending": true
+    },
+    {
+      "id": "sport-levi-slalom-16-azzurri-15nov",
+      "category": "Sport",
+      "title": "Sci alpino, a Levi sedici azzurri per i primi slalom stagionali",
+      "eventKey": "sci-levi-2026-slalom-16-azzurri-rossetti-vinatzer",
       "pending": true
     },
     {
@@ -164,7 +174,7 @@
       "complete": false
     },
     "sport": {
-      "base": 0,
+      "base": 1,
       "reserve": 0,
       "draft": 0,
       "complete": false
