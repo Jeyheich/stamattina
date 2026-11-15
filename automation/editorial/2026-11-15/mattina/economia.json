@@ -3,7 +3,7 @@
   "editionDate": "2026-11-15",
   "collectionId": "2026-11-15-mattina",
   "category": "Economia",
-  "lastAttemptAt": "2026-11-15T05:17:48.645Z",
+  "lastAttemptAt": "2026-11-15T05:18:18.880Z",
   "articles": [
     {
       "id": "economia-boe-huw-pill-tassi-14nov2026",
@@ -117,6 +117,51 @@
     }
   ],
   "reserveArticles": [],
-  "reserveDraft": [],
+  "reserveDraft": [
+    {
+      "id": "economia-mercati-previsione-sanita-polymarket-kalshi-2026",
+      "eventKey": "mercati-previsione-sanita-polymarket-kalshi-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Mercati predittivi, contratti anche su vaccini e malattie negli Stati Uniti",
+      "summary": "Le piattaforme Polymarket e Kalshi propongono contratti sull'esito di decisioni sanitarie, sperimentazioni e andamento di malattie.",
+      "body": [
+        "L'offerta comprende previsioni su approvazioni di farmaci, raccomandazioni vaccinali e casi di morbillo. Esperti intervistati dal Guardian segnalano rischi di utilizzo di informazioni non pubbliche e conflitti d'interesse.",
+        "Le piattaforme sostengono di operare nell'ambito dei mercati dei derivati; il confine regolatorio con il gioco d'azzardo resta contestato in diversi Stati americani."
+      ],
+      "publishedAt": "2026-11-14",
+      "verifiedAt": "2026-11-15T05:18:18.880Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/14/measles-kalshi-polymarket-betting",
+        "access": "free",
+        "accessCheckedAt": "2026-11-15T05:18:18.880Z",
+        "dateEvidence": "14 novembre 2026 sulla pagina originale",
+        "reviewedBy": "ChatGPT, lettura originale"
+      }
+    },
+    {
+      "id": "economia-uk-ue-burnham-accordi-commercio-cibo-2026",
+      "eventKey": "uk-ue-burnham-accordi-commercio-cibo-2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Regno Unito, Burnham punta a un'intesa commerciale con l'Unione europea",
+      "summary": "Il premier britannico Andy Burnham sostiene che un nuovo accordo con Bruxelles potrebbe ridurre i prezzi alimentari e favorire gli esportatori.",
+      "body": [
+        "Alla conferenza laburista in Galles ha anticipato il vertice del 20 novembre, durante il quale si discuteranno alimentazione, agricoltura, emissioni e mobilità giovanile.",
+        "Il governo stima un possibile beneficio sul PIL dello 0,4%, ma l'intesa non è ancora conclusa e restano aperti i negoziati sulle condizioni di accesso ai programmi europei."
+      ],
+      "publishedAt": "2026-11-14",
+      "verifiedAt": "2026-11-15T05:18:18.880Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+        "access": "free",
+        "accessCheckedAt": "2026-11-15T05:18:18.880Z",
+        "dateEvidence": "14 novembre 2026 sulla pagina originale",
+        "reviewedBy": "ChatGPT, lettura originale"
+      }
+    }
+  ],
   "completedAt": "2026-11-15T05:17:48.645Z"
 }

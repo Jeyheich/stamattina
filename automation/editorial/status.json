@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-15",
-  "checkedAt": "2026-11-15T05:18:12.925Z",
+  "checkedAt": "2026-11-15T05:19:44.638Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -136,7 +136,7 @@
     "economia": {
       "base": 5,
       "reserve": 0,
-      "draft": 0,
+      "draft": 2,
       "complete": false
     },
     "cronaca": {
