@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-15",
-  "checkedAt": "2026-11-15T07:20:24.690Z",
+  "checkedAt": "2026-11-15T07:21:50.118Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -258,7 +258,7 @@
     "cronaca": {
       "base": 5,
       "reserve": 0,
-      "draft": 0,
+      "draft": 2,
       "complete": false
     },
     "roma": {

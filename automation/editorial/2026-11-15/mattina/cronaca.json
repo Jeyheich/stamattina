@@ -3,7 +3,7 @@
   "editionDate": "2026-11-15",
   "collectionId": "2026-11-15-mattina",
   "category": "Cronaca",
-  "lastAttemptAt": "2026-11-15T05:18:05.450Z",
+  "lastAttemptAt": "2026-11-15T07:20:25.788Z",
   "articles": [
     {
       "id": "cronaca-milano-92enne-falso-carabiniere-due-fermi-2026",
@@ -117,6 +117,51 @@
     }
   ],
   "reserveArticles": [],
-  "reserveDraft": [],
+  "reserveDraft": [
+    {
+      "id": "cronaca-pietracatella-ricina-analisi-berlino",
+      "eventKey": "pietracatella-ricina-reperti-berlino-nov2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Pietracatella, nuove analisi a Berlino nell'inchiesta sulle morti per ricina",
+      "summary": "Gli investigatori ascoltano un tecnico di laboratorio e preparano accertamenti forensi su cinque reperti sequestrati nell'abitazione di due vittime di avvelenamento.",
+      "body": [
+        "Le analisi sono previste il 19 e 20 novembre al Robert Koch Institut di Berlino: prima verranno ricercate impronte e tracce biologiche, per non comprometterle con i successivi esami tossicologici.",
+        "L'indagine sulla morte di Antonella Di Ielsi e della figlia Sara Di Vita resta aperta; la provenienza della ricina e le eventuali responsabilità sono ancora da chiarire."
+      ],
+      "publishedAt": "2026-11-14",
+      "verifiedAt": "2026-11-15T07:20:25.788Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/morte-avvelenate-a-pietracatella-ascoltato-un-tecnico-di-laboratorio-nuove-analisi-a-berlino-ab687b6c-d9dc-42ba-bc52-f1d46e40f701.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-15T07:20:25.788Z",
+        "dateEvidence": "La pagina originale indica 14/11/2026",
+        "reviewedBy": "ChatGPT, pagina originale letta"
+      }
+    },
+    {
+      "id": "cronaca-monica-busetto-scagionata-rientro",
+      "eventKey": "monica-busetto-revisione-assoluzione-ritorno-casa-nov2026",
+      "category": "Cronaca",
+      "status": "verified",
+      "title": "Monica Busetto torna a casa dopo la revisione della condanna per omicidio",
+      "summary": "La Corte d'Assise di Trento ha scagionato Monica Busetto nel giudizio di revisione per l'omicidio di Lida Taffi Pamio del 2012.",
+      "body": [
+        "La donna, detenuta per molti anni, ha incontrato i giornalisti a Venezia dopo il ritorno in libertà. Il caso è stato riaperto anche grazie a nuove verifiche sulle dimensioni di una collanina usata come prova.",
+        "I difensori valuteranno un'eventuale richiesta di risarcimento dopo il deposito delle motivazioni e il passaggio in giudicato della decisione."
+      ],
+      "publishedAt": "2026-11-14",
+      "verifiedAt": "2026-11-15T07:20:25.788Z",
+      "source": {
+        "name": "RaiNews",
+        "url": "https://www.rainews.it/articoli/2026/11/infermiera-condannata-per-omicidio-scagionata-dopo-14-anni-carcere-monica-busetto-tornata-a-casa-dc75d69d-4620-4220-b7c8-6cf64a2ef13a.html",
+        "access": "free",
+        "accessCheckedAt": "2026-11-15T07:20:25.788Z",
+        "dateEvidence": "La pagina originale indica 14/11/2026",
+        "reviewedBy": "ChatGPT, pagina originale letta"
+      }
+    }
+  ],
   "completedAt": "2026-11-15T05:18:05.450Z"
 }
