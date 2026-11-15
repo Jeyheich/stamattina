@@ -3,7 +3,7 @@
   "editionDate": "2026-11-15",
   "collectionId": "2026-11-15-mattina",
   "category": "Cultura · Teatro · Cinema",
-  "lastAttemptAt": "2026-11-15T06:16:24.121Z",
+  "lastAttemptAt": "2026-11-15T06:16:49.615Z",
   "articles": [
     {
       "id": "cultura-fatherland-11-nomination-efa-2026",
@@ -112,6 +112,49 @@
     }
   ],
   "reserveArticles": [],
-  "reserveDraft": [],
+  "reserveDraft": [
+    {
+      "id": "cultura-due-cuori-in-affitto-fine-riprese-2026",
+      "eventKey": "cultura-due-cuori-in-affitto-fine-riprese-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Concluse le riprese di Due cuori in affitto per Prime Video",
+      "summary": "L'adattamento televisivo del romanzo di Felicia Kingsley ha concluso le riprese in Sardegna, con Jacqueline Luna e Giacomo Gianniotti nei ruoli principali.",
+      "body": [
+        "La regia è di Laura Chiossone. La data di distribuzione della serie non è stata ancora annunciata."
+      ],
+      "publishedAt": "2026-11-14T10:35:00+01:00",
+      "verifiedAt": "2026-11-15T06:16:49.615Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/spettacolo/serie-tv/2026/11/14/due-cuori-in-affitto-serie",
+        "access": "free",
+        "accessCheckedAt": "2026-11-15T06:16:49.615Z",
+        "dateEvidence": "Data originale visibile sulla pagina Sky TG24 del 14 novembre 2026",
+        "reviewedBy": "ChatGPT, pagina originale letta"
+      }
+    },
+    {
+      "id": "cultura-883-episodio-sette-recensione-2026",
+      "eventKey": "cultura-883-episodio-sette-recensione-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "status": "verified",
+      "title": "Nord Sud Ovest Est, il settimo episodio racconta la frattura tra Pezzali e Repetto",
+      "summary": "La recensione del penultimo episodio della serie Sky sugli 883 evidenzia come il successo del duo si accompagni alla crescente distanza fra i due protagonisti.",
+      "body": [
+        "La puntata mette al centro il Festivalbar del 1993 e il percorso verso la separazione artistica. La ricostruzione televisiva prende libertà narrative rispetto ai fatti storici."
+      ],
+      "publishedAt": "2026-11-14T09:00:00+01:00",
+      "verifiedAt": "2026-11-15T06:16:49.615Z",
+      "source": {
+        "name": "Sky TG24",
+        "url": "https://tg24.sky.it/spettacolo/serie-tv/2026/11/14/883-serie-tv-nord-sud-ovest-est-episodio-7-recensione",
+        "access": "free",
+        "accessCheckedAt": "2026-11-15T06:16:49.615Z",
+        "dateEvidence": "Data originale visibile sulla pagina Sky TG24 del 14 novembre 2026",
+        "reviewedBy": "ChatGPT, pagina originale letta"
+      }
+    }
+  ],
   "completedAt": "2026-11-15T06:16:24.121Z"
 }
