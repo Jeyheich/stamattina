@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-15",
-  "checkedAt": "2026-11-15T07:02:15.485Z",
+  "checkedAt": "2026-11-15T07:20:24.690Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -9,7 +9,6 @@
     "economia",
     "cronaca",
     "roma",
-    "cultura",
     "tecnologia",
     "sport"
   ],
@@ -192,6 +191,36 @@
       "category": "Cultura · Teatro · Cinema",
       "title": "Netflix rinnova Virgin River per una nona stagione",
       "eventKey": "virgin-river-nona-stagione-netflix"
+    },
+    {
+      "id": "cultura-christian-cousins-morte-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Morto Christian Cousins, ex attore bambino di Un poliziotto alle elementari",
+      "eventKey": "christian-cousins-morte-annunciata-novembre-2026"
+    },
+    {
+      "id": "cultura-sanguara-teaser-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Sanguara, presentato il teaser del folk horror girato nei Monti Simbruini",
+      "eventKey": "sanguara-mattia-riccio-teaser-novembre-2026"
+    },
+    {
+      "id": "cultura-the-spot-prime-immagini-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "The Spot, prime immagini del thriller con Claire Danes ed Ewan McGregor",
+      "eventKey": "the-spot-a24-prime-immagini-hulu-2026"
+    },
+    {
+      "id": "cultura-due-cuori-in-affitto-fine-riprese-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Concluse le riprese di Due cuori in affitto per Prime Video",
+      "eventKey": "cultura-due-cuori-in-affitto-fine-riprese-2026"
+    },
+    {
+      "id": "cultura-883-episodio-sette-recensione-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Nord Sud Ovest Est, il settimo episodio racconta la frattura tra Pezzali e Repetto",
+      "eventKey": "cultura-883-episodio-sette-recensione-2026"
     }
   ],
   "collectionId": "2026-11-15-mattina",
@@ -201,7 +230,7 @@
     "Economia": 0,
     "Cronaca": 0,
     "Roma": 0,
-    "Cultura · Teatro · Cinema": 0,
+    "Cultura · Teatro · Cinema": 5,
     "Tecnologia · AI": 0,
     "Sport": 0
   },
@@ -223,7 +252,7 @@
     "economia": {
       "base": 5,
       "reserve": 0,
-      "draft": 2,
+      "draft": 3,
       "complete": false
     },
     "cronaca": {
@@ -240,9 +269,9 @@
     },
     "cultura": {
       "base": 5,
-      "reserve": 0,
-      "draft": 2,
-      "complete": false
+      "reserve": 5,
+      "draft": 0,
+      "complete": true
     },
     "tecnologia": {
       "base": 0,

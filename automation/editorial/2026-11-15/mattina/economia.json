@@ -3,7 +3,7 @@
   "editionDate": "2026-11-15",
   "collectionId": "2026-11-15-mattina",
   "category": "Economia",
-  "lastAttemptAt": "2026-11-15T05:18:18.880Z",
+  "lastAttemptAt": "2026-11-15T07:20:10.912Z",
   "articles": [
     {
       "id": "economia-boe-huw-pill-tassi-14nov2026",
@@ -160,6 +160,28 @@
         "accessCheckedAt": "2026-11-15T05:18:18.880Z",
         "dateEvidence": "14 novembre 2026 sulla pagina originale",
         "reviewedBy": "ChatGPT, lettura originale"
+      }
+    },
+    {
+      "id": "economia-gymshark-conditioning-club-marchio-2026",
+      "eventKey": "gymshark-conditioning-club-contenzioso-marchio-nov2026",
+      "category": "Economia",
+      "status": "verified",
+      "title": "Gymshark, contenzioso sul marchio con una piccola palestra britannica",
+      "summary": "Il gruppo di abbigliamento sportivo Gymshark e una palestra del Gloucestershire si contendono i diritti sul nome The Conditioning Club davanti all'ufficio britannico dei marchi.",
+      "body": [
+        "La palestra, fondata da John Watson a Fairford, aveva registrato il proprio nome cinque anni prima. Gymshark ha chiesto registrazioni in altre classi e contesta la validità del marchio originario.",
+        "La controversia è ancora in corso: il piccolo operatore segnala costi legali vicini a 30.000 sterline. Non risulta una decisione definitiva sul caso."
+      ],
+      "publishedAt": "2026-11-15T01:00:00-05:00",
+      "verifiedAt": "2026-11-15T07:20:10.912Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/law/2026/nov/15/gymshark-trademark-battle-the-conditioning-club-gloucestershire",
+        "access": "free",
+        "accessCheckedAt": "2026-11-15T07:20:10.912Z",
+        "dateEvidence": "Pubblicato domenica 15 novembre 2026 alle 01:00 EST, come indicato nella pagina originale",
+        "reviewedBy": "ChatGPT, pagina originale letta"
       }
     }
   ],
