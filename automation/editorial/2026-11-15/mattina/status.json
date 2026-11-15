@@ -1,0 +1,116 @@
+{
+  "editionDate": "2026-11-15",
+  "checkedAt": "2026-11-15T05:10:42.520Z",
+  "ready": false,
+  "editorialComplete": false,
+  "reserveMissing": [
+    "politica",
+    "esteri",
+    "economia",
+    "cronaca",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
+  ],
+  "completed": [],
+  "inProgress": [
+    {
+      "slug": "politica",
+      "count": 2
+    }
+  ],
+  "missing": [
+    "esteri",
+    "economia",
+    "cronaca",
+    "roma",
+    "cultura",
+    "tecnologia",
+    "sport"
+  ],
+  "invalid": [],
+  "stories": [
+    {
+      "id": "politica-bot-social-politici-italiani-14nov",
+      "category": "Politica",
+      "title": "Commenti automatici sospetti sui profili di politici di maggioranza e opposizione",
+      "eventKey": "bot-commenti-automatici-salvini-fidanza-nardella-20261114",
+      "pending": true
+    },
+    {
+      "id": "politica-difesa-gcap-germania-smentita",
+      "category": "Politica",
+      "title": "Programma GCAP, la Difesa italiana smentisce un veto all'ingresso della Germania",
+      "eventKey": "ministero-difesa-smentita-ft-germania-gcap-20261114",
+      "pending": true
+    }
+  ],
+  "collectionId": "2026-11-15-mattina",
+  "reserveCounts": {
+    "Politica": 0,
+    "Esteri": 0,
+    "Economia": 0,
+    "Cronaca": 0,
+    "Roma": 0,
+    "Cultura · Teatro · Cinema": 0,
+    "Tecnologia · AI": 0,
+    "Sport": 0
+  },
+  "photoCandidates": [],
+  "photosAvailable": 0,
+  "categoryProgress": {
+    "politica": {
+      "base": 2,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "esteri": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "economia": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "cronaca": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "roma": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "cultura": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "tecnologia": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    },
+    "sport": {
+      "base": 0,
+      "reserve": 0,
+      "draft": 0,
+      "complete": false
+    }
+  },
+  "preparation": "in-preparazione",
+  "message": "Edizione in preparazione",
+  "needsPublication": false,
+  "publicCollectionId": "2026-11-11-mattina"
+}
