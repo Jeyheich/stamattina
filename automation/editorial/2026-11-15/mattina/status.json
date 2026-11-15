@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-15",
-  "checkedAt": "2026-11-15T06:18:16.170Z",
+  "checkedAt": "2026-11-15T07:01:03.316Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -25,12 +25,15 @@
       "count": 2
     },
     {
+      "slug": "esteri",
+      "count": 2
+    },
+    {
       "slug": "sport",
       "count": 1
     }
   ],
   "missing": [
-    "esteri",
     "tecnologia"
   ],
   "invalid": [],
@@ -47,6 +50,20 @@
       "category": "Politica",
       "title": "Programma GCAP, la Difesa italiana smentisce un veto all'ingresso della Germania",
       "eventKey": "ministero-difesa-smentita-ft-germania-gcap-20261114",
+      "pending": true
+    },
+    {
+      "id": "esteri-echenagucia-liberato-venezuela-14nov",
+      "category": "Esteri",
+      "title": "Venezuela, liberato il cittadino italo-venezuelano Daniel Echenagucía",
+      "eventKey": "venezuela-liberazione-daniel-echenagucia-20261114",
+      "pending": true
+    },
+    {
+      "id": "esteri-israele-netanyahu-eisenkot-unita-iran",
+      "category": "Esteri",
+      "title": "Israele, Eisenkot respinge l'appello di Netanyahu a un governo di unità",
+      "eventKey": "netanyahu-eisenkot-proposta-unita-guerra-iran-20261114",
       "pending": true
     },
     {
@@ -198,7 +215,7 @@
       "complete": false
     },
     "esteri": {
-      "base": 0,
+      "base": 2,
       "reserve": 0,
       "draft": 0,
       "complete": false
