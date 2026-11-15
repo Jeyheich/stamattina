@@ -1,6 +1,6 @@
 {
   "editionDate": "2026-11-15",
-  "checkedAt": "2026-11-15T06:05:49.951Z",
+  "checkedAt": "2026-11-15T06:16:55.443Z",
   "ready": false,
   "editorialComplete": false,
   "reserveMissing": [
@@ -15,7 +15,9 @@
   ],
   "completed": [
     "economia",
-    "cronaca"
+    "cronaca",
+    "roma",
+    "cultura"
   ],
   "inProgress": [
     {
@@ -29,8 +31,6 @@
   ],
   "missing": [
     "esteri",
-    "roma",
-    "cultura",
     "tecnologia"
   ],
   "invalid": [],
@@ -115,6 +115,66 @@
       "category": "Cronaca",
       "title": "Proteste violente, cinquanta perquisizioni della Digos in varie città",
       "eventKey": "digos-perquisizioni-proteste-ottobre-14nov2026"
+    },
+    {
+      "id": "roma-domenica-ecologica-15nov2026",
+      "category": "Roma",
+      "title": "Roma, prima domenica ecologica: stop al traffico nella Fascia Verde",
+      "eventKey": "roma-domenica-ecologica-15nov2026"
+    },
+    {
+      "id": "roma-giornata-tevere-delibera-nov2026",
+      "category": "Roma",
+      "title": "Roma istituisce la Giornata del Tevere",
+      "eventKey": "roma-giornata-tevere-delibera-nov2026"
+    },
+    {
+      "id": "roma-accordo-psicologi-lazio-giovani-2026",
+      "category": "Roma",
+      "title": "Accordo triennale tra Roma Capitale e Ordine degli Psicologi del Lazio",
+      "eventKey": "roma-accordo-psicologi-lazio-giovani-2026"
+    },
+    {
+      "id": "roma-al-lavoro-quarticciolo-19nov2026",
+      "category": "Roma",
+      "title": "Roma al Lavoro torna il 19 novembre al Quarticciolo",
+      "eventKey": "roma-al-lavoro-quarticciolo-19nov2026"
+    },
+    {
+      "id": "roma-biblioteca-cornelia-riapertura-2026",
+      "category": "Roma",
+      "title": "Riapre la Biblioteca Cornelia dopo i lavori finanziati dal PNRR",
+      "eventKey": "roma-biblioteca-cornelia-riapertura-2026"
+    },
+    {
+      "id": "cultura-fatherland-11-nomination-efa-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Fatherland guida le candidature agli European Film Awards con undici nomination",
+      "eventKey": "fatherland-11-nomination-efa-2026"
+    },
+    {
+      "id": "cultura-estranea-new-line-remake-2026",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "New Line acquisisce i diritti per il remake statunitense de L'Estranea",
+      "eventKey": "estranea-new-line-remake-2026"
+    },
+    {
+      "id": "cultura-sanremo-2027-big-11-dicembre",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Sanremo 2027, i Big saranno annunciati l'11 dicembre",
+      "eventKey": "sanremo-2027-big-11-dicembre"
+    },
+    {
+      "id": "cultura-margot-robbie-week-of-pain-borgli",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Margot Robbie protagonista del nuovo film di Kristoffer Borgli",
+      "eventKey": "margot-robbie-week-of-pain-borgli"
+    },
+    {
+      "id": "cultura-virgin-river-nona-stagione-netflix",
+      "category": "Cultura · Teatro · Cinema",
+      "title": "Netflix rinnova Virgin River per una nona stagione",
+      "eventKey": "virgin-river-nona-stagione-netflix"
     }
   ],
   "collectionId": "2026-11-15-mattina",
@@ -156,15 +216,15 @@
       "complete": false
     },
     "roma": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
       "draft": 0,
       "complete": false
     },
     "cultura": {
-      "base": 0,
+      "base": 5,
       "reserve": 0,
-      "draft": 0,
+      "draft": 2,
       "complete": false
     },
     "tecnologia": {
